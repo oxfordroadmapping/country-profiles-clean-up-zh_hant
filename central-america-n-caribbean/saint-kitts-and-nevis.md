@@ -4,581 +4,581 @@ _Central America and Caribbean / Countries_
 
 ## Introduction
 
-**Background**<br>
-Carib Indians occupied the islands of the West Indies for hundreds of years before the British and French began settlement in 1623. During the 17th century, Saint Kitts became the premier base for British and French expansion into the Caribbean. The French ceded the territory to the UK in 1713. At the turn of the 18th century, Saint Kitts was the richest British Crown Colony per capita in the Caribbean, a result of the sugar trade. Although small in size and separated by only 3 km (2 mi) of water, Saint Kitts and Nevis were viewed and governed as different states until the late-19th century, when the British forcibly unified them along with the island of Anguilla. In 1967, the island territory of Saint Christopher-Nevis-Anguilla became an associated state of the UK with full internal autonomy. The island of Anguilla rebelled and was allowed to secede in 1971. The remaining islands achieved independence in 1983 as Saint Kitts and Nevis. In 1998, a referendum on Nevis to separate from Saint Kitts fell short of the necessary two-thirds majority.<br>
+### Background
+Carib Indians occupied the islands of the West Indies for hundreds of years before the British and French began settlement in 1623. During the 17th century, Saint Kitts became the premier base for British and French expansion into the Caribbean. The French ceded the territory to the UK in 1713. At the turn of the 18th century, Saint Kitts was the richest British Crown Colony per capita in the Caribbean, a result of the sugar trade. Although small in size and separated by only 3 km (2 mi) of water, Saint Kitts and Nevis were viewed and governed as different states until the late-19th century, when the British forcibly unified them along with the island of Anguilla. In 1967, the island territory of Saint Christopher-Nevis-Anguilla became an associated state of the UK with full internal autonomy. The island of Anguilla rebelled and was allowed to secede in 1971. The remaining islands achieved independence in 1983 as Saint Kitts and Nevis. In 1998, a referendum on Nevis to separate from Saint Kitts fell short of the necessary two-thirds majority.
 
 ## Geography
 
-**Location**<br>
-Caribbean, islands in the Caribbean Sea, about one-third of the way from Puerto Rico to Trinidad and Tobago<br>
+### Location
+Caribbean, islands in the Caribbean Sea, about one-third of the way from Puerto Rico to Trinidad and Tobago
 
-**Geographic coordinates**<br>
-17 20 N, 62 45 W<br>
+### Geographic coordinates
+17 20 N, 62 45 W
 
-**Map references**<br>
-Central America and the Caribbean<br>
+### Map references
+Central America and the Caribbean
 
-**Area**<br>
-_total _: 261 sq km (Saint Kitts 168 sq km; Nevis 93 sq km)<br>
-_land_: 261 sq km<br>
-_water_: 0 sq km<br>
+### Area
+- `total `: 261 sq km (Saint Kitts 168 sq km; Nevis 93 sq km)
+- `land`: 261 sq km
+- `water`: 0 sq km
 
-**Area - comparative**<br>
-1.5 times the size of Washington, DC<br>
+### Area - comparative
+1.5 times the size of Washington, DC
 
-**Land boundaries**<br>
-_total_: 0 km<br>
+### Land boundaries
+- `total`: 0 km
 
-**Coastline**<br>
-135 km<br>
+### Coastline
+135 km
 
-**Maritime claims**<br>
-_territorial sea_: 12 nm<br>
-_contiguous zone_: 24 nm<br>
-_exclusive economic zone_: 200 nm<br>
-_continental shelf_: 200 nm or to the edge of the continental margin<br>
+### Maritime claims
+- `territorial sea`: 12 nm
+- `contiguous zone`: 24 nm
+- `exclusive economic zone`: 200 nm
+- `continental shelf`: 200 nm or to the edge of the continental margin
 
-**Climate**<br>
-tropical, tempered by constant sea breezes; little seasonal temperature variation; rainy season (May to November)<br>
+### Climate
+tropical, tempered by constant sea breezes; little seasonal temperature variation; rainy season (May to November)
 
-**Terrain**<br>
-volcanic with mountainous interiors<br>
+### Terrain
+volcanic with mountainous interiors
 
-**Elevation**<br>
-_highest point_: Mount Liamuiga 1,156 m<br>
-_lowest point_: Caribbean Sea 0 m<br>
+### Elevation
+- `highest point`: Mount Liamuiga 1,156 m
+- `lowest point`: Caribbean Sea 0 m
 
-**Natural resources**<br>
-arable land<br>
+### Natural resources
+arable land
 
-**Land use**<br>
-_agricultural land_: 23.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 19.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.4% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 3.5% (2018 est.)<br>
-_forest_: 42.3% (2018 est.)<br>
-_other_: 34.6% (2018 est.)<br>
+### Land use
+- `agricultural land`: 23.1% (2018 est.)
+- `agricultural land: arable land`: arable land: 19.2% (2018 est.)
+- `agricultural land: permanent crops`: permanent crops: 0.4% (2018 est.)
+- `agricultural land: permanent pasture`: permanent pasture: 3.5% (2018 est.)
+- `forest`: 42.3% (2018 est.)
+- `other`: 34.6% (2018 est.)
 
-**Irrigated land**<br>
-8 sq km (2012)<br>
+### Irrigated land
+8 sq km (2012)
 
-**Population distribution**<br>
-population clusters are found in the small towns located on the periphery of both islands<br>
+### Population distribution
+population clusters are found in the small towns located on the periphery of both islands
 
-**Natural hazards**<br>
-<p>hurricanes (July to October)</p><p><strong>volcanism:</strong> Mount Liamuiga (1,156 m) on Saint Kitts, and Nevis Peak (985 m) on Nevis, are both volcanoes that are part of the volcanic island arc of the Lesser Antilles, which extends from Saba in the north to Grenada in the south</p><br>
+### Natural hazards
+hurricanes (July to October)**volcanism**:  Mount Liamuiga (1,156 m) on Saint Kitts, and Nevis Peak (985 m) on Nevis, are both volcanoes that are part of the volcanic island arc of the Lesser Antilles, which extends from Saba in the north to Grenada in the south
 
-**Geography - note**<br>
-smallest country in the Western Hemisphere both in terms of area and population; with coastlines in the shape of a baseball bat and ball, the two volcanic islands are separated by a 3-km-wide channel called The Narrows; on the southern tip of baseball-bat-shaped Saint Kitts lies the Great Salt Pond; Nevis Peak sits in the center of its almost circular namesake island and its ball shape complements that of its sister island<br>
+### Geography - note
+smallest country in the Western Hemisphere both in terms of area and population; with coastlines in the shape of a baseball bat and ball, the two volcanic islands are separated by a 3-km-wide channel called The Narrows; on the southern tip of baseball-bat-shaped Saint Kitts lies the Great Salt Pond; Nevis Peak sits in the center of its almost circular namesake island and its ball shape complements that of its sister island
 
 ## People and Society
 
-**Population**<br>
-_total_: 55,133<br>
-_male_: 27,599<br>
-_female_: 27,534 (2024 est.)<br>
+### Population
+- `total`: 55,133
+- `male`: 27,599
+- `female`: 27,534 (2024 est.)
 
-**Nationality**<br>
-_noun_: Kittitian(s), Nevisian(s)<br>
-_adjective_: Kittitian, Nevisian<br>
+### Nationality
+- `noun`: Kittitian(s), Nevisian(s)
+- `adjective`: Kittitian, Nevisian
 
-**Ethnic groups**<br>
-African descent 92.5%, mixed 3%, White 2.1%, East Indian 1.5%, other 0.6%, unspecified 0.3% (2001 est.)<br>
+### Ethnic groups
+African descent 92.5%, mixed 3%, White 2.1%, East Indian 1.5%, other 0.6%, unspecified 0.3% (2001 est.)
 
-**Languages**<br>
-English (official)<br>
+### Languages
+English (official)
 
-**Religions**<br>
-Protestant 75.6% (includes Anglican 16.6%, Methodist 15.8%, Pentecostal 10.8%, Church of God 7.4%, Baptist 5.4%, Seventh Day Adventist 5.4%, Wesleyan Holiness 5.3%, Moravian 4.8%, Evangelical 2.1%, Brethren 1.7%, Presbyterian 0.3%), Roman Catholic 5.9%, Hindu 1.8%, Jehovah's Witness 1.4%, Rastafarian 1.3%, other 5%, none 8.8%, unspecified 0.1% (2011 est.)<br>
+### Religions
+Protestant 75.6% (includes Anglican 16.6%, Methodist 15.8%, Pentecostal 10.8%, Church of God 7.4%, Baptist 5.4%, Seventh Day Adventist 5.4%, Wesleyan Holiness 5.3%, Moravian 4.8%, Evangelical 2.1%, Brethren 1.7%, Presbyterian 0.3%), Roman Catholic 5.9%, Hindu 1.8%, Jehovah's Witness 1.4%, Rastafarian 1.3%, other 5%, none 8.8%, unspecified 0.1% (2011 est.)
 
-**Age structure**<br>
-_0-14 years_: 19.2% (male 5,314/female 5,277)<br>
-_15-64 years_: 68.1% (male 18,944/female 18,575)<br>
-_65 years and over_: 12.7% (2024 est.) (male 3,341/female 3,682)<br>
+### Age structure
+- `0-14 years`: 19.2% (male 5,314/female 5,277)
+- `15-64 years`: 68.1% (male 18,944/female 18,575)
+- `65 years and over`: 12.7% (2024 est.) (male 3,341/female 3,682)
 
-**Dependency ratios**<br>
-_total dependency ratio_: 41.7<br>
-_youth dependency ratio_: 28<br>
-_elderly dependency ratio_: 13.7<br>
-_potential support ratio_: 7.3 (2021)<br>
+### Dependency ratios
+- `total dependency ratio`: 41.7
+- `youth dependency ratio`: 28
+- `elderly dependency ratio`: 13.7
+- `potential support ratio`: 7.3 (2021)
 
-**Median age**<br>
-_total_: 38.6 years (2024 est.)<br>
-_male_: 38.8 years<br>
-_female_: 38.3 years<br>
+### Median age
+- `total`: 38.6 years (2024 est.)
+- `male`: 38.8 years
+- `female`: 38.3 years
 
-**Population growth rate**<br>
-0.56% (2024 est.)<br>
+### Population growth rate
+0.56% (2024 est.)
 
-**Birth rate**<br>
-11.8 births/1,000 population (2024 est.)<br>
+### Birth rate
+11.8 births/1,000 population (2024 est.)
 
-**Death rate**<br>
-7.4 deaths/1,000 population (2024 est.)<br>
+### Death rate
+7.4 deaths/1,000 population (2024 est.)
 
-**Net migration rate**<br>
-1.1 migrant(s)/1,000 population (2024 est.)<br>
+### Net migration rate
+1.1 migrant(s)/1,000 population (2024 est.)
 
-**Population distribution**<br>
-population clusters are found in the small towns located on the periphery of both islands<br>
+### Population distribution
+population clusters are found in the small towns located on the periphery of both islands
 
-**Urbanization**<br>
-_urban population_: 31.1% of total population (2023)<br>
-_rate of urbanization_: 1.06% annual rate of change (2020-25 est.)<br>
+### Urbanization
+- `urban population`: 31.1% of total population (2023)
+- `rate of urbanization`: 1.06% annual rate of change (2020-25 est.)
 
-**Major urban areas - population**<br>
-14,000 BASSETERRE (capital) (2018)<br>
+### Major urban areas - population
+14,000 BASSETERRE (capital) (2018)
 
-**Sex ratio**<br>
-_at birth_: 1.02 male(s)/female<br>
-_0-14 years_: 1.01 male(s)/female<br>
-_15-64 years_: 1.02 male(s)/female<br>
-_65 years and over_: 0.91 male(s)/female<br>
-_total population_: 1 male(s)/female (2024 est.)<br>
+### Sex ratio
+- `at birth`: 1.02 male(s)/female
+- `0-14 years`: 1.01 male(s)/female
+- `15-64 years`: 1.02 male(s)/female
+- `65 years and over`: 0.91 male(s)/female
+- `total population`: 1 male(s)/female (2024 est.)
 
-**Infant mortality rate**<br>
-_total_: 8 deaths/1,000 live births (2024 est.)<br>
-_male_: 5.5 deaths/1,000 live births<br>
-_female_: 10.6 deaths/1,000 live births<br>
+### Infant mortality rate
+- `total`: 8 deaths/1,000 live births (2024 est.)
+- `male`: 5.5 deaths/1,000 live births
+- `female`: 10.6 deaths/1,000 live births
 
-**Life expectancy at birth**<br>
-_total population_: 77.6 years (2024 est.)<br>
-_male_: 75.2 years<br>
-_female_: 80.1 years<br>
+### Life expectancy at birth
+- `total population`: 77.6 years (2024 est.)
+- `male`: 75.2 years
+- `female`: 80.1 years
 
-**Total fertility rate**<br>
-1.76 children born/woman (2024 est.)<br>
+### Total fertility rate
+1.76 children born/woman (2024 est.)
 
-**Gross reproduction rate**<br>
-0.87 (2024 est.)<br>
+### Gross reproduction rate
+0.87 (2024 est.)
 
-**Contraceptive prevalence rate**<br>
-NA<br>
+### Contraceptive prevalence rate
+NA
 
-**Drinking water source**<br>
-_improved: urban_: urban: 98.3% of population<br>
-_improved: rural_: rural: 98.3% of population<br>
-_improved: total_: total: 98.3% of population<br>
-_unimproved: urban_: urban: 1.7% of population<br>
-_unimproved: rural_: rural: 1.7% of population<br>
-_unimproved: total_: total: 1.7% of population (2015 est.)<br>
+### Drinking water source
+- `improved: urban`: urban: 98.3% of population
+- `improved: rural`: rural: 98.3% of population
+- `improved: total`: total: 98.3% of population
+- `unimproved: urban`: urban: 1.7% of population
+- `unimproved: rural`: rural: 1.7% of population
+- `unimproved: total`: total: 1.7% of population (2015 est.)
 
-**Current health expenditure**<br>
-5.4% of GDP (2020)<br>
+### Current health expenditure
+5.4% of GDP (2020)
 
-**Physician density**<br>
-2.77 physicians/1,000 population (2018)<br>
+### Physician density
+2.77 physicians/1,000 population (2018)
 
-**Hospital bed density**<br>
-4.8 beds/1,000 population (2012)<br>
+### Hospital bed density
+4.8 beds/1,000 population (2012)
 
-**Sanitation facility access**<br>
-_improved: urban_: urban: 87.3% of population<br>
-_improved: rural_: rural: 87.3% of population<br>
-_improved: total_: total: 87.3% of population<br>
-_unimproved: urban_: urban: 12.7% of population<br>
-_unimproved: rural_: rural: 12.7% of population<br>
-_unimproved: total_: total: 12.7% of population (2017 est.)<br>
+### Sanitation facility access
+- `improved: urban`: urban: 87.3% of population
+- `improved: rural`: rural: 87.3% of population
+- `improved: total`: total: 87.3% of population
+- `unimproved: urban`: urban: 12.7% of population
+- `unimproved: rural`: rural: 12.7% of population
+- `unimproved: total`: total: 12.7% of population (2017 est.)
 
-**Obesity - adult prevalence rate**<br>
-22.9% (2016)<br>
+### Obesity - adult prevalence rate
+22.9% (2016)
 
-**Alcohol consumption per capita**<br>
-_total_: 8.84 liters of pure alcohol (2019 est.)<br>
-_beer_: 3.73 liters of pure alcohol (2019 est.)<br>
-_wine_: 1.02 liters of pure alcohol (2019 est.)<br>
-_spirits_: 3.89 liters of pure alcohol (2019 est.)<br>
-_other alcohols_: 0.21 liters of pure alcohol (2019 est.)<br>
+### Alcohol consumption per capita
+- `total`: 8.84 liters of pure alcohol (2019 est.)
+- `beer`: 3.73 liters of pure alcohol (2019 est.)
+- `wine`: 1.02 liters of pure alcohol (2019 est.)
+- `spirits`: 3.89 liters of pure alcohol (2019 est.)
+- `other alcohols`: 0.21 liters of pure alcohol (2019 est.)
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
+### Children under the age of 5 years underweight
+NA
 
-**Currently married women (ages 15-49)**<br>
-57.2% (2023 est.)<br>
+### Currently married women (ages 15-49)
+57.2% (2023 est.)
 
-**Education expenditures**<br>
-2.5% of GDP (2021 est.)<br>
+### Education expenditures
+2.5% of GDP (2021 est.)
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
+### Literacy
+- `total population`: NA
+- `male`: NA
+- `female`: NA
 
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 17 years<br>
-_male_: 16 years<br>
-_female_: 19 years (2015)<br>
+### School life expectancy (primary to tertiary education)
+- `total`: 17 years
+- `male`: 16 years
+- `female`: 19 years (2015)
 
 ## Environment
 
-**Environment - current issues**<br>
-deforestation; soil erosion and silting affects marine life on coral reefs; water pollution from uncontrolled dumping of sewage<br>
+### Environment - current issues
+deforestation; soil erosion and silting affects marine life on coral reefs; water pollution from uncontrolled dumping of sewage
 
-**Environment - international agreements**<br>
-_party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Whaling<br>
-_signed, but not ratified_: none of the selected agreements<br>
+### Environment - international agreements
+- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Whaling
+- `signed, but not ratified`: none of the selected agreements
 
-**Climate**<br>
-tropical, tempered by constant sea breezes; little seasonal temperature variation; rainy season (May to November)<br>
+### Climate
+tropical, tempered by constant sea breezes; little seasonal temperature variation; rainy season (May to November)
 
-**Land use**<br>
-_agricultural land_: 23.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 19.2% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.4% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 3.5% (2018 est.)<br>
-_forest_: 42.3% (2018 est.)<br>
-_other_: 34.6% (2018 est.)<br>
+### Land use
+- `agricultural land`: 23.1% (2018 est.)
+- `agricultural land: arable land`: arable land: 19.2% (2018 est.)
+- `agricultural land: permanent crops`: permanent crops: 0.4% (2018 est.)
+- `agricultural land: permanent pasture`: permanent pasture: 3.5% (2018 est.)
+- `forest`: 42.3% (2018 est.)
+- `other`: 34.6% (2018 est.)
 
-**Urbanization**<br>
-_urban population_: 31.1% of total population (2023)<br>
-_rate of urbanization_: 1.06% annual rate of change (2020-25 est.)<br>
+### Urbanization
+- `urban population`: 31.1% of total population (2023)
+- `rate of urbanization`: 1.06% annual rate of change (2020-25 est.)
 
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
+### Revenue from forest resources
+0% of GDP (2018 est.)
 
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
+### Revenue from coal
+0% of GDP (2018 est.)
 
-**Air pollutants**<br>
-_particulate matter emissions_: 8.05 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.24 megatons (2016 est.)<br>
-_methane emissions_: 0.1 megatons (2020 est.)<br>
+### Air pollutants
+- `particulate matter emissions`: 8.05 micrograms per cubic meter (2019 est.)
+- `carbon dioxide emissions`: 0.24 megatons (2016 est.)
+- `methane emissions`: 0.1 megatons (2020 est.)
 
-**Waste and recycling**<br>
-_municipal solid waste generated annually_: 32,892 tons (2015 est.)<br>
+### Waste and recycling
+- `municipal solid waste generated annually`: 32,892 tons (2015 est.)
 
-**Total water withdrawal**<br>
-_municipal_: 20 million cubic meters (2020 est.)<br>
-_industrial_: 0 cubic meters (2017 est.)<br>
-_agricultural_: 200,000 cubic meters (2017 est.)<br>
+### Total water withdrawal
+- `municipal`: 20 million cubic meters (2020 est.)
+- `industrial`: 0 cubic meters (2017 est.)
+- `agricultural`: 200,000 cubic meters (2017 est.)
 
-**Total renewable water resources**<br>
-20 million cubic meters (2020 est.)<br>
+### Total renewable water resources
+20 million cubic meters (2020 est.)
 
 ## Government
 
-**Country name**<br>
-_conventional long form_: Federation of Saint Kitts and Nevis<br>
-_conventional short form_: Saint Kitts and Nevis<br>
-_former_: Federation of Saint Christopher and Nevis<br>
-_etymology_: Saint Kitts was, and still is, referred to as Saint Christopher and this name was well established by the 17th century (although who first applied the name is unclear); in the 17th century a common nickname for Christopher was Kit or Kitt, so the island began to be referred to as "Saint Kitt's Island" or just "Saint Kitts"; Nevis is derived from the original Spanish name "Nuestra Senora de las Nieves" (Our Lady of the Snows) and refers to the white halo of clouds that generally wreathes Nevis Peak<br>
-<strong>note:</strong> Nevis is pronounced nee-vis<br>
+### Country name
+- `conventional long form`: Federation of Saint Kitts and Nevis
+- `conventional short form`: Saint Kitts and Nevis
+- `former`: Federation of Saint Christopher and Nevis
+- `etymology`: Saint Kitts was, and still is, referred to as Saint Christopher and this name was well established by the 17th century (although who first applied the name is unclear); in the 17th century a common nickname for Christopher was Kit or Kitt, so the island began to be referred to as "Saint Kitt's Island" or just "Saint Kitts"; Nevis is derived from the original Spanish name "Nuestra Senora de las Nieves" (Our Lady of the Snows) and refers to the white halo of clouds that generally wreathes Nevis Peak
+**note**:  Nevis is pronounced nee-vis
 
-**Government type**<br>
-federal parliamentary democracy under a constitutional monarchy; a Commonwealth realm<br>
+### Government type
+federal parliamentary democracy under a constitutional monarchy; a Commonwealth realm
 
-**Capital**<br>
-_name_: Basseterre<br>
-_geographic coordinates_: 17 18 N, 62 43 W<br>
-_time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the French name translates as "low land" in English; the reference is to the city's low-lying location within a valley, as well as to the fact that the city is on the leeward (downwind) part of the island, and is thus a safe anchorage<br>
+### Capital
+- `name`: Basseterre
+- `geographic coordinates`: 17 18 N, 62 43 W
+- `time difference`: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+- `etymology`: the French name translates as "low land" in English; the reference is to the city's low-lying location within a valley, as well as to the fact that the city is on the leeward (downwind) part of the island, and is thus a safe anchorage
 
-**Administrative divisions**<br>
-14 parishes; Christ Church Nichola Town, Saint Anne Sandy Point, Saint George Basseterre, Saint George Gingerland, Saint James Windward, Saint John Capesterre, Saint John Figtree, Saint Mary Cayon, Saint Paul Capesterre, Saint Paul Charlestown, Saint Peter Basseterre, Saint Thomas Lowland, Saint Thomas Middle Island, Trinity Palmetto Point<br>
+### Administrative divisions
+14 parishes; Christ Church Nichola Town, Saint Anne Sandy Point, Saint George Basseterre, Saint George Gingerland, Saint James Windward, Saint John Capesterre, Saint John Figtree, Saint Mary Cayon, Saint Paul Capesterre, Saint Paul Charlestown, Saint Peter Basseterre, Saint Thomas Lowland, Saint Thomas Middle Island, Trinity Palmetto Point
 
-**Independence**<br>
-19 September 1983 (from the UK)<br>
+### Independence
+19 September 1983 (from the UK)
 
-**National holiday**<br>
-Independence Day, 19 September (1983)<br>
+### National holiday
+Independence Day, 19 September (1983)
 
-**Legal system**<br>
-English common law<br>
+### Legal system
+English common law
 
-**Constitution**<br>
-_history_: several previous (preindependence); latest presented 22 June 1983, effective 23 June 1983<br>
-_amendments_: proposed by the National Assembly; passage requires approval by at least two-thirds majority vote of the total Assembly membership and assent of the governor general; amendments to constitutional provisions such as the sovereignty of the federation, fundamental rights and freedoms, the judiciary, and the Nevis Island Assembly also require approval in a referendum by at least two thirds of the votes cast in Saint Kitts and in Nevis<br>
+### Constitution
+- `history`: several previous (preindependence); latest presented 22 June 1983, effective 23 June 1983
+- `amendments`: proposed by the National Assembly; passage requires approval by at least two-thirds majority vote of the total Assembly membership and assent of the governor general; amendments to constitutional provisions such as the sovereignty of the federation, fundamental rights and freedoms, the judiciary, and the Nevis Island Assembly also require approval in a referendum by at least two thirds of the votes cast in Saint Kitts and in Nevis
 
-**International law organization participation**<br>
-has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
+### International law organization participation
+has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
 
-**Citizenship**<br>
-_citizenship by birth_: yes<br>
-_citizenship by descent only_: yes<br>
-_dual citizenship recognized_: yes<br>
-_residency requirement for naturalization_: 14 years<br>
+### Citizenship
+- `citizenship by birth`: yes
+- `citizenship by descent only`: yes
+- `dual citizenship recognized`: yes
+- `residency requirement for naturalization`: 14 years
 
-**Suffrage**<br>
-18 years of age; universal<br>
+### Suffrage
+18 years of age; universal
 
-**Executive branch**<br>
-_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Marcella LIBURD (since 1 February 2023)<br>
-_head of government_: Prime Minister Dr. Terrance DREW (since 6 August 2022)<br>
-_cabinet_: Cabinet appointed by governor general in consultation with prime minister<br>
-_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by governor general; deputy prime minister appointed by governor general<br>
+### Executive branch
+- `chief of state`: King CHARLES III (since 8 September 2022); represented by Governor General Marcella LIBURD (since 1 February 2023)
+- `head of government`: Prime Minister Dr. Terrance DREW (since 6 August 2022)
+- `cabinet`: Cabinet appointed by governor general in consultation with prime minister
+- `elections/appointments`: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by governor general; deputy prime minister appointed by governor general
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly (15 seats, including the attorney general; 11 members directly elected in single-seat constituencies by simple majority vote and 3 appointed by the governor general - 2 on the advice of the prime minister and the third on the advice of the opposition leader; members serve 5-year terms)<br>
-_elections_: last held on 5 August 2022 (next to be held on 2027)<br>
-_election results_: percent of vote by party - SKNLP 44.4%, PLP 16.1%, PAM 16.2%, CCM 12.7%, other 10.6%; seats by party - SKNLP 6, CCM 3, PLP 1, CCM 1; composition - men 11, women 5, percentage women 31.3%<br>
+### Legislative branch
+- `description`: unicameral National Assembly (15 seats, including the attorney general; 11 members directly elected in single-seat constituencies by simple majority vote and 3 appointed by the governor general - 2 on the advice of the prime minister and the third on the advice of the opposition leader; members serve 5-year terms)
+- `elections`: last held on 5 August 2022 (next to be held on 2027)
+- `election results`: percent of vote by party - SKNLP 44.4%, PLP 16.1%, PAM 16.2%, CCM 12.7%, other 10.6%; seats by party - SKNLP 6, CCM 3, PLP 1, CCM 1; composition - men 11, women 5, percentage women 31.3%
 
-**Judicial branch**<br>
-_highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Saint Kitts and Nevis; note - the ECSC in 2003 replaced the Judicial Committee of the Privy Council (in London) as the final court of appeal on Saint Kitts and Nevis; Saint Kitts and Nevis is also a member of the Caribbean Court of Justice<br>
-_judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by His Majesty, King Charles III; other justices and judges appointed by the Judicial and Legal Services Commission, an independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
-_subordinate courts_: magistrates' courts<br>
+### Judicial branch
+- `highest court(s)`: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Saint Kitts and Nevis; note - the ECSC in 2003 replaced the Judicial Committee of the Privy Council (in London) as the final court of appeal on Saint Kitts and Nevis; Saint Kitts and Nevis is also a member of the Caribbean Court of Justice
+- `judge selection and term of office`: chief justice of Eastern Caribbean Supreme Court appointed by His Majesty, King Charles III; other justices and judges appointed by the Judicial and Legal Services Commission, an independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62
+- `subordinate courts`: magistrates' courts
 
-**Political parties**<br>
-Concerned Citizens Movement or CCM<br>Nevis Reformation Party or NRP<br>People's Action Movement or PAM<br>People's Labour Party or PLP<br>Saint Kitts and Nevis Labor Party or SKNLP<br>
+### Political parties
+Concerned Citizens Movement or CCMNevis Reformation Party or NRPPeople's Action Movement or PAMPeople's Labour Party or PLPSaint Kitts and Nevis Labor Party or SKNLP
 
-**International organization participation**<br>
-ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ITU, MIGA, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WTO<br>
+### International organization participation
+ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ITU, MIGA, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WTO
 
-**Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Jacinth HENRY-MARTIN (since 15 September 2023)<br>
-_chancery_: 1203 19th St. NW, 5th Floor, Washington, DC 20036<br>
-_telephone_: [1] (202) 686-2636<br>
-_FAX_: [1] (202) 686-5740<br>
-_email address and website_: <br>stkittsnevis@embskn.com<br><br>Embassy of St.Kitts and Nevis to the USA – and Permanent Mission to the OAS (embassydc.gov.kn)<br>
-_consulate(s) general_: Los Angeles, New York<br>
+### Diplomatic representation in the US
+- `chief of mission`: Ambassador Jacinth HENRY-MARTIN (since 15 September 2023)
+- `chancery`: 1203 19th St. NW, 5th Floor, Washington, DC 20036
+- `telephone`: [1] (202) 686-2636
+- `FAX`: [1] (202) 686-5740
+- `email address and website`: stkittsnevis@embskn.com  Embassy of St.Kitts and Nevis to the USA – and Permanent Mission to the OAS (embassydc.gov.kn)
+- `consulate(s) general`: Los Angeles, New York
 
-**Diplomatic representation from the US**<br>
-_embassy_: the US does not have an embassy in Saint Kitts and Nevis; the US Ambassador to Barbados is accredited to Saint Kitts and Nevis<br>
+### Diplomatic representation from the US
+- `embassy`: the US does not have an embassy in Saint Kitts and Nevis; the US Ambassador to Barbados is accredited to Saint Kitts and Nevis
 
-**Flag description**<br>
-divided diagonally from the lower hoist side by a broad black band bearing two white, five-pointed stars; the black band is edged in yellow; the upper triangle is green, the lower triangle is red; green signifies the island's fertility, red symbolizes the struggles of the people from slavery, yellow denotes year-round sunshine, and black represents the African heritage of the people; the white stars stand for the islands of Saint Kitts and Nevis, but can also express hope and liberty, or independence and optimism<br>
+### Flag description
+divided diagonally from the lower hoist side by a broad black band bearing two white, five-pointed stars; the black band is edged in yellow; the upper triangle is green, the lower triangle is red; green signifies the island's fertility, red symbolizes the struggles of the people from slavery, yellow denotes year-round sunshine, and black represents the African heritage of the people; the white stars stand for the islands of Saint Kitts and Nevis, but can also express hope and liberty, or independence and optimism
 
-**National symbol(s)**<br>
-brown pelican, royal poinciana (flamboyant) tree; national colors: green, yellow, red, black, white<br>
+### National symbol(s)
+brown pelican, royal poinciana (flamboyant) tree; national colors: green, yellow, red, black, white
 
-**National anthem**<br>
-_name_: "Oh Land of Beauty!"<br>
-_lyrics/music_: Kenrick Anderson GEORGES<br>
-<strong>note:</strong> adopted 1983<br>
+### National anthem
+- `name`: "Oh Land of Beauty!"
+- `lyrics/music`: Kenrick Anderson GEORGES
+**note**:  adopted 1983
 
-**National heritage**<br>
-_total World Heritage Sites_: 1 (cultural)<br>
-_selected World Heritage Site locales_: Brimstone Hill Fortress National Park<br>
+### National heritage
+- `total World Heritage Sites`: 1 (cultural)
+- `selected World Heritage Site locales`: Brimstone Hill Fortress National Park
 
 ## Economy
 
-**Economic overview**<br>
-high-income, tourism-based Caribbean OECS economy; better debt balancing; CARICOM and ECCU member; growing offshore financial and telecommunications hub; environmentally fragile; unique citizenship-driven growth model<br>
+### Economic overview
+high-income, tourism-based Caribbean OECS economy; better debt balancing; CARICOM and ECCU member; growing offshore financial and telecommunications hub; environmentally fragile; unique citizenship-driven growth model
 
-**Real GDP (purchasing power parity)**<br>
-$1.438 billion (2023 est.)<br>
-$1.39 billion (2022 est.)<br>
-$1.258 billion (2021 est.)<br>
-<b>note:</b> data in 2021 dollars<br>
+### Real GDP (purchasing power parity)
+$1.438 billion (2023 est.)
+$1.39 billion (2022 est.)
+$1.258 billion (2021 est.)
+**note**: data in 2021 dollars
 
-**Real GDP growth rate**<br>
-3.43% (2023 est.)<br>
-10.52% (2022 est.)<br>
-0.48% (2021 est.)<br>
-<b>note:</b> annual GDP % growth based on constant local currency<br>
+### Real GDP growth rate
+3.43% (2023 est.)
+10.52% (2022 est.)
+0.48% (2021 est.)
+**note**: annual GDP % growth based on constant local currency
 
-**Real GDP per capita**<br>
-$30,100 (2023 est.)<br>
-$29,200 (2022 est.)<br>
-$26,400 (2021 est.)<br>
-<b>note:</b> data in 2021 dollars<br>
+### Real GDP per capita
+$30,100 (2023 est.)
+$29,200 (2022 est.)
+$26,400 (2021 est.)
+**note**: data in 2021 dollars
 
-**GDP (official exchange rate)**<br>
-$1.077 billion (2023 est.)<br>
-<b>note:</b> data in current dollars at official exchange rate<br>
+### GDP (official exchange rate)
+$1.077 billion (2023 est.)
+**note**: data in current dollars at official exchange rate
 
-**Inflation rate (consumer prices)**<br>
-3.56% (2023 est.)<br>
-2.67% (2022 est.)<br>
-1.2% (2021 est.)<br>
-<b>note:</b> annual % change based on consumer prices<br>
+### Inflation rate (consumer prices)
+3.56% (2023 est.)
+2.67% (2022 est.)
+1.2% (2021 est.)
+**note**: annual % change based on consumer prices
 
-**GDP - composition, by sector of origin**<br>
-_agriculture_: 1.4% (2023 est.)<br>
-_industry_: 19.8% (2023 est.)<br>
-_services_: 64.9% (2023 est.)<br>
-<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
+### GDP - composition, by sector of origin
+- `agriculture`: 1.4% (2023 est.)
+- `industry`: 19.8% (2023 est.)
+- `services`: 64.9% (2023 est.)
+**note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
-**GDP - composition, by end use**<br>
-_household consumption_: 41.4% (2017 est.)<br>
-_government consumption_: 25.9% (2017 est.)<br>
-_investment in fixed capital_: 30.8% (2017 est.)<br>
-_exports of goods and services_: 62.5% (2017 est.)<br>
-_imports of goods and services_: -60.4% (2017 est.)<br>
+### GDP - composition, by end use
+- `household consumption`: 41.4% (2017 est.)
+- `government consumption`: 25.9% (2017 est.)
+- `investment in fixed capital`: 30.8% (2017 est.)
+- `exports of goods and services`: 62.5% (2017 est.)
+- `imports of goods and services`: -60.4% (2017 est.)
 
-**Agricultural products**<br>
-coconuts, tropical fruits, root vegetables, vegetables, eggs, pulses, tomatoes, beef, sweet potatoes, watermelons (2022)<br>
-<b>note:</b> top ten agricultural products based on tonnage<br>
+### Agricultural products
+coconuts, tropical fruits, root vegetables, vegetables, eggs, pulses, tomatoes, beef, sweet potatoes, watermelons (2022)
+**note**: top ten agricultural products based on tonnage
 
-**Industries**<br>
-tourism, cotton, salt, copra, clothing, footwear, beverages<br>
+### Industries
+tourism, cotton, salt, copra, clothing, footwear, beverages
 
-**Industrial production growth rate**<br>
--2.4% (2023 est.)<br>
-<b>note:</b> annual % change in industrial value added based on constant local currency<br>
+### Industrial production growth rate
+-2.4% (2023 est.)
+**note**: annual % change in industrial value added based on constant local currency
 
-**Remittances**<br>
-3.48% of GDP (2023 est.)<br>
-3.83% of GDP (2022 est.)<br>
-4.32% of GDP (2021 est.)<br>
-<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+### Remittances
+3.48% of GDP (2023 est.)
+3.83% of GDP (2022 est.)
+4.32% of GDP (2021 est.)
+**note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
-**Budget**<br>
-_revenues_: $262 million (2020 est.)<br>
-_expenditures_: $236.444 million (2020 est.)<br>
-<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+### Budget
+- `revenues`: $262 million (2020 est.)
+- `expenditures`: $236.444 million (2020 est.)
+**note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
-**Public debt**<br>
-62.9% of GDP (2017 est.)<br>
-<b>note:</b> central government debt as a % of GDP<br>
+### Public debt
+62.9% of GDP (2017 est.)
+**note**: central government debt as a % of GDP
 
-**Taxes and other revenues**<br>
-15.04% (of GDP) (2020 est.)<br>
-<b>note:</b> central government tax revenue as a % of GDP<br>
+### Taxes and other revenues
+15.04% (of GDP) (2020 est.)
+**note**: central government tax revenue as a % of GDP
 
-**Current account balance**<br>
--$143.262 million (2023 est.)<br>
--$105.744 million (2022 est.)<br>
--$43.725 million (2021 est.)<br>
-<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
+### Current account balance
+-$143.262 million (2023 est.)
+-$105.744 million (2022 est.)
+-$43.725 million (2021 est.)
+**note**: balance of payments - net trade and primary/secondary income in current dollars
 
-**Exports**<br>
-$577.568 million (2023 est.)<br>
-$546.373 million (2022 est.)<br>
-$389.355 million (2021 est.)<br>
-<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
+### Exports
+$577.568 million (2023 est.)
+$546.373 million (2022 est.)
+$389.355 million (2021 est.)
+**note**: balance of payments - exports of goods and services in current dollars
 
-**Exports - partners**<br>
-US 61%, India 7%, Trinidad and Tobago 5%, Germany 4%, Canada 3% (2022)<br>
-<b>note:</b> top five export partners based on percentage share of exports<br>
+### Exports - partners
+US 61%, India 7%, Trinidad and Tobago 5%, Germany 4%, Canada 3% (2022)
+**note**: top five export partners based on percentage share of exports
 
-**Exports - commodities**<br>
-measuring instruments, broadcasting equipment, electrical transformers, electrical control boards, ships (2022)<br>
-<b>note:</b> top five export commodities based on value in dollars<br>
+### Exports - commodities
+measuring instruments, broadcasting equipment, electrical transformers, electrical control boards, ships (2022)
+**note**: top five export commodities based on value in dollars
 
-**Imports**<br>
-$674.134 million (2023 est.)<br>
-$606.301 million (2022 est.)<br>
-$407.417 million (2021 est.)<br>
-<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
+### Imports
+$674.134 million (2023 est.)
+$606.301 million (2022 est.)
+$407.417 million (2021 est.)
+**note**: balance of payments - imports of goods and services in current dollars
 
-**Imports - partners**<br>
-US 47%, Italy 9%, Turkey 6%, Trinidad and Tobago 6%, China 5% (2022)<br>
-<b>note:</b> top five import partners based on percentage share of imports<br>
+### Imports - partners
+US 47%, Italy 9%, Turkey 6%, Trinidad and Tobago 6%, China 5% (2022)
+**note**: top five import partners based on percentage share of imports
 
-**Imports - commodities**<br>
-ships, refined petroleum, plastic products, cars, jewelry (2022)<br>
-<b>note:</b> top five import commodities based on value in dollars<br>
+### Imports - commodities
+ships, refined petroleum, plastic products, cars, jewelry (2022)
+**note**: top five import commodities based on value in dollars
 
-**Reserves of foreign exchange and gold**<br>
-$286.075 million (2023 est.)<br>
-$293.98 million (2022 est.)<br>
-$337.533 million (2021 est.)<br>
-<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+### Reserves of foreign exchange and gold
+$286.075 million (2023 est.)
+$293.98 million (2022 est.)
+$337.533 million (2021 est.)
+**note**: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars
 
-**Exchange rates**<br>
-_Currency_: East Caribbean dollars (XCD) per US dollar -<br>
-2.7 (2023 est.)<br>
-2.7 (2022 est.)<br>
-2.7 (2021 est.)<br>
-2.7 (2020 est.)<br>
-2.7 (2019 est.)<br>
+### Exchange rates
+- `Currency`: East Caribbean dollars (XCD) per US dollar -
+2.7 (2023 est.)
+2.7 (2022 est.)
+2.7 (2021 est.)
+2.7 (2020 est.)
+2.7 (2019 est.)
 
 ## Energy
 
-**Electricity access**<br>
-_electrification - total population_: 100% (2022 est.)<br>
+### Electricity access
+- `electrification - total population`: 100% (2022 est.)
 
-**Electricity**<br>
-_installed generating capacity_: 72,000 kW (2022 est.)<br>
-_consumption_: 177.455 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 39.522 million kWh (2022 est.)<br>
+### Electricity
+- `installed generating capacity`: 72,000 kW (2022 est.)
+- `consumption`: 177.455 million kWh (2022 est.)
+- `transmission/distribution losses`: 39.522 million kWh (2022 est.)
 
-**Electricity generation sources**<br>
-_fossil fuels_: 97.2% of total installed capacity (2022 est.)<br>
-_wind_: 2.8% of total installed capacity (2022 est.)<br>
+### Electricity generation sources
+- `fossil fuels`: 97.2% of total installed capacity (2022 est.)
+- `wind`: 2.8% of total installed capacity (2022 est.)
 
-**Petroleum**<br>
-_refined petroleum consumption_: 2,000 bbl/day (2022 est.)<br>
+### Petroleum
+- `refined petroleum consumption`: 2,000 bbl/day (2022 est.)
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 272,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 272,000 metric tonnes of CO2 (2022 est.)<br>
+### Carbon dioxide emissions
+- `total emissions`: 272,000 metric tonnes of CO2 (2022 est.)
+- `from petroleum and other liquids`: 272,000 metric tonnes of CO2 (2022 est.)
 
-**Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 77.743 million Btu/person (2022 est.)<br>
+### Energy consumption per capita
+- `Total energy consumption per capita 2022`: 77.743 million Btu/person (2022 est.)
 
 ## Communications
 
-**Telephones - fixed lines**<br>
-_total subscriptions_: 16,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 33 (2021 est.)<br>
+### Telephones - fixed lines
+- `total subscriptions`: 16,000 (2021 est.)
+- `subscriptions per 100 inhabitants`: 33 (2021 est.)
 
-**Telephones - mobile cellular**<br>
-_total subscriptions_: 57,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 119 (2021 est.)<br>
+### Telephones - mobile cellular
+- `total subscriptions`: 57,000 (2021 est.)
+- `subscriptions per 100 inhabitants`: 119 (2021 est.)
 
-**Telecommunication systems**<br>
-_general assessment_: good interisland and international connections; broadband access; expanded FttP (Fiber to the Home) and LTE markets; regulatory development; telecom sector contributes greatly to the overall GDP; telecom sector is a growth area (2020)<br>
-_domestic_: fixed-line teledensity is 33 per 100 persons; mobile-cellular teledensity is 120 per 100 persons (2021)<br>
-_international_: country code - 1-869; landing points for&nbsp;the ECFS, Southern Caribbean Fiber and the SSCS&nbsp;submarine cables providing connectivity for numerous Caribbean Islands (2019)<br>
+### Telecommunication systems
+- `general assessment`: good interisland and international connections; broadband access; expanded FttP (Fiber to the Home) and LTE markets; regulatory development; telecom sector contributes greatly to the overall GDP; telecom sector is a growth area (2020)
+- `domestic`: fixed-line teledensity is 33 per 100 persons; mobile-cellular teledensity is 120 per 100 persons (2021)
+- `international`: country code - 1-869; landing points for the ECFS, Southern Caribbean Fiber and the SSCS submarine cables providing connectivity for numerous Caribbean Islands (2019)
 
-**Broadcast media**<br>
-the government operates a national TV network that broadcasts on 2 channels; cable subscription services provide access to local and international channels; the government operates a national radio network; a mix of government-owned and privately owned broadcasters operate roughly 15 radio stations (2019)<br>
+### Broadcast media
+the government operates a national TV network that broadcasts on 2 channels; cable subscription services provide access to local and international channels; the government operates a national radio network; a mix of government-owned and privately owned broadcasters operate roughly 15 radio stations (2019)
 
-**Internet country code**<br>
-.kn<br>
+### Internet country code
+.kn
 
-**Internet users**<br>
-_total_: 37,920 (2021 est.)<br>
-_percent of population_: 79% (2021 est.)<br>
+### Internet users
+- `total`: 37,920 (2021 est.)
+- `percent of population`: 79% (2021 est.)
 
-**Broadband - fixed subscriptions**<br>
-_total_: 30,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 56 (2020 est.)<br>
+### Broadband - fixed subscriptions
+- `total`: 30,000 (2020 est.)
+- `subscriptions per 100 inhabitants`: 56 (2020 est.)
 
 ## Transportation
 
-**Civil aircraft registration country code prefix**<br>
-V4<br>
+### Civil aircraft registration country code prefix
+V4
 
-**Airports**<br>
-2 (2024)<br>
+### Airports
+2 (2024)
 
-**Heliports**<br>
-1 (2024)<br>
+### Heliports
+1 (2024)
 
-**Railways**<br>
-_total_: 50 km (2008)<br>
-_narrow gauge_: 50 km (2008) 0.762-m gauge on Saint Kitts for tourists<br>
+### Railways
+- `total`: 50 km (2008)
+- `narrow gauge`: 50 km (2008) 0.762-m gauge on Saint Kitts for tourists
 
-**Roadways**<br>
-_total_: 383 km<br>
-_paved_: 163 km<br>
-_unpaved_: 220 km (2002)<br>
+### Roadways
+- `total`: 383 km
+- `paved`: 163 km
+- `unpaved`: 220 km (2002)
 
-**Merchant marine**<br>
-_total_: 341 (2023)<br>
-_by type_: bulk carrier 22, container ship 16, general cargo 85, oil tanker 59, other 159<br>
+### Merchant marine
+- `total`: 341 (2023)
+- `by type`: bulk carrier 22, container ship 16, general cargo 85, oil tanker 59, other 159
 
-**Ports**<br>
-_total ports_: 2 (2024)<br>
-_large_: 0<br>
-_medium_: 0<br>
-_small_: 0<br>
-_very small_: 2<br>
-_ports with oil terminals_: 2<br>
-_key ports_: Basseterre, Charlestown<br>
+### Ports
+- `total ports`: 2 (2024)
+- `large`: 0
+- `medium`: 0
+- `small`: 0
+- `very small`: 2
+- `ports with oil terminals`: 2
+- `key ports`: Basseterre, Charlestown
 
 ## Military and Security
 
-**Military and security forces**<br>
-Ministry of National Security: St. Kitts and Nevis Defense Force (SKNDF), St. Kitts and Nevis Coast Guard, the Royal St. Christopher and Nevis Police Force (2024)<br>
-<strong>note:</strong> the Nevis Police Force includes the paramilitary Special Services Unit<br>
+### Military and security forces
+Ministry of National Security: St. Kitts and Nevis Defense Force (SKNDF), St. Kitts and Nevis Coast Guard, the Royal St. Christopher and Nevis Police Force (2024)
+**note**:  the Nevis Police Force includes the paramilitary Special Services Unit
 
-**Military and security service personnel strengths**<br>
-less than 500 active personnel (2023)<br>
+### Military and security service personnel strengths
+less than 500 active personnel (2023)
 
-**Military equipment inventories and acquisitions**<br>
-the SKNDF is lightly armed with equipment from Belgium, the UK, and the US (2024)<br>
+### Military equipment inventories and acquisitions
+the SKNDF is lightly armed with equipment from Belgium, the UK, and the US (2024)
 
-**Military service age and obligation**<br>
-18 years of age for voluntary military service for men and women (under 18 with written parental permission); no conscription (2023)<br>
+### Military service age and obligation
+18 years of age for voluntary military service for men and women (under 18 with written parental permission); no conscription (2023)
 
-**Military - note**<br>
-SKNDF's missions include defense of the country's territorial integrity and sovereignty, protecting natural resources, interdicting narcotics trafficking, and providing humanitarian relief as needed<br><br>St. Kitts joined the Caribbean Regional Security System (RSS) in 1984; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Guyana, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2024)<br>
+### Military - note
+SKNDF's missions include defense of the country's territorial integrity and sovereignty, protecting natural resources, interdicting narcotics trafficking, and providing humanitarian relief as needed  St. Kitts joined the Caribbean Regional Security System (RSS) in 1984; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Guyana, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2024)
 
 ## Transnational Issues
 
-**Illicit drugs**<br>
-<p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean; some local demand for cocaine and some use of synthetic drugs</p><br>
+### Illicit drugs
+a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean; some local demand for cocaine and some use of synthetic drugs
 

@@ -4,105 +4,105 @@ _Australia-Oceania / Dependencies (Australia)_
 
 ## Introduction
 
-**Background**<br>
-<p>Indonesian fishermen have long fished in the area around Ashmore Reef and Cartier Island. British explorers were the first Europeans to see Cartier Island and Ashmore Reef in 1800 and 1811, respectively. American whalers frequently sailed by the islands in the 1850s and later settled to mine the phosphate deposits on Ashmore Reef, which were exhausted by 1891. The UK disputed US access to Ashmore Reef and formally annexed it in 1878. Cartier Island was annexed in 1909. In 1931, the UK transferred the islands to Australia, which accepted them in 1934 as part of Western Australia. In 1938, Australia transferred governance to the Northern Territory. During World War II, Cartier Island was used as a bombing range. In 1978, governance of Ashmore and Cartier Islands was moved to the federal government. Ashmore Reef and Cartier Island became marine reserves in 1983 and 2000 respectively.<br><br>In 1974, Australia and Indonesia signed a memorandum of understanding (MOU) to allow Indonesian fishermen to continue fishing around the islands. The MOU also allows Indonesian fishermen to visit the graves of past fishermen, replenish their fresh water, and shelter in the West Island Lagoon of Ashmore Reef. In the 1990s, Indonesia challenged Australia’s claim to the islands, which was settled in a maritime boundary treaty in 1997. The islands were a popular first point of contact for migrants and refugees seeking to enter Australia, so in 2001, Australia declared the islands to be outside the Australian migration zone.</p><br>
+### Background
+Indonesian fishermen have long fished in the area around Ashmore Reef and Cartier Island. British explorers were the first Europeans to see Cartier Island and Ashmore Reef in 1800 and 1811, respectively. American whalers frequently sailed by the islands in the 1850s and later settled to mine the phosphate deposits on Ashmore Reef, which were exhausted by 1891. The UK disputed US access to Ashmore Reef and formally annexed it in 1878. Cartier Island was annexed in 1909. In 1931, the UK transferred the islands to Australia, which accepted them in 1934 as part of Western Australia. In 1938, Australia transferred governance to the Northern Territory. During World War II, Cartier Island was used as a bombing range. In 1978, governance of Ashmore and Cartier Islands was moved to the federal government. Ashmore Reef and Cartier Island became marine reserves in 1983 and 2000 respectively.  In 1974, Australia and Indonesia signed a memorandum of understanding (MOU) to allow Indonesian fishermen to continue fishing around the islands. The MOU also allows Indonesian fishermen to visit the graves of past fishermen, replenish their fresh water, and shelter in the West Island Lagoon of Ashmore Reef. In the 1990s, Indonesia challenged Australia’s claim to the islands, which was settled in a maritime boundary treaty in 1997. The islands were a popular first point of contact for migrants and refugees seeking to enter Australia, so in 2001, Australia declared the islands to be outside the Australian migration zone.
 
 ## Geography
 
-**Location**<br>
-Southeastern Asia, islands in the Indian Ocean, midway between northwestern Australia and Timor island; Ashmore Reef is 840 km west of Darwin and 610 km north of Broome; Cartier Islet is 70 km east of Ashmore Reef<br>
+### Location
+Southeastern Asia, islands in the Indian Ocean, midway between northwestern Australia and Timor island; Ashmore Reef is 840 km west of Darwin and 610 km north of Broome; Cartier Islet is 70 km east of Ashmore Reef
 
-**Geographic coordinates**<br>
-12 25 S, 123 20 E<br>
-<strong>note -</strong> Ashmore Reef - 12 14 S, 123 05 E; Cartier Islet - 12 32 S, 123 32 E<br>
+### Geographic coordinates
+12 25 S, 123 20 E
+**note **:  Ashmore Reef - 12 14 S, 123 05 E; Cartier Islet - 12 32 S, 123 32 E
 
-**Map references**<br>
-Southeast Asia<br>
+### Map references
+Southeast Asia
 
-**Area**<br>
-_total _: 5 sq km<br>
-_land_: 5 sq km<br>
-_water_: 0 sq km<br>
-<strong>note:</strong> includes Ashmore Reef (West, Middle, and East Islets) and Cartier Island<br>
+### Area
+- `total `: 5 sq km
+- `land`: 5 sq km
+- `water`: 0 sq km
+**note**:  includes Ashmore Reef (West, Middle, and East Islets) and Cartier Island
 
-**Area - comparative**<br>
-about eight times the size of the National Mall in Washington, DC<br>
+### Area - comparative
+about eight times the size of the National Mall in Washington, DC
 
-**Land boundaries**<br>
-_total_: 0 km<br>
+### Land boundaries
+- `total`: 0 km
 
-**Coastline**<br>
-74.1 km<br>
+### Coastline
+74.1 km
 
-**Maritime claims**<br>
-_territorial sea_: 12 nm<br>
-_contiguous zone_: 24 nm<br>
-_continental shelf_: 200-m depth or to the depth of exploitation<br>
-_exclusive fishing zone_: 200 nm<br>
+### Maritime claims
+- `territorial sea`: 12 nm
+- `contiguous zone`: 24 nm
+- `continental shelf`: 200-m depth or to the depth of exploitation
+- `exclusive fishing zone`: 200 nm
 
-**Climate**<br>
-tropical<br>
+### Climate
+tropical
 
-**Terrain**<br>
-low with sand and coral<br>
+### Terrain
+low with sand and coral
 
-**Elevation**<br>
-_highest point_: Cartier Island 5 m<br>
-_lowest point_: Indian Ocean 0 m<br>
+### Elevation
+- `highest point`: Cartier Island 5 m
+- `lowest point`: Indian Ocean 0 m
 
-**Natural resources**<br>
-fish<br>
+### Natural resources
+fish
 
-**Land use**<br>
-_agricultural land_: 0% (2018 est.)<br>
+### Land use
+- `agricultural land`: 0% (2018 est.)
 
-**Natural hazards**<br>
-surrounded by shoals and reefs that can pose maritime hazards<br>
+### Natural hazards
+surrounded by shoals and reefs that can pose maritime hazards
 
-**Geography - note**<br>
-Ashmore Reef National Nature Reserve established in August 1983; Cartier Island Marine Reserve established in 2000<br>
+### Geography - note
+Ashmore Reef National Nature Reserve established in August 1983; Cartier Island Marine Reserve established in 2000
 
 ## People and Society
 
-**Population**<br>
-_total_: (2021 est.) no indigenous inhabitants<br>
-<strong>note:</strong> Indonesian fishermen are allowed access to the lagoon and fresh water at Ashmore Reef's West Island; access to East and Middle Islands is by permit only<br>
+### Population
+- `total`: (2021 est.) no indigenous inhabitants
+**note**:  Indonesian fishermen are allowed access to the lagoon and fresh water at Ashmore Reef's West Island; access to East and Middle Islands is by permit only
 
 ## Environment
 
-**Environment - current issues**<br>
-illegal killing of protected wildlife by traditional Indonesian fisherman, as well as fishing by non-traditional Indonesian vessels, are ongoing problems; sea level rise, changes in sea temperature, and ocean acidification are concerns; marine debris<br>
+### Environment - current issues
+illegal killing of protected wildlife by traditional Indonesian fisherman, as well as fishing by non-traditional Indonesian vessels, are ongoing problems; sea level rise, changes in sea temperature, and ocean acidification are concerns; marine debris
 
-**Climate**<br>
-tropical<br>
+### Climate
+tropical
 
-**Land use**<br>
-_agricultural land_: 0% (2018 est.)<br>
+### Land use
+- `agricultural land`: 0% (2018 est.)
 
 ## Government
 
-**Country name**<br>
-_conventional long form_: Territory of Ashmore and Cartier Islands<br>
-_conventional short form_: Ashmore and Cartier Islands<br>
-_etymology_: named after British Captain Samuel ASHMORE, who first sighted his namesake island in 1811, and after the ship Cartier, from which the second island was discovered in 1800<br>
+### Country name
+- `conventional long form`: Territory of Ashmore and Cartier Islands
+- `conventional short form`: Ashmore and Cartier Islands
+- `etymology`: named after British Captain Samuel ASHMORE, who first sighted his namesake island in 1811, and after the ship Cartier, from which the second island was discovered in 1800
 
-**Dependency status**<br>
-territory of Australia; administered from Canberra by the Department of Regional Australia, Local Government, Arts and Sport<br>
+### Dependency status
+territory of Australia; administered from Canberra by the Department of Regional Australia, Local Government, Arts and Sport
 
-**Legal system**<br>
-the laws of the Commonwealth of Australia and the laws of the Northern Territory of Australia, where applicable, apply<br>
+### Legal system
+the laws of the Commonwealth of Australia and the laws of the Northern Territory of Australia, where applicable, apply
 
-**Citizenship**<br>
-see Australia<br>
+### Citizenship
+see Australia
 
-**Diplomatic representation in the US**<br>
-none (territory of Australia)<br>
+### Diplomatic representation in the US
+none (territory of Australia)
 
-**Diplomatic representation from the US**<br>
-_embassy_: none (territory of Australia)<br>
+### Diplomatic representation from the US
+- `embassy`: none (territory of Australia)
 
-**Flag description**<br>
-the flag of Australia is used<br>
+### Flag description
+the flag of Australia is used
 
 ## Economy
 
@@ -110,11 +110,11 @@ the flag of Australia is used<br>
 
 ## Military and Security
 
-**Military - note**<br>
-defense is the responsibility of Australia<br>
+### Military - note
+defense is the responsibility of Australia
 
 ## Transnational Issues
 
-**Illicit drugs**<br>
-NA<br>
+### Illicit drugs
+NA
 

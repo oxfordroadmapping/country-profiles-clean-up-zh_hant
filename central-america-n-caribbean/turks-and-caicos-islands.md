@@ -4,497 +4,497 @@ _Central America and Caribbean / Dependencies (United Kingdom)_
 
 ## Introduction
 
-**Background**<br>
-The islands were part of the UK's Jamaican colony until 1962, when they assumed the status of a separate Crown colony upon Jamaica's independence. The governor of The Bahamas oversaw affairs from 1965 to 1973. With Bahamian independence, the islands received a separate governor in 1973. Although independence was agreed upon for 1982, the policy was reversed, and the islands remain a British overseas territory. Grand Turk Island suffered extensive damage from Hurricane Maria in 2017.<br>
+### Background
+The islands were part of the UK's Jamaican colony until 1962, when they assumed the status of a separate Crown colony upon Jamaica's independence. The governor of The Bahamas oversaw affairs from 1965 to 1973. With Bahamian independence, the islands received a separate governor in 1973. Although independence was agreed upon for 1982, the policy was reversed, and the islands remain a British overseas territory. Grand Turk Island suffered extensive damage from Hurricane Maria in 2017.
 
 ## Geography
 
-**Location**<br>
-two island groups in the North Atlantic Ocean, southeast of The Bahamas, north of Haiti; note - although the Turks and Caicos Islands do not border the Caribbean Sea, geopolitically they are often designated as being Caribbean<br>
+### Location
+two island groups in the North Atlantic Ocean, southeast of The Bahamas, north of Haiti; note - although the Turks and Caicos Islands do not border the Caribbean Sea, geopolitically they are often designated as being Caribbean
 
-**Geographic coordinates**<br>
-21 45 N, 71 35 W<br>
+### Geographic coordinates
+21 45 N, 71 35 W
 
-**Map references**<br>
-Central America and the Caribbean<br>
+### Map references
+Central America and the Caribbean
 
-**Area**<br>
-_total _: 948 sq km<br>
-_land_: 948 sq km<br>
-_water_: 0 sq km<br>
+### Area
+- `total `: 948 sq km
+- `land`: 948 sq km
+- `water`: 0 sq km
 
-**Area - comparative**<br>
-2.5 times the size of Washington, DC<br>
+### Area - comparative
+2.5 times the size of Washington, DC
 
-**Land boundaries**<br>
-_total_: 0 km<br>
+### Land boundaries
+- `total`: 0 km
 
-**Coastline**<br>
-389 km<br>
+### Coastline
+389 km
 
-**Maritime claims**<br>
-_territorial sea_: 12 nm<br>
-_exclusive fishing zone_: 200 nm<br>
+### Maritime claims
+- `territorial sea`: 12 nm
+- `exclusive fishing zone`: 200 nm
 
-**Climate**<br>
-tropical; marine; moderated by trade winds; sunny and relatively dry<br>
+### Climate
+tropical; marine; moderated by trade winds; sunny and relatively dry
 
-**Terrain**<br>
-low, flat limestone; extensive marshes and mangrove swamps<br>
+### Terrain
+low, flat limestone; extensive marshes and mangrove swamps
 
-**Elevation**<br>
-_highest point_: Blue Hill on Providenciales and Flamingo Hill on East Caicos 48 m<br>
-_lowest point_: Caribbean Sea 0 m<br>
+### Elevation
+- `highest point`: Blue Hill on Providenciales and Flamingo Hill on East Caicos 48 m
+- `lowest point`: Caribbean Sea 0 m
 
-**Natural resources**<br>
-spiny lobster, conch<br>
+### Natural resources
+spiny lobster, conch
 
-**Land use**<br>
-_agricultural land_: 1.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 1.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 36.2% (2018 est.)<br>
-_other_: 62.7% (2018 est.)<br>
+### Land use
+- `agricultural land`: 1.1% (2018 est.)
+- `agricultural land: arable land`: arable land: 1.1% (2018 est.)
+- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
+- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
+- `forest`: 36.2% (2018 est.)
+- `other`: 62.7% (2018 est.)
 
-**Irrigated land**<br>
-0 sq km (2022)<br>
+### Irrigated land
+0 sq km (2022)
 
-**Population distribution**<br>
-eight of the thirty islands are inhabited; the island of Providenciales is the most populated, but the most densely populated is Grand Turk<br>
+### Population distribution
+eight of the thirty islands are inhabited; the island of Providenciales is the most populated, but the most densely populated is Grand Turk
 
-**Natural hazards**<br>
-frequent hurricanes<br>
+### Natural hazards
+frequent hurricanes
 
-**Geography - note**<br>
-include eight large islands and numerous smaller cays, islets, and reefs; only two of the Caicos Islands and six of the Turks group are inhabited<br>
+### Geography - note
+include eight large islands and numerous smaller cays, islets, and reefs; only two of the Caicos Islands and six of the Turks group are inhabited
 
 ## People and Society
 
-**Population**<br>
-_total_: 60,439<br>
-_male_: 30,389<br>
-_female_: 30,050 (2024 est.)<br>
+### Population
+- `total`: 60,439
+- `male`: 30,389
+- `female`: 30,050 (2024 est.)
 
-**Nationality**<br>
-_noun_: none<br>
-_adjective_: none<br>
+### Nationality
+- `noun`: none
+- `adjective`: none
 
-**Ethnic groups**<br>
-Black 87.6%, White 7.9%, mixed 2.5%, East Indian 1.3%, other 0.7% (2006 est.)<br>
+### Ethnic groups
+Black 87.6%, White 7.9%, mixed 2.5%, East Indian 1.3%, other 0.7% (2006 est.)
 
-**Languages**<br>
-English (official)<br>
+### Languages
+English (official)
 
-**Religions**<br>
-Protestant 72.8% (Baptist 35.8%, Church of God 11.7%, Anglican 10%, Methodist 9.3%, Seventh Day Adventist 6%), Roman Catholic 11.4%, Jehovah's Witness 1.8%, other 14% (2006 est.)<br>
+### Religions
+Protestant 72.8% (Baptist 35.8%, Church of God 11.7%, Anglican 10%, Methodist 9.3%, Seventh Day Adventist 6%), Roman Catholic 11.4%, Jehovah's Witness 1.8%, other 14% (2006 est.)
 
-**Age structure**<br>
-_0-14 years_: 20.4% (male 6,288/female 6,056)<br>
-_15-64 years_: 73.2% (male 22,232/female 22,011)<br>
-_65 years and over_: 6.4% (2024 est.) (male 1,869/female 1,983)<br>
+### Age structure
+- `0-14 years`: 20.4% (male 6,288/female 6,056)
+- `15-64 years`: 73.2% (male 22,232/female 22,011)
+- `65 years and over`: 6.4% (2024 est.) (male 1,869/female 1,983)
 
-**Dependency ratios**<br>
-_total dependency ratio_: 36.8<br>
-_youth dependency ratio_: 22.9<br>
-_elderly dependency ratio_: 13.9<br>
-_potential support ratio_: 7.2 (2021)<br>
+### Dependency ratios
+- `total dependency ratio`: 36.8
+- `youth dependency ratio`: 22.9
+- `elderly dependency ratio`: 13.9
+- `potential support ratio`: 7.2 (2021)
 
-**Median age**<br>
-_total_: 36.3 years (2024 est.)<br>
-_male_: 36.5 years<br>
-_female_: 36.1 years<br>
+### Median age
+- `total`: 36.3 years (2024 est.)
+- `male`: 36.5 years
+- `female`: 36.1 years
 
-**Population growth rate**<br>
-1.77% (2024 est.)<br>
+### Population growth rate
+1.77% (2024 est.)
 
-**Birth rate**<br>
-13 births/1,000 population (2024 est.)<br>
+### Birth rate
+13 births/1,000 population (2024 est.)
 
-**Death rate**<br>
-3.6 deaths/1,000 population (2024 est.)<br>
+### Death rate
+3.6 deaths/1,000 population (2024 est.)
 
-**Net migration rate**<br>
-8.3 migrant(s)/1,000 population (2024 est.)<br>
+### Net migration rate
+8.3 migrant(s)/1,000 population (2024 est.)
 
-**Population distribution**<br>
-eight of the thirty islands are inhabited; the island of Providenciales is the most populated, but the most densely populated is Grand Turk<br>
+### Population distribution
+eight of the thirty islands are inhabited; the island of Providenciales is the most populated, but the most densely populated is Grand Turk
 
-**Urbanization**<br>
-_urban population_: 94.2% of total population (2023)<br>
-_rate of urbanization_: 1.46% annual rate of change (2020-25 est.)<br>
+### Urbanization
+- `urban population`: 94.2% of total population (2023)
+- `rate of urbanization`: 1.46% annual rate of change (2020-25 est.)
 
-**Major urban areas - population**<br>
-5,000 GRAND TURK (capital) (2018)<br>
+### Major urban areas - population
+5,000 GRAND TURK (capital) (2018)
 
-**Sex ratio**<br>
-_at birth_: 1.05 male(s)/female<br>
-_0-14 years_: 1.04 male(s)/female<br>
-_15-64 years_: 1.01 male(s)/female<br>
-_65 years and over_: 0.94 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2024 est.)<br>
+### Sex ratio
+- `at birth`: 1.05 male(s)/female
+- `0-14 years`: 1.04 male(s)/female
+- `15-64 years`: 1.01 male(s)/female
+- `65 years and over`: 0.94 male(s)/female
+- `total population`: 1.01 male(s)/female (2024 est.)
 
-**Infant mortality rate**<br>
-_total_: 11.1 deaths/1,000 live births (2024 est.)<br>
-_male_: 13.9 deaths/1,000 live births<br>
-_female_: 8.1 deaths/1,000 live births<br>
+### Infant mortality rate
+- `total`: 11.1 deaths/1,000 live births (2024 est.)
+- `male`: 13.9 deaths/1,000 live births
+- `female`: 8.1 deaths/1,000 live births
 
-**Life expectancy at birth**<br>
-_total population_: 81.3 years (2024 est.)<br>
-_male_: 78.5 years<br>
-_female_: 84.1 years<br>
+### Life expectancy at birth
+- `total population`: 81.3 years (2024 est.)
+- `male`: 78.5 years
+- `female`: 84.1 years
 
-**Total fertility rate**<br>
-1.7 children born/woman (2024 est.)<br>
+### Total fertility rate
+1.7 children born/woman (2024 est.)
 
-**Gross reproduction rate**<br>
-0.83 (2024 est.)<br>
+### Gross reproduction rate
+0.83 (2024 est.)
 
-**Contraceptive prevalence rate**<br>
-34.4% (2019/20)<br>
+### Contraceptive prevalence rate
+34.4% (2019/20)
 
-**Drinking water source**<br>
-_improved: total_: total: 94.3% of population<br>
-_unimproved: total_: total: 5.7% of population (2017)<br>
+### Drinking water source
+- `improved: total`: total: 94.3% of population
+- `unimproved: total`: total: 5.7% of population (2017)
 
-**Current health expenditure**<br>
-NA<br>
+### Current health expenditure
+NA
 
-**Physician density**<br>
-NA<br>
+### Physician density
+NA
 
-**Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 88% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 12% of population (2017)<br>
+### Sanitation facility access
+- `improved: urban`: urban: NA
+- `improved: rural`: rural: NA
+- `improved: total`: total: 88% of population
+- `unimproved: urban`: urban: NA
+- `unimproved: rural`: rural: NA
+- `unimproved: total`: total: 12% of population (2017)
 
-**Children under the age of 5 years underweight**<br>
-0.4% (2019/20) NA<br>
+### Children under the age of 5 years underweight
+0.4% (2019/20) NA
 
-**Currently married women (ages 15-49)**<br>
-59.1% (2023 est.)<br>
+### Currently married women (ages 15-49)
+59.1% (2023 est.)
 
-**Child marriage**<br>
-_women married by age 18_: 23.3%<br>
-_men married by age 18_: 5.1% (2020 est.)<br>
+### Child marriage
+- `women married by age 18`: 23.3%
+- `men married by age 18`: 5.1% (2020 est.)
 
-**Education expenditures**<br>
-4.5% of GDP (2021 est.)<br>
+### Education expenditures
+4.5% of GDP (2021 est.)
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
+### Literacy
+- `total population`: NA
+- `male`: NA
+- `female`: NA
 
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 9 years<br>
-_male_: NA<br>
-_female_: (2015) NA<br>
+### School life expectancy (primary to tertiary education)
+- `total`: 9 years
+- `male`: NA
+- `female`: (2015) NA
 
-**People - note**<br>
-destination and transit point for illegal Haitian immigrants bound for the Bahamas and the US<br>
+### People - note
+destination and transit point for illegal Haitian immigrants bound for the Bahamas and the US
 
 ## Environment
 
-**Environment - current issues**<br>
-limited natural freshwater resources, private cisterns collect rainwater<br>
+### Environment - current issues
+limited natural freshwater resources, private cisterns collect rainwater
 
-**Climate**<br>
-tropical; marine; moderated by trade winds; sunny and relatively dry<br>
+### Climate
+tropical; marine; moderated by trade winds; sunny and relatively dry
 
-**Land use**<br>
-_agricultural land_: 1.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 1.1% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 36.2% (2018 est.)<br>
-_other_: 62.7% (2018 est.)<br>
+### Land use
+- `agricultural land`: 1.1% (2018 est.)
+- `agricultural land: arable land`: arable land: 1.1% (2018 est.)
+- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
+- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
+- `forest`: 36.2% (2018 est.)
+- `other`: 62.7% (2018 est.)
 
-**Urbanization**<br>
-_urban population_: 94.2% of total population (2023)<br>
-_rate of urbanization_: 1.46% annual rate of change (2020-25 est.)<br>
+### Urbanization
+- `urban population`: 94.2% of total population (2023)
+- `rate of urbanization`: 1.46% annual rate of change (2020-25 est.)
 
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
+### Revenue from forest resources
+0% of GDP (2018 est.)
 
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
+### Revenue from coal
+0% of GDP (2018 est.)
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 0.22 megatons (2016 est.)<br>
+### Air pollutants
+- `carbon dioxide emissions`: 0.22 megatons (2016 est.)
 
 ## Government
 
-**Country name**<br>
-_conventional long form_: none<br>
-_conventional short form_: Turks and Caicos Islands<br>
-_abbreviation_: TCI<br>
-_etymology_: the Turks Islands are named after the Turk's cap cactus (native to the islands and appearing on the flag and coat of arms), while the Caicos Islands derive from the native term "caya hico" meaning "string of islands"<br>
+### Country name
+- `conventional long form`: none
+- `conventional short form`: Turks and Caicos Islands
+- `abbreviation`: TCI
+- `etymology`: the Turks Islands are named after the Turk's cap cactus (native to the islands and appearing on the flag and coat of arms), while the Caicos Islands derive from the native term "caya hico" meaning "string of islands"
 
-**Government type**<br>
-parliamentary democracy<br>
+### Government type
+parliamentary democracy
 
-**Dependency status**<br>
-overseas territory of the UK<br>
+### Dependency status
+overseas territory of the UK
 
-**Capital**<br>
-_name_: Grand Turk (Cockburn Town)<br>
-_geographic coordinates_: 21 28 N, 71 08 W<br>
-_time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
-_etymology_: named after Sir Francis COCKBURN, who served as governor of the Bahamas from 1837 to 1844<br>
+### Capital
+- `name`: Grand Turk (Cockburn Town)
+- `geographic coordinates`: 21 28 N, 71 08 W
+- `time difference`: UTC-5 (same time as Washington, DC, during Standard Time)
+- `etymology`: named after Sir Francis COCKBURN, who served as governor of the Bahamas from 1837 to 1844
 
-**Administrative divisions**<br>
-none (overseas territory of the UK)<br>
+### Administrative divisions
+none (overseas territory of the UK)
 
-**Independence**<br>
-none (overseas territory of the UK)<br>
+### Independence
+none (overseas territory of the UK)
 
-**National holiday**<br>
-Birthday of Queen ELIZABETH II, usually celebrated the Monday after the second Saturday in June<br>
+### National holiday
+Birthday of Queen ELIZABETH II, usually celebrated the Monday after the second Saturday in June
 
-**Legal system**<br>
-mixed legal system of English common law and civil law<br>
+### Legal system
+mixed legal system of English common law and civil law
 
-**Constitution**<br>
-_history_: several previous; latest signed 7 August 2012, effective 15 October 2012 (The Turks and Caicos Constitution Order 2011)<br>
-_amendments_: NA<br>
+### Constitution
+- `history`: several previous; latest signed 7 August 2012, effective 15 October 2012 (The Turks and Caicos Constitution Order 2011)
+- `amendments`: NA
 
-**Citizenship**<br>
-see United Kingdom<br>
+### Citizenship
+see United Kingdom
 
-**Suffrage**<br>
-18 years of age; universal<br>
+### Suffrage
+18 years of age; universal
 
-**Executive branch**<br>
-_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Dileeni Daniel-SELVARATNAM (since 29 June 2023)<br>
-_head of government_: Premier Washington MISICK (since 19 February 2021)<br>
-_cabinet_: Cabinet appointed by the governor from among members of the House of Assembly<br>
-_elections/appointments_: the monarch is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party is appointed premier by the governor<br>
+### Executive branch
+- `chief of state`: King CHARLES III (since 8 September 2022); represented by Governor Dileeni Daniel-SELVARATNAM (since 29 June 2023)
+- `head of government`: Premier Washington MISICK (since 19 February 2021)
+- `cabinet`: Cabinet appointed by the governor from among members of the House of Assembly
+- `elections/appointments`: the monarch is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party is appointed premier by the governor
 
-**Legislative branch**<br>
-_description_: unicameral House of Assembly (21 seats; 15 members in multi-seat constituencies and a single all-islands constituency directly elected by simple majority vote, 1 member nominated by the premier and appointed by the governor, 1 nominated by the opposition party leader and appointed by the governor, and 2 from the Turks and Caicos Islands Civic Society directly appointed by the governor, and 2 ex-officio members; members serve 4-year terms)<br>
-_elections_: last held on 19 February 2021 (next to be held in 2025)<br>
-_election results_: percent of vote - NA; seats by party - PNP 14, PDM 1; composition - men 11, women 3, percentage women 27.3%<br>
+### Legislative branch
+- `description`: unicameral House of Assembly (21 seats; 15 members in multi-seat constituencies and a single all-islands constituency directly elected by simple majority vote, 1 member nominated by the premier and appointed by the governor, 1 nominated by the opposition party leader and appointed by the governor, and 2 from the Turks and Caicos Islands Civic Society directly appointed by the governor, and 2 ex-officio members; members serve 4-year terms)
+- `elections`: last held on 19 February 2021 (next to be held in 2025)
+- `election results`: percent of vote - NA; seats by party - PNP 14, PDM 1; composition - men 11, women 3, percentage women 27.3%
 
-**Judicial branch**<br>
-_highest court(s)_: Supreme Court (consists of the chief justice and other judges, as determined by the governor); Court of Appeal (consists of the court president and 2 justices); note - appeals beyond the Supreme Court are referred to the Judicial Committee of the Privy Council (in London)<br>
-_judge selection and term of office_: Supreme Court and Appeals Court judges appointed by the governor in accordance with the Judicial Service Commission, a 3-member body of high-level judicial officials; Supreme Court judges serve until mandatory retirement at age 65, but terms can be extended to age 70; Appeals Court judge tenure determined by individual terms of appointment<br>
-_subordinate courts_: magistrates' courts<br>
+### Judicial branch
+- `highest court(s)`: Supreme Court (consists of the chief justice and other judges, as determined by the governor); Court of Appeal (consists of the court president and 2 justices); note - appeals beyond the Supreme Court are referred to the Judicial Committee of the Privy Council (in London)
+- `judge selection and term of office`: Supreme Court and Appeals Court judges appointed by the governor in accordance with the Judicial Service Commission, a 3-member body of high-level judicial officials; Supreme Court judges serve until mandatory retirement at age 65, but terms can be extended to age 70; Appeals Court judge tenure determined by individual terms of appointment
+- `subordinate courts`: magistrates' courts
 
-**Political parties**<br>
-People's Democratic Movement or PDM<br>Progressive National Party or PNP<br>
+### Political parties
+People's Democratic Movement or PDMProgressive National Party or PNP
 
-**International organization participation**<br>
-Caricom (associate), CDB, Interpol (subbureau), UPU<br>
+### International organization participation
+Caricom (associate), CDB, Interpol (subbureau), UPU
 
-**Diplomatic representation in the US**<br>
-none (overseas territory of the UK)<br>
+### Diplomatic representation in the US
+none (overseas territory of the UK)
 
-**Diplomatic representation from the US**<br>
-_embassy_: none (overseas territory of the UK)<br>
+### Diplomatic representation from the US
+- `embassy`: none (overseas territory of the UK)
 
-**Flag description**<br>
-blue with the flag of the UK in the upper hoist-side quadrant and the colonial shield centered on the outer half of the flag; the shield is yellow and displays a conch shell, a spiny lobster, and Turk's cap cactus - three common elements of the islands' biota<br>
+### Flag description
+blue with the flag of the UK in the upper hoist-side quadrant and the colonial shield centered on the outer half of the flag; the shield is yellow and displays a conch shell, a spiny lobster, and Turk's cap cactus - three common elements of the islands' biota
 
-**National symbol(s)**<br>
-conch shell, Turk's cap cactus<br>
+### National symbol(s)
+conch shell, Turk's cap cactus
 
-**National anthem**<br>
-_name_: "This Land of Ours"<br>
-_lyrics/music_: Conrad HOWELL<br>
-<strong>note:</strong> serves as a local anthem; as an overseas territory of the UK, "God Save the King" is the official anthem (see United Kingdom)<br>
+### National anthem
+- `name`: "This Land of Ours"
+- `lyrics/music`: Conrad HOWELL
+**note**:  serves as a local anthem; as an overseas territory of the UK, "God Save the King" is the official anthem (see United Kingdom)
 
 ## Economy
 
-**Economic overview**<br>
-British Caribbean island territorial economy; GDP and its tourism industry hit hard by COVID-19 disruptions; major biodiversity locale; US dollar user; fossil fuel dependent; negative trade balance; increasing unemployment<br>
+### Economic overview
+British Caribbean island territorial economy; GDP and its tourism industry hit hard by COVID-19 disruptions; major biodiversity locale; US dollar user; fossil fuel dependent; negative trade balance; increasing unemployment
 
-**Real GDP (purchasing power parity)**<br>
-$1.03 billion (2023 est.)<br>
-$1.018 billion (2022 est.)<br>
-$958.811 million (2021 est.)<br>
-<b>note:</b> data in 2021 dollars<br>
+### Real GDP (purchasing power parity)
+$1.03 billion (2023 est.)
+$1.018 billion (2022 est.)
+$958.811 million (2021 est.)
+**note**: data in 2021 dollars
 
-**Real GDP growth rate**<br>
-1.2% (2023 est.)<br>
-6.2% (2022 est.)<br>
-9.03% (2021 est.)<br>
-<b>note:</b> annual GDP % growth based on constant local currency<br>
+### Real GDP growth rate
+1.2% (2023 est.)
+6.2% (2022 est.)
+9.03% (2021 est.)
+**note**: annual GDP % growth based on constant local currency
 
-**Real GDP per capita**<br>
-$22,400 (2023 est.)<br>
-$22,300 (2022 est.)<br>
-$21,300 (2021 est.)<br>
-<b>note:</b> data in 2021 dollars<br>
+### Real GDP per capita
+$22,400 (2023 est.)
+$22,300 (2022 est.)
+$21,300 (2021 est.)
+**note**: data in 2021 dollars
 
-**GDP (official exchange rate)**<br>
-$1.402 billion (2023 est.)<br>
-<b>note:</b> data in current dollars at official exchange rate<br>
+### GDP (official exchange rate)
+$1.402 billion (2023 est.)
+**note**: data in current dollars at official exchange rate
 
-**Inflation rate (consumer prices)**<br>
-4% (2017 est.)<br>
-0.7% (2016 est.)<br>
+### Inflation rate (consumer prices)
+4% (2017 est.)
+0.7% (2016 est.)
 
-**GDP - composition, by sector of origin**<br>
-_agriculture_: 0.4% (2016 est.)<br>
-_industry_: 9.5% (2016 est.)<br>
-_services_: 77.9% (2016 est.)<br>
-<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
+### GDP - composition, by sector of origin
+- `agriculture`: 0.4% (2016 est.)
+- `industry`: 9.5% (2016 est.)
+- `services`: 77.9% (2016 est.)
+**note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
-**GDP - composition, by end use**<br>
-_household consumption_: 49% (2017 est.)<br>
-_government consumption_: 21.5% (2017 est.)<br>
-_investment in fixed capital_: 16.5% (2017 est.)<br>
-_investment in inventories_: -0.1% (2017 est.)<br>
-_exports of goods and services_: 69.5% (2017 est.)<br>
-_imports of goods and services_: -56.4% (2017 est.)<br>
+### GDP - composition, by end use
+- `household consumption`: 49% (2017 est.)
+- `government consumption`: 21.5% (2017 est.)
+- `investment in fixed capital`: 16.5% (2017 est.)
+- `investment in inventories`: -0.1% (2017 est.)
+- `exports of goods and services`: 69.5% (2017 est.)
+- `imports of goods and services`: -56.4% (2017 est.)
 
-**Agricultural products**<br>
-corn, beans, cassava (manioc, tapioca), citrus fruits; fish<br>
+### Agricultural products
+corn, beans, cassava (manioc, tapioca), citrus fruits; fish
 
-**Industries**<br>
-tourism, offshore financial services<br>
+### Industries
+tourism, offshore financial services
 
-**Industrial production growth rate**<br>
-5.84% (2016 est.)<br>
-<b>note:</b> annual % change in industrial value added based on constant local currency<br>
+### Industrial production growth rate
+5.84% (2016 est.)
+**note**: annual % change in industrial value added based on constant local currency
 
-**Remittances**<br>
-0% of GDP (2023 est.)<br>
-0% of GDP (2022 est.)<br>
-0% of GDP (2021 est.)<br>
-<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+### Remittances
+0% of GDP (2023 est.)
+0% of GDP (2022 est.)
+0% of GDP (2021 est.)
+**note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
-**Budget**<br>
-_revenues_: $247.3 million (2017 est.)<br>
-_expenditures_: $224.3 million (2017 est.)<br>
+### Budget
+- `revenues`: $247.3 million (2017 est.)
+- `expenditures`: $224.3 million (2017 est.)
 
-**Current account balance**<br>
-$172.709 million (2018 est.)<br>
-$35.016 million (2017 est.)<br>
-$247.081 million (2016 est.)<br>
-<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
+### Current account balance
+$172.709 million (2018 est.)
+$35.016 million (2017 est.)
+$247.081 million (2016 est.)
+**note**: balance of payments - net trade and primary/secondary income in current dollars
 
-**Exports**<br>
-$826.824 million (2018 est.)<br>
-$602.581 million (2017 est.)<br>
-$741.173 million (2016 est.)<br>
-<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
+### Exports
+$826.824 million (2018 est.)
+$602.581 million (2017 est.)
+$741.173 million (2016 est.)
+**note**: balance of payments - exports of goods and services in current dollars
 
-**Exports - partners**<br>
-Togo 61%, US 13%, Zimbabwe 6%, Democratic Republic of the Congo 3%, Central African Republic 2% (2022)<br>
-<b>note:</b> top five export partners based on percentage share of exports<br>
+### Exports - partners
+Togo 61%, US 13%, Zimbabwe 6%, Democratic Republic of the Congo 3%, Central African Republic 2% (2022)
+**note**: top five export partners based on percentage share of exports
 
-**Exports - commodities**<br>
-fertilizers, shellfish, plastics, sulfur, soybean oil (2022)<br>
-<b>note:</b> top five export commodities based on value in dollars<br>
+### Exports - commodities
+fertilizers, shellfish, plastics, sulfur, soybean oil (2022)
+**note**: top five export commodities based on value in dollars
 
-**Imports**<br>
-$544.219 million (2018 est.)<br>
-$484.842 million (2017 est.)<br>
-$438.041 million (2016 est.)<br>
-<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
+### Imports
+$544.219 million (2018 est.)
+$484.842 million (2017 est.)
+$438.041 million (2016 est.)
+**note**: balance of payments - imports of goods and services in current dollars
 
-**Imports - partners**<br>
-US 75%, Dominican Republic 6%, Italy 3%, Switzerland 2%, China 2% (2022)<br>
-<b>note:</b> top five import partners based on percentage share of imports<br>
+### Imports - partners
+US 75%, Dominican Republic 6%, Italy 3%, Switzerland 2%, China 2% (2022)
+**note**: top five import partners based on percentage share of imports
 
-**Imports - commodities**<br>
-refined petroleum, cars, plastic products, furniture, aluminum structures (2022)<br>
-<b>note:</b> top five import commodities based on value in dollars<br>
+### Imports - commodities
+refined petroleum, cars, plastic products, furniture, aluminum structures (2022)
+**note**: top five import commodities based on value in dollars
 
-**Exchange rates**<br>
-<p>the US dollar is used</p><br>
+### Exchange rates
+the US dollar is used
 
 ## Energy
 
-**Electricity access**<br>
-_electrification - total population_: 99.9% (2022 est.)<br>
-_electrification - urban areas_: 100%<br>
-_electrification - rural areas_: 100%<br>
+### Electricity access
+- `electrification - total population`: 99.9% (2022 est.)
+- `electrification - urban areas`: 100%
+- `electrification - rural areas`: 100%
 
-**Electricity**<br>
-_installed generating capacity_: 91,000 kW (2022 est.)<br>
-_consumption_: 249.998 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 13 million kWh (2022 est.)<br>
+### Electricity
+- `installed generating capacity`: 91,000 kW (2022 est.)
+- `consumption`: 249.998 million kWh (2022 est.)
+- `transmission/distribution losses`: 13 million kWh (2022 est.)
 
-**Electricity generation sources**<br>
-_fossil fuels_: 99.5% of total installed capacity (2022 est.)<br>
-_solar_: 0.5% of total installed capacity (2022 est.)<br>
+### Electricity generation sources
+- `fossil fuels`: 99.5% of total installed capacity (2022 est.)
+- `solar`: 0.5% of total installed capacity (2022 est.)
 
-**Petroleum**<br>
-_refined petroleum consumption_: 2,000 bbl/day (2022 est.)<br>
+### Petroleum
+- `refined petroleum consumption`: 2,000 bbl/day (2022 est.)
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 244,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 244,000 metric tonnes of CO2 (2022 est.)<br>
+### Carbon dioxide emissions
+- `total emissions`: 244,000 metric tonnes of CO2 (2022 est.)
+- `from petroleum and other liquids`: 244,000 metric tonnes of CO2 (2022 est.)
 
 ## Communications
 
-**Telephones - fixed lines**<br>
-_total subscriptions_: 4,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 9 (2021 est.)<br>
+### Telephones - fixed lines
+- `total subscriptions`: 4,000 (2021 est.)
+- `subscriptions per 100 inhabitants`: 9 (2021 est.)
 
-**Telephones - mobile cellular**<br>
-_total subscriptions_: 25,085 (2004 est.)<br>
-_subscriptions per 100 inhabitants_: 110 (2004 est.)<br>
+### Telephones - mobile cellular
+- `total subscriptions`: 25,085 (2004 est.)
+- `subscriptions per 100 inhabitants`: 110 (2004 est.)
 
-**Telecommunication systems**<br>
-_general assessment_: is connected to the internet via a single submarine fiber-optic cable (Arcos-1), which links the US and several Caribbean countries (2023)<br>
-_domestic_: fixed-line teledensity is 9 per 100 persons (2021)<br>
-_international_: country code - 1-649;&nbsp;landing point for the&nbsp;ARCOS fiber-optic telecommunications submarine cable providing connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2020)<br>
+### Telecommunication systems
+- `general assessment`: is connected to the internet via a single submarine fiber-optic cable (Arcos-1), which links the US and several Caribbean countries (2023)
+- `domestic`: fixed-line teledensity is 9 per 100 persons (2021)
+- `international`: country code - 1-649; landing point for the ARCOS fiber-optic telecommunications submarine cable providing connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2020)
 
-**Broadcast media**<br>
-no local terrestrial TV stations, broadcasts from the Bahamas can be received and multi-channel cable and satellite TV services are available; government-run radio network operates alongside private broadcasters with a total of about 15 stations<br>
+### Broadcast media
+no local terrestrial TV stations, broadcasts from the Bahamas can be received and multi-channel cable and satellite TV services are available; government-run radio network operates alongside private broadcasters with a total of about 15 stations
 
-**Internet country code**<br>
-.tc<br>
+### Internet country code
+.tc
 
-**Internet users**<br>
-_total_: 37,008 (2022)<br>
-_percent of population_: 93.5% (2022)<br>
+### Internet users
+- `total`: 37,008 (2022)
+- `percent of population`: 93.5% (2022)
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 3 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 22<br>
+### National air transport system
+- `number of registered air carriers`: 3 (2020)
+- `inventory of registered aircraft operated by air carriers`: 22
 
-**Civil aircraft registration country code prefix**<br>
-VQ-T<br>
+### Civil aircraft registration country code prefix
+VQ-T
 
-**Airports**<br>
-9 (2024)<br>
+### Airports
+9 (2024)
 
-**Roadways**<br>
-_total_: 121 km<br>
-_paved_: 24 km<br>
-_unpaved_: 97 km (2003)<br>
+### Roadways
+- `total`: 121 km
+- `paved`: 24 km
+- `unpaved`: 97 km (2003)
 
-**Merchant marine**<br>
-_total_: 3 (2023)<br>
-_by type_: general cargo 1, other 2<br>
+### Merchant marine
+- `total`: 3 (2023)
+- `by type`: general cargo 1, other 2
 
-**Ports**<br>
-_total ports_: 3 (2024)<br>
-_large_: 0<br>
-_medium_: 0<br>
-_small_: 0<br>
-_very small_: 2<br>
-_size unknown_: 1<br>
-_ports with oil terminals_: 1<br>
-_key ports_: Cockburn Harbor, Grand Turk, Providenciales<br>
+### Ports
+- `total ports`: 3 (2024)
+- `large`: 0
+- `medium`: 0
+- `small`: 0
+- `very small`: 2
+- `size unknown`: 1
+- `ports with oil terminals`: 1
+- `key ports`: Cockburn Harbor, Grand Turk, Providenciales
 
 ## Military and Security
 
-**Military - note**<br>
-defense is the responsibility of the UK<br>
+### Military - note
+defense is the responsibility of the UK
 
 ## Transnational Issues
 
-**Illicit drugs**<br>
-transshipment point for South American narcotics destined for the US and Europe<br>
+### Illicit drugs
+transshipment point for South American narcotics destined for the US and Europe
 

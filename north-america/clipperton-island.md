@@ -4,98 +4,98 @@ _North America / Dependencies (France)_
 
 ## Introduction
 
-**Background**<br>
-This isolated atoll was named for John CLIPPERTON, an English pirate who was rumored to have made it his hideout early in the 18th century. Annexed by France in 1855 and claimed by the US, it was seized by Mexico in 1897. Arbitration eventually awarded the island to France in 1931, which took possession in 1935.<br>
+### Background
+This isolated atoll was named for John CLIPPERTON, an English pirate who was rumored to have made it his hideout early in the 18th century. Annexed by France in 1855 and claimed by the US, it was seized by Mexico in 1897. Arbitration eventually awarded the island to France in 1931, which took possession in 1935.
 
 ## Geography
 
-**Location**<br>
-Middle America, atoll in the North Pacific Ocean, 1,120 km southwest of Mexico<br>
+### Location
+Middle America, atoll in the North Pacific Ocean, 1,120 km southwest of Mexico
 
-**Geographic coordinates**<br>
-10 17 N, 109 13 W<br>
+### Geographic coordinates
+10 17 N, 109 13 W
 
-**Map references**<br>
-Political Map of the World<br>
+### Map references
+Political Map of the World
 
-**Area**<br>
-_total _: 6 sq km<br>
-_land_: 6 sq km<br>
-_water_: 0 sq km<br>
+### Area
+- `total `: 6 sq km
+- `land`: 6 sq km
+- `water`: 0 sq km
 
-**Area - comparative**<br>
-about 12 times the size of The Mall in Washington, DC<br>
+### Area - comparative
+about 12 times the size of The Mall in Washington, DC
 
-**Land boundaries**<br>
-_total_: 0 km<br>
+### Land boundaries
+- `total`: 0 km
 
-**Coastline**<br>
-11.1 km<br>
+### Coastline
+11.1 km
 
-**Maritime claims**<br>
-_territorial sea_: 12 nm<br>
-_exclusive economic zone_: 200 nm<br>
+### Maritime claims
+- `territorial sea`: 12 nm
+- `exclusive economic zone`: 200 nm
 
-**Climate**<br>
-tropical; humid, average temperature 20-32 degrees Celsius, wet season (May to October)<br>
+### Climate
+tropical; humid, average temperature 20-32 degrees Celsius, wet season (May to October)
 
-**Terrain**<br>
-coral atoll<br>
+### Terrain
+coral atoll
 
-**Elevation**<br>
-_highest point_: Rocher Clipperton 29 m<br>
-_lowest point_: Pacific Ocean 0 m<br>
+### Elevation
+- `highest point`: Rocher Clipperton 29 m
+- `lowest point`: Pacific Ocean 0 m
 
-**Natural resources**<br>
-fish<br>
+### Natural resources
+fish
 
-**Land use**<br>
-_agricultural land_: 0% (2018 est.)<br>
-_forest_: 0% (2018 est.)<br>
-_other_: 100% (2018 est.)<br>
+### Land use
+- `agricultural land`: 0% (2018 est.)
+- `forest`: 0% (2018 est.)
+- `other`: 100% (2018 est.)
 
-**Natural hazards**<br>
-subject to tropical storms and hurricanes from May to October<br>
+### Natural hazards
+subject to tropical storms and hurricanes from May to October
 
-**Geography - note**<br>
-the atoll reef is approximately 12 km (7.5 mi) in circumference; an attempt to colonize the atoll in the early 20th century ended in disaster and was abandoned in 1917<br>
+### Geography - note
+the atoll reef is approximately 12 km (7.5 mi) in circumference; an attempt to colonize the atoll in the early 20th century ended in disaster and was abandoned in 1917
 
 ## People and Society
 
-**Population**<br>
-_total_: uninhabited<br>
+### Population
+- `total`: uninhabited
 
 ## Environment
 
-**Environment - current issues**<br>
-no natural resources, guano deposits depleted; the ring-shaped atoll encloses a stagnant fresh-water lagoon<br>
+### Environment - current issues
+no natural resources, guano deposits depleted; the ring-shaped atoll encloses a stagnant fresh-water lagoon
 
-**Climate**<br>
-tropical; humid, average temperature 20-32 degrees Celsius, wet season (May to October)<br>
+### Climate
+tropical; humid, average temperature 20-32 degrees Celsius, wet season (May to October)
 
-**Land use**<br>
-_agricultural land_: 0% (2018 est.)<br>
-_forest_: 0% (2018 est.)<br>
-_other_: 100% (2018 est.)<br>
+### Land use
+- `agricultural land`: 0% (2018 est.)
+- `forest`: 0% (2018 est.)
+- `other`: 100% (2018 est.)
 
 ## Government
 
-**Country name**<br>
-_conventional long form_: none<br>
-_conventional short form_: Clipperton Island<br>
-_local long form_: none<br>
-_local short form_: Ile Clipperton<br>
-_former_: sometimes referred to as Ile de la Passion or Atoll Clipperton<br>
-_etymology_: named after an 18th-century English pirate who supposedly used the island as a base<br>
+### Country name
+- `conventional long form`: none
+- `conventional short form`: Clipperton Island
+- `local long form`: none
+- `local short form`: Ile Clipperton
+- `former`: sometimes referred to as Ile de la Passion or Atoll Clipperton
+- `etymology`: named after an 18th-century English pirate who supposedly used the island as a base
 
-**Dependency status**<br>
-possession of France; administered directly by the Minister of Overseas France<br>
+### Dependency status
+possession of France; administered directly by the Minister of Overseas France
 
-**Legal system**<br>
-the laws of France apply<br>
+### Legal system
+the laws of France apply
 
-**Flag description**<br>
-the flag of France is used<br>
+### Flag description
+the flag of France is used
 
 ## Economy
 
@@ -103,8 +103,8 @@ the flag of France is used<br>
 
 ## Military and Security
 
-**Military - note**<br>
-defense is the responsibility of France<br>
+### Military - note
+defense is the responsibility of France
 
 ## Transnational Issues
 

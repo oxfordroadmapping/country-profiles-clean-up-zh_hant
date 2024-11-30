@@ -4,134 +4,134 @@ _Antarctica / Dependencies (Norway)_
 
 ## Introduction
 
-**Background**<br>
-This uninhabited volcanic island in Antarctica is almost entirely covered by glaciers, making it difficult to approach. Bouvet Island is recognized as the most remote island on Earth because it is furthest from any other point of land (1,639 km from Antarctica). The island was named after the French naval officer who discovered it in 1739, although no country laid claim to it until 1825, when the British flag was raised. A few expeditions visited the island in the late 19th century. In 1929, the UK waived its claim in favor of Norway, which had occupied the island two years previously. In 1971, Norway designated Bouvet Island and the adjacent territorial waters as a nature reserve. Since 1977, Norway has run an automated meteorological station and studied foraging strategies and distribution of fur seals and penguins on the island. In 2006, an earthquake weakened the station's foundation, causing it to be blown out to sea in a winter storm. Norway erected a new research station in 2014 that can hold six people for periods of two to four months.<br>
+### Background
+This uninhabited volcanic island in Antarctica is almost entirely covered by glaciers, making it difficult to approach. Bouvet Island is recognized as the most remote island on Earth because it is furthest from any other point of land (1,639 km from Antarctica). The island was named after the French naval officer who discovered it in 1739, although no country laid claim to it until 1825, when the British flag was raised. A few expeditions visited the island in the late 19th century. In 1929, the UK waived its claim in favor of Norway, which had occupied the island two years previously. In 1971, Norway designated Bouvet Island and the adjacent territorial waters as a nature reserve. Since 1977, Norway has run an automated meteorological station and studied foraging strategies and distribution of fur seals and penguins on the island. In 2006, an earthquake weakened the station's foundation, causing it to be blown out to sea in a winter storm. Norway erected a new research station in 2014 that can hold six people for periods of two to four months.
 
 ## Geography
 
-**Location**<br>
-island in the South Atlantic Ocean, southwest of the Cape of Good Hope (South Africa)<br>
+### Location
+island in the South Atlantic Ocean, southwest of the Cape of Good Hope (South Africa)
 
-**Geographic coordinates**<br>
-54 26 S, 3 24 E<br>
+### Geographic coordinates
+54 26 S, 3 24 E
 
-**Map references**<br>
-Antarctic Region<br>
+### Map references
+Antarctic Region
 
-**Area**<br>
-_total _: 49 sq km<br>
-_land_: 49 sq km<br>
-_water_: 0 sq km<br>
+### Area
+- `total `: 49 sq km
+- `land`: 49 sq km
+- `water`: 0 sq km
 
-**Area - comparative**<br>
-about 0.3 times the size of Washington, DC<br>
+### Area - comparative
+about 0.3 times the size of Washington, DC
 
-**Land boundaries**<br>
-_total_: 0 km<br>
+### Land boundaries
+- `total`: 0 km
 
-**Coastline**<br>
-29.6 km<br>
+### Coastline
+29.6 km
 
-**Maritime claims**<br>
-_territorial sea_: 4 nm<br>
+### Maritime claims
+- `territorial sea`: 4 nm
 
-**Climate**<br>
-antarctic<br>
+### Climate
+antarctic
 
-**Terrain**<br>
-volcanic; coast is mostly inaccessible<br>
+### Terrain
+volcanic; coast is mostly inaccessible
 
-**Elevation**<br>
-_highest point_: Olavtoppen (Olav Peak) 780 m<br>
-_lowest point_: South Atlantic Ocean 0 m<br>
+### Elevation
+- `highest point`: Olavtoppen (Olav Peak) 780 m
+- `lowest point`: South Atlantic Ocean 0 m
 
-**Natural resources**<br>
-none<br>
+### Natural resources
+none
 
-**Land use**<br>
-_agricultural land_: 0% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 0% (2018 est.)<br>
-_other_: 100% (2018 est.)<br>
+### Land use
+- `agricultural land`: 0% (2018 est.)
+- `agricultural land: arable land`: arable land: 0% (2018 est.)
+- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
+- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
+- `forest`: 0% (2018 est.)
+- `other`: 100% (2018 est.)
 
-**Natural hazards**<br>
-occasional volcanism, rock slides; harsh climate, surrounded by pack ice in winter<br>
+### Natural hazards
+occasional volcanism, rock slides; harsh climate, surrounded by pack ice in winter
 
-**Geography - note**<br>
-almost entirely covered by glacial ice (93%); declared a nature reserve by Norway; the distance from Bouvet Island to Norway is 12,776 km, which is almost one-third the circumference of the earth<br>
+### Geography - note
+almost entirely covered by glacial ice (93%); declared a nature reserve by Norway; the distance from Bouvet Island to Norway is 12,776 km, which is almost one-third the circumference of the earth
 
 ## People and Society
 
-**Population**<br>
-_total_: uninhabited<br>
+### Population
+- `total`: uninhabited
 
 ## Environment
 
-**Environment - current issues**<br>
-none; almost entirely ice covered<br>
+### Environment - current issues
+none; almost entirely ice covered
 
-**Climate**<br>
-antarctic<br>
+### Climate
+antarctic
 
-**Land use**<br>
-_agricultural land_: 0% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 0% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 0% (2018 est.)<br>
-_other_: 100% (2018 est.)<br>
+### Land use
+- `agricultural land`: 0% (2018 est.)
+- `agricultural land: arable land`: arable land: 0% (2018 est.)
+- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
+- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
+- `forest`: 0% (2018 est.)
+- `other`: 100% (2018 est.)
 
 ## Government
 
-**Country name**<br>
-_conventional long form_: none<br>
-_conventional short form_: Bouvet Island<br>
-_etymology_: named after the French naval officer Jean-Baptiste Charles BOUVET who discovered the island in 1739<br>
-<strong>note:</strong> pronounced boo-vay i-land<br>
+### Country name
+- `conventional long form`: none
+- `conventional short form`: Bouvet Island
+- `etymology`: named after the French naval officer Jean-Baptiste Charles BOUVET who discovered the island in 1739
+**note**:  pronounced boo-vay i-land
 
-**Dependency status**<br>
-territory of Norway; administered by the Polar Department of the Ministry of Justice and Oslo Police<br>
+### Dependency status
+territory of Norway; administered by the Polar Department of the Ministry of Justice and Oslo Police
 
-**Legal system**<br>
-the laws of Norway apply where applicable<br>
+### Legal system
+the laws of Norway apply where applicable
 
-**Flag description**<br>
-the flag of Norway is used<br>
+### Flag description
+the flag of Norway is used
 
 ## Economy
 
-**Exports - partners**<br>
-Singapore 76%, US 7%, Uzbekistan 5%, UK 2%, Brazil 1% (2022)<br>
-<b>note:</b> top five export partners based on percentage share of exports<br>
+### Exports - partners
+Singapore 76%, US 7%, Uzbekistan 5%, UK 2%, Brazil 1% (2022)
+**note**: top five export partners based on percentage share of exports
 
-**Exports - commodities**<br>
-fish, tensile testing machines, jewelry, paper, garments (2022)<br>
-<b>note:</b> top five export commodities based on value in dollars<br>
+### Exports - commodities
+fish, tensile testing machines, jewelry, paper, garments (2022)
+**note**: top five export commodities based on value in dollars
 
-**Imports - partners**<br>
-Singapore 72%, US 18%, Panama 3%, Indonesia 2%, Denmark 1% (2022)<br>
-<b>note:</b> top five import partners based on percentage share of imports<br>
+### Imports - partners
+Singapore 72%, US 18%, Panama 3%, Indonesia 2%, Denmark 1% (2022)
+**note**: top five import partners based on percentage share of imports
 
-**Imports - commodities**<br>
-aluminum structures, animal products, cement, air pumps, electrical transformers (2022)<br>
-<b>note:</b> top five import commodities based on value in dollars<br>
+### Imports - commodities
+aluminum structures, animal products, cement, air pumps, electrical transformers (2022)
+**note**: top five import commodities based on value in dollars
 
 ## Communications
 
-**Internet country code**<br>
-.bv<br>
+### Internet country code
+.bv
 
-**Communications - note**<br>
-has an automated meteorological station<br>
+### Communications - note
+has an automated meteorological station
 
 ## Transportation
 
 ## Military and Security
 
-**Military - note**<br>
-defense is the responsibility of Norway<br>
+### Military - note
+defense is the responsibility of Norway
 
 ## Transnational Issues
 

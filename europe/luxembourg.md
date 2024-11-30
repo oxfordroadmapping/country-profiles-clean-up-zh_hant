@@ -4,682 +4,682 @@ _Europe / Countries_
 
 ## Introduction
 
-**Background**<br>
-Founded in 963, Luxembourg became a grand duchy in 1815 and a constituent part of the Kingdom of the Netherlands after the Congress of Vienna. When Belgium declared independence from the Netherlands in 1839, Luxembourg lost more than half of its territory to Belgium but gained a larger measure of autonomy within the Kingdom of the Netherlands.&nbsp; Luxembourg gained full independence in 1867 by promising to remain permanently neutral. Overrun by Germany in both world wars, its neutrality ended in 1948 when it entered into the Benelux Customs Union and joined NATO the following year. In 1957, Luxembourg became one of the six founding countries of the EEC (later the EU), and in 1999 it joined the euro currency zone.<br>
+### Background
+Founded in 963, Luxembourg became a grand duchy in 1815 and a constituent part of the Kingdom of the Netherlands after the Congress of Vienna. When Belgium declared independence from the Netherlands in 1839, Luxembourg lost more than half of its territory to Belgium but gained a larger measure of autonomy within the Kingdom of the Netherlands.  Luxembourg gained full independence in 1867 by promising to remain permanently neutral. Overrun by Germany in both world wars, its neutrality ended in 1948 when it entered into the Benelux Customs Union and joined NATO the following year. In 1957, Luxembourg became one of the six founding countries of the EEC (later the EU), and in 1999 it joined the euro currency zone.
 
 ## Geography
 
-**Location**<br>
-Western Europe, between France and Germany<br>
+### Location
+Western Europe, between France and Germany
 
-**Geographic coordinates**<br>
-49 45 N, 6 10 E<br>
+### Geographic coordinates
+49 45 N, 6 10 E
 
-**Map references**<br>
-Europe<br>
+### Map references
+Europe
 
-**Area**<br>
-_total _: 2,586 sq km<br>
-_land_: 2,586 sq km<br>
-_water_: 0 sq km<br>
+### Area
+- `total `: 2,586 sq km
+- `land`: 2,586 sq km
+- `water`: 0 sq km
 
-**Area - comparative**<br>
-slightly smaller than Rhode Island; about half the size of Delaware<br>
+### Area - comparative
+slightly smaller than Rhode Island; about half the size of Delaware
 
-**Land boundaries**<br>
-_total_: 327 km<br>
-_border countries_: Belgium 130 km; France 69 km; Germany 128 km<br>
+### Land boundaries
+- `total`: 327 km
+- `border countries`: Belgium 130 km; France 69 km; Germany 128 km
 
-**Coastline**<br>
-0 km (landlocked)<br>
+### Coastline
+0 km (landlocked)
 
-**Maritime claims**<br>
-none (landlocked)<br>
+### Maritime claims
+none (landlocked)
 
-**Climate**<br>
-modified continental with mild winters, cool summers<br>
+### Climate
+modified continental with mild winters, cool summers
 
-**Terrain**<br>
-mostly gently rolling uplands with broad, shallow valleys; uplands to slightly mountainous in the north; steep slope down to Moselle flood plain in the southeast<br>
+### Terrain
+mostly gently rolling uplands with broad, shallow valleys; uplands to slightly mountainous in the north; steep slope down to Moselle flood plain in the southeast
 
-**Elevation**<br>
-_highest point_: Buurgplaatz 559 m<br>
-_lowest point_: Moselle River 133 m<br>
-_mean elevation_: 325 m<br>
+### Elevation
+- `highest point`: Buurgplaatz 559 m
+- `lowest point`: Moselle River 133 m
+- `mean elevation`: 325 m
 
-**Natural resources**<br>
-iron ore (no longer exploited), arable land<br>
+### Natural resources
+iron ore (no longer exploited), arable land
 
-**Land use**<br>
-_agricultural land_: 50.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 24% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 26.1% (2018 est.)<br>
-_forest_: 33.5% (2018 est.)<br>
-_other_: 15.8% (2018 est.)<br>
+### Land use
+- `agricultural land`: 50.7% (2018 est.)
+- `agricultural land: arable land`: arable land: 24% (2018 est.)
+- `agricultural land: permanent crops`: permanent crops: 0.6% (2018 est.)
+- `agricultural land: permanent pasture`: permanent pasture: 26.1% (2018 est.)
+- `forest`: 33.5% (2018 est.)
+- `other`: 15.8% (2018 est.)
 
-**Irrigated land**<br>
-0 sq km (2012)<br>
+### Irrigated land
+0 sq km (2012)
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
+### Major watersheds (area sq km)
+Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)
 
-**Population distribution**<br>
-most people live in the south, on or near the border with France<br>
+### Population distribution
+most people live in the south, on or near the border with France
 
-**Natural hazards**<br>
-occasional flooding<br>
+### Natural hazards
+occasional flooding
 
-**Geography - note**<br>
-landlocked; the only grand duchy in the world<br>
+### Geography - note
+landlocked; the only grand duchy in the world
 
 ## People and Society
 
-**Population**<br>
-_total_: 671,254<br>
-_male_: 338,702<br>
-_female_: 332,552 (2024 est.)<br>
+### Population
+- `total`: 671,254
+- `male`: 338,702
+- `female`: 332,552 (2024 est.)
 
-**Nationality**<br>
-_noun_: Luxembourger(s)<br>
-_adjective_: Luxembourg<br>
+### Nationality
+- `noun`: Luxembourger(s)
+- `adjective`: Luxembourg
 
-**Ethnic groups**<br>
-Luxembourger 52.9%, Portuguese 14.5%, French 7.6%, Italian 3.7%, Belgian 3%, German 2%, Spanish 1.3%, Romania 1%, other 14% (2022 est.)<br>
-<strong>note:</strong> data represent population by nationality<br>
+### Ethnic groups
+Luxembourger 52.9%, Portuguese 14.5%, French 7.6%, Italian 3.7%, Belgian 3%, German 2%, Spanish 1.3%, Romania 1%, other 14% (2022 est.)
+**note**:  data represent population by nationality
 
-**Languages**<br>
-Luxembourgish (official administrative, judicial, and national language) 48.9%, Portuguese 15.4%, French (official administrative, judicial, and legislative language) 14.9%, Italian 3.6%, English 3.6%, German (official administrative and judicial language) 2.9%, other 10.8% (2021 est.)<br>
+### Languages
+Luxembourgish (official administrative, judicial, and national language) 48.9%, Portuguese 15.4%, French (official administrative, judicial, and legislative language) 14.9%, Italian 3.6%, English 3.6%, German (official administrative and judicial language) 2.9%, other 10.8% (2021 est.)
 
-**Religions**<br>
-Christian (predominantly Roman Catholic) 70.6%, Muslim 2.3%, other (includes Buddhist, folk religions, Hindu, Jewish) 0.4%, unaffiliated 26.7% (2020 est.)<br>
+### Religions
+Christian (predominantly Roman Catholic) 70.6%, Muslim 2.3%, other (includes Buddhist, folk religions, Hindu, Jewish) 0.4%, unaffiliated 26.7% (2020 est.)
 
-**Age structure**<br>
-_0-14 years_: 16.7% (male 57,921/female 54,484)<br>
-_15-64 years_: 67.1% (male 231,214/female 219,497)<br>
-_65 years and over_: 16.1% (2024 est.) (male 49,567/female 58,571)<br>
+### Age structure
+- `0-14 years`: 16.7% (male 57,921/female 54,484)
+- `15-64 years`: 67.1% (male 231,214/female 219,497)
+- `65 years and over`: 16.1% (2024 est.) (male 49,567/female 58,571)
 
-**Dependency ratios**<br>
-_total dependency ratio_: 44.2<br>
-_youth dependency ratio_: 23<br>
-_elderly dependency ratio_: 21.3<br>
-_potential support ratio_: 4.7 (2021 est.)<br>
+### Dependency ratios
+- `total dependency ratio`: 44.2
+- `youth dependency ratio`: 23
+- `elderly dependency ratio`: 21.3
+- `potential support ratio`: 4.7 (2021 est.)
 
-**Median age**<br>
-_total_: 39.9 years (2024 est.)<br>
-_male_: 39.4 years<br>
-_female_: 40.4 years<br>
+### Median age
+- `total`: 39.9 years (2024 est.)
+- `male`: 39.4 years
+- `female`: 40.4 years
 
-**Population growth rate**<br>
-1.52% (2024 est.)<br>
+### Population growth rate
+1.52% (2024 est.)
 
-**Birth rate**<br>
-11.6 births/1,000 population (2024 est.)<br>
+### Birth rate
+11.6 births/1,000 population (2024 est.)
 
-**Death rate**<br>
-7.1 deaths/1,000 population (2024 est.)<br>
+### Death rate
+7.1 deaths/1,000 population (2024 est.)
 
-**Net migration rate**<br>
-10.8 migrant(s)/1,000 population (2024 est.)<br>
+### Net migration rate
+10.8 migrant(s)/1,000 population (2024 est.)
 
-**Population distribution**<br>
-most people live in the south, on or near the border with France<br>
+### Population distribution
+most people live in the south, on or near the border with France
 
-**Urbanization**<br>
-_urban population_: 92.1% of total population (2023)<br>
-_rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
+### Urbanization
+- `urban population`: 92.1% of total population (2023)
+- `rate of urbanization`: 1.43% annual rate of change (2020-25 est.)
 
-**Major urban areas - population**<br>
-120,000 LUXEMBOURG (capital) (2018)<br>
+### Major urban areas - population
+120,000 LUXEMBOURG (capital) (2018)
 
-**Sex ratio**<br>
-_at birth_: 1.06 male(s)/female<br>
-_0-14 years_: 1.06 male(s)/female<br>
-_15-64 years_: 1.05 male(s)/female<br>
-_65 years and over_: 0.85 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2024 est.)<br>
+### Sex ratio
+- `at birth`: 1.06 male(s)/female
+- `0-14 years`: 1.06 male(s)/female
+- `15-64 years`: 1.05 male(s)/female
+- `65 years and over`: 0.85 male(s)/female
+- `total population`: 1.02 male(s)/female (2024 est.)
 
-**Mother's mean age at first birth**<br>
-31 years (2020 est.)<br>
+### Mother's mean age at first birth
+31 years (2020 est.)
 
-**Maternal mortality ratio**<br>
-6 deaths/100,000 live births (2020 est.)<br>
+### Maternal mortality ratio
+6 deaths/100,000 live births (2020 est.)
 
-**Infant mortality rate**<br>
-_total_: 3.2 deaths/1,000 live births (2024 est.)<br>
-_male_: 3.6 deaths/1,000 live births<br>
-_female_: 2.8 deaths/1,000 live births<br>
+### Infant mortality rate
+- `total`: 3.2 deaths/1,000 live births (2024 est.)
+- `male`: 3.6 deaths/1,000 live births
+- `female`: 2.8 deaths/1,000 live births
 
-**Life expectancy at birth**<br>
-_total population_: 83.4 years (2024 est.)<br>
-_male_: 80.9 years<br>
-_female_: 85.9 years<br>
+### Life expectancy at birth
+- `total population`: 83.4 years (2024 est.)
+- `male`: 80.9 years
+- `female`: 85.9 years
 
-**Total fertility rate**<br>
-1.63 children born/woman (2024 est.)<br>
+### Total fertility rate
+1.63 children born/woman (2024 est.)
 
-**Gross reproduction rate**<br>
-0.79 (2024 est.)<br>
+### Gross reproduction rate
+0.79 (2024 est.)
 
-**Contraceptive prevalence rate**<br>
-NA<br>
+### Contraceptive prevalence rate
+NA
 
-**Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 98.6% of population<br>
-_improved: total_: total: 99.9% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 1.4% of population<br>
-_unimproved: total_: total: 0.1% of population (2020 est.)<br>
+### Drinking water source
+- `improved: urban`: urban: 100% of population
+- `improved: rural`: rural: 98.6% of population
+- `improved: total`: total: 99.9% of population
+- `unimproved: urban`: urban: 0% of population
+- `unimproved: rural`: rural: 1.4% of population
+- `unimproved: total`: total: 0.1% of population (2020 est.)
 
-**Current health expenditure**<br>
-5.8% of GDP (2020)<br>
+### Current health expenditure
+5.8% of GDP (2020)
 
-**Physician density**<br>
-3.01 physicians/1,000 population (2017)<br>
+### Physician density
+3.01 physicians/1,000 population (2017)
 
-**Hospital bed density**<br>
-4.3 beds/1,000 population (2019)<br>
+### Hospital bed density
+4.3 beds/1,000 population (2019)
 
-**Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 99.9% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0.1% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+### Sanitation facility access
+- `improved: urban`: urban: 100% of population
+- `improved: rural`: rural: 99.9% of population
+- `improved: total`: total: 100% of population
+- `unimproved: urban`: urban: 0% of population
+- `unimproved: rural`: rural: 0.1% of population
+- `unimproved: total`: total: 0% of population (2020 est.)
 
-**Obesity - adult prevalence rate**<br>
-22.6% (2016)<br>
+### Obesity - adult prevalence rate
+22.6% (2016)
 
-**Alcohol consumption per capita**<br>
-_total_: 11 liters of pure alcohol (2019 est.)<br>
-_beer_: 4.04 liters of pure alcohol (2019 est.)<br>
-_wine_: 4.73 liters of pure alcohol (2019 est.)<br>
-_spirits_: 2.14 liters of pure alcohol (2019 est.)<br>
-_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+### Alcohol consumption per capita
+- `total`: 11 liters of pure alcohol (2019 est.)
+- `beer`: 4.04 liters of pure alcohol (2019 est.)
+- `wine`: 4.73 liters of pure alcohol (2019 est.)
+- `spirits`: 2.14 liters of pure alcohol (2019 est.)
+- `other alcohols`: 0 liters of pure alcohol (2019 est.)
 
-**Tobacco use**<br>
-_total_: 21.1% (2020 est.)<br>
-_male_: 22.4% (2020 est.)<br>
-_female_: 19.8% (2020 est.)<br>
+### Tobacco use
+- `total`: 21.1% (2020 est.)
+- `male`: 22.4% (2020 est.)
+- `female`: 19.8% (2020 est.)
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
+### Children under the age of 5 years underweight
+NA
 
-**Currently married women (ages 15-49)**<br>
-51.4% (2023 est.)<br>
+### Currently married women (ages 15-49)
+51.4% (2023 est.)
 
-**Education expenditures**<br>
-5% of GDP (2020 est.)<br>
+### Education expenditures
+5% of GDP (2020 est.)
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
+### Literacy
+- `total population`: NA
+- `male`: NA
+- `female`: NA
 
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 15 years<br>
-_male_: 15 years<br>
-_female_: 15 years (2020)<br>
+### School life expectancy (primary to tertiary education)
+- `total`: 15 years
+- `male`: 15 years
+- `female`: 15 years (2020)
 
 ## Environment
 
-**Environment - current issues**<br>
-air and water pollution in urban areas, soil pollution of farmland; unsustainable patterns of consumption (transport, energy, recreation, space) threaten biodiversity and landscapes<br>
+### Environment - current issues
+air and water pollution in urban areas, soil pollution of farmland; unsustainable patterns of consumption (transport, energy, recreation, space) threaten biodiversity and landscapes
 
-**Environment - international agreements**<br>
-_party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
-_signed, but not ratified_: Environmental Modification<br>
+### Environment - international agreements
+- `party to`: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
+- `signed, but not ratified`: Environmental Modification
 
-**Climate**<br>
-modified continental with mild winters, cool summers<br>
+### Climate
+modified continental with mild winters, cool summers
 
-**Land use**<br>
-_agricultural land_: 50.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 24% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 26.1% (2018 est.)<br>
-_forest_: 33.5% (2018 est.)<br>
-_other_: 15.8% (2018 est.)<br>
+### Land use
+- `agricultural land`: 50.7% (2018 est.)
+- `agricultural land: arable land`: arable land: 24% (2018 est.)
+- `agricultural land: permanent crops`: permanent crops: 0.6% (2018 est.)
+- `agricultural land: permanent pasture`: permanent pasture: 26.1% (2018 est.)
+- `forest`: 33.5% (2018 est.)
+- `other`: 15.8% (2018 est.)
 
-**Urbanization**<br>
-_urban population_: 92.1% of total population (2023)<br>
-_rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
+### Urbanization
+- `urban population`: 92.1% of total population (2023)
+- `rate of urbanization`: 1.43% annual rate of change (2020-25 est.)
 
-**Revenue from forest resources**<br>
-0.01% of GDP (2018 est.)<br>
+### Revenue from forest resources
+0.01% of GDP (2018 est.)
 
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
+### Revenue from coal
+0% of GDP (2018 est.)
 
-**Air pollutants**<br>
-_particulate matter emissions_: 8.89 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 8.99 megatons (2016 est.)<br>
-_methane emissions_: 0.61 megatons (2020 est.)<br>
+### Air pollutants
+- `particulate matter emissions`: 8.89 micrograms per cubic meter (2019 est.)
+- `carbon dioxide emissions`: 8.99 megatons (2016 est.)
+- `methane emissions`: 0.61 megatons (2020 est.)
 
-**Waste and recycling**<br>
-_municipal solid waste generated annually_: 356,000 tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 100,997 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 28.4% (2015 est.)<br>
+### Waste and recycling
+- `municipal solid waste generated annually`: 356,000 tons (2015 est.)
+- `municipal solid waste recycled annually`: 100,997 tons (2015 est.)
+- `percent of municipal solid waste recycled`: 28.4% (2015 est.)
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
+### Major watersheds (area sq km)
+Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)
 
-**Total water withdrawal**<br>
-_municipal_: 50 million cubic meters (2020 est.)<br>
-_industrial_: 1.6 million cubic meters (2017 est.)<br>
-_agricultural_: 400,000 cubic meters (2017 est.)<br>
+### Total water withdrawal
+- `municipal`: 50 million cubic meters (2020 est.)
+- `industrial`: 1.6 million cubic meters (2017 est.)
+- `agricultural`: 400,000 cubic meters (2017 est.)
 
-**Total renewable water resources**<br>
-3.5 billion cubic meters (2020 est.)<br>
+### Total renewable water resources
+3.5 billion cubic meters (2020 est.)
 
-**Geoparks**<br>
-_total global geoparks and regional networks_: 1<br>
-_global geoparks and regional networks_: M&euml;llerdall (2023)<br>
+### Geoparks
+- `total global geoparks and regional networks`: 1
+- `global geoparks and regional networks`: Mëllerdall (2023)
 
 ## Government
 
-**Country name**<br>
-_conventional long form_: Grand Duchy of Luxembourg<br>
-_conventional short form_: Luxembourg<br>
-_local long form_: Grand Duch&eacute; de Luxembourg<br>
-_local short form_: Luxembourg<br>
-_etymology_: the name derives from the Celtic "lucilem" (little) and the German "burg" (castle or fortress) to produce the meaning of the "little castle"; the name is actually ironic, since for centuries the Fortress of Luxembourg was one of Europe's most formidable fortifications; the name passed to the surrounding city and then to the country itself<br>
+### Country name
+- `conventional long form`: Grand Duchy of Luxembourg
+- `conventional short form`: Luxembourg
+- `local long form`: Grand Duché de Luxembourg
+- `local short form`: Luxembourg
+- `etymology`: the name derives from the Celtic "lucilem" (little) and the German "burg" (castle or fortress) to produce the meaning of the "little castle"; the name is actually ironic, since for centuries the Fortress of Luxembourg was one of Europe's most formidable fortifications; the name passed to the surrounding city and then to the country itself
 
-**Government type**<br>
-constitutional monarchy<br>
+### Government type
+constitutional monarchy
 
-**Capital**<br>
-_name_: Luxembourg<br>
-_geographic coordinates_: 49 36 N, 6 07 E<br>
-_time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-_daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the name derives from the Celtic <em>lucilem</em> (little) and the German <em>burg</em> (castle or fortress) to produce the meaning of the "little castle"; the name is actually ironic, since for centuries the Fortress of Luxembourg was one of Europe's most formidable fortifications; the name passed to the city that grew around the fortress<br>
+### Capital
+- `name`: Luxembourg
+- `geographic coordinates`: 49 36 N, 6 07 E
+- `time difference`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+- `daylight saving time`: +1hr, begins last Sunday in March; ends last Sunday in October
+- `etymology`: the name derives from the Celtic *lucilem* (little) and the German *burg* (castle or fortress) to produce the meaning of the "little castle"; the name is actually ironic, since for centuries the Fortress of Luxembourg was one of Europe's most formidable fortifications; the name passed to the city that grew around the fortress
 
-**Administrative divisions**<br>
-12 cantons (cantons, singular - canton); Capellen, Clervaux, Diekirch, Echternach, Esch-sur-Alzette, Grevenmacher, Luxembourg, Mersch, Redange, Remich, Vianden, Wiltz<br>
+### Administrative divisions
+12 cantons (cantons, singular - canton); Capellen, Clervaux, Diekirch, Echternach, Esch-sur-Alzette, Grevenmacher, Luxembourg, Mersch, Redange, Remich, Vianden, Wiltz
 
-**Independence**<br>
-1839 (from the Netherlands)<br>
+### Independence
+1839 (from the Netherlands)
 
-**National holiday**<br>
-National Day (birthday of Grand Duke HENRI), 23 June; note - this date of birth is not the true date of birth for any of the Royals, but the national festivities were shifted in 1962 to allow observance during a more favorable time of year<br>
+### National holiday
+National Day (birthday of Grand Duke HENRI), 23 June; note - this date of birth is not the true date of birth for any of the Royals, but the national festivities were shifted in 1962 to allow observance during a more favorable time of year
 
-**Legal system**<br>
-civil law system<br>
+### Legal system
+civil law system
 
-**Constitution**<br>
-_history_: previous 1842 (heavily amended 1848, 1856); latest effective 17 October 1868<br>
-_amendments_: proposed by the Chamber of Deputies or by the monarch to the Chamber; passage requires at least two-thirds majority vote by the Chamber in two successive readings three months apart; a referendum can be substituted for the second reading if approved by more than a quarter of the Chamber members or by 25,000 valid voters; adoption by referendum requires a majority of all valid voters; amended many times, last in 2020<br>
+### Constitution
+- `history`: previous 1842 (heavily amended 1848, 1856); latest effective 17 October 1868
+- `amendments`: proposed by the Chamber of Deputies or by the monarch to the Chamber; passage requires at least two-thirds majority vote by the Chamber in two successive readings three months apart; a referendum can be substituted for the second reading if approved by more than a quarter of the Chamber members or by 25,000 valid voters; adoption by referendum requires a majority of all valid voters; amended many times, last in 2020
 
-**International law organization participation**<br>
-accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction<br>
+### International law organization participation
+accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction
 
-**Citizenship**<br>
-_citizenship by birth_: limited to situations where the parents are either unknown, stateless, or when the nationality law of the parents' state of origin does not permit acquisition of citizenship by descent when the birth occurs outside of national territory<br>
-_citizenship by descent only_: at least one parent must be a citizen of Luxembourg<br>
-_dual citizenship recognized_: yes<br>
-_residency requirement for naturalization_: 7 years<br>
+### Citizenship
+- `citizenship by birth`: limited to situations where the parents are either unknown, stateless, or when the nationality law of the parents' state of origin does not permit acquisition of citizenship by descent when the birth occurs outside of national territory
+- `citizenship by descent only`: at least one parent must be a citizen of Luxembourg
+- `dual citizenship recognized`: yes
+- `residency requirement for naturalization`: 7 years
 
-**Suffrage**<br>
-18 years of age; universal and compulsory<br>
+### Suffrage
+18 years of age; universal and compulsory
 
-**Executive branch**<br>
-_chief of state_: Grand Duke HENRI (since 7 October 2000)<br>
-_head of government_: Prime Minister Luc FRIEDEN (since 17 November 2023)<br>
-_cabinet_: Council of Ministers recommended by the prime minister, appointed by the monarch<br>
-_elections/appointments_: the monarchy is hereditary; following elections to the Chamber of Deputies, the leader of the majority party or majority coalition usually appointed prime minister by the monarch; deputy prime minister appointed by the monarch; prime minister and deputy prime minister are responsible to the Chamber of Deputies<br>
+### Executive branch
+- `chief of state`: Grand Duke HENRI (since 7 October 2000)
+- `head of government`: Prime Minister Luc FRIEDEN (since 17 November 2023)
+- `cabinet`: Council of Ministers recommended by the prime minister, appointed by the monarch
+- `elections/appointments`: the monarchy is hereditary; following elections to the Chamber of Deputies, the leader of the majority party or majority coalition usually appointed prime minister by the monarch; deputy prime minister appointed by the monarch; prime minister and deputy prime minister are responsible to the Chamber of Deputies
 
-**Legislative branch**<br>
-_description_: unicameral Chamber of Deputies or Chambre des Deputes (60 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 8 October 2023 (next to be held by 31 October 2028)<br>
-_election results_: percent of vote by party - CSV 29.2%, LSAP 18.9%, DP 18.7%, ADR 9.3%, Green Party 8.6%, Pirate Party 6.7%, The Left 3.9%; seats by party - CSV 21, DP 14, LSAP 11, ADR 5, Green Party 4, Pirate Party 3, The Left 2; composition - men 40, women 20, percentage women 33.3%<br>
-<strong>note:</strong> a 21-member Council of State is appointed by the Grand Duke on the advice of the prime minister and serves as an advisory body to the Chamber of Deputies<br>
+### Legislative branch
+- `description`: unicameral Chamber of Deputies or Chambre des Deputes (60 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms)
+- `elections`: last held on 8 October 2023 (next to be held by 31 October 2028)
+- `election results`: percent of vote by party - CSV 29.2%, LSAP 18.9%, DP 18.7%, ADR 9.3%, Green Party 8.6%, Pirate Party 6.7%, The Left 3.9%; seats by party - CSV 21, DP 14, LSAP 11, ADR 5, Green Party 4, Pirate Party 3, The Left 2; composition - men 40, women 20, percentage women 33.3%
+**note**:  a 21-member Council of State is appointed by the Grand Duke on the advice of the prime minister and serves as an advisory body to the Chamber of Deputies
 
-**Judicial branch**<br>
-_highest court(s)_: Supreme Court of Justice includes Court of Appeal and Court of Cassation (consists of 27 judges on 9 benches); Constitutional Court (consists of 9 members)<br>
-_judge selection and term of office_: judges of both courts appointed by the monarch for life<br>
-_subordinate courts_: Court of Accounts; district and local tribunals and courts<br>
+### Judicial branch
+- `highest court(s)`: Supreme Court of Justice includes Court of Appeal and Court of Cassation (consists of 27 judges on 9 benches); Constitutional Court (consists of 9 members)
+- `judge selection and term of office`: judges of both courts appointed by the monarch for life
+- `subordinate courts`: Court of Accounts; district and local tribunals and courts
 
-**Political parties**<br>
-Alternative Democratic Reform Party or ADR <br>Christian Social People's Party or CSV <br>Democratic Party or DP <br>Green Party <br>Luxembourg Socialist Workers' Party or LSAP <br>Pirate Party <br>The Left (dei Lenk/la Gauche) <br>
+### Political parties
+Alternative Democratic Reform Party or ADR Christian Social People's Party or CSV Democratic Party or DP Green Party Luxembourg Socialist Workers' Party or LSAP Pirate Party The Left (dei Lenk/la Gauche) 
 
-**International organization participation**<br>
-ADB (nonregional member), Australia Group, Benelux, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNOOSA, UNRWA, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+### International organization participation
+ADB (nonregional member), Australia Group, Benelux, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNOOSA, UNRWA, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC
 
-**Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Nicole BINTNER-BAKSHIAN (since 15 August 2021)<br>
-_chancery_: 2200 Massachusetts Avenue NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 265-4171<br>
-_FAX_: [1] (202) 328-8270<br>
-_email address and website_: <br>washington.amb@mae.etat.lu<br><br>https://washington.mae.lu/en.html<br>
-_consulate(s) general_: New York, San Francisco<br>
+### Diplomatic representation in the US
+- `chief of mission`: Ambassador Nicole BINTNER-BAKSHIAN (since 15 August 2021)
+- `chancery`: 2200 Massachusetts Avenue NW, Washington, DC 20008
+- `telephone`: [1] (202) 265-4171
+- `FAX`: [1] (202) 328-8270
+- `email address and website`: washington.amb@mae.etat.lu  https://washington.mae.lu/en.html
+- `consulate(s) general`: New York, San Francisco
 
-**Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Thomas M. BARRETT (since 10 February 2022)<br>
-_embassy_: 22 Boulevard Emmanuel Servais, L-2535 Luxembourg City<br>
-_mailing address_: 5380 Luxembourg Place, Washington DC&nbsp; 20521-5380<br>
-_telephone_: [352] 46-01-23-00<br>
-_FAX_: [352] 46-14-01<br>
-_email address and website_: Luxembourgconsular@state.gov<br>https://lu.usembassy.gov/<br>
+### Diplomatic representation from the US
+- `chief of mission`: Ambassador Thomas M. BARRETT (since 10 February 2022)
+- `embassy`: 22 Boulevard Emmanuel Servais, L-2535 Luxembourg City
+- `mailing address`: 5380 Luxembourg Place, Washington DC  20521-5380
+- `telephone`: [352] 46-01-23-00
+- `FAX`: [352] 46-14-01
+- `email address and website`: Luxembourgconsular@state.govhttps://lu.usembassy.gov/
 
-**Flag description**<br>
-three equal horizontal bands of red (top), white, and light blue; similar to the flag of the Netherlands, which uses a darker blue and is shorter; the coloring is derived from the Grand Duke's coat of arms (a red lion on a white and blue striped field)<br>
+### Flag description
+three equal horizontal bands of red (top), white, and light blue; similar to the flag of the Netherlands, which uses a darker blue and is shorter; the coloring is derived from the Grand Duke's coat of arms (a red lion on a white and blue striped field)
 
-**National symbol(s)**<br>
-red, rampant lion; national colors: red, white, light blue<br>
+### National symbol(s)
+red, rampant lion; national colors: red, white, light blue
 
-**National anthem**<br>
-_name_: "Ons Heemecht" (Our Motherland); "De Wilhelmus" (The William)<br>
-_lyrics/music_: Michel LENTZ/Jean-Antoine ZINNEN; Nikolaus WELTER/unknown<br>
-<strong>note:</strong> "Ons Heemecht," adopted 1864, is the national anthem, while "De Wilhelmus," adopted 1919, serves as a royal anthem for use when members of the grand ducal family enter or exit a ceremony in Luxembourg<br>
+### National anthem
+- `name`: "Ons Heemecht" (Our Motherland); "De Wilhelmus" (The William)
+- `lyrics/music`: Michel LENTZ/Jean-Antoine ZINNEN; Nikolaus WELTER/unknown
+**note**:  "Ons Heemecht," adopted 1864, is the national anthem, while "De Wilhelmus," adopted 1919, serves as a royal anthem for use when members of the grand ducal family enter or exit a ceremony in Luxembourg
 
-**National heritage**<br>
-_total World Heritage Sites_: 1 (cultural)<br>
-_selected World Heritage Site locales_: Luxembourg City Old Quarters and Fortifications<br>
+### National heritage
+- `total World Heritage Sites`: 1 (cultural)
+- `selected World Heritage Site locales`: Luxembourg City Old Quarters and Fortifications
 
 ## Economy
 
-**Economic overview**<br>
-high-income EU and eurozone economy; global, highly capitalized banking sector; one of highest GDP-per-capita countries; trending toward recovery after economic contraction from energy-driven inflation, reduced exports and investments, and financial sector weakness<br>
+### Economic overview
+high-income EU and eurozone economy; global, highly capitalized banking sector; one of highest GDP-per-capita countries; trending toward recovery after economic contraction from energy-driven inflation, reduced exports and investments, and financial sector weakness
 
-**Real GDP (purchasing power parity)**<br>
-$88.533 billion (2023 est.)<br>
-$89.514 billion (2022 est.)<br>
-$88.295 billion (2021 est.)<br>
-<b>note:</b> data in 2021 dollars<br>
+### Real GDP (purchasing power parity)
+$88.533 billion (2023 est.)
+$89.514 billion (2022 est.)
+$88.295 billion (2021 est.)
+**note**: data in 2021 dollars
 
-**Real GDP growth rate**<br>
--1.1% (2023 est.)<br>
-1.38% (2022 est.)<br>
-7.17% (2021 est.)<br>
-<b>note:</b> annual GDP % growth based on constant local currency<br>
+### Real GDP growth rate
+-1.1% (2023 est.)
+1.38% (2022 est.)
+7.17% (2021 est.)
+**note**: annual GDP % growth based on constant local currency
 
-**Real GDP per capita**<br>
-$132,400 (2023 est.)<br>
-$137,100 (2022 est.)<br>
-$137,900 (2021 est.)<br>
-<b>note:</b> data in 2021 dollars<br>
+### Real GDP per capita
+$132,400 (2023 est.)
+$137,100 (2022 est.)
+$137,900 (2021 est.)
+**note**: data in 2021 dollars
 
-**GDP (official exchange rate)**<br>
-$85.755 billion (2023 est.)<br>
-<b>note:</b> data in current dollars at official exchange rate<br>
+### GDP (official exchange rate)
+$85.755 billion (2023 est.)
+**note**: data in current dollars at official exchange rate
 
-**Inflation rate (consumer prices)**<br>
-3.74% (2023 est.)<br>
-6.34% (2022 est.)<br>
-2.53% (2021 est.)<br>
-<b>note:</b> annual % change based on consumer prices<br>
+### Inflation rate (consumer prices)
+3.74% (2023 est.)
+6.34% (2022 est.)
+2.53% (2021 est.)
+**note**: annual % change based on consumer prices
 
-**Credit ratings**<br>
-_Fitch rating_: AAA (1994)<br>
-_Moody's rating_: Aaa (1989)<br>
-_Standard & Poors rating_: AAA (1994)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
+### Credit ratings
+- `Fitch rating`: AAA (1994)
+- `Moody's rating`: Aaa (1989)
+- `Standard & Poors rating`: AAA (1994)
+**note**: The year refers to the year in which the current credit rating was first obtained.
 
-**GDP - composition, by sector of origin**<br>
-_agriculture_: 0.2% (2023 est.)<br>
-_industry_: 10.5% (2023 est.)<br>
-_services_: 80.6% (2023 est.)<br>
-<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
+### GDP - composition, by sector of origin
+- `agriculture`: 0.2% (2023 est.)
+- `industry`: 10.5% (2023 est.)
+- `services`: 80.6% (2023 est.)
+**note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
-**GDP - composition, by end use**<br>
-_household consumption_: 32.2% (2023 est.)<br>
-_government consumption_: 19% (2023 est.)<br>
-_investment in fixed capital_: 18.1% (2023 est.)<br>
-_investment in inventories_: -0.2% (2023 est.)<br>
-_exports of goods and services_: 212.5% (2023 est.)<br>
-_imports of goods and services_: -181.7% (2023 est.)<br>
-<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
+### GDP - composition, by end use
+- `household consumption`: 32.2% (2023 est.)
+- `government consumption`: 19% (2023 est.)
+- `investment in fixed capital`: 18.1% (2023 est.)
+- `investment in inventories`: -0.2% (2023 est.)
+- `exports of goods and services`: 212.5% (2023 est.)
+- `imports of goods and services`: -181.7% (2023 est.)
+**note**: figures may not total 100% due to rounding or gaps in data collection
 
-**Agricultural products**<br>
-milk, wheat, barley, triticale, potatoes, pork, grapes, beef, oats, rapeseed (2022)<br>
-<b>note:</b> top ten agricultural products based on tonnage<br>
+### Agricultural products
+milk, wheat, barley, triticale, potatoes, pork, grapes, beef, oats, rapeseed (2022)
+**note**: top ten agricultural products based on tonnage
 
-**Industries**<br>
-banking and financial services, construction, real estate services, iron, metals, and steel, information technology, telecommunications, cargo transportation and logistics, chemicals, engineering, tires, glass, aluminum, tourism, biotechnology<br>
+### Industries
+banking and financial services, construction, real estate services, iron, metals, and steel, information technology, telecommunications, cargo transportation and logistics, chemicals, engineering, tires, glass, aluminum, tourism, biotechnology
 
-**Industrial production growth rate**<br>
-0.49% (2023 est.)<br>
-<b>note:</b> annual % change in industrial value added based on constant local currency<br>
+### Industrial production growth rate
+0.49% (2023 est.)
+**note**: annual % change in industrial value added based on constant local currency
 
-**Labor force**<br>
-352,000 (2023 est.)<br>
-<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
+### Labor force
+352,000 (2023 est.)
+**note**: number of people ages 15 or older who are employed or seeking work
 
-**Unemployment rate**<br>
-5.19% (2023 est.)<br>
-4.59% (2022 est.)<br>
-5.25% (2021 est.)<br>
-<b>note:</b> % of labor force seeking employment<br>
+### Unemployment rate
+5.19% (2023 est.)
+4.59% (2022 est.)
+5.25% (2021 est.)
+**note**: % of labor force seeking employment
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 19% (2023 est.)<br>
-_male_: 15.7% (2023 est.)<br>
-_female_: 22.9% (2023 est.)<br>
-<b>note:</b> % of labor force ages 15-24 seeking employment<br>
+### Youth unemployment rate (ages 15-24)
+- `total`: 19% (2023 est.)
+- `male`: 15.7% (2023 est.)
+- `female`: 22.9% (2023 est.)
+**note**: % of labor force ages 15-24 seeking employment
 
-**Population below poverty line**<br>
-17.3% (2021 est.)<br>
-<b>note:</b> % of population with income below national poverty line<br>
+### Population below poverty line
+17.3% (2021 est.)
+**note**: % of population with income below national poverty line
 
-**Gini Index coefficient - distribution of family income**<br>
-32.7 (2021 est.)<br>
-<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
+### Gini Index coefficient - distribution of family income
+32.7 (2021 est.)
+**note**: index (0-100) of income distribution; higher values represent greater inequality
 
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.8% (2021 est.)<br>
-_highest 10%_: 24.6% (2021 est.)<br>
-<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
+### Household income or consumption by percentage share
+- `lowest 10%`: 2.8% (2021 est.)
+- `highest 10%`: 24.6% (2021 est.)
+**note**: % share of income accruing to lowest and highest 10% of population
 
-**Remittances**<br>
-2.72% of GDP (2023 est.)<br>
-2.72% of GDP (2022 est.)<br>
-2.83% of GDP (2021 est.)<br>
-<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+### Remittances
+2.72% of GDP (2023 est.)
+2.72% of GDP (2022 est.)
+2.83% of GDP (2021 est.)
+**note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
-**Budget**<br>
-_revenues_: $33.533 billion (2022 est.)<br>
-_expenditures_: $33.054 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+### Budget
+- `revenues`: $33.533 billion (2022 est.)
+- `expenditures`: $33.054 billion (2022 est.)
+**note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
-**Public debt**<br>
-23% of GDP (2017 est.)<br>
-<strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
+### Public debt
+23% of GDP (2017 est.)
+**note**:  data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions
 
-**Taxes and other revenues**<br>
-25.97% (of GDP) (2022 est.)<br>
-<b>note:</b> central government tax revenue as a % of GDP<br>
+### Taxes and other revenues
+25.97% (of GDP) (2022 est.)
+**note**: central government tax revenue as a % of GDP
 
-**Current account balance**<br>
-$5.826 billion (2023 est.)<br>
-$6.168 billion (2022 est.)<br>
-$6.819 billion (2021 est.)<br>
-<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
+### Current account balance
+$5.826 billion (2023 est.)
+$6.168 billion (2022 est.)
+$6.819 billion (2021 est.)
+**note**: balance of payments - net trade and primary/secondary income in current dollars
 
-**Exports**<br>
-$176.133 billion (2023 est.)<br>
-$172.145 billion (2022 est.)<br>
-$184.932 billion (2021 est.)<br>
-<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
+### Exports
+$176.133 billion (2023 est.)
+$172.145 billion (2022 est.)
+$184.932 billion (2021 est.)
+**note**: balance of payments - exports of goods and services in current dollars
 
-**Exports - partners**<br>
-Germany 20%, France 15%, Belgium 10%, Netherlands 8%, Italy 4% (2022)<br>
-<b>note:</b> top five export partners based on percentage share of exports<br>
+### Exports - partners
+Germany 20%, France 15%, Belgium 10%, Netherlands 8%, Italy 4% (2022)
+**note**: top five export partners based on percentage share of exports
 
-**Exports - commodities**<br>
-iron blocks, plastic products, rubber tires, plastics, gas turbines (2022)<br>
-<b>note:</b> top five export commodities based on value in dollars<br>
+### Exports - commodities
+iron blocks, plastic products, rubber tires, plastics, gas turbines (2022)
+**note**: top five export commodities based on value in dollars
 
-**Imports**<br>
-$146.807 billion (2023 est.)<br>
-$141.761 billion (2022 est.)<br>
-$152.01 billion (2021 est.)<br>
-<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
+### Imports
+$146.807 billion (2023 est.)
+$141.761 billion (2022 est.)
+$152.01 billion (2021 est.)
+**note**: balance of payments - imports of goods and services in current dollars
 
-**Imports - partners**<br>
-Belgium 26%, Germany 26%, France 11%, Netherlands 6%, US 3% (2022)<br>
-<b>note:</b> top five import partners based on percentage share of imports<br>
+### Imports - partners
+Belgium 26%, Germany 26%, France 11%, Netherlands 6%, US 3% (2022)
+**note**: top five import partners based on percentage share of imports
 
-**Imports - commodities**<br>
-refined petroleum, cars, electricity, natural gas, scrap iron (2022)<br>
-<b>note:</b> top five import commodities based on value in dollars<br>
+### Imports - commodities
+refined petroleum, cars, electricity, natural gas, scrap iron (2022)
+**note**: top five import commodities based on value in dollars
 
-**Reserves of foreign exchange and gold**<br>
-$2.977 billion (2023 est.)<br>
-$2.874 billion (2022 est.)<br>
-$2.921 billion (2021 est.)<br>
-<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+### Reserves of foreign exchange and gold
+$2.977 billion (2023 est.)
+$2.874 billion (2022 est.)
+$2.921 billion (2021 est.)
+**note**: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars
 
-**Exchange rates**<br>
-_Currency_: euros (EUR) per US dollar -<br>
-0.925 (2023 est.)<br>
-0.95 (2022 est.)<br>
-0.845 (2021 est.)<br>
-0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
+### Exchange rates
+- `Currency`: euros (EUR) per US dollar -
+0.925 (2023 est.)
+0.95 (2022 est.)
+0.845 (2021 est.)
+0.876 (2020 est.)
+0.893 (2019 est.)
 
 ## Energy
 
-**Electricity access**<br>
-_electrification - total population_: 100% (2022 est.)<br>
+### Electricity access
+- `electrification - total population`: 100% (2022 est.)
 
-**Electricity**<br>
-_installed generating capacity_: 2.002 million kW (2022 est.)<br>
-_consumption_: 6.122 billion kWh (2022 est.)<br>
-_exports_: 1.639 billion kWh (2022 est.)<br>
-_imports_: 7.146 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 147.934 million kWh (2022 est.)<br>
+### Electricity
+- `installed generating capacity`: 2.002 million kW (2022 est.)
+- `consumption`: 6.122 billion kWh (2022 est.)
+- `exports`: 1.639 billion kWh (2022 est.)
+- `imports`: 7.146 billion kWh (2022 est.)
+- `transmission/distribution losses`: 147.934 million kWh (2022 est.)
 
-**Electricity generation sources**<br>
-_fossil fuels_: 13.6% of total installed capacity (2022 est.)<br>
-_solar_: 28% of total installed capacity (2022 est.)<br>
-_wind_: 43.4% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: -40.1% of total installed capacity (2022 est.) <b>note:</b> Luxembourg has negative net hydroelectric power generation based on losses from use of pumped storage hydropower<br>
-_biomass and waste_: 55.1% of total installed capacity (2022 est.)<br>
+### Electricity generation sources
+- `fossil fuels`: 13.6% of total installed capacity (2022 est.)
+- `solar`: 28% of total installed capacity (2022 est.)
+- `wind`: 43.4% of total installed capacity (2022 est.)
+- `hydroelectricity`: -40.1% of total installed capacity (2022 est.) **note**: Luxembourg has negative net hydroelectric power generation based on losses from use of pumped storage hydropower
+- `biomass and waste`: 55.1% of total installed capacity (2022 est.)
 
-**Coal**<br>
-_consumption_: 62,000 metric tons (2022 est.)<br>
-_exports_: 30.2 metric tons (2022 est.)<br>
-_imports_: 3,000 metric tons (2022 est.)<br>
+### Coal
+- `consumption`: 62,000 metric tons (2022 est.)
+- `exports`: 30.2 metric tons (2022 est.)
+- `imports`: 3,000 metric tons (2022 est.)
 
-**Petroleum**<br>
-_refined petroleum consumption_: 51,000 bbl/day (2023 est.)<br>
+### Petroleum
+- `refined petroleum consumption`: 51,000 bbl/day (2023 est.)
 
-**Natural gas**<br>
-_consumption_: 594.24 million cubic meters (2022 est.)<br>
-_imports_: 590.144 million cubic meters (2022 est.)<br>
+### Natural gas
+- `consumption`: 594.24 million cubic meters (2022 est.)
+- `imports`: 590.144 million cubic meters (2022 est.)
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 8.694 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 135,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 7.338 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 1.221 million metric tonnes of CO2 (2022 est.)<br>
+### Carbon dioxide emissions
+- `total emissions`: 8.694 million metric tonnes of CO2 (2022 est.)
+- `from coal and metallurgical coke`: 135,000 metric tonnes of CO2 (2022 est.)
+- `from petroleum and other liquids`: 7.338 million metric tonnes of CO2 (2022 est.)
+- `from consumed natural gas`: 1.221 million metric tonnes of CO2 (2022 est.)
 
-**Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 232.384 million Btu/person (2022 est.)<br>
+### Energy consumption per capita
+- `Total energy consumption per capita 2022`: 232.384 million Btu/person (2022 est.)
 
 ## Communications
 
-**Telephones - fixed lines**<br>
-_total subscriptions_: 261,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 40 (2022 est.)<br>
+### Telephones - fixed lines
+- `total subscriptions`: 261,000 (2022 est.)
+- `subscriptions per 100 inhabitants`: 40 (2022 est.)
 
-**Telephones - mobile cellular**<br>
-_total subscriptions_: 876,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 137 (2021 est.)<br>
+### Telephones - mobile cellular
+- `total subscriptions`: 876,000 (2021 est.)
+- `subscriptions per 100 inhabitants`: 137 (2021 est.)
 
-**Telecommunication systems**<br>
-_general assessment_: Luxembourg has a small telecom sector; there remains some pressure from regulatory measures, though no further reductions to fixed and mobile interconnection tariffs have been imposed through to 2024; high mobile penetration has slowed subscriber growth in the mobile market since 2005, though a recent law requiring SIM card registration has not had an adverse effect on the number of mobile subscribers despite network operators deactivating unregistered cards (2021)<br>
-_domestic_: fixed-line teledensity about 42 per 100 persons; 140 per 100 mobile-cellular subscriptions (2021)<br>
-_international_: country code - 352<br>
+### Telecommunication systems
+- `general assessment`: Luxembourg has a small telecom sector; there remains some pressure from regulatory measures, though no further reductions to fixed and mobile interconnection tariffs have been imposed through to 2024; high mobile penetration has slowed subscriber growth in the mobile market since 2005, though a recent law requiring SIM card registration has not had an adverse effect on the number of mobile subscribers despite network operators deactivating unregistered cards (2021)
+- `domestic`: fixed-line teledensity about 42 per 100 persons; 140 per 100 mobile-cellular subscriptions (2021)
+- `international`: country code - 352
 
-**Broadcast media**<br>
-Luxembourg has a long tradition of operating radio and TV services for pan-European audiences and is home to Europe's largest privately owned broadcast media group, the RTL Group, which operates 46 TV stations and 29 radio stations in Europe; also home to Europe's largest satellite operator, Societe Europeenne des Satellites (SES); domestically, the RTL Group operates TV and radio networks; other domestic private radio and TV operators and French and German stations available; satellite and cable TV services available<br>
+### Broadcast media
+Luxembourg has a long tradition of operating radio and TV services for pan-European audiences and is home to Europe's largest privately owned broadcast media group, the RTL Group, which operates 46 TV stations and 29 radio stations in Europe; also home to Europe's largest satellite operator, Societe Europeenne des Satellites (SES); domestically, the RTL Group operates TV and radio networks; other domestic private radio and TV operators and French and German stations available; satellite and cable TV services available
 
-**Internet country code**<br>
-.lu<br>
+### Internet country code
+.lu
 
-**Internet users**<br>
-_total_: 633,600 (2021 est.)<br>
-_percent of population_: 99% (2021 est.)<br>
+### Internet users
+- `total`: 633,600 (2021 est.)
+- `percent of population`: 99% (2021 est.)
 
-**Broadband - fixed subscriptions**<br>
-_total_: 235,155 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 38 (2020 est.)<br>
+### Broadband - fixed subscriptions
+- `total`: 235,155 (2020 est.)
+- `subscriptions per 100 inhabitants`: 38 (2020 est.)
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 4 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 66<br>
-_annual passenger traffic on registered air carriers_: 2,099,102 (2018)<br>
-_annual freight traffic on registered air carriers_: 7,323,040,000 (2018) mt-km<br>
+### National air transport system
+- `number of registered air carriers`: 4 (2020)
+- `inventory of registered aircraft operated by air carriers`: 66
+- `annual passenger traffic on registered air carriers`: 2,099,102 (2018)
+- `annual freight traffic on registered air carriers`: 7,323,040,000 (2018) mt-km
 
-**Civil aircraft registration country code prefix**<br>
-LX<br>
+### Civil aircraft registration country code prefix
+LX
 
-**Airports**<br>
-3 (2024)<br>
+### Airports
+3 (2024)
 
-**Heliports**<br>
-11 (2024)<br>
+### Heliports
+11 (2024)
 
-**Pipelines**<br>
-142 km gas, 27 km refined products (2013)<br>
+### Pipelines
+142 km gas, 27 km refined products (2013)
 
-**Railways**<br>
-_total_: 271 km (2020) 262 km electrified<br>
+### Railways
+- `total`: 271 km (2020) 262 km electrified
 
-**Roadways**<br>
-_total_: 2,746 km (2022)<br>
+### Roadways
+- `total`: 2,746 km (2022)
 
-**Waterways**<br>
-37 km (2010) (on Moselle River)<br>
+### Waterways
+37 km (2010) (on Moselle River)
 
-**Merchant marine**<br>
-_total_: 147 (2023)<br>
-_by type_: bulk carrier 3, container ship 1, general cargo 24, oil tanker 4, other 115<br>
+### Merchant marine
+- `total`: 147 (2023)
+- `by type`: bulk carrier 3, container ship 1, general cargo 24, oil tanker 4, other 115
 
 ## Military and Security
 
-**Military and security forces**<br>
-Luxembourg Army (l'Armée Luxembourgeoise) (2024)<br>
-<strong>note:</strong> the Grand Ducal Police maintain internal security and report to the Ministry of Internal Security<br>
+### Military and security forces
+Luxembourg Army (l'Armée Luxembourgeoise) (2024)
+**note**:  the Grand Ducal Police maintain internal security and report to the Ministry of Internal Security
 
-**Military expenditures**<br>
-1.3% of GDP (2024 est.)<br>
-1% of GDP (2023)<br>
-0.6% of GDP (2022)<br>
-0.5% of GDP (2021)<br>
-0.6% of GDP (2020)<br>
+### Military expenditures
+1.3% of GDP (2024 est.)
+1% of GDP (2023)
+0.6% of GDP (2022)
+0.5% of GDP (2021)
+0.6% of GDP (2020)
 
-**Military and security service personnel strengths**<br>
-approximately 900 active-duty personnel (2024)<br>
+### Military and security service personnel strengths
+approximately 900 active-duty personnel (2024)
 
-**Military equipment inventories and acquisitions**<br>
-the inventory of Luxembourg's Army is a small mix of Western origin equipment (2024)<br>
+### Military equipment inventories and acquisitions
+the inventory of Luxembourg's Army is a small mix of Western origin equipment (2024)
 
-**Military service age and obligation**<br>
-18-26 years of age for voluntary military service for men and women; no conscription (abolished 1969) (2024)<br>
-<strong>note 1: </strong>since 2003, the Army has allowed EU citizens 18-24 years of age who have been a resident in the country for at least 36 months to volunteer<strong><br><br>note 2:</strong> 2024, women made up about 12% of the military's full-time personnel<br>
+### Military service age and obligation
+18-26 years of age for voluntary military service for men and women; no conscription (abolished 1969) (2024)
+**note 1**: since 2003, the Army has allowed EU citizens 18-24 years of age who have been a resident in the country for at least 36 months to volunteer**  note 2**:  2024, women made up about 12% of the military's full-time personnel
 
-**Military - note**<br>
-founded in 1881, the Luxembourg Army is responsible for the defense of the country and fulfilling the Grand Duchy’s commitments to NATO, European security, and international peacekeeping, as well as providing support to civil authorities in the event of emergencies, such as floods or disease outbreaks; the Army is an active participant in EU, NATO, and UN missions and has contributed small numbers of troops to multinational operations in such places as Afghanistan, Bosnia and Herzegovina, Chad, Croatia, the Democratic Republic of the Congo, Iraq, Kosovo, Lebanon, North Macedonia, Mali, Mozambique, and Uganda; it trains and exercises regularly with EU and NATO partners and has contributed to the NATO battlegroup forward deployed in Lithuania since 2017; Luxembourg was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) establishing NATO in 1949<br><br>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries (2024)<br>
+### Military - note
+founded in 1881, the Luxembourg Army is responsible for the defense of the country and fulfilling the Grand Duchy’s commitments to NATO, European security, and international peacekeeping, as well as providing support to civil authorities in the event of emergencies, such as floods or disease outbreaks; the Army is an active participant in EU, NATO, and UN missions and has contributed small numbers of troops to multinational operations in such places as Afghanistan, Bosnia and Herzegovina, Chad, Croatia, the Democratic Republic of the Congo, Iraq, Kosovo, Lebanon, North Macedonia, Mali, Mozambique, and Uganda; it trains and exercises regularly with EU and NATO partners and has contributed to the NATO battlegroup forward deployed in Lithuania since 2017; Luxembourg was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) establishing NATO in 1949  in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries (2024)
 
 ## Space
 
-**Space agency/agencies**<br>
-the Luxembourg Space Agency (LSA; established 2018) (2024)<br>
+### Space agency/agencies
+the Luxembourg Space Agency (LSA; established 2018) (2024)
 
-**Space program overview**<br>
-aims to be the commercial space hub for Europe; LSA established largely to develop space policy, encourage and coordinate commercial space ventures, support space education, and to promote the country’s space-related capabilities internationally; has a national space strategy; has set up policy and funding initiatives (such as LuxIMPULSE) aimed at encouraging space research, development, innovation, and entrepreneurship and attracting space-based industries; focused on developing commercial satellites and infrastructure (Luxembourg is home to some of the largest commercial satellite companies in the world), as well as other space sector capabilities and technologies, such as autonomous vehicles, robotics, remote sensing (RS), communications, and software; member of the European Space Agency (ESA), participates in ESA programs, and cooperates with individual ESA and EU member states; also has relations with other foreign space agencies and industries, including those of Canada, China, Japan, New Zealand, South Korea, the UAE, and the US (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
+### Space program overview
+aims to be the commercial space hub for Europe; LSA established largely to develop space policy, encourage and coordinate commercial space ventures, support space education, and to promote the country’s space-related capabilities internationally; has a national space strategy; has set up policy and funding initiatives (such as LuxIMPULSE) aimed at encouraging space research, development, innovation, and entrepreneurship and attracting space-based industries; focused on developing commercial satellites and infrastructure (Luxembourg is home to some of the largest commercial satellite companies in the world), as well as other space sector capabilities and technologies, such as autonomous vehicles, robotics, remote sensing (RS), communications, and software; member of the European Space Agency (ESA), participates in ESA programs, and cooperates with individual ESA and EU member states; also has relations with other foreign space agencies and industries, including those of Canada, China, Japan, New Zealand, South Korea, the UAE, and the US (2024)
+**note**:  further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide
 
 ## Transnational Issues
 
-**Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,065 (Ukraine) (as of 11 August 2023)<br>
-_stateless persons_: 174 (2022)<br>
+### Refugees and internally displaced persons
+- `refugees (country of origin)`: 6,065 (Ukraine) (as of 11 August 2023)
+- `stateless persons`: 174 (2022)
 

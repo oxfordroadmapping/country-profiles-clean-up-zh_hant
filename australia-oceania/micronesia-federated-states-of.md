@@ -4,543 +4,543 @@ _Australia-Oceania / Countries_
 
 ## Introduction
 
-**Background**<br>
-<p>Each of the four states that compose the Federated States of Micronesia (FSM) -- Chuuk, Kosrae, Pohnpei, and Yap -- has its own unique history and cultural traditions. The first humans arrived in what is now the FSM in the second millennium B.C. In the 800s A.D., construction of the artificial islets at the Nan Madol complex in Pohnpei began, with the main architecture being built around 1200. At its height, Nan Madol united the approximately 25,000 people of Pohnpei under the Saudeleur Dynasty. By 1250, Kosrae was united in a kingdom centered in Leluh. Yap’s society became strictly hierarchical, with chiefs receiving tributes from islands up to 1,100 km (700 mi) away. Widespread human settlement in Chuuk began in the 1300s, and the different islands in the Chuuk Lagoon were frequently at war with one another.</p> <p>Portuguese and Spanish explorers visited a few of the islands in the 1500s, and Spain began exerting nominal, but not day-to-day, control over some of the islands -- which they named the Caroline Islands -- in the 1600s. In 1899, Spain sold all of the FSM to Germany. Japan seized the islands in 1914 and was granted a League of Nations mandate to administer them in 1920. The Japanese navy built bases across most of the islands and headquartered their Pacific naval operations in Chuuk. The US bombed Chuuk in 1944 but largely bypassed the other islands in its leapfrog campaign across the Pacific. </p> <p>In 1947, the FSM came under US administration as part of the Trust Territory of the Pacific Islands, which comprised six districts: Chuuk, the Marshall Islands, the Northern Mariana Islands, Palau, Pohnpei, and Yap; Kosrae was separated from Pohnpei into a separate district in 1977. In 1979, Chuuk, Kosrae, Pohnpei, and Yap ratified the FSM Constitution and declared independence while the other three districts opted to pursue separate political status. There are significant inter-island rivalries stemming from their different histories and cultures. Chuuk, the most populous but poorest state, has pushed for secession, but an independence referendum has been repeatedly postponed.</p><br>
+### Background
+Each of the four states that compose the Federated States of Micronesia (FSM) -- Chuuk, Kosrae, Pohnpei, and Yap -- has its own unique history and cultural traditions. The first humans arrived in what is now the FSM in the second millennium B.C. In the 800s A.D., construction of the artificial islets at the Nan Madol complex in Pohnpei began, with the main architecture being built around 1200. At its height, Nan Madol united the approximately 25,000 people of Pohnpei under the Saudeleur Dynasty. By 1250, Kosrae was united in a kingdom centered in Leluh. Yap’s society became strictly hierarchical, with chiefs receiving tributes from islands up to 1,100 km (700 mi) away. Widespread human settlement in Chuuk began in the 1300s, and the different islands in the Chuuk Lagoon were frequently at war with one another. Portuguese and Spanish explorers visited a few of the islands in the 1500s, and Spain began exerting nominal, but not day-to-day, control over some of the islands -- which they named the Caroline Islands -- in the 1600s. In 1899, Spain sold all of the FSM to Germany. Japan seized the islands in 1914 and was granted a League of Nations mandate to administer them in 1920. The Japanese navy built bases across most of the islands and headquartered their Pacific naval operations in Chuuk. The US bombed Chuuk in 1944 but largely bypassed the other islands in its leapfrog campaign across the Pacific.  In 1947, the FSM came under US administration as part of the Trust Territory of the Pacific Islands, which comprised six districts: Chuuk, the Marshall Islands, the Northern Mariana Islands, Palau, Pohnpei, and Yap; Kosrae was separated from Pohnpei into a separate district in 1977. In 1979, Chuuk, Kosrae, Pohnpei, and Yap ratified the FSM Constitution and declared independence while the other three districts opted to pursue separate political status. There are significant inter-island rivalries stemming from their different histories and cultures. Chuuk, the most populous but poorest state, has pushed for secession, but an independence referendum has been repeatedly postponed.
 
 ## Geography
 
-**Location**<br>
-Oceania, island group in the North Pacific Ocean, about three-quarters of the way from Hawaii to Indonesia<br>
+### Location
+Oceania, island group in the North Pacific Ocean, about three-quarters of the way from Hawaii to Indonesia
 
-**Geographic coordinates**<br>
-6 55 N, 158 15 E<br>
+### Geographic coordinates
+6 55 N, 158 15 E
 
-**Map references**<br>
-Oceania<br>
+### Map references
+Oceania
 
-**Area**<br>
-_total _: 702 sq km<br>
-_land_: 702 sq km<br>
-_water_: 0 sq km (fresh water only)<br>
-<strong>note:</strong> includes Pohnpei (Ponape), Chuuk (Truk) Islands, Yap Islands, and Kosrae (Kosaie)<br>
+### Area
+- `total `: 702 sq km
+- `land`: 702 sq km
+- `water`: 0 sq km (fresh water only)
+**note**:  includes Pohnpei (Ponape), Chuuk (Truk) Islands, Yap Islands, and Kosrae (Kosaie)
 
-**Area - comparative**<br>
-four times the size of Washington, DC (land area only)<br>
+### Area - comparative
+four times the size of Washington, DC (land area only)
 
-**Land boundaries**<br>
-_total_: 0 km<br>
+### Land boundaries
+- `total`: 0 km
 
-**Coastline**<br>
-6,112 km<br>
+### Coastline
+6,112 km
 
-**Maritime claims**<br>
-_territorial sea_: 12 nm<br>
-_exclusive economic zone_: 200 nm<br>
+### Maritime claims
+- `territorial sea`: 12 nm
+- `exclusive economic zone`: 200 nm
 
-**Climate**<br>
-tropical; heavy year-round rainfall, especially in the eastern islands; located on southern edge of the typhoon belt with occasionally severe damage<br>
+### Climate
+tropical; heavy year-round rainfall, especially in the eastern islands; located on southern edge of the typhoon belt with occasionally severe damage
 
-**Terrain**<br>
-islands vary geologically from high mountainous islands to low, coral atolls; volcanic outcroppings on Pohnpei, Kosrae, and Chuuk<br>
+### Terrain
+islands vary geologically from high mountainous islands to low, coral atolls; volcanic outcroppings on Pohnpei, Kosrae, and Chuuk
 
-**Elevation**<br>
-_highest point_: Nanlaud on Pohnpei 782 m<br>
-_lowest point_: Pacific Ocean 0 m<br>
+### Elevation
+- `highest point`: Nanlaud on Pohnpei 782 m
+- `lowest point`: Pacific Ocean 0 m
 
-**Natural resources**<br>
-timber, marine products, deep-seabed minerals, phosphate<br>
+### Natural resources
+timber, marine products, deep-seabed minerals, phosphate
 
-**Land use**<br>
-_agricultural land_: 25.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.3% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 19.7% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 3.5% (2018 est.)<br>
-_forest_: 74.5% (2018 est.)<br>
-_other_: 0% (2018 est.)<br>
+### Land use
+- `agricultural land`: 25.5% (2018 est.)
+- `agricultural land: arable land`: arable land: 2.3% (2018 est.)
+- `agricultural land: permanent crops`: permanent crops: 19.7% (2018 est.)
+- `agricultural land: permanent pasture`: permanent pasture: 3.5% (2018 est.)
+- `forest`: 74.5% (2018 est.)
+- `other`: 0% (2018 est.)
 
-**Irrigated land**<br>
-0 sq km (2022)<br>
+### Irrigated land
+0 sq km (2022)
 
-**Population distribution**<br>
-the majority of the populaton lives in the coastal areas of the high islands; the mountainous interior is largely uninhabited; less than half of the population lives in urban areas<br>
+### Population distribution
+the majority of the populaton lives in the coastal areas of the high islands; the mountainous interior is largely uninhabited; less than half of the population lives in urban areas
 
-**Natural hazards**<br>
-typhoons (June to December)<br>
+### Natural hazards
+typhoons (June to December)
 
-**Geography - note**<br>
-composed of four major island groups totaling 607 islands<br>
+### Geography - note
+composed of four major island groups totaling 607 islands
 
 ## People and Society
 
-**Population**<br>
-_total_: 99,603<br>
-_male_: 48,708<br>
-_female_: 50,895 (2024 est.)<br>
+### Population
+- `total`: 99,603
+- `male`: 48,708
+- `female`: 50,895 (2024 est.)
 
-**Nationality**<br>
-_noun_: Micronesian(s)<br>
-_adjective_: Micronesian; Chuukese, Kosraen(s), Pohnpeian(s), Yapese<br>
+### Nationality
+- `noun`: Micronesian(s)
+- `adjective`: Micronesian; Chuukese, Kosraen(s), Pohnpeian(s), Yapese
 
-**Ethnic groups**<br>
-Chuukese/Mortlockese 49.3%, Pohnpeian 29.8%, Kosraean 6.3%, Yapese 5.7%, Yap outer islanders 5.1%, Polynesian 1.6%, Asian 1.4%, other 0.8% (2010 est.)<br>
+### Ethnic groups
+Chuukese/Mortlockese 49.3%, Pohnpeian 29.8%, Kosraean 6.3%, Yapese 5.7%, Yap outer islanders 5.1%, Polynesian 1.6%, Asian 1.4%, other 0.8% (2010 est.)
 
-**Languages**<br>
-English (official and common language), Chuukese, Kosrean, Pohnpeian, Yapese, Ulithian, Woleaian, Nukuoro, Kapingamarangi<br>
+### Languages
+English (official and common language), Chuukese, Kosrean, Pohnpeian, Yapese, Ulithian, Woleaian, Nukuoro, Kapingamarangi
 
-**Religions**<br>
-Roman Catholic 54.7%, Protestant 41.1% (includes Congregational 38.5%, Baptist 1.1%, Seventh Day Adventist 0.8%, Assembly of God 0.7%), Church of Jesus Christ 1.5%, other 1.9%, none 0.7%, unspecified 0.1% (2010 est.)<br>
+### Religions
+Roman Catholic 54.7%, Protestant 41.1% (includes Congregational 38.5%, Baptist 1.1%, Seventh Day Adventist 0.8%, Assembly of God 0.7%), Church of Jesus Christ 1.5%, other 1.9%, none 0.7%, unspecified 0.1% (2010 est.)
 
-**Age structure**<br>
-_0-14 years_: 27% (male 13,673/female 13,239)<br>
-_15-64 years_: 67.3% (male 32,527/female 34,487)<br>
-_65 years and over_: 5.7% (2024 est.) (male 2,508/female 3,169)<br>
+### Age structure
+- `0-14 years`: 27% (male 13,673/female 13,239)
+- `15-64 years`: 67.3% (male 32,527/female 34,487)
+- `65 years and over`: 5.7% (2024 est.) (male 2,508/female 3,169)
 
-**Dependency ratios**<br>
-_total dependency ratio_: 57.7<br>
-_youth dependency ratio_: 48.4<br>
-_elderly dependency ratio_: 9.3<br>
-_potential support ratio_: 10.8 (2021 est.)<br>
+### Dependency ratios
+- `total dependency ratio`: 57.7
+- `youth dependency ratio`: 48.4
+- `elderly dependency ratio`: 9.3
+- `potential support ratio`: 10.8 (2021 est.)
 
-**Median age**<br>
-_total_: 28.2 years (2024 est.)<br>
-_male_: 27.3 years<br>
-_female_: 29.1 years<br>
+### Median age
+- `total`: 28.2 years (2024 est.)
+- `male`: 27.3 years
+- `female`: 29.1 years
 
-**Population growth rate**<br>
--0.73% (2024 est.)<br>
+### Population growth rate
+-0.73% (2024 est.)
 
-**Birth rate**<br>
-17.8 births/1,000 population (2024 est.)<br>
+### Birth rate
+17.8 births/1,000 population (2024 est.)
 
-**Death rate**<br>
-4.2 deaths/1,000 population (2024 est.)<br>
+### Death rate
+4.2 deaths/1,000 population (2024 est.)
 
-**Net migration rate**<br>
--21 migrant(s)/1,000 population (2024 est.)<br>
+### Net migration rate
+-21 migrant(s)/1,000 population (2024 est.)
 
-**Population distribution**<br>
-the majority of the populaton lives in the coastal areas of the high islands; the mountainous interior is largely uninhabited; less than half of the population lives in urban areas<br>
+### Population distribution
+the majority of the populaton lives in the coastal areas of the high islands; the mountainous interior is largely uninhabited; less than half of the population lives in urban areas
 
-**Urbanization**<br>
-_urban population_: 23.4% of total population (2023)<br>
-_rate of urbanization_: 1.52% annual rate of change (2020-25 est.)<br>
+### Urbanization
+- `urban population`: 23.4% of total population (2023)
+- `rate of urbanization`: 1.52% annual rate of change (2020-25 est.)
 
-**Major urban areas - population**<br>
-7,000 PALIKIR (capital) (2018)<br>
+### Major urban areas - population
+7,000 PALIKIR (capital) (2018)
 
-**Sex ratio**<br>
-_at birth_: 1.05 male(s)/female<br>
-_0-14 years_: 1.03 male(s)/female<br>
-_15-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.79 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2024 est.)<br>
+### Sex ratio
+- `at birth`: 1.05 male(s)/female
+- `0-14 years`: 1.03 male(s)/female
+- `15-64 years`: 0.94 male(s)/female
+- `65 years and over`: 0.79 male(s)/female
+- `total population`: 0.96 male(s)/female (2024 est.)
 
-**Maternal mortality ratio**<br>
-74 deaths/100,000 live births (2020 est.)<br>
+### Maternal mortality ratio
+74 deaths/100,000 live births (2020 est.)
 
-**Infant mortality rate**<br>
-_total_: 20.9 deaths/1,000 live births (2024 est.)<br>
-_male_: 23.8 deaths/1,000 live births<br>
-_female_: 17.8 deaths/1,000 live births<br>
+### Infant mortality rate
+- `total`: 20.9 deaths/1,000 live births (2024 est.)
+- `male`: 23.8 deaths/1,000 live births
+- `female`: 17.8 deaths/1,000 live births
 
-**Life expectancy at birth**<br>
-_total population_: 75 years (2024 est.)<br>
-_male_: 72.9 years<br>
-_female_: 77.2 years<br>
+### Life expectancy at birth
+- `total population`: 75 years (2024 est.)
+- `male`: 72.9 years
+- `female`: 77.2 years
 
-**Total fertility rate**<br>
-2.19 children born/woman (2024 est.)<br>
+### Total fertility rate
+2.19 children born/woman (2024 est.)
 
-**Gross reproduction rate**<br>
-1.07 (2024 est.)<br>
+### Gross reproduction rate
+1.07 (2024 est.)
 
-**Contraceptive prevalence rate**<br>
-NA<br>
+### Contraceptive prevalence rate
+NA
 
-**Drinking water source**<br>
-_improved: total_: total: 78.6% of population<br>
-_unimproved: total_: total: 21.4% of population (2017 est.)<br>
+### Drinking water source
+- `improved: total`: total: 78.6% of population
+- `unimproved: total`: total: 21.4% of population (2017 est.)
 
-**Current health expenditure**<br>
-11.6% of GDP (2020)<br>
+### Current health expenditure
+11.6% of GDP (2020)
 
-**Hospital bed density**<br>
-3.2 beds/1,000 population<br>
+### Hospital bed density
+3.2 beds/1,000 population
 
-**Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 88.3% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 11.7% of population (2017 est.)<br>
+### Sanitation facility access
+- `improved: urban`: urban: NA
+- `improved: rural`: rural: NA
+- `improved: total`: total: 88.3% of population
+- `unimproved: urban`: urban: NA
+- `unimproved: rural`: rural: NA
+- `unimproved: total`: total: 11.7% of population (2017 est.)
 
-**Obesity - adult prevalence rate**<br>
-45.8% (2016)<br>
+### Obesity - adult prevalence rate
+45.8% (2016)
 
-**Alcohol consumption per capita**<br>
-_total_: 1.59 liters of pure alcohol (2019 est.)<br>
-_beer_: 0.92 liters of pure alcohol (2019 est.)<br>
-_wine_: 0.13 liters of pure alcohol (2019 est.)<br>
-_spirits_: 0.52 liters of pure alcohol (2019 est.)<br>
-_other alcohols_: 0.01 liters of pure alcohol (2019 est.)<br>
+### Alcohol consumption per capita
+- `total`: 1.59 liters of pure alcohol (2019 est.)
+- `beer`: 0.92 liters of pure alcohol (2019 est.)
+- `wine`: 0.13 liters of pure alcohol (2019 est.)
+- `spirits`: 0.52 liters of pure alcohol (2019 est.)
+- `other alcohols`: 0.01 liters of pure alcohol (2019 est.)
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
+### Children under the age of 5 years underweight
+NA
 
-**Currently married women (ages 15-49)**<br>
-51.7% (2023 est.)<br>
+### Currently married women (ages 15-49)
+51.7% (2023 est.)
 
-**Education expenditures**<br>
-9.7% of GDP (2018 est.)<br>
+### Education expenditures
+9.7% of GDP (2018 est.)
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
+### Literacy
+- `total population`: NA
+- `male`: NA
+- `female`: NA
 
 ## Environment
 
-**Environment - current issues**<br>
-overfishing; sea level rise due to climate change threatens land; water pollution, toxic pollution from mining; solid waste disposal<br>
+### Environment - current issues
+overfishing; sea level rise due to climate change threatens land; water pollution, toxic pollution from mining; solid waste disposal
 
-**Environment - international agreements**<br>
-_party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection<br>
-_signed, but not ratified_: none of the selected agreements<br>
+### Environment - international agreements
+- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection
+- `signed, but not ratified`: none of the selected agreements
 
-**Climate**<br>
-tropical; heavy year-round rainfall, especially in the eastern islands; located on southern edge of the typhoon belt with occasionally severe damage<br>
+### Climate
+tropical; heavy year-round rainfall, especially in the eastern islands; located on southern edge of the typhoon belt with occasionally severe damage
 
-**Land use**<br>
-_agricultural land_: 25.5% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.3% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 19.7% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 3.5% (2018 est.)<br>
-_forest_: 74.5% (2018 est.)<br>
-_other_: 0% (2018 est.)<br>
+### Land use
+- `agricultural land`: 25.5% (2018 est.)
+- `agricultural land: arable land`: arable land: 2.3% (2018 est.)
+- `agricultural land: permanent crops`: permanent crops: 19.7% (2018 est.)
+- `agricultural land: permanent pasture`: permanent pasture: 3.5% (2018 est.)
+- `forest`: 74.5% (2018 est.)
+- `other`: 0% (2018 est.)
 
-**Urbanization**<br>
-_urban population_: 23.4% of total population (2023)<br>
-_rate of urbanization_: 1.52% annual rate of change (2020-25 est.)<br>
+### Urbanization
+- `urban population`: 23.4% of total population (2023)
+- `rate of urbanization`: 1.52% annual rate of change (2020-25 est.)
 
-**Revenue from forest resources**<br>
-0.02% of GDP (2018 est.)<br>
+### Revenue from forest resources
+0.02% of GDP (2018 est.)
 
-**Air pollutants**<br>
-_particulate matter emissions_: 7.79 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.14 megatons (2016 est.)<br>
-_methane emissions_: 0.02 megatons (2020 est.)<br>
+### Air pollutants
+- `particulate matter emissions`: 7.79 micrograms per cubic meter (2019 est.)
+- `carbon dioxide emissions`: 0.14 megatons (2016 est.)
+- `methane emissions`: 0.02 megatons (2020 est.)
 
-**Waste and recycling**<br>
-_municipal solid waste generated annually_: 26,040 tons (2016 est.)<br>
+### Waste and recycling
+- `municipal solid waste generated annually`: 26,040 tons (2016 est.)
 
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
+### Total renewable water resources
+0 cubic meters (2017 est.)
 
 ## Government
 
-**Country name**<br>
-_conventional long form_: Federated States of Micronesia<br>
-_conventional short form_: none<br>
-_local long form_: Federated States of Micronesia<br>
-_local short form_: none<br>
-_former_: New Philippines; Caroline Islands; Trust Territory of the Pacific Islands, Ponape, Truk, and Yap Districts<br>
-_abbreviation_: FSM<br>
-_etymology_: the term "Micronesia" is a 19th-century construct of two Greek words, "micro" (small) and "nesoi" (islands), and refers to thousands of small islands in the western Pacific Ocean<br>
+### Country name
+- `conventional long form`: Federated States of Micronesia
+- `conventional short form`: none
+- `local long form`: Federated States of Micronesia
+- `local short form`: none
+- `former`: New Philippines; Caroline Islands; Trust Territory of the Pacific Islands, Ponape, Truk, and Yap Districts
+- `abbreviation`: FSM
+- `etymology`: the term "Micronesia" is a 19th-century construct of two Greek words, "micro" (small) and "nesoi" (islands), and refers to thousands of small islands in the western Pacific Ocean
 
-**Government type**<br>
-federal republic in free association with the US<br>
+### Government type
+federal republic in free association with the US
 
-**Capital**<br>
-_name_: Palikir<br>
-_geographic coordinates_: 6 55 N, 158 09 E<br>
-_time difference_: UTC+11 (16 hours ahead of Washington, DC, during Standard Time)<br>
-_time zone note_: Micronesia has two time zones<br>
-<strong>note:</strong> Palikir became the new capital of the country in 1989, three years after independence; Kolonia, the former capital, remains the site for many foreign embassies; it also serves as the Pohnpei state capital<br>
+### Capital
+- `name`: Palikir
+- `geographic coordinates`: 6 55 N, 158 09 E
+- `time difference`: UTC+11 (16 hours ahead of Washington, DC, during Standard Time)
+- `time zone note`: Micronesia has two time zones
+**note**:  Palikir became the new capital of the country in 1989, three years after independence; Kolonia, the former capital, remains the site for many foreign embassies; it also serves as the Pohnpei state capital
 
-**Administrative divisions**<br>
-4 states; Chuuk (Truk), Kosrae (Kosaie), Pohnpei (Ponape), Yap<br>
+### Administrative divisions
+4 states; Chuuk (Truk), Kosrae (Kosaie), Pohnpei (Ponape), Yap
 
-**Independence**<br>
-3 November 1986 (from the US-administered UN trusteeship)<br>
+### Independence
+3 November 1986 (from the US-administered UN trusteeship)
 
-**National holiday**<br>
-Constitution Day, 10 May (1979)<br>
+### National holiday
+Constitution Day, 10 May (1979)
 
-**Legal system**<br>
-mixed legal system of common and customary law<br>
+### Legal system
+mixed legal system of common and customary law
 
-**Constitution**<br>
-_history_: drafted June 1975, ratified 1 October 1978, entered into force 10 May 1979<br>
-_amendments_: proposed by Congress, by a constitutional convention, or by public petition; passage requires approval by at least three-fourths majority vote in at least three fourths of the states; amended 1990; note &ndash; at least every 10 years as part of a general or special election, voters are asked whether to hold a constitution convention; a majority of affirmative votes is required to proceed; amended many times, last in 2019 (approval by referendum to hold a constitutional convention)<br>
+### Constitution
+- `history`: drafted June 1975, ratified 1 October 1978, entered into force 10 May 1979
+- `amendments`: proposed by Congress, by a constitutional convention, or by public petition; passage requires approval by at least three-fourths majority vote in at least three fourths of the states; amended 1990; note – at least every 10 years as part of a general or special election, voters are asked whether to hold a constitution convention; a majority of affirmative votes is required to proceed; amended many times, last in 2019 (approval by referendum to hold a constitutional convention)
 
-**International law organization participation**<br>
-has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
+### International law organization participation
+has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt
 
-**Citizenship**<br>
-_citizenship by birth_: no<br>
-_citizenship by descent only_: at least one parent must be a citizen of FSM<br>
-_dual citizenship recognized_: no<br>
-_residency requirement for naturalization_: 5 years<br>
+### Citizenship
+- `citizenship by birth`: no
+- `citizenship by descent only`: at least one parent must be a citizen of FSM
+- `dual citizenship recognized`: no
+- `residency requirement for naturalization`: 5 years
 
-**Suffrage**<br>
-18 years of age; universal<br>
+### Suffrage
+18 years of age; universal
 
-**Executive branch**<br>
-_chief of state_: President Wesley W. SIMINA (since 12 May 2023)<br>
-_head of government_: President Wesley W. SIMINA (since 12 May 2023)<br>
-_cabinet_: Cabinet includes the vice president and the heads of the 8 executive departments<br>
-_elections/appointments_: president and vice president indirectly elected by Congress from among the 4 'at large' senators for a 4-year term (eligible for a second term); election last held on 12 May 2023 (next to be held in 2027)<br>
-_election results_: <em><br>2023: </em>David W. PANUELO elected president by Congress; Yosiwo P. GEORGE reelected vice president<br><br>2019: David W. PANUELO elected president by Congress; Yosiwo P. GEORGE reelected vice president <br>
-<strong>note:</strong> the president is both chief of state and head of government<br>
+### Executive branch
+- `chief of state`: President Wesley W. SIMINA (since 12 May 2023)
+- `head of government`: President Wesley W. SIMINA (since 12 May 2023)
+- `cabinet`: Cabinet includes the vice president and the heads of the 8 executive departments
+- `elections/appointments`: president and vice president indirectly elected by Congress from among the 4 'at large' senators for a 4-year term (eligible for a second term); election last held on 12 May 2023 (next to be held in 2027)
+- `election results`: *2023: *David W. PANUELO elected president by Congress; Yosiwo P. GEORGE reelected vice president  2019: David W. PANUELO elected president by Congress; Yosiwo P. GEORGE reelected vice president 
+**note**:  the president is both chief of state and head of government
 
-**Legislative branch**<br>
-_description_: unicameral Congress (14 seats; 10 members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms and 4 at- large members directly elected from each of the 4 states by proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 7 March 2023 (next to be held in March 2025)<br>
-_election results_: percent of vote - NA; seats by party - independent 14; composition - men 11, women 2; percentage women 15.4%<br>
+### Legislative branch
+- `description`: unicameral Congress (14 seats; 10 members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms and 4 at- large members directly elected from each of the 4 states by proportional representation vote to serve 4-year terms)
+- `elections`: last held on 7 March 2023 (next to be held in March 2025)
+- `election results`: percent of vote - NA; seats by party - independent 14; composition - men 11, women 2; percentage women 15.4%
 
-**Judicial branch**<br>
-_highest court(s)_: Federated States of Micronesia (FSM) Supreme Court (consists of the chief justice and not more than 5 associate justices and organized into appellate and criminal divisions)<br>
-_judge selection and term of office_: justices appointed by the FSM president with the approval of two-thirds of Congress; justices appointed for life<br>
-_subordinate courts_: the highest state-level courts are: Chuuk Supreme Court; Korsae State Court; Pohnpei State Court; Yap State Court<br>
+### Judicial branch
+- `highest court(s)`: Federated States of Micronesia (FSM) Supreme Court (consists of the chief justice and not more than 5 associate justices and organized into appellate and criminal divisions)
+- `judge selection and term of office`: justices appointed by the FSM president with the approval of two-thirds of Congress; justices appointed for life
+- `subordinate courts`: the highest state-level courts are: Chuuk Supreme Court; Korsae State Court; Pohnpei State Court; Yap State Court
 
-**Political parties**<br>
-no formal parties<br>
+### Political parties
+no formal parties
 
-**International organization participation**<br>
-ACP, ADB, AOSIS, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, IMF, IOC, IOM, IPU, ITSO, ITU, MIGA, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, WHO, WMO<br>
+### International organization participation
+ACP, ADB, AOSIS, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, IMF, IOC, IOM, IPU, ITSO, ITU, MIGA, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, WHO, WMO
 
-**Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Jackson T. SORAM (since 27 February 2024)<br>
-_chancery_: 1725 N Street NW, Washington, DC 20036<br>
-_telephone_: [1] (202) 223-4383<br>
-_FAX_: [1] (202) 223-4391<br>
-_email address and website_: <br>dcmission@fsmembassy.fm<br><br>https://fsmembassy.fm/<br>
-_consulate(s) general_: Honolulu, Portland (OR), Tamuning (Guam)<br>
+### Diplomatic representation in the US
+- `chief of mission`: Ambassador Jackson T. SORAM (since 27 February 2024)
+- `chancery`: 1725 N Street NW, Washington, DC 20036
+- `telephone`: [1] (202) 223-4383
+- `FAX`: [1] (202) 223-4391
+- `email address and website`: dcmission@fsmembassy.fm  https://fsmembassy.fm/
+- `consulate(s) general`: Honolulu, Portland (OR), Tamuning (Guam)
 
-**Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Jennifer JOHNSON (since 13 September 2023)<br>
-_embassy_: 1286 US Embassy Place, Kolonia, Pohnpei, FM 96941<br>
-_mailing address_: 4120 Kolonia Place, Washington, D.C. 20521-4120<br>
-_telephone_: [691] 320-2187<br>
-_FAX_: [691] 320-2186<br>
-_email address and website_: <br>koloniaacs@state.gov<br><br>https://fm.usembassy.gov/<br>
+### Diplomatic representation from the US
+- `chief of mission`: Ambassador Jennifer JOHNSON (since 13 September 2023)
+- `embassy`: 1286 US Embassy Place, Kolonia, Pohnpei, FM 96941
+- `mailing address`: 4120 Kolonia Place, Washington, D.C. 20521-4120
+- `telephone`: [691] 320-2187
+- `FAX`: [691] 320-2186
+- `email address and website`: koloniaacs@state.gov  https://fm.usembassy.gov/
 
-**Flag description**<br>
-light blue with four white five-pointed stars centered; the stars are arranged in a diamond pattern; blue symbolizes the Pacific Ocean, the stars represent the four island groups of Chuuk, Kosrae, Pohnpei, and Yap<br>
+### Flag description
+light blue with four white five-pointed stars centered; the stars are arranged in a diamond pattern; blue symbolizes the Pacific Ocean, the stars represent the four island groups of Chuuk, Kosrae, Pohnpei, and Yap
 
-**National symbol(s)**<br>
-four, five-pointed, white stars on a light blue field, hibiscus flower; national colors: light blue, white<br>
+### National symbol(s)
+four, five-pointed, white stars on a light blue field, hibiscus flower; national colors: light blue, white
 
-**National anthem**<br>
-_name_: "Patriots of Micronesia"<br>
-_lyrics/music_: unknown/August Daniel BINZER<br>
-<strong>note:</strong> adopted 1991; also known as "Across All Micronesia"; the music is based on the 1820 German patriotic song "Ich hab mich ergeben", which was the West German national anthem from 1949-1950; variants of this tune are used in Johannes BRAHMS' "Festival Overture" and Gustav MAHLER's "Third Symphony"<br>
+### National anthem
+- `name`: "Patriots of Micronesia"
+- `lyrics/music`: unknown/August Daniel BINZER
+**note**:  adopted 1991; also known as "Across All Micronesia"; the music is based on the 1820 German patriotic song "Ich hab mich ergeben", which was the West German national anthem from 1949-1950; variants of this tune are used in Johannes BRAHMS' "Festival Overture" and Gustav MAHLER's "Third Symphony"
 
-**National heritage**<br>
-_total World Heritage Sites_: 1 (cultural)<br>
-_selected World Heritage Site locales_: Nan Madol: Ceremonial Center of Eastern Micronesia<br>
+### National heritage
+- `total World Heritage Sites`: 1 (cultural)
+- `selected World Heritage Site locales`: Nan Madol: Ceremonial Center of Eastern Micronesia
 
 ## Economy
 
-**Economic overview**<br>
-lower middle-income Pacific island economy; US aid reliance, sunsetting in 2024; low entrepreneurship; mostly fishing and farming; US dollar user; no patent laws; tourism remains underdeveloped; significant corruption<br>
+### Economic overview
+lower middle-income Pacific island economy; US aid reliance, sunsetting in 2024; low entrepreneurship; mostly fishing and farming; US dollar user; no patent laws; tourism remains underdeveloped; significant corruption
 
-**Real GDP (purchasing power parity)**<br>
-$437.922 million (2023 est.)<br>
-$434.514 million (2022 est.)<br>
-$437.922 million (2021 est.)<br>
-<b>note:</b> data in 2021 dollars<br>
+### Real GDP (purchasing power parity)
+$437.922 million (2023 est.)
+$434.514 million (2022 est.)
+$437.922 million (2021 est.)
+**note**: data in 2021 dollars
 
-**Real GDP growth rate**<br>
-0.78% (2023 est.)<br>
--0.78% (2022 est.)<br>
-2.8% (2021 est.)<br>
-<b>note:</b> annual GDP % growth based on constant local currency<br>
+### Real GDP growth rate
+0.78% (2023 est.)
+-0.78% (2022 est.)
+2.8% (2021 est.)
+**note**: annual GDP % growth based on constant local currency
 
-**Real GDP per capita**<br>
-$3,800 (2023 est.)<br>
-$3,800 (2022 est.)<br>
-$3,900 (2021 est.)<br>
-<b>note:</b> data in 2021 dollars<br>
+### Real GDP per capita
+$3,800 (2023 est.)
+$3,800 (2022 est.)
+$3,900 (2021 est.)
+**note**: data in 2021 dollars
 
-**GDP (official exchange rate)**<br>
-$460 million (2023 est.)<br>
-<b>note:</b> data in current dollars at official exchange rate<br>
+### GDP (official exchange rate)
+$460 million (2023 est.)
+**note**: data in current dollars at official exchange rate
 
-**Inflation rate (consumer prices)**<br>
-5.41% (2022 est.)<br>
-3.19% (2021 est.)<br>
-0.55% (2020 est.)<br>
-<b>note:</b> annual % change based on consumer prices<br>
+### Inflation rate (consumer prices)
+5.41% (2022 est.)
+3.19% (2021 est.)
+0.55% (2020 est.)
+**note**: annual % change based on consumer prices
 
-**GDP - composition, by sector of origin**<br>
-_agriculture_: 22.5% (2023 est.)<br>
-_industry_: 4.9% (2023 est.)<br>
-_services_: 66.8% (2023 est.)<br>
-<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
+### GDP - composition, by sector of origin
+- `agriculture`: 22.5% (2023 est.)
+- `industry`: 4.9% (2023 est.)
+- `services`: 66.8% (2023 est.)
+**note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
-**GDP - composition, by end use**<br>
-_exports of goods and services_: 27.3% (2023 est.)<br>
-_imports of goods and services_: -67.5% (2023 est.)<br>
-<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
+### GDP - composition, by end use
+- `exports of goods and services`: 27.3% (2023 est.)
+- `imports of goods and services`: -67.5% (2023 est.)
+**note**: figures may not total 100% due to rounding or gaps in data collection
 
-**Agricultural products**<br>
-coconuts, cassava, vegetables, sweet potatoes, bananas, pork, plantains, fruits, beef, eggs (2022)<br>
-<b>note:</b> top ten agricultural products based on tonnage<br>
+### Agricultural products
+coconuts, cassava, vegetables, sweet potatoes, bananas, pork, plantains, fruits, beef, eggs (2022)
+**note**: top ten agricultural products based on tonnage
 
-**Industries**<br>
-tourism, construction; specialized aquaculture, craft items (shell and wood)<br>
+### Industries
+tourism, construction; specialized aquaculture, craft items (shell and wood)
 
-**Industrial production growth rate**<br>
-0.78% (2023 est.)<br>
-<strong>note:</strong> annual % change in industrial value added based on constant local currency<br>
+### Industrial production growth rate
+0.78% (2023 est.)
+**note**:  annual % change in industrial value added based on constant local currency
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.9% (2014)<br>
-_male_: 10.4%<br>
-_female_: 29.9%<br>
+### Youth unemployment rate (ages 15-24)
+- `total`: 18.9% (2014)
+- `male`: 10.4%
+- `female`: 29.9%
 
-**Remittances**<br>
-5.07% of GDP (2023 est.)<br>
-5.43% of GDP (2022 est.)<br>
-5.98% of GDP (2021 est.)<br>
-<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+### Remittances
+5.07% of GDP (2023 est.)
+5.43% of GDP (2022 est.)
+5.98% of GDP (2021 est.)
+**note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
-**Budget**<br>
-_revenues_: $137.795 million (2020 est.)<br>
-_expenditures_: $87.355 million (2020 est.)<br>
-<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+### Budget
+- `revenues`: $137.795 million (2020 est.)
+- `expenditures`: $87.355 million (2020 est.)
+**note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
-**Public debt**<br>
-27.86% of GDP (2020 est.)<br>
-<b>note:</b> central government debt as a % of GDP<br>
+### Public debt
+27.86% of GDP (2020 est.)
+**note**: central government debt as a % of GDP
 
-**Taxes and other revenues**<br>
-7.05% (of GDP) (2020 est.)<br>
-<b>note:</b> central government tax revenue as a % of GDP<br>
+### Taxes and other revenues
+7.05% (of GDP) (2020 est.)
+**note**: central government tax revenue as a % of GDP
 
-**Current account balance**<br>
-$12 million (2017 est.)<br>
-$11 million (2016 est.)<br>
-$22.408 million (2014 est.)<br>
-<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
+### Current account balance
+$12 million (2017 est.)
+$11 million (2016 est.)
+$22.408 million (2014 est.)
+**note**: balance of payments - net trade and primary/secondary income in current dollars
 
-**Exports**<br>
-$179 million (2021 est.)<br>
-$122 million (2020 est.)<br>
-$130 million (2019 est.)<br>
-<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
+### Exports
+$179 million (2021 est.)
+$122 million (2020 est.)
+$130 million (2019 est.)
+**note**: balance of payments - exports of goods and services in current dollars
 
-**Exports - partners**<br>
-Thailand 78%, Philippines 12%, Japan 5%, Ecuador 2%, US 1% (2022)<br>
-<b>note:</b> top five export partners based on percentage share of exports<br>
+### Exports - partners
+Thailand 78%, Philippines 12%, Japan 5%, Ecuador 2%, US 1% (2022)
+**note**: top five export partners based on percentage share of exports
 
-**Exports - commodities**<br>
-fish, integrated circuits, garments, aircraft parts, broadcasting equipment (2022)<br>
-<b>note:</b> top five export commodities based on value in dollars<br>
+### Exports - commodities
+fish, integrated circuits, garments, aircraft parts, broadcasting equipment (2022)
+**note**: top five export commodities based on value in dollars
 
-**Imports**<br>
-$126 million (2021 est.)<br>
-$133 million (2020 est.)<br>
-$121 million (2019 est.)<br>
-<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
+### Imports
+$126 million (2021 est.)
+$133 million (2020 est.)
+$121 million (2019 est.)
+**note**: balance of payments - imports of goods and services in current dollars
 
-**Imports - partners**<br>
-US 37%, China 21%, Japan 10%, South Korea 8%, Taiwan 5% (2022)<br>
-<b>note:</b> top five import partners based on percentage share of imports<br>
+### Imports - partners
+US 37%, China 21%, Japan 10%, South Korea 8%, Taiwan 5% (2022)
+**note**: top five import partners based on percentage share of imports
 
-**Imports - commodities**<br>
-plastic products, ships, poultry, refined petroleum, fish (2022)<br>
-<b>note:</b> top five import commodities based on value in dollars<br>
+### Imports - commodities
+plastic products, ships, poultry, refined petroleum, fish (2022)
+**note**: top five import commodities based on value in dollars
 
-**Reserves of foreign exchange and gold**<br>
-$497.434 million (2021 est.)<br>
-$451.913 million (2020 est.)<br>
-$397.158 million (2019 est.)<br>
-<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+### Reserves of foreign exchange and gold
+$497.434 million (2021 est.)
+$451.913 million (2020 est.)
+$397.158 million (2019 est.)
+**note**: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars
 
-**Exchange rates**<br>
-<p>the US dollar is used</p><br>
+### Exchange rates
+the US dollar is used
 
 ## Energy
 
-**Electricity access**<br>
-_electrification - total population_: 85.3% (2022 est.)<br>
-_electrification - urban areas_: 98.6%<br>
-_electrification - rural areas_: 79.4%<br>
+### Electricity access
+- `electrification - total population`: 85.3% (2022 est.)
+- `electrification - urban areas`: 98.6%
+- `electrification - rural areas`: 79.4%
 
-**Petroleum**<br>
-_refined petroleum consumption_: 1,000 bbl/day (2022 est.)<br>
+### Petroleum
+- `refined petroleum consumption`: 1,000 bbl/day (2022 est.)
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 166,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 166,000 metric tonnes of CO2 (2022 est.)<br>
+### Carbon dioxide emissions
+- `total emissions`: 166,000 metric tonnes of CO2 (2022 est.)
+- `from petroleum and other liquids`: 166,000 metric tonnes of CO2 (2022 est.)
 
 ## Communications
 
-**Telephones - fixed lines**<br>
-_total subscriptions_: 7,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 6 (2021 est.)<br>
+### Telephones - fixed lines
+- `total subscriptions`: 7,000 (2021 est.)
+- `subscriptions per 100 inhabitants`: 6 (2021 est.)
 
-**Telephones - mobile cellular**<br>
-_total subscriptions_: 22,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 19 (2021 est.)<br>
+### Telephones - mobile cellular
+- `total subscriptions`: 22,000 (2021 est.)
+- `subscriptions per 100 inhabitants`: 19 (2021 est.)
 
-**Telecommunication systems**<br>
-_general assessment_: Australia, Japan, and the United States are committed to working in partnership with the Federated States of Micronesia (FSM), Kiribati, and Nauru to improve internet connectivity to these three Pacific nations by providing funding to build a new undersea cable; the proposed undersea cable will provide faster, higher quality, and more reliable and secure communications to approximately 100,000 people across three countries; this will support increased economic growth, drive development opportunities, and help to improve living standards as the region recovers from the severe impacts of COVID-19; the new cable will connect Kosrae (FSM), Nauru, and Tarawa (Kiribati) with the existing HANTRU-1 cable at Pohnpei (FSM), providing internet connectivity through a submarine cable for the first time (2021)<br>
-_domestic_: fixed line teledensity roughly 6 per 100 and mobile-cellular nearly 19 per 100 (2021)<br>
-_international_: country code - 691; landing points for the Chuukk-Pohnpei Cable and HANTRU-1 submarine cable system linking the Federated States of Micronesia and the US;&nbsp;satellite earth stations - 5 Intelsat (Pacific Ocean) (2019)<br>
+### Telecommunication systems
+- `general assessment`: Australia, Japan, and the United States are committed to working in partnership with the Federated States of Micronesia (FSM), Kiribati, and Nauru to improve internet connectivity to these three Pacific nations by providing funding to build a new undersea cable; the proposed undersea cable will provide faster, higher quality, and more reliable and secure communications to approximately 100,000 people across three countries; this will support increased economic growth, drive development opportunities, and help to improve living standards as the region recovers from the severe impacts of COVID-19; the new cable will connect Kosrae (FSM), Nauru, and Tarawa (Kiribati) with the existing HANTRU-1 cable at Pohnpei (FSM), providing internet connectivity through a submarine cable for the first time (2021)
+- `domestic`: fixed line teledensity roughly 6 per 100 and mobile-cellular nearly 19 per 100 (2021)
+- `international`: country code - 691; landing points for the Chuukk-Pohnpei Cable and HANTRU-1 submarine cable system linking the Federated States of Micronesia and the US; satellite earth stations - 5 Intelsat (Pacific Ocean) (2019)
 
-**Broadcast media**<br>
-no TV broadcast stations; each state has a multi-channel cable service with TV transmissions carrying roughly 95% imported programming and 5% local programming; about a half-dozen radio stations (2009)<br>
+### Broadcast media
+no TV broadcast stations; each state has a multi-channel cable service with TV transmissions carrying roughly 95% imported programming and 5% local programming; about a half-dozen radio stations (2009)
 
-**Internet country code**<br>
-.fm<br>
+### Internet country code
+.fm
 
-**Internet users**<br>
-_total_: 44,000 (2021 est.)<br>
-_percent of population_: 40% (2021 est.)<br>
+### Internet users
+- `total`: 44,000 (2021 est.)
+- `percent of population`: 40% (2021 est.)
 
-**Broadband - fixed subscriptions**<br>
-_total_: 6,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 5 (2020 est.)<br>
+### Broadband - fixed subscriptions
+- `total`: 6,000 (2020 est.)
+- `subscriptions per 100 inhabitants`: 5 (2020 est.)
 
 ## Transportation
 
-**Civil aircraft registration country code prefix**<br>
-V6<br>
+### Civil aircraft registration country code prefix
+V6
 
-**Airports**<br>
-7 (2024)<br>
+### Airports
+7 (2024)
 
-**Roadways**<br>
-_total_: 388 km (2022)<br>
-note - paved and unpaved circumferential roads, most interior roads are unpaved<br>
+### Roadways
+- `total`: 388 km (2022)
+note - paved and unpaved circumferential roads, most interior roads are unpaved
 
-**Merchant marine**<br>
-_total_: 38 (2023)<br>
-_by type_: general cargo 17, oil tanker 4, other 17<br>
+### Merchant marine
+- `total`: 38 (2023)
+- `by type`: general cargo 17, oil tanker 4, other 17
 
-**Ports**<br>
-_total ports_: 4 (2024)<br>
-_large_: 0<br>
-_medium_: 0<br>
-_small_: 1<br>
-_very small_: 3<br>
-_ports with oil terminals_: 3<br>
-_key ports_: Colonia, Lele Harbor, Moen, Pohnpei Harbor<br>
+### Ports
+- `total ports`: 4 (2024)
+- `large`: 0
+- `medium`: 0
+- `small`: 1
+- `very small`: 3
+- `ports with oil terminals`: 3
+- `key ports`: Colonia, Lele Harbor, Moen, Pohnpei Harbor
 
 ## Military and Security
 
-**Military and security forces**<br>
-no military forces; Federated States of Micronesia National Police (includes a maritime wing); the Department of Justice oversees the National Police; State police forces are responsible for law enforcement in their respective states and are under the jurisdiction of each state&rsquo;s director of public safety (2024)<br>
+### Military and security forces
+no military forces; Federated States of Micronesia National Police (includes a maritime wing); the Department of Justice oversees the National Police; State police forces are responsible for law enforcement in their respective states and are under the jurisdiction of each state’s director of public safety (2024)
 
-**Military - note**<br>
-defense is the responsibility of the US; in 1982, the FSM signed a Compact of Free Association (COFA) with the US, which granted the FSM financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986 and its funding was renewed in 2003; Micronesians can serve in the US armed forces<br><br>the FSM has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within the FSM's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>
+### Military - note
+defense is the responsibility of the US; in 1982, the FSM signed a Compact of Free Association (COFA) with the US, which granted the FSM financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986 and its funding was renewed in 2003; Micronesians can serve in the US armed forces  the FSM has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within the FSM's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)
 
 ## Transnational Issues
 
-**Illicit drugs**<br>
-major consumer of cannabis<br>
+### Illicit drugs
+major consumer of cannabis
 

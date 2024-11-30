@@ -4,615 +4,615 @@ _Africa / Countries_
 
 ## Introduction
 
-**Background**<br>
-<p>Equatorial Guinea consists of a continental territory and five inhabited islands; it is one of the smallest countries by area and population in Africa. The mainland region was most likely predominantly inhabited by Pygmy ethnic groups prior to the migration of various Bantu-speaking ethnic groups around the second millennium BC. The island of Bioko, the largest of Equatorial Guinea’s five inhabited islands and the location of the country’s capital of Malabo, has been occupied since at least 1000 B.C. In the early 1470s, Portuguese explorers landed on Bioko Island, and Portugal soon after established control of the island and other areas of modern Equatorial Guinea. In 1778, Portugal ceded its colonial hold over present-day Equatorial Guinea to Spain in the Treaty of El Pardo. The borders of modern-day Equatorial Guinea would evolve between 1778 and 1968 as the area remained under European colonial rule.<br><br>In 1968, Equatorial Guinea was granted independence from Spain and elected Francisco MACIAS NGUEMA as its first president. MACIAS consolidated power soon after his election and ruled brutally for over a decade. Under his regime, Equatorial Guinea experienced mass suppression, purges, and killings. Some estimates indicate that a third of the population either went into exile or was killed under MACIAS’ rule. In 1979, present-day President OBIANG Nguema Mbasogo, then a senior military officer, deposed MACIAS in a violent coup. OBIANG has ruled since and has been elected in non-competitive contests several times, most recently in 2022. The president exerts near-total control over the political system. <br><br>Equatorial Guinea experienced rapid economic growth in the early years of the 21st century due to the discovery of large offshore oil reserves in 1996. Production peaked in 2004 and has declined since. The country's economic windfall from oil production resulted in massive increases in government revenue, a significant portion of which was earmarked for infrastructure development. Systemic corruption, however, has hindered socio-economic development, and the population has seen only limited improvements to living standards. Equatorial Guinea continues to seek to diversify its economy, increase foreign investment, and assume a greater role in regional and international affairs. </p> <p> </p><br>
+### Background
+Equatorial Guinea consists of a continental territory and five inhabited islands; it is one of the smallest countries by area and population in Africa. The mainland region was most likely predominantly inhabited by Pygmy ethnic groups prior to the migration of various Bantu-speaking ethnic groups around the second millennium BC. The island of Bioko, the largest of Equatorial Guinea’s five inhabited islands and the location of the country’s capital of Malabo, has been occupied since at least 1000 B.C. In the early 1470s, Portuguese explorers landed on Bioko Island, and Portugal soon after established control of the island and other areas of modern Equatorial Guinea. In 1778, Portugal ceded its colonial hold over present-day Equatorial Guinea to Spain in the Treaty of El Pardo. The borders of modern-day Equatorial Guinea would evolve between 1778 and 1968 as the area remained under European colonial rule.  In 1968, Equatorial Guinea was granted independence from Spain and elected Francisco MACIAS NGUEMA as its first president. MACIAS consolidated power soon after his election and ruled brutally for over a decade. Under his regime, Equatorial Guinea experienced mass suppression, purges, and killings. Some estimates indicate that a third of the population either went into exile or was killed under MACIAS’ rule. In 1979, present-day President OBIANG Nguema Mbasogo, then a senior military officer, deposed MACIAS in a violent coup. OBIANG has ruled since and has been elected in non-competitive contests several times, most recently in 2022. The president exerts near-total control over the political system.   Equatorial Guinea experienced rapid economic growth in the early years of the 21st century due to the discovery of large offshore oil reserves in 1996. Production peaked in 2004 and has declined since. The country's economic windfall from oil production resulted in massive increases in government revenue, a significant portion of which was earmarked for infrastructure development. Systemic corruption, however, has hindered socio-economic development, and the population has seen only limited improvements to living standards. Equatorial Guinea continues to seek to diversify its economy, increase foreign investment, and assume a greater role in regional and international affairs.   
 
 ## Geography
 
-**Location**<br>
-Central Africa, bordering the Bight of Biafra, between Cameroon and Gabon<br>
+### Location
+Central Africa, bordering the Bight of Biafra, between Cameroon and Gabon
 
-**Geographic coordinates**<br>
-2 00 N, 10 00 E<br>
+### Geographic coordinates
+2 00 N, 10 00 E
 
-**Map references**<br>
-Africa<br>
+### Map references
+Africa
 
-**Area**<br>
-_total _: 28,051 sq km<br>
-_land_: 28,051 sq km<br>
-_water_: 0 sq km<br>
+### Area
+- `total `: 28,051 sq km
+- `land`: 28,051 sq km
+- `water`: 0 sq km
 
-**Area - comparative**<br>
-slightly smaller than Maryland<br>
+### Area - comparative
+slightly smaller than Maryland
 
-**Land boundaries**<br>
-_total_: 528 km<br>
-_border countries_: Cameroon 183 km; Gabon 345 km<br>
+### Land boundaries
+- `total`: 528 km
+- `border countries`: Cameroon 183 km; Gabon 345 km
 
-**Coastline**<br>
-296 km<br>
+### Coastline
+296 km
 
-**Maritime claims**<br>
-_territorial sea_: 12 nm<br>
-_exclusive economic zone_: 200 nm<br>
+### Maritime claims
+- `territorial sea`: 12 nm
+- `exclusive economic zone`: 200 nm
 
-**Climate**<br>
-tropical; always hot, humid<br>
+### Climate
+tropical; always hot, humid
 
-**Terrain**<br>
-coastal plains rise to interior hills; islands are volcanic<br>
+### Terrain
+coastal plains rise to interior hills; islands are volcanic
 
-**Elevation**<br>
-_highest point_: Pico Basile 3,008 m<br>
-_lowest point_: Atlantic Ocean 0 m<br>
-_mean elevation_: 577 m<br>
+### Elevation
+- `highest point`: Pico Basile 3,008 m
+- `lowest point`: Atlantic Ocean 0 m
+- `mean elevation`: 577 m
 
-**Natural resources**<br>
-petroleum, natural gas, timber, gold, bauxite, diamonds, tantalum, sand and gravel, clay<br>
+### Natural resources
+petroleum, natural gas, timber, gold, bauxite, diamonds, tantalum, sand and gravel, clay
 
-**Land use**<br>
-_agricultural land_: 10.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 4.3% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 3.7% (2018 est.)<br>
-_forest_: 57.5% (2018 est.)<br>
-_other_: 32.4% (2018 est.)<br>
+### Land use
+- `agricultural land`: 10.1% (2018 est.)
+- `agricultural land: arable land`: arable land: 4.3% (2018 est.)
+- `agricultural land: permanent crops`: permanent crops: 2.1% (2018 est.)
+- `agricultural land: permanent pasture`: permanent pasture: 3.7% (2018 est.)
+- `forest`: 57.5% (2018 est.)
+- `other`: 32.4% (2018 est.)
 
-**Irrigated land**<br>
-NA<br>
+### Irrigated land
+NA
 
-**Population distribution**<br>
-only two large cities over 30,000 people (Bata on the mainland, and the capital Malabo on the island of Bioko); small communities are scattered throughout the mainland and the five inhabited islands as shown in this population distribution map<br>
+### Population distribution
+only two large cities over 30,000 people (Bata on the mainland, and the capital Malabo on the island of Bioko); small communities are scattered throughout the mainland and the five inhabited islands as shown in this population distribution map
 
-**Natural hazards**<br>
-<p>violent windstorms; flash floods</p><p><strong>volcanism:</strong> Santa Isabel (3,007 m), which last erupted in 1923, is the country's only historically active volcano; Santa Isabel, along with two dormant volcanoes, form Bioko Island in the Gulf of Guinea</p><br>
+### Natural hazards
+violent windstorms; flash floods**volcanism**:  Santa Isabel (3,007 m), which last erupted in 1923, is the country's only historically active volcano; Santa Isabel, along with two dormant volcanoes, form Bioko Island in the Gulf of Guinea
 
-**Geography - note**<br>
-insular and continental regions widely separated; despite its name, no part of the Equator passes through Equatorial Guinea; the mainland part of the country is located just north of the Equator<br>
+### Geography - note
+insular and continental regions widely separated; despite its name, no part of the Equator passes through Equatorial Guinea; the mainland part of the country is located just north of the Equator
 
 ## People and Society
 
-**Population**<br>
-_total_: 1,795,834<br>
-_male_: 962,385<br>
-_female_: 833,449 (2024 est.)<br>
+### Population
+- `total`: 1,795,834
+- `male`: 962,385
+- `female`: 833,449 (2024 est.)
 
-**Nationality**<br>
-_noun_: Equatorial Guinean(s) or Equatoguinean(s)<br>
-_adjective_: Equatorial Guinean or Equatoguinean<br>
+### Nationality
+- `noun`: Equatorial Guinean(s) or Equatoguinean(s)
+- `adjective`: Equatorial Guinean or Equatoguinean
 
-**Ethnic groups**<br>
-Fang 78.1%, Bubi 9.4%, Ndowe 2.8%, Nanguedambo 2.7%, Bisio 0.9%, foreigner 5.3%, other 0.7%, unspecified 0.2% (2011 est.)<br>
+### Ethnic groups
+Fang 78.1%, Bubi 9.4%, Ndowe 2.8%, Nanguedambo 2.7%, Bisio 0.9%, foreigner 5.3%, other 0.7%, unspecified 0.2% (2011 est.)
 
-**Languages**<br>
-Spanish (official) 67.6%, other (includes Fang, Bubi, Portuguese (official), French (official), Fa d'Ambo spoken in Annobon) 32.4% (1994 est.)<br>
-_major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+### Languages
+Spanish (official) 67.6%, other (includes Fang, Bubi, Portuguese (official), French (official), Fa d'Ambo spoken in Annobon) 32.4% (1994 est.)
+- `major-language sample(s)`: La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)  The World Factbook, the indispensable source for basic information.
 
-**Religions**<br>
-Roman Catholic 88%, Protestant 5%, Muslim 2%, other 5% (animist, Baha'i, Jewish) (2015 est.)<br>
+### Religions
+Roman Catholic 88%, Protestant 5%, Muslim 2%, other 5% (animist, Baha'i, Jewish) (2015 est.)
 
-**Demographic profile**<br>
-<p>Equatorial Guinea is one of the smallest and least populated countries in continental Africa and is the only independent African country where Spanish is an official language. Despite a boom in oil production in the 1990s, authoritarianism, corruption, and resource mismanagement have concentrated the benefits among a small elite. These practices have perpetuated income inequality and unbalanced development, such as low public spending on education and health care. Unemployment remains problematic because the oil-dominated economy employs a small labor force dependent on skilled foreign workers. The agricultural sector, Equatorial Guinea’s main employer, continues to deteriorate because of a lack of investment and the migration of rural workers to urban areas. About two-thirds of the population lives below the poverty line as of 2020.</p> <p>Equatorial Guinea’s large and growing youth population – about 60% are under the age of 25 as of 2022 – is particularly affected because job creation in the non-oil sectors is limited, and young people often do not have the skills needed in the labor market. Equatorial Guinean children frequently enter school late, have poor attendance, and have high dropout rates. Thousands of Equatorial Guineans fled across the border to Gabon in the 1970s to escape the dictatorship of Francisco MACIAS NGUEMA; smaller numbers have followed in the decades since. Continued inequitable economic growth and high youth unemployment increases the likelihood of ethnic and regional violence.</p><br>
+### Demographic profile
+Equatorial Guinea is one of the smallest and least populated countries in continental Africa and is the only independent African country where Spanish is an official language. Despite a boom in oil production in the 1990s, authoritarianism, corruption, and resource mismanagement have concentrated the benefits among a small elite. These practices have perpetuated income inequality and unbalanced development, such as low public spending on education and health care. Unemployment remains problematic because the oil-dominated economy employs a small labor force dependent on skilled foreign workers. The agricultural sector, Equatorial Guinea’s main employer, continues to deteriorate because of a lack of investment and the migration of rural workers to urban areas. About two-thirds of the population lives below the poverty line as of 2020. Equatorial Guinea’s large and growing youth population – about 60% are under the age of 25 as of 2022 – is particularly affected because job creation in the non-oil sectors is limited, and young people often do not have the skills needed in the labor market. Equatorial Guinean children frequently enter school late, have poor attendance, and have high dropout rates. Thousands of Equatorial Guineans fled across the border to Gabon in the 1970s to escape the dictatorship of Francisco MACIAS NGUEMA; smaller numbers have followed in the decades since. Continued inequitable economic growth and high youth unemployment increases the likelihood of ethnic and regional violence.
 
-**Age structure**<br>
-_0-14 years_: 35.6% (male 330,636/female 309,528)<br>
-_15-64 years_: 59.4% (male 585,139/female 481,121)<br>
-_65 years and over_: 5% (2024 est.) (male 46,610/female 42,800)<br>
+### Age structure
+- `0-14 years`: 35.6% (male 330,636/female 309,528)
+- `15-64 years`: 59.4% (male 585,139/female 481,121)
+- `65 years and over`: 5% (2024 est.) (male 46,610/female 42,800)
 
-**Dependency ratios**<br>
-_total dependency ratio_: 72.2<br>
-_youth dependency ratio_: 66.7<br>
-_elderly dependency ratio_: 5.4<br>
-_potential support ratio_: 18.5 (2021 est.)<br>
+### Dependency ratios
+- `total dependency ratio`: 72.2
+- `youth dependency ratio`: 66.7
+- `elderly dependency ratio`: 5.4
+- `potential support ratio`: 18.5 (2021 est.)
 
-**Median age**<br>
-_total_: 22.1 years (2024 est.)<br>
-_male_: 22.7 years<br>
-_female_: 21.5 years<br>
+### Median age
+- `total`: 22.1 years (2024 est.)
+- `male`: 22.7 years
+- `female`: 21.5 years
 
-**Population growth rate**<br>
-3.23% (2024 est.)<br>
+### Population growth rate
+3.23% (2024 est.)
 
-**Birth rate**<br>
-29 births/1,000 population (2024 est.)<br>
+### Birth rate
+29 births/1,000 population (2024 est.)
 
-**Death rate**<br>
-8.9 deaths/1,000 population (2024 est.)<br>
+### Death rate
+8.9 deaths/1,000 population (2024 est.)
 
-**Net migration rate**<br>
-12.1 migrant(s)/1,000 population (2024 est.)<br>
+### Net migration rate
+12.1 migrant(s)/1,000 population (2024 est.)
 
-**Population distribution**<br>
-only two large cities over 30,000 people (Bata on the mainland, and the capital Malabo on the island of Bioko); small communities are scattered throughout the mainland and the five inhabited islands as shown in this population distribution map<br>
+### Population distribution
+only two large cities over 30,000 people (Bata on the mainland, and the capital Malabo on the island of Bioko); small communities are scattered throughout the mainland and the five inhabited islands as shown in this population distribution map
 
-**Urbanization**<br>
-_urban population_: 74.4% of total population (2023)<br>
-_rate of urbanization_: 3.62% annual rate of change (2020-25 est.)<br>
+### Urbanization
+- `urban population`: 74.4% of total population (2023)
+- `rate of urbanization`: 3.62% annual rate of change (2020-25 est.)
 
-**Major urban areas - population**<br>
-297,000 MALABO (capital) (2018)<br>
+### Major urban areas - population
+297,000 MALABO (capital) (2018)
 
-**Sex ratio**<br>
-_at birth_: 1.03 male(s)/female<br>
-_0-14 years_: 1.07 male(s)/female<br>
-_15-64 years_: 1.22 male(s)/female<br>
-_65 years and over_: 1.09 male(s)/female<br>
-_total population_: 1.16 male(s)/female (2024 est.)<br>
+### Sex ratio
+- `at birth`: 1.03 male(s)/female
+- `0-14 years`: 1.07 male(s)/female
+- `15-64 years`: 1.22 male(s)/female
+- `65 years and over`: 1.09 male(s)/female
+- `total population`: 1.16 male(s)/female (2024 est.)
 
-**Maternal mortality ratio**<br>
-212 deaths/100,000 live births (2020 est.)<br>
+### Maternal mortality ratio
+212 deaths/100,000 live births (2020 est.)
 
-**Infant mortality rate**<br>
-_total_: 77.4 deaths/1,000 live births (2024 est.)<br>
-_male_: 83.3 deaths/1,000 live births<br>
-_female_: 71.3 deaths/1,000 live births<br>
+### Infant mortality rate
+- `total`: 77.4 deaths/1,000 live births (2024 est.)
+- `male`: 83.3 deaths/1,000 live births
+- `female`: 71.3 deaths/1,000 live births
 
-**Life expectancy at birth**<br>
-_total population_: 63.9 years (2024 est.)<br>
-_male_: 61.6 years<br>
-_female_: 66.2 years<br>
+### Life expectancy at birth
+- `total population`: 63.9 years (2024 est.)
+- `male`: 61.6 years
+- `female`: 66.2 years
 
-**Total fertility rate**<br>
-4.12 children born/woman (2024 est.)<br>
+### Total fertility rate
+4.12 children born/woman (2024 est.)
 
-**Gross reproduction rate**<br>
-2.03 (2024 est.)<br>
+### Gross reproduction rate
+2.03 (2024 est.)
 
-**Contraceptive prevalence rate**<br>
-NA<br>
+### Contraceptive prevalence rate
+NA
 
-**Drinking water source**<br>
-_improved: urban_: urban: 81.7% of population<br>
-_improved: rural_: rural: 32.1% of population<br>
-_improved: total_: total: 67.6% of population<br>
-_unimproved: urban_: urban: 18.3% of population<br>
-_unimproved: rural_: rural: 67.9% of population<br>
-_unimproved: total_: total: 32.4% of population (2017 est.)<br>
+### Drinking water source
+- `improved: urban`: urban: 81.7% of population
+- `improved: rural`: rural: 32.1% of population
+- `improved: total`: total: 67.6% of population
+- `unimproved: urban`: urban: 18.3% of population
+- `unimproved: rural`: rural: 67.9% of population
+- `unimproved: total`: total: 32.4% of population (2017 est.)
 
-**Current health expenditure**<br>
-3.8% of GDP (2020)<br>
+### Current health expenditure
+3.8% of GDP (2020)
 
-**Physician density**<br>
-0.4 physicians/1,000 population (2017)<br>
+### Physician density
+0.4 physicians/1,000 population (2017)
 
-**Sanitation facility access**<br>
-_improved: urban_: urban: 81.2% of population<br>
-_improved: rural_: rural: 63.4% of population<br>
-_improved: total_: total: 76.2% of population<br>
-_unimproved: urban_: urban: 18.8% of population<br>
-_unimproved: rural_: rural: 36.6% of population<br>
-_unimproved: total_: total: 23.8% of population (2020 est.)<br>
+### Sanitation facility access
+- `improved: urban`: urban: 81.2% of population
+- `improved: rural`: rural: 63.4% of population
+- `improved: total`: total: 76.2% of population
+- `unimproved: urban`: urban: 18.8% of population
+- `unimproved: rural`: rural: 36.6% of population
+- `unimproved: total`: total: 23.8% of population (2020 est.)
 
-**Obesity - adult prevalence rate**<br>
-8% (2016)<br>
+### Obesity - adult prevalence rate
+8% (2016)
 
-**Alcohol consumption per capita**<br>
-_total_: 6.11 liters of pure alcohol (2019 est.)<br>
-_beer_: 3.83 liters of pure alcohol (2019 est.)<br>
-_wine_: 1.24 liters of pure alcohol (2019 est.)<br>
-_spirits_: 0.99 liters of pure alcohol (2019 est.)<br>
-_other alcohols_: 0.05 liters of pure alcohol (2019 est.)<br>
+### Alcohol consumption per capita
+- `total`: 6.11 liters of pure alcohol (2019 est.)
+- `beer`: 3.83 liters of pure alcohol (2019 est.)
+- `wine`: 1.24 liters of pure alcohol (2019 est.)
+- `spirits`: 0.99 liters of pure alcohol (2019 est.)
+- `other alcohols`: 0.05 liters of pure alcohol (2019 est.)
 
-**Currently married women (ages 15-49)**<br>
-60.2% (2023 est.)<br>
+### Currently married women (ages 15-49)
+60.2% (2023 est.)
 
-**Education expenditures**<br>
-NA<br>
+### Education expenditures
+NA
 
-**Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 95.3%<br>
-_male_: 97.4%<br>
-_female_: 93% (2015)<br>
+### Literacy
+- `definition`: age 15 and over can read and write
+- `total population`: 95.3%
+- `male`: 97.4%
+- `female`: 93% (2015)
 
 ## Environment
 
-**Environment - current issues**<br>
-deforestation (forests are threatened by agricultural expansion, fires, and grazing); desertification; water pollution (tap water is non-potable); wildlife preservation<br>
+### Environment - current issues
+deforestation (forests are threatened by agricultural expansion, fires, and grazing); desertification; water pollution (tap water is non-potable); wildlife preservation
 
-**Environment - international agreements**<br>
-_party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
-_signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
+### Environment - international agreements
+- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands
+- `signed, but not ratified`: Comprehensive Nuclear Test Ban
 
-**Climate**<br>
-tropical; always hot, humid<br>
+### Climate
+tropical; always hot, humid
 
-**Land use**<br>
-_agricultural land_: 10.1% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 4.3% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.1% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 3.7% (2018 est.)<br>
-_forest_: 57.5% (2018 est.)<br>
-_other_: 32.4% (2018 est.)<br>
+### Land use
+- `agricultural land`: 10.1% (2018 est.)
+- `agricultural land: arable land`: arable land: 4.3% (2018 est.)
+- `agricultural land: permanent crops`: permanent crops: 2.1% (2018 est.)
+- `agricultural land: permanent pasture`: permanent pasture: 3.7% (2018 est.)
+- `forest`: 57.5% (2018 est.)
+- `other`: 32.4% (2018 est.)
 
-**Urbanization**<br>
-_urban population_: 74.4% of total population (2023)<br>
-_rate of urbanization_: 3.62% annual rate of change (2020-25 est.)<br>
+### Urbanization
+- `urban population`: 74.4% of total population (2023)
+- `rate of urbanization`: 3.62% annual rate of change (2020-25 est.)
 
-**Revenue from forest resources**<br>
-1.52% of GDP (2018 est.)<br>
+### Revenue from forest resources
+1.52% of GDP (2018 est.)
 
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
+### Revenue from coal
+0% of GDP (2018 est.)
 
-**Air pollutants**<br>
-_particulate matter emissions_: 25.67 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 5.65 megatons (2016 est.)<br>
-_methane emissions_: 11.21 megatons (2020 est.)<br>
+### Air pollutants
+- `particulate matter emissions`: 25.67 micrograms per cubic meter (2019 est.)
+- `carbon dioxide emissions`: 5.65 megatons (2016 est.)
+- `methane emissions`: 11.21 megatons (2020 est.)
 
-**Waste and recycling**<br>
-_municipal solid waste generated annually_: 198,443 tons (2016 est.)<br>
+### Waste and recycling
+- `municipal solid waste generated annually`: 198,443 tons (2016 est.)
 
-**Total water withdrawal**<br>
-_municipal_: 20 million cubic meters (2020 est.)<br>
-_industrial_: 3 million cubic meters (2017 est.)<br>
-_agricultural_: 1 million cubic meters (2017 est.)<br>
+### Total water withdrawal
+- `municipal`: 20 million cubic meters (2020 est.)
+- `industrial`: 3 million cubic meters (2017 est.)
+- `agricultural`: 1 million cubic meters (2017 est.)
 
-**Total renewable water resources**<br>
-26 billion cubic meters (2020 est.)<br>
+### Total renewable water resources
+26 billion cubic meters (2020 est.)
 
 ## Government
 
-**Country name**<br>
-_conventional long form_: Republic of Equatorial Guinea<br>
-_conventional short form_: Equatorial Guinea<br>
-_local long form_: Republica de Guinea Ecuatorial (Spanish)/ R&eacute;publique de Guin&eacute;e &eacute;quatoriale (French)<br>
-_local short form_: Guinea Ecuatorial (Spanish)/Guin&eacute;e &eacute;quatoriale (French)<br>
-_former_: Spanish Guinea<br>
-_etymology_: the country is named for the Guinea region of West Africa that lies along the Gulf of Guinea and stretches north to the Sahel; the "equatorial" refers to the fact that the country lies just north of the Equator<br>
+### Country name
+- `conventional long form`: Republic of Equatorial Guinea
+- `conventional short form`: Equatorial Guinea
+- `local long form`: Republica de Guinea Ecuatorial (Spanish)/ République de Guinée équatoriale (French)
+- `local short form`: Guinea Ecuatorial (Spanish)/Guinée équatoriale (French)
+- `former`: Spanish Guinea
+- `etymology`: the country is named for the Guinea region of West Africa that lies along the Gulf of Guinea and stretches north to the Sahel; the "equatorial" refers to the fact that the country lies just north of the Equator
 
-**Government type**<br>
-presidential republic<br>
+### Government type
+presidential republic
 
-**Capital**<br>
-_name_: Malabo; note - Malabo is on the island of Bioko; some months of the year, the government operates out of Bata on the mainland region.<br>
-_geographic coordinates_: 3 45 N, 8 47 E<br>
-_time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named after King MALABO (Malabo Lopelo Melaka) (1837&ndash;1937), the last king of the Bubi, the ethnic group indigenous to the island of Bioko<br>
+### Capital
+- `name`: Malabo; note - Malabo is on the island of Bioko; some months of the year, the government operates out of Bata on the mainland region.
+- `geographic coordinates`: 3 45 N, 8 47 E
+- `time difference`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+- `etymology`: named after King MALABO (Malabo Lopelo Melaka) (1837–1937), the last king of the Bubi, the ethnic group indigenous to the island of Bioko
 
-**Administrative divisions**<br>
-8 provinces (provincias, singular - provincia); Annobon, Bioko Norte, Bioko Sur, Centro Sur, Djibloho, Kie-Ntem, Litoral, Wele-Nzas<br>
+### Administrative divisions
+8 provinces (provincias, singular - provincia); Annobon, Bioko Norte, Bioko Sur, Centro Sur, Djibloho, Kie-Ntem, Litoral, Wele-Nzas
 
-**Independence**<br>
-12 October 1968 (from Spain)<br>
+### Independence
+12 October 1968 (from Spain)
 
-**National holiday**<br>
-Independence Day, 12 October (1968)<br>
+### National holiday
+Independence Day, 12 October (1968)
 
-**Legal system**<br>
-mixed system of civil and customary law<br>
+### Legal system
+mixed system of civil and customary law
 
-**Constitution**<br>
-_history_: previous 1968, 1973, 1982; approved by referendum 17 November 1991<br>
-_amendments_: proposed by the president of the republic or supported by three fourths of the membership in either house of the National Assembly; passage requires three-fourths majority vote by both houses of the Assembly and approval in a referendum if requested by the president; amended several times, last in 2012<br>
+### Constitution
+- `history`: previous 1968, 1973, 1982; approved by referendum 17 November 1991
+- `amendments`: proposed by the president of the republic or supported by three fourths of the membership in either house of the National Assembly; passage requires three-fourths majority vote by both houses of the Assembly and approval in a referendum if requested by the president; amended several times, last in 2012
 
-**International law organization participation**<br>
-accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction<br>
+### International law organization participation
+accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction
 
-**Citizenship**<br>
-_citizenship by birth_: no<br>
-_citizenship by descent only_: at least one parent must be a citizen of Equatorial Guinea<br>
-_dual citizenship recognized_: no<br>
-_residency requirement for naturalization_: 10 years<br>
+### Citizenship
+- `citizenship by birth`: no
+- `citizenship by descent only`: at least one parent must be a citizen of Equatorial Guinea
+- `dual citizenship recognized`: no
+- `residency requirement for naturalization`: 10 years
 
-**Suffrage**<br>
-18 years of age; universal<br>
+### Suffrage
+18 years of age; universal
 
-**Executive branch**<br>
-_chief of state_: President OBIANG Nguema Mbasogo (since 3 August 1979)<br>
-_head of government_: Prime Minister Manuela ROKA Botey (since 1 February 2023)<br>
-_cabinet_: Council of Ministers appointed by the president and overseen by the prime minister<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (eligible for a second term); election last held on 20 November 2022 (next to be held in 2029); prime minister and deputy prime ministers appointed by the president; President OBIANG Nguema Mbasogo since 3 August 1979 when he seized power in a military coup)<br>
-_election results_: <em><br>2022: </em>OBIANG Nguema Mbasogo reelected president; percent of vote - OBIANG Nguema Mbasogo (PDGE) 95%, other 6.1%<br><br><em>2016: </em>OBIANG Nguema Mbasogo reelected president; percent of vote - OBIANG Nguema Mbasogo (PDGE) 93.5%, other 6.5%<br>
+### Executive branch
+- `chief of state`: President OBIANG Nguema Mbasogo (since 3 August 1979)
+- `head of government`: Prime Minister Manuela ROKA Botey (since 1 February 2023)
+- `cabinet`: Council of Ministers appointed by the president and overseen by the prime minister
+- `elections/appointments`: president directly elected by simple majority popular vote for a 7-year term (eligible for a second term); election last held on 20 November 2022 (next to be held in 2029); prime minister and deputy prime ministers appointed by the president; President OBIANG Nguema Mbasogo since 3 August 1979 when he seized power in a military coup)
+- `election results`: *2022: *OBIANG Nguema Mbasogo reelected president; percent of vote - OBIANG Nguema Mbasogo (PDGE) 95%, other 6.1%  *2016: *OBIANG Nguema Mbasogo reelected president; percent of vote - OBIANG Nguema Mbasogo (PDGE) 93.5%, other 6.5%
 
-**Legislative branch**<br>
-_description_: bicameral National Assembly or Asemblea Nacional consists of:<br>Senate or Senado (70 seats statutory, 74 seats for current term; 55 members directly elected in multi-seat constituencies by closed party-list proportional representation vote, 15 appointed by the president, and 4 ex-officio)<br><br>Chamber of Deputies or Camara de los Diputados (100 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve 5-year terms)<br>
-_elections_: Senate - last held on 19 January 2023 (next to be held in 2028)<br>Chamber of Deputies - last held on 19 January 2023 (next to be held in 2028)<br>
-_election results_: Senate - percent of vote by party - NA; (elected) seats by party - PDGE 55; composition - men 60, women 20, percentage women 25% (includes 15 appointed and 2 ex-officio members)<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - PDGE 100; composition - men 68, women 32, percentage women 32%; total National Assembly percentage women 28.9%<br>
+### Legislative branch
+- `description`: bicameral National Assembly or Asemblea Nacional consists of:Senate or Senado (70 seats statutory, 74 seats for current term; 55 members directly elected in multi-seat constituencies by closed party-list proportional representation vote, 15 appointed by the president, and 4 ex-officio)  Chamber of Deputies or Camara de los Diputados (100 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve 5-year terms)
+- `elections`: Senate - last held on 19 January 2023 (next to be held in 2028)Chamber of Deputies - last held on 19 January 2023 (next to be held in 2028)
+- `election results`: Senate - percent of vote by party - NA; (elected) seats by party - PDGE 55; composition - men 60, women 20, percentage women 25% (includes 15 appointed and 2 ex-officio members)  Chamber of Deputies - percent of vote by party - NA; seats by party - PDGE 100; composition - men 68, women 32, percentage women 32%; total National Assembly percentage women 28.9%
 
-**Judicial branch**<br>
-_highest court(s)_: Supreme Court of Justice (consists of the President of the Supreme Court and nine judges organized into civil, criminal, commercial, labor, administrative, and customary sections); Constitutional Court (consists of the court president and 4 members)<br>
-_judge selection and term of office_: Supreme Court judges appointed by the president for five-year terms; Constitutional Court members appointed by the president, 2 of whom are nominated by the Chamber of Deputies; note - judges subject to dismissal by the president at any time<br>
-_subordinate courts_: Court of Guarantees; military courts; Courts of Appeal; first instance tribunals; district and county tribunals<br>
+### Judicial branch
+- `highest court(s)`: Supreme Court of Justice (consists of the President of the Supreme Court and nine judges organized into civil, criminal, commercial, labor, administrative, and customary sections); Constitutional Court (consists of the court president and 4 members)
+- `judge selection and term of office`: Supreme Court judges appointed by the president for five-year terms; Constitutional Court members appointed by the president, 2 of whom are nominated by the Chamber of Deputies; note - judges subject to dismissal by the president at any time
+- `subordinate courts`: Court of Guarantees; military courts; Courts of Appeal; first instance tribunals; district and county tribunals
 
-**Political parties**<br>
-Center Right Union or UCD<br>Convergence Party for Social Democracy or CPDS <br>Democratic Party for Equatorial Guinea or PDGE <br>Liberal Democratic Convention or CLD <br>Liberal Party or PL <br>National Congress of Equatorial Guinea (CNGE) <br>National Democratic Party (PNDGE) <br>National Democratic Union or UDENA <br>National Union for Democracy PUNDGE <br>Popular Action of Equatorial Guinea or APGE <br>Popular Union or UP <br>Progressive Democratic Alliance or ADP <br>Social and Popular Convergence Party or CSDP <br>Social Democratic Coalition Party (PCSD) <br>Social Democratic Party of Equatorial Guinea or PSDGE <br>Social Democratic Union or UDS <br>Socialist Party of Equatorial Guinea <br>
+### Political parties
+Center Right Union or UCDConvergence Party for Social Democracy or CPDS Democratic Party for Equatorial Guinea or PDGE Liberal Democratic Convention or CLD Liberal Party or PL National Congress of Equatorial Guinea (CNGE) National Democratic Party (PNDGE) National Democratic Union or UDENA National Union for Democracy PUNDGE Popular Action of Equatorial Guinea or APGE Popular Union or UP Progressive Democratic Alliance or ADP Social and Popular Convergence Party or CSDP Social Democratic Coalition Party (PCSD) Social Democratic Party of Equatorial Guinea or PSDGE Social Democratic Union or UDS Socialist Party of Equatorial Guinea 
 
-**International organization participation**<br>
-ACP, AfDB, AU, BDEAC, CEMAC, CPLP, FAO, Francophonie, FZ, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IPU, ITSO, ITU, MIGA, NAM, OAS (observer), OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WHO, WIPO, WTO (observer)<br>
+### International organization participation
+ACP, AfDB, AU, BDEAC, CEMAC, CPLP, FAO, Francophonie, FZ, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IPU, ITSO, ITU, MIGA, NAM, OAS (observer), OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WHO, WIPO, WTO (observer)
 
-**Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Dr. Crisantos OBAMA ONDO (since 27 February 2024)<br>
-_chancery_: 2020 16th Street NW, Washington, DC 20009<br>
-_telephone_: [1] (202) 518-5700<br>
-_FAX_: [1] (202) 518-5252<br>
-_email address and website_: <br>info@egembassydc.com<br><br>https://www.egembassydc.com/<br>
-_consulate(s) general_: Houston<br>
+### Diplomatic representation in the US
+- `chief of mission`: Ambassador Dr. Crisantos OBAMA ONDO (since 27 February 2024)
+- `chancery`: 2020 16th Street NW, Washington, DC 20009
+- `telephone`: [1] (202) 518-5700
+- `FAX`: [1] (202) 518-5252
+- `email address and website`: info@egembassydc.com  https://www.egembassydc.com/
+- `consulate(s) general`: Houston
 
-**Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador David R. GILMOUR (since 24 May 2022)<br>
-_embassy_: Malabo II Highway (between the Headquarters of Sonagas and the offices of the United Nations), Malabo<br>
-_mailing address_: 2320 Malabo Place, Washington, DC 20521-2520<br>
-_telephone_: [240] 333 09-57-41<br>
-_email address and website_: <br>Malaboconsular@state.gov<br><br>https://gq.usembassy.gov/<br>
+### Diplomatic representation from the US
+- `chief of mission`: Ambassador David R. GILMOUR (since 24 May 2022)
+- `embassy`: Malabo II Highway (between the Headquarters of Sonagas and the offices of the United Nations), Malabo
+- `mailing address`: 2320 Malabo Place, Washington, DC 20521-2520
+- `telephone`: [240] 333 09-57-41
+- `email address and website`: Malaboconsular@state.gov  https://gq.usembassy.gov/
 
-**Flag description**<br>
-three equal horizontal bands of green (top), white, and red, with a blue isosceles triangle based on the hoist side and the coat of arms centered in the white band; the coat of arms has six yellow six-pointed stars (representing the mainland and five offshore islands) above a gray shield bearing a silk-cotton tree and below which is a scroll with the motto UNIDAD, PAZ, JUSTICIA (Unity, Peace, Justice); green symbolizes the jungle and natural resources, blue represents the sea that connects the mainland to the islands, white stands for peace, and red recalls the fight for independence<br>
+### Flag description
+three equal horizontal bands of green (top), white, and red, with a blue isosceles triangle based on the hoist side and the coat of arms centered in the white band; the coat of arms has six yellow six-pointed stars (representing the mainland and five offshore islands) above a gray shield bearing a silk-cotton tree and below which is a scroll with the motto UNIDAD, PAZ, JUSTICIA (Unity, Peace, Justice); green symbolizes the jungle and natural resources, blue represents the sea that connects the mainland to the islands, white stands for peace, and red recalls the fight for independence
 
-**National symbol(s)**<br>
-silk cotton tree; national colors: green, white, red, blue<br>
+### National symbol(s)
+silk cotton tree; national colors: green, white, red, blue
 
-**National anthem**<br>
-_name_: "Caminemos pisando la senda" (Let Us Tread the Path)<br>
-_lyrics/music_: Atanasio Ndongo MIYONO/Atanasio Ndongo MIYONO or Ramiro Sanchez LOPEZ (disputed)<br>
-<strong>note:</strong> adopted 1968<br>
+### National anthem
+- `name`: "Caminemos pisando la senda" (Let Us Tread the Path)
+- `lyrics/music`: Atanasio Ndongo MIYONO/Atanasio Ndongo MIYONO or Ramiro Sanchez LOPEZ (disputed)
+**note**:  adopted 1968
 
 ## Economy
 
-**Economic overview**<br>
-growing CEMAC economy and new OPEC member; large oil and gas reserves; targeting economic diversification and poverty reduction; still recovering from CEMAC crisis; improving public financial management; persistent poverty; hard-hit by COVID-19<br>
+### Economic overview
+growing CEMAC economy and new OPEC member; large oil and gas reserves; targeting economic diversification and poverty reduction; still recovering from CEMAC crisis; improving public financial management; persistent poverty; hard-hit by COVID-19
 
-**Real GDP (purchasing power parity)**<br>
-$28.938 billion (2023 est.)<br>
-$30.685 billion (2022 est.)<br>
-$29.585 billion (2021 est.)<br>
-<b>note:</b> data in 2021 dollars<br>
+### Real GDP (purchasing power parity)
+$28.938 billion (2023 est.)
+$30.685 billion (2022 est.)
+$29.585 billion (2021 est.)
+**note**: data in 2021 dollars
 
-**Real GDP growth rate**<br>
--5.69% (2023 est.)<br>
-3.72% (2022 est.)<br>
-0.86% (2021 est.)<br>
-<b>note:</b> annual GDP % growth based on constant local currency<br>
+### Real GDP growth rate
+-5.69% (2023 est.)
+3.72% (2022 est.)
+0.86% (2021 est.)
+**note**: annual GDP % growth based on constant local currency
 
-**Real GDP per capita**<br>
-$16,900 (2023 est.)<br>
-$18,300 (2022 est.)<br>
-$18,100 (2021 est.)<br>
-<b>note:</b> data in 2021 dollars<br>
+### Real GDP per capita
+$16,900 (2023 est.)
+$18,300 (2022 est.)
+$18,100 (2021 est.)
+**note**: data in 2021 dollars
 
-**GDP (official exchange rate)**<br>
-$12.117 billion (2023 est.)<br>
-<b>note:</b> data in current dollars at official exchange rate<br>
+### GDP (official exchange rate)
+$12.117 billion (2023 est.)
+**note**: data in current dollars at official exchange rate
 
-**Inflation rate (consumer prices)**<br>
-4.79% (2022 est.)<br>
--0.1% (2021 est.)<br>
-4.77% (2020 est.)<br>
-<b>note:</b> annual % change based on consumer prices<br>
+### Inflation rate (consumer prices)
+4.79% (2022 est.)
+-0.1% (2021 est.)
+4.77% (2020 est.)
+**note**: annual % change based on consumer prices
 
-**GDP - composition, by sector of origin**<br>
-_agriculture_: 2.9% (2023 est.)<br>
-_industry_: 51.2% (2023 est.)<br>
-_services_: 44.9% (2023 est.)<br>
-<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
+### GDP - composition, by sector of origin
+- `agriculture`: 2.9% (2023 est.)
+- `industry`: 51.2% (2023 est.)
+- `services`: 44.9% (2023 est.)
+**note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
-**GDP - composition, by end use**<br>
-_household consumption_: 54.7% (2023 est.)<br>
-_government consumption_: 26% (2023 est.)<br>
-_investment in fixed capital_: 10.8% (2023 est.)<br>
-_investment in inventories_: 0.1% (2019 est.)<br>
-_exports of goods and services_: 47.8% (2023 est.)<br>
-_imports of goods and services_: -39.3% (2023 est.)<br>
-<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
+### GDP - composition, by end use
+- `household consumption`: 54.7% (2023 est.)
+- `government consumption`: 26% (2023 est.)
+- `investment in fixed capital`: 10.8% (2023 est.)
+- `investment in inventories`: 0.1% (2019 est.)
+- `exports of goods and services`: 47.8% (2023 est.)
+- `imports of goods and services`: -39.3% (2023 est.)
+**note**: figures may not total 100% due to rounding or gaps in data collection
 
-**Agricultural products**<br>
-sweet potatoes, cassava, plantains, oil palm fruit, root vegetables, bananas, coconuts, coffee, cocoa beans, chicken (2022)<br>
-<b>note:</b> top ten agricultural products based on tonnage<br>
+### Agricultural products
+sweet potatoes, cassava, plantains, oil palm fruit, root vegetables, bananas, coconuts, coffee, cocoa beans, chicken (2022)
+**note**: top ten agricultural products based on tonnage
 
-**Industries**<br>
-petroleum, natural gas, sawmilling<br>
+### Industries
+petroleum, natural gas, sawmilling
 
-**Industrial production growth rate**<br>
--11.87% (2023 est.)<br>
-<b>note:</b> annual % change in industrial value added based on constant local currency<br>
+### Industrial production growth rate
+-11.87% (2023 est.)
+**note**: annual % change in industrial value added based on constant local currency
 
-**Labor force**<br>
-593,000 (2023 est.)<br>
-<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
+### Labor force
+593,000 (2023 est.)
+**note**: number of people ages 15 or older who are employed or seeking work
 
-**Unemployment rate**<br>
-8.67% (2023 est.)<br>
-8.75% (2022 est.)<br>
-9.19% (2021 est.)<br>
-<b>note:</b> % of labor force seeking employment<br>
+### Unemployment rate
+8.67% (2023 est.)
+8.75% (2022 est.)
+9.19% (2021 est.)
+**note**: % of labor force seeking employment
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.4% (2023 est.)<br>
-_male_: 15.1% (2023 est.)<br>
-_female_: 17.8% (2023 est.)<br>
-<b>note:</b> % of labor force ages 15-24 seeking employment<br>
+### Youth unemployment rate (ages 15-24)
+- `total`: 16.4% (2023 est.)
+- `male`: 15.1% (2023 est.)
+- `female`: 17.8% (2023 est.)
+**note**: % of labor force ages 15-24 seeking employment
 
-**Remittances**<br>
-0% of GDP (2019 est.)<br>
-0% of GDP (2018 est.)<br>
-0% of GDP (2017 est.)<br>
+### Remittances
+0% of GDP (2019 est.)
+0% of GDP (2018 est.)
+0% of GDP (2017 est.)
 
-**Budget**<br>
-_revenues_: $3.62 billion (2022 est.)<br>
-_expenditures_: $1.512 billion (2022 est.)<br>
-<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+### Budget
+- `revenues`: $3.62 billion (2022 est.)
+- `expenditures`: $1.512 billion (2022 est.)
+**note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
-**Public debt**<br>
-37.4% of GDP (2017 est.)<br>
+### Public debt
+37.4% of GDP (2017 est.)
 
-**Taxes and other revenues**<br>
-6.69% (of GDP) (2022 est.)<br>
-<b>note:</b> central government tax revenue as a % of GDP<br>
+### Taxes and other revenues
+6.69% (of GDP) (2022 est.)
+**note**: central government tax revenue as a % of GDP
 
-**Current account balance**<br>
--$738 million (2017 est.)<br>
--$1.457 billion (2016 est.)<br>
+### Current account balance
+-$738 million (2017 est.)
+-$1.457 billion (2016 est.)
 
-**Exports**<br>
-$6.231 billion (2022 est.)<br>
-$5.851 billion (2021 est.)<br>
-$4.041 billion (2020 est.)<br>
-<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
+### Exports
+$6.231 billion (2022 est.)
+$5.851 billion (2021 est.)
+$4.041 billion (2020 est.)
+**note**: GDP expenditure basis - exports of goods and services in current dollars
 
-**Exports - partners**<br>
-Zambia 21%, Spain 15%, China 15%, India 10%, Italy 6% (2022)<br>
-<b>note:</b> top five export partners based on percentage share of exports<br>
+### Exports - partners
+Zambia 21%, Spain 15%, China 15%, India 10%, Italy 6% (2022)
+**note**: top five export partners based on percentage share of exports
 
-**Exports - commodities**<br>
-crude petroleum, natural gas, fertilizers, packaged medicine, cars (2022)<br>
-<b>note:</b> top five export commodities based on value in dollars<br>
+### Exports - commodities
+crude petroleum, natural gas, fertilizers, packaged medicine, cars (2022)
+**note**: top five export commodities based on value in dollars
 
-**Imports**<br>
-$4.297 billion (2022 est.)<br>
-$4.351 billion (2021 est.)<br>
-$3.669 billion (2020 est.)<br>
-<strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
+### Imports
+$4.297 billion (2022 est.)
+$4.351 billion (2021 est.)
+$3.669 billion (2020 est.)
+**note**: GDP expenditure basis - imports of goods and services in current dollars
 
-**Imports - partners**<br>
-Zambia 38%, China 14%, Spain 10%, Nigeria 7%, US 4% (2022)<br>
-<b>note:</b> top five import partners based on percentage share of imports<br>
+### Imports - partners
+Zambia 38%, China 14%, Spain 10%, Nigeria 7%, US 4% (2022)
+**note**: top five import partners based on percentage share of imports
 
-**Imports - commodities**<br>
-ships, refined copper, iron alloys, raw copper, poultry (2022)<br>
-<b>note:</b> top five import commodities based on value in dollars<br>
+### Imports - commodities
+ships, refined copper, iron alloys, raw copper, poultry (2022)
+**note**: top five import commodities based on value in dollars
 
-**Reserves of foreign exchange and gold**<br>
-$1.538 billion (2023 est.)<br>
-$1.458 billion (2022 est.)<br>
-$44.271 million (2021 est.)<br>
-<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+### Reserves of foreign exchange and gold
+$1.538 billion (2023 est.)
+$1.458 billion (2022 est.)
+$44.271 million (2021 est.)
+**note**: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars
 
-**Exchange rates**<br>
-_Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
-606.57 (2023 est.)<br>
-623.76 (2022 est.)<br>
-554.531 (2021 est.)<br>
-575.586 (2020 est.)<br>
-585.911 (2019 est.)<br>
+### Exchange rates
+- `Currency`: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -
+606.57 (2023 est.)
+623.76 (2022 est.)
+554.531 (2021 est.)
+575.586 (2020 est.)
+585.911 (2019 est.)
 
 ## Energy
 
-**Electricity access**<br>
-_electrification - total population_: 67% (2022 est.)<br>
-_electrification - urban areas_: 89.8%<br>
-_electrification - rural areas_: 1.4%<br>
+### Electricity access
+- `electrification - total population`: 67% (2022 est.)
+- `electrification - urban areas`: 89.8%
+- `electrification - rural areas`: 1.4%
 
-**Electricity**<br>
-_installed generating capacity_: 349,000 kW (2022 est.)<br>
-_consumption_: 1.326 billion kWh (2022 est.)<br>
-_transmission/distribution losses_: 147.498 million kWh (2022 est.)<br>
+### Electricity
+- `installed generating capacity`: 349,000 kW (2022 est.)
+- `consumption`: 1.326 billion kWh (2022 est.)
+- `transmission/distribution losses`: 147.498 million kWh (2022 est.)
 
-**Electricity generation sources**<br>
-_fossil fuels_: 67.1% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 32.9% of total installed capacity (2022 est.)<br>
+### Electricity generation sources
+- `fossil fuels`: 67.1% of total installed capacity (2022 est.)
+- `hydroelectricity`: 32.9% of total installed capacity (2022 est.)
 
-**Coal**<br>
-_imports_: 17.1 metric tons (2022 est.)<br>
+### Coal
+- `imports`: 17.1 metric tons (2022 est.)
 
-**Petroleum**<br>
-_total petroleum production_: 98,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 6,000 bbl/day (2022 est.)<br>
-_crude oil estimated reserves_: 1.1 billion barrels (2021 est.)<br>
+### Petroleum
+- `total petroleum production`: 98,000 bbl/day (2023 est.)
+- `refined petroleum consumption`: 6,000 bbl/day (2022 est.)
+- `crude oil estimated reserves`: 1.1 billion barrels (2021 est.)
 
-**Natural gas**<br>
-_production_: 6.75 billion cubic meters (2022 est.)<br>
-_consumption_: 1.504 billion cubic meters (2022 est.)<br>
-_exports_: 4.964 billion cubic meters (2022 est.)<br>
-_proven reserves_: 139.007 billion cubic meters (2021 est.)<br>
+### Natural gas
+- `production`: 6.75 billion cubic meters (2022 est.)
+- `consumption`: 1.504 billion cubic meters (2022 est.)
+- `exports`: 4.964 billion cubic meters (2022 est.)
+- `proven reserves`: 139.007 billion cubic meters (2021 est.)
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 3.806 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 855,000 metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 2.951 million metric tonnes of CO2 (2022 est.)<br>
+### Carbon dioxide emissions
+- `total emissions`: 3.806 million metric tonnes of CO2 (2022 est.)
+- `from petroleum and other liquids`: 855,000 metric tonnes of CO2 (2022 est.)
+- `from consumed natural gas`: 2.951 million metric tonnes of CO2 (2022 est.)
 
-**Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 41.487 million Btu/person (2022 est.)<br>
+### Energy consumption per capita
+- `Total energy consumption per capita 2022`: 41.487 million Btu/person (2022 est.)
 
 ## Communications
 
-**Telephones - fixed lines**<br>
-_total subscriptions_: 11,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
+### Telephones - fixed lines
+- `total subscriptions`: 11,000 (2022 est.)
+- `subscriptions per 100 inhabitants`: (2022 est.) less than 1
 
-**Telephones - mobile cellular**<br>
-_total subscriptions_: 893,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 53 (2022 est.)<br>
+### Telephones - mobile cellular
+- `total subscriptions`: 893,000 (2022 est.)
+- `subscriptions per 100 inhabitants`: 53 (2022 est.)
 
-**Telecommunication systems**<br>
-_general assessment_: the telecom service is forecasted to register a growth of more than 6% during the period of 2022-2026; mobile data is the largest contributor to total service revenue in 2021, followed by mobile voice, fixed broadband, mobile messaging, and fixed voice; the launch of the international submarine cable ACE, which connects 13 West African countries with Europe, will improve international capacity, bringing opportunities to data center providers; 4G network expansion and 4G service promotion will allow consumers and businesses to leverage 4G services (2022)<br>
-_domestic_: fixed-line density is less than 1 per 100 persons and mobile-cellular subscribership is roughly 39 per 100 (2021)<br>
-_international_: country code - 240;&nbsp;landing points for the ACE, Ceiba-1, and Ceiba-2 submarine&nbsp;cables providing communication from Bata&nbsp;and Malabo, Equatorial Guinea&nbsp;to numerous Western African and European countries; satellite earth station - 1 Intelsat (Indian Ocean) (2019)<br>
+### Telecommunication systems
+- `general assessment`: the telecom service is forecasted to register a growth of more than 6% during the period of 2022-2026; mobile data is the largest contributor to total service revenue in 2021, followed by mobile voice, fixed broadband, mobile messaging, and fixed voice; the launch of the international submarine cable ACE, which connects 13 West African countries with Europe, will improve international capacity, bringing opportunities to data center providers; 4G network expansion and 4G service promotion will allow consumers and businesses to leverage 4G services (2022)
+- `domestic`: fixed-line density is less than 1 per 100 persons and mobile-cellular subscribership is roughly 39 per 100 (2021)
+- `international`: country code - 240; landing points for the ACE, Ceiba-1, and Ceiba-2 submarine cables providing communication from Bata and Malabo, Equatorial Guinea to numerous Western African and European countries; satellite earth station - 1 Intelsat (Indian Ocean) (2019)
 
-**Broadcast media**<br>
-the state maintains control of broadcast media with domestic broadcast media limited to 1 state-owned TV station, 1 private TV station owned by the president's eldest son (who is the Vice President), 1 state-owned radio station, and 1 private radio station owned by the president's eldest son; satellite TV service is available; transmissions of multiple international broadcasters are generally accessible (2019)<br>
+### Broadcast media
+the state maintains control of broadcast media with domestic broadcast media limited to 1 state-owned TV station, 1 private TV station owned by the president's eldest son (who is the Vice President), 1 state-owned radio station, and 1 private radio station owned by the president's eldest son; satellite TV service is available; transmissions of multiple international broadcasters are generally accessible (2019)
 
-**Internet country code**<br>
-.gq<br>
+### Internet country code
+.gq
 
-**Internet users**<br>
-_total_: 864,000 (2021 est.)<br>
-_percent of population_: 54% (2021 est.)<br>
+### Internet users
+- `total`: 864,000 (2021 est.)
+- `percent of population`: 54% (2021 est.)
 
-**Broadband - fixed subscriptions**<br>
-_total_: 1,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.1 (2020 est.)<br>
+### Broadband - fixed subscriptions
+- `total`: 1,000 (2020 est.)
+- `subscriptions per 100 inhabitants`: 0.1 (2020 est.)
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 6 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 15<br>
-_annual passenger traffic on registered air carriers_: 466,435 (2018)<br>
-_annual freight traffic on registered air carriers_: 350,000 (2018) mt-km<br>
+### National air transport system
+- `number of registered air carriers`: 6 (2020)
+- `inventory of registered aircraft operated by air carriers`: 15
+- `annual passenger traffic on registered air carriers`: 466,435 (2018)
+- `annual freight traffic on registered air carriers`: 350,000 (2018) mt-km
 
-**Civil aircraft registration country code prefix**<br>
-3C<br>
+### Civil aircraft registration country code prefix
+3C
 
-**Airports**<br>
-7 (2024)<br>
+### Airports
+7 (2024)
 
-**Pipelines**<br>
-42 km condensate, 5 km condensate/gas, 79 km gas, 71 km oil (2013)<br>
+### Pipelines
+42 km condensate, 5 km condensate/gas, 79 km gas, 71 km oil (2013)
 
-**Roadways**<br>
-_total_: 2,880 km (2017)<br>
+### Roadways
+- `total`: 2,880 km (2017)
 
-**Merchant marine**<br>
-_total_: 53 (2023)<br>
-_by type_: bulk carrier 1, general cargo 16, oil tanker 7, other 29<br>
+### Merchant marine
+- `total`: 53 (2023)
+- `by type`: bulk carrier 1, general cargo 16, oil tanker 7, other 29
 
-**Ports**<br>
-_total ports_: 7 (2024)<br>
-_large_: 0<br>
-_medium_: 0<br>
-_small_: 1<br>
-_very small_: 6<br>
-_ports with oil terminals_: 6<br>
-_key ports_: Bata, Ceiba Terminal, Cogo, Luba, Malabo, Punta Europa Terminal, Serpentina Terminal<br>
+### Ports
+- `total ports`: 7 (2024)
+- `large`: 0
+- `medium`: 0
+- `small`: 1
+- `very small`: 6
+- `ports with oil terminals`: 6
+- `key ports`: Bata, Ceiba Terminal, Cogo, Luba, Malabo, Punta Europa Terminal, Serpentina Terminal
 
 ## Military and Security
 
-**Military and security forces**<br>
-Equatorial Guinea Armed Forces (Fuerzas Armadas de Guinea Ecuatorial, FAGE): Equatorial Guinea National Guard (Guardia Nacional de Guinea Ecuatorial, GNGE (Army)), Navy, Air Force; Gendarmerie (Guardia Civil) (2024)<br>
-<strong>note:</strong> police report to the Ministry of National Security, while gendarmes report to the Ministry of National Defense; police generally are responsible for maintaining law and order in the cities, while gendarmes are responsible for security outside cities and for special events<br>
+### Military and security forces
+Equatorial Guinea Armed Forces (Fuerzas Armadas de Guinea Ecuatorial, FAGE): Equatorial Guinea National Guard (Guardia Nacional de Guinea Ecuatorial, GNGE (Army)), Navy, Air Force; Gendarmerie (Guardia Civil) (2024)
+**note**:  police report to the Ministry of National Security, while gendarmes report to the Ministry of National Defense; police generally are responsible for maintaining law and order in the cities, while gendarmes are responsible for security outside cities and for special events
 
-**Military expenditures**<br>
-1.6% of GDP (2023 est.)<br>
-1.1% of GDP (2022 est.)<br>
-1.3% of GDP (2021 est.)<br>
-1.5% of GDP (2020 est.)<br>
-1.5% of GDP (2019 est.)<br>
+### Military expenditures
+1.6% of GDP (2023 est.)
+1.1% of GDP (2022 est.)
+1.3% of GDP (2021 est.)
+1.5% of GDP (2020 est.)
+1.5% of GDP (2019 est.)
 
-**Military and security service personnel strengths**<br>
-approximately 1,500 active-duty troops; approximately 500 Gendarmerie (2023)<br>
+### Military and security service personnel strengths
+approximately 1,500 active-duty troops; approximately 500 Gendarmerie (2023)
 
-**Military equipment inventories and acquisitions**<br>
-the FAGE is armed with mostly older (typically Soviet-era) and second-hand weapons systems; in recent years, it has sought to modernize its naval inventory with purchases of vessels from several countries, including Bulgaria and Israel; China and Russia have also supplied some equipment to the FAGE (2024)<br>
+### Military equipment inventories and acquisitions
+the FAGE is armed with mostly older (typically Soviet-era) and second-hand weapons systems; in recent years, it has sought to modernize its naval inventory with purchases of vessels from several countries, including Bulgaria and Israel; China and Russia have also supplied some equipment to the FAGE (2024)
 
-**Military service age and obligation**<br>
-18 years of age for selective compulsory military service, although conscription is rare in practice; 24-month service obligation (2023)<br>
+### Military service age and obligation
+18 years of age for selective compulsory military service, although conscription is rare in practice; 24-month service obligation (2023)
 
-**Military - note**<br>
-the Armed Forces of Equatorial Guinea (FAGE) are responsible for defending the territory and sovereignty of the country; it also has some internal security duties, including fulfilling some police functions in border areas, sensitive sites, and high-traffic areas; the FAGE&rsquo;s National Guard (Army) is a small force with a few infantry battalions; over the past decade, the country has made considerable investments in naval capabilities to protect its oil installations and combat piracy and crime in the Gulf of Guinea; while the Navy is small, its inventory includes a light frigate and a corvette, as well as several off-shore patrol vessels; the Air Force has a handful of operational combat aircraft and ground attack-capable helicopters (2023)<br>
+### Military - note
+the Armed Forces of Equatorial Guinea (FAGE) are responsible for defending the territory and sovereignty of the country; it also has some internal security duties, including fulfilling some police functions in border areas, sensitive sites, and high-traffic areas; the FAGE’s National Guard (Army) is a small force with a few infantry battalions; over the past decade, the country has made considerable investments in naval capabilities to protect its oil installations and combat piracy and crime in the Gulf of Guinea; while the Navy is small, its inventory includes a light frigate and a corvette, as well as several off-shore patrol vessels; the Air Force has a handful of operational combat aircraft and ground attack-capable helicopters (2023)
 
 ## Transnational Issues
 
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — Equatorial Guinea does not fully meet the minimum standards for the elimination of trafficking, but it is making significant efforts to do so and was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/equatorial-guinea/<br>
+### Trafficking in persons
+- `tier rating`: Tier 2 Watch List — Equatorial Guinea does not fully meet the minimum standards for the elimination of trafficking, but it is making significant efforts to do so and was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/equatorial-guinea/
 

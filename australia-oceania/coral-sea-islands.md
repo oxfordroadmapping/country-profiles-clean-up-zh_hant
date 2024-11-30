@@ -4,118 +4,118 @@ _Australia-Oceania / Dependencies (Australia)_
 
 ## Introduction
 
-**Background**<br>
-<p>The widely scattered Coral Sea Islands were first charted in 1803, but they were too small to host permanent human habitation. The 1870s and 1880s saw attempts at guano mining, but these were soon abandoned. The islands became an Australian territory in 1969, and the boundaries were extended in 1997. A small meteorological staff has operated on the Willis Islets since 1921, and several other islands host unmanned weather stations, beacons, and lighthouses. Much of the territory lies within national marine nature reserves.</p> <p style="margin: 0in; margin-bottom: .0001pt; line-height: 18.0pt; background: white;"> </p><br>
+### Background
+The widely scattered Coral Sea Islands were first charted in 1803, but they were too small to host permanent human habitation. The 1870s and 1880s saw attempts at guano mining, but these were soon abandoned. The islands became an Australian territory in 1969, and the boundaries were extended in 1997. A small meteorological staff has operated on the Willis Islets since 1921, and several other islands host unmanned weather stations, beacons, and lighthouses. Much of the territory lies within national marine nature reserves.  
 
 ## Geography
 
-**Location**<br>
-Oceania, islands in the Coral Sea, northeast of Australia<br>
+### Location
+Oceania, islands in the Coral Sea, northeast of Australia
 
-**Geographic coordinates**<br>
-18 00 S, 152 00 E<br>
+### Geographic coordinates
+18 00 S, 152 00 E
 
-**Map references**<br>
-Oceania<br>
+### Map references
+Oceania
 
-**Area**<br>
-_total _: 3 sq km less than<br>
-_land_: 3 sq km less than<br>
-_water_: 0 sq km<br>
-<strong>note:</strong> includes numerous small islands and reefs scattered over a sea area of about 780,000 sq km (300,000 sq mi) with the Willis Islets the most important<br>
+### Area
+- `total `: 3 sq km less than
+- `land`: 3 sq km less than
+- `water`: 0 sq km
+**note**:  includes numerous small islands and reefs scattered over a sea area of about 780,000 sq km (300,000 sq mi) with the Willis Islets the most important
 
-**Area - comparative**<br>
-about four times the size of the National Mall in Washington, DC<br>
+### Area - comparative
+about four times the size of the National Mall in Washington, DC
 
-**Land boundaries**<br>
-_total_: 0 km<br>
+### Land boundaries
+- `total`: 0 km
 
-**Coastline**<br>
-3,095 km<br>
+### Coastline
+3,095 km
 
-**Maritime claims**<br>
-_territorial sea_: 3 nm<br>
-_exclusive fishing zone_: 200 nm<br>
+### Maritime claims
+- `territorial sea`: 3 nm
+- `exclusive fishing zone`: 200 nm
 
-**Climate**<br>
-tropical<br>
+### Climate
+tropical
 
-**Terrain**<br>
-sand and coral reefs and islands (cays)<br>
+### Terrain
+sand and coral reefs and islands (cays)
 
-**Elevation**<br>
-_highest point_: unnamed location on Cato Island 9 m<br>
-_lowest point_: Pacific Ocean 0 m<br>
+### Elevation
+- `highest point`: unnamed location on Cato Island 9 m
+- `lowest point`: Pacific Ocean 0 m
 
-**Natural resources**<br>
-fish<br>
+### Natural resources
+fish
 
-**Land use**<br>
-_agricultural land_: 0% (2018 est.)<br>
-_other_: 100% (2018 est.)<br>
+### Land use
+- `agricultural land`: 0% (2018 est.)
+- `other`: 100% (2018 est.)
 
-**Natural hazards**<br>
-occasional tropical cyclones<br>
+### Natural hazards
+occasional tropical cyclones
 
-**Geography - note**<br>
-important nesting area for birds and turtles<br>
+### Geography - note
+important nesting area for birds and turtles
 
 ## People and Society
 
-**Population**<br>
-_total_: no indigenous inhabitants (2021)<br>
-<strong>note:</strong> a staff of four operates the meteorological station on Willis Island<br>
+### Population
+- `total`: no indigenous inhabitants (2021)
+**note**:  a staff of four operates the meteorological station on Willis Island
 
 ## Environment
 
-**Environment - current issues**<br>
-no permanent freshwater resources; damaging activities include coral mining, destructive fishing practices (overfishing, blast fishing)<br>
+### Environment - current issues
+no permanent freshwater resources; damaging activities include coral mining, destructive fishing practices (overfishing, blast fishing)
 
-**Climate**<br>
-tropical<br>
+### Climate
+tropical
 
-**Land use**<br>
-_agricultural land_: 0% (2018 est.)<br>
-_other_: 100% (2018 est.)<br>
+### Land use
+- `agricultural land`: 0% (2018 est.)
+- `other`: 100% (2018 est.)
 
 ## Government
 
-**Country name**<br>
-_conventional long form_: Coral Sea Islands Territory<br>
-_conventional short form_: Coral Sea Islands<br>
-_etymology_: self-descriptive name to reflect the islands' position in the Coral Sea off the northeastern coast of Australia<br>
+### Country name
+- `conventional long form`: Coral Sea Islands Territory
+- `conventional short form`: Coral Sea Islands
+- `etymology`: self-descriptive name to reflect the islands' position in the Coral Sea off the northeastern coast of Australia
 
-**Dependency status**<br>
-territory of Australia; administered from Canberra by the Department of Regional Australia, Local Government, Arts and Sport<br>
+### Dependency status
+territory of Australia; administered from Canberra by the Department of Regional Australia, Local Government, Arts and Sport
 
-**Legal system**<br>
-the common law legal system of Australia applies where applicable<br>
+### Legal system
+the common law legal system of Australia applies where applicable
 
-**Citizenship**<br>
-see Australia<br>
+### Citizenship
+see Australia
 
-**Diplomatic representation in the US**<br>
-none (territory of Australia)<br>
+### Diplomatic representation in the US
+none (territory of Australia)
 
-**Diplomatic representation from the US**<br>
-_embassy_: none (territory of Australia)<br>
+### Diplomatic representation from the US
+- `embassy`: none (territory of Australia)
 
-**Flag description**<br>
-the flag of Australia is used<br>
+### Flag description
+the flag of Australia is used
 
 ## Economy
 
 ## Communications
 
-**Communications - note**<br>
-automatic weather stations on many of the isles and reefs relay data to the mainland<br>
+### Communications - note
+automatic weather stations on many of the isles and reefs relay data to the mainland
 
 ## Transportation
 
 ## Military and Security
 
-**Military - note**<br>
-defense is the responsibility of Australia<br>
+### Military - note
+defense is the responsibility of Australia
 
 ## Transnational Issues
 

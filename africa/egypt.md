@@ -4,751 +4,751 @@ _Africa / Countries_
 
 ## Introduction
 
-**Background**<br>
-<p>The regularity and richness of the annual Nile River flood, coupled with semi-isolation provided by deserts to the east and west, allowed for the development of one of the world's great civilizations in Egypt. A unified kingdom arose circa 3200 B.C., and a series of dynasties ruled in Egypt for the next three millennia. The last native dynasty fell to the Persians in 341 B.C., who in turn were replaced by the Greeks, Romans, and Byzantines. Arab conquerors introduced Islam and the Arabic language in the 7th century and ruled for the next six centuries. The Mamluks, a local military caste, took control around 1250 and continued to govern after the Ottoman Turks conquered Egypt in 1517.<br><br>Completion of the Suez Canal in 1869 elevated Egypt as an important world transportation hub. Ostensibly to protect its investments, Britain seized control of Egypt's government in 1882, but the country's nominal allegiance to the Ottoman Empire continued until 1914. Egypt gained partial independence from the UK in 1922 and full sovereignty in 1952. British forces evacuated the Suez Canal Zone in 1956. The completion of the Aswan High Dam in 1971 and the resultant Lake Nasser have reaffirmed the time-honored place of the Nile River in the agriculture and ecology of Egypt. A rapidly growing population (the largest in the Arab world), limited arable land, and dependence on the Nile all continue to overtax resources and stress society. The government has struggled to meet the demands of Egypt's fast-growing population as it implements large-scale infrastructure projects, energy cooperation, and foreign direct investment appeals.</p> <p>Inspired by the 2010 Tunisian revolution, Egyptian opposition groups led demonstrations and labor strikes countrywide, culminating in President Hosni MUBARAK's ouster in 2011. Egypt's military assumed national leadership until a new legislature was in place in early 2012; later that same year, Muslim Brotherhood candidate Mohamed MORSI won the presidential election. Following protests throughout the spring of 2013 against MORSI's government and the Muslim Brotherhood, the Egyptian Armed Forces intervened and removed MORSI from power in July 2013 and replaced him with interim president Adly MANSOUR. Simultaneously, the government began enacting laws to limit freedoms of assembly and expression. In 2014, voters approved a new constitution by referendum and then elected former defense minister Abdel Fattah EL-SISI president. EL-SISI was reelected to a second four-year term in 2018 and a third term in December 2023. </p> <p> </p> <p> </p><br>
+### Background
+The regularity and richness of the annual Nile River flood, coupled with semi-isolation provided by deserts to the east and west, allowed for the development of one of the world's great civilizations in Egypt. A unified kingdom arose circa 3200 B.C., and a series of dynasties ruled in Egypt for the next three millennia. The last native dynasty fell to the Persians in 341 B.C., who in turn were replaced by the Greeks, Romans, and Byzantines. Arab conquerors introduced Islam and the Arabic language in the 7th century and ruled for the next six centuries. The Mamluks, a local military caste, took control around 1250 and continued to govern after the Ottoman Turks conquered Egypt in 1517.  Completion of the Suez Canal in 1869 elevated Egypt as an important world transportation hub. Ostensibly to protect its investments, Britain seized control of Egypt's government in 1882, but the country's nominal allegiance to the Ottoman Empire continued until 1914. Egypt gained partial independence from the UK in 1922 and full sovereignty in 1952. British forces evacuated the Suez Canal Zone in 1956. The completion of the Aswan High Dam in 1971 and the resultant Lake Nasser have reaffirmed the time-honored place of the Nile River in the agriculture and ecology of Egypt. A rapidly growing population (the largest in the Arab world), limited arable land, and dependence on the Nile all continue to overtax resources and stress society. The government has struggled to meet the demands of Egypt's fast-growing population as it implements large-scale infrastructure projects, energy cooperation, and foreign direct investment appeals. Inspired by the 2010 Tunisian revolution, Egyptian opposition groups led demonstrations and labor strikes countrywide, culminating in President Hosni MUBARAK's ouster in 2011. Egypt's military assumed national leadership until a new legislature was in place in early 2012; later that same year, Muslim Brotherhood candidate Mohamed MORSI won the presidential election. Following protests throughout the spring of 2013 against MORSI's government and the Muslim Brotherhood, the Egyptian Armed Forces intervened and removed MORSI from power in July 2013 and replaced him with interim president Adly MANSOUR. Simultaneously, the government began enacting laws to limit freedoms of assembly and expression. In 2014, voters approved a new constitution by referendum and then elected former defense minister Abdel Fattah EL-SISI president. EL-SISI was reelected to a second four-year term in 2018 and a third term in December 2023.     
 
 ## Geography
 
-**Location**<br>
-Northern Africa, bordering the Mediterranean Sea, between Libya and the Gaza Strip, and the Red Sea north of Sudan, and includes the Asian Sinai Peninsula<br>
+### Location
+Northern Africa, bordering the Mediterranean Sea, between Libya and the Gaza Strip, and the Red Sea north of Sudan, and includes the Asian Sinai Peninsula
 
-**Geographic coordinates**<br>
-27 00 N, 30 00 E<br>
+### Geographic coordinates
+27 00 N, 30 00 E
 
-**Map references**<br>
-Africa<br>
+### Map references
+Africa
 
-**Area**<br>
-_total _: 1,001,450 sq km<br>
-_land_: 995,450 sq km<br>
-_water_: 6,000 sq km<br>
+### Area
+- `total `: 1,001,450 sq km
+- `land`: 995,450 sq km
+- `water`: 6,000 sq km
 
-**Area - comparative**<br>
-more than eight times the size of Ohio; slightly more than three times the size of New Mexico<br>
+### Area - comparative
+more than eight times the size of Ohio; slightly more than three times the size of New Mexico
 
-**Land boundaries**<br>
-_total_: 2,612 km<br>
-_border countries_: Gaza Strip 13 km; Israel 208 km; Libya 1,115 km; Sudan 1,276 km<br>
+### Land boundaries
+- `total`: 2,612 km
+- `border countries`: Gaza Strip 13 km; Israel 208 km; Libya 1,115 km; Sudan 1,276 km
 
-**Coastline**<br>
-2,450 km<br>
+### Coastline
+2,450 km
 
-**Maritime claims**<br>
-_territorial sea_: 12 nm<br>
-_contiguous zone_: 24 nm<br>
-_exclusive economic zone_: 200 nm or the equidistant median line with Cyprus<br>
-_continental shelf_: 200 nm<br>
+### Maritime claims
+- `territorial sea`: 12 nm
+- `contiguous zone`: 24 nm
+- `exclusive economic zone`: 200 nm or the equidistant median line with Cyprus
+- `continental shelf`: 200 nm
 
-**Climate**<br>
-desert; hot, dry summers with moderate winters<br>
+### Climate
+desert; hot, dry summers with moderate winters
 
-**Terrain**<br>
-vast desert plateau interrupted by Nile valley and delta<br>
+### Terrain
+vast desert plateau interrupted by Nile valley and delta
 
-**Elevation**<br>
-_highest point_: Mount Catherine 2,629 m<br>
-_lowest point_: Qattara Depression -133 m<br>
-_mean elevation_: 321 m<br>
+### Elevation
+- `highest point`: Mount Catherine 2,629 m
+- `lowest point`: Qattara Depression -133 m
+- `mean elevation`: 321 m
 
-**Natural resources**<br>
-petroleum, natural gas, iron ore, phosphates, manganese, limestone, gypsum, talc, asbestos, lead, rare earth elements, zinc<br>
+### Natural resources
+petroleum, natural gas, iron ore, phosphates, manganese, limestone, gypsum, talc, asbestos, lead, rare earth elements, zinc
 
-**Land use**<br>
-_agricultural land_: 3.6% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 0.1% (2018 est.)<br>
-_other_: 96.3% (2018 est.)<br>
+### Land use
+- `agricultural land`: 3.6% (2018 est.)
+- `agricultural land: arable land`: arable land: 2.8% (2018 est.)
+- `agricultural land: permanent crops`: permanent crops: 0.8% (2018 est.)
+- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
+- `forest`: 0.1% (2018 est.)
+- `other`: 96.3% (2018 est.)
 
-**Irrigated land**<br>
-36,500 sq km (2012)<br>
+### Irrigated land
+36,500 sq km (2012)
 
-**Major lakes (area sq km)**<br>
-_salt water lake(s)_: Lake Manzala - 1,360 sq km<br>note - largest of Nile Delta lakes<br>
+### Major lakes (area sq km)
+- `salt water lake(s)`: Lake Manzala - 1,360 sq kmnote - largest of Nile Delta lakes
 
-**Major rivers (by length in km)**<br>
-An Nīl (Nile) river mouth (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Sudan) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+### Major rivers (by length in km)
+An Nīl (Nile) river mouth (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Sudan) - 6,650 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+### Major watersheds (area sq km)
+Atlantic Ocean drainage: *(Mediterranean Sea)* Nile (3,254,853 sq km)
 
-**Major aquifers**<br>
-Nubian Aquifer System<br>
+### Major aquifers
+Nubian Aquifer System
 
-**Population distribution**<br>
-approximately 95% of the population lives within 20 km of the Nile River and its delta; vast areas of the country remain sparsely populated or uninhabited as shown in this population distribution map<br>
+### Population distribution
+approximately 95% of the population lives within 20 km of the Nile River and its delta; vast areas of the country remain sparsely populated or uninhabited as shown in this population distribution map
 
-**Natural hazards**<br>
-periodic droughts; frequent earthquakes; flash floods; landslides; hot, driving windstorms called khamsin occur in spring; dust storms; sandstorms<br>
+### Natural hazards
+periodic droughts; frequent earthquakes; flash floods; landslides; hot, driving windstorms called khamsin occur in spring; dust storms; sandstorms
 
-**Geography - note**<br>
-<strong>note:</strong> controls Sinai Peninsula, the only land bridge between Africa and remainder of Eastern Hemisphere; controls Suez Canal, a sea link between Indian Ocean and Mediterranean Sea; size, and juxtaposition to Israel, establish its major role in Middle Eastern geopolitics; dependence on upstream neighbors; dominance of Nile basin issues<br>
+### Geography - note
+**note**:  controls Sinai Peninsula, the only land bridge between Africa and remainder of Eastern Hemisphere; controls Suez Canal, a sea link between Indian Ocean and Mediterranean Sea; size, and juxtaposition to Israel, establish its major role in Middle Eastern geopolitics; dependence on upstream neighbors; dominance of Nile basin issues
 
 ## People and Society
 
-**Population**<br>
-_total_: 111,247,248<br>
-_male_: 57,142,484<br>
-_female_: 54,104,764 (2024 est.)<br>
+### Population
+- `total`: 111,247,248
+- `male`: 57,142,484
+- `female`: 54,104,764 (2024 est.)
 
-**Nationality**<br>
-_noun_: Egyptian(s)<br>
-_adjective_: Egyptian<br>
+### Nationality
+- `noun`: Egyptian(s)
+- `adjective`: Egyptian
 
-**Ethnic groups**<br>
-Egyptian 99.7%, other 0.3% (2006 est.)<br>
-<strong>note:</strong> data represent respondents by nationality<br>
+### Ethnic groups
+Egyptian 99.7%, other 0.3% (2006 est.)
+**note**:  data represent respondents by nationality
 
-**Languages**<br>
-Arabic (official); English and French widely understood by educated classes<br>
-_major-language sample(s)_: <br>كتاب حقائق العالم، أفضل مصدر للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+### Languages
+Arabic (official); English and French widely understood by educated classes
+- `major-language sample(s)`: كتاب حقائق العالم، أفضل مصدر للمعلومات الأساسية (Arabic)  The World Factbook, the indispensable source for basic information.
 
-**Religions**<br>
-Muslim (predominantly Sunni) 90%, Christian (majority Coptic Orthodox, other Christians include Armenian Apostolic, Catholic, Maronite, Orthodox, and Anglican) 10%<br>
+### Religions
+Muslim (predominantly Sunni) 90%, Christian (majority Coptic Orthodox, other Christians include Armenian Apostolic, Catholic, Maronite, Orthodox, and Anglican) 10%
 
-**Demographic profile**<br>
-<p>Egypt is the most populous country in the Arab world and the third-most-populous country in Africa, behind Nigeria and Ethiopia. Most of the country is desert, so about 95% of the population is concentrated in a narrow strip of fertile land along the Nile River, which represents only about 5% of Egypt’s land area. Egypt’s rapid population growth – 46% between 1994 and 2014 – stresses limited natural resources, jobs, housing, sanitation, education, and health care.</p> <p>Although the country’s total fertility rate (TFR) fell from roughly 5.5 children per woman in 1980 to just over 3 in the late 1990s, largely as a result of state-sponsored family planning programs, the population growth rate dropped more modestly because of decreased mortality rates and longer life expectancies. During the last decade, Egypt’s TFR decline stalled for several years and then reversed, reaching 3.6 in 2011, and is under 3 as of 2022. Contraceptive use has held steady at about 60%, while preferences for larger families and early marriage may have strengthened in the wake of the recent 2011 revolution. The large cohort of women of or nearing childbearing age will sustain high population growth for the foreseeable future (an effect called population momentum).</p> <p>Nevertheless, post-MUBARAK governments have not made curbing population growth a priority. To increase contraceptive use and to prevent further overpopulation will require greater government commitment and substantial social change, including encouraging smaller families and better educating and empowering women. Currently, literacy, educational attainment, and labor force participation rates are much lower for women than men. In addition, the prevalence of violence against women, the lack of female political representation, and the perpetuation of the nearly universal practice of female genital cutting continue to keep women from playing a more significant role in Egypt’s public sphere.</p> <p>Population pressure, poverty, high unemployment, and the fragmentation of inherited land holdings have historically motivated Egyptians, primarily young men, to migrate internally from rural and smaller urban areas in the Nile Delta region and the poorer rural south to Cairo, Alexandria, and other urban centers in the north, while a much smaller number migrated to the Red Sea and Sinai areas. Waves of forced internal migration also resulted from the 1967 Arab-Israeli War and the floods caused by the completion of the Aswan High Dam in 1970. Limited numbers of students and professionals emigrated temporarily prior to the early 1970s, when economic problems and high unemployment pushed the Egyptian Government to lift restrictions on labor migration. At the same time, high oil revenues enabled Saudi Arabia, Iraq, and other Gulf states, as well as Libya and Jordan, to fund development projects, creating a demand for unskilled labor (mainly in construction), which attracted tens of thousands of young Egyptian men.</p> <p>Between 1970 and 1974 alone, Egyptian migrants in the Gulf countries increased from approximately 70,000 to 370,000. Egyptian officials encouraged legal labor migration both to alleviate unemployment and to generate remittance income (remittances continue to be one of Egypt’s largest sources of foreign currency and GDP). During the mid-1980s, however, depressed oil prices resulting from the Iran-Iraq War, decreased demand for low-skilled labor, competition from less costly South Asian workers, and efforts to replace foreign workers with locals significantly reduced Egyptian migration to the Gulf States. The number of Egyptian migrants dropped from a peak of almost 3.3 million in 1983 to about 2.2 million at the start of the 1990s, but numbers gradually recovered.</p> <p>In the 2000s, Egypt began facilitating more labor migration through bilateral agreements, notably with Arab countries and Italy, but illegal migration to Europe through overstayed visas or maritime human smuggling via Libya also rose. The Egyptian Government estimated there were 6.5 million Egyptian migrants in 2009, with roughly 75% being temporary migrants in other Arab countries (Libya, Saudi Arabia, Jordan, Kuwait, and the United Arab Emirates) and 25% being predominantly permanent migrants in the West (US, UK, Italy, France, and Canada).</p> <p>During the 2000s, Egypt became an increasingly important transit and destination country for economic migrants and asylum seekers, including Palestinians, East Africans, and South Asians and, more recently, Iraqis and Syrians. Egypt draws many refugees because of its resettlement programs with the West; Cairo has one of the largest urban refugee populations in the world. Many East African migrants are interned or live in temporary encampments along the Egypt-Israel border, and some have been shot and killed by Egyptian border guards.</p><br>
+### Demographic profile
+Egypt is the most populous country in the Arab world and the third-most-populous country in Africa, behind Nigeria and Ethiopia. Most of the country is desert, so about 95% of the population is concentrated in a narrow strip of fertile land along the Nile River, which represents only about 5% of Egypt’s land area. Egypt’s rapid population growth – 46% between 1994 and 2014 – stresses limited natural resources, jobs, housing, sanitation, education, and health care. Although the country’s total fertility rate (TFR) fell from roughly 5.5 children per woman in 1980 to just over 3 in the late 1990s, largely as a result of state-sponsored family planning programs, the population growth rate dropped more modestly because of decreased mortality rates and longer life expectancies. During the last decade, Egypt’s TFR decline stalled for several years and then reversed, reaching 3.6 in 2011, and is under 3 as of 2022. Contraceptive use has held steady at about 60%, while preferences for larger families and early marriage may have strengthened in the wake of the recent 2011 revolution. The large cohort of women of or nearing childbearing age will sustain high population growth for the foreseeable future (an effect called population momentum). Nevertheless, post-MUBARAK governments have not made curbing population growth a priority. To increase contraceptive use and to prevent further overpopulation will require greater government commitment and substantial social change, including encouraging smaller families and better educating and empowering women. Currently, literacy, educational attainment, and labor force participation rates are much lower for women than men. In addition, the prevalence of violence against women, the lack of female political representation, and the perpetuation of the nearly universal practice of female genital cutting continue to keep women from playing a more significant role in Egypt’s public sphere. Population pressure, poverty, high unemployment, and the fragmentation of inherited land holdings have historically motivated Egyptians, primarily young men, to migrate internally from rural and smaller urban areas in the Nile Delta region and the poorer rural south to Cairo, Alexandria, and other urban centers in the north, while a much smaller number migrated to the Red Sea and Sinai areas. Waves of forced internal migration also resulted from the 1967 Arab-Israeli War and the floods caused by the completion of the Aswan High Dam in 1970. Limited numbers of students and professionals emigrated temporarily prior to the early 1970s, when economic problems and high unemployment pushed the Egyptian Government to lift restrictions on labor migration. At the same time, high oil revenues enabled Saudi Arabia, Iraq, and other Gulf states, as well as Libya and Jordan, to fund development projects, creating a demand for unskilled labor (mainly in construction), which attracted tens of thousands of young Egyptian men. Between 1970 and 1974 alone, Egyptian migrants in the Gulf countries increased from approximately 70,000 to 370,000. Egyptian officials encouraged legal labor migration both to alleviate unemployment and to generate remittance income (remittances continue to be one of Egypt’s largest sources of foreign currency and GDP). During the mid-1980s, however, depressed oil prices resulting from the Iran-Iraq War, decreased demand for low-skilled labor, competition from less costly South Asian workers, and efforts to replace foreign workers with locals significantly reduced Egyptian migration to the Gulf States. The number of Egyptian migrants dropped from a peak of almost 3.3 million in 1983 to about 2.2 million at the start of the 1990s, but numbers gradually recovered. In the 2000s, Egypt began facilitating more labor migration through bilateral agreements, notably with Arab countries and Italy, but illegal migration to Europe through overstayed visas or maritime human smuggling via Libya also rose. The Egyptian Government estimated there were 6.5 million Egyptian migrants in 2009, with roughly 75% being temporary migrants in other Arab countries (Libya, Saudi Arabia, Jordan, Kuwait, and the United Arab Emirates) and 25% being predominantly permanent migrants in the West (US, UK, Italy, France, and Canada). During the 2000s, Egypt became an increasingly important transit and destination country for economic migrants and asylum seekers, including Palestinians, East Africans, and South Asians and, more recently, Iraqis and Syrians. Egypt draws many refugees because of its resettlement programs with the West; Cairo has one of the largest urban refugee populations in the world. Many East African migrants are interned or live in temporary encampments along the Egypt-Israel border, and some have been shot and killed by Egyptian border guards.
 
-**Age structure**<br>
-_0-14 years_: 33.8% (male 19,349,395/female 18,243,571)<br>
-_15-64 years_: 60.6% (male 34,646,369/female 32,792,151)<br>
-_65 years and over_: 5.6% (2024 est.) (male 3,146,720/female 3,069,042)<br>
+### Age structure
+- `0-14 years`: 33.8% (male 19,349,395/female 18,243,571)
+- `15-64 years`: 60.6% (male 34,646,369/female 32,792,151)
+- `65 years and over`: 5.6% (2024 est.) (male 3,146,720/female 3,069,042)
 
-**Dependency ratios**<br>
-_total dependency ratio_: 60.8<br>
-_youth dependency ratio_: 53.2<br>
-_elderly dependency ratio_: 7.7<br>
-_potential support ratio_: 13 (2021 est.)<br>
+### Dependency ratios
+- `total dependency ratio`: 60.8
+- `youth dependency ratio`: 53.2
+- `elderly dependency ratio`: 7.7
+- `potential support ratio`: 13 (2021 est.)
 
-**Median age**<br>
-_total_: 24.4 years (2024 est.)<br>
-_male_: 24.3 years<br>
-_female_: 24.4 years<br>
+### Median age
+- `total`: 24.4 years (2024 est.)
+- `male`: 24.3 years
+- `female`: 24.4 years
 
-**Population growth rate**<br>
-1.49% (2024 est.)<br>
+### Population growth rate
+1.49% (2024 est.)
 
-**Birth rate**<br>
-19.5 births/1,000 population (2024 est.)<br>
+### Birth rate
+19.5 births/1,000 population (2024 est.)
 
-**Death rate**<br>
-4.3 deaths/1,000 population (2024 est.)<br>
+### Death rate
+4.3 deaths/1,000 population (2024 est.)
 
-**Net migration rate**<br>
--0.3 migrant(s)/1,000 population (2024 est.)<br>
+### Net migration rate
+-0.3 migrant(s)/1,000 population (2024 est.)
 
-**Population distribution**<br>
-approximately 95% of the population lives within 20 km of the Nile River and its delta; vast areas of the country remain sparsely populated or uninhabited as shown in this population distribution map<br>
+### Population distribution
+approximately 95% of the population lives within 20 km of the Nile River and its delta; vast areas of the country remain sparsely populated or uninhabited as shown in this population distribution map
 
-**Urbanization**<br>
-_urban population_: 43.1% of total population (2023)<br>
-_rate of urbanization_: 1.9% annual rate of change (2020-25 est.)<br>
+### Urbanization
+- `urban population`: 43.1% of total population (2023)
+- `rate of urbanization`: 1.9% annual rate of change (2020-25 est.)
 
-**Major urban areas - population**<br>
-22.183 million CAIRO (capital), 5.588 million Alexandria, 778,000 Bur Sa'id (2023)<br>
+### Major urban areas - population
+22.183 million CAIRO (capital), 5.588 million Alexandria, 778,000 Bur Sa'id (2023)
 
-**Sex ratio**<br>
-_at birth_: 1.06 male(s)/female<br>
-_0-14 years_: 1.06 male(s)/female<br>
-_15-64 years_: 1.06 male(s)/female<br>
-_65 years and over_: 1.03 male(s)/female<br>
-_total population_: 1.06 male(s)/female (2024 est.)<br>
+### Sex ratio
+- `at birth`: 1.06 male(s)/female
+- `0-14 years`: 1.06 male(s)/female
+- `15-64 years`: 1.06 male(s)/female
+- `65 years and over`: 1.03 male(s)/female
+- `total population`: 1.06 male(s)/female (2024 est.)
 
-**Mother's mean age at first birth**<br>
-22.6 years (2014 est.)<br>
-<strong>note:</strong> data represents median age at first birth among women 25-49<br>
+### Mother's mean age at first birth
+22.6 years (2014 est.)
+**note**:  data represents median age at first birth among women 25-49
 
-**Maternal mortality ratio**<br>
-17 deaths/100,000 live births (2020 est.)<br>
+### Maternal mortality ratio
+17 deaths/100,000 live births (2020 est.)
 
-**Infant mortality rate**<br>
-_total_: 16.8 deaths/1,000 live births (2024 est.)<br>
-_male_: 17.8 deaths/1,000 live births<br>
-_female_: 15.9 deaths/1,000 live births<br>
+### Infant mortality rate
+- `total`: 16.8 deaths/1,000 live births (2024 est.)
+- `male`: 17.8 deaths/1,000 live births
+- `female`: 15.9 deaths/1,000 live births
 
-**Life expectancy at birth**<br>
-_total population_: 75 years (2024 est.)<br>
-_male_: 73.8 years<br>
-_female_: 76.2 years<br>
+### Life expectancy at birth
+- `total population`: 75 years (2024 est.)
+- `male`: 73.8 years
+- `female`: 76.2 years
 
-**Total fertility rate**<br>
-2.65 children born/woman (2024 est.)<br>
+### Total fertility rate
+2.65 children born/woman (2024 est.)
 
-**Gross reproduction rate**<br>
-1.28 (2024 est.)<br>
+### Gross reproduction rate
+1.28 (2024 est.)
 
-**Contraceptive prevalence rate**<br>
-58.5% (2014)<br>
+### Contraceptive prevalence rate
+58.5% (2014)
 
-**Drinking water source**<br>
-_improved: urban_: urban: 99.7% of population<br>
-_improved: rural_: rural: 99.7% of population<br>
-_improved: total_: total: 99.7% of population<br>
-_unimproved: urban_: urban: 0.3% of population<br>
-_unimproved: rural_: rural: 0.3% of population<br>
-_unimproved: total_: total: 0.3% of population (2020 est.)<br>
+### Drinking water source
+- `improved: urban`: urban: 99.7% of population
+- `improved: rural`: rural: 99.7% of population
+- `improved: total`: total: 99.7% of population
+- `unimproved: urban`: urban: 0.3% of population
+- `unimproved: rural`: rural: 0.3% of population
+- `unimproved: total`: total: 0.3% of population (2020 est.)
 
-**Current health expenditure**<br>
-4.4% of GDP (2020)<br>
+### Current health expenditure
+4.4% of GDP (2020)
 
-**Physician density**<br>
-0.75 physicians/1,000 population (2019)<br>
+### Physician density
+0.75 physicians/1,000 population (2019)
 
-**Hospital bed density**<br>
-1.4 beds/1,000 population (2017)<br>
+### Hospital bed density
+1.4 beds/1,000 population (2017)
 
-**Sanitation facility access**<br>
-_improved: urban_: urban: 99.9% of population<br>
-_improved: rural_: rural: 98.2% of population<br>
-_improved: total_: total: 98.9% of population<br>
-_unimproved: urban_: urban: 0.1% of population<br>
-_unimproved: rural_: rural: 1.8% of population<br>
-_unimproved: total_: total: 1.1% of population (2020 est.)<br>
+### Sanitation facility access
+- `improved: urban`: urban: 99.9% of population
+- `improved: rural`: rural: 98.2% of population
+- `improved: total`: total: 98.9% of population
+- `unimproved: urban`: urban: 0.1% of population
+- `unimproved: rural`: rural: 1.8% of population
+- `unimproved: total`: total: 1.1% of population (2020 est.)
 
-**Obesity - adult prevalence rate**<br>
-32% (2016)<br>
+### Obesity - adult prevalence rate
+32% (2016)
 
-**Alcohol consumption per capita**<br>
-_total_: 0.14 liters of pure alcohol (2019 est.)<br>
-_beer_: 0.09 liters of pure alcohol (2019 est.)<br>
-_wine_: 0.01 liters of pure alcohol (2019 est.)<br>
-_spirits_: 0.04 liters of pure alcohol (2019 est.)<br>
-_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+### Alcohol consumption per capita
+- `total`: 0.14 liters of pure alcohol (2019 est.)
+- `beer`: 0.09 liters of pure alcohol (2019 est.)
+- `wine`: 0.01 liters of pure alcohol (2019 est.)
+- `spirits`: 0.04 liters of pure alcohol (2019 est.)
+- `other alcohols`: 0 liters of pure alcohol (2019 est.)
 
-**Tobacco use**<br>
-_total_: 24.3% (2020 est.)<br>
-_male_: 48.1% (2020 est.)<br>
-_female_: 0.4% (2020 est.)<br>
+### Tobacco use
+- `total`: 24.3% (2020 est.)
+- `male`: 48.1% (2020 est.)
+- `female`: 0.4% (2020 est.)
 
-**Children under the age of 5 years underweight**<br>
-7% (2014)<br>
+### Children under the age of 5 years underweight
+7% (2014)
 
-**Currently married women (ages 15-49)**<br>
-71.1% (2023 est.)<br>
+### Currently married women (ages 15-49)
+71.1% (2023 est.)
 
-**Education expenditures**<br>
-2.5% of GDP (2020 est.)<br>
+### Education expenditures
+2.5% of GDP (2020 est.)
 
-**Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 73.1%<br>
-_male_: 78.8%<br>
-_female_: 67.4% (2021)<br>
+### Literacy
+- `definition`: age 15 and over can read and write
+- `total population`: 73.1%
+- `male`: 78.8%
+- `female`: 67.4% (2021)
 
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 14 years<br>
-_male_: 14 years<br>
-_female_: 14 years (2018)<br>
+### School life expectancy (primary to tertiary education)
+- `total`: 14 years
+- `male`: 14 years
+- `female`: 14 years (2018)
 
 ## Environment
 
-**Environment - current issues**<br>
-agricultural land being lost to urbanization and windblown sands; increasing soil salination below Aswan High Dam; desertification; oil pollution threatening coral reefs, beaches, and marine habitats; other water pollution from agricultural pesticides, raw sewage, and industrial effluents; limited natural freshwater resources away from the Nile, which is the only perennial water source; rapid growth in population overstraining the Nile and natural resources<br>
+### Environment - current issues
+agricultural land being lost to urbanization and windblown sands; increasing soil salination below Aswan High Dam; desertification; oil pollution threatening coral reefs, beaches, and marine habitats; other water pollution from agricultural pesticides, raw sewage, and industrial effluents; limited natural freshwater resources away from the Nile, which is the only perennial water source; rapid growth in population overstraining the Nile and natural resources
 
-**Environment - international agreements**<br>
-_party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
-_signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
+### Environment - international agreements
+- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands
+- `signed, but not ratified`: Comprehensive Nuclear Test Ban
 
-**Climate**<br>
-desert; hot, dry summers with moderate winters<br>
+### Climate
+desert; hot, dry summers with moderate winters
 
-**Land use**<br>
-_agricultural land_: 3.6% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 2.8% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.8% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
-_forest_: 0.1% (2018 est.)<br>
-_other_: 96.3% (2018 est.)<br>
+### Land use
+- `agricultural land`: 3.6% (2018 est.)
+- `agricultural land: arable land`: arable land: 2.8% (2018 est.)
+- `agricultural land: permanent crops`: permanent crops: 0.8% (2018 est.)
+- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
+- `forest`: 0.1% (2018 est.)
+- `other`: 96.3% (2018 est.)
 
-**Urbanization**<br>
-_urban population_: 43.1% of total population (2023)<br>
-_rate of urbanization_: 1.9% annual rate of change (2020-25 est.)<br>
+### Urbanization
+- `urban population`: 43.1% of total population (2023)
+- `rate of urbanization`: 1.9% annual rate of change (2020-25 est.)
 
-**Revenue from forest resources**<br>
-0.15% of GDP (2018 est.)<br>
+### Revenue from forest resources
+0.15% of GDP (2018 est.)
 
-**Air pollutants**<br>
-_particulate matter emissions_: 63.16 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 238.56 megatons (2016 est.)<br>
-_methane emissions_: 59.68 megatons (2020 est.)<br>
+### Air pollutants
+- `particulate matter emissions`: 63.16 micrograms per cubic meter (2019 est.)
+- `carbon dioxide emissions`: 238.56 megatons (2016 est.)
+- `methane emissions`: 59.68 megatons (2020 est.)
 
-**Waste and recycling**<br>
-_municipal solid waste generated annually_: 21 million tons (2012 est.)<br>
-_municipal solid waste recycled annually_: 2.625 million tons (2013 est.)<br>
-_percent of municipal solid waste recycled_: 12.5% (2013 est.)<br>
+### Waste and recycling
+- `municipal solid waste generated annually`: 21 million tons (2012 est.)
+- `municipal solid waste recycled annually`: 2.625 million tons (2013 est.)
+- `percent of municipal solid waste recycled`: 12.5% (2013 est.)
 
-**Major lakes (area sq km)**<br>
-_salt water lake(s)_: Lake Manzala - 1,360 sq km<br>note - largest of Nile Delta lakes<br>
+### Major lakes (area sq km)
+- `salt water lake(s)`: Lake Manzala - 1,360 sq kmnote - largest of Nile Delta lakes
 
-**Major rivers (by length in km)**<br>
-An Nīl (Nile) river mouth (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Sudan) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+### Major rivers (by length in km)
+An Nīl (Nile) river mouth (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Sudan) - 6,650 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+### Major watersheds (area sq km)
+Atlantic Ocean drainage: *(Mediterranean Sea)* Nile (3,254,853 sq km)
 
-**Major aquifers**<br>
-Nubian Aquifer System<br>
+### Major aquifers
+Nubian Aquifer System
 
-**Total water withdrawal**<br>
-_municipal_: 10.75 billion cubic meters (2020 est.)<br>
-_industrial_: 5.4 billion cubic meters (2020 est.)<br>
-_agricultural_: 61.35 billion cubic meters (2020 est.)<br>
+### Total water withdrawal
+- `municipal`: 10.75 billion cubic meters (2020 est.)
+- `industrial`: 5.4 billion cubic meters (2020 est.)
+- `agricultural`: 61.35 billion cubic meters (2020 est.)
 
-**Total renewable water resources**<br>
-57.5 billion cubic meters (2020 est.)<br>
+### Total renewable water resources
+57.5 billion cubic meters (2020 est.)
 
 ## Government
 
-**Country name**<br>
-_conventional long form_: Arab Republic of Egypt<br>
-_conventional short form_: Egypt<br>
-_local long form_: Jumhuriyat Misr al-Arabiyah<br>
-_local short form_: Misr<br>
-_former_: United Arab Republic (short-lived unification with Syria)<br>
-_etymology_: the English name "Egypt" derives from the ancient Greek name for the country "Aigyptos"; the Arabic name "Misr" can be traced to the ancient Akkadian "misru" meaning border or frontier<br>
+### Country name
+- `conventional long form`: Arab Republic of Egypt
+- `conventional short form`: Egypt
+- `local long form`: Jumhuriyat Misr al-Arabiyah
+- `local short form`: Misr
+- `former`: United Arab Republic (short-lived unification with Syria)
+- `etymology`: the English name "Egypt" derives from the ancient Greek name for the country "Aigyptos"; the Arabic name "Misr" can be traced to the ancient Akkadian "misru" meaning border or frontier
 
-**Government type**<br>
-presidential republic<br>
+### Government type
+presidential republic
 
-**Capital**<br>
-_name_: Cairo<br>
-_geographic coordinates_: 30 03 N, 31 15 E<br>
-_time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-_daylight saving time_: +1hr, begins last Friday in April; ends last Thursday in October<br>
-_etymology_: from the Arabic "al-Qahira," meaning "the victorious"<br>
+### Capital
+- `name`: Cairo
+- `geographic coordinates`: 30 03 N, 31 15 E
+- `time difference`: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
+- `daylight saving time`: +1hr, begins last Friday in April; ends last Thursday in October
+- `etymology`: from the Arabic "al-Qahira," meaning "the victorious"
 
-**Administrative divisions**<br>
-27 governorates (muhafazat, singular - muhafazat); Ad Daqahliyah, Al Bahr al Ahmar (Red Sea), Al Buhayrah, Al Fayyum, Al Gharbiyah, Al Iskandariyah (Alexandria), Al Isma'iliyah (Ismailia), Al Jizah (Giza), Al Minufiyah, Al Minya, Al Qahirah (Cairo), Al Qalyubiyah, Al Uqsur (Luxor), Al Wadi al Jadid (New Valley), As Suways (Suez), Ash Sharqiyah, Aswan, Asyut, Bani Suwayf, Bur Sa'id (Port Said), Dumyat (Damietta), Janub Sina' (South Sinai), Kafr ash Shaykh, Matruh, Qina, Shamal Sina' (North Sinai), Suhaj<br>
+### Administrative divisions
+27 governorates (muhafazat, singular - muhafazat); Ad Daqahliyah, Al Bahr al Ahmar (Red Sea), Al Buhayrah, Al Fayyum, Al Gharbiyah, Al Iskandariyah (Alexandria), Al Isma'iliyah (Ismailia), Al Jizah (Giza), Al Minufiyah, Al Minya, Al Qahirah (Cairo), Al Qalyubiyah, Al Uqsur (Luxor), Al Wadi al Jadid (New Valley), As Suways (Suez), Ash Sharqiyah, Aswan, Asyut, Bani Suwayf, Bur Sa'id (Port Said), Dumyat (Damietta), Janub Sina' (South Sinai), Kafr ash Shaykh, Matruh, Qina, Shamal Sina' (North Sinai), Suhaj
 
-**Independence**<br>
-28 February 1922 (from UK protectorate status; the military-led revolution that began on 23 July 1952 led to a republic being declared on 18 June 1953 and all British troops withdrawn on 18 June 1956); note - it was ca. 3200 B.C. that the Two Lands of Upper (southern) and Lower (northern) Egypt were first united politically<br>
+### Independence
+28 February 1922 (from UK protectorate status; the military-led revolution that began on 23 July 1952 led to a republic being declared on 18 June 1953 and all British troops withdrawn on 18 June 1956); note - it was ca. 3200 B.C. that the Two Lands of Upper (southern) and Lower (northern) Egypt were first united politically
 
-**National holiday**<br>
-Revolution Day, 23 July (1952)<br>
+### National holiday
+Revolution Day, 23 July (1952)
 
-**Legal system**<br>
-mixed legal system based on Napoleonic civil and penal law, Islamic religious law, and vestiges of colonial-era laws; judicial review of the constitutionality of laws by the Supreme Constitutional Court<br>
+### Legal system
+mixed legal system based on Napoleonic civil and penal law, Islamic religious law, and vestiges of colonial-era laws; judicial review of the constitutionality of laws by the Supreme Constitutional Court
 
-**Constitution**<br>
-_history_: several previous; latest approved by a constitutional committee in December 2013, approved by referendum held on 14-15 January 2014, ratified by interim president on 19 January 2014<br>
-_amendments_: proposed by the president of the republic or by one fifth of the House of Representatives members; a decision to accept the proposal requires majority vote by House members; passage of amendment requires a two-thirds majority vote by House members and passage by majority vote in a referendum; articles of reelection of the president and principles of freedom are not amendable unless the amendment "brings more guarantees;" amended 2019<br>
+### Constitution
+- `history`: several previous; latest approved by a constitutional committee in December 2013, approved by referendum held on 14-15 January 2014, ratified by interim president on 19 January 2014
+- `amendments`: proposed by the president of the republic or by one fifth of the House of Representatives members; a decision to accept the proposal requires majority vote by House members; passage of amendment requires a two-thirds majority vote by House members and passage by majority vote in a referendum; articles of reelection of the president and principles of freedom are not amendable unless the amendment "brings more guarantees;" amended 2019
 
-**International law organization participation**<br>
-accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt<br>
+### International law organization participation
+accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt
 
-**Citizenship**<br>
-_citizenship by birth_: no<br>
-_citizenship by descent only_: if the father was born in Egypt<br>
-_dual citizenship recognized_: only with prior permission from the government<br>
-_residency requirement for naturalization_: 10 years<br>
+### Citizenship
+- `citizenship by birth`: no
+- `citizenship by descent only`: if the father was born in Egypt
+- `dual citizenship recognized`: only with prior permission from the government
+- `residency requirement for naturalization`: 10 years
 
-**Suffrage**<br>
-18 years of age; universal and compulsory<br>
+### Suffrage
+18 years of age; universal and compulsory
 
-**Executive branch**<br>
-_chief of state_: President Abdel Fattah EL-SISI (since 8 June 2014)<br>
-_head of government_: Prime Minister Mostafa MADBOULY (since 7 June 2018)<br>
-_cabinet_: Cabinet ministers nominated by the executive branch and approved by the House of Representatives<br>
-_elections/appointments_: president elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for 3 consecutive terms); election last held on 10 to 12 December 2023; next to held in 2029); prime minister appointed by the president, approved by the House of Representatives<br>
-_election results_: <em><br>2023:</em> Abdel Fattah EL-SISI reelected president in first round; percent of valid votes cast - Abdel Fattah EL-SISI (independent) 89.6%, Hazam OMAR (Republican People’s Party) 4.5%, Farid ZAHRAN (Egyptian Social Democratic Party 4%, Abdel-Samad YAMAMA 1.9%<br><br><em>2018:</em> Abdelfattah ELSISI reelected president in first round; percent of valid votes cast - Abdelfattah ELSISI (independent) 97.1%, Moussa Mostafa MOUSSA (El Ghad Party) 2.9%; note - more than 7% of ballots cast were deemed invalid<br>
+### Executive branch
+- `chief of state`: President Abdel Fattah EL-SISI (since 8 June 2014)
+- `head of government`: Prime Minister Mostafa MADBOULY (since 7 June 2018)
+- `cabinet`: Cabinet ministers nominated by the executive branch and approved by the House of Representatives
+- `elections/appointments`: president elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for 3 consecutive terms); election last held on 10 to 12 December 2023; next to held in 2029); prime minister appointed by the president, approved by the House of Representatives
+- `election results`: *2023:* Abdel Fattah EL-SISI reelected president in first round; percent of valid votes cast - Abdel Fattah EL-SISI (independent) 89.6%, Hazam OMAR (Republican People’s Party) 4.5%, Farid ZAHRAN (Egyptian Social Democratic Party 4%, Abdel-Samad YAMAMA 1.9%  *2018:* Abdelfattah ELSISI reelected president in first round; percent of valid votes cast - Abdelfattah ELSISI (independent) 97.1%, Moussa Mostafa MOUSSA (El Ghad Party) 2.9%; note - more than 7% of ballots cast were deemed invalid
 
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate or Majlis Al-Shiyoukh (300 seats; 100 members directly elected in single seat constituencies, 100 directly elected by closed party-list vote, and 100 appointed by the president; note - the upper house, previously the Shura Council, was eliminated in the 2014 constitution, reestablished as the Senate, following passage in a 2019 constitutional referendum and approved by the House of Representatives in June 2020 <br>House of Representatives or Majlis Al-Nowaab (596 seats; 448 members directly elected by individual candidacy system, 120 members - with quotas for women, youth, Christians and workers - elected in party-list constituencies by simple majority popular vote, and 28 members appointed by the president; members of both houses serve 5-year terms<br>
-_elections_: Senate - first round held on 11-12 August 2020 (9-10 August for diaspora); second round held on 8-9 September (6-7 September for diaspora) (next to be held in 2025)<br>House of Representatives - last held 24-25 October and 7-8 November 2020) (next to be held in 2025)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - Nation's Future Party 100, independent 100; composition - men 258, women 41, percent of women 13.7%  <br><br>House of Representatives - percent of vote by party - NA; seats by party - Nation's Future Party 316, Republican People's Party 50, New Wafd Party 26, Homeland Defenders Party 23, Modern Egypt Party 11, Reform and Development Party 9, Al-Nour Party 7, Egyptian Conference Party 7, Egyptian Freedom Party 7, Egyptian Social Democratic Party 7, Tagammu 6, Justice Party 2, Etradet Geel Party 1, independent 124; composition - men 428, women 164, percent of women 27.5%; total Parliament percent of women 23%<br>
+### Legislative branch
+- `description`: bicameral Parliament consists of:Senate or Majlis Al-Shiyoukh (300 seats; 100 members directly elected in single seat constituencies, 100 directly elected by closed party-list vote, and 100 appointed by the president; note - the upper house, previously the Shura Council, was eliminated in the 2014 constitution, reestablished as the Senate, following passage in a 2019 constitutional referendum and approved by the House of Representatives in June 2020 House of Representatives or Majlis Al-Nowaab (596 seats; 448 members directly elected by individual candidacy system, 120 members - with quotas for women, youth, Christians and workers - elected in party-list constituencies by simple majority popular vote, and 28 members appointed by the president; members of both houses serve 5-year terms
+- `elections`: Senate - first round held on 11-12 August 2020 (9-10 August for diaspora); second round held on 8-9 September (6-7 September for diaspora) (next to be held in 2025)House of Representatives - last held 24-25 October and 7-8 November 2020) (next to be held in 2025)
+- `election results`: Senate - percent of vote by party - NA; seats by party - Nation's Future Party 100, independent 100; composition - men 258, women 41, percent of women 13.7%    House of Representatives - percent of vote by party - NA; seats by party - Nation's Future Party 316, Republican People's Party 50, New Wafd Party 26, Homeland Defenders Party 23, Modern Egypt Party 11, Reform and Development Party 9, Al-Nour Party 7, Egyptian Conference Party 7, Egyptian Freedom Party 7, Egyptian Social Democratic Party 7, Tagammu 6, Justice Party 2, Etradet Geel Party 1, independent 124; composition - men 428, women 164, percent of women 27.5%; total Parliament percent of women 23%
 
-**Judicial branch**<br>
-_highest court(s)_: Supreme Constitutional Court (SCC) (consists of the court president and 10 justices); the SCC serves as the final court of arbitration on the constitutionality of laws and conflicts between lower courts regarding jurisdiction and rulings; Court of Cassation (CC) (consists of the court president and 550 judges organized in circuits with cases heard by panels of 5 judges); the CC is the highest appeals body for civil and criminal cases, also known as "ordinary justices"; Supreme Administrative Court (SAC) (consists of the court president and NA judges and organized in circuits with cases heard by panels of 5 judges); the SAC is the highest court of the State Council<br>
-_judge selection and term of office_: under the 2014 constitution, all judges and justices selected and appointed by the Supreme Judiciary Council and approved as a formality by the president of the Republic; judges appointed for life; under the 2019 amendments, the president has the power to appoint heads of judiciary authorities and courts, the prosecutor general, and the head of the Supreme Constitutional Court<br>
-_subordinate courts_: Courts of Appeal; Courts of First Instance; courts of limited jurisdiction; Family Court (established in 2004)<br>
+### Judicial branch
+- `highest court(s)`: Supreme Constitutional Court (SCC) (consists of the court president and 10 justices); the SCC serves as the final court of arbitration on the constitutionality of laws and conflicts between lower courts regarding jurisdiction and rulings; Court of Cassation (CC) (consists of the court president and 550 judges organized in circuits with cases heard by panels of 5 judges); the CC is the highest appeals body for civil and criminal cases, also known as "ordinary justices"; Supreme Administrative Court (SAC) (consists of the court president and NA judges and organized in circuits with cases heard by panels of 5 judges); the SAC is the highest court of the State Council
+- `judge selection and term of office`: under the 2014 constitution, all judges and justices selected and appointed by the Supreme Judiciary Council and approved as a formality by the president of the Republic; judges appointed for life; under the 2019 amendments, the president has the power to appoint heads of judiciary authorities and courts, the prosecutor general, and the head of the Supreme Constitutional Court
+- `subordinate courts`: Courts of Appeal; Courts of First Instance; courts of limited jurisdiction; Family Court (established in 2004)
 
-**Political parties**<br>
-Al-Nour<br>Arab Democratic Nasserist Party<br>Congress Party<br>Conservative Party<br>Democratic Peace Party<br>Egyptian National Movement Party<br>Egyptian Social Democratic Party<br>El Ghad Party<br>El Serh El Masry el Hor<br>Eradet Geel Party<br>Free Egyptians Party<br>Freedom Party<br>Justice Party<br>Homeland’s Protector Party<br>Modern Egypt Party<br>My Homeland Egypt Party<br>Nation's Future Party (Mostaqbal Watan)<br>National Progressive Unionist (Tagammu) Party<br>Reform and Development Party<br>Republican People’s Party<br>Revolutionary Guards Party<br>Wafd Party<br>
+### Political parties
+Al-NourArab Democratic Nasserist PartyCongress PartyConservative PartyDemocratic Peace PartyEgyptian National Movement PartyEgyptian Social Democratic PartyEl Ghad PartyEl Serh El Masry el HorEradet Geel PartyFree Egyptians PartyFreedom PartyJustice PartyHomeland’s Protector PartyModern Egypt PartyMy Homeland Egypt PartyNation's Future Party (Mostaqbal Watan)National Progressive Unionist (Tagammu) PartyReform and Development PartyRepublican People’s PartyRevolutionary Guards PartyWafd Party
 
-**International organization participation**<br>
-ABEDA, AfDB, AFESD, AMF, AU, BRICS, BSEC (observer), CAEU, CD, CICA, COMESA, D-8, EBRD, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, LCBC (observer), MIGA, MINURSO, MONUSCO, NAM, OAPEC, OAS (observer), OIC, OIF, OSCE (partner), PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMISS, UNOCI, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+### International organization participation
+ABEDA, AfDB, AFESD, AMF, AU, BRICS, BSEC (observer), CAEU, CD, CICA, COMESA, D-8, EBRD, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, LCBC (observer), MIGA, MINURSO, MONUSCO, NAM, OAPEC, OAS (observer), OIC, OIF, OSCE (partner), PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMISS, UNOCI, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
-**Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Motaz Mounir ZAHRAN (since 17 September 2020)<br>
-_chancery_: 3521 International Court NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 895-5400<br>
-_FAX_: (202) 244-4319<br>
-_email address and website_: <br>embassy@egyptembassy.net<br><br>https://www.egyptembassy.net/<br>
-_consulate(s) general_: Chicago, Houston, Los Angeles, New York<br>
+### Diplomatic representation in the US
+- `chief of mission`: Ambassador Motaz Mounir ZAHRAN (since 17 September 2020)
+- `chancery`: 3521 International Court NW, Washington, DC 20008
+- `telephone`: [1] (202) 895-5400
+- `FAX`: (202) 244-4319
+- `email address and website`: embassy@egyptembassy.net  https://www.egyptembassy.net/
+- `consulate(s) general`: Chicago, Houston, Los Angeles, New York
 
-**Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Herro MUSTAFA GARG (since 15 November 2023)<br>
-_embassy_: 5 Tawfik Diab St., Garden City, Cairo<br>
-_mailing address_: 7700 Cairo Place, Washington DC 20512-7700<br>
-_telephone_: [20-2] 2797-3300<br>
-_FAX_: [20-2] 2797-3200<br>
-_email address and website_: <br>ConsularCairoACS@state.gov<br><br>https://eg.usembassy.gov/<br>
-_consulate(s) general_: Alexandria<br>
+### Diplomatic representation from the US
+- `chief of mission`: Ambassador Herro MUSTAFA GARG (since 15 November 2023)
+- `embassy`: 5 Tawfik Diab St., Garden City, Cairo
+- `mailing address`: 7700 Cairo Place, Washington DC 20512-7700
+- `telephone`: [20-2] 2797-3300
+- `FAX`: [20-2] 2797-3200
+- `email address and website`: ConsularCairoACS@state.gov  https://eg.usembassy.gov/
+- `consulate(s) general`: Alexandria
 
-**Flag description**<br>
-three equal horizontal bands of red (top), white, and black; the national emblem (a gold Eagle of Saladin facing the hoist side with a shield superimposed on its chest above a scroll bearing the name of the country in Arabic) centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white)<br>
-<strong>note:</strong> similar to the flag of Syria, which has two green stars in the white band; Iraq, which has an Arabic inscription centered in the white band; and Yemen, which has a plain white band<br>
+### Flag description
+three equal horizontal bands of red (top), white, and black; the national emblem (a gold Eagle of Saladin facing the hoist side with a shield superimposed on its chest above a scroll bearing the name of the country in Arabic) centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white)
+**note**:  similar to the flag of Syria, which has two green stars in the white band; Iraq, which has an Arabic inscription centered in the white band; and Yemen, which has a plain white band
 
-**National symbol(s)**<br>
-golden eagle, white lotus; national colors: red, white, black<br>
+### National symbol(s)
+golden eagle, white lotus; national colors: red, white, black
 
-**National anthem**<br>
-_name_: "Bilady, Bilady, Bilady" (My Homeland, My Homeland, My Homeland)<br>
-_lyrics/music_: Younis-al QADI/Sayed DARWISH<br>
-<strong>note:</strong> adopted 1979; the current anthem, less militaristic than the previous one, was created after the signing of the 1979 peace treaty with Israel; Sayed DARWISH, commonly considered the father of modern Egyptian music, composed the anthem<br>
+### National anthem
+- `name`: "Bilady, Bilady, Bilady" (My Homeland, My Homeland, My Homeland)
+- `lyrics/music`: Younis-al QADI/Sayed DARWISH
+**note**:  adopted 1979; the current anthem, less militaristic than the previous one, was created after the signing of the 1979 peace treaty with Israel; Sayed DARWISH, commonly considered the father of modern Egyptian music, composed the anthem
 
-**National heritage**<br>
-_total World Heritage Sites_: 7 (6 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Memphis and its Necropolis (c); Ancient Thebes with its Necropolis (c); Nubian Monuments (c); Saint Catherine Area (c); Abu Mena (c); Historic Cairo (c); Wadi Al-Hitan (Whale Valley) (n)<br>
+### National heritage
+- `total World Heritage Sites`: 7 (6 cultural, 1 natural)
+- `selected World Heritage Site locales`: Memphis and its Necropolis (c); Ancient Thebes with its Necropolis (c); Nubian Monuments (c); Saint Catherine Area (c); Abu Mena (c); Historic Cairo (c); Wadi Al-Hitan (Whale Valley) (n)
 
 ## Economy
 
-**Economic overview**<br>
-Africa&rsquo;s second-largest economy; 2030 Vision to diversify markets and energy infrastructure; improving fiscal, external, and current accounts; underperforming private sector; poor labor force participation; expanded credit access<br>
+### Economic overview
+Africa’s second-largest economy; 2030 Vision to diversify markets and energy infrastructure; improving fiscal, external, and current accounts; underperforming private sector; poor labor force participation; expanded credit access
 
-**Real GDP (purchasing power parity)**<br>
-$1.912 trillion (2023 est.)<br>
-$1.842 trillion (2022 est.)<br>
-$1.729 trillion (2021 est.)<br>
-<b>note:</b> data in 2021 dollars<br>
+### Real GDP (purchasing power parity)
+$1.912 trillion (2023 est.)
+$1.842 trillion (2022 est.)
+$1.729 trillion (2021 est.)
+**note**: data in 2021 dollars
 
-**Real GDP growth rate**<br>
-3.76% (2023 est.)<br>
-6.59% (2022 est.)<br>
-3.29% (2021 est.)<br>
-<b>note:</b> annual GDP % growth based on constant local currency<br>
+### Real GDP growth rate
+3.76% (2023 est.)
+6.59% (2022 est.)
+3.29% (2021 est.)
+**note**: annual GDP % growth based on constant local currency
 
-**Real GDP per capita**<br>
-$17,000 (2023 est.)<br>
-$16,600 (2022 est.)<br>
-$15,800 (2021 est.)<br>
-<b>note:</b> data in 2021 dollars<br>
+### Real GDP per capita
+$17,000 (2023 est.)
+$16,600 (2022 est.)
+$15,800 (2021 est.)
+**note**: data in 2021 dollars
 
-**GDP (official exchange rate)**<br>
-$395.926 billion (2023 est.)<br>
-<b>note:</b> data in current dollars at official exchange rate<br>
+### GDP (official exchange rate)
+$395.926 billion (2023 est.)
+**note**: data in current dollars at official exchange rate
 
-**Inflation rate (consumer prices)**<br>
-33.88% (2023 est.)<br>
-13.9% (2022 est.)<br>
-5.21% (2021 est.)<br>
-<b>note:</b> annual % change based on consumer prices<br>
+### Inflation rate (consumer prices)
+33.88% (2023 est.)
+13.9% (2022 est.)
+5.21% (2021 est.)
+**note**: annual % change based on consumer prices
 
-**Credit ratings**<br>
-_Fitch rating_: B+ (2019)<br>
-_Moody's rating_: B2 (2019)<br>
-_Standard & Poors rating_: B (2018)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
+### Credit ratings
+- `Fitch rating`: B+ (2019)
+- `Moody's rating`: B2 (2019)
+- `Standard & Poors rating`: B (2018)
+**note**: The year refers to the year in which the current credit rating was first obtained.
 
-**GDP - composition, by sector of origin**<br>
-_agriculture_: 10.6% (2023 est.)<br>
-_industry_: 32.7% (2023 est.)<br>
-_services_: 51.6% (2023 est.)<br>
-<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
+### GDP - composition, by sector of origin
+- `agriculture`: 10.6% (2023 est.)
+- `industry`: 32.7% (2023 est.)
+- `services`: 51.6% (2023 est.)
+**note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
-**GDP - composition, by end use**<br>
-_household consumption_: 82.6% (2023 est.)<br>
-_government consumption_: 6.8% (2023 est.)<br>
-_investment in fixed capital_: 15.2% (2022 est.)<br>
-_investment in inventories_: -2.3% (2023 est.)<br>
-_exports of goods and services_: 19.1% (2023 est.)<br>
-_imports of goods and services_: -21.3% (2023 est.)<br>
-<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
+### GDP - composition, by end use
+- `household consumption`: 82.6% (2023 est.)
+- `government consumption`: 6.8% (2023 est.)
+- `investment in fixed capital`: 15.2% (2022 est.)
+- `investment in inventories`: -2.3% (2023 est.)
+- `exports of goods and services`: 19.1% (2023 est.)
+- `imports of goods and services`: -21.3% (2023 est.)
+**note**: figures may not total 100% due to rounding or gaps in data collection
 
-**Agricultural products**<br>
-sugarcane, sugar beets, wheat, maize, tomatoes, potatoes, rice, milk, onions, oranges (2022)<br>
-<b>note:</b> top ten agricultural products based on tonnage<br>
+### Agricultural products
+sugarcane, sugar beets, wheat, maize, tomatoes, potatoes, rice, milk, onions, oranges (2022)
+**note**: top ten agricultural products based on tonnage
 
-**Industries**<br>
-textiles, food processing, tourism, chemicals, pharmaceuticals, hydrocarbons, construction, cement, metals, light manufactures<br>
+### Industries
+textiles, food processing, tourism, chemicals, pharmaceuticals, hydrocarbons, construction, cement, metals, light manufactures
 
-**Industrial production growth rate**<br>
--0.57% (2023 est.)<br>
-<b>note:</b> annual % change in industrial value added based on constant local currency<br>
+### Industrial production growth rate
+-0.57% (2023 est.)
+**note**: annual % change in industrial value added based on constant local currency
 
-**Labor force**<br>
-33.431 million (2023 est.)<br>
-<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
+### Labor force
+33.431 million (2023 est.)
+**note**: number of people ages 15 or older who are employed or seeking work
 
-**Unemployment rate**<br>
-7.31% (2023 est.)<br>
-7.34% (2022 est.)<br>
-7.44% (2021 est.)<br>
-<b>note:</b> % of labor force seeking employment<br>
+### Unemployment rate
+7.31% (2023 est.)
+7.34% (2022 est.)
+7.44% (2021 est.)
+**note**: % of labor force seeking employment
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 19% (2023 est.)<br>
-_male_: 12.6% (2023 est.)<br>
-_female_: 49.2% (2023 est.)<br>
-<b>note:</b> % of labor force ages 15-24 seeking employment<br>
+### Youth unemployment rate (ages 15-24)
+- `total`: 19% (2023 est.)
+- `male`: 12.6% (2023 est.)
+- `female`: 49.2% (2023 est.)
+**note**: % of labor force ages 15-24 seeking employment
 
-**Population below poverty line**<br>
-29.7% (2019 est.)<br>
-<b>note:</b> % of population with income below national poverty line<br>
+### Population below poverty line
+29.7% (2019 est.)
+**note**: % of population with income below national poverty line
 
-**Gini Index coefficient - distribution of family income**<br>
-31.9 (2019 est.)<br>
-<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
+### Gini Index coefficient - distribution of family income
+31.9 (2019 est.)
+**note**: index (0-100) of income distribution; higher values represent greater inequality
 
-**Average household expenditures**<br>
-_on food_: 37.1% of household expenditures (2022 est.)<br>
-_on alcohol and tobacco_: 4.6% of household expenditures (2022 est.)<br>
+### Average household expenditures
+- `on food`: 37.1% of household expenditures (2022 est.)
+- `on alcohol and tobacco`: 4.6% of household expenditures (2022 est.)
 
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.8% (2019 est.)<br>
-_highest 10%_: 27.5% (2019 est.)<br>
-<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
+### Household income or consumption by percentage share
+- `lowest 10%`: 3.8% (2019 est.)
+- `highest 10%`: 27.5% (2019 est.)
+**note**: % share of income accruing to lowest and highest 10% of population
 
-**Remittances**<br>
-6.11% of GDP (2023 est.)<br>
-5.94% of GDP (2022 est.)<br>
-7.41% of GDP (2021 est.)<br>
-<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+### Remittances
+6.11% of GDP (2023 est.)
+5.94% of GDP (2022 est.)
+7.41% of GDP (2021 est.)
+**note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
-**Budget**<br>
-_revenues_: $69.999 billion (2015 est.)<br>
-_expenditures_: $96.057 billion (2015 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+### Budget
+- `revenues`: $69.999 billion (2015 est.)
+- `expenditures`: $96.057 billion (2015 est.)
+**note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
-**Public debt**<br>
-103% of GDP (2017 est.)<br>
-<strong>note:</strong> data cover central government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are sold at public auctions<br>
+### Public debt
+103% of GDP (2017 est.)
+**note**:  data cover central government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are sold at public auctions
 
-**Taxes and other revenues**<br>
-12.52% (of GDP) (2015 est.)<br>
-<b>note:</b> central government tax revenue as a % of GDP<br>
+### Taxes and other revenues
+12.52% (of GDP) (2015 est.)
+**note**: central government tax revenue as a % of GDP
 
-**Current account balance**<br>
--$10.537 billion (2022 est.)<br>
--$18.611 billion (2021 est.)<br>
--$14.236 billion (2020 est.)<br>
-<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
+### Current account balance
+-$10.537 billion (2022 est.)
+-$18.611 billion (2021 est.)
+-$14.236 billion (2020 est.)
+**note**: balance of payments - net trade and primary/secondary income in current dollars
 
-**Exports**<br>
-$76.295 billion (2022 est.)<br>
-$58.339 billion (2021 est.)<br>
-$40.102 billion (2020 est.)<br>
-<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
+### Exports
+$76.295 billion (2022 est.)
+$58.339 billion (2021 est.)
+$40.102 billion (2020 est.)
+**note**: balance of payments - exports of goods and services in current dollars
 
-**Exports - partners**<br>
-Turkey 8%, Italy 6%, US 6%, Spain 6%, India 5% (2022)<br>
-<b>note:</b> top five export partners based on percentage share of exports<br>
+### Exports - partners
+Turkey 8%, Italy 6%, US 6%, Spain 6%, India 5% (2022)
+**note**: top five export partners based on percentage share of exports
 
-**Exports - commodities**<br>
-natural gas, fertilizers, garments, refined petroleum, crude petroleum (2022)<br>
-<b>note:</b> top five export commodities based on value in dollars<br>
+### Exports - commodities
+natural gas, fertilizers, garments, refined petroleum, crude petroleum (2022)
+**note**: top five export commodities based on value in dollars
 
-**Imports**<br>
-$97.144 billion (2022 est.)<br>
-$94.039 billion (2021 est.)<br>
-$72.482 billion (2020 est.)<br>
-<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
+### Imports
+$97.144 billion (2022 est.)
+$94.039 billion (2021 est.)
+$72.482 billion (2020 est.)
+**note**: balance of payments - imports of goods and services in current dollars
 
-**Imports - partners**<br>
-China 17%, US 7%, Saudi Arabia 7%, UAE 6%, Turkey 5% (2022)<br>
-<b>note:</b> top five import partners based on percentage share of imports<br>
+### Imports - partners
+China 17%, US 7%, Saudi Arabia 7%, UAE 6%, Turkey 5% (2022)
+**note**: top five import partners based on percentage share of imports
 
-**Imports - commodities**<br>
-refined petroleum, wheat, crude petroleum, natural gas, plastics (2022)<br>
-<b>note:</b> top five import commodities based on value in dollars<br>
+### Imports - commodities
+refined petroleum, wheat, crude petroleum, natural gas, plastics (2022)
+**note**: top five import commodities based on value in dollars
 
-**Reserves of foreign exchange and gold**<br>
-$33.07 billion (2023 est.)<br>
-$32.144 billion (2022 est.)<br>
-$39.824 billion (2021 est.)<br>
-<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+### Reserves of foreign exchange and gold
+$33.07 billion (2023 est.)
+$32.144 billion (2022 est.)
+$39.824 billion (2021 est.)
+**note**: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars
 
-**Debt - external**<br>
-$97.5 billion (2022 est.)<br>
-<b>note:</b> present value of external debt in current US dollars<br>
+### Debt - external
+$97.5 billion (2022 est.)
+**note**: present value of external debt in current US dollars
 
-**Exchange rates**<br>
-_Currency_: Egyptian pounds (EGP) per US dollar -<br>
-30.626 (2023 est.)<br>
-19.16 (2022 est.)<br>
-15.645 (2021 est.)<br>
-15.759 (2020 est.)<br>
-16.771 (2019 est.)<br>
+### Exchange rates
+- `Currency`: Egyptian pounds (EGP) per US dollar -
+30.626 (2023 est.)
+19.16 (2022 est.)
+15.645 (2021 est.)
+15.759 (2020 est.)
+16.771 (2019 est.)
 
 ## Energy
 
-**Electricity access**<br>
-_electrification - total population_: 100% (2022 est.)<br>
+### Electricity access
+- `electrification - total population`: 100% (2022 est.)
 
-**Electricity**<br>
-_installed generating capacity_: 59.248 million kW (2022 est.)<br>
-_consumption_: 176.719 billion kWh (2022 est.)<br>
-_exports_: 1.61 billion kWh (2022 est.)<br>
-_imports_: 176 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 37.615 billion kWh (2022 est.)<br>
+### Electricity
+- `installed generating capacity`: 59.248 million kW (2022 est.)
+- `consumption`: 176.719 billion kWh (2022 est.)
+- `exports`: 1.61 billion kWh (2022 est.)
+- `imports`: 176 million kWh (2022 est.)
+- `transmission/distribution losses`: 37.615 billion kWh (2022 est.)
 
-**Electricity generation sources**<br>
-_fossil fuels_: 88.5% of total installed capacity (2022 est.)<br>
-_solar_: 2.1% of total installed capacity (2022 est.)<br>
-_wind_: 2.9% of total installed capacity (2022 est.)<br>
-_hydroelectricity_: 6.2% of total installed capacity (2022 est.)<br>
-_biomass and waste_: 0.2% of total installed capacity (2022 est.)<br>
+### Electricity generation sources
+- `fossil fuels`: 88.5% of total installed capacity (2022 est.)
+- `solar`: 2.1% of total installed capacity (2022 est.)
+- `wind`: 2.9% of total installed capacity (2022 est.)
+- `hydroelectricity`: 6.2% of total installed capacity (2022 est.)
+- `biomass and waste`: 0.2% of total installed capacity (2022 est.)
 
-**Nuclear energy**<br>
-_Number of nuclear reactors under construction_: 4 (2023)<br>
+### Nuclear energy
+- `Number of nuclear reactors under construction`: 4 (2023)
 
-**Coal**<br>
-_production_: 289,000 metric tons (2022 est.)<br>
-_consumption_: 3.083 million metric tons (2022 est.)<br>
-_exports_: 92.8 metric tons (2022 est.)<br>
-_imports_: 2.733 million metric tons (2022 est.)<br>
-_proven reserves_: 182 million metric tons (2022 est.)<br>
+### Coal
+- `production`: 289,000 metric tons (2022 est.)
+- `consumption`: 3.083 million metric tons (2022 est.)
+- `exports`: 92.8 metric tons (2022 est.)
+- `imports`: 2.733 million metric tons (2022 est.)
+- `proven reserves`: 182 million metric tons (2022 est.)
 
-**Petroleum**<br>
-_total petroleum production_: 667,000 bbl/day (2023 est.)<br>
-_refined petroleum consumption_: 851,000 bbl/day (2022 est.)<br>
-_crude oil estimated reserves_: 3.3 billion barrels (2021 est.)<br>
+### Petroleum
+- `total petroleum production`: 667,000 bbl/day (2023 est.)
+- `refined petroleum consumption`: 851,000 bbl/day (2022 est.)
+- `crude oil estimated reserves`: 3.3 billion barrels (2021 est.)
 
-**Natural gas**<br>
-_production_: 64.817 billion cubic meters (2022 est.)<br>
-_consumption_: 60.089 billion cubic meters (2022 est.)<br>
-_exports_: 9.28 billion cubic meters (2022 est.)<br>
-_imports_: 6.648 billion cubic meters (2022 est.)<br>
-_proven reserves_: 1.784 trillion cubic meters (2021 est.)<br>
+### Natural gas
+- `production`: 64.817 billion cubic meters (2022 est.)
+- `consumption`: 60.089 billion cubic meters (2022 est.)
+- `exports`: 9.28 billion cubic meters (2022 est.)
+- `imports`: 6.648 billion cubic meters (2022 est.)
+- `proven reserves`: 1.784 trillion cubic meters (2021 est.)
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 240.225 million metric tonnes of CO2 (2022 est.)<br>
-_from coal and metallurgical coke_: 6.77 million metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 115.575 million metric tonnes of CO2 (2022 est.)<br>
-_from consumed natural gas_: 117.879 million metric tonnes of CO2 (2022 est.)<br>
+### Carbon dioxide emissions
+- `total emissions`: 240.225 million metric tonnes of CO2 (2022 est.)
+- `from coal and metallurgical coke`: 6.77 million metric tonnes of CO2 (2022 est.)
+- `from petroleum and other liquids`: 115.575 million metric tonnes of CO2 (2022 est.)
+- `from consumed natural gas`: 117.879 million metric tonnes of CO2 (2022 est.)
 
-**Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 36.463 million Btu/person (2022 est.)<br>
+### Energy consumption per capita
+- `Total energy consumption per capita 2022`: 36.463 million Btu/person (2022 est.)
 
 ## Communications
 
-**Telephones - fixed lines**<br>
-_total subscriptions_: 11.6 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 10 (2022 est.)<br>
+### Telephones - fixed lines
+- `total subscriptions`: 11.6 million (2022 est.)
+- `subscriptions per 100 inhabitants`: 10 (2022 est.)
 
-**Telephones - mobile cellular**<br>
-_total subscriptions_: 103.45 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 93 (2022 est.)<br>
+### Telephones - mobile cellular
+- `total subscriptions`: 103.45 million (2022 est.)
+- `subscriptions per 100 inhabitants`: 93 (2022 est.)
 
-**Telecommunication systems**<br>
-_general assessment_: Egypt&rsquo;s large telecom market is supported by a population of about 109 million and benefits from effective competition in most sectors; a liberal regulatory regime allows for unified licenses which permit operators to offer fixed-line as well as mobile services; in recent years the government has developed a number of digital migration projects aimed at increasing average broadband speeds, delivering fiber broadband to about 60% of the population, developing an in-house satellite program, and creating a knowledge-based economy through the greater adoption of ICTs; the New Administrative Capital being built is only one of more than a dozen smart city projects, which together are stimulating investment in 5G and fiber broadband, as well as the adoption of IoT and AI solutions; the country endeavors to be a significant ICT hub in the North Africa and Middle East regions; Egypt&rsquo;s mature mobile market has one of the highest subscription rates in Africa; progress in the adoption of mobile data services has been hampered by the lack of sufficient spectrum; the regulator in September 2020 made available 60MHz in the 2.6GHz band, though the spectrum was not allocated until late 2021; the additional spectrum will go far to enabling the MNOs to improve the quality of mobile broadband services offered; further 5G trials are to be held later in 2022, focused on the New Administrative Capital; the international cable infrastructure remains an important asset for Egypt, which benefits from its geographical position; Telecom Egypt has become one of the largest concerns in this segment, being a participating member in numerous cable systems; in mid-2021 the telco announced plans to build the Hybrid African Ring Path system, connecting a number of landlocked countries in Africa with Italy, France, and Portugal; the system will partly use the company&rsquo;s existing terrestrial and sub sea cable networks (2022)<br>
-_domestic_: fixed-line roughly 10 per 100, mobile-cellular 95 per 100 (2021)<br>
-_international_: country code - 20; landing points for Aletar, Africa-1, FEA, Hawk, IMEWE,&nbsp;and the SEA-ME-WE-3 &amp; 4&nbsp;submarine cable networks linking to Asia, Africa, the Middle East, and Australia&nbsp;; satellite earth stations - 4 (2 Intelsat - Atlantic Ocean and Indian Ocean, 1 Arabsat, and 1 Inmarsat); tropospheric scatter to Sudan; microwave radio relay to Israel; a participant in Medarabtel (2019)<br>
+### Telecommunication systems
+- `general assessment`: Egypt’s large telecom market is supported by a population of about 109 million and benefits from effective competition in most sectors; a liberal regulatory regime allows for unified licenses which permit operators to offer fixed-line as well as mobile services; in recent years the government has developed a number of digital migration projects aimed at increasing average broadband speeds, delivering fiber broadband to about 60% of the population, developing an in-house satellite program, and creating a knowledge-based economy through the greater adoption of ICTs; the New Administrative Capital being built is only one of more than a dozen smart city projects, which together are stimulating investment in 5G and fiber broadband, as well as the adoption of IoT and AI solutions; the country endeavors to be a significant ICT hub in the North Africa and Middle East regions; Egypt’s mature mobile market has one of the highest subscription rates in Africa; progress in the adoption of mobile data services has been hampered by the lack of sufficient spectrum; the regulator in September 2020 made available 60MHz in the 2.6GHz band, though the spectrum was not allocated until late 2021; the additional spectrum will go far to enabling the MNOs to improve the quality of mobile broadband services offered; further 5G trials are to be held later in 2022, focused on the New Administrative Capital; the international cable infrastructure remains an important asset for Egypt, which benefits from its geographical position; Telecom Egypt has become one of the largest concerns in this segment, being a participating member in numerous cable systems; in mid-2021 the telco announced plans to build the Hybrid African Ring Path system, connecting a number of landlocked countries in Africa with Italy, France, and Portugal; the system will partly use the company’s existing terrestrial and sub sea cable networks (2022)
+- `domestic`: fixed-line roughly 10 per 100, mobile-cellular 95 per 100 (2021)
+- `international`: country code - 20; landing points for Aletar, Africa-1, FEA, Hawk, IMEWE, and the SEA-ME-WE-3 & 4 submarine cable networks linking to Asia, Africa, the Middle East, and Australia ; satellite earth stations - 4 (2 Intelsat - Atlantic Ocean and Indian Ocean, 1 Arabsat, and 1 Inmarsat); tropospheric scatter to Sudan; microwave radio relay to Israel; a participant in Medarabtel (2019)
 
-**Broadcast media**<br>
-mix of state-run and private broadcast media; state-run TV operates 2 national and 6 regional terrestrial networks, as well as a few satellite channels; dozens of private satellite channels and a large number of Arabic satellite channels are available for free; some limited satellite services are also available via subscription; state-run radio operates about 30 stations belonging to 8 networks; privately-owned radio includes 8 major stations, 4 of which belong to 1 network (2019)<br>
+### Broadcast media
+mix of state-run and private broadcast media; state-run TV operates 2 national and 6 regional terrestrial networks, as well as a few satellite channels; dozens of private satellite channels and a large number of Arabic satellite channels are available for free; some limited satellite services are also available via subscription; state-run radio operates about 30 stations belonging to 8 networks; privately-owned radio includes 8 major stations, 4 of which belong to 1 network (2019)
 
-**Internet country code**<br>
-.eg<br>
+### Internet country code
+.eg
 
-**Internet users**<br>
-_total_: 79.2 million (2021 est.)<br>
-_percent of population_: 72% (2021 est.)<br>
+### Internet users
+- `total`: 79.2 million (2021 est.)
+- `percent of population`: 72% (2021 est.)
 
-**Broadband - fixed subscriptions**<br>
-_total_: 9,349,469 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 9 (2020 est.)<br>
+### Broadband - fixed subscriptions
+- `total`: 9,349,469 (2020 est.)
+- `subscriptions per 100 inhabitants`: 9 (2020 est.)
 
-**Communications - note**<br>
-one of the largest and most famous libraries in the ancient world was the Great Library of Alexandria in Egypt (founded about 295 B.C., it may have survived in some form into the 5th century A.D.); seeking to resurrect the great center of learning and communication, the Egyptian Government in 2002 inaugurated the Bibliotheca Alexandrina, an Egyptian National Library on the site of the original Great Library, which commemorates the original archive and also serves as a center of cultural and scientific excellence<br>
+### Communications - note
+one of the largest and most famous libraries in the ancient world was the Great Library of Alexandria in Egypt (founded about 295 B.C., it may have survived in some form into the 5th century A.D.); seeking to resurrect the great center of learning and communication, the Egyptian Government in 2002 inaugurated the Bibliotheca Alexandrina, an Egyptian National Library on the site of the original Great Library, which commemorates the original archive and also serves as a center of cultural and scientific excellence
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 14 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 101<br>
-_annual passenger traffic on registered air carriers_: 12,340,832 (2018)<br>
-_annual freight traffic on registered air carriers_: 437.63 million (2018) mt-km<br>
+### National air transport system
+- `number of registered air carriers`: 14 (2020)
+- `inventory of registered aircraft operated by air carriers`: 101
+- `annual passenger traffic on registered air carriers`: 12,340,832 (2018)
+- `annual freight traffic on registered air carriers`: 437.63 million (2018) mt-km
 
-**Civil aircraft registration country code prefix**<br>
-SU<br>
+### Civil aircraft registration country code prefix
+SU
 
-**Airports**<br>
-73 (2024)<br>
+### Airports
+73 (2024)
 
-**Heliports**<br>
-56 (2024)<br>
+### Heliports
+56 (2024)
 
-**Pipelines**<br>
-486 km condensate, 74 km condensate/gas, 7,986 km gas, 957 km liquid petroleum gas, 5,225 km oil, 37 km oil/gas/water, 895 km refined products, 65 km water (2013)<br>
+### Pipelines
+486 km condensate, 74 km condensate/gas, 7,986 km gas, 957 km liquid petroleum gas, 5,225 km oil, 37 km oil/gas/water, 895 km refined products, 65 km water (2013)
 
-**Railways**<br>
-_total_: 5,085 km (2014)<br>
-_standard gauge_: 5,085 km (2014) 1.435-m gauge (62 km electrified)<br>
+### Railways
+- `total`: 5,085 km (2014)
+- `standard gauge`: 5,085 km (2014) 1.435-m gauge (62 km electrified)
 
-**Roadways**<br>
-_total_: 65,050 km<br>
-_paved_: 48,000 km<br>
-_unpaved_: 17,050 km (2019)<br>
+### Roadways
+- `total`: 65,050 km
+- `paved`: 48,000 km
+- `unpaved`: 17,050 km (2019)
 
-**Waterways**<br>
-3,500 km (2018) (includes the Nile River, Lake Nasser, Alexandria-Cairo Waterway, and numerous smaller canals in Nile Delta; the Suez Canal (193.5 km including approaches) is navigable by oceangoing vessels drawing up to 17.68 m)<br>
+### Waterways
+3,500 km (2018) (includes the Nile River, Lake Nasser, Alexandria-Cairo Waterway, and numerous smaller canals in Nile Delta; the Suez Canal (193.5 km including approaches) is navigable by oceangoing vessels drawing up to 17.68 m)
 
-**Merchant marine**<br>
-_total_: 441 (2023)<br>
-_by type_: bulk carrier 14, container ship 6, general cargo 23, oil tanker 42, other 356<br>
+### Merchant marine
+- `total`: 441 (2023)
+- `by type`: bulk carrier 14, container ship 6, general cargo 23, oil tanker 42, other 356
 
-**Ports**<br>
-_total ports_: 31 (2024)<br>
-_large_: 5<br>
-_medium_: 1<br>
-_small_: 8<br>
-_very small_: 16<br>
-_size unknown_: 1<br>
-_ports with oil terminals_: 17<br>
-_key ports_: Ain Sukhna Terminal, Al Iskandariyh (Alexandria), As Suways, Bur Sa'id, Damietta, Ras Shukhier<br>
+### Ports
+- `total ports`: 31 (2024)
+- `large`: 5
+- `medium`: 1
+- `small`: 8
+- `very small`: 16
+- `size unknown`: 1
+- `ports with oil terminals`: 17
+- `key ports`: Ain Sukhna Terminal, Al Iskandariyh (Alexandria), As Suways, Bur Sa'id, Damietta, Ras Shukhier
 
 ## Military and Security
 
-**Military and security forces**<br>
-Egyptian Armed Forces (EAF): Army (includes Republican Guard), Navy (includes Coast Guard), Air Force, Air Defense Forces, Border Guard Forces; Interior Ministry: Public Security Sector Police, the Central Security Force, National Security Agency (2024)<br>
-<strong>note 1:</strong> the Public Security Sector Police are responsible for law enforcement nationwide; the Central Security Force protects infrastructure and is responsible for crowd control; the National Security Agency is responsible for internal security threats and counterterrorism along with other security services<br><br><strong>note 2:</strong> in addition to its external defense duties, the EAF also has a mandate to assist police in protecting vital infrastructure during a state of emergency; military personnel were granted full arrest authority in 2011 but normally only use this authority during states of emergency and “periods of significant turmoil”<br>
+### Military and security forces
+Egyptian Armed Forces (EAF): Army (includes Republican Guard), Navy (includes Coast Guard), Air Force, Air Defense Forces, Border Guard Forces; Interior Ministry: Public Security Sector Police, the Central Security Force, National Security Agency (2024)
+**note 1**:  the Public Security Sector Police are responsible for law enforcement nationwide; the Central Security Force protects infrastructure and is responsible for crowd control; the National Security Agency is responsible for internal security threats and counterterrorism along with other security services  **note 2**:  in addition to its external defense duties, the EAF also has a mandate to assist police in protecting vital infrastructure during a state of emergency; military personnel were granted full arrest authority in 2011 but normally only use this authority during states of emergency and “periods of significant turmoil”
 
-**Military expenditures**<br>
-1% of GDP (2023 est.)<br>
-1.2% of GDP (2022 est.)<br>
-1.3% of GDP (2021 est.)<br>
-1.3% of GDP (2020 est.)<br>
-1.3% of GDP (2019 est.)<br>
+### Military expenditures
+1% of GDP (2023 est.)
+1.2% of GDP (2022 est.)
+1.3% of GDP (2021 est.)
+1.3% of GDP (2020 est.)
+1.3% of GDP (2019 est.)
 
-**Military and security service personnel strengths**<br>
-information varies; approximately 450,000 active-duty personnel (325,000 Army; 18,000 Navy; 30,000 Air Force; 75,000 Air Defense Command); approximately 300,000 Central Security Forces personnel (2023)<br>
+### Military and security service personnel strengths
+information varies; approximately 450,000 active-duty personnel (325,000 Army; 18,000 Navy; 30,000 Air Force; 75,000 Air Defense Command); approximately 300,000 Central Security Forces personnel (2023)
 
-**Military equipment inventories and acquisitions**<br>
-the EAF's inventory is comprised of a mix of domestically produced, Soviet-era, and more modern, particularly Western, weapons systems; in recent years, the EAF has embarked on an equipment modernization program with significant purchases from foreign suppliers; major suppliers have included China, France, Germany, Italy, Russia, and the US; Egypt has an established defense industry that produces a range of products from small arms to armored vehicles and naval vessels; it also has licensed and co-production agreements with several countries, including Germany and the US (2024)<br>
+### Military equipment inventories and acquisitions
+the EAF's inventory is comprised of a mix of domestically produced, Soviet-era, and more modern, particularly Western, weapons systems; in recent years, the EAF has embarked on an equipment modernization program with significant purchases from foreign suppliers; major suppliers have included China, France, Germany, Italy, Russia, and the US; Egypt has an established defense industry that produces a range of products from small arms to armored vehicles and naval vessels; it also has licensed and co-production agreements with several countries, including Germany and the US (2024)
 
-**Military service age and obligation**<br>
-voluntary enlistment possible from age 16 for men and 17 for women; 18-30 years of age for conscript service for men; service obligation 14-36 months, followed by a 9-year reserve obligation; active service length depends on education; high school drop-outs serve for the full 36 months, while college graduates serve for lesser periods of time, depending on their education level (2023)<br>
-<strong>note:</strong> conscripts make up a considerable portion of the military and the Central Security Force<br>
+### Military service age and obligation
+voluntary enlistment possible from age 16 for men and 17 for women; 18-30 years of age for conscript service for men; service obligation 14-36 months, followed by a 9-year reserve obligation; active service length depends on education; high school drop-outs serve for the full 36 months, while college graduates serve for lesser periods of time, depending on their education level (2023)
+**note**:  conscripts make up a considerable portion of the military and the Central Security Force
 
-**Military deployments**<br>
-1,000 (plus nearly 200 police) Central African Republic (MINUSCA); also has about 350 police deployed to the Democratic Republic of the Congo under MONUSCO (2024)<br>
+### Military deployments
+1,000 (plus nearly 200 police) Central African Republic (MINUSCA); also has about 350 police deployed to the Democratic Republic of the Congo under MONUSCO (2024)
 
-**Military - note**<br>
-the Egyptian Armed Forces (EAF) are responsible for external defense but also have an internal role assisting police and paramilitary security forces during emergencies and in anti-terrorism operations; the EAF also participates in foreign peacekeeping and other security missions, as well as both bilateral and multinational exercises; the military has considerable political power and independence; it has long had a crucial role in Egypt’s politics and has a large stake in the civilian economy, including running banks, businesses, gas stations, shipping lines, and utilities, and producing consumer and industrial goods, importing commodities, and building and managing infrastructure projects, such as bridges, roads, hospitals, and housing<br><br>the EAF is the largest and one of the best equipped militaries in the region; key areas of concern for the EAF include Islamist militant groups operating out of the Sinai Peninsula, regional challenges such as ongoing conflicts and instability, and maritime security; since 2011, the EAF has been conducting operations alongside other security forces in the North Sinai governorate against several militant groups, particularly the Islamic State of Iraq and ash-Sham (ISIS); over the past decade, it has deployed large numbers of troops along Egypt's border with Libya, provided air support to the Saudi-led coalition's intervention in Yemen, and most recently boosted its presence on the border with Gaza in response to the HAMAS-Israel conflict; the Navy in recent years has sought to modernize and expand its capabilities and profile in the Eastern Mediterranean and Red Sea, including the acquisition of helicopter carriers, modern frigates, and attack submarines; in 2020, the EAF inaugurated a large joint service military base on the Red Sea to secure the country’s southern coasts, protect economic investments and natural resources, and confront security challenges in the Red Sea region<br><br>Egypt is a major security partner of the US and one of the largest recipients of US military aid in the region; it also has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the Multinational Force &amp; Observers (MFO) has operated in the Sinai since 1982 as a peacekeeping and monitoring force to supervise the implementation of the security provisions of the 1979 Egyptian-Israeli Treaty of Peace; the MFO is an independent international organization, created by agreement between Egypt and Israel; it is composed of about 1,150 troops from 13 countries; Colombia, Fiji, and the US are the leading providers of troops to the MFO (2024)<br>
+### Military - note
+the Egyptian Armed Forces (EAF) are responsible for external defense but also have an internal role assisting police and paramilitary security forces during emergencies and in anti-terrorism operations; the EAF also participates in foreign peacekeeping and other security missions, as well as both bilateral and multinational exercises; the military has considerable political power and independence; it has long had a crucial role in Egypt’s politics and has a large stake in the civilian economy, including running banks, businesses, gas stations, shipping lines, and utilities, and producing consumer and industrial goods, importing commodities, and building and managing infrastructure projects, such as bridges, roads, hospitals, and housing  the EAF is the largest and one of the best equipped militaries in the region; key areas of concern for the EAF include Islamist militant groups operating out of the Sinai Peninsula, regional challenges such as ongoing conflicts and instability, and maritime security; since 2011, the EAF has been conducting operations alongside other security forces in the North Sinai governorate against several militant groups, particularly the Islamic State of Iraq and ash-Sham (ISIS); over the past decade, it has deployed large numbers of troops along Egypt's border with Libya, provided air support to the Saudi-led coalition's intervention in Yemen, and most recently boosted its presence on the border with Gaza in response to the HAMAS-Israel conflict; the Navy in recent years has sought to modernize and expand its capabilities and profile in the Eastern Mediterranean and Red Sea, including the acquisition of helicopter carriers, modern frigates, and attack submarines; in 2020, the EAF inaugurated a large joint service military base on the Red Sea to secure the country’s southern coasts, protect economic investments and natural resources, and confront security challenges in the Red Sea region  Egypt is a major security partner of the US and one of the largest recipients of US military aid in the region; it also has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation  the Multinational Force & Observers (MFO) has operated in the Sinai since 1982 as a peacekeeping and monitoring force to supervise the implementation of the security provisions of the 1979 Egyptian-Israeli Treaty of Peace; the MFO is an independent international organization, created by agreement between Egypt and Israel; it is composed of about 1,150 troops from 13 countries; Colombia, Fiji, and the US are the leading providers of troops to the MFO (2024)
 
 ## Space
 
-**Space agency/agencies**<br>
-Egyptian Space Agency (EgSA; public economic authority established 2019); National Authority for Remote Sensing and Space Science (NARSS; formed in 1994 from the Remote Sensing Center, which was established in 1971) (2024)<br>
+### Space agency/agencies
+Egyptian Space Agency (EgSA; public economic authority established 2019); National Authority for Remote Sensing and Space Science (NARSS; formed in 1994 from the Remote Sensing Center, which was established in 1971) (2024)
 
-**Space program overview**<br>
-has a growing program with a focus on developing the capabilities to manufacture satellites and associated support infrastructure; seeks to become a regional space power; operates satellites; builds satellites jointly with foreign partners but developing localized satellite manufacturing capabilities; acquiring through technology transfers and domestic development programs other space-related technologies, including those related to communications, Earth imaging/remote sensing (RS), and satellite payloads and components; cooperating on space-related issues with a variety of foreign governments and commercial space companies, including those of Belarus, Canada, China, the European Space Agency and its member states (particularly France, Germany, Italy), Ghana, India, Japan, Kazakhstan, Kenya, Nigeria, Russia, South Africa, Sudan, Uganda, Ukraine, the UAE, and the US; also a member of the Arab Space Coordination Group, established by the UAE in 2019; has a commercial space sector that focuses on satellite communications, satellite design and production, RS, and space applications (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
+### Space program overview
+has a growing program with a focus on developing the capabilities to manufacture satellites and associated support infrastructure; seeks to become a regional space power; operates satellites; builds satellites jointly with foreign partners but developing localized satellite manufacturing capabilities; acquiring through technology transfers and domestic development programs other space-related technologies, including those related to communications, Earth imaging/remote sensing (RS), and satellite payloads and components; cooperating on space-related issues with a variety of foreign governments and commercial space companies, including those of Belarus, Canada, China, the European Space Agency and its member states (particularly France, Germany, Italy), Ghana, India, Japan, Kazakhstan, Kenya, Nigeria, Russia, South Africa, Sudan, Uganda, Ukraine, the UAE, and the US; also a member of the Arab Space Coordination Group, established by the UAE in 2019; has a commercial space sector that focuses on satellite communications, satellite design and production, RS, and space applications (2024)
+**note**:  further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide
 
 ## Terrorism
 
-**Terrorist group(s)**<br>
-Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province (ISIS-SP); al-Qa’ida<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
+### Terrorist group(s)
+Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province (ISIS-SP); al-Qa’ida
+**note**:  details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide
 
 ## Transnational Issues
 
-**Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 70,021 (West Bank and Gaza Strip) (mid-year 2022); 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022); 464,827 (Sudan) (refugees since 15 April 2023), 156,159 (Syria) (2024)<br>
-_stateless persons_: 10 (2022)<br>
+### Refugees and internally displaced persons
+- `refugees (country of origin)`: 70,021 (West Bank and Gaza Strip) (mid-year 2022); 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022); 464,827 (Sudan) (refugees since 15 April 2023), 156,159 (Syria) (2024)
+- `stateless persons`: 10 (2022)
 
-**Illicit drugs**<br>
-<p>major source of precursor chemicals used in the production of illicit narcotics</p><br>
+### Illicit drugs
+major source of precursor chemicals used in the production of illicit narcotics
 

@@ -4,496 +4,496 @@ _Central America and Caribbean / Dependencies (Netherlands)_
 
 ## Introduction
 
-**Background**<br>
-The original Arawak Indian settlers who arrived on Curacao from South America in about A.D. 1000 were largely enslaved by the Spanish early in the 16th century and forcibly relocated to other colonies where labor was needed. The Dutch seized Curacao from the Spanish in 1634. Once the center of the Caribbean slave trade, Curacao was hard hit economically when the Dutch abolished slavery in 1863. Its prosperity (and that of neighboring Aruba) was restored in the early 20th century with the construction of the Isla Refineria to service the newly discovered Venezuelan oilfields. In 1954, Curacao and several other Dutch Caribbean colonies were reorganized as the Netherlands Antilles, part of the Kingdom of the Netherlands. In referenda in 2005 and 2009, the citizens of Curacao voted to become a self-governing country within the Kingdom of the Netherlands. The change in status became effective in 2010 with the dissolution of the Netherlands Antilles.<br>
+### Background
+The original Arawak Indian settlers who arrived on Curacao from South America in about A.D. 1000 were largely enslaved by the Spanish early in the 16th century and forcibly relocated to other colonies where labor was needed. The Dutch seized Curacao from the Spanish in 1634. Once the center of the Caribbean slave trade, Curacao was hard hit economically when the Dutch abolished slavery in 1863. Its prosperity (and that of neighboring Aruba) was restored in the early 20th century with the construction of the Isla Refineria to service the newly discovered Venezuelan oilfields. In 1954, Curacao and several other Dutch Caribbean colonies were reorganized as the Netherlands Antilles, part of the Kingdom of the Netherlands. In referenda in 2005 and 2009, the citizens of Curacao voted to become a self-governing country within the Kingdom of the Netherlands. The change in status became effective in 2010 with the dissolution of the Netherlands Antilles.
 
 ## Geography
 
-**Location**<br>
-Caribbean, an island in the Caribbean Sea, 55 km off the coast of Venezuela<br>
+### Location
+Caribbean, an island in the Caribbean Sea, 55 km off the coast of Venezuela
 
-**Geographic coordinates**<br>
-<p>12 10 N, 69 00 W</p><br>
+### Geographic coordinates
+12 10 N, 69 00 W
 
-**Map references**<br>
-<p>Central America and the Caribbean</p><br>
+### Map references
+Central America and the Caribbean
 
-**Area**<br>
-_total _: 444 sq km<br>
-_land_: 444 sq km<br>
-_water_: 0 sq km<br>
+### Area
+- `total `: 444 sq km
+- `land`: 444 sq km
+- `water`: 0 sq km
 
-**Area - comparative**<br>
-<p>more than twice the size of Washington, DC</p><br>
+### Area - comparative
+more than twice the size of Washington, DC
 
-**Land boundaries**<br>
-0<br>
+### Land boundaries
+0
 
-**Coastline**<br>
-364 km<br>
+### Coastline
+364 km
 
-**Maritime claims**<br>
-_territorial sea_: 12 nm<br>
-_exclusive economic zone_: 200 nm<br>
+### Maritime claims
+- `territorial sea`: 12 nm
+- `exclusive economic zone`: 200 nm
 
-**Climate**<br>
-<p>tropical marine climate, ameliorated by northeast trade winds, results in mild temperatures; semiarid with average rainfall of 60 cm/year</p><br>
+### Climate
+tropical marine climate, ameliorated by northeast trade winds, results in mild temperatures; semiarid with average rainfall of 60 cm/year
 
-**Terrain**<br>
-<p>generally low, hilly terrain</p><br>
+### Terrain
+generally low, hilly terrain
 
-**Elevation**<br>
-_highest point_: Mt. Christoffel 372 m<br>
-_lowest point_: Caribbean Sea 0 m<br>
+### Elevation
+- `highest point`: Mt. Christoffel 372 m
+- `lowest point`: Caribbean Sea 0 m
 
-**Natural resources**<br>
-<p>calcium phosphates, protected harbors, hot springs</p><br>
+### Natural resources
+calcium phosphates, protected harbors, hot springs
 
-**Land use**<br>
-_agricultural land_: 10% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 10% (2018)<br>
-_other_: 90% (2018 est.)<br>
+### Land use
+- `agricultural land`: 10% (2018 est.)
+- `agricultural land: arable land`: arable land: 10% (2018)
+- `other`: 90% (2018 est.)
 
-**Irrigated land**<br>
-NA<br>
+### Irrigated land
+NA
 
-**Population distribution**<br>
-largest concentration on the island is Willemstad; smaller settlements near the coast can be found throughout the island, particularly in the northwest<br>
+### Population distribution
+largest concentration on the island is Willemstad; smaller settlements near the coast can be found throughout the island, particularly in the northwest
 
-**Natural hazards**<br>
-<p>Curacao is south of the Caribbean hurricane belt and is rarely threatened</p><br>
+### Natural hazards
+Curacao is south of the Caribbean hurricane belt and is rarely threatened
 
-**Geography - note**<br>
-<p>Curacao is a part of the Windward Islands (southern) group in the Lesser Antilles</p><br>
+### Geography - note
+Curacao is a part of the Windward Islands (southern) group in the Lesser Antilles
 
 ## People and Society
 
-**Population**<br>
-_total_: 153,289<br>
-_male_: 73,755<br>
-_female_: 79,534 (2024 est.)<br>
+### Population
+- `total`: 153,289
+- `male`: 73,755
+- `female`: 79,534 (2024 est.)
 
-**Nationality**<br>
-_noun_: Curacaoan<br>
-_adjective_: Curacaoan; Dutch<br>
+### Nationality
+- `noun`: Curacaoan
+- `adjective`: Curacaoan; Dutch
 
-**Ethnic groups**<br>
-Curacaoan 75.4%, Dutch 6%, Dominican 3.6%, Colombian 3%, Bonairean, Sint Eustatian, Saban 1.5%, Haitian 1.2%, Surinamese 1.2%, Venezuelan 1.1%, Aruban 1.1%, other 5%, unspecified 0.9% (2011 est.)<br>
+### Ethnic groups
+Curacaoan 75.4%, Dutch 6%, Dominican 3.6%, Colombian 3%, Bonairean, Sint Eustatian, Saban 1.5%, Haitian 1.2%, Surinamese 1.2%, Venezuelan 1.1%, Aruban 1.1%, other 5%, unspecified 0.9% (2011 est.)
 
-**Languages**<br>
-Papiamento (official) (a creole language that is a mixture of Portuguese, Spanish, Dutch, English, and, to a lesser extent, French, as well as elements of African languages and the language of the Arawak) 80%, Dutch (official) 8.8%, Spanish 5.6%, English (official) 3.1%, other 2.3%, unspecified 0.3% (2011 est.)<br>
-<strong>note:</strong> data represent most spoken language in household<br>
+### Languages
+Papiamento (official) (a creole language that is a mixture of Portuguese, Spanish, Dutch, English, and, to a lesser extent, French, as well as elements of African languages and the language of the Arawak) 80%, Dutch (official) 8.8%, Spanish 5.6%, English (official) 3.1%, other 2.3%, unspecified 0.3% (2011 est.)
+**note**:  data represent most spoken language in household
 
-**Religions**<br>
-Roman Catholic 72.8%, Pentecostal 6.6%, Protestant 3.2%, Adventist 3%, Jehovah's Witness 2%, Evangelical 1.9%, other 3.8%, none 6%, unspecified 0.6% (2011 est.)<br>
+### Religions
+Roman Catholic 72.8%, Pentecostal 6.6%, Protestant 3.2%, Adventist 3%, Jehovah's Witness 2%, Evangelical 1.9%, other 3.8%, none 6%, unspecified 0.6% (2011 est.)
 
-**Age structure**<br>
-_0-14 years_: 19.2% (male 15,069/female 14,337)<br>
-_15-64 years_: 62.3% (male 47,258/female 48,217)<br>
-_65 years and over_: 18.5% (2024 est.) (male 11,428/female 16,980)<br>
+### Age structure
+- `0-14 years`: 19.2% (male 15,069/female 14,337)
+- `15-64 years`: 62.3% (male 47,258/female 48,217)
+- `65 years and over`: 18.5% (2024 est.) (male 11,428/female 16,980)
 
-**Dependency ratios**<br>
-_total dependency ratio_: 47<br>
-_youth dependency ratio_: 25.6<br>
-_elderly dependency ratio_: 21.4<br>
-_potential support ratio_: 4.7 (2021 est.)<br>
+### Dependency ratios
+- `total dependency ratio`: 47
+- `youth dependency ratio`: 25.6
+- `elderly dependency ratio`: 21.4
+- `potential support ratio`: 4.7 (2021 est.)
 
-**Median age**<br>
-_total_: 37.8 years (2024 est.)<br>
-_male_: 35.5 years<br>
-_female_: 40.2 years<br>
+### Median age
+- `total`: 37.8 years (2024 est.)
+- `male`: 35.5 years
+- `female`: 40.2 years
 
-**Population growth rate**<br>
-0.28% (2024 est.)<br>
+### Population growth rate
+0.28% (2024 est.)
 
-**Birth rate**<br>
-12.9 births/1,000 population (2024 est.)<br>
+### Birth rate
+12.9 births/1,000 population (2024 est.)
 
-**Death rate**<br>
-8.9 deaths/1,000 population (2024 est.)<br>
+### Death rate
+8.9 deaths/1,000 population (2024 est.)
 
-**Net migration rate**<br>
--1.3 migrant(s)/1,000 population (2024 est.)<br>
+### Net migration rate
+-1.3 migrant(s)/1,000 population (2024 est.)
 
-**Population distribution**<br>
-largest concentration on the island is Willemstad; smaller settlements near the coast can be found throughout the island, particularly in the northwest<br>
+### Population distribution
+largest concentration on the island is Willemstad; smaller settlements near the coast can be found throughout the island, particularly in the northwest
 
-**Urbanization**<br>
-_urban population_: 89% of total population (2023)<br>
-_rate of urbanization_: 0.57% annual rate of change (2020-25 est.)<br>
+### Urbanization
+- `urban population`: 89% of total population (2023)
+- `rate of urbanization`: 0.57% annual rate of change (2020-25 est.)
 
-**Major urban areas - population**<br>
-144,000 WILLEMSTAD (capital) (2018)<br>
+### Major urban areas - population
+144,000 WILLEMSTAD (capital) (2018)
 
-**Sex ratio**<br>
-_at birth_: 1.05 male(s)/female<br>
-_0-14 years_: 1.05 male(s)/female<br>
-_15-64 years_: 0.98 male(s)/female<br>
-_65 years and over_: 0.67 male(s)/female<br>
-_total population_: 0.93 male(s)/female (2024 est.)<br>
+### Sex ratio
+- `at birth`: 1.05 male(s)/female
+- `0-14 years`: 1.05 male(s)/female
+- `15-64 years`: 0.98 male(s)/female
+- `65 years and over`: 0.67 male(s)/female
+- `total population`: 0.93 male(s)/female (2024 est.)
 
-**Infant mortality rate**<br>
-_total_: 7.5 deaths/1,000 live births (2024 est.)<br>
-_male_: 8.3 deaths/1,000 live births<br>
-_female_: 6.7 deaths/1,000 live births<br>
+### Infant mortality rate
+- `total`: 7.5 deaths/1,000 live births (2024 est.)
+- `male`: 8.3 deaths/1,000 live births
+- `female`: 6.7 deaths/1,000 live births
 
-**Life expectancy at birth**<br>
-_total population_: 79.9 years (2024 est.)<br>
-_male_: 77.6 years<br>
-_female_: 82.3 years<br>
+### Life expectancy at birth
+- `total population`: 79.9 years (2024 est.)
+- `male`: 77.6 years
+- `female`: 82.3 years
 
-**Total fertility rate**<br>
-1.96 children born/woman (2024 est.)<br>
+### Total fertility rate
+1.96 children born/woman (2024 est.)
 
-**Gross reproduction rate**<br>
-0.96 (2024 est.)<br>
+### Gross reproduction rate
+0.96 (2024 est.)
 
-**Contraceptive prevalence rate**<br>
-NA<br>
+### Contraceptive prevalence rate
+NA
 
-**Drinking water source**<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: total_: total: 0% of population (2017)<br>
+### Drinking water source
+- `improved: total`: total: 100% of population
+- `unimproved: total`: total: 0% of population (2017)
 
-**Current health expenditure**<br>
-NA<br>
+### Current health expenditure
+NA
 
-**Physician density**<br>
-NA<br>
+### Physician density
+NA
 
-**Sanitation facility access**<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: total_: total: 0% of population (2017)<br>
+### Sanitation facility access
+- `improved: total`: total: 100% of population
+- `unimproved: total`: total: 0% of population (2017)
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
+### Children under the age of 5 years underweight
+NA
 
-**Currently married women (ages 15-49)**<br>
-49.7% (2023 est.)<br>
+### Currently married women (ages 15-49)
+49.7% (2023 est.)
 
-**Education expenditures**<br>
-7.4% of GDP (2020 est.)<br>
+### Education expenditures
+7.4% of GDP (2020 est.)
 
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 17 years<br>
-_male_: 18 years<br>
-_female_: 18 years (2013)<br>
+### School life expectancy (primary to tertiary education)
+- `total`: 17 years
+- `male`: 18 years
+- `female`: 18 years (2013)
 
 ## Environment
 
-**Environment - current issues**<br>
-<p>problems in waste management that threaten environmental sustainability on the island include pollution of marine areas from domestic sewage, inadequate sewage treatment facilities, industrial effluents and agricultural runoff, the mismanagement of toxic substances, and ineffective regulations; the refinery in Sint Anna Bay, at the eastern edge of Willemstad’s large natural harbor, processes heavy crude oil from Venezuela; it has caused significant environmental damage to the surrounding area because of neglect and a lack of strict environmental controls; the release of noxious fumes and potentially hazardous particles causes schools downwind to regularly close</p><br>
+### Environment - current issues
+problems in waste management that threaten environmental sustainability on the island include pollution of marine areas from domestic sewage, inadequate sewage treatment facilities, industrial effluents and agricultural runoff, the mismanagement of toxic substances, and ineffective regulations; the refinery in Sint Anna Bay, at the eastern edge of Willemstad’s large natural harbor, processes heavy crude oil from Venezuela; it has caused significant environmental damage to the surrounding area because of neglect and a lack of strict environmental controls; the release of noxious fumes and potentially hazardous particles causes schools downwind to regularly close
 
-**Climate**<br>
-<p>tropical marine climate, ameliorated by northeast trade winds, results in mild temperatures; semiarid with average rainfall of 60 cm/year</p><br>
+### Climate
+tropical marine climate, ameliorated by northeast trade winds, results in mild temperatures; semiarid with average rainfall of 60 cm/year
 
-**Land use**<br>
-_agricultural land_: 10% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 10% (2018)<br>
-_other_: 90% (2018 est.)<br>
+### Land use
+- `agricultural land`: 10% (2018 est.)
+- `agricultural land: arable land`: arable land: 10% (2018)
+- `other`: 90% (2018 est.)
 
-**Urbanization**<br>
-_urban population_: 89% of total population (2023)<br>
-_rate of urbanization_: 0.57% annual rate of change (2020-25 est.)<br>
+### Urbanization
+- `urban population`: 89% of total population (2023)
+- `rate of urbanization`: 0.57% annual rate of change (2020-25 est.)
 
-**Revenue from forest resources**<br>
-0% of GDP (2018 est.)<br>
+### Revenue from forest resources
+0% of GDP (2018 est.)
 
-**Revenue from coal**<br>
-0% of GDP (2018 est.)<br>
+### Revenue from coal
+0% of GDP (2018 est.)
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 5.39 megatons (2016 est.)<br>
+### Air pollutants
+- `carbon dioxide emissions`: 5.39 megatons (2016 est.)
 
-**Waste and recycling**<br>
-_municipal solid waste generated annually_: 24,704 tons (2013 est.)<br>
-_municipal solid waste recycled annually_: 494 tons (2013 est.)<br>
-_percent of municipal solid waste recycled_: 2% (2013 est.)<br>
+### Waste and recycling
+- `municipal solid waste generated annually`: 24,704 tons (2013 est.)
+- `municipal solid waste recycled annually`: 494 tons (2013 est.)
+- `percent of municipal solid waste recycled`: 2% (2013 est.)
 
-**Total renewable water resources**<br>
-NA<br>
+### Total renewable water resources
+NA
 
 ## Government
 
-**Country name**<br>
-_conventional long form_: Country of Curacao<br>
-_conventional short form_: Curacao<br>
-_local long form_: Land Curacao (Dutch)/ Pais Korsou (Papiamento)<br>
-_local short form_: Curacao (Dutch)/ Korsou (Papiamento)<br>
-_former_: Netherlands Antilles; Curacao and Dependencies<br>
-_etymology_: the most plausible name derivation is that the island was designated Isla de la Curacion (Spanish meaning "Island of the Cure" or "Island of Healing") or Ilha da Curacao (Portuguese meaning the same) to reflect the locale's function as a recovery stop for sick crewmen<br>
+### Country name
+- `conventional long form`: Country of Curacao
+- `conventional short form`: Curacao
+- `local long form`: Land Curacao (Dutch)/ Pais Korsou (Papiamento)
+- `local short form`: Curacao (Dutch)/ Korsou (Papiamento)
+- `former`: Netherlands Antilles; Curacao and Dependencies
+- `etymology`: the most plausible name derivation is that the island was designated Isla de la Curacion (Spanish meaning "Island of the Cure" or "Island of Healing") or Ilha da Curacao (Portuguese meaning the same) to reflect the locale's function as a recovery stop for sick crewmen
 
-**Government type**<br>
-<p>parliamentary democracy</p><br>
+### Government type
+parliamentary democracy
 
-**Dependency status**<br>
-<p>constituent country within the Kingdom of the Netherlands; full autonomy in internal affairs granted in 2010; Dutch Government responsible for defense and foreign affairs</p><br>
+### Dependency status
+constituent country within the Kingdom of the Netherlands; full autonomy in internal affairs granted in 2010; Dutch Government responsible for defense and foreign affairs
 
-**Capital**<br>
-_name_: Willemstad<br>
-_geographic coordinates_: 12 06 N, 68 55 W<br>
-_time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named after Prince WILLIAM II of Orange (1626-1650), who served as stadtholder (Dutch head of state) from 1647 to 1650, shortly after the the Dutch captured Curacao from the Spanish in 1634<br>
+### Capital
+- `name`: Willemstad
+- `geographic coordinates`: 12 06 N, 68 55 W
+- `time difference`: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+- `etymology`: named after Prince WILLIAM II of Orange (1626-1650), who served as stadtholder (Dutch head of state) from 1647 to 1650, shortly after the the Dutch captured Curacao from the Spanish in 1634
 
-**Administrative divisions**<br>
-<p>none (part of the Kingdom of the Netherlands)</p><br>
-<strong>note:</strong> Curacao is one of four constituent countries of the Kingdom of the Netherlands; the other three are the Netherlands, Aruba, and Sint Maarten<br>
+### Administrative divisions
+none (part of the Kingdom of the Netherlands)
+**note**:  Curacao is one of four constituent countries of the Kingdom of the Netherlands; the other three are the Netherlands, Aruba, and Sint Maarten
 
-**Independence**<br>
-<p>none (part of the Kingdom of the Netherlands)</p><br>
+### Independence
+none (part of the Kingdom of the Netherlands)
 
-**National holiday**<br>
-<p>King's Day (birthday of King WILLEM-ALEXANDER), 27 April (1967); note - King's or Queen's Day are observed on the ruling monarch's birthday; celebrated on 26 April if 27 April is a Sunday</p><br>
+### National holiday
+King's Day (birthday of King WILLEM-ALEXANDER), 27 April (1967); note - King's or Queen's Day are observed on the ruling monarch's birthday; celebrated on 26 April if 27 April is a Sunday
 
-**Legal system**<br>
-<p>based on Dutch civil law</p><br>
+### Legal system
+based on Dutch civil law
 
-**Constitution**<br>
-_history_: previous 1947, 1955; latest adopted 5 September 2010, entered into force 10 October 2010 (regulates governance of Curacao but is subordinate to the Charter for the Kingdom of the Netherlands); note - in October 2010, with the dissolution of the Netherlands Antilles, Curacao became a semi-autonomous entity within the Kingdom of the Netherlands<br>
+### Constitution
+- `history`: previous 1947, 1955; latest adopted 5 September 2010, entered into force 10 October 2010 (regulates governance of Curacao but is subordinate to the Charter for the Kingdom of the Netherlands); note - in October 2010, with the dissolution of the Netherlands Antilles, Curacao became a semi-autonomous entity within the Kingdom of the Netherlands
 
-**Citizenship**<br>
-see the Netherlands<br>
+### Citizenship
+see the Netherlands
 
-**Suffrage**<br>
-<p>18 years of age; universal</p><br>
+### Suffrage
+18 years of age; universal
 
-**Executive branch**<br>
-_chief of state_: King WILLEM-ALEXANDER of the Netherlands (since 30 April 2013); represented by Governor Lucille A. GEORGE-WOUT (since 4 November 2013)<br>
-_head of government_: Prime Minister Gilmar PISAS (since 14 June 2021)<br>
-_cabinet_: Cabinet sworn-in by the governor<br>
-_elections/appointments_: the monarch is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party usually elected prime minister by the Parliament of Curacao; election last&nbsp;held on 19 March 2021 (next to be held in 2025)<br>
+### Executive branch
+- `chief of state`: King WILLEM-ALEXANDER of the Netherlands (since 30 April 2013); represented by Governor Lucille A. GEORGE-WOUT (since 4 November 2013)
+- `head of government`: Prime Minister Gilmar PISAS (since 14 June 2021)
+- `cabinet`: Cabinet sworn-in by the governor
+- `elections/appointments`: the monarch is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party usually elected prime minister by the Parliament of Curacao; election last held on 19 March 2021 (next to be held in 2025)
 
-**Legislative branch**<br>
-_description_: unicameral Parliament of Curacao (21 seats; members directly elected by party-list proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 19 March 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party - MFK 27.8%, PAR 13.9%, PNP 12.5%, MAN 6.4%, KEM 5.4%, TPK 5.2%; seats by party - MFK 9, PAR 4, PNP 4, MAN 2, KEM 1, TPK 1; composition - men 15, women 6, percent of women 28.6%<br>
+### Legislative branch
+- `description`: unicameral Parliament of Curacao (21 seats; members directly elected by party-list proportional representation vote to serve 4-year terms)
+- `elections`: last held on 19 March 2021 (next to be held in 2025)
+- `election results`: percent of vote by party - MFK 27.8%, PAR 13.9%, PNP 12.5%, MAN 6.4%, KEM 5.4%, TPK 5.2%; seats by party - MFK 9, PAR 4, PNP 4, MAN 2, KEM 1, TPK 1; composition - men 15, women 6, percent of women 28.6%
 
-**Judicial branch**<br>
-_highest court(s)_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (sits as a 3-judge panel); final appeals heard by the Supreme Court, in The Hague, Netherlands<br>
-_judge selection and term of office_: Joint Court judges appointed by the monarch for life<br>
-_subordinate courts_: first instance courts, appeals court; specialized courts<br>
+### Judicial branch
+- `highest court(s)`: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (sits as a 3-judge panel); final appeals heard by the Supreme Court, in The Hague, Netherlands
+- `judge selection and term of office`: Joint Court judges appointed by the monarch for life
+- `subordinate courts`: first instance courts, appeals court; specialized courts
 
-**Political parties**<br>
-Korsou di Nos Tur or KdnT<br>Korsou Esun Miho or KEM<br>Movementu Futuro Korsou or MFK<br>Movementu Progresivo or MP<br>Movishon Antia Nobo or MAN<br>Partido Antia Restruktura or PAR<br>Partido Inovashon Nashonal or PIN<br>Partido Nashonal di Pueblo or PNP<br>Pueblo Soberano or PS<br>Trabou pa Kòrsou or TPK<br>Un Korsou Hustu<br>
+### Political parties
+Korsou di Nos Tur or KdnTKorsou Esun Miho or KEMMovementu Futuro Korsou or MFKMovementu Progresivo or MPMovishon Antia Nobo or MANPartido Antia Restruktura or PARPartido Inovashon Nashonal or PINPartido Nashonal di Pueblo or PNPPueblo Soberano or PSTrabou pa Kòrsou or TPKUn Korsou Hustu
 
-**International organization participation**<br>
-<p>ACS (associate), Caricom (observer), FATF, ILO, ITU, UNESCO (associate), UPU</p><br>
+### International organization participation
+ACS (associate), Caricom (observer), FATF, ILO, ITU, UNESCO (associate), UPU
 
-**Diplomatic representation in the US**<br>
-none (represented by the Kingdom of the Netherlands)<br>
+### Diplomatic representation in the US
+none (represented by the Kingdom of the Netherlands)
 
-**Diplomatic representation from the US**<br>
-_chief of mission_: Consul General Margy BOND (since 20 January 2022); note - also accredited to Aruba and Sint Maarten<br>
-_embassy_: P.O. Box 158, J.B. Gorsiraweg 1<br>
-_mailing address_: 3160 Curacao Place, Washington DC&nbsp; 20521-3160<br>
-_telephone_: [599] (9) 461-3066<br>
-_FAX_: [599] (9) 461-6489<br>
-_email address and website_: <br>ACSCuracao@state.gov<br><br>https://cw.usconsulate.gov/<br>
+### Diplomatic representation from the US
+- `chief of mission`: Consul General Margy BOND (since 20 January 2022); note - also accredited to Aruba and Sint Maarten
+- `embassy`: P.O. Box 158, J.B. Gorsiraweg 1
+- `mailing address`: 3160 Curacao Place, Washington DC  20521-3160
+- `telephone`: [599] (9) 461-3066
+- `FAX`: [599] (9) 461-6489
+- `email address and website`: ACSCuracao@state.gov  https://cw.usconsulate.gov/
 
-**Flag description**<br>
-on a blue field a horizontal yellow band somewhat below the center divides the flag into proportions of 5:1:2; two five-pointed white stars - the smaller above and to the left of the larger - appear in the canton; the blue of the upper and lower sections symbolizes the sky and sea respectively; yellow represents the sun; the stars symbolize Curacao and its uninhabited smaller sister island of Klein Curacao; the five star points signify the five continents from which Curacao's people derive<br>
+### Flag description
+on a blue field a horizontal yellow band somewhat below the center divides the flag into proportions of 5:1:2; two five-pointed white stars - the smaller above and to the left of the larger - appear in the canton; the blue of the upper and lower sections symbolizes the sky and sea respectively; yellow represents the sun; the stars symbolize Curacao and its uninhabited smaller sister island of Klein Curacao; the five star points signify the five continents from which Curacao's people derive
 
-**National symbol(s)**<br>
-laraha (citrus tree); national colors: blue, yellow, white<br>
+### National symbol(s)
+laraha (citrus tree); national colors: blue, yellow, white
 
-**National anthem**<br>
-_name_: "Himmo di Korsou" (Anthem of Curacao)<br>
-_lyrics/music_: Guillermo ROSARIO, Mae HENRIQUEZ, Enrique MULLER, Betty DORAN/Frater Candidus NOWENS, Errol "El Toro" COLINA<br>
-<strong>note:</strong> adapted 1978; the lyrics, originally written in 1899, were rewritten in 1978 to make them less colonial in nature<br>
+### National anthem
+- `name`: "Himmo di Korsou" (Anthem of Curacao)
+- `lyrics/music`: Guillermo ROSARIO, Mae HENRIQUEZ, Enrique MULLER, Betty DORAN/Frater Candidus NOWENS, Errol "El Toro" COLINA
+**note**:  adapted 1978; the lyrics, originally written in 1899, were rewritten in 1978 to make them less colonial in nature
 
-**National heritage**<br>
-_total World Heritage Sites_: 1 (cultural); note - excerpted from the Netherlands entry<br>
-_selected World Heritage Site locales_: Historic Willemstad<br>
+### National heritage
+- `total World Heritage Sites`: 1 (cultural); note - excerpted from the Netherlands entry
+- `selected World Heritage Site locales`: Historic Willemstad
 
 ## Economy
 
-**Economic overview**<br>
-high-income island economy; developed infrastructure; tourism and financial services-based economy; investing in information technology incentives; oil refineries service Venezuela and China; unique COVID-19 stimulus support applied to government debts rather than household support<br>
+### Economic overview
+high-income island economy; developed infrastructure; tourism and financial services-based economy; investing in information technology incentives; oil refineries service Venezuela and China; unique COVID-19 stimulus support applied to government debts rather than household support
 
-**Real GDP (purchasing power parity)**<br>
-$4.137 billion (2022 est.)<br>
-$3.834 billion (2021 est.)<br>
-$3.68 billion (2020 est.)<br>
-<b>note:</b> data in 2021 dollars<br>
+### Real GDP (purchasing power parity)
+$4.137 billion (2022 est.)
+$3.834 billion (2021 est.)
+$3.68 billion (2020 est.)
+**note**: data in 2021 dollars
 
-**Real GDP growth rate**<br>
-7.9% (2022 est.)<br>
-4.2% (2021 est.)<br>
--18.04% (2020 est.)<br>
-<b>note:</b> annual GDP % growth based on constant local currency<br>
+### Real GDP growth rate
+7.9% (2022 est.)
+4.2% (2021 est.)
+-18.04% (2020 est.)
+**note**: annual GDP % growth based on constant local currency
 
-**Real GDP per capita**<br>
-$27,600 (2022 est.)<br>
-$25,200 (2021 est.)<br>
-$23,700 (2020 est.)<br>
-<b>note:</b> data in 2021 dollars<br>
+### Real GDP per capita
+$27,600 (2022 est.)
+$25,200 (2021 est.)
+$23,700 (2020 est.)
+**note**: data in 2021 dollars
 
-**GDP (official exchange rate)**<br>
-$3.074 billion (2022 est.)<br>
-<b>note:</b> data in current dollars at official exchange rate<br>
+### GDP (official exchange rate)
+$3.074 billion (2022 est.)
+**note**: data in current dollars at official exchange rate
 
-**Inflation rate (consumer prices)**<br>
-2.62% (2019 est.)<br>
-2.58% (2018 est.)<br>
-1.59% (2017 est.)<br>
-<b>note:</b> annual % change based on consumer prices<br>
+### Inflation rate (consumer prices)
+2.62% (2019 est.)
+2.58% (2018 est.)
+1.59% (2017 est.)
+**note**: annual % change based on consumer prices
 
-**GDP - composition, by sector of origin**<br>
-_agriculture_: 0.3% (2022 est.)<br>
-_industry_: 11.2% (2022 est.)<br>
-_services_: 73.4% (2022 est.)<br>
-<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
+### GDP - composition, by sector of origin
+- `agriculture`: 0.3% (2022 est.)
+- `industry`: 11.2% (2022 est.)
+- `services`: 73.4% (2022 est.)
+**note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
-**GDP - composition, by end use**<br>
-_household consumption_: 73.2% (2018 est.)<br>
-_government consumption_: 14.5% (2018 est.)<br>
-_investment in fixed capital_: 34% (2018 est.)<br>
-_investment in inventories_: 7% (2018 est.)<br>
-_exports of goods and services_: 63.2% (2018 est.)<br>
-_imports of goods and services_: -92% (2018 est.)<br>
-<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
+### GDP - composition, by end use
+- `household consumption`: 73.2% (2018 est.)
+- `government consumption`: 14.5% (2018 est.)
+- `investment in fixed capital`: 34% (2018 est.)
+- `investment in inventories`: 7% (2018 est.)
+- `exports of goods and services`: 63.2% (2018 est.)
+- `imports of goods and services`: -92% (2018 est.)
+**note**: figures may not total 100% due to rounding or gaps in data collection
 
-**Agricultural products**<br>
-aloe, sorghum, peanuts, vegetables, tropical fruit<br>
+### Agricultural products
+aloe, sorghum, peanuts, vegetables, tropical fruit
 
-**Industries**<br>
-tourism, petroleum refining, petroleum transshipment, light manufacturing, financial and business services<br>
+### Industries
+tourism, petroleum refining, petroleum transshipment, light manufacturing, financial and business services
 
-**Industrial production growth rate**<br>
-4.3% (2014 est.)<br>
-<b>note:</b> annual % change in industrial value added based on constant local currency<br>
+### Industrial production growth rate
+4.3% (2014 est.)
+**note**: annual % change in industrial value added based on constant local currency
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 42.2% (2020 est.)<br>
-_male_: 38.1%<br>
-_female_: 47.1%<br>
+### Youth unemployment rate (ages 15-24)
+- `total`: 42.2% (2020 est.)
+- `male`: 38.1%
+- `female`: 47.1%
 
-**Remittances**<br>
-5.16% of GDP (2022 est.)<br>
-5.18% of GDP (2021 est.)<br>
-5.22% of GDP (2020 est.)<br>
-<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+### Remittances
+5.16% of GDP (2022 est.)
+5.18% of GDP (2021 est.)
+5.22% of GDP (2020 est.)
+**note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
-**Current account balance**<br>
--$877.284 million (2022 est.)<br>
--$507.018 million (2021 est.)<br>
--$688.805 million (2020 est.)<br>
-<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
+### Current account balance
+-$877.284 million (2022 est.)
+-$507.018 million (2021 est.)
+-$688.805 million (2020 est.)
+**note**: balance of payments - net trade and primary/secondary income in current dollars
 
-**Exports**<br>
-$2.049 billion (2022 est.)<br>
-$1.373 billion (2021 est.)<br>
-$1.014 billion (2020 est.)<br>
-<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
+### Exports
+$2.049 billion (2022 est.)
+$1.373 billion (2021 est.)
+$1.014 billion (2020 est.)
+**note**: balance of payments - exports of goods and services in current dollars
 
-**Exports - partners**<br>
-US 17%, Costa Rica 16%, India 9%, Netherlands 7%, Guatemala 7% (2022)<br>
-<b>note:</b> top five export partners based on percentage share of exports<br>
+### Exports - partners
+US 17%, Costa Rica 16%, India 9%, Netherlands 7%, Guatemala 7% (2022)
+**note**: top five export partners based on percentage share of exports
 
-**Exports - commodities**<br>
-refined petroleum, petroleum coke, fish, coal tar oil, scrap iron (2022)<br>
-<b>note:</b> top five export commodities based on value in dollars<br>
+### Exports - commodities
+refined petroleum, petroleum coke, fish, coal tar oil, scrap iron (2022)
+**note**: top five export commodities based on value in dollars
 
-**Imports**<br>
-$2.904 billion (2022 est.)<br>
-$1.919 billion (2021 est.)<br>
-$1.709 billion (2020 est.)<br>
-<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
+### Imports
+$2.904 billion (2022 est.)
+$1.919 billion (2021 est.)
+$1.709 billion (2020 est.)
+**note**: balance of payments - imports of goods and services in current dollars
 
-**Imports - partners**<br>
-US 35%, Netherlands 22%, China 7%, Ecuador 5%, Philippines 3% (2022)<br>
-<b>note:</b> top five import partners based on percentage share of imports<br>
+### Imports - partners
+US 35%, Netherlands 22%, China 7%, Ecuador 5%, Philippines 3% (2022)
+**note**: top five import partners based on percentage share of imports
 
-**Imports - commodities**<br>
-refined petroleum, cars, garments, integrated circuits, packaged medicine (2022)<br>
-<b>note:</b> top five import commodities based on value in dollars<br>
+### Imports - commodities
+refined petroleum, cars, garments, integrated circuits, packaged medicine (2022)
+**note**: top five import commodities based on value in dollars
 
-**Exchange rates**<br>
-_Currency_: Netherlands Antillean guilders (ANG) per US dollar -<br>
-1.79 (2023 est.)<br>
-1.79 (2022 est.)<br>
-1.79 (2021 est.)<br>
-1.79 (2020 est.)<br>
-1.79 (2019 est.)<br>
+### Exchange rates
+- `Currency`: Netherlands Antillean guilders (ANG) per US dollar -
+1.79 (2023 est.)
+1.79 (2022 est.)
+1.79 (2021 est.)
+1.79 (2020 est.)
+1.79 (2019 est.)
 
 ## Energy
 
-**Electricity access**<br>
-_electrification - total population_: 100% (2022 est.)<br>
+### Electricity access
+- `electrification - total population`: 100% (2022 est.)
 
 ## Communications
 
-**Telephones - fixed lines**<br>
-_total subscriptions_: 53,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 28 (2021 est.)<br>
+### Telephones - fixed lines
+- `total subscriptions`: 53,000 (2021 est.)
+- `subscriptions per 100 inhabitants`: 28 (2021 est.)
 
-**Telephones - mobile cellular**<br>
-_total subscriptions_: 168,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 88 (2021 est.)<br>
+### Telephones - mobile cellular
+- `total subscriptions`: 168,000 (2021 est.)
+- `subscriptions per 100 inhabitants`: 88 (2021 est.)
 
-**Telecommunication systems**<br>
-_general assessment_: fully automatic modern telecommunications system; telecom sector across the Caribbean region continues to be one of&nbsp;the growth areas; given the lack of economic diversity in the region, with a high dependence on tourism and activities such as fisheries and offshore financial services the telecom sector contributes greatly to the GDP (2020)<br>
-_domestic_: roughly 28 per 100 users for fixed-line and 88 per 100 users for cellular-mobile (2021)<br>
-_international_: country code - +599, PCCS submarine cable system to US, Caribbean and Central and South America (2019)<br>
+### Telecommunication systems
+- `general assessment`: fully automatic modern telecommunications system; telecom sector across the Caribbean region continues to be one of the growth areas; given the lack of economic diversity in the region, with a high dependence on tourism and activities such as fisheries and offshore financial services the telecom sector contributes greatly to the GDP (2020)
+- `domestic`: roughly 28 per 100 users for fixed-line and 88 per 100 users for cellular-mobile (2021)
+- `international`: country code - +599, PCCS submarine cable system to US, Caribbean and Central and South America (2019)
 
-**Broadcast media**<br>
-government-run TeleCuracao operates a TV station and a radio station;&nbsp;2 other privately owned TV stations and several privately owned radio stations (2019)<br>
+### Broadcast media
+government-run TeleCuracao operates a TV station and a radio station; 2 other privately owned TV stations and several privately owned radio stations (2019)
 
-**Internet country code**<br>
-<p>.cw</p><br>
+### Internet country code
+.cw
 
-**Internet users**<br>
-_total_: 111,956 (2021 est.)<br>
-_percent of population_: 68.1% (2021 est.)<br>
+### Internet users
+- `total`: 111,956 (2021 est.)
+- `percent of population`: 68.1% (2021 est.)
 
-**Broadband - fixed subscriptions**<br>
-_total_: 55,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 34 (2020 est.)<br>
+### Broadband - fixed subscriptions
+- `total`: 55,000 (2020 est.)
+- `subscriptions per 100 inhabitants`: 34 (2020 est.)
 
 ## Transportation
 
-**National air transport system**<br>
-_number of registered air carriers_: 2 (2020)<br>
-_inventory of registered aircraft operated by air carriers_: 11<br>
+### National air transport system
+- `number of registered air carriers`: 2 (2020)
+- `inventory of registered aircraft operated by air carriers`: 11
 
-**Civil aircraft registration country code prefix**<br>
-PJ<br>
+### Civil aircraft registration country code prefix
+PJ
 
-**Airports**<br>
-1 (2024)<br>
+### Airports
+1 (2024)
 
-**Roadways**<br>
-_total_: 550 km<br>
+### Roadways
+- `total`: 550 km
 
-**Merchant marine**<br>
-_total_: 57 (2023)<br>
-_by type_: general cargo 5, oil tanker 1, other 51<br>
+### Merchant marine
+- `total`: 57 (2023)
+- `by type`: general cargo 5, oil tanker 1, other 51
 
-**Ports**<br>
-_total ports_: 4 (2024)<br>
-_large_: 0<br>
-_medium_: 2<br>
-_small_: 1<br>
-_very small_: 1<br>
-_ports with oil terminals_: 3<br>
-_key ports_: Bullenbaai, Caracasbaai, Sint Michelsbaai, Willemstad<br>
+### Ports
+- `total ports`: 4 (2024)
+- `large`: 0
+- `medium`: 2
+- `small`: 1
+- `very small`: 1
+- `ports with oil terminals`: 3
+- `key ports`: Bullenbaai, Caracasbaai, Sint Michelsbaai, Willemstad
 
 ## Military and Security
 
-**Military and security forces**<br>
-no regular military forces; Curacao Militia (CURMIL); Police Department for local law enforcement, supported by the Royal Netherlands Marechaussee (Gendarmerie), the Dutch Caribbean Police Force (Korps Politie Caribisch Nederland, KPCN), and the Dutch Caribbean Coast Guard (DCCG or Kustwacht Caribisch Gebied (KWCARIB))  (2024)<br>
+### Military and security forces
+no regular military forces; Curacao Militia (CURMIL); Police Department for local law enforcement, supported by the Royal Netherlands Marechaussee (Gendarmerie), the Dutch Caribbean Police Force (Korps Politie Caribisch Nederland, KPCN), and the Dutch Caribbean Coast Guard (DCCG or Kustwacht Caribisch Gebied (KWCARIB))  (2024)
 
-**Military - note**<br>
-defense is the responsibility of the Kingdom of the Netherlands; the Dutch Government controls foreign and defense policy; the Dutch Caribbean Coast Guard (DCCG) provides maritime security (2024)<br>
+### Military - note
+defense is the responsibility of the Kingdom of the Netherlands; the Dutch Government controls foreign and defense policy; the Dutch Caribbean Coast Guard (DCCG) provides maritime security (2024)
 
 ## Transnational Issues
 
-**Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,000 (Venezuela) (2022)<br>
+### Refugees and internally displaced persons
+- `refugees (country of origin)`: 14,000 (Venezuela) (2022)
 
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — Curaçao does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so, therefore Curaçao was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/curacao/<br>
+### Trafficking in persons
+- `tier rating`: Tier 2 Watch List — Curaçao does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so, therefore Curaçao was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/curacao/
 
-**Illicit drugs**<br>
-<p>northbound transshipment points for cocaine from Colombia and Venezuela; cocaine is transported to the United States, other Caribbean islands, Africa, and Europe</p><br>
+### Illicit drugs
+northbound transshipment points for cocaine from Colombia and Venezuela; cocaine is transported to the United States, other Caribbean islands, Africa, and Europe
 

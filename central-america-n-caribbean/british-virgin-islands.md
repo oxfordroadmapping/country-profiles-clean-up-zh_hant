@@ -4,473 +4,473 @@ _Central America and Caribbean / Dependencies (United Kingdom)_
 
 ## Introduction
 
-**Background**<br>
-First inhabited by Arawak and later by Carib Indians, the Virgin Islands were settled by the Dutch in 1648 and then annexed by the English in 1672. The islands were part of the British colony of the Leeward Islands (1872-1960); they were granted autonomy in 1967. The economy is closely tied to the larger and more populous US Virgin Islands to the west, and the US dollar is the legal currency. In 2017, Hurricane Irma devastated the island of Tortola. An estimated 80% of residential and business structures were destroyed or damaged, communications disrupted, and local roads rendered impassable.<br>
+### Background
+First inhabited by Arawak and later by Carib Indians, the Virgin Islands were settled by the Dutch in 1648 and then annexed by the English in 1672. The islands were part of the British colony of the Leeward Islands (1872-1960); they were granted autonomy in 1967. The economy is closely tied to the larger and more populous US Virgin Islands to the west, and the US dollar is the legal currency. In 2017, Hurricane Irma devastated the island of Tortola. An estimated 80% of residential and business structures were destroyed or damaged, communications disrupted, and local roads rendered impassable.
 
 ## Geography
 
-**Location**<br>
-Caribbean, between the Caribbean Sea and the North Atlantic Ocean, east of Puerto Rico<br>
+### Location
+Caribbean, between the Caribbean Sea and the North Atlantic Ocean, east of Puerto Rico
 
-**Geographic coordinates**<br>
-18 30 N, 64 30 W<br>
+### Geographic coordinates
+18 30 N, 64 30 W
 
-**Map references**<br>
-Central America and the Caribbean<br>
+### Map references
+Central America and the Caribbean
 
-**Area**<br>
-_total _: 151 sq km<br>
-_land_: 151 sq km<br>
-_water_: 0 sq km<br>
-<strong>note:</strong> comprised of 16 inhabited and more than 20 uninhabited islands; includes the islands of Tortola, Anegada, Virgin Gorda, Jost van Dyke<br>
+### Area
+- `total `: 151 sq km
+- `land`: 151 sq km
+- `water`: 0 sq km
+**note**:  comprised of 16 inhabited and more than 20 uninhabited islands; includes the islands of Tortola, Anegada, Virgin Gorda, Jost van Dyke
 
-**Area - comparative**<br>
-about 0.9 times the size of Washington, DC<br>
+### Area - comparative
+about 0.9 times the size of Washington, DC
 
-**Land boundaries**<br>
-_total_: 0 km<br>
+### Land boundaries
+- `total`: 0 km
 
-**Coastline**<br>
-80 km<br>
+### Coastline
+80 km
 
-**Maritime claims**<br>
-_territorial sea_: 12 nm<br>
-_exclusive fishing zone_: 200 nm<br>
+### Maritime claims
+- `territorial sea`: 12 nm
+- `exclusive fishing zone`: 200 nm
 
-**Climate**<br>
-subtropical; humid; temperatures moderated by trade winds<br>
+### Climate
+subtropical; humid; temperatures moderated by trade winds
 
-**Terrain**<br>
-coral islands relatively flat; volcanic islands steep, hilly<br>
+### Terrain
+coral islands relatively flat; volcanic islands steep, hilly
 
-**Elevation**<br>
-_highest point_: Mount Sage 521 m<br>
-_lowest point_: Caribbean Sea 0 m<br>
+### Elevation
+- `highest point`: Mount Sage 521 m
+- `lowest point`: Caribbean Sea 0 m
 
-**Natural resources**<br>
-NEGL; pleasant climate, beaches foster tourism<br>
+### Natural resources
+NEGL; pleasant climate, beaches foster tourism
 
-**Land use**<br>
-_agricultural land_: 46.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 6.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 6.7% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 33.3% (2018 est.)<br>
-_forest_: 24.3% (2018 est.)<br>
-_other_: 29% (2018 est.)<br>
+### Land use
+- `agricultural land`: 46.7% (2018 est.)
+- `agricultural land: arable land`: arable land: 6.7% (2018 est.)
+- `agricultural land: permanent crops`: permanent crops: 6.7% (2018 est.)
+- `agricultural land: permanent pasture`: permanent pasture: 33.3% (2018 est.)
+- `forest`: 24.3% (2018 est.)
+- `other`: 29% (2018 est.)
 
-**Irrigated land**<br>
-NA<br>
+### Irrigated land
+NA
 
-**Population distribution**<br>
-a fairly even distribution throughout the inhabited islands, with the largest islands of Tortola, Anegada, Virgin Gorda, and Jost Van Dyke having the largest populations<br>
+### Population distribution
+a fairly even distribution throughout the inhabited islands, with the largest islands of Tortola, Anegada, Virgin Gorda, and Jost Van Dyke having the largest populations
 
-**Natural hazards**<br>
-hurricanes and tropical storms (July to October)<br>
+### Natural hazards
+hurricanes and tropical storms (July to October)
 
-**Geography - note**<br>
-strong ties to nearby US Virgin Islands and Puerto Rico<br>
+### Geography - note
+strong ties to nearby US Virgin Islands and Puerto Rico
 
 ## People and Society
 
-**Population**<br>
-_total_: 40,102<br>
-_male_: 19,042<br>
-_female_: 21,060 (2024 est.)<br>
+### Population
+- `total`: 40,102
+- `male`: 19,042
+- `female`: 21,060 (2024 est.)
 
-**Nationality**<br>
-_noun_: British Virgin Islander(s)<br>
-_adjective_: British Virgin Islander<br>
+### Nationality
+- `noun`: British Virgin Islander(s)
+- `adjective`: British Virgin Islander
 
-**Ethnic groups**<br>
-African/Black 76.3%, Latino 5.5%, White 5.4%, mixed 5.3%, Indian 2.1%, East Indian 1.6%, other 3%, unspecified 0.8% (2010 est.)<br>
+### Ethnic groups
+African/Black 76.3%, Latino 5.5%, White 5.4%, mixed 5.3%, Indian 2.1%, East Indian 1.6%, other 3%, unspecified 0.8% (2010 est.)
 
-**Languages**<br>
-English (official), Virgin Islands Creole<br>
+### Languages
+English (official), Virgin Islands Creole
 
-**Religions**<br>
-Protestant 70.2% (Methodist 17.6%, Church of God 10.4%, Anglican 9.5%, Seventh Day Adventist 9.0%, Pentecostal 8.2%, Baptist 7.4%, New Testament Church of God 6.9%, other Protestant 1.2%), Roman Catholic 8.9%, Jehovah's Witness 2.5%, Hindu 1.9%, other 6.2%, none 7.9%, unspecified 2.4% (2010 est.)<br>
+### Religions
+Protestant 70.2% (Methodist 17.6%, Church of God 10.4%, Anglican 9.5%, Seventh Day Adventist 9.0%, Pentecostal 8.2%, Baptist 7.4%, New Testament Church of God 6.9%, other Protestant 1.2%), Roman Catholic 8.9%, Jehovah's Witness 2.5%, Hindu 1.9%, other 6.2%, none 7.9%, unspecified 2.4% (2010 est.)
 
-**Age structure**<br>
-_0-14 years_: 16.6% (male 3,298/female 3,351)<br>
-_15-64 years_: 71.3% (male 13,455/female 15,152)<br>
-_65 years and over_: 12.1% (2024 est.) (male 2,289/female 2,557)<br>
+### Age structure
+- `0-14 years`: 16.6% (male 3,298/female 3,351)
+- `15-64 years`: 71.3% (male 13,455/female 15,152)
+- `65 years and over`: 12.1% (2024 est.) (male 2,289/female 2,557)
 
-**Dependency ratios**<br>
-_total dependency ratio_: 32.8<br>
-_youth dependency ratio_: 20.2<br>
-_elderly dependency ratio_: 12.6<br>
-_potential support ratio_: 8 (2021)<br>
+### Dependency ratios
+- `total dependency ratio`: 32.8
+- `youth dependency ratio`: 20.2
+- `elderly dependency ratio`: 12.6
+- `potential support ratio`: 8 (2021)
 
-**Median age**<br>
-_total_: 38.5 years (2024 est.)<br>
-_male_: 38.1 years<br>
-_female_: 38.9 years<br>
+### Median age
+- `total`: 38.5 years (2024 est.)
+- `male`: 38.1 years
+- `female`: 38.9 years
 
-**Population growth rate**<br>
-1.82% (2024 est.)<br>
+### Population growth rate
+1.82% (2024 est.)
 
-**Birth rate**<br>
-10.9 births/1,000 population (2024 est.)<br>
+### Birth rate
+10.9 births/1,000 population (2024 est.)
 
-**Death rate**<br>
-5.5 deaths/1,000 population (2024 est.)<br>
+### Death rate
+5.5 deaths/1,000 population (2024 est.)
 
-**Net migration rate**<br>
-12.9 migrant(s)/1,000 population (2024 est.)<br>
+### Net migration rate
+12.9 migrant(s)/1,000 population (2024 est.)
 
-**Population distribution**<br>
-a fairly even distribution throughout the inhabited islands, with the largest islands of Tortola, Anegada, Virgin Gorda, and Jost Van Dyke having the largest populations<br>
+### Population distribution
+a fairly even distribution throughout the inhabited islands, with the largest islands of Tortola, Anegada, Virgin Gorda, and Jost Van Dyke having the largest populations
 
-**Urbanization**<br>
-_urban population_: 49.7% of total population (2023)<br>
-_rate of urbanization_: 1.73% annual rate of change (2020-25 est.)<br>
+### Urbanization
+- `urban population`: 49.7% of total population (2023)
+- `rate of urbanization`: 1.73% annual rate of change (2020-25 est.)
 
-**Major urban areas - population**<br>
-15,000 ROAD TOWN (capital) (2018)<br>
+### Major urban areas - population
+15,000 ROAD TOWN (capital) (2018)
 
-**Sex ratio**<br>
-_at birth_: 1.05 male(s)/female<br>
-_0-14 years_: 0.98 male(s)/female<br>
-_15-64 years_: 0.89 male(s)/female<br>
-_65 years and over_: 0.9 male(s)/female<br>
-_total population_: 0.9 male(s)/female (2024 est.)<br>
+### Sex ratio
+- `at birth`: 1.05 male(s)/female
+- `0-14 years`: 0.98 male(s)/female
+- `15-64 years`: 0.89 male(s)/female
+- `65 years and over`: 0.9 male(s)/female
+- `total population`: 0.9 male(s)/female (2024 est.)
 
-**Infant mortality rate**<br>
-_total_: 13.4 deaths/1,000 live births (2024 est.)<br>
-_male_: 16 deaths/1,000 live births<br>
-_female_: 10.7 deaths/1,000 live births<br>
+### Infant mortality rate
+- `total`: 13.4 deaths/1,000 live births (2024 est.)
+- `male`: 16 deaths/1,000 live births
+- `female`: 10.7 deaths/1,000 live births
 
-**Life expectancy at birth**<br>
-_total population_: 80.1 years (2024 est.)<br>
-_male_: 78.6 years<br>
-_female_: 81.7 years<br>
+### Life expectancy at birth
+- `total population`: 80.1 years (2024 est.)
+- `male`: 78.6 years
+- `female`: 81.7 years
 
-**Total fertility rate**<br>
-1.38 children born/woman (2024 est.)<br>
+### Total fertility rate
+1.38 children born/woman (2024 est.)
 
-**Gross reproduction rate**<br>
-0.67 (2024 est.)<br>
+### Gross reproduction rate
+0.67 (2024 est.)
 
-**Contraceptive prevalence rate**<br>
-NA<br>
+### Contraceptive prevalence rate
+NA
 
-**Drinking water source**<br>
-_improved: total_: total: 99.9% of population<br>
-_unimproved: total_: total: 0.1% of population (2020 est.)<br>
+### Drinking water source
+- `improved: total`: total: 99.9% of population
+- `unimproved: total`: total: 0.1% of population (2020 est.)
 
-**Current health expenditure**<br>
-NA<br>
+### Current health expenditure
+NA
 
-**Physician density**<br>
-NA<br>
+### Physician density
+NA
 
-**Sanitation facility access**<br>
-_improved: urban_: urban: 97.5% of population<br>
-_improved: rural_: rural: 97.5% of population<br>
-_improved: total_: total: 97.5% of population<br>
-_unimproved: urban_: urban: 2.5% of population<br>
-_unimproved: rural_: rural: 2.5% of population<br>
-_unimproved: total_: total: 2.5% of population (2015 est.)<br>
+### Sanitation facility access
+- `improved: urban`: urban: 97.5% of population
+- `improved: rural`: rural: 97.5% of population
+- `improved: total`: total: 97.5% of population
+- `unimproved: urban`: urban: 2.5% of population
+- `unimproved: rural`: rural: 2.5% of population
+- `unimproved: total`: total: 2.5% of population (2015 est.)
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
+### Children under the age of 5 years underweight
+NA
 
-**Currently married women (ages 15-49)**<br>
-46.6% (2023 est.)<br>
+### Currently married women (ages 15-49)
+46.6% (2023 est.)
 
-**Education expenditures**<br>
-2.6% of GDP (2020 est.)<br>
+### Education expenditures
+2.6% of GDP (2020 est.)
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
+### Literacy
+- `total population`: NA
+- `male`: NA
+- `female`: NA
 
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 12 years<br>
-_male_: 12 years<br>
-_female_: 12 years (2018)<br>
+### School life expectancy (primary to tertiary education)
+- `total`: 12 years
+- `male`: 12 years
+- `female`: 12 years (2018)
 
 ## Environment
 
-**Environment - current issues**<br>
-limited natural freshwater resources except for a few seasonal streams and springs on Tortola; most of the islands' water supply comes from desalination plants; sewage and mining/industry waste contribute to water pollution, threatening coral reefs<br>
+### Environment - current issues
+limited natural freshwater resources except for a few seasonal streams and springs on Tortola; most of the islands' water supply comes from desalination plants; sewage and mining/industry waste contribute to water pollution, threatening coral reefs
 
-**Climate**<br>
-subtropical; humid; temperatures moderated by trade winds<br>
+### Climate
+subtropical; humid; temperatures moderated by trade winds
 
-**Land use**<br>
-_agricultural land_: 46.7% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 6.7% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 6.7% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 33.3% (2018 est.)<br>
-_forest_: 24.3% (2018 est.)<br>
-_other_: 29% (2018 est.)<br>
+### Land use
+- `agricultural land`: 46.7% (2018 est.)
+- `agricultural land: arable land`: arable land: 6.7% (2018 est.)
+- `agricultural land: permanent crops`: permanent crops: 6.7% (2018 est.)
+- `agricultural land: permanent pasture`: permanent pasture: 33.3% (2018 est.)
+- `forest`: 24.3% (2018 est.)
+- `other`: 29% (2018 est.)
 
-**Urbanization**<br>
-_urban population_: 49.7% of total population (2023)<br>
-_rate of urbanization_: 1.73% annual rate of change (2020-25 est.)<br>
+### Urbanization
+- `urban population`: 49.7% of total population (2023)
+- `rate of urbanization`: 1.73% annual rate of change (2020-25 est.)
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 0.21 megatons (2016 est.)<br>
+### Air pollutants
+- `carbon dioxide emissions`: 0.21 megatons (2016 est.)
 
-**Waste and recycling**<br>
-_municipal solid waste generated annually_: 21,099 tons (2000 est.)<br>
+### Waste and recycling
+- `municipal solid waste generated annually`: 21,099 tons (2000 est.)
 
 ## Government
 
-**Country name**<br>
-_conventional long form_: none<br>
-_conventional short form_: British Virgin Islands<br>
-_abbreviation_: BVI<br>
-_etymology_: the myriad islets, cays, and rocks surrounding the major islands reminded explorer Christopher COLUMBUS in 1493 of Saint Ursula and her 11,000 virgin followers (Santa Ursula y las Once Mil Virgenes), which over time shortened to the Virgins (las Virgenes)<br>
+### Country name
+- `conventional long form`: none
+- `conventional short form`: British Virgin Islands
+- `abbreviation`: BVI
+- `etymology`: the myriad islets, cays, and rocks surrounding the major islands reminded explorer Christopher COLUMBUS in 1493 of Saint Ursula and her 11,000 virgin followers (Santa Ursula y las Once Mil Virgenes), which over time shortened to the Virgins (las Virgenes)
 
-**Government type**<br>
-Overseas Territory of the UK with limited self-government; parliamentary democracy<br>
+### Government type
+Overseas Territory of the UK with limited self-government; parliamentary democracy
 
-**Dependency status**<br>
-overseas territory of the UK; internal self-governing<br>
+### Dependency status
+overseas territory of the UK; internal self-governing
 
-**Capital**<br>
-_name_: Road Town<br>
-_geographic coordinates_: 18 25 N, 64 37 W<br>
-_time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: name refers to the nautical term "roadstead" or "roads," a body of water less sheltered than a harbor but where ships can lie reasonably safely at anchor sheltered from rip currents, spring tides, or ocean swells<br>
+### Capital
+- `name`: Road Town
+- `geographic coordinates`: 18 25 N, 64 37 W
+- `time difference`: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+- `etymology`: name refers to the nautical term "roadstead" or "roads," a body of water less sheltered than a harbor but where ships can lie reasonably safely at anchor sheltered from rip currents, spring tides, or ocean swells
 
-**Administrative divisions**<br>
-none (overseas territory of the UK)<br>
+### Administrative divisions
+none (overseas territory of the UK)
 
-**Independence**<br>
-none (overseas territory of the UK)<br>
+### Independence
+none (overseas territory of the UK)
 
-**National holiday**<br>
-Territory Day, 1 July (1956)<br>
+### National holiday
+Territory Day, 1 July (1956)
 
-**Legal system**<br>
-English common law<br>
+### Legal system
+English common law
 
-**Constitution**<br>
-_history_: several previous; latest effective 15 June 2007 (The Virgin Islands Constitution Order 2007)<br>
-_amendments_: initiated by any elected member of the House of Assembly; passage requires simple majority vote by the elected members of the Assembly and assent by the governor on behalf of the monarch; amended 2015<br>
+### Constitution
+- `history`: several previous; latest effective 15 June 2007 (The Virgin Islands Constitution Order 2007)
+- `amendments`: initiated by any elected member of the House of Assembly; passage requires simple majority vote by the elected members of the Assembly and assent by the governor on behalf of the monarch; amended 2015
 
-**Citizenship**<br>
-see United Kingdom<br>
+### Citizenship
+see United Kingdom
 
-**Suffrage**<br>
-18 years of age; universal<br>
+### Suffrage
+18 years of age; universal
 
-**Executive branch**<br>
-_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Daniel PRUCE (since 29 January 2024)<br>
-_head of government_: Premier Dr. Natalio WHEATLEY (since 5 May 2022)<br>
-_cabinet_: Executive Council appointed by the governor from members of the House of Assembly<br>
-_elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor<br>
-<strong>note;</strong> on 5 May 2022, Premier Andrew FAHIE was removed from office by a no confidence vote in House of Assembly following his arrest on drug trafficking and money laundering charges on 28 April 2022; Premier Dr. Natalio WHEATLEY sworn in as premier on 5 May 2022<br>
+### Executive branch
+- `chief of state`: King CHARLES III (since 8 September 2022); represented by Governor Daniel PRUCE (since 29 January 2024)
+- `head of government`: Premier Dr. Natalio WHEATLEY (since 5 May 2022)
+- `cabinet`: Executive Council appointed by the governor from members of the House of Assembly
+- `elections/appointments`: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor
+**note;*_issue_* on 5 May 2022, Premier Andrew FAHIE was removed from office by a no confidence vote in House of Assembly following his arrest on drug trafficking and money laundering charges on 28 April 2022; Premier Dr. Natalio WHEATLEY sworn in as premier on 5 May 2022
 
-**Legislative branch**<br>
-_description_: unicameral House of Assembly (15 seats; 13 members - 9 in single-seat constituencies and 4 members in a single, nationwide constituency directly elected by simple majority vote and 2 ex-officio members - the attorney general and the speaker - chosen from outside the House; members serve 4-year terms)<br>
-_elections_: last held on 24 April 2023 (next to be held in 2027)<br>
-_election results_: percent of vote by party - VIP 39.6%, NDP 29.1, PVIM 15.7%, PU 5%, independent 10.6%; seats by party - VIP 6, NDP 3, PVIM 3, PU 1; composition - men NA, women NA, percentage women NA%; note - percentages reflect 9 elected single seat constituencies, seat total includes four nationwide at-large elected members<br>
+### Legislative branch
+- `description`: unicameral House of Assembly (15 seats; 13 members - 9 in single-seat constituencies and 4 members in a single, nationwide constituency directly elected by simple majority vote and 2 ex-officio members - the attorney general and the speaker - chosen from outside the House; members serve 4-year terms)
+- `elections`: last held on 24 April 2023 (next to be held in 2027)
+- `election results`: percent of vote by party - VIP 39.6%, NDP 29.1, PVIM 15.7%, PU 5%, independent 10.6%; seats by party - VIP 6, NDP 3, PVIM 3, PU 1; composition - men NA, women NA, percentage women NA%; note - percentages reflect 9 elected single seat constituencies, seat total includes four nationwide at-large elected members
 
-**Judicial branch**<br>
-_highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 3 in the British Virgin Islands<br>
-_judge selection and term of office_: Eastern Caribbean Supreme Court chief justice appointed by His Majesty, King Charles III; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
-_subordinate courts_: Magistrates' Courts<br>
+### Judicial branch
+- `highest court(s)`: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 3 in the British Virgin Islands
+- `judge selection and term of office`: Eastern Caribbean Supreme Court chief justice appointed by His Majesty, King Charles III; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62
+- `subordinate courts`: Magistrates' Courts
 
-**Political parties**<br>
-National Democratic Party or NDP<br>Progressive Virgin Islands Movement or PVIM<br>Progressives United or PU<br>Virgin Islands Party or VIP<br>
+### Political parties
+National Democratic Party or NDPProgressive Virgin Islands Movement or PVIMProgressives United or PUVirgin Islands Party or VIP
 
-**International organization participation**<br>
-ACS (associate), Caricom (associate), CDB, Interpol (subbureau), IOC, OECS, UNESCO (associate), UPU<br>
+### International organization participation
+ACS (associate), Caricom (associate), CDB, Interpol (subbureau), IOC, OECS, UNESCO (associate), UPU
 
-**Diplomatic representation in the US**<br>
-none (overseas territory of the UK)<br>
+### Diplomatic representation in the US
+none (overseas territory of the UK)
 
-**Diplomatic representation from the US**<br>
-_embassy_: none (overseas territory of the UK)<br>
+### Diplomatic representation from the US
+- `embassy`: none (overseas territory of the UK)
 
-**Flag description**<br>
-blue with the flag of the UK in the upper hoist-side quadrant and the Virgin Islander coat of arms centered in the outer half of the flag; the coat of arms depicts a woman flanked on either side by a vertical column of six oil lamps above a scroll bearing the Latin word VIGILATE (Be Watchful); the islands were named by COLUMBUS in 1493 in honor of Saint Ursula and her 11 virgin followers (some sources say 11,000) who reputedly were martyred by the Huns in the 4th or 5th century; the figure on the banner holding a lamp represents the saint; the other lamps symbolize her followers<br>
+### Flag description
+blue with the flag of the UK in the upper hoist-side quadrant and the Virgin Islander coat of arms centered in the outer half of the flag; the coat of arms depicts a woman flanked on either side by a vertical column of six oil lamps above a scroll bearing the Latin word VIGILATE (Be Watchful); the islands were named by COLUMBUS in 1493 in honor of Saint Ursula and her 11 virgin followers (some sources say 11,000) who reputedly were martyred by the Huns in the 4th or 5th century; the figure on the banner holding a lamp represents the saint; the other lamps symbolize her followers
 
-**National symbol(s)**<br>
-zenaida dove, white cedar flower; national colors: yellow, green, red, white, blue<br>
+### National symbol(s)
+zenaida dove, white cedar flower; national colors: yellow, green, red, white, blue
 
-**National anthem**<br>
-<p><strong>note:</strong> as an overseas territory of the United Kingdom, "God Save the King" is official (see United Kingdom)</p><br>
+### National anthem
+**note**:  as an overseas territory of the United Kingdom, "God Save the King" is official (see United Kingdom)
 
 ## Economy
 
-**Economic overview**<br>
-British Caribbean island territorial economy; strong tourism and services industries; vulnerable to hurricanes; navigating public debt insolvency since 2008 Crisis; considered a tax haven; high electrification costs; major rum exporter<br>
+### Economic overview
+British Caribbean island territorial economy; strong tourism and services industries; vulnerable to hurricanes; navigating public debt insolvency since 2008 Crisis; considered a tax haven; high electrification costs; major rum exporter
 
-**Real GDP (purchasing power parity)**<br>
-$500 million (2017 est.)<br>
-$490.2 million (2016 est.)<br>
-$481.1 million (2015 est.)<br>
+### Real GDP (purchasing power parity)
+$500 million (2017 est.)
+$490.2 million (2016 est.)
+$481.1 million (2015 est.)
 
-**Real GDP growth rate**<br>
-2% (2017 est.)<br>
-1.9% (2016 est.)<br>
-1.8% (2015 est.)<br>
+### Real GDP growth rate
+2% (2017 est.)
+1.9% (2016 est.)
+1.8% (2015 est.)
 
-**Real GDP per capita**<br>
-$34,200 (2017 est.)<br>
+### Real GDP per capita
+$34,200 (2017 est.)
 
-**GDP (official exchange rate)**<br>
-$1.38 billion (2018 est.)<br>
+### GDP (official exchange rate)
+$1.38 billion (2018 est.)
 
-**Inflation rate (consumer prices)**<br>
-4.2% (2022 est.)<br>
-2.8% (2021 est.)<br>
-0.4% (2020 est.)<br>
+### Inflation rate (consumer prices)
+4.2% (2022 est.)
+2.8% (2021 est.)
+0.4% (2020 est.)
 
-**GDP - composition, by sector of origin**<br>
-_agriculture_: 0.2% (2017 est.)<br>
-_industry_: 6.8% (2017 est.)<br>
-_services_: 93.1% (2017 est.)<br>
+### GDP - composition, by sector of origin
+- `agriculture`: 0.2% (2017 est.)
+- `industry`: 6.8% (2017 est.)
+- `services`: 93.1% (2017 est.)
 
-**GDP - composition, by end use**<br>
-_household consumption_: 25.1% (2017 est.)<br>
-_government consumption_: 7.5% (2017 est.)<br>
-_investment in fixed capital_: 21.7% (2017 est.)<br>
-_investment in inventories_: 20.4% (2017 est.)<br>
-_exports of goods and services_: 94.7% (2017 est.)<br>
-_imports of goods and services_: -69.4% (2017 est.)<br>
+### GDP - composition, by end use
+- `household consumption`: 25.1% (2017 est.)
+- `government consumption`: 7.5% (2017 est.)
+- `investment in fixed capital`: 21.7% (2017 est.)
+- `investment in inventories`: 20.4% (2017 est.)
+- `exports of goods and services`: 94.7% (2017 est.)
+- `imports of goods and services`: -69.4% (2017 est.)
 
-**Agricultural products**<br>
-fruits, vegetables; livestock, poultry; fish<br>
+### Agricultural products
+fruits, vegetables; livestock, poultry; fish
 
-**Industries**<br>
-tourism, light industry, construction, rum, concrete block, offshore banking center<br>
+### Industries
+tourism, light industry, construction, rum, concrete block, offshore banking center
 
-**Industrial production growth rate**<br>
-1.1% (2017 est.)<br>
+### Industrial production growth rate
+1.1% (2017 est.)
 
-**Unemployment rate**<br>
-2.9% (2015 est.)<br>
+### Unemployment rate
+2.9% (2015 est.)
 
-**Budget**<br>
-_revenues_: $400 million (2017 est.)<br>
-_expenditures_: $400 million (2017 est.)<br>
+### Budget
+- `revenues`: $400 million (2017 est.)
+- `expenditures`: $400 million (2017 est.)
 
-**Taxes and other revenues**<br>
-38.9% (of GDP) (2017 est.)<br>
+### Taxes and other revenues
+38.9% (of GDP) (2017 est.)
 
-**Exports**<br>
-$23 million (2017 est.)<br>
-$23 million (2015 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+### Exports
+$23 million (2017 est.)
+$23 million (2015 est.)
+**note**:  Data are in current year dollars and do not include illicit exports or re-exports.
 
-**Exports - partners**<br>
-Malta 30%, Seychelles 29%, Switzerland 14% (2019)<br>
+### Exports - partners
+Malta 30%, Seychelles 29%, Switzerland 14% (2019)
 
-**Exports - commodities**<br>
-aircraft, recreational boats, ships, hydrogen, halogens (2021)<br>
+### Exports - commodities
+aircraft, recreational boats, ships, hydrogen, halogens (2021)
 
-**Imports**<br>
-$300 million (2017 est.)<br>
-$210 million (2016 est.)<br>
+### Imports
+$300 million (2017 est.)
+$210 million (2016 est.)
 
-**Imports - partners**<br>
-Germany 32%, United States 22%, Italy 9%, France 7%, Seychelles 7% (2019)<br>
+### Imports - partners
+Germany 32%, United States 22%, Italy 9%, France 7%, Seychelles 7% (2019)
 
-**Imports - commodities**<br>
-recreational boats, aircraft, refined petroleum, cars, furniture (2019)<br>
+### Imports - commodities
+recreational boats, aircraft, refined petroleum, cars, furniture (2019)
 
-**Exchange rates**<br>
-<p>the US dollar is used</p><br>
+### Exchange rates
+the US dollar is used
 
 ## Energy
 
-**Electricity access**<br>
-_electrification - total population_: 100% (2022 est.)<br>
+### Electricity access
+- `electrification - total population`: 100% (2022 est.)
 
-**Electricity**<br>
-_installed generating capacity_: 47,000 kW (2022 est.)<br>
-_consumption_: 161.368 million kWh (2022 est.)<br>
-_transmission/distribution losses_: 10.179 million kWh (2022 est.)<br>
+### Electricity
+- `installed generating capacity`: 47,000 kW (2022 est.)
+- `consumption`: 161.368 million kWh (2022 est.)
+- `transmission/distribution losses`: 10.179 million kWh (2022 est.)
 
-**Electricity generation sources**<br>
-_fossil fuels_: 99.1% of total installed capacity (2022 est.)<br>
-_solar_: 0.2% of total installed capacity (2022 est.)<br>
-_wind_: 0.7% of total installed capacity (2022 est.)<br>
+### Electricity generation sources
+- `fossil fuels`: 99.1% of total installed capacity (2022 est.)
+- `solar`: 0.2% of total installed capacity (2022 est.)
+- `wind`: 0.7% of total installed capacity (2022 est.)
 
-**Coal**<br>
-_imports_: 20 metric tons (2022 est.)<br>
+### Coal
+- `imports`: 20 metric tons (2022 est.)
 
-**Petroleum**<br>
-_refined petroleum consumption_: 1,000 bbl/day (2022 est.)<br>
+### Petroleum
+- `refined petroleum consumption`: 1,000 bbl/day (2022 est.)
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 191,000 metric tonnes of CO2 (2022 est.)<br>
-_from petroleum and other liquids_: 191,000 metric tonnes of CO2 (2022 est.)<br>
+### Carbon dioxide emissions
+- `total emissions`: 191,000 metric tonnes of CO2 (2022 est.)
+- `from petroleum and other liquids`: 191,000 metric tonnes of CO2 (2022 est.)
 
-**Energy consumption per capita**<br>
-_Total energy consumption per capita 2022_: 87.47 million Btu/person (2022 est.)<br>
+### Energy consumption per capita
+- `Total energy consumption per capita 2022`: 87.47 million Btu/person (2022 est.)
 
 ## Communications
 
-**Telephones - fixed lines**<br>
-_total subscriptions_: 23,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 73 (2021 est.)<br>
+### Telephones - fixed lines
+- `total subscriptions`: 23,000 (2021 est.)
+- `subscriptions per 100 inhabitants`: 73 (2021 est.)
 
-**Telephones - mobile cellular**<br>
-_total subscriptions_: 38,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 121 (2021 est.)<br>
+### Telephones - mobile cellular
+- `total subscriptions`: 38,000 (2021 est.)
+- `subscriptions per 100 inhabitants`: 121 (2021 est.)
 
-**Telecommunication systems**<br>
-_general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one major casualty may be the region&rsquo;s second largest telco operator, Digicel; the company filed for bankruptcy in the US in April 2020; it continues to operate in all of its Caribbean markets as it seeks to refinance billions of dollars of debt; the other major telco, regional incumbent Cable &amp; Wireless Communications (CWC), is experiencing similar drops in subscriber numbers and revenue; CWC is expanding and enhancing its fixed and mobile networks in many of the countries it serves around the Caribbean, despite many locations being small islands with very small populations; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage. (2021)<br>
-_domestic_: fixed-line connections exceed 22 per 100 persons and mobile cellular subscribership is roughly 110 per 100 persons (2021)<br>
-_international_: country code - 1-284; landing points for PCCS, ECFS, CBUS, Deep Blue Cable, East-West, PAN-AM, Americas-1, Southern Caribbean Fiber, Columbus- IIb, St Thomas - St Croix System, Taino-Carib, and Americas I- North&nbsp;via submarine cable to Caribbean, Central and South America, and US (2019)<br>
+### Telecommunication systems
+- `general assessment`: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one major casualty may be the region’s second largest telco operator, Digicel; the company filed for bankruptcy in the US in April 2020; it continues to operate in all of its Caribbean markets as it seeks to refinance billions of dollars of debt; the other major telco, regional incumbent Cable & Wireless Communications (CWC), is experiencing similar drops in subscriber numbers and revenue; CWC is expanding and enhancing its fixed and mobile networks in many of the countries it serves around the Caribbean, despite many locations being small islands with very small populations; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage. (2021)
+- `domestic`: fixed-line connections exceed 22 per 100 persons and mobile cellular subscribership is roughly 110 per 100 persons (2021)
+- `international`: country code - 1-284; landing points for PCCS, ECFS, CBUS, Deep Blue Cable, East-West, PAN-AM, Americas-1, Southern Caribbean Fiber, Columbus- IIb, St Thomas - St Croix System, Taino-Carib, and Americas I- North via submarine cable to Caribbean, Central and South America, and US (2019)
 
-**Broadcast media**<br>
-1 private TV station; multi-channel TV is available from cable and satellite subscription services; about a half-dozen private radio stations<br>
+### Broadcast media
+1 private TV station; multi-channel TV is available from cable and satellite subscription services; about a half-dozen private radio stations
 
-**Internet country code**<br>
-.vg<br>
+### Internet country code
+.vg
 
-**Internet users**<br>
-_total_: 24,087 (2021 est.)<br>
-_percent of population_: 77.7% (2021 est.)<br>
+### Internet users
+- `total`: 24,087 (2021 est.)
+- `percent of population`: 77.7% (2021 est.)
 
-**Broadband - fixed subscriptions**<br>
-_total_: 6,738 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 22 (2020 est.)<br>
+### Broadband - fixed subscriptions
+- `total`: 6,738 (2020 est.)
+- `subscriptions per 100 inhabitants`: 22 (2020 est.)
 
 ## Transportation
 
-**Civil aircraft registration country code prefix**<br>
-VP-L<br>
+### Civil aircraft registration country code prefix
+VP-L
 
-**Airports**<br>
-3 (2024)<br>
+### Airports
+3 (2024)
 
-**Heliports**<br>
-1 (2024)<br>
+### Heliports
+1 (2024)
 
-**Roadways**<br>
-_total_: 200 km<br>
-_paved_: 200 km (2007)<br>
+### Roadways
+- `total`: 200 km
+- `paved`: 200 km (2007)
 
-**Merchant marine**<br>
-_total_: 29 (2023)<br>
-_by type_: general cargo 3, other 26<br>
+### Merchant marine
+- `total`: 29 (2023)
+- `by type`: general cargo 3, other 26
 
-**Ports**<br>
-_total ports_: 1 (2024)<br>
-_large_: 0<br>
-_medium_: 1<br>
-_small_: 0<br>
-_very small_: 0<br>
-_ports with oil terminals_: 1<br>
-_key ports_: Road Harbor<br>
+### Ports
+- `total ports`: 1 (2024)
+- `large`: 0
+- `medium`: 1
+- `small`: 0
+- `very small`: 0
+- `ports with oil terminals`: 1
+- `key ports`: Road Harbor
 
 ## Military and Security
 
-**Military - note**<br>
-defense is the responsibility of the UK<br>
+### Military - note
+defense is the responsibility of the UK
 
 ## Transnational Issues
 
-**Illicit drugs**<br>
-transshipment point for South American narcotics destined for the US and Europe; large offshore financial center makes it vulnerable to money laundering<br>
+### Illicit drugs
+transshipment point for South American narcotics destined for the US and Europe; large offshore financial center makes it vulnerable to money laundering
 
