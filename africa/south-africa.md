@@ -344,7 +344,7 @@ has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
 - `head of government`: President Matamela Cyril RAMAPHOSA (since 19 June 2024)
 - `cabinet`: Cabinet appointed by the president
 - `elections/appointments`: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 29 May 2024 (next to be held in 2029) note - the president is both chief of state and head of government
-- `election results`: *2024: *Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed*  2019: *Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed  *2014:* Jacob ZUMA (ANC) reelected president by the National Assembly unopposed   
+- `election results`: *2024: *Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed*  2019: *Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed  *2014:* Jacob ZUMA (ANC) reelected president by the National Assembly unopposed  
 
 ### Legislative branch
 - `description`: bicameral Parliament consists of:  National Council of Provinces (90 seats; nine 10-member delegations, each with 6 permanent delegates and 4 special delegates, appointed by each of the 9 provincial legislatures to serve 5-year terms; note - the Council has special powers to protect regional interests, including safeguarding cultural and linguistic traditions among ethnic minorities)  National Assembly (400 seats; half the members directly elected in multi-seat constituencies and half in a single nationwide constituency, both by proportional representation popular vote; members serve 5-year terms)

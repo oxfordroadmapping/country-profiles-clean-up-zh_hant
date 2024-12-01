@@ -331,7 +331,7 @@ has not submitted an ICJ jurisdiction declaration; withdrew acceptance of ICCt j
 - `head of government`: Prime Minister Benyamin NETANYAHU (since 29 December 2022)
 - `cabinet`: Cabinet selected by prime minister and approved by the Knesset
 - `elections/appointments`: president indirectly elected by the Knesset for a single 7-year term; election last held on 2 June 2021 (next to be held in June 2028); following legislative elections, the president, in consultation with party leaders, tasks a Knesset member (usually the member of the largest party) with forming a new government
-- `election results`: *2021:* Isaac HERZOG elected president; Knesset vote in first round - Isaac HERZOG (independent) 87, Miriam PERETZ (independent) 26, invalid/blank 7  *2014:* Reuven RIVLIN elected president in second round; Knesset vote - Reuven RIVLIN (Likud) 63, Meir SHEETRIT (The Movement) 53, other/invalid 4  
+- `election results`: *2021:* Isaac HERZOG elected president; Knesset vote in first round - Isaac HERZOG (independent) 87, Miriam PERETZ (independent) 26, invalid/blank 7  *2014:* Reuven RIVLIN elected president in second round; Knesset vote - Reuven RIVLIN (Likud) 63, Meir SHEETRIT (The Movement) 53, other/invalid 4 
 
 ### Legislative branch
 - `description`: unicameral Knesset (120 seats; members directly elected in a single nationwide constituency by closed party-list proportional representation vote; members serve 4-year terms)

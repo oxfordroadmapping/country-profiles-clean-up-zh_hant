@@ -264,7 +264,7 @@ tropical; moderated by altitude; rainy season (November to March)
 - `rate of urbanization`: 2.41% annual rate of change (2020-25 est.)
 
 ### Food insecurity
-- `widespread lack of access`: **due to high food prices*** **-* based on a government assessment, an estimated 3.8 million people are expected to be in need of humanitarian assistance between January and March 2023; this number is higher than the level estimated in the first quarter of 2022; the downturn in food security conditions is largely on account of poor food access resulting from prevailing high food prices and reduced incomes owing to the effects of an economic downturn; a decline in cereal production in 2022 has also aggravated conditions (2023)
+- `widespread lack of access`: **due to high food prices***-* based on a government assessment, an estimated 3.8 million people are expected to be in need of humanitarian assistance between January and March 2023; this number is higher than the level estimated in the first quarter of 2022; the downturn in food security conditions is largely on account of poor food access resulting from prevailing high food prices and reduced incomes owing to the effects of an economic downturn; a decline in cereal production in 2022 has also aggravated conditions (2023)
 
 ### Revenue from forest resources
 1.61% of GDP (2018 est.)

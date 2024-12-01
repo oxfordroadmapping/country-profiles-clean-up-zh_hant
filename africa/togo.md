@@ -337,7 +337,7 @@ accepts compulsory ICJ jurisdiction with reservations; non-party state to the IC
 - `head of government`: Prime Minister Victoire TOMEGAH Dogbé (since 25 September 2020) 
 - `cabinet`: Council of Ministers appointed by the president on the advice of the prime minister
 - `elections/appointments`: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 22 February 2020 (next to be held in 2025); prime minister appointed by the presidentnote- on 21 May 2024 the Prime Minister and her cabinet resigned. The President requested they continue serving during the government transition.
-- `election results`: *2020:* Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 70.8%, Agbeyome KODJO (MPDD) 19.5%, Jean-Pierre FABRE (ANC) 4.7%, other 5%  *2015:* Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 58.8%, Jean-Pierre FABRE (ANC) 35.2%, Tchaboure GOGUE (ADDI) 4%, other 2%  
+- `election results`: *2020:* Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 70.8%, Agbeyome KODJO (MPDD) 19.5%, Jean-Pierre FABRE (ANC) 4.7%, other 5%  *2015:* Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 58.8%, Jean-Pierre FABRE (ANC) 35.2%, Tchaboure GOGUE (ADDI) 4%, other 2% 
 
 ### Legislative branch
 - `description`: unicameral National Assembly or Assemblee Nationale (113 seats; members directly elected in multi-seat constituencies by closed, party-list proportional representation vote to serve 5-year terms)

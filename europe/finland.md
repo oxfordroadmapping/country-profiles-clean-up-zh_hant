@@ -623,7 +623,7 @@ $16.744 billion (2021 est.)
 a mix of 3 publicly operated TV stations and numerous privately owned TV stations; several free and special-interest pay-TV channels; cable and satellite multi-channel subscription services are available; all TV signals are broadcast digitally; Internet television, such as Netflix and others, is available; public broadcasting maintains a network of 13 national and 25 regional radio stations; a large number of private radio broadcasters and access to Internet radio
 
 ### Internet country code
-.fi  
+.fi 
 note - Aland Islands assigned .ax
 
 ### Internet users
