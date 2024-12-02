@@ -2,156 +2,156 @@ _Europe / Dependencies (United Kingdom)_
 
 # Guernsey
 
-## Introduction
+## 介紹
 
-### Background
+### 背景
 Guernsey and the other Channel Islands represent the last remnants of the medieval Duchy of Normandy, which held sway in both France and England. The islands were the only British soil that Germany occupied in World War II. The Bailiwick of Guernsey consists of the main island of Guernsey and a number of smaller islands, including Alderney, Sark, Herm, Jethou, Brecqhou, and Lihou. The Bailiwick is a self-governing British Crown dependency that is not part of the UK. However, the UK Government is constitutionally responsible for its defense and international representation.
 
-## Geography
+## 地理
 
-### Location
+### 地點
 Western Europe, islands in the English Channel, northwest of France
 
-### Geographic coordinates
+### 地理坐標
 49 28 N, 2 35 W
 
-### Map references
+### 地圖參考
 Europe
 
-### Area
+### 面積
 - `total `: 78 sq km
 - `land`: 78 sq km
 - `water`: 0 sq km
 **note**:  includes Alderney, Guernsey, Herm, Sark, and some other smaller islands
 
-### Area - comparative
+### 面積—比較
 about one-half the size of Washington, DC
 
-### Land boundaries
+### 陸地邊界
 - `total`: 0 km
 
-### Coastline
+### 海岸線
 50 km
 
-### Maritime claims
+### 海洋主張
 - `territorial sea`: 12 nm
 - `exclusive fishing zone`: 12 nm
 
-### Climate
+### 氣候
 temperate with mild winters and cool summers; about 50% of days are overcast
 
-### Terrain
+### 地形
 mostly flat with low hills in southwest
 
-### Elevation
+### 海拔
 - `highest point`: Le Moulin on Sark 114 m
 - `lowest point`: English Channel 0 m
 
-### Natural resources
+### 自然資源
 cropland
 
-### Irrigated land
+### 灌溉土地
 NA
 
-### Natural hazards
+### 自然災害
 very large tidal variation and fast currents can make local waters dangerous
 
-### Geography - note
+### 地理—註釋
 large, deepwater harbor at Saint Peter Port
 
-## People and Society
+## 人民和社會
 
-### Population
+### 人口
 - `total`: 67,787
 - `male`: 33,712
 - `female`: 34,075 (2024 est.)
 
-### Nationality
+### 國籍
 - `noun`: Channel Islander(s)
 - `adjective`: Channel Islander
 
-### Ethnic groups
+### 族裔群體
 Guernsey 53.5%, UK and Ireland 23.8%, Portugal 2.1%, Latvia 1.4%, other Europe 2.7%, other Crown Dependencies 0.7%, other 5.3%, unspecified 10.5% (2022 est.)
 **note**:  data represent population by country of birth; the native population is of British and Norman-French descent
 
-### Languages
+### 語文
 English, French, Norman-French dialect spoken in country districts
 
-### Religions
+### 宗教
 Protestant (Anglican, Presbyterian, Baptist, Congregational, Methodist), Roman Catholic
 
-### Age structure
+### 年齡結構
 - `0-14 years`: 14.3% (male 4,999/female 4,717)
 - `15-64 years`: 64.1% (male 21,937/female 21,547)
 - `65 years and over`: 21.5% (2024 est.) (male 6,776/female 7,811)
 
-### Dependency ratios
+### 撫養比率
 - `total dependency ratio`: 48.6
 - `youth dependency ratio`: 23.9
 - `elderly dependency ratio`: 24.6
 - `potential support ratio`: 4.1 (2021 est.)
 **note**:  data represent Guernsey and Jersey
 
-### Median age
+### 年齡中位數
 - `total`: 45 years (2024 est.)
 - `male`: 43.8 years
 - `female`: 46.2 years
 
-### Population growth rate
+### 人口成長率
 0.21% (2024 est.)
 
-### Birth rate
+### 出生率
 9.7 births/1,000 population (2024 est.)
 
-### Death rate
+### 死亡率
 9.2 deaths/1,000 population (2024 est.)
 
-### Net migration rate
+### 淨遷移率
 1.6 migrant(s)/1,000 population (2024 est.)
 
-### Urbanization
+### 都市化
 - `urban population`: 31.2% of total population (2023)
 - `rate of urbanization`: 0.68% annual rate of change (2020-25 est.)
 **note**:  data include Guernsey and Jersey
 
-### Major urban areas - population
+### 主要城市地區—人口
 16,000 SAINT PETER PORT (capital) (2018)
 
-### Sex ratio
+### 性別比例
 - `at birth`: 1.05 male(s)/female
 - `0-14 years`: 1.06 male(s)/female
 - `15-64 years`: 1.02 male(s)/female
 - `65 years and over`: 0.87 male(s)/female
 - `total population`: 0.99 male(s)/female (2024 est.)
 
-### Infant mortality rate
+### 嬰兒死亡率
 - `total`: 3.3 deaths/1,000 live births (2024 est.)
 - `male`: 3.7 deaths/1,000 live births
 - `female`: 2.7 deaths/1,000 live births
 
-### Life expectancy at birth
+### 出生時預期壽命
 - `total population`: 83.6 years (2024 est.)
 - `male`: 80.9 years
 - `female`: 86.4 years
 
-### Total fertility rate
+### 總生育率
 1.59 children born/woman (2024 est.)
 
-### Gross reproduction rate
+### 總繁殖率
 0.77 (2024 est.)
 
-### Contraceptive prevalence rate
+### 避孕普及率
 NA
 
-### Drinking water source
+### 飲用水來源
 - `improved: total`: total: 94.2% of population
 - `unimproved: total`: total: 5.9% of population (2017 est.)
 **note**:  includes data for Jersey
 
-### Current health expenditure
+### 當前醫療支出
 NA
 
-### Sanitation facility access
+### 衛生設施普及程度
 - `improved: urban`: urban: NA
 - `improved: rural`: rural: NA
 - `improved: total`: total: 98% of population
@@ -160,81 +160,81 @@ NA
 - `unimproved: total`: total: 1.2% of population (2017)
 **note**:  data represent Guernsey and Jersey
 
-### Children under the age of 5 years underweight
+### 5歲以下體重不足兒童
 NA
 
-### Education expenditures
+### 教育支出
 NA
 
-### Literacy
+### 識字程度
 - `total population`: NA
 - `male`: NA
 - `female`: NA
 
-## Environment
+## 環境
 
-### Environment - current issues
+### 環境—當前問題
 coastal erosion, coastal flooding; declining biodiversity due to land abandonment and succession to scrub or woodland
 
-### Climate
+### 氣候
 temperate with mild winters and cool summers; about 50% of days are overcast
 
-### Urbanization
+### 都市化
 - `urban population`: 31.2% of total population (2023)
 - `rate of urbanization`: 0.68% annual rate of change (2020-25 est.)
 **note**:  data include Guernsey and Jersey
 
-### Waste and recycling
+### 廢物與回收
 - `municipal solid waste generated annually`: 178,933 tons (2016 est.)
 - `municipal solid waste recycled annually`: 50,871 tons (2016 est.)
 - `percent of municipal solid waste recycled`: 28.4% (2016 est.)
 **note**:  data include combined totals for Guernsey and Jersey.
 
-## Government
+## 政府
 
-### Country name
+### 國家名稱
 - `conventional long form`: Bailiwick of Guernsey
 - `conventional short form`: Guernsey
 - `former`: Norman Isles
 - `etymology`: the name is of Old Norse origin, but the meaning of the root "Guern(s)" is uncertain; the "-ey" ending means "island"
 
-### Government type
+### 政府類型
 parliamentary democracy (States of Deliberation)
 
-### Dependency status
+### 附屬狀況
 British crown dependency
 
-### Capital
+### 首都
 - `name`: Saint Peter Port
 - `geographic coordinates`: 49 27 N, 2 32 W
 - `time difference`: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
 - `daylight saving time`: +1hr, begins last Sunday in March; ends last Sunday in October
 - `etymology`: Saint Peter Port is the name of the town and its surrounding parish; the "port" distinguishes this parish from that of Saint Peter on the other side of the island
 
-### Administrative divisions
+### 行政區劃
 none (British Crown dependency); there are no first-order administrative divisions as defined by the US Government, but there are 10 parishes: Castel, Forest, Saint Andrew, Saint Martin, Saint Peter Port, Saint Pierre du Bois, Saint Sampson, Saint Saviour, Torteval, Vale
 **note**:  two additional parishes for Guernsey are sometimes listed - Saint Anne on the island of Alderney and Saint Peter on the island of Sark - but they are generally not included in the enumeration of parishes
 
-### Independence
+### 獨立性
 none (British Crown dependency)
 
-### National holiday
+### 國定假日
 Liberation Day, 9 May (1945)
 
-### Legal system
+### 法律制度
 customary legal system based on Norman customary law; includes elements of the French civil code and English common law
 
-### Constitution
+### 憲法
 - `history`: unwritten; includes royal charters, statutes, and common law and practice
 - `amendments`: new laws or changes to existing laws are initiated by the States of Deliberation; passage requires majority vote; many laws have been passed; in 2019, 60 laws were passed
 
-### Citizenship
+### 公民身份
 see United Kingdom
 
-### Suffrage
+### 選舉權
 16 years of age; universal
 
-### Executive branch
+### 行政部門
 - `chief of state`: King CHARLES III (since 8 September 2022); represented by Lieutenant-Governor Richard CRIPWELL (since 15 February 2022)
 - `head of government`: Chief Minister Lyndon TROTT (since 13 December 2023)
 - `cabinet`: none
@@ -242,108 +242,108 @@ see United Kingdom
 - `election results`: *2020: *Peter FERBRACHE (independent) elected president of the Policy and Resources Committee and chief minister: percent of States of Guernsey vote - 57.5%*  2016:* Gavin ST. PIER (independent) elected president of the Policy and Resources Committee and chief minister
 **note**:  the chief minister is the president of the Policy and Resources Committee and is the de facto head of government; the Policy and Resources Committee, elected by the States of Deliberation, functions as the executive; the 5 members all have equal voting rights
 
-### Legislative branch
+### 立法部門
 - `description`: unicameral States of Deliberation (40 seats; 38 People's Deputies and 2 representatives of the States of Alderney; members directly elected by majority vote to serve 4-year terms)
 - `elections`: last held on 7 October 2020 (next to be held in June 2025)
 - `election results`: percent of vote - GPI 24.0%, GP 10%, APG 3.4%, independent 62.6%; seats - GPI 10, GP 6, independent 22, States of Alderney 2; composition - men 32, women 8, percentage women 20%
 **note**:  non-voting members include the bailiff (presiding officer), attorney-general, and solicitor-general
 
-### Judicial branch
+### 司法部門
 - `highest court(s)`: Guernsey Court of Appeal (consists of the Bailiff of Guernsey, who is the ex-officio president of the Guernsey Court of Appeal, and at least 12 judges); Royal Court (organized into 3 divisions - Full Court sits with 1 judge and 7 to 12 jurats acting as judges of fact, Ordinary Court sits with 1 judge and normally 3 jurats, and Matrimonial Causes Division sits with 1 judge and 4 jurats); note - appeals beyond Guernsey courts are heard by the Judicial Committee of the Privy Council (in London)
 - `judge selection and term of office`: Royal Court Bailiff, Deputy Bailiff, and Court of Appeal justices appointed by the British Crown and hold office at Her Majesty's pleasure; jurats elected by the States of Election, a body chaired by the Bailiff and a number of jurats
 - `subordinate courts`: Court of Alderney; Court of the Seneschal of Sark; Magistrates' Court (includes Juvenile Court); Contracts Court; Ecclesiastical Court; Court of Chief Pleas
 
-### Political parties
+### 政黨
 Alliance Party Guernsey or APG Guernsey Partnership of Independents or GPI Guernsey Party or GP 
 
-### International organization participation
+### 國際組織參與
 UPU
 
-### Diplomatic representation in the US
+### 駐美國的外交代表機構
 none (British crown dependency)
 
-### Diplomatic representation from the US
+### 駐該國的美國外交代表
 - `embassy`: none (British crown dependency)
 
-### Flag description
+### 旗幟說明
 white with the red cross of Saint George (patron saint of England) extending to the edges of the flag and a yellow equal-armed cross of William the Conqueror superimposed on the Saint George cross; the red cross represents the old ties with England and the fact that Guernsey is a British Crown dependency; the gold cross is a replica of the one used by William the Conqueror at the Battle of Hastings in 1066
 
-### National symbol(s)
+### 國家符號
 Guernsey cow, donkey; national colors: red, white, yellow
 
-### National anthem
+### 國歌
 - `name`: "Sarnia Cherie" (Guernsey Dear)
 - `lyrics/music`: George DEIGHTON/Domencio SANTANGELO
 **note**:  adopted 1911; serves as a local anthem; as a British crown dependency, "God Save the King" is official (see United Kingdom)
 
-## Economy
+## 經濟
 
-### Economic overview
+### 經濟概況
 high-income English Channel island economy; strong financial sector but stressed due to COVID-19 disruptions; manufacturing, tourism, and construction industries suffered but expected to recover; stable inflation; maintains independent taxation authority
 
-### Real GDP (purchasing power parity)
+### 實質GDP（購買力平價國內生產總值）
 $3.465 billion (2015 est.)
 $3.451 billion (2014 est.)
 **note**:  data are in 2015 dollars
 
-### Real GDP growth rate
+### 實質GDP成長率
 7.81% (2022 est.)
 15.46% (2021 est.)
 -8.47% (2020 est.)
 **note**: annual GDP % growth based on constant local currency; entry includes Jersey and Guernsey
 
-### Real GDP per capita
+### 人均實質GDP
 $52,500 (2014 est.)
 
-### GDP (official exchange rate)
+### GDP（官方匯率國內生產總值）
 $11.228 billion (2022 est.)
 **note**: data in current dollars at official exchange rate; entry includes Jersey and Guernsey
 
-### GDP - composition, by sector of origin
+### GDP—構成，按原產出部門
 - `agriculture`: 0.8% (2022 est.)
 - `industry`: 8.4% (2022 est.)
 - `services`: 92% (2022 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
-### Agricultural products
+### 農產品
 tomatoes, greenhouse flowers, sweet peppers, eggplant, fruit; Guernsey cattle
 
-### Industries
+### 工業
 tourism, banking
 
-### Industrial production growth rate
+### 工業生產成長率
 1.64% (2022 est.)
 **note**: annual % change in industrial value added based on constant local currency; entry includes Jersey and Guernsey
 
-### Labor force
+### 勞動力
 86,000 (2023 est.)
 **note**: number of people ages 15 or older who are employed or seeking work;entry includes Jersey and Guernsey
 
-### Unemployment rate
+### 失業率
 5.98% (2023 est.)
 5.91% (2022 est.)
 6.61% (2021 est.)
 **note**: % of labor force seeking employment; entry includes Jersey and Guernsey
 
-### Youth unemployment rate (ages 15-24)
+### 青年失業率（15-24歲）
 - `total`: 13.5% (2023 est.)
 - `male`: 13.7% (2023 est.)
 - `female`: 13.2% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
-### Exports - partners
+### 出口—夥伴
 almost entirely United Kingdom (2022)
 
-### Exports - commodities
+### 出口—商品
 aircraft, photo lab equipment, clocks, ships, paintings, scientific instruments (2022)
 
-### Imports - partners
+### 進口—夥伴
 almost entirely United Kingdom (2022)
 
-### Imports - commodities
+### 進口—商品
 ships, aircraft, refined petroleum, mineral manufactures, beverages (2022)
 
-### Exchange rates
+### 匯率
 - `Currency`: Guernsey pound per US dollar
 0.805 (2023 est.)
 0.811 (2022 est.)
@@ -351,57 +351,57 @@ ships, aircraft, refined petroleum, mineral manufactures, beverages (2022)
 0.78 (2020 est.)
 0.783 (2019 est.)
 
-## Energy
+## 能源
 
-### Electricity access
+### 供電普及程度
 - `electrification - total population`: 100% (2022 est.)
 **note**:  includes Guernsey and Jersey
 
-## Communications
+## 通訊
 
-### Telephones - fixed lines
+### 電話—固定線路
 - `total subscriptions`: 33,930 (2021 est.)
 - `subscriptions per 100 inhabitants`: 53 (2021 est.)
 
-### Telephones - mobile cellular
+### 電話—移動電話
 - `total subscriptions`: 71,485 (2021 est.)
 - `subscriptions per 100 inhabitants`: 112 (2021 est.)
 
-### Telecommunication systems
+### 電信系統
 - `general assessment`: fixed network broadband services are those delivered over physical copper connections, fiber connections and fixed wireless communications links (e.g. WiMax); they do not include services delivered over 2G, 3G and 4G mobile networks (2021)
 - `domestic`: fixed-line 53 per 100 and mobile-cellular 112 per 100 persons (2021)
 - `international`: country code - 44; landing points for Guernsey-Jersey, HUGO, INGRID, Channel Islands -9 Liberty and UK-Channel Islands-7 submarine cable to UK and France (2019)
 
-### Broadcast media
+### 廣播媒體
 multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey with relays in Jersey, Guernsey, and Alderney; satellite packages are available; BBC Radio Guernsey and 1 other radio station operating
 
-### Internet country code
+### 網際網路國家代碼
 .gg
 
-### Internet users
+### 網際網路使用者
 - `total`: 55,069 (2021 est.)
 - `percent of population`: 86.6% (2021 est.)
 
-### Broadband - fixed subscriptions
+### 寬頻網路—固定訂閱
 - `total`: 25,336 (2020 est.)
 - `subscriptions per 100 inhabitants`: 40 (2020 est.)
 
-## Transportation
+## 交通運輸
 
-### National air transport system
+### 國家空運系統
 - `number of registered air carriers`: 1 (2020) (registered in UK)
 - `inventory of registered aircraft operated by air carriers`: 9 (registered in UK)
 
-### Civil aircraft registration country code prefix
+### 註冊民用航空器國家代碼前綴
 2
 
-### Airports
+### 機場
 2 (2024)
 
-### Roadways
+### 道路
 - `total`: 260 km (2017)
 
-### Ports
+### 港口
 - `total ports`: 3 (2024)
 - `large`: 0
 - `medium`: 0
@@ -410,13 +410,13 @@ multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey w
 - `ports with oil terminals`: 2
 - `key ports`: Alderney Harbour, Saint Peter Port, Saint Sampson
 
-## Military and Security
+## 軍事和安全
 
-### Military - note
+### 軍事—註釋
 defense is the responsibility of the UK
 
-## Transnational Issues
+## 跨國議題
 
-### Illicit drugs
+### 非法藥物
 NA
 

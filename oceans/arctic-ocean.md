@@ -2,43 +2,43 @@ _Oceans / Oceans_
 
 # Arctic Ocean
 
-## Introduction
+## 介紹
 
-### Background
+### 背景
 The Arctic Ocean is the smallest of the world's five ocean basins (after the Pacific Ocean, Atlantic Ocean, Indian Ocean, and the Southern Ocean). The Northwest Passage (US and Canada) and Northern Sea Route (Norway and Russia) are two important seasonal waterways. In recent years, the polar ice pack has receded in the summer allowing for increased navigation and raising the possibility of future sovereignty and shipping disputes among the Arctic coastal states affected (Canada, Denmark (Greenland), Iceland, Norway, Russia, US).
 
-## Geography
+## 地理
 
-### Location
+### 地點
 body of water between Europe, Asia, and North America, mostly north of the Arctic Circle
 
-### Geographic coordinates
+### 地理坐標
 90 00 N, 0 00 E
 
-### Map references
+### 地圖參考
 Arctic Region
 
-### Area
+### 面積
 - `total `: 15.558 million sq km
 **note**:  includes Barents Sea, Beaufort Sea, Chukchi Sea, East Siberian Sea, Greenland Sea, Kara Sea, Laptev Sea, Northwest Passage, Norwegian Sea, and other tributary water bodies
 
-### Area - comparative
+### 面積—比較
 slightly less than 1.5 times the size of the US
 
-### Coastline
+### 海岸線
 45,389 km
 
-### Climate
+### 氣候
 polar climate characterized by persistent cold and relatively narrow annual temperature range; winters characterized by continuous darkness, cold and stable weather conditions, and clear skies; summers characterized by continuous daylight, damp and foggy weather, and weak cyclones with rain or snow
 
-### Ocean volume
+### 海洋體量
 - `ocean volume`: 18.75 million cu km
 - `percent of World Ocean total volume`: 1.4%
 
-### Major ocean currents
+### 主要洋流
 two major, slow-moving, wind-driven currents (drift streams) dominate: a clockwise drift pattern in the Beaufort Gyre in the western part of the Arctic Ocean and a nearly straight line Transpolar Drift Stream that moves eastward across the ocean from the New Siberian Islands (Russia) to the Fram Strait (between Greenland and Svalbard); sea ice that lies close to the center of the gyre can complete a 360 degree circle in about 2 years, while ice on the gyre periphery will complete the same circle in about 7-8 years; sea ice in the Transpolar Drift crosses the ocean in about 3 years
 
-### Bathymetry
+### 海洋測深
 - `continental shelf`: The *continental shelf *(see Figure 1), a rather flat area of the sea floor adjacent to the coast that gradually slopes down from the shore to water depths that are typically less than 200 m (660 ft). Dimensions can vary: they may be narrow or nearly nonexistent in some places or extend for hundreds of miles in others. The waters above the continental shelf are usually productive in both plant and animal life, both from sunlight and nutrients from ocean upwelling and terrestrial runoff. More than one quarter of the Arctic sea floor is *continental shelf*. The Eurasian shelf is very wide, extending out 1,500 km (930 mi), and is the largest *continental shelf* in the world. The following are examples of features found on the *continental shelf* of the Arctic Ocean (see Figure 2).  Barents ShelfBeaufort ShelfDavis SillChukchi ShelfEast Siberian ShelfKara ShelfLaptev ShelfLincoln Shelf
 - `continental slope`: The *continental slope* (see Figure 1) is where the ocean bottom drops off more rapidly until it meets the deep-sea floor (abyssal plain) at depths exceeding 3,000 m (9,850 ft). The deep waters of the continental slope are characterized by cold temperatures, low light conditions, and very high pressures. Sunlight does not penetrate to these depths, having been absorbed or reflected in the water above. The continental slope can be indented by submarine canyons, often associated with the outflow of major rivers. Another feature of the continental slope is alluvial fans, or cones of sediments, that major rivers carry downstream to the ocean and deposit down the slope. The following are examples of features found on the *continental slope* of the Arctic Ocean (see Figure 2):  Litke TroughNovaya Zemlya TroughSvyataya Anna Trough (Saint Anna Trough)Voronin Trough
 - `abyssal plains`: The *abyssal plains *(see Figure 1), at depths of over 3,000 m (10,000 ft) and covering 70% of the ocean floor, are the largest habitat on earth. Sunlight does not penetrate to the sea floor, making these deep, dark ecosystems less productive than those along the continental shelf. Despite their name, these “plains” are not uniformly flat; they are interrupted by features like hills, valleys, and seamounts. The following are examples of features found on the *abyssal plains* of the Arctic Ocean (see Figure 2):  Baffin BasinCanada BasinFram/Amundsen BasinGreenland Abyssal PlainIceland BasinMakarov BasinMolloy Deep; note - deepest point in the Arctic OceanNansen BasinNorwegian Basin
@@ -47,48 +47,48 @@ two major, slow-moving, wind-driven currents (drift streams) dominate: a clockwi
 - `ocean trenches`: there are no oceanic trenches on the Arctic sea floor
 - `atolls`: there are no atolls found in the Arctic Ocean
 
-### Elevation
+### 海拔
 - `highest point`: sea level
 - `lowest point`: Molloy Deep -5,577 m
 - `mean depth`: -1,205 m
 - `ocean zones`: Composed of water and in a fluid state, the ocean is delimited differently than the solid continents. It is divided into three zones based on depth and light level. Sunlight entering the water may travel about 1,000 m into the oceans under the right conditions, but there is rarely any significant light beyond 200 m.  The upper 200 m (656 ft) of the ocean is called the euphotic, or "sunlight," zone. This zone contains the vast majority of commercial fisheries and is home to many protected marine mammals and sea turtles. Only a small amount of light penetrates beyond this depth.   The zone between 200 m (656 ft) and 1,000 m (3,280 ft) is usually referred to as the "twilight" zone, but is officially the dysphotic zone. In this zone, the intensity of light rapidly dissipates as depth increases. Such a minuscule amount of light penetrates beyond a depth of 200 m that photosynthesis is no longer possible.  The aphotic, or "midnight," zone exists in depths below 1,000 m (3,280 ft). Sunlight does not penetrate to these depths, and the zone is bathed in darkness.
 
-### Natural resources
+### 自然資源
 sand and gravel aggregates, placer deposits, polymetallic nodules, oil and gas fields, fish, marine mammals (seals and whales)
 
-### Natural hazards
+### 自然災害
 ice islands occasionally break away from northern Ellesmere Island; icebergs calved from glaciers in western Greenland and extreme northeastern Canada; permafrost in islands; virtually ice locked from October to June; ships subject to superstructure icing from October to May
 
-### Geography - note
+### 地理—註釋
 major chokepoint is the southern Chukchi Sea (northern access to the Pacific Ocean via the Bering Strait); strategic location between North America and Russia; shortest marine link between the extremes of eastern and western Russia; floating research stations operated by the US and Russia; maximum snow cover in March or April about 20 to 50 centimeters over the frozen ocean; snow cover lasts about 10 months
 
-## People and Society
+## 人民和社會
 
-## Environment
+## 環境
 
-### Environment - current issues
+### 環境—當前問題
 climate change; changes in biodiversity; water pollution from use of toxic chemicals; endangered marine species include walruses and whales; fragile ecosystem slow to change and slow to recover from disruptions or damage; thinning polar icepack
 
-### Climate
+### 氣候
 polar climate characterized by persistent cold and relatively narrow annual temperature range; winters characterized by continuous darkness, cold and stable weather conditions, and clear skies; summers characterized by continuous daylight, damp and foggy weather, and weak cyclones with rain or snow
 
-### Marine fisheries
+### 海洋漁業
 the Arctic fishery region (Region 18) is the smallest in the world with a catch of only 708 mt in 2019, although the Food and Agriculture Organization assesses that some Arctic catches are reported in adjacent regions; Russia and Canada were historically the major producers; in 2017, Canada, Denmark (Greenland), Iceland, Norway, Russia, and the US, along with the People’s Republic of China, the European Union, Japan, and the Republic of Korea, agreed to a 16-year ban on fishing in the Central Arctic Ocean to allow for time to study the ecological system of these waters  **Regional fisheries bodies**:  International Council for the Exploration of the Seas; Agreement to Prevent Unregulated High Seas Fisheries in the Central Arctic Ocean
 
-## Government
+## 政府
 
-### Country name
+### 國家名稱
 - `etymology`: the name Arctic comes from the Greek word *arktikos *meaning "near the bear" or "northern," and that word derives from *arktos*, meaning "bear"; the name refers either to the constellation Ursa Major, the "Great Bear," which is prominent in the northern celestial sphere, or to the constellation Ursa Minor, the "Little Bear," which contains Polaris, the North (Pole) Star
 
-## Economy
+## 經濟
 
-## Transportation
+## 交通運輸
 
-### Transportation - note
+### 運輸—註釋
 sparse network of air, ocean, river, and land routes; the Northwest Passage (North America) and Northern Sea Route (Eurasia) are important seasonal waterways
 
-## Transnational Issues
+## 跨國議題
 
-### Disputes - international
+### 爭端—國際
 **note**: record levels of summer melting of sea ice in the Arctic has renewed interest in maritime shipping lanes and sea floor exploration
 
