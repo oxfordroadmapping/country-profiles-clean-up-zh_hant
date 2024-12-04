@@ -2,105 +2,105 @@ _Central America and Caribbean / Dependencies (United States)_
 
 # 納弗沙島
 
-## Introduction
+## 介紹
 
-### Background
+### 背景
 The US claimed uninhabited Navassa Island in 1857 for its guano. Mining took place between 1865 and 1898. The lighthouse, built in 1917, was shut down in 1996, and administration of Navassa Island was transferred from the US Coast Guard to the Department of the Interior, Office of Insular Affairs. A 1998 scientific expedition to the island described it as a "unique preserve of Caribbean biodiversity." The following year it became a National Wildlife Refuge, and annual scientific expeditions have continued.
 
-## Geography
+## 地理
 
-### Location
+### 地點
 Caribbean, island in the Caribbean Sea, 30 nm west of Tiburon Peninsula of Haiti
 
-### Geographic coordinates
+### 地理坐標
 18 25 N, 75 02 W
 
-### Map references
+### 地圖參考
 Central America and the Caribbean
 
-### Area
+### 面積
 - `total `: 5 sq km
 - `land`: 5.4 sq km
 - `water`: 0 sq km
 
-### Area - comparative
+### 面積—比較
 about nine times the size of the National Mall in Washington, DC
 
-### Land boundaries
+### 陸地邊界
 - `total`: 0 km
 
-### Coastline
+### 海岸線
 8 km
 
-### Maritime claims
+### 海洋主張
 - `territorial sea`: 12 nm
 - `exclusive economic zone`: 200 nm
 
-### Climate
+### 氣候
 marine, tropical
 
-### Terrain
+### 地形
 raised flat to undulating coral and limestone plateau; ringed by vertical white cliffs (9 to 15 m high)
 
-### Elevation
+### 海拔
 - `highest point`: 200 m NNW of lighthouse 85 m
 - `lowest point`: Caribbean Sea 0 m
 
-### Natural resources
+### 自然資源
 guano (mining discontinued in 1898)
 
-### Land use
+### 土地利用
 - `other`: 100% (2018 est.)
 
-### Natural hazards
+### 自然災害
 hurricanes
 
-### Geography - note
+### 地理—註釋
 strategic location 160 km south of the US Naval Base at Guantanamo Bay, Cuba; mostly exposed rock with numerous solution holes (limestone sinkholes) but with enough grassland to support goat herds; dense stands of fig trees, scattered cactus
 
-## People and Society
+## 人民和社會
 
-### Population
+### 人口
 - `total`: uninhabited; transient Haitian fishermen and others camp on the island
 
-## Environment
+## 環境
 
-### Environment - current issues
+### 環境—當前問題
 some coral bleaching
 
-### Climate
+### 氣候
 marine, tropical
 
-### Land use
+### 土地利用
 - `other`: 100% (2018 est.)
 
-## Government
+## 政府
 
-### Country name
+### 國家名稱
 - `conventional long form`: none
 - `conventional short form`: Navassa Island
 - `etymology`: the flat island was named "Navaza" by some of Christopher COLUMBUS' sailors in 1504; the name derives from the Spanish term "nava" meaning "flat land, plain, or field"
 
-### Dependency status
+### 附屬狀況
 unorganized, unincorporated territory of the US; administered by the Fish and Wildlife Service, US Department of the Interior from the Caribbean Islands National Wildlife Refuge in Boqueron, Puerto Rico; in September 1996, the Coast Guard ceased operations and maintenance of the Navassa Island Light, a 46-meter-tall lighthouse on the southern side of the island; Haiti has claimed the island since the 19th century
 
-### Legal system
+### 法律制度
 the laws of the US apply where applicable
 
-### Diplomatic representation from the US
+### 駐該國的美國外交代表
 - `embassy`: none (territory of the US)
 
-### Flag description
+### 旗幟說明
 the flag of the US is used
 
-## Economy
+## 經濟
 
-## Transportation
+## 交通運輸
 
-## Military and Security
+## 軍事和安全
 
-### Military - note
+### 軍事—註釋
 defense is the responsibility of the US
 
-## Transnational Issues
+## 跨國議題
 

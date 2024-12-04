@@ -2,126 +2,126 @@ _Antarctica / Dependencies (Australia)_
 
 # 赫德島及麥唐納群島
 
-## Introduction
+## 介紹
 
-### Background
+### 背景
 American sailor John HEARD discovered Heard Island in 1853 while fellow American William MCDONALD discovered the McDonald Islands the following year. Starting in 1855, sealers lived on the islands and harvested elephant seal oil; by the time the practice was ended in 1877, most of the islands’ seals were killed. The UK formally claimed the islands in 1910, and Australian explorer Douglas MAWSON visited Heard Island in 1929. In 1947, the UK transferred the islands to Australia for its Antarctica research, but Australia closed the research station on Heard Island in 1954 when it opened a new research station on the Antarctic continent. McDonald Island has been an active volcano since it emerged from dormancy in 1992, and the island doubled in size after an eruption in 1996. In 1997, the islands were named a UNESCO World Heritage site. Populated by a large number of bird species, seals, and penguins, the islands are primarily used for research, with limited fishing permitted in the surrounding waters.  
 
-## Geography
+## 地理
 
-### Location
+### 地點
 islands in the Indian Ocean, about two-thirds of the way from Madagascar to Antarctica
 
-### Geographic coordinates
+### 地理坐標
 53 06 S, 72 31 E
 
-### Map references
+### 地圖參考
 Antarctic Region
 
-### Area
+### 面積
 - `total `: 412 sq km
 - `land`: 412 sq km
 - `water`: 0 sq km
 
-### Area - comparative
+### 面積—比較
 slightly more than two times the size of Washington, DC
 
-### Land boundaries
+### 陸地邊界
 - `total`: 0 km
 
-### Coastline
+### 海岸線
 101.9 km
 
-### Maritime claims
+### 海洋主張
 - `territorial sea`: 12 nm
 - `exclusive fishing zone`: 200 nm
 
-### Climate
+### 氣候
 antarctic
 
-### Terrain
+### 地形
 Heard Island - 80% ice-covered, bleak and mountainous, dominated by a large massif (Big Ben) and an active volcano (Mawson Peak); McDonald Islands - small and rocky
 
-### Elevation
+### 海拔
 - `highest point`: Mawson Peak on Big Ben volcano 2,745 m
 - `lowest point`: Indian Ocean 0 m
 
-### Natural resources
+### 自然資源
 fish
 
-### Land use
+### 土地利用
 - `agricultural land`: 0% (2011 est.)
 - `other`: 100% (2018 est.)
 
-### Natural hazards
+### 自然災害
 Mawson Peak, an active volcano, is on Heard Island
 
-### Geography - note
+### 地理—註釋
 Mawson Peak on Heard Island is the highest Australian mountain (at 2,745 meters, it is taller than Mt. Kosciuszko in Australia proper), and one of only two active volcanoes located in Australian territory, the other being McDonald Island; in 1992, McDonald Island broke its dormancy and began erupting; it has erupted several times since, most recently in 2005
 
-## People and Society
+## 人民和社會
 
-### Population
+### 人口
 - `total`: uninhabited
 
-## Environment
+## 環境
 
-### Environment - current issues
+### 環境—當前問題
 none; uninhabited and mostly ice covered
 
-### Climate
+### 氣候
 antarctic
 
-### Land use
+### 土地利用
 - `agricultural land`: 0% (2011 est.)
 - `other`: 100% (2018 est.)
 
-## Government
+## 政府
 
-### Country name
+### 國家名稱
 - `conventional long form`: Territory of Heard Island and McDonald Islands
 - `conventional short form`: Heard Island and McDonald Islands
 - `abbreviation`: HIMI
 - `etymology`: named after American Captain John HEARD, who sighted the island on 25 November 1853, and American Captain William McDONALD, who discovered the islands on 4 January 1854
 
-### Dependency status
+### 附屬狀況
 territory of Australia; administered from Canberra by the Department of Agriculture, Water and the Environment (Australian Antarctic Division)
 
-### Legal system
+### 法律制度
 the laws of Australia apply where applicable
 
-### Diplomatic representation in the US
+### 駐美國的外交代表機構
 none (territory of Australia)
 
-### Diplomatic representation from the US
+### 駐該國的美國外交代表
 - `embassy`: none (territory of Australia)
 
-### Flag description
+### 旗幟說明
 the flag of Australia is used
 
-### National heritage
+### 國家級遺產
 - `total World Heritage Sites`: 1 (natural); note - excerpted from the Australia entry
 - `selected World Heritage Site locales`: Heard Island and McDonald Islands
 
-## Economy
+## 經濟
 
-## Communications
+## 通訊
 
-### Internet country code
+### 網際網路國家代碼
 .hm
 
-## Transportation
+## 交通運輸
 
-### Heliports
+### 直升機場
 2 (2024)
 
-## Military and Security
+## 軍事和安全
 
-### Military - note
+### 軍事—註釋
 defense is the responsibility of Australia
 
-## Transnational Issues
+## 跨國議題
 
-### Illicit drugs
+### 非法藥物
 NA
 

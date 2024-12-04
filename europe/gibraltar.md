@@ -2,149 +2,149 @@ _Europe / Dependencies (United Kingdom)_
 
 # 直布羅陀
 
-## Introduction
+## 介紹
 
-### Background
+### 背景
 Spain reluctantly ceded the strategically important Gibraltar to Great Britain in the 1713 Treaty of Utrecht, and the British garrison at Gibraltar was formally declared a colony in 1830. In a referendum held in 1967, Gibraltarians voted overwhelmingly to remain a British dependency. After the UK granted Gibraltar autonomy in 1969, Spain closed the border and severed all communication links. Between 1997 and 2002, the UK and Spain held a series of talks on establishing temporary joint sovereignty over Gibraltar. In response to these talks, the Gibraltar Government called a referendum in 2002 in which the majority of citizens voted overwhelmingly against sharing sovereignty with Spain. Since 2004, Spain, the UK, and Gibraltar have held tripartite talks to resolve problems that affect the local population, and work continues on cooperation agreements in areas such as taxation and financial services, communications and maritime security, legal and customs services, environmental protection, and education and visa services. A new noncolonial constitution came into force in 2007, and the European Court of First Instance recognized Gibraltar's right to regulate its own tax regime in 2008. The UK retains responsibility for defense, foreign relations, internal security, and financial stability. Spain and the UK continue to spar over the territory. In 2009, for example, a dispute over Gibraltar's claim to territorial waters extending out three miles gave rise to periodic non-violent maritime confrontations between Spanish and UK naval patrols. Spain renewed its demands for an eventual return of Gibraltar to Spanish control after the UK’s 2016 vote to leave the EU, but London has dismissed any connection between the vote and its sovereignty over Gibraltar. 
 
-## Geography
+## 地理
 
-### Location
+### 地點
 Southwestern Europe, bordering the Strait of Gibraltar, which links the Mediterranean Sea and the North Atlantic Ocean, on the southern coast of Spain
 
-### Geographic coordinates
+### 地理坐標
 36 08 N, 5 21 W
 
-### Map references
+### 地圖參考
 Europe
 
-### Area
+### 面積
 - `total `: 7 sq km
 - `land`: 6.5 sq km
 - `water`: 0 sq km
 
-### Area - comparative
+### 面積—比較
 more than 10 times the size of The National Mall in Washington, D.C.
 
-### Land boundaries
+### 陸地邊界
 - `total`: 1.2 km
 - `border countries`: Spain 1.2 km
 
-### Coastline
+### 海岸線
 12 km
 
-### Maritime claims
+### 海洋主張
 - `territorial sea`: 3 nm
 
-### Climate
+### 氣候
 Mediterranean with mild winters and warm summers
 
-### Terrain
+### 地形
 a narrow coastal lowland borders the Rock of Gibraltar
 
-### Elevation
+### 海拔
 - `highest point`: Rock of Gibraltar 426 m
 - `lowest point`: Mediterranean Sea 0 m
 
-### Natural resources
+### 自然資源
 none
 
-### Land use
+### 土地利用
 - `agricultural land`: 0% (2011 est.)
 - `other`: 100% (2018 est.)
 
-### Irrigated land
+### 灌溉土地
 NA
 
-### Natural hazards
+### 自然災害
 occasional droughts; no streams or large bodies of water on the peninsula (all potable water comes from desalination)
 
-### Geography - note
+### 地理—註釋
 **note 1**:  strategic location on Strait of Gibraltar that links the North Atlantic Ocean and Mediterranean Sea **note 2**:  one of only two British territories where traffic drives on the right, the other being the island of Diego Garcia in the British Indian Ocean Territory
 
-## People and Society
+## 人民和社會
 
-### Population
+### 人口
 - `total`: 29,683
 - `male`: 14,919
 - `female`: 14,764 (2024 est.)
 
-### Nationality
+### 國籍
 - `noun`: Gibraltarian(s)
 - `adjective`: Gibraltar
 
-### Ethnic groups
+### 族裔群體
 Gibraltarian 79%, other British 13.2%, Spanish 2.1%, Moroccan 1.6%, other EU 2.4%, other 1.6% (2012 est.)
 **note**:  data represent population by nationality
 
-### Languages
+### 語文
 English (used in schools and for official purposes), Spanish, Italian, Portuguese
 
-### Religions
+### 宗教
 Roman Catholic 72.1%, Church of England 7.7%, other Christian 3.8%, Muslim 3.6%, Jewish 2.4%, Hindu 2%, other 1.1%, none 7.1%, unspecified 0.1% (2012 est.)
 
-### Age structure
+### 年齡結構
 - `0-14 years`: 20% (male 3,045/female 2,895)
 - `15-64 years`: 62.5% (male 9,383/female 9,179)
 - `65 years and over`: 17.5% (2024 est.) (male 2,491/female 2,690)
 
-### Dependency ratios
+### 撫養比率
 - `total dependency ratio`: 60.1
 - `youth dependency ratio`: 27.4
 - `elderly dependency ratio`: 32.7
 - `potential support ratio`: 3.1 (2021)
 
-### Median age
+### 年齡中位數
 - `total`: 36.8 years (2024 est.)
 - `male`: 36.2 years
 - `female`: 37.5 years
 
-### Population growth rate
+### 人口成長率
 0.17% (2024 est.)
 
-### Birth rate
+### 出生率
 13.7 births/1,000 population (2024 est.)
 
-### Death rate
+### 死亡率
 8.7 deaths/1,000 population (2024 est.)
 
-### Net migration rate
+### 淨遷移率
 -3.2 migrant(s)/1,000 population (2024 est.)
 
-### Urbanization
+### 都市化
 - `urban population`: 100% of total population (2023)
 - `rate of urbanization`: 0.45% annual rate of change (2015-20 est.)
 
-### Major urban areas - population
+### 主要城市地區—人口
 35,000 GIBRALTAR (capital) (2018)
 
-### Sex ratio
+### 性別比例
 - `at birth`: 1.05 male(s)/female
 - `0-14 years`: 1.05 male(s)/female
 - `15-64 years`: 1.02 male(s)/female
 - `65 years and over`: 0.93 male(s)/female
 - `total population`: 1.01 male(s)/female (2024 est.)
 
-### Infant mortality rate
+### 嬰兒死亡率
 - `total`: 6 deaths/1,000 live births (2024 est.)
 - `male`: 6.8 deaths/1,000 live births
 - `female`: 5.2 deaths/1,000 live births
 
-### Life expectancy at birth
+### 出生時預期壽命
 - `total population`: 80.9 years (2024 est.)
 - `male`: 78.1 years
 - `female`: 83.8 years
 
-### Total fertility rate
+### 總生育率
 1.89 children born/woman (2024 est.)
 
-### Gross reproduction rate
+### 總繁殖率
 0.92 (2024 est.)
 
-### Contraceptive prevalence rate
+### 避孕普及率
 NA
 
-### Drinking water source
+### 飲用水來源
 - `improved: urban`: urban: 100% of population
 - `improved: rural`: rural: NA
 - `improved: total`: total: 100% of population
@@ -152,13 +152,13 @@ NA
 - `unimproved: rural`: rural: NA
 - `unimproved: total`: total: 0% of population (2020)
 
-### Current health expenditure
+### 當前醫療支出
 NA
 
-### Physician density
+### 醫師密度
 NA
 
-### Sanitation facility access
+### 衛生設施普及程度
 - `improved: urban`: urban: 100% of population
 - `improved: rural`: rural: NA
 - `improved: total`: total: 100% of population
@@ -166,174 +166,174 @@ NA
 - `unimproved: rural`: rural: NA
 - `unimproved: total`: total: 0% of population (2020)
 
-### Children under the age of 5 years underweight
+### 5歲以下體重不足兒童
 NA
 
-### Currently married women (ages 15-49)
+### 目前已婚婦女（15-49歲）
 40.7% (2023 est.)
 
-### Education expenditures
+### 教育支出
 NA
 
-### Literacy
+### 識字程度
 - `total population`: NA
 - `male`: NA
 - `female`: NA
 
-## Environment
+## 環境
 
-### Environment - current issues
+### 環境—當前問題
 limited natural freshwater resources: more than 90% of drinking water supplied by desalination, the remainder from stored rainwater; a separate supply of saltwater used for sanitary services
 
-### Climate
+### 氣候
 Mediterranean with mild winters and warm summers
 
-### Land use
+### 土地利用
 - `agricultural land`: 0% (2011 est.)
 - `other`: 100% (2018 est.)
 
-### Urbanization
+### 都市化
 - `urban population`: 100% of total population (2023)
 - `rate of urbanization`: 0.45% annual rate of change (2015-20 est.)
 
-### Air pollutants
+### 空氣污染物
 - `carbon dioxide emissions`: 0.63 megatons (2016 est.)
 
-### Waste and recycling
+### 廢物與回收
 - `municipal solid waste generated annually`: 16,954 tons (2012 est.)
 
-## Government
+## 政府
 
-### Country name
+### 國家名稱
 - `conventional long form`: none
 - `conventional short form`: Gibraltar
 - `etymology`: from the Spanish derivation of the Arabic "Jabal Tariq," which means "Mountain of Tariq" and which refers to the Rock of Gibraltar
 
-### Government type
+### 政府類型
 parliamentary democracy (Parliament); self-governing overseas territory of the UK
 
-### Dependency status
+### 附屬狀況
 overseas territory of the UK
 
-### Capital
+### 首都
 - `name`: Gibraltar
 - `geographic coordinates`: 36 08 N, 5 21 W
 - `time difference`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
 - `daylight saving time`: +1hr, begins last Sunday in March; ends last Sunday in October
 - `etymology`: from the Spanish derivation of the Arabic "Jabal Tariq," which means "Mountain of Tariq" and which refers to the Rock of Gibraltar
 
-### Administrative divisions
+### 行政區劃
 none (overseas territory of the UK)
 
-### Independence
+### 獨立性
 none (overseas territory of the UK)
 
-### National holiday
+### 國定假日
 National Day, 10 September (1967); note - day of the national referendum to decide whether to remain with the UK or join Spain
 
-### Legal system
+### 法律制度
 the laws of the UK, where applicable, apply
 
-### Constitution
+### 憲法
 - `history`: previous 1969; latest passed by referendum 30 November 2006, entered into effect 14 December 2006, entered into force 2 January 2007
 - `amendments`: proposed by Parliament and requires prior consent of the British monarch (through the Secretary of State); passage requires at least three-fourths majority vote in Parliament followed by simple majority vote in a referendum; note – only sections 1 through 15 in Chapter 1 (Protection of Fundamental Rights and Freedoms) can be amended by Parliament
 
-### Citizenship
+### 公民身份
 see United Kingdom
 
-### Suffrage
+### 選舉權
 18 years of age; universal; and British citizens with six months residence or more
 
-### Executive branch
+### 行政部門
 - `chief of state`: King CHARLES III (since 8 September 2022); represented by Governor Sir David STEEL (since 11 June 2020)
 - `head of government`: Chief Minister Fabian PICARDO (since 9 December 2011)
 - `cabinet`: Council of Ministers appointed from among the 17 elected members of Parliament by the governor in consultation with the chief minister
 - `elections/appointments`: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed chief minister by the governor
 
-### Legislative branch
+### 立法部門
 - `description`: unicameral Parliament (18 seats; 17 members directly elected in a single nationwide constituency by majority vote and 1 appointed by Parliament as speaker; members serve 4-year terms)
 - `elections`: last held on 12 October 2023 (next to be held by October 2027)
 - `election results`: percent of vote by party - GSLP-Liberal Alliance 49.9%, GSD 48% independent 2.1%; seats by party - GLSP-Liberal Alliance 9 (GSLP 7, LPG 2), GSD 8; composition including Parliament speaker - men 13, women 5, percentage women 38.5%
 
-### Judicial branch
+### 司法部門
 - `highest court(s)`: Court of Appeal (consists of at least 3 judges, including the court president); Supreme Court of Gibraltar (consists of the chief justice and 3 judges); note - appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)
 - `judge selection and term of office`: Court of Appeal and Supreme Court judges appointed by the governor upon the advice of the Judicial Service Commission, a 7-member body of judges and appointees of the governor; tenure of the Court of Appeal president based on terms of appointment; Supreme Court chief justice and judges normally appointed until retirement at age 67 but tenure can be extended 3 years
 - `subordinate courts`: Court of First Instance; Magistrates' Court; specialized tribunals for issues relating to social security, taxes, and employment
 
-### Political parties
+### 政黨
 Gibraltar Liberal Party or Liberal Party of Gibraltar or LPG Gibraltar Social Democrats or GSD Gibraltar Socialist Labor Party or GSLP GSLP-Liberal Alliance Together Gibraltar or TG 
 
-### International organization participation
+### 國際組織參與
 ICC (NGOs), Interpol (subbureau), UPU
 
-### Diplomatic representation in the US
+### 駐美國的外交代表機構
 none (overseas territory of the UK)
 
-### Diplomatic representation from the US
+### 駐該國的美國外交代表
 - `embassy`: none (overseas territory of the UK)
 
-### Flag description
+### 旗幟說明
 two horizontal bands of white (top, double width) and red with a three-towered red castle in the center of the white band; hanging from the castle gate is a gold key centered in the red band; the design is that of Gibraltar's coat of arms granted on 10 July 1502 by King Ferdinand and Queen Isabella of Spain; the castle symbolizes Gibraltar as a fortress, while the key represents Gibraltar's strategic importance - the key to the Mediterranean
 
-### National symbol(s)
+### 國家符號
 Barbary macaque; national colors: red, white, yellow
 
-### National anthem
+### 國歌
 - `name`: "Gibraltar Anthem"
 - `lyrics/music`: Peter EMBERLEY
 **note**:  adopted 1994; serves as a local anthem; as an overseas territory of the United Kingdom, "God Save the King" is official (see United Kingdom)
 
-## Economy
+## 經濟
 
-### Economic overview
+### 經濟概況
 British territorial high-income economy; Brexit caused significant economic disruption to longstanding financial services, shipping, and tourism industries; ongoing negotiations to rejoin EU Schengen Area; independent taxation authority
 
-### Real GDP (purchasing power parity)
+### 實質GDP（購買力平價國內生產總值）
 $2.044 billion (2014 est.)
 **note**:  data are in 2014 dollars
 
-### Real GDP per capita
+### 人均實質GDP
 $61,700 (2014 est.)
 
-### GDP (official exchange rate)
+### GDP（官方匯率國內生產總值）
 $2.044 billion (2014 est.)
 
-### Agricultural products
+### 農產品
 none
 
-### Industries
+### 工業
 tourism, banking and finance, ship repairing, tobacco
 
-### Industrial production growth rate
+### 工業生產成長率
 4.3% (2014 est.)
 **note**: annual % change in industrial value added based on constant local currency
 
-### Labor force
+### 勞動力
 24,420 (2014 est.)
 
-### Unemployment rate
+### 失業率
 1% (2016 est.)
 
-### Exports
+### 出口
 $202.3 million (2014 est.)
 
-### Exports - partners
+### 出口—夥伴
 Ireland 20%, India 18%, Brazil 12%, Netherlands 10%, South Korea 8% (2022)
 **note**: top five export partners based on percentage share of exports
 
-### Exports - commodities
+### 出口—商品
 refined petroleum, crude petroleum, ships, cars, natural gas (2022)
 **note**: top five export commodities based on value in dollars
 
-### Imports - partners
+### 進口—夥伴
 Spain 19%, Italy 17%, Greece 11%, Nigeria 10%, UK 6% (2022)
 **note**: top five import partners based on percentage share of imports
 
-### Imports - commodities
+### 進口—商品
 refined petroleum, crude petroleum, coal tar oil, ships, cars (2022)
 **note**: top five import commodities based on value in dollars
 
-### Exchange rates
+### 匯率
 - `Currency`: Gibraltar pounds (GIP) per US dollar -
 0.805 (2023 est.)
 0.811 (2022 est.)
@@ -341,77 +341,77 @@ refined petroleum, crude petroleum, coal tar oil, ships, cars (2022)
 0.78 (2020 est.)
 0.783 (2019 est.)
 
-## Energy
+## 能源
 
-### Electricity access
+### 供電普及程度
 - `electrification - total population`: 100% (2022 est.)
 
-### Electricity
+### 電力
 - `installed generating capacity`: 43,000 kW (2022 est.)
 - `consumption`: 244.5 million kWh (2022 est.)
 - `transmission/distribution losses`: 7 million kWh (2022 est.)
 
-### Electricity generation sources
+### 發電來源
 - `fossil fuels`: 100% of total installed capacity (2022 est.)
 
-### Petroleum
+### 石油
 - `refined petroleum consumption`: 84,000 bbl/day (2022 est.)
 
-### Natural gas
+### 天然氣
 - `consumption`: 75.781 million cubic meters (2022 est.)
 - `imports`: 75.781 million cubic meters (2022 est.)
 
-### Carbon dioxide emissions
+### 二氧化碳排放量
 - `total emissions`: 14.297 million metric tonnes of CO2 (2022 est.)
 - `from petroleum and other liquids`: 14.149 million metric tonnes of CO2 (2022 est.)
 - `from consumed natural gas`: 148,000 metric tonnes of CO2 (2022 est.)
 
-## Communications
+## 通訊
 
-### Telephones - fixed lines
+### 電話—固定線路
 - `total subscriptions`: 17,000 (2022 est.)
 - `subscriptions per 100 inhabitants`: 53 (2022 est.)
 
-### Telephones - mobile cellular
+### 電話—移動電話
 - `total subscriptions`: 37,000 (2022 est.)
 - `subscriptions per 100 inhabitants`: 112 (2022 est.)
 
-### Telecommunication systems
+### 電信系統
 - `general assessment`: Gibraltar’s population is urban-based, served by a digital telephone exchange supported by a fiber optic and copper infrastructure; near universal mobile and Internet use (2019)
 - `domestic`: 53 per 100 fixed-line and 100 per 100 mobile-cellular (2021)
 - `international`: country code - 350; landing point for the EIG to Europe, Asia, Africa and the Middle East via submarine cables; radiotelephone; microwave radio relay; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)
 
-### Broadcast media
+### 廣播媒體
 Gibraltar Broadcasting Corporation (GBC) provides TV and radio broadcasting services via 1 TV station and 4 radio stations; British Forces Broadcasting Service (BFBS) operates 1 radio station; broadcasts from Spanish radio and TV stations are accessible
 
-### Internet country code
+### 網際網路國家代碼
 .gi
 
-### Internet users
+### 網際網路使用者
 - `total`: 31,152 (2021 est.)
 - `percent of population`: 94.4% (2021 est.)
 
-### Broadband - fixed subscriptions
+### 寬頻網路—固定訂閱
 - `total`: 21,009 (2020 est.)
 - `subscriptions per 100 inhabitants`: 62 (2020 est.)
 
-## Transportation
+## 交通運輸
 
-### Civil aircraft registration country code prefix
+### 註冊民用航空器國家代碼前綴
 VP-G
 
-### Airports
+### 機場
 1 (2024)
 
-### Roadways
+### 道路
 - `total`: 29 km
 - `paved`: 29 km (2007)
 
-### Merchant marine
+### 商船
 - `total`: 129 (2023)
 - `by type`: bulk carrier 8, container ship 5, general cargo 31, oil tanker 16, other 69
 
-### Ports
+### 港口
 - `total ports`: 1 (2024)
 - `large`: 0
 - `medium`: 1
@@ -420,16 +420,16 @@ VP-G
 - `ports with oil terminals`: 1
 - `key ports`: Europa Point
 
-## Military and Security
+## 軍事和安全
 
-### Military and security forces
+### 軍隊和安保部隊
 Royal Gibraltar Regiment (2024)
 
-### Military and security service personnel strengths
+### 軍事和安保人員兵力
 the Royal Gibraltar Regiment has more than 400 personnel (2023)
 
-### Military - note
+### 軍事—註釋
 defense is the responsibility of the UK
 
-## Transnational Issues
+## 跨國議題
 

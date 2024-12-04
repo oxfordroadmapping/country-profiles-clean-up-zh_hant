@@ -2,56 +2,56 @@ _Australia-Oceania / Countries_
 
 # 吐瓦魯
 
-## Introduction
+## 介紹
 
-### Background
+### 背景
 Voyagers from either Samoa or Tonga first populated Tuvalu in the first millennium A.D., and the islands provided a stepping-stone for various Polynesian communities that subsequently settled in Melanesia and Micronesia. Tuvalu eventually came under Samoan and Tongan spheres of influence, although proximity to Micronesia allowed some Micronesian communities to flourish in Tuvalu, in particular on Nui Atoll. In the late 1700s and early 1800s, a series of American, British, Dutch, and Russian ships visited the islands, which were named the Ellice Islands in 1819.   The UK declared a protectorate over islands in 1892 and merged them with the Micronesian Gilbert Islands. The Gilbert and Ellice Islands Protectorate became a colony in 1916. During World War II, the US set up military bases on a few islands, and in 1943, after Japan captured many of the northern Gilbert Islands, the UK transferred administration of the colony southward to Funafuti. After the war, Tarawa in the Gilbert Islands was once again made the colony’s capital, and the center of power was firmly in the Gilbert Islands, including the colony’s only secondary school. Amid growing tensions with the Gilbertese, Tuvaluans voted to secede from the colony in 1974, were granted self-rule in 1975, and gained independence in 1978 as Tuvalu. In 1979, the US relinquished its claims to the Tuvaluan islands in a treaty of friendship.
 
-## Geography
+## 地理
 
-### Location
+### 地點
 Oceania, island group consisting of nine coral atolls in the South Pacific Ocean, about half way from Hawaii to Australia
 
-### Geographic coordinates
+### 地理坐標
 8 00 S, 178 00 E
 
-### Map references
+### 地圖參考
 Oceania
 
-### Area
+### 面積
 - `total `: 26 sq km
 - `land`: 26 sq km
 - `water`: 0 sq km
 
-### Area - comparative
+### 面積—比較
 0.1 times the size of Washington, DC
 
-### Land boundaries
+### 陸地邊界
 - `total`: 0 km
 
-### Coastline
+### 海岸線
 24 km
 
-### Maritime claims
+### 海洋主張
 - `territorial sea`: 12 nm
 - `contiguous zone`: 24 nm
 - `exclusive economic zone`: 200 nm
 
-### Climate
+### 氣候
 tropical; moderated by easterly trade winds (March to November); westerly gales and heavy rain (November to March)
 
-### Terrain
+### 地形
 low-lying and narrow coral atolls
 
-### Elevation
+### 海拔
 - `highest point`: unnamed location 5 m
 - `lowest point`: Pacific Ocean 0 m
 - `mean elevation`: 2 m
 
-### Natural resources
+### 自然資源
 fish, coconut (copra)
 
-### Land use
+### 土地利用
 - `agricultural land`: 60% (2018 est.)
 - `agricultural land: arable land`: arable land: 0% (2018 est.)
 - `agricultural land: permanent crops`: permanent crops: 60% (2018 est.)
@@ -59,103 +59,103 @@ fish, coconut (copra)
 - `forest`: 33.3% (2018 est.)
 - `other`: 6.7% (2018 est.)
 
-### Irrigated land
+### 灌溉土地
 0 sq km (2022)
 
-### Population distribution
+### 人口分布
 over half of the population resides on the atoll of Funafuti
 
-### Natural hazards
+### 自然災害
 severe tropical storms are usually rare, but in 1997 there were three cyclones; low levels of islands make them sensitive to changes in sea level
 
-### Geography - note
+### 地理—註釋
 one of the smallest and most remote countries on Earth; six of the nine coral atolls -- Nanumea, Nui, Vaitupu, Nukufetau, Funafuti, and Nukulaelae -- have lagoons open to the ocean; Nanumaya and Niutao have landlocked lagoons; Niulakita does not have a lagoon
 
-## People and Society
+## 人民和社會
 
-### Population
+### 人口
 - `total`: 11,733
 - `male`: 5,816
 - `female`: 5,917 (2024 est.)
 
-### Nationality
+### 國籍
 - `noun`: Tuvaluan(s)
 - `adjective`: Tuvaluan
 
-### Ethnic groups
+### 族裔群體
 Tuvaluan 97%, Tuvaluan/I-Kiribati 1.6%, Tuvaluan/other 0.8%, other 0.6% (2017 est.)
 
-### Languages
+### 語文
 Tuvaluan (official), English (official), Samoan, Kiribati (on the island of Nui)
 
-### Religions
+### 宗教
 Protestant 92.7% (Congregational Christian Church of Tuvalu 85.9%, Brethren 2.8%, Seventh Day Adventist 2.5%, Assemblies of God 1.5%), Baha'i 1.5%, Jehovah's Witness 1.5%, other 3.9%, none or refused 0.4% (2017 est.)
 
-### Age structure
+### 年齡結構
 - `0-14 years`: 29.2% (male 1,754/female 1,672)
 - `15-64 years`: 63.2% (male 3,736/female 3,675)
 - `65 years and over`: 7.6% (2024 est.) (male 326/female 570)
 
-### Dependency ratios
+### 撫養比率
 - `total dependency ratio`: 60.9
 - `youth dependency ratio`: 50.9
 - `elderly dependency ratio`: 10
 - `potential support ratio`: 10 (2021)
 
-### Median age
+### 年齡中位數
 - `total`: 27.8 years (2024 est.)
 - `male`: 26.8 years
 - `female`: 28.8 years
 
-### Population growth rate
+### 人口成長率
 0.78% (2024 est.)
 
-### Birth rate
+### 出生率
 22 births/1,000 population (2024 est.)
 
-### Death rate
+### 死亡率
 7.8 deaths/1,000 population (2024 est.)
 
-### Net migration rate
+### 淨遷移率
 -6.3 migrant(s)/1,000 population (2024 est.)
 
-### Population distribution
+### 人口分布
 over half of the population resides on the atoll of Funafuti
 
-### Urbanization
+### 都市化
 - `urban population`: 66.2% of total population (2023)
 - `rate of urbanization`: 2.08% annual rate of change (2020-25 est.)
 
-### Major urban areas - population
+### 主要城市地區—人口
 7,000 FUNAFUTI (capital) (2018)
 
-### Sex ratio
+### 性別比例
 - `at birth`: 1.05 male(s)/female
 - `0-14 years`: 1.05 male(s)/female
 - `15-64 years`: 1.02 male(s)/female
 - `65 years and over`: 0.57 male(s)/female
 - `total population`: 0.98 male(s)/female (2024 est.)
 
-### Infant mortality rate
+### 嬰兒死亡率
 - `total`: 27.8 deaths/1,000 live births (2024 est.)
 - `male`: 31.3 deaths/1,000 live births
 - `female`: 24 deaths/1,000 live births
 
-### Life expectancy at birth
+### 出生時預期壽命
 - `total population`: 69 years (2024 est.)
 - `male`: 66.5 years
 - `female`: 71.6 years
 
-### Total fertility rate
+### 總生育率
 2.78 children born/woman (2024 est.)
 
-### Gross reproduction rate
+### 總繁殖率
 1.36 (2024 est.)
 
-### Contraceptive prevalence rate
+### 避孕普及率
 23.7% (2019/20)
 
-### Drinking water source
+### 飲用水來源
 - `improved: urban`: urban: 100% of population
 - `improved: rural`: rural: 100% of population
 - `improved: total`: total: 100% of population
@@ -163,13 +163,13 @@ over half of the population resides on the atoll of Funafuti
 - `unimproved: rural`: rural: 0% of population
 - `unimproved: total`: total: 0% of population (2020 est.)
 
-### Current health expenditure
+### 當前醫療支出
 21.5% of GDP (2020)
 
-### Physician density
+### 醫師密度
 1.19 physicians/1,000 population (2020)
 
-### Sanitation facility access
+### 衛生設施普及程度
 - `improved: urban`: urban: 91.8% of population
 - `improved: rural`: rural: 91% of population
 - `improved: total`: total: 91.5% of population
@@ -177,52 +177,52 @@ over half of the population resides on the atoll of Funafuti
 - `unimproved: rural`: rural: 9% of population
 - `unimproved: total`: total: 8.5% of population (2017 est.)
 
-### Obesity - adult prevalence rate
+### 肥胖—成人流行率
 51.6% (2016)
 
-### Alcohol consumption per capita
+### 人均酒精消費量
 - `total`: 0.93 liters of pure alcohol (2019 est.)
 - `beer`: 0.01 liters of pure alcohol (2019 est.)
 - `wine`: 0.69 liters of pure alcohol (2019 est.)
 - `spirits`: 0.22 liters of pure alcohol (2019 est.)
 - `other alcohols`: 0 liters of pure alcohol (2019 est.)
 
-### Tobacco use
+### 煙草使用
 - `total`: 35.6% (2020 est.)
 - `male`: 49.8% (2020 est.)
 - `female`: 21.3% (2020 est.)
 
-### Children under the age of 5 years underweight
+### 5歲以下體重不足兒童
 3.1% (2019/20) NA
 
-### Currently married women (ages 15-49)
+### 目前已婚婦女（15-49歲）
 66.1% (2023 est.)
 
-### Child marriage
+### 童婚
 - `women married by age 18`: 1.8%
 - `men married by age 18`: 1.7% (2020 est.)
 
-### Education expenditures
+### 教育支出
 NA
 
-### Literacy
+### 識字程度
 - `total population`: NA
 - `male`: NA
 - `female`: NA
 
-## Environment
+## 環境
 
-### Environment - current issues
+### 環境—當前問題
 water needs met by catchment systems; the use of sand as a building material has led to beachhead erosion; deforestation; damage to coral reefs from increasing ocean temperatures and acidification; rising sea levels threaten water table; in 2000, the government appealed to Australia and New Zealand to take in Tuvaluans if rising sea levels should make evacuation necessary
 
-### Environment - international agreements
+### 環境—國際協定
 - `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Whaling
 - `signed, but not ratified`: Comprehensive Nuclear Test Ban
 
-### Climate
+### 氣候
 tropical; moderated by easterly trade winds (March to November); westerly gales and heavy rain (November to March)
 
-### Land use
+### 土地利用
 - `agricultural land`: 60% (2018 est.)
 - `agricultural land: arable land`: arable land: 0% (2018 est.)
 - `agricultural land: permanent crops`: permanent crops: 60% (2018 est.)
@@ -230,29 +230,29 @@ tropical; moderated by easterly trade winds (March to November); westerly gales 
 - `forest`: 33.3% (2018 est.)
 - `other`: 6.7% (2018 est.)
 
-### Urbanization
+### 都市化
 - `urban population`: 66.2% of total population (2023)
 - `rate of urbanization`: 2.08% annual rate of change (2020-25 est.)
 
-### Revenue from forest resources
+### 森林資源收入
 0% of GDP (2018 est.)
 
-### Air pollutants
+### 空氣污染物
 - `particulate matter emissions`: 6.81 micrograms per cubic meter (2019 est.)
 - `carbon dioxide emissions`: 0.01 megatons (2016 est.)
 - `methane emissions`: 0.01 megatons (2020 est.)
 
-### Waste and recycling
+### 廢物與回收
 - `municipal solid waste generated annually`: 3,989 tons (2011 est.)
 - `municipal solid waste recycled annually`: 598 tons (2013 est.)
 - `percent of municipal solid waste recycled`: 15% (2013 est.)
 
-### Total renewable water resources
+### 可再生水資源總量
 0 cubic meters (2017 est.)
 
-## Government
+## 政府
 
-### Country name
+### 國家名稱
 - `conventional long form`: none
 - `conventional short form`: Tuvalu
 - `local long form`: none
@@ -260,67 +260,67 @@ tropical; moderated by easterly trade winds (March to November); westerly gales 
 - `former`: Ellice Islands
 - `etymology`: "tuvalu" means "group of eight" or "eight standing together" referring to the country's eight traditionally inhabited islands
 
-### Government type
+### 政府類型
 parliamentary democracy under a constitutional monarchy; a Commonwealth realm
 
-### Capital
+### 首都
 - `name`: Funafuti; note - the capital is an atoll of some 29 islets; administrative offices are in Vaiaku Village on Fongafale Islet
 - `geographic coordinates`: 8 31 S, 179 13 E
 - `time difference`: UTC+12 (17 hours ahead of Washington, DC, during Standard Time)
 - `etymology`: the atoll is named after a founding ancestor chief, Funa, from the island of Samoa
 
-### Administrative divisions
+### 行政區劃
 7 island councils and 1 town council*; Funafuti*, Nanumaga, Nanumea, Niutao, Nui, Nukufetau, Nukulaelae, Vaitupu
 
-### Independence
+### 獨立性
 1 October 1978 (from the UK)
 
-### National holiday
+### 國定假日
 Independence Day, 1 October (1978)
 
-### Legal system
+### 法律制度
 mixed legal system of English common law and local customary law
 
-### Constitution
+### 憲法
 - `history`: previous 1978 (at independence); latest effective 1 October 1986
 - `amendments`: proposed by the House of Assembly; passage requires at least two-thirds majority vote by the Assembly membership in the final reading; amended 2007, 2010, 2013, 2023
 
-### International law organization participation
+### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt
 
-### Citizenship
+### 公民身份
 - `citizenship by birth`: yes
 - `citizenship by descent only`: yes; for a child born abroad, at least one parent must be a citizen of Tuvalu
 - `dual citizenship recognized`: yes
 - `residency requirement for naturalization`: na
 
-### Suffrage
+### 選舉權
 18 years of age; universal
 
-### Executive branch
+### 行政部門
 - `chief of state`: King CHARLES III (since 8 September 2022); represented by Governor General Tofiga Vaevalu FALANI (since 29 August 2021)
 - `head of government`: Prime Minister Feleti Penitala TEO (since 27 February 2024)
 - `cabinet`: Cabinet appointed by the governor general on recommendation of the prime minister
 - `elections/appointments`: the monarchy is hereditary; governor general appointed by the monarch on recommendation of the prime minister; prime minister and deputy prime minister elected by and from members of House of Assembly following parliamentary elections
 - `election results`: *2024: *TEO was the only candidate nominated by the House of Assembly*  2019: *Kausea NATANO elected prime minister by House of Assembly; House of Assembly vote - 10 to 6
 
-### Legislative branch
+### 立法部門
 - `description`: unicameral House of Assembly or Fale I Fono (16 seats; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 4-year terms)
 - `elections`: last held on 26 January 2024 (next to be held in January 2028)
 - `election results`: percent of vote - NA; seats - independent 16; composition - 16 men, 0 women, percentage women 0%
 
-### Judicial branch
+### 司法部門
 - `highest court(s)`: Court of Appeal (consists of the chief justice and not less than 3 appeals judges); High Court (consists of the chief justice); appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)
 - `judge selection and term of office`: Court of Appeal judges appointed by the governor general on the advice of the Cabinet; judge tenure based on terms of appointment; High Court chief justice appointed by the governor general on the advice of the Cabinet; chief justice serves for life; other judges appointed by the governor general on the advice of the Cabinet after consultation with chief justice; judge tenure set by terms of appointment
 - `subordinate courts`: magistrates' courts; island courts; land courts
 
-### Political parties
+### 政黨
 there are no political parties, but members of parliament usually align themselves in informal groupings
 
-### International organization participation
+### 國際組織參與
 ACP, ADB, AOSIS, C, FAO, IBRD, IDA, IFAD, IFRCS (observer), ILO, IMF, IMO, IOC, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO
 
-### Diplomatic representation in the US
+### 駐美國的外交代表機構
 - `chief of mission`: Ambassador Tapugao FALEFOU (since 19 April 2023); note - also Permanent Representative to UN
 - `chancery`: 685 Third Avenue, Suite 1104, New York, NY 10017
 - `telephone`: [1] (212) 490-0534
@@ -328,125 +328,125 @@ ACP, ADB, AOSIS, C, FAO, IBRD, IDA, IFAD, IFRCS (observer), ILO, IMF, IMO, IOC, 
 - `email address and website`: tuvalumission.un@gmail.com  tuvalu.unmission@gov.tv  https://www.un.int/tuvalu/about
 note - the Tuvalu Permanent Mission to the UN serves as the Embassy
 
-### Diplomatic representation from the US
+### 駐該國的美國外交代表
 - `embassy`: the US does not have an embassy in Tuvalu; the US Ambassador to Fiji is accredited to Tuvalu
 
-### Flag description
+### 旗幟說明
 light blue with the flag of the UK in the upper hoist-side quadrant; the outer half of the flag represents a map of the country with nine yellow, five-pointed stars on a blue field symbolizing the nine atolls in the ocean
 
-### National symbol(s)
+### 國家符號
 maneapa (native meeting house); national colors: light blue, yellow
 
-### National anthem
+### 國歌
 - `name`: "Tuvalu mo te Atua" (Tuvalu for the Almighty)
 - `lyrics/music`: Afaese MANOA
 **note**:  adopted 1978; the anthem's name is also the nation's motto
 
-## Economy
+## 經濟
 
-### Economic overview
+### 經濟概況
 upper middle-income Pacific island economy; extremely environmentally fragile; currency pegged to Australian dollar; large international aid recipient; subsistence agrarian sector; Te Kakeega sustainable development; domain name licensing incomes
 
-### Real GDP (purchasing power parity)
+### 實質GDP（購買力平價國內生產總值）
 $59.202 million (2023 est.)
 $57.006 million (2022 est.)
 $56.622 million (2021 est.)
 **note**: data in 2021 dollars
 
-### Real GDP growth rate
+### 實質GDP成長率
 3.85% (2023 est.)
 0.68% (2022 est.)
 1.8% (2021 est.)
 **note**: annual GDP % growth based on constant local currency
 
-### Real GDP per capita
+### 人均實質GDP
 $5,200 (2023 est.)
 $5,000 (2022 est.)
 $5,100 (2021 est.)
 **note**: data in 2021 dollars
 
-### GDP (official exchange rate)
+### GDP（官方匯率國內生產總值）
 $62.28 million (2023 est.)
 **note**: data in current dollars at official exchange rate
 
-### Inflation rate (consumer prices)
+### 通貨膨脹率（消費者物價）
 4.1% (2017 est.)
 3.5% (2016 est.)
 
-### GDP - composition, by sector of origin
+### GDP—構成，按原產出部門
 - `agriculture`: 15.9% (2015 est.)
 - `industry`: 7% (2015 est.)
 - `services`: 70% (2012 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
-### Agricultural products
+### 農產品
 coconuts, vegetables, tropical fruits, bananas, root vegetables, pork, chicken, eggs, pork fat, pork offal (2022)
 **note**: top ten agricultural products based on tonnage
 
-### Industries
+### 工業
 fishing
 
-### Industrial production growth rate
+### 工業生產成長率
 4.3% (2014 est.)
 **note**: annual % change in industrial value added based on constant local currency
 
-### Labor force
+### 勞動力
 3,615
 
-### Youth unemployment rate (ages 15-24)
+### 青年失業率（15-24歲）
 - `total`: 20.6% (2016)
 - `male`: 9.8%
 - `female`: 45.9%
 
-### Remittances
+### 匯款
 4.82% of GDP (2023 est.)
 4.18% of GDP (2022 est.)
 4.9% of GDP (2021 est.)
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
-### Budget
+### 預算
 - `revenues`: $87 million (2019 est.)
 - `expenditures`: $88 million (2019 est.)
 **note**:  revenue data include Official Development Assistance from Australia
 
-### Public debt
+### 公共債務
 37% of GDP (2017 est.)
 
-### Current account balance
+### 經常賬戶餘額
 $2.713 million (2022 est.)
 $14.533 million (2021 est.)
 $8.46 million (2020 est.)
 **note**: balance of payments - net trade and primary/secondary income in current dollars
 
-### Exports
+### 出口
 $2.232 million (2022 est.)
 $2.745 million (2021 est.)
 $3.089 million (2020 est.)
 **note**: balance of payments - exports of goods and services in current dollars
 
-### Exports - partners
+### 出口—夥伴
 Thailand 69%, Croatia 21%, Philippines 4%, South Korea 2%, Japan 1% (2022)
 **note**: top five export partners based on percentage share of exports
 
-### Exports - commodities
+### 出口—商品
 fish, ships, computers, integrated circuits, nitrile compounds (2022)
 **note**: top five export commodities based on value in dollars
 
-### Imports
+### 進口
 $57.388 million (2022 est.)
 $63.962 million (2021 est.)
 $56.947 million (2020 est.)
 **note**: balance of payments - imports of goods and services in current dollars
 
-### Imports - partners
+### 進口—夥伴
 China 34%, Japan 27%, Fiji 20%, NZ 5%, Australia 5% (2022)
 **note**: top five import partners based on percentage share of imports
 
-### Imports - commodities
+### 進口—商品
 ships, refined petroleum, iron structures, engine parts, plastic products (2022)
 **note**: top five import commodities based on value in dollars
 
-### Exchange rates
+### 匯率
 - `Currency`: Tuvaluan dollars or Australian dollars (AUD) per US dollar -
 1.505 (2023 est.)
 1.442 (2022 est.)
@@ -454,65 +454,65 @@ ships, refined petroleum, iron structures, engine parts, plastic products (2022)
 1.453 (2020 est.)
 1.439 (2019 est.)
 
-## Energy
+## 能源
 
-### Electricity access
+### 供電普及程度
 - `electrification - total population`: 100% (2022 est.)
 - `electrification - urban areas`: 100%
 - `electrification - rural areas`: 99.1%
 
-### Natural gas
+### 天然氣
 - `production`: 0 cubic meters (2021 est.)
 - `consumption`: 0 cubic meters (2021 est.)
 - `exports`: 0 cubic meters (2021 est.)
 - `imports`: 0 cubic meters (2021 est.)
 - `proven reserves`: 0 cubic meters (2021 est.)
 
-## Communications
+## 通訊
 
-### Telephones - fixed lines
+### 電話—固定線路
 - `total subscriptions`: 2,000 (2021 est.)
 - `subscriptions per 100 inhabitants`: 18 (2021 est.)
 
-### Telephones - mobile cellular
+### 電話—移動電話
 - `total subscriptions`: 9,000 (2021 est.)
 - `subscriptions per 100 inhabitants`: 80 (2021 est.)
 
-### Telecommunication systems
+### 電信系統
 - `general assessment`: provides fixed-line telephone communications to subscribers on each of the islands of Tuvalu; each island relies on the use of a satellite dish for inter-island telephone communication, internet access, and mobile phone services (2023)
 - `domestic`: fixed-line teledensity is 18 per 100 and mobile-cellular is 80 per 100 (2021)
 - `international`: country code - 688; international calls can be made by satellite
 
-### Broadcast media
+### 廣播媒體
 no TV stations; many households use satellite dishes to watch foreign TV stations; 1 government-owned radio station, Radio Tuvalu, includes relays of programming from international broadcasters (2019)
 
-### Internet country code
+### 網際網路國家代碼
 .tv
 
-### Internet users
+### 網際網路使用者
 - `total`: 7,920 (2021 est.)
 - `percent of population`: 49% (2021 est.)
 
-### Broadband - fixed subscriptions
+### 寬頻網路—固定訂閱
 - `total`: 450 (2017 est.)
 - `subscriptions per 100 inhabitants`: 4 (2017 est.)
 
-## Transportation
+## 交通運輸
 
-### Civil aircraft registration country code prefix
+### 註冊民用航空器國家代碼前綴
 T2
 
-### Airports
+### 機場
 1 (2024)
 
-### Roadways
+### 道路
 - `total`: 16 km (2022)
 
-### Merchant marine
+### 商船
 - `total`: 270 (2023)
 - `by type`: bulk carrier 21, container ship 3, general cargo 29, oil tanker 19, other 198
 
-### Ports
+### 港口
 - `total ports`: 1 (2024)
 - `large`: 0
 - `medium`: 0
@@ -521,13 +521,13 @@ T2
 - `ports with oil terminals`: 1
 - `key ports`: Funafuti Atoll
 
-## Military and Security
+## 軍事和安全
 
-### Military and security forces
+### 軍隊和安保部隊
 no regular military forces; Tuvalu Police Force (Ministry of Justice, Communications, and Foreign Affairs) (2024)
 
-### Military - note
+### 軍事—註釋
 Tuvalu has a security pact with Australia; Australia also provides support to the Tuvalu Police Force, including donations of patrol boats  Tuvalu has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Tuvalu's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)
 
-## Transnational Issues
+## 跨國議題
 
