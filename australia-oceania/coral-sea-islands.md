@@ -1,121 +1,121 @@
 _Australia-Oceania / Dependencies (Australia)_
 
-# Coral Sea Islands
+# 珊瑚海群島
 
-## 介紹
+## Introduction
 
-### 背景
+### Background
 The widely scattered Coral Sea Islands were first charted in 1803, but they were too small to host permanent human habitation. The 1870s and 1880s saw attempts at guano mining, but these were soon abandoned. The islands became an Australian territory in 1969, and the boundaries were extended in 1997. A small meteorological staff has operated on the Willis Islets since 1921, and several other islands host unmanned weather stations, beacons, and lighthouses. Much of the territory lies within national marine nature reserves.  
 
-## 地理
+## Geography
 
-### 地點
+### Location
 Oceania, islands in the Coral Sea, northeast of Australia
 
-### 地理坐標
+### Geographic coordinates
 18 00 S, 152 00 E
 
-### 地圖參考
+### Map references
 Oceania
 
-### 面積
+### Area
 - `total `: 3 sq km less than
 - `land`: 3 sq km less than
 - `water`: 0 sq km
 **note**:  includes numerous small islands and reefs scattered over a sea area of about 780,000 sq km (300,000 sq mi) with the Willis Islets the most important
 
-### 面積—比較
+### Area - comparative
 about four times the size of the National Mall in Washington, DC
 
-### 陸地邊界
+### Land boundaries
 - `total`: 0 km
 
-### 海岸線
+### Coastline
 3,095 km
 
-### 海洋主張
+### Maritime claims
 - `territorial sea`: 3 nm
 - `exclusive fishing zone`: 200 nm
 
-### 氣候
+### Climate
 tropical
 
-### 地形
+### Terrain
 sand and coral reefs and islands (cays)
 
-### 海拔
+### Elevation
 - `highest point`: unnamed location on Cato Island 9 m
 - `lowest point`: Pacific Ocean 0 m
 
-### 自然資源
+### Natural resources
 fish
 
-### 土地利用
+### Land use
 - `agricultural land`: 0% (2018 est.)
 - `other`: 100% (2018 est.)
 
-### 自然災害
+### Natural hazards
 occasional tropical cyclones
 
-### 地理—註釋
+### Geography - note
 important nesting area for birds and turtles
 
-## 人民和社會
+## People and Society
 
-### 人口
+### Population
 - `total`: no indigenous inhabitants (2021)
 **note**:  a staff of four operates the meteorological station on Willis Island
 
-## 環境
+## Environment
 
-### 環境—當前問題
+### Environment - current issues
 no permanent freshwater resources; damaging activities include coral mining, destructive fishing practices (overfishing, blast fishing)
 
-### 氣候
+### Climate
 tropical
 
-### 土地利用
+### Land use
 - `agricultural land`: 0% (2018 est.)
 - `other`: 100% (2018 est.)
 
-## 政府
+## Government
 
-### 國家名稱
+### Country name
 - `conventional long form`: Coral Sea Islands Territory
 - `conventional short form`: Coral Sea Islands
 - `etymology`: self-descriptive name to reflect the islands' position in the Coral Sea off the northeastern coast of Australia
 
-### 附屬狀況
+### Dependency status
 territory of Australia; administered from Canberra by the Department of Regional Australia, Local Government, Arts and Sport
 
-### 法律制度
+### Legal system
 the common law legal system of Australia applies where applicable
 
-### 公民身份
+### Citizenship
 see Australia
 
-### 駐美國的外交代表機構
+### Diplomatic representation in the US
 none (territory of Australia)
 
-### 駐該國的美國外交代表
+### Diplomatic representation from the US
 - `embassy`: none (territory of Australia)
 
-### 旗幟說明
+### Flag description
 the flag of Australia is used
 
-## 經濟
+## Economy
 
-## 通訊
+## Communications
 
-### 來文—註釋
+### Communications - note
 automatic weather stations on many of the isles and reefs relay data to the mainland
 
-## 交通運輸
+## Transportation
 
-## 軍事和安全
+## Military and Security
 
-### 軍事—註釋
+### Military - note
 defense is the responsibility of Australia
 
-## 跨國議題
+## Transnational Issues
 

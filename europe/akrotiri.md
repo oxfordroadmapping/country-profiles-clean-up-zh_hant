@@ -1,73 +1,73 @@
 _Europe / Dependencies (United Kingdom)_
 
-# Akrotiri
+# 亞克羅提利
 
-## 介紹
+## Introduction
 
-### 背景
+### Background
 By terms of the 1960 Treaty of Establishment that created the independent Republic of Cyprus, the UK retained full sovereignty and jurisdiction over two areas of almost 254 square kilometers - Akrotiri and Dhekelia. The southernmost and smaller of the two is the Akrotiri Sovereign Base Area, which is also referred to as the Western Sovereign Base Area.
 
-## 地理
+## Geography
 
-### 地點
+### Location
 Eastern Mediterranean, peninsula on the southwest coast of Cyprus
 
-### 地理坐標
+### Geographic coordinates
 34 37 N, 32 58 E
 
-### 地圖參考
+### Map references
 Middle East
 
-### 面積
+### Area
 - `total`: 123 sq km
 **note**:  includes a salt lake and wetlands
 
-### 面積—比較
+### Area - comparative
 about 0.7 times the size of Washington, DC
 
-### 陸地邊界
+### Land boundaries
 - `total`: 48 km
 - `border countries`: Cyprus 48 km
 
-### 海岸線
+### Coastline
 56.3 km
 
-### 氣候
+### Climate
 temperate; Mediterranean with hot, dry summers and cool winters
 
-### 地理—註釋
+### Geography - note
 British extraterritorial rights also extended to several small off-post sites scattered across Cyprus; of the Sovereign Base Area (SBA) land, 60% is privately owned and farmed, 20% is owned by the Ministry of Defense, and 20% is SBA Crown land
 
-## 人民和社會
+## People and Society
 
-### 人口
+### Population
 (2020) approximately 18,195 on the Sovereign Base Areas of Akrotiri and Dhekelia including 11,000 Cypriots and 7,195 Service and UK-based contract personnel and dependents
 
-### 語文
+### Languages
 English, Greek
 - `major-language sample(s)`: Το Παγκόσμιο Βιβλίο Δεδομένων, η απαραίτητη πηγή βασικών πληροφοριών. (Greek)  The World Factbook, the indispensable source for basic information.
 
-### 年齡結構
+### Age structure
 - `0-14 years`: NA
 - `15-64 years`: NA
 - `65 years and over`: NA
 
-### 撫養比率
+### Dependency ratios
 - `total dependency ratio`: NA
 - `youth dependency ratio`: NA
 - `elderly dependency ratio`: NA
 - `potential support ratio`: NA
 
-### 出生率
+### Birth rate
 NA
 
-### 死亡率
+### Death rate
 NA
 
-### 避孕普及率
+### Contraceptive prevalence rate
 NA
 
-### 飲用水來源
+### Drinking water source
 - `improved: urban`: urban: NA
 - `improved: rural`: rural: NA
 - `improved: total`: total: NA
@@ -75,88 +75,88 @@ NA
 - `unimproved: rural`: rural: NA
 - `unimproved: total`: total: NA
 
-### 當前醫療支出
+### Current health expenditure
 NA
 
-### 5歲以下體重不足兒童
+### Children under the age of 5 years underweight
 NA
 
-### 教育支出
+### Education expenditures
 NA
 
-## 環境
+## Environment
 
-### 環境—當前問題
+### Environment - current issues
 hunting around the salt lake; note - breeding place for loggerhead and green turtles; only remaining colony of griffon vultures is on the base
 
-### 氣候
+### Climate
 temperate; Mediterranean with hot, dry summers and cool winters
 
-## 政府
+## Government
 
-### 國家名稱
+### Country name
 - `conventional long form`: none
 - `conventional short form`: Akrotiri
 - `etymology`: named for the village that lies within the Western Sovereign Base Area on Cyprus
 
-### 附屬狀況
+### Dependency status
 a special form of UK overseas territory; administered by an administrator who is also the Commander, British Forces Cyprus
 
-### 首都
+### Capital
 - `name`: Episkopi Cantonment (base administrative center for Akrotiri and Dhekelia)
 - `geographic coordinates`: 34 40 N, 32 51 E
 - `time difference`: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
 - `daylight saving time`: +1hr, begins last Sunday in March; ends last Sunday in October
 - `etymology`: "Episkopi" means "episcopal" in Greek and stems from the fact that the site previously served as the bishop's seat of an Orthodox diocese
 
-### 憲法
+### Constitution
 - `history`: presented 3 August 1960, effective 16 August 1960 (The Sovereign Base Areas of Akrotiri and Dhekelia Order in Council 1960 serves as a basic legal document)
 - `amendments`: amended 1966
 
-### 法律制度
+### Legal system
 laws applicable to the Cypriot population are, as far as possible, the same as the laws of the Republic of Cyprus; note - the Sovereign Base Area Administration has its own court system to deal with civil and criminal matters
 
-### 行政部門
+### Executive branch
 - `chief of state`: King CHARLES III (since 8 September 2022)
 - `head of government`: Administrator Air Vice-Marshal Peter J.M. SQUIRES (since 1 September 2022); note - administrator reports to the British Ministry of Defense and is also Commander, British Forces Cyprus (BFC); the chief officer, an appointed civilian, is responsible for the day-to-day running of the civil government of the Sovereign Base Areas
 - `elections/appointments`: the monarchy is hereditary; administrator appointed by the monarch on the advice of the Ministry of Defense
 
-### 司法部門
+### Judicial branch
 - `highest court(s)`: Senior Judges' Court (consists of several visiting judges from England and Wales)
 - `judge selection and term of office`: see entry for United Kingdom
 - `subordinate courts`: Resident Judges' Court; Courts Martial
 
-### 駐美國的外交代表機構
+### Diplomatic representation in the US
 none (overseas territory of the UK)
 
-### 駐該國的美國外交代表
+### Diplomatic representation from the US
 - `embassy`: none (overseas territory of the UK)
 
-### 旗幟說明
+### Flag description
 the flag of the UK is used
 
-### 國歌
+### National anthem
 **note**:  as a UK area of special sovereignty, "God Save the King" is official (see United Kingdom)
 
-## 經濟
+## Economy
 
-### 匯率
+### Exchange rates
 **note**:  uses the euro
 
-## 通訊
+## Communications
 
-### 廣播媒體
+### Broadcast media
 British Forces Broadcast Service (BFBS) provides multi-channel satellite TV service as well as BFBS radio broadcasts to the Akrotiri Sovereign Base Area
 
-## 交通運輸
+## Transportation
 
-## 軍事和安全
+## Military and Security
 
-### 軍事—註釋
+### Military - note
 defense is the responsibility of the UK; Akrotiri (aka the Western Sovereign Base Area) has a full Royal Air Force base, headquarters for British Forces Cyprus, and the Episkopi Cantonment
 
-## 跨國議題
+## Transnational Issues
 
-### 非法藥物
+### Illicit drugs
 NA
 
