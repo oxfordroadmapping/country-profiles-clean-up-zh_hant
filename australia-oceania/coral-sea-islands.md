@@ -1,4 +1,4 @@
-_Australia-Oceania / Dependencies (Australia)_
+_大洋洲 & 澳洲與紐西蘭 ／ 非獨立實體／屬地 (澳洲)_
 
 # 珊瑚海群島
 

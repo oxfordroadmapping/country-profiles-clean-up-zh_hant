@@ -1,4 +1,4 @@
-_East & Southeast Asia / Countries_
+_東亞 & 東南亞 ／ 國家_
 
 # 緬甸
 

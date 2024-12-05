@@ -1,4 +1,4 @@
-_Australia-Oceania / Dependencies (United States)_
+_大洋洲 & 澳洲與紐西蘭 ／ 非獨立實體／屬地 (美國)_
 
 # 關島
 

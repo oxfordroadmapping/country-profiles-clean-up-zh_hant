@@ -1,4 +1,4 @@
-_Australia-Oceania / Dependencies (United Kingdom)_
+_大洋洲 & 澳洲與紐西蘭 ／ 非獨立實體／屬地 (英國)_
 
 # 皮特肯群島
 

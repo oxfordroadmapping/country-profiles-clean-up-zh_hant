@@ -1,4 +1,4 @@
-_Australia-Oceania / Dependencies (France)_
+_大洋洲 & 澳洲與紐西蘭 ／ 非獨立實體／屬地 (法國)_
 
 # 瓦利斯群島和富圖那群島
 

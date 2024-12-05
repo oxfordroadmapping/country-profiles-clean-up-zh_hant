@@ -1,4 +1,4 @@
-_Australia-Oceania / Dependencies (New Zealand)_
+_大洋洲 & 澳洲與紐西蘭 ／ 非獨立實體／屬地 (紐西蘭)_
 
 # 庫克群島
 

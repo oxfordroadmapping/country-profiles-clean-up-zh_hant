@@ -1,4 +1,4 @@
-_Central America and Caribbean / Dependencies (Netherlands)_
+_中美 & 加勒比海 ／ 非獨立實體／屬地 (荷蘭)_
 
 # 荷屬阿魯巴
 

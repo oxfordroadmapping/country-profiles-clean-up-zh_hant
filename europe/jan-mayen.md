@@ -1,4 +1,4 @@
-_Europe / Dependencies (Norway)_
+_歐洲 ／ 非獨立實體／屬地 (挪威)_
 
 # 揚馬延
 

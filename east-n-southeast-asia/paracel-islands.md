@@ -1,4 +1,4 @@
-_East & Southeast Asia / Miscellaneous_
+_東亞 & 東南亞 ／ 雜項_
 
 # 西沙群島
 

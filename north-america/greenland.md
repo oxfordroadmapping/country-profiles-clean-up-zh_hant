@@ -1,4 +1,4 @@
-_North America / Dependencies (Denmark)_
+_北美洲 ／ 非獨立實體／屬地 (丹麥)_
 
 # 格陵蘭
 

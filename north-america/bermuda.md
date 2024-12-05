@@ -1,4 +1,4 @@
-_North America / Dependencies (United Kingdom)_
+_北美洲 ／ 非獨立實體／屬地 (英國)_
 
 # 百慕達
 

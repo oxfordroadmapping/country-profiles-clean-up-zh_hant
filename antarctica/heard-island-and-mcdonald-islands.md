@@ -1,4 +1,4 @@
-_Antarctica / Dependencies (Australia)_
+_南極洲 ／ 非獨立實體／屬地 (澳洲)_
 
 # 赫德島及麥唐納群島
 

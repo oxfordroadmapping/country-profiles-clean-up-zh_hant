@@ -1,4 +1,4 @@
-_Central America and Caribbean / Dependencies (France)_
+_中美 & 加勒比海 ／ 非獨立實體／屬地 (法國)_
 
 # 聖巴瑟米
 

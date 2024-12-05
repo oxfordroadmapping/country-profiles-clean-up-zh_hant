@@ -1,4 +1,4 @@
-_Africa / Dependencies (United Kingdom)_
+_非洲 ／ 非獨立實體／屬地 (英國)_
 
 # 聖赫勒拿島
 

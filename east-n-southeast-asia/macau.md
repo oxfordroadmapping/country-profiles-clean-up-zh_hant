@@ -1,4 +1,4 @@
-_East & Southeast Asia / Dependencies (China)_
+_東亞 & 東南亞 ／ 非獨立實體／屬地 (中國)_
 
 # 澳門
 

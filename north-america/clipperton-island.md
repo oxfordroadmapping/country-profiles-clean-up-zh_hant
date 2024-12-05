@@ -1,4 +1,4 @@
-_North America / Dependencies (France)_
+_北美洲 ／ 非獨立實體／屬地 (法國)_
 
 # 克利珀頓島
 

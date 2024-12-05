@@ -1,4 +1,4 @@
-_South America / Dependencies (United Kingdom)_
+_南美洲 ／ 非獨立實體／屬地 (英國)_
 
 # 福克蘭群島
 

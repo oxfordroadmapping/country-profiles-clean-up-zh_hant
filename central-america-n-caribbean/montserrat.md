@@ -1,4 +1,4 @@
-_Central America and Caribbean / Dependencies (United Kingdom)_
+_中美 & 加勒比海 ／ 非獨立實體／屬地 (英國)_
 
 # 蒙哲臘
 

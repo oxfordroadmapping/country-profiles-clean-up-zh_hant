@@ -1,4 +1,4 @@
-_Australia-Oceania / Dependencies (France)_
+_大洋洲 & 澳洲與紐西蘭 ／ 非獨立實體／屬地 (法國)_
 
 # 新喀里多尼亞
 

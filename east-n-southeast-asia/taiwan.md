@@ -1,4 +1,4 @@
-_East & Southeast Asia / Other_
+_東亞 & 東南亞 ／ 其它_
 
 # 台灣
 

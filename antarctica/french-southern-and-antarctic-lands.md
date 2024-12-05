@@ -1,4 +1,4 @@
-_Antarctica / Dependencies (France)_
+_南極洲 ／ 非獨立實體／屬地 (法國)_
 
 # 法屬南部屬地
 

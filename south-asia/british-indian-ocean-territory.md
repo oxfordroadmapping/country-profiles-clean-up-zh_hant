@@ -1,4 +1,4 @@
-_South Asia / Dependencies (United Kingdom)_
+_南亞 ／ 非獨立實體／屬地 (英國)_
 
 # 英屬印度洋領地
 

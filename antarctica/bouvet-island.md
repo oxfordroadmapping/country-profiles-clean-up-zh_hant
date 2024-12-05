@@ -1,4 +1,4 @@
-_Antarctica / Dependencies (Norway)_
+_南極洲 ／ 非獨立實體／屬地 (挪威)_
 
 # 布威島
 

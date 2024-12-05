@@ -1,4 +1,4 @@
-_Central America and Caribbean / Dependencies (United States)_
+_中美 & 加勒比海 ／ 非獨立實體／屬地 (美國)_
 
 # 波多黎各
 

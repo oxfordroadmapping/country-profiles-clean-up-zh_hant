@@ -1,4 +1,4 @@
-_Europe / Dependencies (Denmark)_
+_歐洲 ／ 非獨立實體／屬地 (丹麥)_
 
 # 法羅群島
 
