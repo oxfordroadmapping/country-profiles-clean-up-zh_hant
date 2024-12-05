@@ -19,23 +19,23 @@ Western Africa, bordering the Bight of Benin, between Benin and Ghana
 Africa
 
 ### 面積
-- `total `: 56,785 sq km
-- `land`: 54,385 sq km
-- `water`: 2,400 sq km
+- `總計`: 56,785 sq km
+- `土地`: 54,385 sq km
+- `水`: 2,400 sq km
 
 ### 面積—比較
 slightly smaller than West Virginia
 
 ### 陸地邊界
-- `total`: 1,880 km
-- `border countries`: Benin 651 km; Burkina Faso 131 km; Ghana 1,098 km
+- `總計`: 1,880 km
+- `邊境國家`: Benin 651 km; Burkina Faso 131 km; Ghana 1,098 km
 
 ### 海岸線
 56 km
 
 ### 海洋主張
-- `territorial sea`: 30 nm; note: the US does not recognize this claim
-- `exclusive economic zone`: 200 nm
+- `領海`: 30 nm; note: the US does not recognize this claim
+- `專屬經濟區`: 200 nm
 
 ### 氣候
 tropical; hot, humid in south; semiarid in north
@@ -44,20 +44,20 @@ tropical; hot, humid in south; semiarid in north
 gently rolling savanna in north; central hills; southern plateau; low coastal plain with extensive lagoons and marshes
 
 ### 海拔
-- `highest point`: Mont Agou 986 m
-- `lowest point`: Atlantic Ocean 0 m
-- `mean elevation`: 236 m
+- `最高點`: Mont Agou 986 m
+- `最低點`: Atlantic Ocean 0 m
+- `平均海拔`: 236 m
 
 ### 自然資源
 phosphates, limestone, marble, arable land
 
 ### 土地利用
-- `agricultural land`: 67.4% (2018 est.)
-- `agricultural land: arable land`: arable land: 45.2% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 3.8% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 18.4% (2018 est.)
-- `forest`: 4.9% (2018 est.)
-- `other`: 27.7% (2018 est.)
+- `農地`: 67.4% (2018 est.)
+- `農地：耕地`: arable land: 45.2% (2018 est.)
+- `農地：永久性作物`: permanent crops: 3.8% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 18.4% (2018 est.)
+- `森林`: 4.9% (2018 est.)
+- `其它`: 27.7% (2018 est.)
 
 ### 灌溉土地
 70 sq km (2012)
@@ -77,13 +77,13 @@ the country's length allows it to stretch through six distinct geographic region
 ## 人民和社會
 
 ### 人口
-- `total`: 8,917,994
-- `male`: 4,395,271
-- `female`: 4,522,723 (2024 est.)
+- `總計`: 8,917,994
+- `男性`: 4,395,271
+- `女性`: 4,522,723 (2024 est.)
 
 ### 國籍
-- `noun`: Togolese (singular and plural)
-- `adjective`: Togolese
+- `名詞`: Togolese (singular and plural)
+- `形容詞`: Togolese
 
 ### 族裔群體
 Adja-Ewe/Mina 42.4%, Kabye/Tem 25.9%, Para-Gourma/Akan 17.1%, Akposso/Akebu 4.1%, Ana-Ife 3.2%, other Togolese 1.7%, foreigners 5.2%, no response 0.4% (2013-14 est.)
@@ -99,20 +99,20 @@ Christian 42.3%, folk religion 36.9%, Muslim 14%, Hindu <1%, Buddhist <1%, Jewis
 Togo’s population is estimated to have grown to four times its size between 1960 and 2010. With nearly 60% of its populace under the age of 25 and a high annual growth rate attributed largely to high fertility, Togo’s population is likely to continue to expand for the foreseeable future. Reducing fertility, boosting job creation, and improving education will be essential to reducing the country’s high poverty rate. In 2008, Togo eliminated primary school enrollment fees, leading to higher enrollment but increased pressure on limited classroom space, teachers, and materials. Togo has a good chance of achieving universal primary education, but educational quality, the underrepresentation of girls, and the low rate of enrollment in secondary and tertiary schools remain concerns. Togo is both a country of emigration and asylum. In the early 1990s, southern Togo suffered from the economic decline of the phosphate sector and ethnic and political repression at the hands of dictator Gnassingbe EYADEMA and his northern, Kabye-dominated administration. The turmoil led 300,000 to 350,000 predominantly southern Togolese to flee to Benin and Ghana, with most not returning home until relative stability was restored in 1997. In 2005, another outflow of 40,000 Togolese to Benin and Ghana occurred when violence broke out between the opposition and security forces over the disputed election of EYADEMA’s son Faure GNASSINGBE to the presidency. About half of the refugees reluctantly returned home in 2006, many still fearing for their safety. Despite ethnic tensions and periods of political unrest, Togo in December 2022 was home to almost 8,400 refugees from Ghana.
 
 ### 年齡結構
-- `0-14 years`: 38.7% (male 1,749,533/female 1,699,084)
-- `15-64 years`: 57% (male 2,486,142/female 2,597,914)
-- `65 years and over`: 4.3% (2024 est.) (male 159,596/female 225,725)
+- `0-14歲`: 38.7% (male 1,749,533/female 1,699,084)
+- `15-64歲`: 57% (male 2,486,142/female 2,597,914)
+- `65歲及以上`: 4.3% (2024 est.) (male 159,596/female 225,725)
 
 ### 撫養比率
-- `total dependency ratio`: 76.5
-- `youth dependency ratio`: 71
-- `elderly dependency ratio`: 5.5
-- `potential support ratio`: 18.3 (2021 est.)
+- `總受扶養人比率`: 76.5
+- `少年撫養比率`: 71
+- `老人撫養比率`: 5.5
+- `潛在支持率`: 18.3 (2021 est.)
 
 ### 年齡中位數
-- `total`: 20.7 years (2024 est.)
-- `male`: 19.9 years
-- `female`: 21.4 years
+- `總計`: 20.7 years (2024 est.)
+- `男性`: 19.9 years
+- `女性`: 21.4 years
 
 ### 人口成長率
 2.41% (2024 est.)
@@ -130,18 +130,18 @@ Togo’s population is estimated to have grown to four times its size between 19
 one of the more densely populated African nations with most of the population residing in rural communities, density is highest in the south on or near the Atlantic coast as shown in this population distribution map
 
 ### 都市化
-- `urban population`: 44.5% of total population (2023)
-- `rate of urbanization`: 3.6% annual rate of change (2020-25 est.)
+- `城市人口`: 44.5% of total population (2023)
+- `城鎮化率`: 3.6% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 1.982 million LOME (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.03 male(s)/female
-- `0-14 years`: 1.03 male(s)/female
-- `15-64 years`: 0.96 male(s)/female
-- `65 years and over`: 0.71 male(s)/female
-- `total population`: 0.97 male(s)/female (2024 est.)
+- `出生時`: 1.03 male(s)/female
+- `0-14歲`: 1.03 male(s)/female
+- `15-64歲`: 0.96 male(s)/female
+- `65歲及以上`: 0.71 male(s)/female
+- `總人口數`: 0.97 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 25 years (2017 est.)
@@ -151,14 +151,14 @@ one of the more densely populated African nations with most of the population re
 399 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 38.4 deaths/1,000 live births (2024 est.)
-- `male`: 43 deaths/1,000 live births
-- `female`: 33.7 deaths/1,000 live births
+- `總計`: 38.4 deaths/1,000 live births (2024 est.)
+- `男性`: 43 deaths/1,000 live births
+- `女性`: 33.7 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 72.1 years (2024 est.)
-- `male`: 69.5 years
-- `female`: 74.7 years
+- `總人口數`: 72.1 years (2024 est.)
+- `男性`: 69.5 years
+- `女性`: 74.7 years
 
 ### 總生育率
 4.13 children born/woman (2024 est.)
@@ -170,12 +170,12 @@ one of the more densely populated African nations with most of the population re
 23.9% (2017)
 
 ### 飲用水來源
-- `improved: urban`: urban: 93.8% of population
-- `improved: rural`: rural: 60.3% of population
-- `improved: total`: total: 74.6% of population
-- `unimproved: urban`: urban: 6.2% of population
-- `unimproved: rural`: rural: 39.7% of population
-- `unimproved: total`: total: 25.4% of population (2020 est.)
+- `已改進－城市`: urban: 93.8% of population
+- `已改進－農村`: rural: 60.3% of population
+- `已改進－總計`: total: 74.6% of population
+- `未改進：都市`: urban: 6.2% of population
+- `未改進：鄉村`: rural: 39.7% of population
+- `未改善：總計`: total: 25.4% of population (2020 est.)
 
 ### 當前醫療支出
 6% of GDP (2020)
@@ -187,27 +187,27 @@ one of the more densely populated African nations with most of the population re
 0.7 beds/1,000 population (2011)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 81.9% of population
-- `improved: rural`: rural: 18.3% of population
-- `improved: total`: total: 45.5% of population
-- `unimproved: urban`: urban: 18.1% of population
-- `unimproved: rural`: rural: 81.7% of population
-- `unimproved: total`: total: 54.5% of population (2020 est.)
+- `已改進－城市`: urban: 81.9% of population
+- `已改進－農村`: rural: 18.3% of population
+- `已改進－總計`: total: 45.5% of population
+- `未改進：都市`: urban: 18.1% of population
+- `未改進：鄉村`: rural: 81.7% of population
+- `未改善：總計`: total: 54.5% of population (2020 est.)
 
 ### 肥胖—成人流行率
 8.4% (2016)
 
 ### 人均酒精消費量
-- `total`: 1.4 liters of pure alcohol (2019 est.)
-- `beer`: 0.78 liters of pure alcohol (2019 est.)
-- `wine`: 0.09 liters of pure alcohol (2019 est.)
-- `spirits`: 0.2 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.33 liters of pure alcohol (2019 est.)
+- `總計`: 1.4 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.78 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.09 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.2 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.33 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 6.8% (2020 est.)
-- `male`: 12.3% (2020 est.)
-- `female`: 1.2% (2020 est.)
+- `總計`: 6.8% (2020 est.)
+- `男性`: 12.3% (2020 est.)
+- `女性`: 1.2% (2020 est.)
 
 ### 5歲以下體重不足兒童
 15.2% (2017)
@@ -216,23 +216,23 @@ one of the more densely populated African nations with most of the population re
 62% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 6.4%
-- `women married by age 18`: 24.8%
-- `men married by age 18`: 2.6% (2017 est.)
+- `15歲前結婚的女性`: 6.4%
+- `18歲前結婚的女性`: 24.8%
+- `18歲前結婚的男性`: 2.6% (2017 est.)
 
 ### 教育支出
 4% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 66.5%
-- `male`: 80%
-- `female`: 55.1% (2019)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 66.5%
+- `男性`: 80%
+- `女性`: 55.1% (2019)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 13 years
-- `male`: 14 years
-- `female`: 12 years (2017)
+- `總計`: 13 years
+- `男性`: 14 years
+- `女性`: 12 years (2017)
 
 ## 環境
 
@@ -240,23 +240,23 @@ one of the more densely populated African nations with most of the population re
 deforestation attributable to slash-and-burn agriculture and the use of wood for fuel; very little rain forest still present and what remains is highly degraded; desertification; water pollution presents health hazards and hinders the fishing industry; air pollution increasing in urban areas
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 tropical; hot, humid in south; semiarid in north
 
 ### 土地利用
-- `agricultural land`: 67.4% (2018 est.)
-- `agricultural land: arable land`: arable land: 45.2% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 3.8% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 18.4% (2018 est.)
-- `forest`: 4.9% (2018 est.)
-- `other`: 27.7% (2018 est.)
+- `農地`: 67.4% (2018 est.)
+- `農地：耕地`: arable land: 45.2% (2018 est.)
+- `農地：永久性作物`: permanent crops: 3.8% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 18.4% (2018 est.)
+- `森林`: 4.9% (2018 est.)
+- `其它`: 27.7% (2018 est.)
 
 ### 都市化
-- `urban population`: 44.5% of total population (2023)
-- `rate of urbanization`: 3.6% annual rate of change (2020-25 est.)
+- `城市人口`: 44.5% of total population (2023)
+- `城鎮化率`: 3.6% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 3.96% of GDP (2018 est.)
@@ -265,22 +265,22 @@ tropical; hot, humid in south; semiarid in north
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 35.66 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 3 megatons (2016 est.)
-- `methane emissions`: 3.06 megatons (2020 est.)
+- `顆粒物排放量`: 35.66 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 3 megatons (2016 est.)
+- `甲烷排放量`: 3.06 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 1,109,030 tons (2014 est.)
-- `municipal solid waste recycled annually`: 22,181 tons (2012 est.)
-- `percent of municipal solid waste recycled`: 2% (2012 est.)
+- `城市固體廢棄物－每年產生`: 1,109,030 tons (2014 est.)
+- `城市固體廢棄物－每年回收`: 22,181 tons (2012 est.)
+- `城市固體廢棄物－回收百分比`: 2% (2012 est.)
 
 ### 主要流域（按面積平方公里）
 Atlantic Ocean drainage: Volta (410,991 sq km)
 
 ### 總取水量
-- `municipal`: 140 million cubic meters (2020 est.)
-- `industrial`: 10 million cubic meters (2020 est.)
-- `agricultural`: 80 million cubic meters (2020 est.)
+- `市級`: 140 million cubic meters (2020 est.)
+- `工業`: 10 million cubic meters (2020 est.)
+- `農業`: 80 million cubic meters (2020 est.)
 
 ### 可再生水資源總量
 14.7 billion cubic meters (2020 est.)
@@ -288,21 +288,21 @@ Atlantic Ocean drainage: Volta (410,991 sq km)
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Togolese Republic
-- `conventional short form`: Togo
-- `local long form`: République Togolaise
-- `local short form`: none
-- `former`: French Togoland
-- `etymology`: derived from the Ewe words "to" (river) and "godo" (on the other side) to give the sense of "on the other side of the river"; originally, this designation applied to the town of Togodo (now Togoville) on the northern shore of Lake Togo, but the name was eventually extended to the entire nation
+- `常用長名`: Togolese Republic
+- `常用短名`: Togo
+- `當地語長名`: République Togolaise
+- `當地語短名`: none
+- `前任`: French Togoland
+- `语源学`: derived from the Ewe words "to" (river) and "godo" (on the other side) to give the sense of "on the other side of the river"; originally, this designation applied to the town of Togodo (now Togoville) on the northern shore of Lake Togo, but the name was eventually extended to the entire nation
 
 ### 政府類型
 presidential republic
 
 ### 首都
-- `name`: Lome
-- `geographic coordinates`: 6 07 N, 1 13 E
-- `time difference`: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: Lome comes from "alotime" which in the native Ewe language means "among the alo plants"; alo trees dominated the city's original founding site
+- `名稱`: Lome
+- `地理坐標`: 6 07 N, 1 13 E
+- `時差`: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: Lome comes from "alotime" which in the native Ewe language means "among the alo plants"; alo trees dominated the city's original founding site
 
 ### 行政區劃
 5 regions (regions, singular - region); Centrale, Kara, Maritime, Plateaux, Savanes
@@ -317,38 +317,38 @@ Independence Day, 27 April (1960)
 customary law system
 
 ### 憲法
-- `history`: several previous; latest adopted 27 September 1992, effective 14 October 1992; revised 6 May 2024
-- `amendments`: proposed by the president of the republic or supported by at least one fifth of the National Assembly membership; passage requires four-fifths majority vote by the Assembly; a referendum is required if approved by only two-thirds majority of the Assembly or if requested by the president; constitutional articles on the republican and secular form of government cannot be amended; amended 2002, 2007, last in 2024 (reported as a revision)
+- `歷史`: several previous; latest adopted 27 September 1992, effective 14 October 1992; revised 6 May 2024
+- `修正`: proposed by the president of the republic or supported by at least one fifth of the National Assembly membership; passage requires four-fifths majority vote by the Assembly; a referendum is required if approved by only two-thirds majority of the Assembly or if requested by the president; constitutional articles on the republican and secular form of government cannot be amended; amended 2002, 2007, last in 2024 (reported as a revision)
 
 ### 國際法組織參與
 accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Togo
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: 5 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Togo
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: 5 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Faure GNASSINGBE (since 4 May 2005)
-- `head of government`: Prime Minister Victoire TOMEGAH Dogbé (since 25 September 2020) 
-- `cabinet`: Council of Ministers appointed by the president on the advice of the prime minister
-- `elections/appointments`: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 22 February 2020 (next to be held in 2025); prime minister appointed by the presidentnote- on 21 May 2024 the Prime Minister and her cabinet resigned. The President requested they continue serving during the government transition.
-- `election results`: *2020:* Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 70.8%, Agbeyome KODJO (MPDD) 19.5%, Jean-Pierre FABRE (ANC) 4.7%, other 5%  *2015:* Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 58.8%, Jean-Pierre FABRE (ANC) 35.2%, Tchaboure GOGUE (ADDI) 4%, other 2% 
+- `國家元首`: President Faure GNASSINGBE (since 4 May 2005)
+- `政府首腦`: Prime Minister Victoire TOMEGAH Dogbé (since 25 September 2020) 
+- `内閣`: Council of Ministers appointed by the president on the advice of the prime minister
+- `選舉/任命`: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 22 February 2020 (next to be held in 2025); prime minister appointed by the presidentnote- on 21 May 2024 the Prime Minister and her cabinet resigned. The President requested they continue serving during the government transition.
+- `選舉結果`: *2020:* Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 70.8%, Agbeyome KODJO (MPDD) 19.5%, Jean-Pierre FABRE (ANC) 4.7%, other 5%  *2015:* Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 58.8%, Jean-Pierre FABRE (ANC) 35.2%, Tchaboure GOGUE (ADDI) 4%, other 2% 
 
 ### 立法部門
-- `description`: unicameral National Assembly or Assemblee Nationale (113 seats; members directly elected in multi-seat constituencies by closed, party-list proportional representation vote to serve 5-year terms)
-- `elections`: last held on 29 April 2024 (next election April 2029)
-- `election results`: percent of vote by party - NA; seats by party - UNIR 108, ADDI 2, ANC 1, DMP 1, FDR 1 composition - men 92, women 21, percentage of women elected 18.6%
+- `描述`: unicameral National Assembly or Assemblee Nationale (113 seats; members directly elected in multi-seat constituencies by closed, party-list proportional representation vote to serve 5-year terms)
+- `選舉`: last held on 29 April 2024 (next election April 2029)
+- `選舉結果`: percent of vote by party - NA; seats by party - UNIR 108, ADDI 2, ANC 1, DMP 1, FDR 1 composition - men 92, women 21, percentage of women elected 18.6%
 **note**:  party lists are required to contain equal numbers of men and women
 
 ### 司法部門
-- `highest court(s)`: Supreme Court or Cour Supreme (organized into criminal and administrative chambers, each with a chamber president and advisors); Constitutional Court (consists of 9 judges, including the court president)
-- `judge selection and term of office`: Supreme Court president appointed by decree of the president of the republic upon the proposal of the Supreme Council of the Magistracy, a 9-member judicial, advisory, and disciplinary body; other judicial appointments and judge tenure NA; Constitutional Court judges appointed by the National Assembly; judge tenure NA
-- `subordinate courts`: Court of Assizes (sessions court); Appeal Court; tribunals of first instance (divided into civil, commercial, and correctional chambers; Court of State Security; military tribunal
+- `最高法院`: Supreme Court or Cour Supreme (organized into criminal and administrative chambers, each with a chamber president and advisors); Constitutional Court (consists of 9 judges, including the court president)
+- `法官遴選和任期`: Supreme Court president appointed by decree of the president of the republic upon the proposal of the Supreme Council of the Magistracy, a 9-member judicial, advisory, and disciplinary body; other judicial appointments and judge tenure NA; Constitutional Court judges appointed by the National Assembly; judge tenure NA
+- `下級法院`: Court of Assizes (sessions court); Appeal Court; tribunals of first instance (divided into civil, commercial, and correctional chambers; Court of State Security; military tribunal
 
 ### 政黨
 Action Committee for Renewal or CAR Alliance of Democrats for Integral Development or ADDI Democratic Convention of African Peoples or CDPA Democratic Forces for the Republic or FDR National Alliance for Change or ANC New Togolese Commitment Pan-African National Party or PNP Pan-African Patriotic Convergence or CPP Patriotic Movement for Democracy and Development or MPDD Socialist Pact for Renewal or PSR The Togolese Party Union of Forces for Change or UFC Union for the Republic or UNIR 
@@ -357,19 +357,19 @@ Action Committee for Renewal or CAR Alliance of Democrats for Integral Developm
 ACP, AfDB, AIIB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Frédéric Edem HEGBE (since 24 April 2017)
-- `chancery`: 2208 Massachusetts Avenue NW, Washington, DC 20008
-- `telephone`: [1] (202) 234-4212
+- `外交代表負責人`: Ambassador Frédéric Edem HEGBE (since 24 April 2017)
+- `衡平法院（在美國）`: 2208 Massachusetts Avenue NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 234-4212
 - `FAX`: [1] (202) 232-3190
-- `email address and website`: embassyoftogo@hotmail.com  https://embassyoftogousa.com/
+- `電子郵件地址和網站`: embassyoftogo@hotmail.com  https://embassyoftogousa.com/
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Elizabeth FITZSIMMONS (since 26 April 2022)
-- `embassy`: Boulevard Eyadema, B.P. 852, Lome
-- `mailing address`: 2300 Lome Place, Washington, DC 20521-2300
-- `telephone`: [228] 2261-5470
+- `外交代表負責人`: Ambassador Elizabeth FITZSIMMONS (since 26 April 2022)
+- `大使館`: Boulevard Eyadema, B.P. 852, Lome
+- `郵寄地址`: 2300 Lome Place, Washington, DC 20521-2300
+- `電話號碼`: [228] 2261-5470
 - `FAX`: [228] 2261-5501
-- `email address and website`: consularLome@state.gov  https://tg.usembassy.gov/
+- `電子郵件地址和網站`: consularLome@state.gov  https://tg.usembassy.gov/
 
 ### 旗幟說明
 five equal horizontal bands of green (top and bottom) alternating with yellow; a white five-pointed star on a red square is in the upper hoist-side corner; the five horizontal stripes stand for the five different regions of the country; the red square is meant to express the loyalty and patriotism of the people, green symbolizes hope, fertility, and agriculture, while yellow represents mineral wealth and faith that hard work and strength will bring prosperity; the star symbolizes life, purity, peace, dignity, and Togo's independence
@@ -379,8 +379,8 @@ five equal horizontal bands of green (top and bottom) alternating with yellow; a
 lion; national colors: green, yellow, red, white
 
 ### 國歌
-- `name`: "Salut a toi, pays de nos aieux" (Hail to Thee, Land of Our Forefathers)
-- `lyrics/music`: Alex CASIMIR-DOSSEH
+- `名稱`: "Salut a toi, pays de nos aieux" (Hail to Thee, Land of Our Forefathers)
+- `歌詞／音樂`: Alex CASIMIR-DOSSEH
 **note**:  adopted 1960, restored 1992; this anthem was replaced by another during one-party rule between 1979 and 1992
 
 ### 國家級遺產
@@ -426,17 +426,17 @@ $9.171 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 18.1% (2023 est.)
-- `industry`: 20.2% (2023 est.)
-- `services`: 51.7% (2023 est.)
+- `農業`: 18.1% (2023 est.)
+- `產業`: 20.2% (2023 est.)
+- `服務`: 51.7% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 78.1% (2023 est.)
-- `government consumption`: 12.6% (2023 est.)
-- `investment in fixed capital`: 23% (2023 est.)
-- `exports of goods and services`: 23.9% (2023 est.)
-- `imports of goods and services`: -37.5% (2023 est.)
+- `家庭消費`: 78.1% (2023 est.)
+- `政府消費`: 12.6% (2023 est.)
+- `固定資本投資`: 23% (2023 est.)
+- `商品和服務出口`: 23.9% (2023 est.)
+- `商品和服務進口`: -37.5% (2023 est.)
 **note**:  figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -461,9 +461,9 @@ phosphate mining, agricultural processing, cement, handicrafts, textiles, bevera
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 3.3% (2023 est.)
-- `male`: 4.1% (2023 est.)
-- `female`: 2.6% (2023 est.)
+- `總計`: 3.3% (2023 est.)
+- `男性`: 4.1% (2023 est.)
+- `女性`: 2.6% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -475,8 +475,8 @@ phosphate mining, agricultural processing, cement, handicrafts, textiles, bevera
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 2.8% (2021 est.)
-- `highest 10%`: 29.6% (2021 est.)
+- `最低10%`: 2.8% (2021 est.)
+- `最高10%`: 29.6% (2021 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -486,8 +486,8 @@ phosphate mining, agricultural processing, cement, handicrafts, textiles, bevera
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $1.434 billion (2022 est.)
-- `expenditures`: $1.32 billion (2022 est.)
+- `收入`: $1.434 billion (2022 est.)
+- `支出`: $1.32 billion (2022 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -550,38 +550,38 @@ $1.462 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 57.2% (2022 est.)
-- `electrification - urban areas`: 96.5%
-- `electrification - rural areas`: 25%
+- `電氣化－總人口`: 57.2% (2022 est.)
+- `電氣化－城市地區`: 96.5%
+- `電氣化－農村地區`: 25%
 
 ### 電力
-- `installed generating capacity`: 309,000 kW (2022 est.)
-- `consumption`: 1.562 billion kWh (2022 est.)
-- `imports`: 796.563 million kWh (2022 est.)
-- `transmission/distribution losses`: 121.682 million kWh (2022 est.)
+- `裝機容量`: 309,000 kW (2022 est.)
+- `消費`: 1.562 billion kWh (2022 est.)
+- `進口`: 796.563 million kWh (2022 est.)
+- `傳輸／分配損耗`: 121.682 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 74.4% of total installed capacity (2022 est.)
-- `solar`: 6.8% of total installed capacity (2022 est.)
-- `hydroelectricity`: 18.4% of total installed capacity (2022 est.)
-- `biomass and waste`: 0.4% of total installed capacity (2022 est.)
+- `石化燃料`: 74.4% of total installed capacity (2022 est.)
+- `太陽能`: 6.8% of total installed capacity (2022 est.)
+- `水力發電`: 18.4% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 0.4% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `consumption`: 108,000 metric tons (2022 est.)
-- `imports`: 108,000 metric tons (2022 est.)
+- `消費`: 108,000 metric tons (2022 est.)
+- `進口`: 108,000 metric tons (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 12,000 bbl/day (2022 est.)
+- `成品油消費量`: 12,000 bbl/day (2022 est.)
 
 ### 天然氣
-- `consumption`: 131.373 million cubic meters (2022 est.)
-- `imports`: 131.373 million cubic meters (2022 est.)
+- `消費`: 131.373 million cubic meters (2022 est.)
+- `進口`: 131.373 million cubic meters (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 2.306 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 257,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 1.793 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 256,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 2.306 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 257,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 1.793 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 256,000 metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 4.077 million Btu/person (2022 est.)
@@ -589,17 +589,17 @@ $1.462 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 66,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: (2022 est.) less than 1
+- `總訂閱數`: 66,000 (2022 est.)
+- `每100名居民訂閱數`: (2022 est.) less than 1
 
 ### 電話—移動電話
-- `total subscriptions`: 6.564 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 74 (2022 est.)
+- `總訂閱數`: 6.564 million (2022 est.)
+- `每100名居民訂閱數`: 74 (2022 est.)
 
 ### 電信系統
-- `general assessment`: include radio, television, fixed and mobile telephones, and the Internet (2022)
-- `domestic`: fixed-line less than 1 per 100 and mobile-cellular is 74 telephones per 100 persons (2022)
-- `international`: country code - 228; landing point for the WACS submarine cable, linking countries along the west coast of Africa with each other and with Portugal; satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Symphonie (2020)
+- `總體評估`: include radio, television, fixed and mobile telephones, and the Internet (2022)
+- `國內`: fixed-line less than 1 per 100 and mobile-cellular is 74 telephones per 100 persons (2022)
+- `國際的`: country code - 228; landing point for the WACS submarine cable, linking countries along the west coast of Africa with each other and with Portugal; satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Symphonie (2020)
 
 ### 廣播媒體
 1 state-owned TV station with multiple transmission sites; five private TV stations broadcast locally; cable TV service is available; state-owned radio network with two stations (in Lome and Kara); several dozen private radio stations and a few community radio stations; transmissions of multiple international broadcasters available (2019)
@@ -608,20 +608,20 @@ $1.462 billion (2022 est.)
 .tg
 
 ### 網際網路使用者
-- `total`: 3.01 million (2021 est.)
-- `percent of population`: 35% (2021 est.)
+- `總計`: 3.01 million (2021 est.)
+- `佔人口比例`: 35% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 52,706 (2020 est.)
-- `subscriptions per 100 inhabitants`: 0.6 (2020 est.)
+- `總計`: 52,706 (2020 est.)
+- `每100名居民訂閱數`: 0.6 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 1 (2020)
-- `inventory of registered aircraft operated by air carriers`: 8
-- `annual passenger traffic on registered air carriers`: 566,295 (2018)
-- `annual freight traffic on registered air carriers`: 10.89 million (2018) mt-km
+- `註冊航空公司數量`: 1 (2020)
+- `註冊飛機庫存—航空承運商經營`: 8
+- `年度客運量－註冊航空公司`: 566,295 (2018)
+- `年度貨運量－註冊航空公司`: 10.89 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 5V
@@ -633,30 +633,30 @@ $1.462 billion (2022 est.)
 62 km gas
 
 ### 鐵路
-- `total`: 568 km (2014)
-- `narrow gauge`: 568 km (2014) 1.000-m gauge
+- `總計`: 568 km (2014)
+- `窄軌`: 568 km (2014) 1.000-m gauge
 
 ### 道路
-- `total`: 9,951 km
-- `paved`: 1,794 km
-- `unpaved`: 8,157 km
-- `urban`: 1,783 km (2018)
+- `總計`: 9,951 km
+- `已鋪砌`: 1,794 km
+- `未鋪砌`: 8,157 km
+- `城市`: 1,783 km (2018)
 
 ### 水道
 50 km (2011) (seasonally navigable by small craft on the Mono River depending on rainfall)
 
 ### 商船
-- `total`: 397 (2023)
-- `by type`: bulk carrier 1, container ship 10, general cargo 250, oil tanker 56, other 80
+- `總計`: 397 (2023)
+- `依類型`: bulk carrier 1, container ship 10, general cargo 250, oil tanker 56, other 80
 
 ### 港口
-- `total ports`: 2 (2024)
-- `large`: 0
-- `medium`: 1
-- `small`: 0
-- `very small`: 1
-- `ports with oil terminals`: 2
-- `key ports`: Kpeme, Lome
+- `總港口數`: 2 (2024)
+- `大`: 0
+- `中`: 1
+- `小`: 0
+- `非常小`: 1
+- `原油碼頭港口`: 2
+- `主要港口`: Kpeme, Lome
 
 ## 軍事和安全
 
@@ -694,7 +694,7 @@ Jama’at Nusrat al Islam wal Muslimeen (JNIM)
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 9,846 (Burkina Faso), 8,436 (Ghana) (2023)
+- `難民（原籍國）`: 9,846 (Burkina Faso), 8,436 (Ghana) (2023)
 
 ### 非法藥物
 transit hub for Nigerian heroin and cocaine traffickers; money laundering not a significant problem

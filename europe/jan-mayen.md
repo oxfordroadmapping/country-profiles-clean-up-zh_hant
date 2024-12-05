@@ -19,24 +19,24 @@ Northern Europe, island between the Greenland Sea and the Norwegian Sea, northea
 Arctic Region
 
 ### 面積
-- `total `: 377 sq km
-- `land`: 377 sq km
-- `water`: 0 sq km
+- `總計`: 377 sq km
+- `土地`: 377 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 slightly more than twice the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 124.1 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: 200-m depth or to the depth of exploitation
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: 200-m depth or to the depth of exploitation
 
 ### 氣候
 arctic maritime with frequent storms and persistent fog
@@ -45,16 +45,16 @@ arctic maritime with frequent storms and persistent fog
 volcanic island, partly covered by glaciers
 
 ### 海拔
-- `highest point`: Haakon VII Toppen on Beerenberg 2,277
-- `lowest point`: Norwegian Sea 0 m
+- `最高點`: Haakon VII Toppen on Beerenberg 2,277
+- `最低點`: Norwegian Sea 0 m
 **note**:  Beerenberg volcano has numerous peaks; the highest point on the volcano rim is named Haakon VII Toppen, after Norway's first king following the reestablishment of Norwegian independence in 1905
 
 ### 自然資源
 none
 
 ### 土地利用
-- `agricultural land`: 0% (2011 est.)
-- `other`: 100% (2018 est.)
+- `農地`: 0% (2011 est.)
+- `其它`: 100% (2018 est.)
 
 ### 灌溉土地
 0 sq km (2022)
@@ -68,7 +68,7 @@ barren volcanic spoon-shaped island with some moss and grass flora; island consi
 ## 人民和社會
 
 ### 人口
-- `total`: no indigenous inhabitants
+- `總計`: no indigenous inhabitants
 **note**:  military personnel operate the the weather and coastal services radio station
 
 ## 環境
@@ -80,15 +80,15 @@ pollutants transported from southerly latitudes by winds, ocean currents, and ri
 arctic maritime with frequent storms and persistent fog
 
 ### 土地利用
-- `agricultural land`: 0% (2011 est.)
-- `other`: 100% (2018 est.)
+- `農地`: 0% (2011 est.)
+- `其它`: 100% (2018 est.)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Jan Mayen
-- `etymology`: named after Dutch Captain Jan Jacobszoon MAY, one of the first explorers to reach the island in 1614
+- `常用長名`: none
+- `常用短名`: Jan Mayen
+- `语源学`: named after Dutch Captain Jan Jacobszoon MAY, one of the first explorers to reach the island in 1614
 
 ### 附屬狀況
 territory of Norway; since August 1994, administered from Oslo through the county governor (fylkesmann) of Nordland; however, authority has been delegated to a station commander of the Norwegian Defense Communication Service; in 2010, Norway designated the majority of Jan Mayen as a nature reserve

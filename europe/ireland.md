@@ -19,23 +19,23 @@ Western Europe, occupying five-sixths of the island of Ireland in the North Atla
 Europe
 
 ### 面積
-- `total `: 70,273 sq km
-- `land`: 68,883 sq km
-- `water`: 1,390 sq km
+- `總計`: 70,273 sq km
+- `土地`: 68,883 sq km
+- `水`: 1,390 sq km
 
 ### 面積—比較
 slightly larger than West Virginia
 
 ### 陸地邊界
-- `total`: 490 km
-- `border countries`: UK 499 km
+- `總計`: 490 km
+- `邊境國家`: UK 499 km
 
 ### 海岸線
 1,448 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive fishing zone`: 200 nm
+- `領海`: 12 nm
+- `專屬捕魚區`: 200 nm
 
 ### 氣候
 temperate maritime; modified by North Atlantic Current; mild winters, cool summers; consistently humid; overcast about half the time
@@ -44,20 +44,20 @@ temperate maritime; modified by North Atlantic Current; mild winters, cool summe
 mostly flat to rolling interior plain surrounded by rugged hills and low mountains; sea cliffs on west coast
 
 ### 海拔
-- `highest point`: Carrauntoohil 1,041 m
-- `lowest point`: Atlantic Ocean 0 m
-- `mean elevation`: 118 m
+- `最高點`: Carrauntoohil 1,041 m
+- `最低點`: Atlantic Ocean 0 m
+- `平均海拔`: 118 m
 
 ### 自然資源
 natural gas, peat, copper, lead, zinc, silver, barite, gypsum, limestone, dolomite
 
 ### 土地利用
-- `agricultural land`: 66.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 15.4% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 50.7% (2018 est.)
-- `forest`: 10.9% (2018 est.)
-- `other`: 23% (2018 est.)
+- `農地`: 66.1% (2018 est.)
+- `農地：耕地`: arable land: 15.4% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 50.7% (2018 est.)
+- `森林`: 10.9% (2018 est.)
+- `其它`: 23% (2018 est.)
 
 ### 灌溉土地
 0 sq km (2022)
@@ -74,13 +74,13 @@ strategic location on major air and sea routes between North America and norther
 ## 人民和社會
 
 ### 人口
-- `total`: 5,233,461
-- `male`: 2,590,542
-- `female`: 2,642,919 (2024 est.)
+- `總計`: 5,233,461
+- `男性`: 2,590,542
+- `女性`: 2,642,919 (2024 est.)
 
 ### 國籍
-- `noun`: Irishman(men), Irishwoman(women), Irish (collective plural)
-- `adjective`: Irish
+- `名詞`: Irishman(men), Irishwoman(women), Irish (collective plural)
+- `形容詞`: Irish
 
 ### 族裔群體
 Irish 76.6%, Irish travelers 0.6%, other White 9.9%, Asian 3.3%, Black 1.5%, other (includes Arab, Roma, and persons of mixed backgrounds) 2%, unspecified 2.6% (2022 est.)
@@ -92,20 +92,20 @@ English (official, the language generally used), Irish (Gaelic or Gaeilge) (offi
 Roman Catholic 69.2% (includes lapsed), Protestant 3.7% (Church of Ireland/England/Anglican/Episcopalian 2.5%, other Protestant 1.2%), Orthodox 2%, other Christian 0.9%, Muslim 1.6%, other 1.4%, agnostic/atheist 0.1%, none 14.5%, unspecified 6.7% (2022 est.)
 
 ### 年齡結構
-- `0-14 years`: 18.6% (male 498,124/female 477,848)
-- `15-64 years`: 65.5% (male 1,701,680/female 1,728,041)
-- `65 years and over`: 15.8% (2024 est.) (male 390,738/female 437,030)
+- `0-14歲`: 18.6% (male 498,124/female 477,848)
+- `15-64歲`: 65.5% (male 1,701,680/female 1,728,041)
+- `65歲及以上`: 15.8% (2024 est.) (male 390,738/female 437,030)
 
 ### 撫養比率
-- `total dependency ratio`: 53.2
-- `youth dependency ratio`: 30.5
-- `elderly dependency ratio`: 22.7
-- `potential support ratio`: 4.4 (2021 est.)
+- `總受扶養人比率`: 53.2
+- `少年撫養比率`: 30.5
+- `老人撫養比率`: 22.7
+- `潛在支持率`: 4.4 (2021 est.)
 
 ### 年齡中位數
-- `total`: 40.2 years (2024 est.)
-- `male`: 39.7 years
-- `female`: 40.6 years
+- `總計`: 40.2 years (2024 est.)
+- `男性`: 39.7 years
+- `女性`: 40.6 years
 
 ### 人口成長率
 0.93% (2024 est.)
@@ -123,18 +123,18 @@ Roman Catholic 69.2% (includes lapsed), Protestant 3.7% (Church of Ireland/Engla
 population distribution is weighted to the eastern side of the island, with the largest concentration being in and around Dublin; populations in the west are small due to mountainous land, poorer soil, lack of good transport routes, and fewer job opportunities
 
 ### 都市化
-- `urban population`: 64.5% of total population (2023)
-- `rate of urbanization`: 1.15% annual rate of change (2020-25 est.)
+- `城市人口`: 64.5% of total population (2023)
+- `城鎮化率`: 1.15% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 1.270 million DUBLIN (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.06 male(s)/female
-- `0-14 years`: 1.04 male(s)/female
-- `15-64 years`: 0.98 male(s)/female
-- `65 years and over`: 0.89 male(s)/female
-- `total population`: 0.98 male(s)/female (2024 est.)
+- `出生時`: 1.06 male(s)/female
+- `0-14歲`: 1.04 male(s)/female
+- `15-64歲`: 0.98 male(s)/female
+- `65歲及以上`: 0.89 male(s)/female
+- `總人口數`: 0.98 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 30.9 years (2020 est.)
@@ -143,14 +143,14 @@ population distribution is weighted to the eastern side of the island, with the 
 5 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 3.3 deaths/1,000 live births (2024 est.)
-- `male`: 3.2 deaths/1,000 live births
-- `female`: 3.3 deaths/1,000 live births
+- `總計`: 3.3 deaths/1,000 live births (2024 est.)
+- `男性`: 3.2 deaths/1,000 live births
+- `女性`: 3.3 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 82 years (2024 est.)
-- `male`: 80.3 years
-- `female`: 83.9 years
+- `總人口數`: 82 years (2024 est.)
+- `男性`: 80.3 years
+- `女性`: 83.9 years
 
 ### 總生育率
 1.72 children born/woman (2024 est.)
@@ -162,12 +162,12 @@ population distribution is weighted to the eastern side of the island, with the 
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: 97% of population
-- `improved: rural`: rural: 98.1% of population
-- `improved: total`: total: 97.4% of population
-- `unimproved: urban`: urban: 3% of population
-- `unimproved: rural`: rural: 1.9% of population
-- `unimproved: total`: total: 2.6% of population (2020 est.)
+- `已改進－城市`: urban: 97% of population
+- `已改進－農村`: rural: 98.1% of population
+- `已改進－總計`: total: 97.4% of population
+- `未改進：都市`: urban: 3% of population
+- `未改進：鄉村`: rural: 1.9% of population
+- `未改善：總計`: total: 2.6% of population (2020 est.)
 
 ### 當前醫療支出
 7.1% of GDP (2020)
@@ -179,27 +179,27 @@ NA
 3 beds/1,000 population (2018)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 97.8% of population
-- `improved: rural`: rural: 99.1% of population
-- `improved: total`: total: 98.3% of population
-- `unimproved: urban`: urban: 2.2% of population
-- `unimproved: rural`: rural: 0.9% of population
-- `unimproved: total`: total: 1.7% of population (2020 est.)
+- `已改進－城市`: urban: 97.8% of population
+- `已改進－農村`: rural: 99.1% of population
+- `已改進－總計`: total: 98.3% of population
+- `未改進：都市`: urban: 2.2% of population
+- `未改進：鄉村`: rural: 0.9% of population
+- `未改善：總計`: total: 1.7% of population (2020 est.)
 
 ### 肥胖—成人流行率
 25.3% (2016)
 
 ### 人均酒精消費量
-- `total`: 10.91 liters of pure alcohol (2019 est.)
-- `beer`: 4.92 liters of pure alcohol (2019 est.)
-- `wine`: 2.88 liters of pure alcohol (2019 est.)
-- `spirits`: 2.29 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.82 liters of pure alcohol (2019 est.)
+- `總計`: 10.91 liters of pure alcohol (2019 est.)
+- `啤酒`: 4.92 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 2.88 liters of pure alcohol (2019 est.)
+- `烈酒`: 2.29 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.82 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 20.8% (2020 est.)
-- `male`: 22.5% (2020 est.)
-- `female`: 19% (2020 est.)
+- `總計`: 20.8% (2020 est.)
+- `男性`: 22.5% (2020 est.)
+- `女性`: 19% (2020 est.)
 
 ### 5歲以下體重不足兒童
 NA
@@ -211,14 +211,14 @@ NA
 3.1% of GDP (2020 est.)
 
 ### 識字程度
-- `total population`: NA
-- `male`: NA
-- `female`: NA
+- `總人口數`: NA
+- `男性`: NA
+- `女性`: NA
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 19 years
-- `male`: 18 years
-- `female`: 19 years (2020)
+- `總計`: 19 years
+- `男性`: 18 years
+- `女性`: 19 years (2020)
 
 ## 環境
 
@@ -226,23 +226,23 @@ NA
 water pollution, especially of lakes, from agricultural runoff; acid rain kills plants, destroys soil fertility, and contributes to deforestation
 
 ### 環境—國際協定
-- `party to`: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
-- `signed, but not ratified`: Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Marine Life Conservation
+- `是以下議定書的締約國：`: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
+- `已簽署但未批準`: Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Marine Life Conservation
 
 ### 氣候
 temperate maritime; modified by North Atlantic Current; mild winters, cool summers; consistently humid; overcast about half the time
 
 ### 土地利用
-- `agricultural land`: 66.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 15.4% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 50.7% (2018 est.)
-- `forest`: 10.9% (2018 est.)
-- `other`: 23% (2018 est.)
+- `農地`: 66.1% (2018 est.)
+- `農地：耕地`: arable land: 15.4% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 50.7% (2018 est.)
+- `森林`: 10.9% (2018 est.)
+- `其它`: 23% (2018 est.)
 
 ### 都市化
-- `urban population`: 64.5% of total population (2023)
-- `rate of urbanization`: 1.15% annual rate of change (2020-25 est.)
+- `城市人口`: 64.5% of total population (2023)
+- `城鎮化率`: 1.15% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.01% of GDP (2018 est.)
@@ -251,45 +251,45 @@ temperate maritime; modified by North Atlantic Current; mild winters, cool summe
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 8.2 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 37.71 megatons (2016 est.)
-- `methane emissions`: 13.67 megatons (2020 est.)
+- `顆粒物排放量`: 8.2 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 37.71 megatons (2016 est.)
+- `甲烷排放量`: 13.67 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 2,692,537 tons (2012 est.)
-- `municipal solid waste recycled annually`: 888,537 tons (2012 est.)
-- `percent of municipal solid waste recycled`: 33% (2012 est.)
+- `城市固體廢棄物－每年產生`: 2,692,537 tons (2012 est.)
+- `城市固體廢棄物－每年回收`: 888,537 tons (2012 est.)
+- `城市固體廢棄物－回收百分比`: 33% (2012 est.)
 
 ### 總取水量
-- `municipal`: 990 million cubic meters (2020 est.)
-- `industrial`: 520 million cubic meters (2020 est.)
-- `agricultural`: 40 million cubic meters (2020 est.)
+- `市級`: 990 million cubic meters (2020 est.)
+- `工業`: 520 million cubic meters (2020 est.)
+- `農業`: 40 million cubic meters (2020 est.)
 
 ### 可再生水資源總量
 52 billion cubic meters (2020 est.)
 
 ### 地質公園
-- `total global geoparks and regional networks`: 3
-- `global geoparks and regional networks`: Burren & Cliffs of Moher; Copper Coast; Marble Arch Caves (includes United Kingdom) (2023)
+- `全球地質公園和區域網絡總數`: 3
+- `全球地質公園和區域網絡`: Burren & Cliffs of Moher; Copper Coast; Marble Arch Caves (includes United Kingdom) (2023)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Ireland
-- `local long form`: none
-- `local short form`: Eire
-- `etymology`: the modern Irish name "Eire" evolved from the Gaelic "Eriu," the name of the matron goddess of Ireland (goddess of the land); the names "Ireland" in English and "Eire" in Irish are direct translations of each other
+- `常用長名`: none
+- `常用短名`: Ireland
+- `當地語長名`: none
+- `當地語短名`: Eire
+- `语源学`: the modern Irish name "Eire" evolved from the Gaelic "Eriu," the name of the matron goddess of Ireland (goddess of the land); the names "Ireland" in English and "Eire" in Irish are direct translations of each other
 
 ### 政府類型
 parliamentary republic
 
 ### 首都
-- `name`: Dublin
-- `geographic coordinates`: 53 19 N, 6 14 W
-- `time difference`: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
-- `daylight saving time`: +1hr, begins last Sunday in March; ends last Sunday in October
-- `etymology`: derived from Irish *dubh* and *lind* meaning respectively "black, dark" and "pool" and which referred to the dark tidal pool where the River Poddle entered the River Liffey; today the area is the site of the castle gardens behind Dublin Castle
+- `名稱`: Dublin
+- `地理坐標`: 53 19 N, 6 14 W
+- `時差`: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
+- `日光節約時間`: +1hr, begins last Sunday in March; ends last Sunday in October
+- `语源学`: derived from Irish *dubh* and *lind* meaning respectively "black, dark" and "pool" and which referred to the dark tidal pool where the River Poddle entered the River Liffey; today the area is the site of the castle gardens behind Dublin Castle
 
 ### 行政區劃
 28 counties and 3 cities*; Carlow, Cavan, Clare, Cork, Cork*, Donegal, Dublin*, Dun Laoghaire-Rathdown, Fingal, Galway, Galway*, Kerry, Kildare, Kilkenny, Laois, Leitrim, Limerick, Longford, Louth, Mayo, Meath, Monaghan, Offaly, Roscommon, Sligo, South Dublin, Tipperary, Waterford, Westmeath, Wexford, Wicklow
@@ -304,38 +304,38 @@ Saint Patrick's Day, 17 March; note - marks the traditional death date of Saint 
 common law system based on the English model but substantially modified by customary law; judicial review of legislative acts by Supreme Court
 
 ### 憲法
-- `history`: previous 1922; latest drafted 14 June 1937, adopted by plebiscite 1 July 1937, effective 29 December 1937
-- `amendments`: proposed as bills by Parliament; passage requires majority vote by both the Senate and House of Representatives, majority vote in a referendum, and presidential signature; amended many times, last in 2019
+- `歷史`: previous 1922; latest drafted 14 June 1937, adopted by plebiscite 1 July 1937, effective 29 December 1937
+- `修正`: proposed as bills by Parliament; passage requires majority vote by both the Senate and House of Representatives, majority vote in a referendum, and presidential signature; amended many times, last in 2019
 
 ### 國際法組織參與
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no, unless a parent of a child born in Ireland has been legally resident in Ireland for at least three of the four years prior to the birth of the child
-- `citizenship by descent only`: yes
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: 4 of the previous 8 years
+- `出生公民權`: no, unless a parent of a child born in Ireland has been legally resident in Ireland for at least three of the four years prior to the birth of the child
+- `血統公民身份`: yes
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: 4 of the previous 8 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Michael D. HIGGINS (since 11 November 2011)
-- `head of government`: Taoiseach (Prime Minister) Simon HARRIS (since 9 April 2024)
-- `cabinet`: Cabinet nominated by the prime minister, appointed by the president, approved by the Dali Eireann (lower house of Parliament)
-- `elections/appointments`: president directly elected by majority popular vote for a 7-year term (eligible for a second term); election last held on 26 October 2018 (next to be held no later than November 2025); taoiseach (prime minister) nominated by the House of Representatives (Dail Eireann), appointed by the president
-- `election results`: *2024: *Simon HARRIS is elected taoiseach by parliament, 88 votes to 69, and is appointed taoiseach by the president*  2018:* Michael D. HIGGINS reelected president in first round; percent of vote in first round - Michael D. HIGGINS (independent) 55.8%, Peter CASEY (independent) 23.3%, Sean GALLAGHER (independent) 6.4%, Liadh NI RIADA (Sinn Fein) 6.4%, Joan FREEMAN (independent) 6%, Gavin DUFFY (independent) 2.2%  *2011: *Michael D. HIGGINS elected president in second round; percent of vote in first round - Michael D. HIGGINS (Labor) 39.6%, Sean GALLAGHER (independent) 28.5%, Martin McGuinness (Sinn Féin) 13.7%, Gay Mitchell (Fine Gael) 6.4%, David Norris (independent) 6.2%, Mary DAVIS (independent) 2.7%; percent of vote in second round - Michael D. HIGGINS 56.8%, Sean GALLAGHER 35.5%
+- `國家元首`: President Michael D. HIGGINS (since 11 November 2011)
+- `政府首腦`: Taoiseach (Prime Minister) Simon HARRIS (since 9 April 2024)
+- `内閣`: Cabinet nominated by the prime minister, appointed by the president, approved by the Dali Eireann (lower house of Parliament)
+- `選舉/任命`: president directly elected by majority popular vote for a 7-year term (eligible for a second term); election last held on 26 October 2018 (next to be held no later than November 2025); taoiseach (prime minister) nominated by the House of Representatives (Dail Eireann), appointed by the president
+- `選舉結果`: *2024: *Simon HARRIS is elected taoiseach by parliament, 88 votes to 69, and is appointed taoiseach by the president*  2018:* Michael D. HIGGINS reelected president in first round; percent of vote in first round - Michael D. HIGGINS (independent) 55.8%, Peter CASEY (independent) 23.3%, Sean GALLAGHER (independent) 6.4%, Liadh NI RIADA (Sinn Fein) 6.4%, Joan FREEMAN (independent) 6%, Gavin DUFFY (independent) 2.2%  *2011: *Michael D. HIGGINS elected president in second round; percent of vote in first round - Michael D. HIGGINS (Labor) 39.6%, Sean GALLAGHER (independent) 28.5%, Martin McGuinness (Sinn Féin) 13.7%, Gay Mitchell (Fine Gael) 6.4%, David Norris (independent) 6.2%, Mary DAVIS (independent) 2.7%; percent of vote in second round - Michael D. HIGGINS 56.8%, Sean GALLAGHER 35.5%
 **note**:  Taoiseach Leo VARADKAR resigned from the ruling party on 20 March 2024 but remained as the caretaker taoiseach until a successor was appointed on 9 April 2024
 
 ### 立法部門
-- `description`: bicameral Parliament or Oireachtas consists of:Senate or Seanad Eireann (60 seats; 49 members indirectly elected from 5 vocational panels of nominees by an electoral college, 11 appointed by the prime ministerHouse of Representatives or Dail Eireann (160 seats; members directly elected in multi-seat constituencies by proportional representation vote; all Parliament members serve 5-year terms)
-- `elections`: Senate - last held early on 21-30 May 2020 (next to be held in March 2025)House of Representatives - last held on 8 February 2020 (next to be held no later than March 2025)
-- `election results`: *_issue_* *_issue_*Senate - percent of vote by party - Fianna Fail 35%, Fine Gael 26.7%, Green Party 6.7%*_issue_*, *_issue_*Labor Party 6.7%, Sinn Fein 6.7%, other 1.6%, independent 16.7%; seats by party - Fianna Fail 21, Fine Gael 16, Green Party 4*_issue_*, *_issue_*Labor Party 4, Sinn Fein 4, other 1, independent 10; composition - men 36, women 24, percentage women 40%  House of Representatives - percent of vote by party - Fianna Fail 23.8%, Sinn Fein 23.1%, Fine Gael 21.9%, Green Party 7.5%, other 11.8%, independent 11.9%; seats by party - Fianna Fail 38, Sinn Fein 37, Fine Gael 35, Green Party 12, Labor Party 6, Social Democrats 6, PBPS 5, other 2, independent 19; composition - men 123, women 37, percentage women 23.1%; total Parliament percentage women 27.7%
+- `描述`: bicameral Parliament or Oireachtas consists of:Senate or Seanad Eireann (60 seats; 49 members indirectly elected from 5 vocational panels of nominees by an electoral college, 11 appointed by the prime ministerHouse of Representatives or Dail Eireann (160 seats; members directly elected in multi-seat constituencies by proportional representation vote; all Parliament members serve 5-year terms)
+- `選舉`: Senate - last held early on 21-30 May 2020 (next to be held in March 2025)House of Representatives - last held on 8 February 2020 (next to be held no later than March 2025)
+- `選舉結果`: *_issue_* *_issue_*Senate - percent of vote by party - Fianna Fail 35%, Fine Gael 26.7%, Green Party 6.7%*_issue_*, *_issue_*Labor Party 6.7%, Sinn Fein 6.7%, other 1.6%, independent 16.7%; seats by party - Fianna Fail 21, Fine Gael 16, Green Party 4*_issue_*, *_issue_*Labor Party 4, Sinn Fein 4, other 1, independent 10; composition - men 36, women 24, percentage women 40%  House of Representatives - percent of vote by party - Fianna Fail 23.8%, Sinn Fein 23.1%, Fine Gael 21.9%, Green Party 7.5%, other 11.8%, independent 11.9%; seats by party - Fianna Fail 38, Sinn Fein 37, Fine Gael 35, Green Party 12, Labor Party 6, Social Democrats 6, PBPS 5, other 2, independent 19; composition - men 123, women 37, percentage women 23.1%; total Parliament percentage women 27.7%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court of Ireland (consists of the chief justice, 9 judges, 2 ex-officio members - the presidents of the High Court and Court of Appeal - and organized in 3-, 5-, or 7-judge panels, depending on the importance or complexity of an issue of law)
-- `judge selection and term of office`: judges nominated by the prime minister and Cabinet and appointed by the president; chief justice serves in the position for 7 years; judges can serve until age 70
-- `subordinate courts`: High Court, Court of Appeal; circuit and district courts; criminal courts
+- `最高法院`: Supreme Court of Ireland (consists of the chief justice, 9 judges, 2 ex-officio members - the presidents of the High Court and Court of Appeal - and organized in 3-, 5-, or 7-judge panels, depending on the importance or complexity of an issue of law)
+- `法官遴選和任期`: judges nominated by the prime minister and Cabinet and appointed by the president; chief justice serves in the position for 7 years; judges can serve until age 70
+- `下級法院`: High Court, Court of Appeal; circuit and district courts; criminal courts
 
 ### 政黨
 Aontu Solidarity-People Before Profit or PBPS Fianna Fail Fine Gael Green Party Human Dignity Alliance Labor (Labour) Party Right to Change or RTCSinn Fein Social Democrats Socialist PartyThe Workers' Party
@@ -344,20 +344,20 @@ Aontu Solidarity-People Before Profit or PBPS Fianna Fail Fine Gael Green Pa
 ADB (nonregional member), Australia Group, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNIFIL, UNOCI, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Geraldine BYRNE NASON (since 16 September 2022)
-- `chancery`: 2234 Massachusetts Avenue NW, Washington, DC 20008
-- `telephone`: [1] (202) 462-3939
+- `外交代表負責人`: Ambassador Geraldine BYRNE NASON (since 16 September 2022)
+- `衡平法院（在美國）`: 2234 Massachusetts Avenue NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 462-3939
 - `FAX`: [1] (202) 232-5993
-- `email address and website`: https://www.ireland.ie/en/usa/washington/
-- `consulate(s) general`: Atlanta, Austin (TX), Boston, Chicago, Los Angeles, Miami, New York, San Francisco
+- `電子郵件地址和網站`: https://www.ireland.ie/en/usa/washington/
+- `總領事館`: Atlanta, Austin (TX), Boston, Chicago, Los Angeles, Miami, New York, San Francisco
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Claire D. CRONIN (since 10 February 2022)
-- `embassy`: 42 Elgin Road, Ballsbridge, Dublin 4
-- `mailing address`: 5290 Dublin Place, Washington DC  20521-5290
-- `telephone`: [353] (1) 668-8777
+- `外交代表負責人`: Ambassador Claire D. CRONIN (since 10 February 2022)
+- `大使館`: 42 Elgin Road, Ballsbridge, Dublin 4
+- `郵寄地址`: 5290 Dublin Place, Washington DC  20521-5290
+- `電話號碼`: [353] (1) 668-8777
 - `FAX`: [353] (1) 688-8056
-- `email address and website`: ACSDublin@state.gov  https://ie.usembassy.gov/
+- `電子郵件地址和網站`: ACSDublin@state.gov  https://ie.usembassy.gov/
 
 ### 旗幟說明
 three equal vertical bands of green (hoist side), white, and orange; officially the flag colors have no meaning, but a common interpretation is that the green represents the Irish nationalist (Gaelic) tradition of Ireland; orange represents the Orange tradition (minority supporters of William of Orange); white symbolizes peace (or a lasting truce) between the green and the orange
@@ -367,8 +367,8 @@ three equal vertical bands of green (hoist side), white, and orange; officially 
 harp, shamrock (trefoil); national colors: blue, green
 
 ### 國歌
-- `name`: "Amhran na bhFiann" (The Soldier's Song)
-- `lyrics/music`: Peadar KEARNEY [English], Liam O RINN [Irish]/Patrick HEENEY and Peadar KEARNEY
+- `名稱`: "Amhran na bhFiann" (The Soldier's Song)
+- `歌詞／音樂`: Peadar KEARNEY [English], Liam O RINN [Irish]/Patrick HEENEY and Peadar KEARNEY
 **note**:  adopted 1926; instead of "Amhran na bhFiann," the song "Ireland's Call" is often used at athletic events where citizens of Ireland and Northern Ireland compete as a unified team
 
 ### 國家級遺產
@@ -415,18 +415,18 @@ $545.629 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 0.9% (2023 est.)
-- `industry`: 37.6% (2023 est.)
-- `services`: 56.6% (2023 est.)
+- `農業`: 0.9% (2023 est.)
+- `產業`: 37.6% (2023 est.)
+- `服務`: 56.6% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 27% (2023 est.)
-- `government consumption`: 12.3% (2023 est.)
-- `investment in fixed capital`: 23.4% (2023 est.)
-- `investment in inventories`: 3.2% (2023 est.)
-- `exports of goods and services`: 134.1% (2023 est.)
-- `imports of goods and services`: -100.6% (2023 est.)
+- `家庭消費`: 27% (2023 est.)
+- `政府消費`: 12.3% (2023 est.)
+- `固定資本投資`: 23.4% (2023 est.)
+- `存貨投資`: 3.2% (2023 est.)
+- `商品和服務出口`: 134.1% (2023 est.)
+- `商品和服務進口`: -100.6% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -451,9 +451,9 @@ pharmaceuticals, chemicals, computer hardware and software, food products, bever
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 10.5% (2023 est.)
-- `male`: 10.5% (2023 est.)
-- `female`: 10.6% (2023 est.)
+- `總計`: 10.5% (2023 est.)
+- `男性`: 10.5% (2023 est.)
+- `女性`: 10.6% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -465,12 +465,12 @@ pharmaceuticals, chemicals, computer hardware and software, food products, bever
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 平均家庭支出
-- `on food`: 8.2% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 5.6% of household expenditures (2022 est.)
+- `餐食`: 8.2% of household expenditures (2022 est.)
+- `酒精和煙草`: 5.6% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 3.6% (2021 est.)
-- `highest 10%`: 24.8% (2021 est.)
+- `最低10%`: 3.6% (2021 est.)
+- `最高10%`: 24.8% (2021 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -480,8 +480,8 @@ pharmaceuticals, chemicals, computer hardware and software, food products, bever
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $118.278 billion (2022 est.)
-- `expenditures`: $105.516 billion (2022 est.)
+- `收入`: $118.278 billion (2022 est.)
+- `支出`: $105.516 billion (2022 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -543,43 +543,43 @@ $13.247 billion (2021 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 11.53 million kW (2022 est.)
-- `consumption`: 30.736 billion kWh (2022 est.)
-- `exports`: 1.342 billion kWh (2022 est.)
-- `imports`: 1.552 billion kWh (2022 est.)
-- `transmission/distribution losses`: 2.455 billion kWh (2022 est.)
+- `裝機容量`: 11.53 million kW (2022 est.)
+- `消費`: 30.736 billion kWh (2022 est.)
+- `出口`: 1.342 billion kWh (2022 est.)
+- `進口`: 1.552 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 2.455 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 58.2% of total installed capacity (2022 est.)
-- `solar`: 0.3% of total installed capacity (2022 est.)
-- `wind`: 35.9% of total installed capacity (2022 est.)
-- `hydroelectricity`: 1.5% of total installed capacity (2022 est.)
-- `biomass and waste`: 4.1% of total installed capacity (2022 est.)
+- `石化燃料`: 58.2% of total installed capacity (2022 est.)
+- `太陽能`: 0.3% of total installed capacity (2022 est.)
+- `風能`: 35.9% of total installed capacity (2022 est.)
+- `水力發電`: 1.5% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 4.1% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `consumption`: 1.322 million metric tons (2022 est.)
-- `exports`: 96,000 metric tons (2022 est.)
-- `imports`: 1.335 million metric tons (2022 est.)
-- `proven reserves`: 40 million metric tons (2022 est.)
+- `消費`: 1.322 million metric tons (2022 est.)
+- `出口`: 96,000 metric tons (2022 est.)
+- `進口`: 1.335 million metric tons (2022 est.)
+- `探明儲量`: 40 million metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 600 bbl/day (2023 est.)
-- `refined petroleum consumption`: 156,000 bbl/day (2023 est.)
+- `總石油產量`: 600 bbl/day (2023 est.)
+- `成品油消費量`: 156,000 bbl/day (2023 est.)
 
 ### 天然氣
-- `production`: 1.447 billion cubic meters (2022 est.)
-- `consumption`: 5.28 billion cubic meters (2022 est.)
-- `imports`: 3.836 billion cubic meters (2022 est.)
-- `proven reserves`: 9.911 billion cubic meters (2021 est.)
+- `生產`: 1.447 billion cubic meters (2022 est.)
+- `消費`: 5.28 billion cubic meters (2022 est.)
+- `進口`: 3.836 billion cubic meters (2022 est.)
+- `探明儲量`: 9.911 billion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 35.957 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 2.973 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 22.441 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 10.543 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 35.957 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 2.973 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 22.441 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 10.543 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 118.037 million Btu/person (2022 est.)
@@ -587,17 +587,17 @@ $13.247 billion (2021 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 1.498 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 30 (2022 est.)
+- `總訂閱數`: 1.498 million (2022 est.)
+- `每100名居民訂閱數`: 30 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 5.69 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 113 (2022 est.)
+- `總訂閱數`: 5.69 million (2022 est.)
+- `每100名居民訂閱數`: 113 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Ireland’s telecom market has rebounded from a long period in which fiscal constraints inhibited investment in the sector; significant infrastructure projects are underway, including the NBN which aims to deliver a fiber-based service of at least 150Mb/s nationally by the end of 2022; the renewed optimism has been seen in company investment in extending fiber-based networks providing 1Gb/s services; the mobile sector is preparing for a multi-frequency availability later in 2021 which will greatly increase the amount of frequencies available, and provide a boost for 5G services; the MNOs are rapidly expanding the reach of 5G (2021)
-- `domestic`: fixed-line 32 per 100 and mobile-cellular 108 per 100 subscriptions. (2021)
-- `international`: country code - 353; landing point for the AEConnect -1, Celtic-Norse, Havfrue/AEC-2, GTT Express, Celtic, ESAT-1, IFC-1, Solas, Pan European Crossing, ESAT-2, CeltixConnect -1 & 2, GTT Atlantic, Sirius South, Emerald Bridge Fibres and Geo Eirgrid submarine cable with links to the US, Canada, Norway, Isle of Man and UK; satellite earth stations - 81 (2019)
+- `總體評估`: Ireland’s telecom market has rebounded from a long period in which fiscal constraints inhibited investment in the sector; significant infrastructure projects are underway, including the NBN which aims to deliver a fiber-based service of at least 150Mb/s nationally by the end of 2022; the renewed optimism has been seen in company investment in extending fiber-based networks providing 1Gb/s services; the mobile sector is preparing for a multi-frequency availability later in 2021 which will greatly increase the amount of frequencies available, and provide a boost for 5G services; the MNOs are rapidly expanding the reach of 5G (2021)
+- `國內`: fixed-line 32 per 100 and mobile-cellular 108 per 100 subscriptions. (2021)
+- `國際的`: country code - 353; landing point for the AEConnect -1, Celtic-Norse, Havfrue/AEC-2, GTT Express, Celtic, ESAT-1, IFC-1, Solas, Pan European Crossing, ESAT-2, CeltixConnect -1 & 2, GTT Atlantic, Sirius South, Emerald Bridge Fibres and Geo Eirgrid submarine cable with links to the US, Canada, Norway, Isle of Man and UK; satellite earth stations - 81 (2019)
 
 ### 廣播媒體
 publicly owned broadcaster Radio Telefis Eireann (RTE) operates 4 TV stations; commercial TV stations are available; about 75% of households utilize multi-channel satellite and TV services that provide access to a wide range of stations; RTE operates 4 national radio stations and has launched digital audio broadcasts on several stations; a number of commercial broadcast stations operate at the national, regional, and local levels (2019)
@@ -606,20 +606,20 @@ publicly owned broadcaster Radio Telefis Eireann (RTE) operates 4 TV stations; 
 .ie
 
 ### 網際網路使用者
-- `total`: 4.75 million (2021 est.)
-- `percent of population`: 95% (2021 est.)
+- `總計`: 4.75 million (2021 est.)
+- `佔人口比例`: 95% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 1,516,473 (2020 est.)
-- `subscriptions per 100 inhabitants`: 31 (2020 est.)
+- `總計`: 1,516,473 (2020 est.)
+- `每100名居民訂閱數`: 31 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 9 (2020)
-- `inventory of registered aircraft operated by air carriers`: 450
-- `annual passenger traffic on registered air carriers`: 1.676 million (2018)
-- `annual freight traffic on registered air carriers`: 168.71 million (2018) mt-km
+- `註冊航空公司數量`: 9 (2020)
+- `註冊飛機庫存—航空承運商經營`: 450
+- `年度客運量－註冊航空公司`: 1.676 million (2018)
+- `年度貨運量－註冊航空公司`: 168.71 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 EI
@@ -634,26 +634,26 @@ EI
 2,427 km gas (2017)
 
 ### 鐵路
-- `total`: 1,688 km (2020) 53 km electrified
+- `總計`: 1,688 km (2020) 53 km electrified
 
 ### 道路
-- `total`: 102,227 km (2022)
+- `總計`: 102,227 km (2022)
 
 ### 水道
 956 km (2010) (pleasure craft only)
 
 ### 商船
-- `total`: 94 (2023)
-- `by type`: bulk carrier 12, general cargo 32, oil tanker 1, other 49
+- `總計`: 94 (2023)
+- `依類型`: bulk carrier 12, general cargo 32, oil tanker 1, other 49
 
 ### 港口
-- `total ports`: 21 (2024)
-- `large`: 1
-- `medium`: 3
-- `small`: 3
-- `very small`: 14
-- `ports with oil terminals`: 8
-- `key ports`: Cobh, Cork, Dublin, Foynes
+- `總港口數`: 21 (2024)
+- `大`: 1
+- `中`: 3
+- `小`: 3
+- `非常小`: 14
+- `原油碼頭港口`: 8
+- `主要港口`: Cobh, Cork, Dublin, Foynes
 
 ## 軍事和安全
 
@@ -693,8 +693,8 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 105,210 (Ukraine) (as of 8 March 2024)
-- `stateless persons`: 7 (2022)
+- `難民（原籍國）`: 105,210 (Ukraine) (as of 8 March 2024)
+- `無國籍人士`: 7 (2022)
 
 ### 非法藥物
 transshipment point for and consumer of hashish from North Africa to the UK and Netherlands and of European-produced synthetic drugs; increasing consumption of South American cocaine; minor transshipment point for heroin and cocaine destined for Western Europe; despite recent legislation, narcotics-related money laundering - using bureaux de change, trusts, and shell companies involving the offshore financial community - remains a concern

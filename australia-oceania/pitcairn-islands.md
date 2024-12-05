@@ -19,22 +19,22 @@ Oceania, islands in the South Pacific Ocean, about midway between Peru and New Z
 Oceania
 
 ### 面積
-- `total `: 47 sq km
-- `land`: 47 sq km
-- `water`: 0 sq km
+- `總計`: 47 sq km
+- `土地`: 47 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 about three-tenths the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 51 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive economic zone`: 200 nm
+- `領海`: 12 nm
+- `專屬經濟區`: 200 nm
 
 ### 氣候
 tropical; hot and humid; modified by southeast trade winds; rainy season (November to March)
@@ -43,17 +43,17 @@ tropical; hot and humid; modified by southeast trade winds; rainy season (Novemb
 rugged volcanic formation; rocky coastline with cliffs
 
 ### 海拔
-- `highest point`: Palwala Valley Point on Big Ridge 347 m
-- `lowest point`: Pacific Ocean 0 m
+- `最高點`: Palwala Valley Point on Big Ridge 347 m
+- `最低點`: Pacific Ocean 0 m
 
 ### 自然資源
 miro trees (used for handicrafts), fish
 **note**: manganese, iron, copper, gold, silver, and zinc have been discovered offshore
 
 ### 土地利用
-- `agricultural land`: 0% (2011 est.)
-- `forest`: 74.5% (2018 est.)
-- `other`: 25.5% (2018 est.)
+- `農地`: 0% (2011 est.)
+- `森林`: 74.5% (2018 est.)
+- `其它`: 25.5% (2018 est.)
 
 ### 灌溉土地
 0 sq km (2022)
@@ -70,11 +70,11 @@ Britain's most isolated dependency; only the larger island of Pitcairn is inhabi
 ## 人民和社會
 
 ### 人口
-- `total`: 50 (2021 est.)
+- `總計`: 50 (2021 est.)
 
 ### 國籍
-- `noun`: Pitcairn Islander(s)
-- `adjective`: Pitcairn Islander
+- `名詞`: Pitcairn Islander(s)
+- `形容詞`: Pitcairn Islander
 
 ### 族裔群體
 descendants of the Bounty mutineers and their Tahitian wives
@@ -100,16 +100,16 @@ deforestation (only a small portion of the original forest remains because of bu
 tropical; hot and humid; modified by southeast trade winds; rainy season (November to March)
 
 ### 土地利用
-- `agricultural land`: 0% (2011 est.)
-- `forest`: 74.5% (2018 est.)
-- `other`: 25.5% (2018 est.)
+- `農地`: 0% (2011 est.)
+- `森林`: 74.5% (2018 est.)
+- `其它`: 25.5% (2018 est.)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Pitcairn, Henderson, Ducie, and Oeno Islands
-- `conventional short form`: Pitcairn Islands
-- `etymology`: named after Midshipman Robert PITCAIRN who first sighted the island in 1767
+- `常用長名`: Pitcairn, Henderson, Ducie, and Oeno Islands
+- `常用短名`: Pitcairn Islands
+- `语源学`: named after Midshipman Robert PITCAIRN who first sighted the island in 1767
 
 ### 政府類型
 parliamentary democracy
@@ -118,10 +118,10 @@ parliamentary democracy
 overseas territory of the UK
 
 ### 首都
-- `name`: Adamstown
-- `geographic coordinates`: 25 04 S, 130 05 W
-- `time difference`: UTC-9 (4 hours behind Washington, DC, during Standard Time)
-- `etymology`: named after John ADAMS (1767–1829), the last survivor of the Bounty mutineers who settled on Pitcairn Island in January 1790
+- `名稱`: Adamstown
+- `地理坐標`: 25 04 S, 130 05 W
+- `時差`: UTC-9 (4 hours behind Washington, DC, during Standard Time)
+- `语源学`: named after John ADAMS (1767–1829), the last survivor of the Bounty mutineers who settled on Pitcairn Island in January 1790
 
 ### 行政區劃
 none (overseas territory of the UK)
@@ -136,7 +136,7 @@ Birthday of King CHARLES III, second Saturday in June (1948); Discovery Day (Pit
 local island by-laws
 
 ### 憲法
-- `history`: several previous; latest drafted 10 February 2010, presented 17 February 2010, effective 4 March 2010
+- `歷史`: several previous; latest drafted 10 February 2010, presented 17 February 2010, effective 4 March 2010
 
 ### 公民身份
 see United Kingdom
@@ -145,22 +145,22 @@ see United Kingdom
 18 years of age; universal with three years residency
 
 ### 行政部門
-- `chief of state`: King CHARLES III (since 8 September 2022); represented by UK High Commissioner to New Zealand and Governor (nonresident) of the Pitcairn Islands Iona THOMAS (since 9 August 2022)
-- `head of government`: Mayor and Chairman of the Island Council Simon YOUNG (since 1 January 2023)
-- `cabinet`: none
-- `elections/appointments`: the monarchy is hereditary; governor and commissioner appointed by the monarch; island mayor directly elected by majority popular vote for a 3-year term; election last held on 9 November 2022 (next to be held no later than December 2025)
-- `election results`: Simon YOUNG elected mayor and chairman of the Island Council; Island Council vote - NA
+- `國家元首`: King CHARLES III (since 8 September 2022); represented by UK High Commissioner to New Zealand and Governor (nonresident) of the Pitcairn Islands Iona THOMAS (since 9 August 2022)
+- `政府首腦`: Mayor and Chairman of the Island Council Simon YOUNG (since 1 January 2023)
+- `内閣`: none
+- `選舉/任命`: the monarchy is hereditary; governor and commissioner appointed by the monarch; island mayor directly elected by majority popular vote for a 3-year term; election last held on 9 November 2022 (next to be held no later than December 2025)
+- `選舉結果`: Simon YOUNG elected mayor and chairman of the Island Council; Island Council vote - NA
 
 ### 立法部門
-- `description`: direcunicameral Island Council: 10 seats; (7 members -- 5 councilors, the mayor, and the deputy mayor elected by popular vote -- and 3 ex officio non-voting members; the councilors and the deputy mayor serve 2-year terms, the mayor serves a 3-year term, and the administrator is appointed by the governor for an indefinite term)
-- `elections`: last held on 6 November 2019 (next to be held in - NA)
-- `election results`: percent of vote - NA; seats - independent 5; composition - men 4, women 6, percent of women 60%
+- `描述`: direcunicameral Island Council: 10 seats; (7 members -- 5 councilors, the mayor, and the deputy mayor elected by popular vote -- and 3 ex officio non-voting members; the councilors and the deputy mayor serve 2-year terms, the mayor serves a 3-year term, and the administrator is appointed by the governor for an indefinite term)
+- `選舉`: last held on 6 November 2019 (next to be held in - NA)
+- `選舉結果`: percent of vote - NA; seats - independent 5; composition - men 4, women 6, percent of women 60%
 **note**:  the Council includes 5 councilors, the mayor, and the deputy mayor (who are elected by popular vote) and 3 ex officio non-voting members -- the administrator, who serves as both the head of government and the representative of the governor of Pitcairn Islands, the governor, and the deputy governor
 
 ### 司法部門
-- `highest court(s)`: Pitcairn Court of Appeal (consists of the court president, 2 judges, and the Supreme Court chief justice, an ex-officio member); Pitcairn Supreme Court (consists of the chief justice and 2 judges); note - appeals beyond the Pitcairn Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)
-- `judge selection and term of office`: all judges of both courts appointed by the governor of the Pitcairn Islands on the instructions of the British monarch through the Secretary of State; all judges can serve until retirement, normally at age 75
-- `subordinate courts`: Magistrate's Court
+- `最高法院`: Pitcairn Court of Appeal (consists of the court president, 2 judges, and the Supreme Court chief justice, an ex-officio member); Pitcairn Supreme Court (consists of the chief justice and 2 judges); note - appeals beyond the Pitcairn Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)
+- `法官遴選和任期`: all judges of both courts appointed by the governor of the Pitcairn Islands on the instructions of the British monarch through the Secretary of State; all judges can serve until retirement, normally at age 75
+- `下級法院`: Magistrate's Court
 
 ### 政黨
 none
@@ -172,14 +172,14 @@ SPC, UPU
 none (overseas territory of the UK)
 
 ### 駐該國的美國外交代表
-- `embassy`: none (overseas territory of the UK)
+- `大使館`: none (overseas territory of the UK)
 
 ### 旗幟說明
 blue with the flag of the UK in the upper hoist-side quadrant and the Pitcairn Islander coat of arms centered on the outer half of the flag; the green, yellow, and blue of the shield represents the island rising from the ocean; the green field features a yellow anchor surmounted by a bible (both the anchor and the bible were items found on the HMS Bounty); sitting on the crest is a Pitcairn Island wheelbarrow from which springs a flowering twig of miro (a local plant)
 
 ### 國歌
-- `name`: "We From Pitcairn Island"
-- `lyrics/music`: unknown/Frederick M. LEHMAN
+- `名稱`: "We From Pitcairn Island"
+- `歌詞／音樂`: unknown/Frederick M. LEHMAN
 **note**:  serves as a local anthem; as an overseas territory of the UK, "God Save the King" is official (see United Kingdom)
 
 ## 經濟
@@ -220,9 +220,9 @@ raw copper, refined copper, cobalt oxides and hydroxides, corn, soybean meal (20
 ## 通訊
 
 ### 電信系統
-- `general assessment`: satellite-based phone services; rural connectivity a challenge; 2G services widespread; demand for mobile broadband due to mobile services providing Internet source; the launch of the Kacific-1 satellite in 2019 will improve telecommunications in the region (2020)
-- `domestic`: local phone service with international connections via Internet (2018)
-- `international`: country code - 872; satellite earth station - 1 Inmarsat
+- `總體評估`: satellite-based phone services; rural connectivity a challenge; 2G services widespread; demand for mobile broadband due to mobile services providing Internet source; the launch of the Kacific-1 satellite in 2019 will improve telecommunications in the region (2020)
+- `國內`: local phone service with international connections via Internet (2018)
+- `國際的`: country code - 872; satellite earth station - 1 Inmarsat
 
 ### 廣播媒體
 satellite TV from Fiji-based Sky Pacific offering a wide range of international channels
@@ -231,8 +231,8 @@ satellite TV from Fiji-based Sky Pacific offering a wide range of international 
 .pn
 
 ### 網際網路使用者
-- `total`: 37 (2021 est.)
-- `percent of population`: 96.2% (2021 est.)
+- `總計`: 37 (2021 est.)
+- `佔人口比例`: 96.2% (2021 est.)
 
 ### 來文—註釋
 satellite-based local phone service and broadband Internet connections available in all homes

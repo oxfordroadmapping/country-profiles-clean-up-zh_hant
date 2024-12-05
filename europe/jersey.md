@@ -19,22 +19,22 @@ Western Europe, island in the English Channel, northwest of France
 Europe
 
 ### 面積
-- `total `: 116 sq km
-- `land`: 116 sq km
-- `water`: 0 sq km
+- `總計`: 116 sq km
+- `土地`: 116 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 about two-thirds the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 70 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive fishing zone`: 12 nm
+- `領海`: 12 nm
+- `專屬捕魚區`: 12 nm
 
 ### 氣候
 temperate; mild winters and cool summers
@@ -43,19 +43,19 @@ temperate; mild winters and cool summers
 gently rolling plain with low, rugged hills along north coast
 
 ### 海拔
-- `highest point`: Les Platons 136 m
-- `lowest point`: English Channel 0 m
+- `最高點`: Les Platons 136 m
+- `最低點`: English Channel 0 m
 
 ### 自然資源
 arable land
 
 ### 土地利用
-- `agricultural land`: 66% (2018 est.)
-- `agricultural land: arable land`: arable land: 66% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
-- `forest`: 0% (2018 est.)
-- `other`: 34% (2018 est.)
+- `農地`: 66% (2018 est.)
+- `農地：耕地`: arable land: 66% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0% (2018 est.)
+- `森林`: 0% (2018 est.)
+- `其它`: 34% (2018 est.)
 
 ### 灌溉土地
 NA
@@ -72,13 +72,13 @@ largest and southernmost of Channel Islands; about 30% of population concentrate
 ## 人民和社會
 
 ### 人口
-- `total`: 103,387
-- `male`: 51,028
-- `female`: 52,359 (2024 est.)
+- `總計`: 103,387
+- `男性`: 51,028
+- `女性`: 52,359 (2024 est.)
 
 ### 國籍
-- `noun`: Channel Islander(s)
-- `adjective`: Channel Islander
+- `名詞`: Channel Islander(s)
+- `形容詞`: Channel Islander
 
 ### 族裔群體
 Jersey 44.4%, British 30.5%, Portuguese/Madeiran 9.4%, Polish 3%, Irish 2.1%, other 10.6% (2021 est.)
@@ -91,21 +91,21 @@ English (official) 94.5%, Portuguese 4.6%, other 0.9% (includes French (official
 Christian 85.2%, Baha'i 0.3%, Hindu 0.1%, Jewish 0.1%, Muslim 0.1%, atheist 1.1%, agnostic 13.1% (2020 est.)
 
 ### 年齡結構
-- `0-14 years`: 17% (male 9,082/female 8,530)
-- `15-64 years`: 64.6% (male 33,840/female 32,989)
-- `65 years and over`: 18.3% (2024 est.) (male 8,106/female 10,840)
+- `0-14歲`: 17% (male 9,082/female 8,530)
+- `15-64歲`: 64.6% (male 33,840/female 32,989)
+- `65歲及以上`: 18.3% (2024 est.) (male 8,106/female 10,840)
 
 ### 撫養比率
-- `total dependency ratio`: 44.5
-- `youth dependency ratio`: 21.3
-- `elderly dependency ratio`: 23.2
-- `potential support ratio`: 4.3 (2021 est.)
+- `總受扶養人比率`: 44.5
+- `少年撫養比率`: 21.3
+- `老人撫養比率`: 23.2
+- `潛在支持率`: 4.3 (2021 est.)
 **note**:  data represent Guernsey and Jersey
 
 ### 年齡中位數
-- `total`: 38.2 years (2024 est.)
-- `male`: 37 years
-- `female`: 39.7 years
+- `總計`: 38.2 years (2024 est.)
+- `男性`: 37 years
+- `女性`: 39.7 years
 
 ### 人口成長率
 0.56% (2024 est.)
@@ -123,29 +123,29 @@ Christian 85.2%, Baha'i 0.3%, Hindu 0.1%, Jewish 0.1%, Muslim 0.1%, atheist 1.1%
 fairly even distribution; no notable trends
 
 ### 都市化
-- `urban population`: 31.2% of total population (2023)
-- `rate of urbanization`: 0.68% annual rate of change (2020-25 est.)
+- `城市人口`: 31.2% of total population (2023)
+- `城鎮化率`: 0.68% annual rate of change (2020-25 est.)
 **note**:  data include Guernsey and Jersey
 
 ### 主要城市地區—人口
 34,000 SAINT HELIER (capital) (2018)
 
 ### 性別比例
-- `at birth`: 1.06 male(s)/female
-- `0-14 years`: 1.06 male(s)/female
-- `15-64 years`: 1.03 male(s)/female
-- `65 years and over`: 0.75 male(s)/female
-- `total population`: 0.98 male(s)/female (2024 est.)
+- `出生時`: 1.06 male(s)/female
+- `0-14歲`: 1.06 male(s)/female
+- `15-64歲`: 1.03 male(s)/female
+- `65歲及以上`: 0.75 male(s)/female
+- `總人口數`: 0.98 male(s)/female (2024 est.)
 
 ### 嬰兒死亡率
-- `total`: 3.7 deaths/1,000 live births (2024 est.)
-- `male`: 4.2 deaths/1,000 live births
-- `female`: 3.3 deaths/1,000 live births
+- `總計`: 3.7 deaths/1,000 live births (2024 est.)
+- `男性`: 4.2 deaths/1,000 live births
+- `女性`: 3.3 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 83 years (2024 est.)
-- `male`: 80.6 years
-- `female`: 85.7 years
+- `總人口數`: 83 years (2024 est.)
+- `男性`: 80.6 years
+- `女性`: 85.7 years
 
 ### 總生育率
 1.66 children born/woman (2024 est.)
@@ -157,8 +157,8 @@ fairly even distribution; no notable trends
 NA
 
 ### 飲用水來源
-- `improved: total`: total: 94.2% of population
-- `unimproved: total`: total: 5.9% of population (2017 est.)
+- `已改進－總計`: total: 94.2% of population
+- `未改善：總計`: total: 5.9% of population (2017 est.)
 **note**:  includes data for Guernsey
 
 ### 當前醫療支出
@@ -168,12 +168,12 @@ NA
 NA
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: NA
-- `improved: rural`: rural: NA
-- `improved: total`: total: 98.5% of population
-- `unimproved: urban`: urban: NA
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: 1.5% of population (2017)
+- `已改進－城市`: urban: NA
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: 98.5% of population
+- `未改進：都市`: urban: NA
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: 1.5% of population (2017)
 
 ### 5歲以下體重不足兒童
 NA
@@ -182,9 +182,9 @@ NA
 NA
 
 ### 識字程度
-- `total population`: NA
-- `male`: NA
-- `female`: NA
+- `總人口數`: NA
+- `男性`: NA
+- `女性`: NA
 
 ## 環境
 
@@ -195,31 +195,31 @@ habitat and species depletion due to human encroachment; water pollution; improp
 temperate; mild winters and cool summers
 
 ### 土地利用
-- `agricultural land`: 66% (2018 est.)
-- `agricultural land: arable land`: arable land: 66% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
-- `forest`: 0% (2018 est.)
-- `other`: 34% (2018 est.)
+- `農地`: 66% (2018 est.)
+- `農地：耕地`: arable land: 66% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0% (2018 est.)
+- `森林`: 0% (2018 est.)
+- `其它`: 34% (2018 est.)
 
 ### 都市化
-- `urban population`: 31.2% of total population (2023)
-- `rate of urbanization`: 0.68% annual rate of change (2020-25 est.)
+- `城市人口`: 31.2% of total population (2023)
+- `城鎮化率`: 0.68% annual rate of change (2020-25 est.)
 **note**:  data include Guernsey and Jersey
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 178,933 tons (2016 est.)
-- `municipal solid waste recycled annually`: 50,871 tons (2016 est.)
-- `percent of municipal solid waste recycled`: 28.4% (2016 est.)
+- `城市固體廢棄物－每年產生`: 178,933 tons (2016 est.)
+- `城市固體廢棄物－每年回收`: 50,871 tons (2016 est.)
+- `城市固體廢棄物－回收百分比`: 28.4% (2016 est.)
 **note**:  data include combined totals for Guernsey and Jersey.
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Bailiwick of Jersey
-- `conventional short form`: Jersey
-- `former`: Norman Isles
-- `etymology`: the name is of Old Norse origin, but the meaning of the root "Jer(s)" is uncertain; the "-ey" ending means "island"
+- `常用長名`: Bailiwick of Jersey
+- `常用短名`: Jersey
+- `前任`: Norman Isles
+- `语源学`: the name is of Old Norse origin, but the meaning of the root "Jer(s)" is uncertain; the "-ey" ending means "island"
 
 ### 政府類型
 parliamentary democracy (Assembly of the States of Jersey)
@@ -228,11 +228,11 @@ parliamentary democracy (Assembly of the States of Jersey)
 British crown dependency
 
 ### 首都
-- `name`: Saint Helier
-- `geographic coordinates`: 49 11 N, 2 06 W
-- `time difference`: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
-- `daylight saving time`: +1hr, begins last Sunday in March; ends last Sunday in October
-- `etymology`: named after Saint HELIER, the patron saint of Jersey, who was reputedly martyred on the island in A.D. 555
+- `名稱`: Saint Helier
+- `地理坐標`: 49 11 N, 2 06 W
+- `時差`: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
+- `日光節約時間`: +1hr, begins last Sunday in March; ends last Sunday in October
+- `语源学`: named after Saint HELIER, the patron saint of Jersey, who was reputedly martyred on the island in A.D. 555
 
 ### 行政區劃
 none (British crown dependency); there are no first-order administrative divisions as defined by the US Government, but there are 12 parishes; Grouville, Saint Brelade, Saint Clement, Saint Helier, Saint John, Saint Lawrence, Saint Martin, Saint Mary, Saint Ouen, Saint Peter, Saint Saviour, Trinity
@@ -247,8 +247,8 @@ Liberation Day, 9 May (1945)
 the laws of the UK apply where applicable; includes local statutes
 
 ### 憲法
-- `history`: unwritten; partly statutes, partly common law and practice
-- `amendments`: proposed by a government minister to the Assembly of the States of Jersey, by an Assembly member, or by an elected parish head; passage requires several Assembly readings, a majority vote by the Assembly, review by the UK Ministry of Justice, and approval of the British monarch (Royal Assent)
+- `歷史`: unwritten; partly statutes, partly common law and practice
+- `修正`: proposed by a government minister to the Assembly of the States of Jersey, by an Assembly member, or by an elected parish head; passage requires several Assembly readings, a majority vote by the Assembly, review by the UK Ministry of Justice, and approval of the British monarch (Royal Assent)
 
 ### 公民身份
 see United Kingdom
@@ -257,21 +257,21 @@ see United Kingdom
 16 years of age; universal
 
 ### 行政部門
-- `chief of state`: King CHARLES III (since 8 September 2022); represented by Lieutenant Governor Jerry KYD (since 8 October 2022)
-- `head of government`: Chief Minister Lyndon FARNHAM (since 25 January 2024); Bailiff Timothy Le COCQ (since 17 October 2019)
-- `cabinet`: Council of Ministers appointed individually by the states
-- `elections/appointments`: the monarchy is hereditary; Council of Ministers, including the chief minister, indirectly elected by the Assembly of States; lieutenant governor and bailiff appointed by the monarch
+- `國家元首`: King CHARLES III (since 8 September 2022); represented by Lieutenant Governor Jerry KYD (since 8 October 2022)
+- `政府首腦`: Chief Minister Lyndon FARNHAM (since 25 January 2024); Bailiff Timothy Le COCQ (since 17 October 2019)
+- `内閣`: Council of Ministers appointed individually by the states
+- `選舉/任命`: the monarchy is hereditary; Council of Ministers, including the chief minister, indirectly elected by the Assembly of States; lieutenant governor and bailiff appointed by the monarch
 
 ### 立法部門
-- `description`: unicameral Assembly of the States of Jersey (49 elected members; 8 senators to serve 4-year terms, and 29 deputies and 12 connetables, or heads of parishes, to serve 4-year terms
-- `elections`: last held on 22 June 2022 (next to be held in 2026)
-- `election results`: percent of vote by party - BW 66.8%, RJ 12.3%, JA 2.0%, PP 2%, JLC 4.1%; seats by party - BW 35, RJ 10, JLC 2, JA 1, PP 1; composition - men 28, women 21, percentage women 42.9%
+- `描述`: unicameral Assembly of the States of Jersey (49 elected members; 8 senators to serve 4-year terms, and 29 deputies and 12 connetables, or heads of parishes, to serve 4-year terms
+- `選舉`: last held on 22 June 2022 (next to be held in 2026)
+- `選舉結果`: percent of vote by party - BW 66.8%, RJ 12.3%, JA 2.0%, PP 2%, JLC 4.1%; seats by party - BW 35, RJ 10, JLC 2, JA 1, PP 1; composition - men 28, women 21, percentage women 42.9%
 **note**:  5 non-voting members appointed by the monarch include the bailiff, lieutenant governor, dean of Jersey, attorney general, and the solicitor general
 
 ### 司法部門
-- `highest court(s)`: Jersey Court of Appeal (consists of the bailiff, deputy bailiff, and 12 judges); Royal Court (consists of the bailiff, deputy bailiff, 6 commissioners and lay people referred to as jurats, and is organized into Heritage, Family, Probate, and Samedi Divisions); appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)
-- `judge selection and term of office`: Jersey Court of Appeal bailiffs and judges appointed by the Crown upon the advice of the Secretary of State for Justice; bailiffs and judges appointed for "extent of good behavior;" Royal Court bailiffs appointed by the Crown upon the advice of the Secretary of State for Justice; commissioners appointed by the bailiff; jurats appointed by the Electoral College; bailiffs and commissioners appointed for "extent of good behavior;" jurats appointed until retirement at age 72
-- `subordinate courts`: Magistrate's Court; Youth Court; Petty Debts Court; Parish Hall Enquiries (a process of preliminary investigation into youth and minor adult offenses to determine need for presentation before a court)
+- `最高法院`: Jersey Court of Appeal (consists of the bailiff, deputy bailiff, and 12 judges); Royal Court (consists of the bailiff, deputy bailiff, 6 commissioners and lay people referred to as jurats, and is organized into Heritage, Family, Probate, and Samedi Divisions); appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)
+- `法官遴選和任期`: Jersey Court of Appeal bailiffs and judges appointed by the Crown upon the advice of the Secretary of State for Justice; bailiffs and judges appointed for "extent of good behavior;" Royal Court bailiffs appointed by the Crown upon the advice of the Secretary of State for Justice; commissioners appointed by the bailiff; jurats appointed by the Electoral College; bailiffs and commissioners appointed for "extent of good behavior;" jurats appointed until retirement at age 72
+- `下級法院`: Magistrate's Court; Youth Court; Petty Debts Court; Parish Hall Enquiries (a process of preliminary investigation into youth and minor adult offenses to determine need for presentation before a court)
 
 ### 政黨
 Better Way or BW (group of independent candidates)Jersey Alliance or JA Jersey Liberal Conservatives or JLC Progress Party or PP Reform Jersey or RJ
@@ -284,7 +284,7 @@ UPU
 none (British Crown dependency)
 
 ### 駐該國的美國外交代表
-- `embassy`: none (British Crown dependency)
+- `大使館`: none (British Crown dependency)
 
 ### 旗幟說明
 white with a diagonal red cross extending to the corners of the flag; in the upper quadrant, surmounted by a yellow crown, a red shield with three lions in yellow; according to tradition, the ships of Jersey - in an attempt to differentiate themselves from English ships flying the horizontal cross of St. George - rotated the cross to the "X" (saltire) configuration; because this arrangement still resembled the Irish cross of St. Patrick, the yellow Plantagenet crown and Jersey coat of arms were added
@@ -293,8 +293,8 @@ white with a diagonal red cross extending to the corners of the flag; in the upp
 Jersey cow; national colors: red, white
 
 ### 國歌
-- `name`: "Isle de Siez Nous" (Island Home)
-- `lyrics/music`: Gerard LE FEUVRE
+- `名稱`: "Isle de Siez Nous" (Island Home)
+- `歌詞／音樂`: Gerard LE FEUVRE
 **note**:  adopted 2008; serves as a local anthem; as a British Crown dependency, "God Save the King" is official (see United Kingdom)
 
 ## 經濟
@@ -323,9 +323,9 @@ $11.228 billion (2022 est.)
 **note**: data in current dollars at official exchange rate; entry includes Jersey and Guernsey
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 0.8% (2022 est.)
-- `industry`: 8.4% (2022 est.)
-- `services`: 92% (2022 est.)
+- `農業`: 0.8% (2022 est.)
+- `產業`: 8.4% (2022 est.)
+- `服務`: 92% (2022 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### 農產品
@@ -349,9 +349,9 @@ tourism, banking and finance, dairy, electronics
 **note**: % of labor force seeking employment; entry includes Jersey and Guernsey
 
 ### 青年失業率（15-24歲）
-- `total`: 13.5% (2023 est.)
-- `male`: 13.7% (2023 est.)
-- `female`: 13.2% (2023 est.)
+- `總計`: 13.5% (2023 est.)
+- `男性`: 13.7% (2023 est.)
+- `女性`: 13.2% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 基尼指數係數—家庭所得分配
@@ -380,7 +380,7 @@ artwork, ships, vegetables, fruits, jewelry (2022)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 **note**:  includes Guernsey and Jersey
 
 ### 二氧化碳排放量
@@ -389,17 +389,17 @@ artwork, ships, vegetables, fruits, jewelry (2022)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 48,122 (2021 est.)
-- `subscriptions per 100 inhabitants`: 47 (2021 est.)
+- `總訂閱數`: 48,122 (2021 est.)
+- `每100名居民訂閱數`: 47 (2021 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 124,083 (2021 est.)
-- `subscriptions per 100 inhabitants`: 120 (2021 est.)
+- `總訂閱數`: 124,083 (2021 est.)
+- `每100名居民訂閱數`: 120 (2021 est.)
 
 ### 電信系統
-- `general assessment`: the telecommunication services comprise of Internet, telephone, broadcasting and postal services, which allow islanders to contact people and receive information; Internet connectivity to the rest of the world is provided by undersea cables linked to Guernsey, the UK and France; (2021)
-- `domestic`: fixed-line 47 per 100 and mobile-cellular 120 per 100 subscriptions (2021)
-- `international`: country code - 44; landing points for the INGRID, UK-Channel Islands-8, and Guernsey-Jersey-4, submarine cable connectivity to Guernsey, the UK, and France (2019)
+- `總體評估`: the telecommunication services comprise of Internet, telephone, broadcasting and postal services, which allow islanders to contact people and receive information; Internet connectivity to the rest of the world is provided by undersea cables linked to Guernsey, the UK and France; (2021)
+- `國內`: fixed-line 47 per 100 and mobile-cellular 120 per 100 subscriptions (2021)
+- `國際的`: country code - 44; landing points for the INGRID, UK-Channel Islands-8, and Guernsey-Jersey-4, submarine cable connectivity to Guernsey, the UK, and France (2019)
 
 ### 廣播媒體
 multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey; satellite packages available; BBC Radio Jersey and 1 other radio station operating
@@ -408,33 +408,33 @@ multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey; 
 .je
 
 ### 網際網路使用者
-- `total`: 96,038 (2021 est.)
-- `percent of population`: 93% (2021 est.)
+- `總計`: 96,038 (2021 est.)
+- `佔人口比例`: 93% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 39,699 (2020 est.)
-- `subscriptions per 100 inhabitants`: 37 (2020 est.)
+- `總計`: 39,699 (2020 est.)
+- `每100名居民訂閱數`: 37 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 1 (2020) (registered in UK)
-- `inventory of registered aircraft operated by air carriers`: 4 (registered in UK)
+- `註冊航空公司數量`: 1 (2020) (registered in UK)
+- `註冊飛機庫存—航空承運商經營`: 4 (registered in UK)
 
 ### 機場
 1 (2024)
 
 ### 道路
-- `total`: 576 km (2010)
+- `總計`: 576 km (2010)
 
 ### 港口
-- `total ports`: 1 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 1
-- `very small`: 0
-- `ports with oil terminals`: 1
-- `key ports`: Saint Helier Harbour
+- `總港口數`: 1 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 1
+- `非常小`: 0
+- `原油碼頭港口`: 1
+- `主要港口`: Saint Helier Harbour
 
 ## 軍事和安全
 

@@ -19,23 +19,23 @@ Southeastern Asia, group of islands in the Indian Ocean, southwest of Indonesia,
 Southeast Asia
 
 ### 面積
-- `total `: 14 sq km
-- `land`: 14 sq km
-- `water`: 0 sq km
+- `總計`: 14 sq km
+- `土地`: 14 sq km
+- `水`: 0 sq km
 **note**:  includes the two main islands of West Island and Home Island
 
 ### 面積—比較
 about 24 times the size of The Mall in Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 26 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive fishing zone`: 200 nm
+- `領海`: 12 nm
+- `專屬捕魚區`: 200 nm
 
 ### 氣候
 tropical with high humidity, moderated by the southeast trade winds for about nine months of the year
@@ -44,16 +44,16 @@ tropical with high humidity, moderated by the southeast trade winds for about ni
 flat, low-lying coral atolls
 
 ### 海拔
-- `highest point`: South Point on South Island 9 m
-- `lowest point`: Indian Ocean 0 m
+- `最高點`: South Point on South Island 9 m
+- `最低點`: Indian Ocean 0 m
 
 ### 自然資源
 fish
 
 ### 土地利用
-- `agricultural land`: 0% (2018 est.)
-- `forest`: 0% (2018 est.)
-- `other`: 100% (2018 est.)
+- `農地`: 0% (2018 est.)
+- `森林`: 0% (2018 est.)
+- `其它`: 100% (2018 est.)
 
 ### 灌溉土地
 NA
@@ -70,31 +70,31 @@ cyclone season is October to April
 ## 人民和社會
 
 ### 人口
-- `total`: 593
-- `male`: 301
-- `female`: 292 (2021 est.)
+- `總計`: 593
+- `男性`: 301
+- `女性`: 292 (2021 est.)
 
 ### 國籍
-- `noun`: Cocos Islander(s)
-- `adjective`: Cocos Islander
+- `名詞`: Cocos Islander(s)
+- `形容詞`: Cocos Islander
 
 ### 族裔群體
 Europeans, Cocos Malays
 
 ### 語文
 Malay (Cocos dialect) 68.8%, English 22.3%, unspecified 8.9%; note - data represent language spoken at home (2016 est.)
-- `major-language sample(s)`: Buku Fakta Dunia, sumber yang diperlukan untuk maklumat asas. (Malay)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: Buku Fakta Dunia, sumber yang diperlukan untuk maklumat asas. (Malay)  The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Muslim (predominantly Sunni) 75%, Anglican 3.5%, Roman Catholic 2.2%, none 12.9%, unspecified 6.3% (2016 est.)
 
 ### 年齡結構
-- `0-14 years`: 21.2%
-- `15-64 years`: 61.5%
-- `65 years and over`: 17.3% (2021)
+- `0-14歲`: 21.2%
+- `15-64歲`: 61.5%
+- `65歲及以上`: 17.3% (2021)
 
 ### 年齡中位數
-- `total`: 40 years (2021 est.)
+- `總計`: 40 years (2021 est.)
 
 ### 死亡率
 8.89 deaths/1,000 population (2021 est.)
@@ -111,16 +111,16 @@ freshwater resources are limited to rainwater accumulations in natural undergrou
 tropical with high humidity, moderated by the southeast trade winds for about nine months of the year
 
 ### 土地利用
-- `agricultural land`: 0% (2018 est.)
-- `forest`: 0% (2018 est.)
-- `other`: 100% (2018 est.)
+- `農地`: 0% (2018 est.)
+- `森林`: 0% (2018 est.)
+- `其它`: 100% (2018 est.)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Territory of Cocos (Keeling) Islands
-- `conventional short form`: Cocos (Keeling) Islands
-- `etymology`: the name refers to the abundant coconut trees on the islands and to English Captain William KEELING, the first European to sight the islands in 1609
+- `常用長名`: Territory of Cocos (Keeling) Islands
+- `常用短名`: Cocos (Keeling) Islands
+- `语源学`: the name refers to the abundant coconut trees on the islands and to English Captain William KEELING, the first European to sight the islands in 1609
 
 ### 政府類型
 non-self-governing overseas territory of Australia
@@ -129,9 +129,9 @@ non-self-governing overseas territory of Australia
 non-self governing territory of Australia; administered from Canberra by the Department of Infrastructure, Transport, Cities & Regional Development
 
 ### 首都
-- `name`: West Island
-- `geographic coordinates`: 12 10 S, 96 50 E
-- `time difference`: UTC+6.5 (11.5 hours ahead of Washington, DC, during Standard Time)
+- `名稱`: West Island
+- `地理坐標`: 12 10 S, 96 50 E
+- `時差`: UTC+6.5 (11.5 hours ahead of Washington, DC, during Standard Time)
 
 ### 行政區劃
 none (territory of Australia)
@@ -146,8 +146,8 @@ Australia Day (commemorates the arrival of the First Fleet of Australian settler
 common law based on the Australian model
 
 ### 憲法
-- `history`: 23 November 1955 (Cocos (Keeling) Islands Act 1955)
-- `amendments`: amended many times, last in 2020
+- `歷史`: 23 November 1955 (Cocos (Keeling) Islands Act 1955)
+- `修正`: amended many times, last in 2020
 
 ### 公民身份
 see Australia
@@ -156,18 +156,18 @@ see Australia
 18 years of age
 
 ### 行政部門
-- `chief of state`: King CHARLES III (since 8 September 2022); represented by Governor-General of the Commonwealth of Australia General David HURLEY (since 1 July 2019)
-- `head of government`: Administrator Farzian ZAINAL (since 11 May 2023)
-- `cabinet`: NA
-- `elections/appointments`: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the Australian prime minister; administrator appointed by the governor-general for a 2-year term and represents the monarch and Australia
+- `國家元首`: King CHARLES III (since 8 September 2022); represented by Governor-General of the Commonwealth of Australia General David HURLEY (since 1 July 2019)
+- `政府首腦`: Administrator Farzian ZAINAL (since 11 May 2023)
+- `内閣`: NA
+- `選舉/任命`: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the Australian prime minister; administrator appointed by the governor-general for a 2-year term and represents the monarch and Australia
 
 ### 立法部門
-- `description`: unicameral Cocos (Keeling) Islands Shire Council (7 seats; members directly elected by simple majority vote to serve 4-year terms with 4 members renewed every 2 years)
-- `elections`: last held on 21 October 2023 (next to be held in October 2025)
-- `election results`: percent of vote by party - NA; seats by party - NA; composition - men 6, women 1, percent of women 16.7%
+- `描述`: unicameral Cocos (Keeling) Islands Shire Council (7 seats; members directly elected by simple majority vote to serve 4-year terms with 4 members renewed every 2 years)
+- `選舉`: last held on 21 October 2023 (next to be held in October 2025)
+- `選舉結果`: percent of vote by party - NA; seats by party - NA; composition - men 6, women 1, percent of women 16.7%
 
 ### 司法部門
-- `highest court(s)`: under the terms of the Territorial Law Reform Act 1992, Western Australia provides court services as needed for the island including the Supreme Court and subordinate courts (District Court, Magistrate Court, Family Court, Children's Court, and Coroners' Court)
+- `最高法院`: under the terms of the Territorial Law Reform Act 1992, Western Australia provides court services as needed for the island including the Supreme Court and subordinate courts (District Court, Magistrate Court, Family Court, Children's Court, and Coroners' Court)
 
 ### 政黨
 none
@@ -179,7 +179,7 @@ none
 none (territory of Australia)
 
 ### 駐該國的美國外交代表
-- `embassy`: none (territory of Australia)
+- `大使館`: none (territory of Australia)
 
 ### 旗幟說明
 the flag of Australia is used
@@ -220,9 +220,9 @@ gold, x-ray equipment, cars, prefabricated buildings, packaged medicines (2019)
 ## 通訊
 
 ### 電信系統
-- `general assessment`: telephone service is part of the Australian network; an operational local mobile-cellular network available; wireless Internet connectivity available
-- `domestic`: local area code - 08
-- `international`: international code - 61 8; telephone, telex, and facsimile communications with Australia and elsewhere via satellite; satellite earth station - 1 (Intelsat)
+- `總體評估`: telephone service is part of the Australian network; an operational local mobile-cellular network available; wireless Internet connectivity available
+- `國內`: local area code - 08
+- `國際的`: international code - 61 8; telephone, telex, and facsimile communications with Australia and elsewhere via satellite; satellite earth station - 1 (Intelsat)
 
 ### 廣播媒體
 1 local radio station staffed by community volunteers; satellite broadcasts of several Australian radio and TV stations available (2017)
@@ -231,8 +231,8 @@ gold, x-ray equipment, cars, prefabricated buildings, packaged medicines (2019)
 .cc
 
 ### 網際網路使用者
-- `total`: 80 (2021 est.)
-- `percent of population`: 13.4% (2021 est.)
+- `總計`: 80 (2021 est.)
+- `佔人口比例`: 13.4% (2021 est.)
 
 ## 交通運輸
 
@@ -240,9 +240,9 @@ gold, x-ray equipment, cars, prefabricated buildings, packaged medicines (2019)
 1 (2024)
 
 ### 道路
-- `total`: 22 km
-- `paved`: 10 km
-- `unpaved`: 12 km (2007)
+- `總計`: 22 km
+- `已鋪砌`: 10 km
+- `未鋪砌`: 12 km (2007)
 
 ## 軍事和安全
 

@@ -19,24 +19,24 @@ Central America, bordering both the Caribbean Sea and the North Pacific Ocean, b
 Central America and the Caribbean
 
 ### 面積
-- `total `: 130,370 sq km
-- `land`: 119,990 sq km
-- `water`: 10,380 sq km
+- `總計`: 130,370 sq km
+- `土地`: 119,990 sq km
+- `水`: 10,380 sq km
 
 ### 面積—比較
 slightly larger than Pennsylvania; slightly smaller than New York state
 
 ### 陸地邊界
-- `total`: 1,253 km
-- `border countries`: Costa Rica 313 km; Honduras 940 km
+- `總計`: 1,253 km
+- `邊境國家`: Costa Rica 313 km; Honduras 940 km
 
 ### 海岸線
 910 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `continental shelf`: natural prolongation
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `大陸架`: natural prolongation
 
 ### 氣候
 tropical in lowlands, cooler in highlands
@@ -45,26 +45,26 @@ tropical in lowlands, cooler in highlands
 extensive Atlantic coastal plains rising to central interior mountains; narrow Pacific coastal plain interrupted by volcanoes
 
 ### 海拔
-- `highest point`: Mogoton 2,085 m
-- `lowest point`: Pacific Ocean 0 m
-- `mean elevation`: 298 m
+- `最高點`: Mogoton 2,085 m
+- `最低點`: Pacific Ocean 0 m
+- `平均海拔`: 298 m
 
 ### 自然資源
 gold, silver, copper, tungsten, lead, zinc, timber, fish
 
 ### 土地利用
-- `agricultural land`: 42.2% (2018 est.)
-- `agricultural land: arable land`: arable land: 12.5% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 2.5% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 27.2% (2018 est.)
-- `forest`: 25.3% (2018 est.)
-- `other`: 32.5% (2018 est.)
+- `農地`: 42.2% (2018 est.)
+- `農地：耕地`: arable land: 12.5% (2018 est.)
+- `農地：永久性作物`: permanent crops: 2.5% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 27.2% (2018 est.)
+- `森林`: 25.3% (2018 est.)
+- `其它`: 32.5% (2018 est.)
 
 ### 灌溉土地
 1,990 sq km (2012)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lago de Nicaragua - 8,150 sq km; Lago de Managua - 1,040 sq km
+- `淡水湖`: Lago de Nicaragua - 8,150 sq km; Lago de Managua - 1,040 sq km
 
 ### 人口分布
 the overwhelming majority of the population resides in the western half of the country, with much of the urban growth centered in the capital city of Managua; coastal areas also show large population clusters
@@ -78,20 +78,20 @@ largest country in Central America; contains the largest freshwater body in Cent
 ## 人民和社會
 
 ### 人口
-- `total`: 6,676,948
-- `male`: 3,273,900
-- `female`: 3,403,048 (2024 est.)
+- `總計`: 6,676,948
+- `男性`: 3,273,900
+- `女性`: 3,403,048 (2024 est.)
 
 ### 國籍
-- `noun`: Nicaraguan(s)
-- `adjective`: Nicaraguan
+- `名詞`: Nicaraguan(s)
+- `形容詞`: Nicaraguan
 
 ### 族裔群體
 Mestizo (mixed Indigenous and White) 69%, White 17%, Black 9%, Indigenous 5%
 
 ### 語文
 Spanish (official) 99.5%, Indigenous 0.3%, Portuguese 0.1%, other 0.1% (2020 est.)
-- `major-language sample(s)`: La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)  The World Factbook, the indispensable source for basic information.
 **note**: English and indigenous languages found on the Caribbean coast
 
 ### 宗教
@@ -101,20 +101,20 @@ Roman Catholic 44.9%, Protestant 38.7% (Evangelical 38.2, Adventist 0.5%), other
 Despite being one of the poorest countries in Latin America, Nicaragua has improved its access to potable water and sanitation and has ameliorated its life expectancy, infant and child mortality, and immunization rates. However, income distribution is very uneven, and the poor, agriculturalists, and indigenous people continue to have less access to healthcare services. Nicaragua's total fertility rate has fallen from around 6 children per woman in 1980 to below replacement level today, but the high birth rate among adolescents perpetuates a cycle of poverty and low educational attainment.Nicaraguans emigrate primarily to Costa Rica and to a lesser extent the United States. Nicaraguan men have been migrating seasonally to Costa Rica to harvest bananas and coffee since the early 20th century. Political turmoil, civil war, and natural disasters from the 1970s through the 1990s dramatically increased the flow of refugees and permanent migrants seeking jobs, higher wages, and better social and healthcare benefits. Since 2000, Nicaraguan emigration to Costa Rica has slowed and stabilized. Today roughly 300,000 Nicaraguans are permanent residents of Costa Rica - about 75% of the foreign population - and thousands more migrate seasonally for work, many illegally.
 
 ### 年齡結構
-- `0-14 years`: 25.1% (male 855,256/female 818,714)
-- `15-64 years`: 68.9% (male 2,240,297/female 2,360,244)
-- `65 years and over`: 6% (2024 est.) (male 178,347/female 224,090)
+- `0-14歲`: 25.1% (male 855,256/female 818,714)
+- `15-64歲`: 68.9% (male 2,240,297/female 2,360,244)
+- `65歲及以上`: 6% (2024 est.) (male 178,347/female 224,090)
 
 ### 撫養比率
-- `total dependency ratio`: 54.4
-- `youth dependency ratio`: 46.4
-- `elderly dependency ratio`: 8
-- `potential support ratio`: 12.6 (2021 est.)
+- `總受扶養人比率`: 54.4
+- `少年撫養比率`: 46.4
+- `老人撫養比率`: 8
+- `潛在支持率`: 12.6 (2021 est.)
 
 ### 年齡中位數
-- `total`: 29 years (2024 est.)
-- `male`: 28.1 years
-- `female`: 29.9 years
+- `總計`: 29 years (2024 est.)
+- `男性`: 28.1 years
+- `女性`: 29.9 years
 
 ### 人口成長率
 0.95% (2024 est.)
@@ -132,18 +132,18 @@ Despite being one of the poorest countries in Latin America, Nicaragua has impro
 the overwhelming majority of the population resides in the western half of the country, with much of the urban growth centered in the capital city of Managua; coastal areas also show large population clusters
 
 ### 都市化
-- `urban population`: 59.8% of total population (2023)
-- `rate of urbanization`: 1.45% annual rate of change (2020-25 est.)
+- `城市人口`: 59.8% of total population (2023)
+- `城鎮化率`: 1.45% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 1.095 million MANAGUA (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.04 male(s)/female
-- `15-64 years`: 0.95 male(s)/female
-- `65 years and over`: 0.8 male(s)/female
-- `total population`: 0.96 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.04 male(s)/female
+- `15-64歲`: 0.95 male(s)/female
+- `65歲及以上`: 0.8 male(s)/female
+- `總人口數`: 0.96 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 19.2 years (2011/12 est.)
@@ -153,14 +153,14 @@ the overwhelming majority of the population resides in the western half of the c
 78 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 14.4 deaths/1,000 live births (2024 est.)
-- `male`: 15.9 deaths/1,000 live births
-- `female`: 12.8 deaths/1,000 live births
+- `總計`: 14.4 deaths/1,000 live births (2024 est.)
+- `男性`: 15.9 deaths/1,000 live births
+- `女性`: 12.8 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 74.7 years (2024 est.)
-- `male`: 73.2 years
-- `female`: 76.4 years
+- `總人口數`: 74.7 years (2024 est.)
+- `男性`: 73.2 years
+- `女性`: 76.4 years
 
 ### 總生育率
 1.83 children born/woman (2024 est.)
@@ -172,12 +172,12 @@ the overwhelming majority of the population resides in the western half of the c
 80.4% (2011/12)
 
 ### 飲用水來源
-- `improved: urban`: urban: 97.5% of population
-- `improved: rural`: rural: 62.6% of population
-- `improved: total`: total: 83.2% of population
-- `unimproved: urban`: urban: 2.5% of population
-- `unimproved: rural`: rural: 37.4% of population
-- `unimproved: total`: total: 16.8% of population (2020 est.)
+- `已改進－城市`: urban: 97.5% of population
+- `已改進－農村`: rural: 62.6% of population
+- `已改進－總計`: total: 83.2% of population
+- `未改進：都市`: urban: 2.5% of population
+- `未改進：鄉村`: rural: 37.4% of population
+- `未改善：總計`: total: 16.8% of population (2020 est.)
 
 ### 當前醫療支出
 8.6% of GDP (2020)
@@ -189,22 +189,22 @@ the overwhelming majority of the population resides in the western half of the c
 0.9 beds/1,000 population (2017)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 89.9% of population
-- `improved: rural`: rural: 66.5% of population
-- `improved: total`: total: 80.3% of population
-- `unimproved: urban`: urban: 10.1% of population
-- `unimproved: rural`: rural: 33.5% of population
-- `unimproved: total`: total: 19.7% of population (2020 est.)
+- `已改進－城市`: urban: 89.9% of population
+- `已改進－農村`: rural: 66.5% of population
+- `已改進－總計`: total: 80.3% of population
+- `未改進：都市`: urban: 10.1% of population
+- `未改進：鄉村`: rural: 33.5% of population
+- `未改善：總計`: total: 19.7% of population (2020 est.)
 
 ### 肥胖—成人流行率
 23.7% (2016)
 
 ### 人均酒精消費量
-- `total`: 3.69 liters of pure alcohol (2019 est.)
-- `beer`: 1.57 liters of pure alcohol (2019 est.)
-- `wine`: 0.02 liters of pure alcohol (2019 est.)
-- `spirits`: 2.1 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 3.69 liters of pure alcohol (2019 est.)
+- `啤酒`: 1.57 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.02 liters of pure alcohol (2019 est.)
+- `烈酒`: 2.1 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 目前已婚婦女（15-49歲）
 56% (2023 est.)
@@ -213,10 +213,10 @@ the overwhelming majority of the population resides in the western half of the c
 4.6% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 82.6%
-- `male`: 82.4%
-- `female`: 82.8% (2015)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 82.6%
+- `男性`: 82.4%
+- `女性`: 82.8% (2015)
 
 ## 環境
 
@@ -224,23 +224,23 @@ the overwhelming majority of the population resides in the western half of the c
 deforestation; soil erosion; water pollution; drought
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 tropical in lowlands, cooler in highlands
 
 ### 土地利用
-- `agricultural land`: 42.2% (2018 est.)
-- `agricultural land: arable land`: arable land: 12.5% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 2.5% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 27.2% (2018 est.)
-- `forest`: 25.3% (2018 est.)
-- `other`: 32.5% (2018 est.)
+- `農地`: 42.2% (2018 est.)
+- `農地：耕地`: arable land: 12.5% (2018 est.)
+- `農地：永久性作物`: permanent crops: 2.5% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 27.2% (2018 est.)
+- `森林`: 25.3% (2018 est.)
+- `其它`: 32.5% (2018 est.)
 
 ### 都市化
-- `urban population`: 59.8% of total population (2023)
-- `rate of urbanization`: 1.45% annual rate of change (2020-25 est.)
+- `城市人口`: 59.8% of total population (2023)
+- `城鎮化率`: 1.45% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 1.26% of GDP (2018 est.)
@@ -249,45 +249,45 @@ tropical in lowlands, cooler in highlands
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 16 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 5.59 megatons (2016 est.)
-- `methane emissions`: 6.46 megatons (2020 est.)
+- `顆粒物排放量`: 16 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 5.59 megatons (2016 est.)
+- `甲烷排放量`: 6.46 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 1,528,816 tons (2010 est.)
+- `城市固體廢棄物－每年產生`: 1,528,816 tons (2010 est.)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lago de Nicaragua - 8,150 sq km; Lago de Managua - 1,040 sq km
+- `淡水湖`: Lago de Nicaragua - 8,150 sq km; Lago de Managua - 1,040 sq km
 
 ### 總取水量
-- `municipal`: 286 million cubic meters (2020 est.)
-- `industrial`: 50 million cubic meters (2020 est.)
-- `agricultural`: 1.08 billion cubic meters (2020 est.)
+- `市級`: 286 million cubic meters (2020 est.)
+- `工業`: 50 million cubic meters (2020 est.)
+- `農業`: 1.08 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 164.52 billion cubic meters (2020 est.)
 
 ### 地質公園
-- `total global geoparks and regional networks`: 1
-- `global geoparks and regional networks`: Rio Coco (2023)
+- `全球地質公園和區域網絡總數`: 1
+- `全球地質公園和區域網絡`: Rio Coco (2023)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Nicaragua
-- `conventional short form`: Nicaragua
-- `local long form`: República de Nicaragua
-- `local short form`: Nicaragua
-- `etymology`: Nicarao was the name of the largest indigenous settlement at the time of Spanish arrival; conquistador Gil GONZALEZ Davila, who explored the area (1622-23), combined the name of the community with the Spanish word "agua" (water), referring to the two large lakes in the west of the country (Lake Managua and Lake Nicaragua)
+- `常用長名`: Republic of Nicaragua
+- `常用短名`: Nicaragua
+- `當地語長名`: República de Nicaragua
+- `當地語短名`: Nicaragua
+- `语源学`: Nicarao was the name of the largest indigenous settlement at the time of Spanish arrival; conquistador Gil GONZALEZ Davila, who explored the area (1622-23), combined the name of the community with the Spanish word "agua" (water), referring to the two large lakes in the west of the country (Lake Managua and Lake Nicaragua)
 
 ### 政府類型
 presidential republic
 
 ### 首都
-- `name`: Managua
-- `geographic coordinates`: 12 08 N, 86 15 W
-- `time difference`: UTC-6 (1 hour behind Washington, DC, during Standard Time)
-- `etymology`: may derive from the indigenous Nahuatl term "mana-ahuac," which translates as "adjacent to the water" or a site "surrounded by water"; the city is situated on the southwestern shore of Lake Managua
+- `名稱`: Managua
+- `地理坐標`: 12 08 N, 86 15 W
+- `時差`: UTC-6 (1 hour behind Washington, DC, during Standard Time)
+- `语源学`: may derive from the indigenous Nahuatl term "mana-ahuac," which translates as "adjacent to the water" or a site "surrounded by water"; the city is situated on the southwestern shore of Lake Managua
 
 ### 行政區劃
 15 departments (departamentos, singular - departamento) and 2 autonomous regions* (regiones autonomistas, singular - region autonoma); Boaco, Carazo, Chinandega, Chontales, Costa Caribe Norte*, Costa Caribe Sur*, Esteli, Granada, Jinotega, Leon, Madriz, Managua, Masaya, Matagalpa, Nueva Segovia, Rio San Juan, Rivas
@@ -302,38 +302,38 @@ Independence Day, 15 September (1821)
 civil law system; Supreme Court may review administrative acts
 
 ### 憲法
-- `history`: several previous; latest adopted 19 November 1986, effective 9 January 1987
-- `amendments`: proposed by the president of the republic or assent of at least half of the National Assembly membership; passage requires approval by 60% of the membership of the next elected Assembly and promulgation by the president of the republic; amended several times, last in 2021
+- `歷史`: several previous; latest adopted 19 November 1986, effective 9 January 1987
+- `修正`: proposed by the president of the republic or assent of at least half of the National Assembly membership; passage requires approval by 60% of the membership of the next elected Assembly and promulgation by the president of the republic; amended several times, last in 2021
 
 ### 國際法組織參與
 accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt
 
 ### 公民身份
-- `citizenship by birth`: yes
-- `citizenship by descent only`: yes
-- `dual citizenship recognized`: no, except in cases where bilateral agreements exist
-- `residency requirement for naturalization`: 4 years
+- `出生公民權`: yes
+- `血統公民身份`: yes
+- `承認雙重國籍`: no, except in cases where bilateral agreements exist
+- `入籍的居留要求`: 4 years
 
 ### 選舉權
 16 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Jose Daniel ORTEGA Saavedra (since 10 January 2007)
-- `head of government`: President Jose Daniel ORTEGA Saavedra (since 10 January 2007)
-- `cabinet`: Council of Ministers appointed by the president
-- `elections/appointments`: president and vice president directly elected on the same ballot by qualified plurality vote for a 5-year term (no term limits); election last held on 7 November 2021 (next to be held on 1 November 2026)
-- `election results`: *2021:* Jose Daniel ORTEGA Saavedra reelected president for a fourth consecutive term; percent of vote - Jose Daniel ORTEGA Saavedra (FSLN) 75.9%, Walter ESPINOZA (PLC) 14.3%, Guillermo OSORNO (CCN) 3.3%, Marcelo MONTIEL (ALN) 3.1%, other 3.4%*2016:* Jose Daniel ORTEGA Saavedra reelected president for a third consecutive term; percent of vote - Jose Daniel ORTEGA Saavedra (FSLN) 72.4%, Maximino RODRIGUEZ (PLC) 15%, Jose del Carmen ALVARADO (PLI) 4.5%, Saturnino CERRATO Hodgson (ALN) 4.3%, other 3.7%
+- `國家元首`: President Jose Daniel ORTEGA Saavedra (since 10 January 2007)
+- `政府首腦`: President Jose Daniel ORTEGA Saavedra (since 10 January 2007)
+- `内閣`: Council of Ministers appointed by the president
+- `選舉/任命`: president and vice president directly elected on the same ballot by qualified plurality vote for a 5-year term (no term limits); election last held on 7 November 2021 (next to be held on 1 November 2026)
+- `選舉結果`: *2021:* Jose Daniel ORTEGA Saavedra reelected president for a fourth consecutive term; percent of vote - Jose Daniel ORTEGA Saavedra (FSLN) 75.9%, Walter ESPINOZA (PLC) 14.3%, Guillermo OSORNO (CCN) 3.3%, Marcelo MONTIEL (ALN) 3.1%, other 3.4%*2016:* Jose Daniel ORTEGA Saavedra reelected president for a third consecutive term; percent of vote - Jose Daniel ORTEGA Saavedra (FSLN) 72.4%, Maximino RODRIGUEZ (PLC) 15%, Jose del Carmen ALVARADO (PLI) 4.5%, Saturnino CERRATO Hodgson (ALN) 4.3%, other 3.7%
 **note**:  the president is both chief of state and head of government
 
 ### 立法部門
-- `description`: unicameral National Assembly or Asamblea Nacional (92 statutory seats, current 91; 70 members in multi-seat constituencies, representing the country's 15 departments and 2 autonomous regions, and 20 members in a single nationwide constituency directly elected by party-list proportional representation vote; up to 2 seats reserved for the previous president and the runner-up candidate in the previous presidential election; members serve 5-year terms)
-- `elections`: last held on 7 November 2021 (next to be held on 1 November 2026)
-- `election results`: percent of vote by party - NA; seats by party - FSLN 75, PLC 9, ALN 2, APRE 1, CCN 1, PLI 1, YATAMA 1; composition - men 42, women 49, percentage women 53.9%
+- `描述`: unicameral National Assembly or Asamblea Nacional (92 statutory seats, current 91; 70 members in multi-seat constituencies, representing the country's 15 departments and 2 autonomous regions, and 20 members in a single nationwide constituency directly elected by party-list proportional representation vote; up to 2 seats reserved for the previous president and the runner-up candidate in the previous presidential election; members serve 5-year terms)
+- `選舉`: last held on 7 November 2021 (next to be held on 1 November 2026)
+- `選舉結果`: percent of vote by party - NA; seats by party - FSLN 75, PLC 9, ALN 2, APRE 1, CCN 1, PLI 1, YATAMA 1; composition - men 42, women 49, percentage women 53.9%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court or Corte Suprema de Justicia (consists of 16 judges organized into administrative, civil, criminal, and constitutional chambers)
-- `judge selection and term of office`: Supreme Court judges elected by the National Assembly to serve 5-year staggered terms
-- `subordinate courts`: Appeals Court; first instance civil, criminal, and labor courts; military courts are independent of the Supreme Court
+- `最高法院`: Supreme Court or Corte Suprema de Justicia (consists of 16 judges organized into administrative, civil, criminal, and constitutional chambers)
+- `法官遴選和任期`: Supreme Court judges elected by the National Assembly to serve 5-year staggered terms
+- `下級法院`: Appeals Court; first instance civil, criminal, and labor courts; military courts are independent of the Supreme Court
 
 ### 政黨
 Alliance for the Republic or APREAlternative for Change or AC (operates in a political alliance with the FSLN)Autonomous Liberal Party or PAL*_issue_**_issue_*Caribbean Unity Movement or PAMUCChristian Unity Party or PUC (operates in a political alliance with the FSLN)Independent Liberal Party or PLILiberal Constitutionalist Party or PLCMoskitia Indigenous Progressive Movement or MOSKITIA PAWANKA (operates in a political alliance with the FSLN) Multiethnic Indigenous Party or PIM (operates in a political alliance with the FSLN)Nationalist Liberal Party or PLN (operates in a political alliance with the FSLN)Nicaraguan Liberal Alliance or ALNNicaraguan Party of the Christian Path or CCNNicaraguan Resistance Party or PRN (operates in a political alliance with the FSLN)*_issue_**_issue_*Sandinista National Liberation Front or FSLNSons of Mother Earth or YATAMAThe New Sons of Mother Earth Movement or MYATAMARAN (operates in a political alliance with the FSLN)
@@ -342,20 +342,20 @@ Alliance for the Republic or APREAlternative for Change or AC (operates in a pol
 ACS, BCIE, CACM, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, NAM, OAS, OPANAL, OPCW, PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador (vacant); Chargé d'Affaires M. Lautaro SANDINO Montes (since 23 February 2024)
-- `chancery`: 1627 New Hampshire Avenue NW, Washington, DC 20009
-- `telephone`: [1] (202) 939-6570
+- `外交代表負責人`: Ambassador (vacant); Chargé d'Affaires M. Lautaro SANDINO Montes (since 23 February 2024)
+- `衡平法院（在美國）`: 1627 New Hampshire Avenue NW, Washington, DC 20009
+- `電話號碼`: [1] (202) 939-6570
 - `FAX`: [1] (202) 939-6545
-- `email address and website`: mperalta@cancilleria.gob.ni  United States of America | ConsuladoDeNicaragua.com
-- `consulate(s) general`: Houston, Los Angeles, Miami, New York, San Francisco
+- `電子郵件地址和網站`: mperalta@cancilleria.gob.ni  United States of America | ConsuladoDeNicaragua.com
+- `總領事館`: Houston, Los Angeles, Miami, New York, San Francisco
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador (vacant); Chargé d’Affaires Kevin Michael O'REILLY (since 28 June 2023)
-- `embassy`: Kilometer 5.5 Carretera Sur, Managua
-- `mailing address`: 3240 Managua Place, Washington DC  20521-3240
-- `telephone`: [505] 2252-7100,
+- `外交代表負責人`: Ambassador (vacant); Chargé d’Affaires Kevin Michael O'REILLY (since 28 June 2023)
+- `大使館`: Kilometer 5.5 Carretera Sur, Managua
+- `郵寄地址`: 3240 Managua Place, Washington DC  20521-3240
+- `電話號碼`: [505] 2252-7100,
 - `FAX`: [505] 2252-7250
-- `email address and website`: ACS.Managua@state.gov  https://ni.usembassy.gov/
+- `電子郵件地址和網站`: ACS.Managua@state.gov  https://ni.usembassy.gov/
 
 ### 旗幟說明
 three equal horizontal bands of blue (top), white, and blue with the national coat of arms centered in the white band; the coat of arms features a triangle encircled by the words REPUBLICA DE NICARAGUA on the top and AMERICA CENTRAL on the bottom; the banner is based on the former blue-white-blue flag of the Federal Republic of Central America; the blue bands symbolize the Pacific Ocean and the Caribbean Sea, while the white band represents the land between the two bodies of water
@@ -365,8 +365,8 @@ three equal horizontal bands of blue (top), white, and blue with the national co
 turquoise-browed motmot (bird); national colors: blue, white
 
 ### 國歌
-- `name`: "Salve a ti, Nicaragua" (Hail to Thee, Nicaragua)
-- `lyrics/music`: Salomon Ibarra MAYORGA/traditional, arranged by Luis Abraham DELGADILLO
+- `名稱`: "Salve a ti, Nicaragua" (Hail to Thee, Nicaragua)
+- `歌詞／音樂`: Salomon Ibarra MAYORGA/traditional, arranged by Luis Abraham DELGADILLO
 **note**:  although only officially adopted in 1971, the music was approved in 1918 and the lyrics in 1939; the tune, originally from Spain, was used as an anthem for Nicaragua from the 1830s until 1876
 
 ### 國家級遺產
@@ -413,18 +413,18 @@ $17.829 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 15.3% (2023 est.)
-- `industry`: 27.3% (2023 est.)
-- `services`: 46.3% (2023 est.)
+- `農業`: 15.3% (2023 est.)
+- `產業`: 27.3% (2023 est.)
+- `服務`: 46.3% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 78.1% (2023 est.)
-- `government consumption`: 12.2% (2023 est.)
-- `investment in fixed capital`: 21.2% (2023 est.)
-- `investment in inventories`: 1.8% (2023 est.)
-- `exports of goods and services`: 45.8% (2023 est.)
-- `imports of goods and services`: -59.1% (2023 est.)
+- `家庭消費`: 78.1% (2023 est.)
+- `政府消費`: 12.2% (2023 est.)
+- `固定資本投資`: 21.2% (2023 est.)
+- `存貨投資`: 1.8% (2023 est.)
+- `商品和服務出口`: 45.8% (2023 est.)
+- `商品和服務進口`: -59.1% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -449,9 +449,9 @@ food processing, chemicals, machinery and metal products, knit and woven apparel
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 9.5% (2023 est.)
-- `male`: 8.3% (2023 est.)
-- `female`: 12.6% (2023 est.)
+- `總計`: 9.5% (2023 est.)
+- `男性`: 8.3% (2023 est.)
+- `女性`: 12.6% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -463,8 +463,8 @@ food processing, chemicals, machinery and metal products, knit and woven apparel
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 2% (2014 est.)
-- `highest 10%`: 37.2% (2014 est.)
+- `最低10%`: 2% (2014 est.)
+- `最高10%`: 37.2% (2014 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -474,8 +474,8 @@ food processing, chemicals, machinery and metal products, knit and woven apparel
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $3.396 billion (2022 est.)
-- `expenditures`: $2.609 billion (2022 est.)
+- `收入`: $3.396 billion (2022 est.)
+- `支出`: $2.609 billion (2022 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -541,31 +541,31 @@ $6.106 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 86.5% (2022 est.)
-- `electrification - urban areas`: 100%
-- `electrification - rural areas`: 66.3%
+- `電氣化－總人口`: 86.5% (2022 est.)
+- `電氣化－城市地區`: 100%
+- `電氣化－農村地區`: 66.3%
 
 ### 電力
-- `installed generating capacity`: 1.841 million kW (2022 est.)
-- `consumption`: 4.169 billion kWh (2022 est.)
-- `imports`: 995.1 million kWh (2022 est.)
-- `transmission/distribution losses`: 1.11 billion kWh (2022 est.)
+- `裝機容量`: 1.841 million kW (2022 est.)
+- `消費`: 4.169 billion kWh (2022 est.)
+- `進口`: 995.1 million kWh (2022 est.)
+- `傳輸／分配損耗`: 1.11 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 31.4% of total installed capacity (2022 est.)
-- `solar`: 0.7% of total installed capacity (2022 est.)
-- `wind`: 15.3% of total installed capacity (2022 est.)
-- `hydroelectricity`: 14% of total installed capacity (2022 est.)
-- `geothermal`: 16.9% of total installed capacity (2022 est.)
-- `biomass and waste`: 21.6% of total installed capacity (2022 est.)
+- `石化燃料`: 31.4% of total installed capacity (2022 est.)
+- `太陽能`: 0.7% of total installed capacity (2022 est.)
+- `風能`: 15.3% of total installed capacity (2022 est.)
+- `水力發電`: 14% of total installed capacity (2022 est.)
+- `地熱`: 16.9% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 21.6% of total installed capacity (2022 est.)
 
 ### 石油
-- `total petroleum production`: 200 bbl/day (2023 est.)
-- `refined petroleum consumption`: 36,000 bbl/day (2022 est.)
+- `總石油產量`: 200 bbl/day (2023 est.)
+- `成品油消費量`: 36,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 4.987 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 4.987 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 4.987 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 4.987 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 12.903 million Btu/person (2022 est.)
@@ -573,17 +573,17 @@ $6.106 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 216,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 3 (2022 est.)
+- `總訂閱數`: 216,000 (2022 est.)
+- `每100名居民訂閱數`: 3 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 6.652 million (2021 est.)
-- `subscriptions per 100 inhabitants`: 97 (2021 est.)
+- `總訂閱數`: 6.652 million (2021 est.)
+- `每100名居民訂閱數`: 97 (2021 est.)
 
 ### 電信系統
-- `general assessment`: Nicaragua’s telecoms market has mirrored the country’s poor economic achievements, with fixed-line teledensity and mobile penetration also being the lowest in Central America; the fixed line broadband market remains nascent, with population penetration below 4%; most internet users are concentrated in the largest cities, given that rural and marginal areas lack access to the most basic telecom infrastructure; internet cafés provide public access to internet and email services, but these also tend to be restricted to the larger population centers; to address poor infrastructure, the World Bank has funded a project aimed at improving connectivity via a national fiber broadband network; there are separate schemes to improve broadband in eastern regions and provide links to Caribbean submarine cables; the number of mobile subscribers overtook the number of fixed lines in early 2002, and the mobile sector now accounts for most lines in service (2021)
-- `domestic`: fixed-line teledensity is 3 per 100 persons; mobile-cellular telephone subscribership is 91 per 100 persons (2021)
-- `international`: country code - 505; landing point for the ARCOS fiber-optic submarine cable which provides connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 1 Intersputnik (Atlantic Ocean region) and 1 Intelsat (Atlantic Ocean) (2019)
+- `總體評估`: Nicaragua’s telecoms market has mirrored the country’s poor economic achievements, with fixed-line teledensity and mobile penetration also being the lowest in Central America; the fixed line broadband market remains nascent, with population penetration below 4%; most internet users are concentrated in the largest cities, given that rural and marginal areas lack access to the most basic telecom infrastructure; internet cafés provide public access to internet and email services, but these also tend to be restricted to the larger population centers; to address poor infrastructure, the World Bank has funded a project aimed at improving connectivity via a national fiber broadband network; there are separate schemes to improve broadband in eastern regions and provide links to Caribbean submarine cables; the number of mobile subscribers overtook the number of fixed lines in early 2002, and the mobile sector now accounts for most lines in service (2021)
+- `國內`: fixed-line teledensity is 3 per 100 persons; mobile-cellular telephone subscribership is 91 per 100 persons (2021)
+- `國際的`: country code - 505; landing point for the ARCOS fiber-optic submarine cable which provides connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 1 Intersputnik (Atlantic Ocean region) and 1 Intelsat (Atlantic Ocean) (2019)
 
 ### 廣播媒體
 multiple terrestrial TV stations, supplemented by cable TV in most urban areas; nearly all are government-owned or affiliated; more than 300 radio stations, both government-affiliated and privately owned (2019)
@@ -592,18 +592,18 @@ multiple terrestrial TV stations, supplemented by cable TV in most urban areas; 
 .ni
 
 ### 網際網路使用者
-- `total`: 3.933 million (2021 est.)
-- `percent of population`: 57% (2021 est.)
+- `總計`: 3.933 million (2021 est.)
+- `佔人口比例`: 57% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 290,351 (2020 est.)
-- `subscriptions per 100 inhabitants`: 4 (2020 est.)
+- `總計`: 290,351 (2020 est.)
+- `每100名居民訂閱數`: 4 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 1 (2020)
-- `inventory of registered aircraft operated by air carriers`: 7
+- `註冊航空公司數量`: 1 (2020)
+- `註冊飛機庫存—航空承運商經營`: 7
 
 ### 註冊民用航空器國家代碼前綴
 YN
@@ -615,25 +615,25 @@ YN
 54 km oil (2013)
 
 ### 道路
-- `total`: 24,033 km
-- `paved`: 3,447 km
-- `unpaved`: 20,586 km (2013)
+- `總計`: 24,033 km
+- `已鋪砌`: 3,447 km
+- `未鋪砌`: 20,586 km (2013)
 
 ### 水道
 2,220 km (2011) (navigable waterways as well as the use of the large Lake Managua and Lake Nicaragua; rivers serve only the sparsely populated eastern part of the country)
 
 ### 商船
-- `total`: 5 (2023)
-- `by type`: general cargo 1, oil tanker 1, other 3
+- `總計`: 5 (2023)
+- `依類型`: general cargo 1, oil tanker 1, other 3
 
 ### 港口
-- `total ports`: 5 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 2
-- `very small`: 3
-- `ports with oil terminals`: 4
-- `key ports`: Bluefields, Corinto, El Bluff, Puerto Cabezas, Puerto Sandino
+- `總港口數`: 5 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 2
+- `非常小`: 3
+- `原油碼頭港口`: 4
+- `主要港口`: Bluefields, Corinto, El Bluff, Puerto Cabezas, Puerto Sandino
 
 ## 軍事和安全
 
@@ -673,7 +673,7 @@ stated mission of the space agency is to promote the development of space activi
 ## 跨國議題
 
 ### 人口販運
-- `tier rating`: Tier 3 — Nicaragua does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Nicaragua remained on Tier 3; for more details, go to: https://www.state.gov/reports/2024-trafficking-in-persons-report/nicaragua/ 
+- `會級評分`: Tier 3 — Nicaragua does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Nicaragua remained on Tier 3; for more details, go to: https://www.state.gov/reports/2024-trafficking-in-persons-report/nicaragua/ 
 
 ### 非法藥物
  transit route for illicit drugs originating from South America destined for the United States

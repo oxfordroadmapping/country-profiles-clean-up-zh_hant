@@ -19,15 +19,15 @@ Eastern Mediterranean, on the southeast coast of Cyprus near Famagusta
 Middle East
 
 ### 面積
-- `total`: 131 sq km
+- `總計`: 131 sq km
 **note**:  area surrounds three Cypriot enclaves
 
 ### 面積—比較
 about three-quarters the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 108 km
-- `border countries`: Cyprus 108 km
+- `總計`: 108 km
+- `邊境國家`: Cyprus 108 km
 
 ### 海岸線
 27.5 km
@@ -45,18 +45,18 @@ approximately 15,500 on the Sovereign Base Areas of Akrotiri and Dhekelia includ
 
 ### 語文
 English, Greek
-- `major-language sample(s)`: Το Παγκόσμιο Βιβλίο Δεδομένων, η απαραίτητη πηγή βασικών πληροφοριών. (Greek)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: Το Παγκόσμιο Βιβλίο Δεδομένων, η απαραίτητη πηγή βασικών πληροφοριών. (Greek)  The World Factbook, the indispensable source for basic information.
 
 ### 年齡結構
-- `0-14 years`: NA
-- `15-64 years`: NA
-- `65 years and over`: NA
+- `0-14歲`: NA
+- `15-64歲`: NA
+- `65歲及以上`: NA
 
 ### 撫養比率
-- `total dependency ratio`: NA
-- `youth dependency ratio`: NA
-- `elderly dependency ratio`: NA
-- `potential support ratio`: NA
+- `總受扶養人比率`: NA
+- `少年撫養比率`: NA
+- `老人撫養比率`: NA
+- `潛在支持率`: NA
 
 ### 出生率
 NA
@@ -68,12 +68,12 @@ NA
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: NA
-- `improved: rural`: rural: NA
-- `improved: total`: total: NA
-- `unimproved: urban`: urban: NA
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: NA
+- `已改進－城市`: urban: NA
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: NA
+- `未改進：都市`: urban: NA
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: NA
 
 ### 當前醫療支出
 NA
@@ -95,34 +95,34 @@ temperate; Mediterranean with hot, dry summers and cool winters
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Dhekelia
+- `常用長名`: none
+- `常用短名`: Dhekelia
 
 ### 附屬狀況
 a special form of UK overseas territory; administered by an administrator who is also the Commander, British Forces Cyprus
 
 ### 首都
-- `name`: Episkopi Cantonment (base administrative center for Akrotiri and Dhekelia); located in Akrotiri
-- `geographic coordinates`: 34 40 N, 32 51 E
-- `time difference`: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
-- `daylight saving time`: +1hr, begins last Sunday in March; ends last Sunday in October
-- `etymology`: "Episkopi" means "episcopal" in Greek and stems from the fact that the site previously served as the bishop's seat of an Orthodox diocese
+- `名稱`: Episkopi Cantonment (base administrative center for Akrotiri and Dhekelia); located in Akrotiri
+- `地理坐標`: 34 40 N, 32 51 E
+- `時差`: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
+- `日光節約時間`: +1hr, begins last Sunday in March; ends last Sunday in October
+- `语源学`: "Episkopi" means "episcopal" in Greek and stems from the fact that the site previously served as the bishop's seat of an Orthodox diocese
 
 ### 憲法
-- `history`: presented 3 August 1960, effective 16 August 1960 (The Sovereign Base Areas of Akrotiri and Dhekelia Order in Council 1960, serves as a basic legal document); amended 1966
+- `歷史`: presented 3 August 1960, effective 16 August 1960 (The Sovereign Base Areas of Akrotiri and Dhekelia Order in Council 1960, serves as a basic legal document); amended 1966
 
 ### 法律制度
 laws applicable to the Cypriot population are, as far as possible, the same as the laws of the Republic of Cyprus; note - the Sovereign Base Area Administration has its own court system to deal with civil and criminal matters
 
 ### 行政部門
-- `chief of state`: King CHARLES III (since 8 September 2022)
-- `head of government`: Administrator Air Vice-Marshal Peter J.M. SQUIRES (since 1 September 2022); note - the administrator reports to the British Ministry of Defense and is also Commander, British Forces Cyprus (BFC); the chief officer, an appointed civilian, is responsible for the day-to-day running of the civil government of the Sovereign Base Areas
-- `elections/appointments`: the monarchy is hereditary; administrator appointed by the monarch on the advice of the Ministry of Defense
+- `國家元首`: King CHARLES III (since 8 September 2022)
+- `政府首腦`: Administrator Air Vice-Marshal Peter J.M. SQUIRES (since 1 September 2022); note - the administrator reports to the British Ministry of Defense and is also Commander, British Forces Cyprus (BFC); the chief officer, an appointed civilian, is responsible for the day-to-day running of the civil government of the Sovereign Base Areas
+- `選舉/任命`: the monarchy is hereditary; administrator appointed by the monarch on the advice of the Ministry of Defense
 
 ### 司法部門
-- `highest court(s)`: Senior Judges' Court (consists of several visiting judges from England and Wales)
-- `judge selection and term of office`: see entry for United Kingdom
-- `subordinate courts`: Resident Judges' Court; military courts
+- `最高法院`: Senior Judges' Court (consists of several visiting judges from England and Wales)
+- `法官遴選和任期`: see entry for United Kingdom
+- `下級法院`: Resident Judges' Court; military courts
 
 ### 駐美國的外交代表機構
 none (overseas territory of the UK)

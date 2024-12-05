@@ -19,25 +19,25 @@ Oceania, islands in the South Pacific Ocean, southeast of Australia
 Oceania
 
 ### 面積
-- `total `: 268,838 sq km
-- `land`: 264,537 sq km
-- `water`: 4,301 sq km
+- `總計`: 268,838 sq km
+- `土地`: 264,537 sq km
+- `水`: 4,301 sq km
 **note**:  includes Antipodes Islands, Auckland Islands, Bounty Islands, Campbell Island, Chatham Islands, and Kermadec Islands
 
 ### 面積—比較
 almost twice the size of North Carolina; about the size of Colorado
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 15,134 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: 200 nm or to the edge of the continental margin
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: 200 nm or to the edge of the continental margin
 
 ### 氣候
 temperate with sharp regional contrasts
@@ -46,26 +46,26 @@ temperate with sharp regional contrasts
 predominately mountainous with large coastal plains
 
 ### 海拔
-- `highest point`: Aoraki/Mount Cook 3,724 m; note - the mountain's height was 3,764 m until 14 December 1991 when it lost about 10 m in an avalanche of rock and ice; erosion of the ice cap since then has brought the height down another 30 m
-- `lowest point`: Pacific Ocean 0 m
-- `mean elevation`: 388 m
+- `最高點`: Aoraki/Mount Cook 3,724 m; note - the mountain's height was 3,764 m until 14 December 1991 when it lost about 10 m in an avalanche of rock and ice; erosion of the ice cap since then has brought the height down another 30 m
+- `最低點`: Pacific Ocean 0 m
+- `平均海拔`: 388 m
 
 ### 自然資源
 natural gas, iron ore, sand, coal, timber, hydropower, gold, limestone
 
 ### 土地利用
-- `agricultural land`: 43.2% (2018 est.)
-- `agricultural land: arable land`: arable land: 1.8% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.3% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 41.1% (2018 est.)
-- `forest`: 31.4% (2018 est.)
-- `other`: 25.4% (2018 est.)
+- `農地`: 43.2% (2018 est.)
+- `農地：耕地`: arable land: 1.8% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.3% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 41.1% (2018 est.)
+- `森林`: 31.4% (2018 est.)
+- `其它`: 25.4% (2018 est.)
 
 ### 灌溉土地
 7,000 sq km (2014)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lake Taupo - 610 sq km
+- `淡水湖`: Lake Taupo - 610 sq km
 
 ### 人口分布
 over three-quarters of New Zealanders, including the indigenous Maori, live on the North Island, primarily in urban areas
@@ -79,13 +79,13 @@ earthquakes are common, though usually not severe; volcanic activity**volcanism*
 ## 人民和社會
 
 ### 人口
-- `total`: 5,161,211
-- `male`: 2,584,607
-- `female`: 2,576,604 (2024 est.)
+- `總計`: 5,161,211
+- `男性`: 2,584,607
+- `女性`: 2,576,604 (2024 est.)
 
 ### 國籍
-- `noun`: New Zealander(s)
-- `adjective`: New Zealand
+- `名詞`: New Zealander(s)
+- `形容詞`: New Zealand
 
 ### 族裔群體
 European 64.1%, Maori 16.5%, Chinese 4.9%, Indian 4.7%, Samoan 3.9%, Tongan 1.8%, Cook Islands Maori 1.7%, English 1.5%, Filipino 1.5%, New Zealander 1%, other 13.7% (2018 est.)
@@ -100,20 +100,20 @@ Christian 37.3% (Catholic 10.1%, Anglican 6.8%, Presbyterian and Congregational 
 **note**:  based on the 2018 census of the usually resident population; percentages add up to more than 100% because respondents were able to identify more than one religion
 
 ### 年齡結構
-- `0-14 years`: 19% (male 503,120/female 475,490)
-- `15-64 years`: 64.2% (male 1,674,407/female 1,638,276)
-- `65 years and over`: 16.9% (2024 est.) (male 407,080/female 462,838)
+- `0-14歲`: 19% (male 503,120/female 475,490)
+- `15-64歲`: 64.2% (male 1,674,407/female 1,638,276)
+- `65歲及以上`: 16.9% (2024 est.) (male 407,080/female 462,838)
 
 ### 撫養比率
-- `total dependency ratio`: 53.4
-- `youth dependency ratio`: 29
-- `elderly dependency ratio`: 24.4
-- `potential support ratio`: 4.1 (2021 est.)
+- `總受扶養人比率`: 53.4
+- `少年撫養比率`: 29
+- `老人撫養比率`: 24.4
+- `潛在支持率`: 4.1 (2021 est.)
 
 ### 年齡中位數
-- `total`: 37.9 years (2024 est.)
-- `male`: 37.2 years
-- `female`: 38.6 years
+- `總計`: 37.9 years (2024 est.)
+- `男性`: 37.2 years
+- `女性`: 38.6 years
 
 ### 人口成長率
 0.95% (2024 est.)
@@ -131,18 +131,18 @@ Christian 37.3% (Catholic 10.1%, Anglican 6.8%, Presbyterian and Congregational 
 over three-quarters of New Zealanders, including the indigenous Maori, live on the North Island, primarily in urban areas
 
 ### 都市化
-- `urban population`: 87% of total population (2023)
-- `rate of urbanization`: 0.92% annual rate of change (2020-25 est.)
+- `城市人口`: 87% of total population (2023)
+- `城鎮化率`: 0.92% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 1.673 million Auckland, 422,000 WELLINGTON (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.06 male(s)/female
-- `15-64 years`: 1.02 male(s)/female
-- `65 years and over`: 0.88 male(s)/female
-- `total population`: 1 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.06 male(s)/female
+- `15-64歲`: 1.02 male(s)/female
+- `65歲及以上`: 0.88 male(s)/female
+- `總人口數`: 1 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 27.8 years
@@ -151,14 +151,14 @@ over three-quarters of New Zealanders, including the indigenous Maori, live on t
 7 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 3.3 deaths/1,000 live births (2024 est.)
-- `male`: 3.5 deaths/1,000 live births
-- `female`: 3.1 deaths/1,000 live births
+- `總計`: 3.3 deaths/1,000 live births (2024 est.)
+- `男性`: 3.5 deaths/1,000 live births
+- `女性`: 3.1 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 82.9 years (2024 est.)
-- `male`: 81.2 years
-- `female`: 84.8 years
+- `總人口數`: 82.9 years (2024 est.)
+- `男性`: 81.2 years
+- `女性`: 84.8 years
 
 ### 總生育率
 1.85 children born/woman (2024 est.)
@@ -171,12 +171,12 @@ over three-quarters of New Zealanders, including the indigenous Maori, live on t
 **note**:  percent of women aged 16-49
 
 ### 飲用水來源
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 當前醫療支出
 10% of GDP (2020)
@@ -188,27 +188,27 @@ over three-quarters of New Zealanders, including the indigenous Maori, live on t
 2.6 beds/1,000 population (2019)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0% of population (2020)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0% of population (2020)
 
 ### 肥胖—成人流行率
 30.8% (2016)
 
 ### 人均酒精消費量
-- `total`: 9.17 liters of pure alcohol (2019 est.)
-- `beer`: 3.41 liters of pure alcohol (2019 est.)
-- `wine`: 2.88 liters of pure alcohol (2019 est.)
-- `spirits`: 1.62 liters of pure alcohol (2019 est.)
-- `other alcohols`: 1.26 liters of pure alcohol (2019 est.)
+- `總計`: 9.17 liters of pure alcohol (2019 est.)
+- `啤酒`: 3.41 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 2.88 liters of pure alcohol (2019 est.)
+- `烈酒`: 1.62 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 1.26 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 13.7% (2020 est.)
-- `male`: 15% (2020 est.)
-- `female`: 12.3% (2020 est.)
+- `總計`: 13.7% (2020 est.)
+- `男性`: 15% (2020 est.)
+- `女性`: 12.3% (2020 est.)
 
 ### 5歲以下體重不足兒童
 NA
@@ -220,14 +220,14 @@ NA
 6% of GDP (2020 est.)
 
 ### 識字程度
-- `total population`: NA
-- `male`: NA
-- `female`: NA
+- `總人口數`: NA
+- `男性`: NA
+- `女性`: NA
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 20 years
-- `male`: 20 years
-- `female`: 21 years (2020)
+- `總計`: 20 years
+- `男性`: 20 years
+- `女性`: 21 years (2020)
 
 ## 環境
 
@@ -235,23 +235,23 @@ NA
 water quality and availability; rapid urbanization; deforestation; soil erosion and degradation; native flora and fauna hard-hit by invasive species
 
 ### 環境—國際協定
-- `party to`: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
-- `signed, but not ratified`: Antarctic Seals, Marine Life Conservation
+- `是以下議定書的締約國：`: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
+- `已簽署但未批準`: Antarctic Seals, Marine Life Conservation
 
 ### 氣候
 temperate with sharp regional contrasts
 
 ### 土地利用
-- `agricultural land`: 43.2% (2018 est.)
-- `agricultural land: arable land`: arable land: 1.8% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.3% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 41.1% (2018 est.)
-- `forest`: 31.4% (2018 est.)
-- `other`: 25.4% (2018 est.)
+- `農地`: 43.2% (2018 est.)
+- `農地：耕地`: arable land: 1.8% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.3% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 41.1% (2018 est.)
+- `森林`: 31.4% (2018 est.)
+- `其它`: 25.4% (2018 est.)
 
 ### 都市化
-- `urban population`: 87% of total population (2023)
-- `rate of urbanization`: 0.92% annual rate of change (2020-25 est.)
+- `城市人口`: 87% of total population (2023)
+- `城鎮化率`: 0.92% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.5% of GDP (2018 est.)
@@ -260,20 +260,20 @@ temperate with sharp regional contrasts
 0.03% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 8.61 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 34.38 megatons (2016 est.)
-- `methane emissions`: 34.3 megatons (2020 est.)
+- `顆粒物排放量`: 8.61 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 34.38 megatons (2016 est.)
+- `甲烷排放量`: 34.3 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 3.405 million tons (2016 est.)
+- `城市固體廢棄物－每年產生`: 3.405 million tons (2016 est.)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lake Taupo - 610 sq km
+- `淡水湖`: Lake Taupo - 610 sq km
 
 ### 總取水量
-- `municipal`: 500 million cubic meters (2020 est.)
-- `industrial`: 1.18 billion cubic meters (2020 est.)
-- `agricultural`: 3.2 billion cubic meters (2020 est.)
+- `市級`: 500 million cubic meters (2020 est.)
+- `工業`: 1.18 billion cubic meters (2020 est.)
+- `農業`: 3.2 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 327 billion cubic meters (2020 est.)
@@ -281,21 +281,21 @@ temperate with sharp regional contrasts
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: New Zealand
-- `abbreviation`: NZ
-- `etymology`: Dutch explorer Abel TASMAN was the first European to reach New Zealand in 1642; he named it Staten Landt, but Dutch cartographers renamed it Nova Zeelandia in 1645 after the Dutch province of Zeeland; British explorer Captain James COOK subsequently anglicized the name to New Zealand when he mapped the islands in 1769
+- `常用長名`: none
+- `常用短名`: New Zealand
+- `縮寫`: NZ
+- `语源学`: Dutch explorer Abel TASMAN was the first European to reach New Zealand in 1642; he named it Staten Landt, but Dutch cartographers renamed it Nova Zeelandia in 1645 after the Dutch province of Zeeland; British explorer Captain James COOK subsequently anglicized the name to New Zealand when he mapped the islands in 1769
 
 ### 政府類型
 parliamentary democracy under a constitutional monarchy; a Commonwealth realm
 
 ### 首都
-- `name`: Wellington
-- `geographic coordinates`: 41 18 S, 174 47 E
-- `time difference`: UTC+12 (17 hours ahead of Washington, DC, during Standard Time)
-- `daylight saving time`: +1hr, begins last Sunday in September; ends first Sunday in April
-- `time zone note`: New Zealand has two time zones: New Zealand standard time (UTC+12) and Chatham Islands time (45 minutes in advance of New Zealand standard time; UTC+12:45)
-- `etymology`: named in 1840 after Arthur WELLESLEY, the first Duke of Wellington and victorious general at the Battle of Waterloo
+- `名稱`: Wellington
+- `地理坐標`: 41 18 S, 174 47 E
+- `時差`: UTC+12 (17 hours ahead of Washington, DC, during Standard Time)
+- `日光節約時間`: +1hr, begins last Sunday in September; ends first Sunday in April
+- `時區備註`: New Zealand has two time zones: New Zealand standard time (UTC+12) and Chatham Islands time (45 minutes in advance of New Zealand standard time; UTC+12:45)
+- `语源学`: named in 1840 after Arthur WELLESLEY, the first Duke of Wellington and victorious general at the Battle of Waterloo
 
 ### 行政區劃
 16 regions and 1 territory*; Auckland, Bay of Plenty, Canterbury, Chatham Islands*, Gisborne, Hawke's Bay, Manawatu-Wanganui, Marlborough, Nelson, Northland, Otago, Southland, Taranaki, Tasman, Waikato, Wellington, West Coast
@@ -313,37 +313,37 @@ Waitangi Day (Treaty of Waitangi established British sovereignty over New Zealan
 common law system, based on English model, with special legislation and land courts for the Maori
 
 ### 憲法
-- `history`: New Zealand has no single constitution document; the Constitution Act 1986, effective 1 January 1987, includes only part of the uncodified constitution; others include a collection of statutes or "acts of Parliament," the Treaty of Waitangi, Orders in Council, letters patent, court decisions, and unwritten conventions
-- `amendments`: proposed as bill by Parliament or by referendum called either by the government or by citizens; passage of a bill as an act normally requires two separate readings with committee reviews in between to make changes and corrections, a third reading approved by the House of Representatives membership or by the majority of votes in a referendum, and assent of the governor-general; passage of amendments to reserved constitutional provisions affecting the term of Parliament, electoral districts, and voting restrictions requires approval by 75% of the House membership or the majority of votes in a referendum; amended many times, last in 2020
+- `歷史`: New Zealand has no single constitution document; the Constitution Act 1986, effective 1 January 1987, includes only part of the uncodified constitution; others include a collection of statutes or "acts of Parliament," the Treaty of Waitangi, Orders in Council, letters patent, court decisions, and unwritten conventions
+- `修正`: proposed as bill by Parliament or by referendum called either by the government or by citizens; passage of a bill as an act normally requires two separate readings with committee reviews in between to make changes and corrections, a third reading approved by the House of Representatives membership or by the majority of votes in a referendum, and assent of the governor-general; passage of amendments to reserved constitutional provisions affecting the term of Parliament, electoral districts, and voting restrictions requires approval by 75% of the House membership or the majority of votes in a referendum; amended many times, last in 2020
 
 ### 國際法組織參與
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of New Zealand
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: 3 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of New Zealand
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: 3 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: King CHARLES III (since 8 September 2022); represented by Governor-General Dame Cindy KIRO (since 21 October 2021)
-- `head of government`: Prime Minister Christopher LUXON (since 27 November 2023)
-- `cabinet`: Executive Council appointed by the governor-general on the recommendation of the prime minister
-- `elections/appointments`: the monarchy is hereditary; governor-general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor-general; deputy prime minister appointed by the governor-general
+- `國家元首`: King CHARLES III (since 8 September 2022); represented by Governor-General Dame Cindy KIRO (since 21 October 2021)
+- `政府首腦`: Prime Minister Christopher LUXON (since 27 November 2023)
+- `内閣`: Executive Council appointed by the governor-general on the recommendation of the prime minister
+- `選舉/任命`: the monarchy is hereditary; governor-general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor-general; deputy prime minister appointed by the governor-general
 **note**: according to Prime Minister LUXON, the Winston PETERS of the New Zealand First Party would be the deputy prime minister in the first half of the term while Act party leader, David SEYMOUR, would take the role for the second half of the term
 
 ### 立法部門
-- `description`: unicameral House of Representatives - commonly called Parliament (121 seats for 2023-26 term); 72 members directly elected in 65 single-seat constituencies and 7 Maori constituencies by simple majority vote and 49 directly elected by closed party-list proportional representation vote; members serve 3-year terms)
-- `elections`: last held on 14 October 2023 (next scheduled for October 2026)
-- `election results`: percent of vote by party - National Party 38.1%, Labor Party 26.9%, Green Party 11.6%, ACT Party 8.6%, New Zealand First 6.1%; Maori Party 3.1%; seats by party - National Party 48, Labor Party 34, Green Party 15, ACT Party 11, New Zealand First 8, Maori Party 6; composition - 67 men, 56 women; percentage of women 45.5%
+- `描述`: unicameral House of Representatives - commonly called Parliament (121 seats for 2023-26 term); 72 members directly elected in 65 single-seat constituencies and 7 Maori constituencies by simple majority vote and 49 directly elected by closed party-list proportional representation vote; members serve 3-year terms)
+- `選舉`: last held on 14 October 2023 (next scheduled for October 2026)
+- `選舉結果`: percent of vote by party - National Party 38.1%, Labor Party 26.9%, Green Party 11.6%, ACT Party 8.6%, New Zealand First 6.1%; Maori Party 3.1%; seats by party - National Party 48, Labor Party 34, Green Party 15, ACT Party 11, New Zealand First 8, Maori Party 6; composition - 67 men, 56 women; percentage of women 45.5%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court (consists of 5 justices, including the chief justice); note - the Supreme Court in 2004 replaced the Judicial Committee of the Privy Council (in London) as the final appeals court
-- `judge selection and term of office`: justices appointed by the governor-general upon the recommendation of the attorney- general; justices appointed until compulsory retirement at age 70
-- `subordinate courts`: Court of Appeal; High Court; tribunals and authorities; district courts; specialized courts for issues related to employment, environment, family, Maori lands, youth, military; tribunals
+- `最高法院`: Supreme Court (consists of 5 justices, including the chief justice); note - the Supreme Court in 2004 replaced the Judicial Committee of the Privy Council (in London) as the final appeals court
+- `法官遴選和任期`: justices appointed by the governor-general upon the recommendation of the attorney- general; justices appointed until compulsory retirement at age 70
+- `下級法院`: Court of Appeal; High Court; tribunals and authorities; district courts; specialized courts for issues related to employment, environment, family, Maori lands, youth, military; tribunals
 
 ### 政黨
 ACT New Zealand Green Party New Zealand First Party or NZ First New Zealand Labor Party New Zealand National Party Te Pāti Māori 
@@ -352,21 +352,21 @@ ACT New Zealand Green Party New Zealand First Party or NZ First New Zealand L
 ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NSG, OECD, OPCW, Pacific Alliance (observer), Paris Club (associate), PCA, PIF, SICA (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNOOSA, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Rosemary BANKS (since 17 June 2024)
-- `chancery`: 37 Observatory Circle NW, Washington, DC 20008
-- `telephone`: [1] (202) 328-4800
+- `外交代表負責人`: Ambassador Rosemary BANKS (since 17 June 2024)
+- `衡平法院（在美國）`: 37 Observatory Circle NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 328-4800
 - `FAX`: [1] (202) 667-5277
-- `email address and website`: wshinfo@mfat.govt.nz  https://www.mfat.govt.nz/en/countries-and-regions/americas/united-states-of-america/
-- `consulate(s) general`: Honolulu, Los Angeles, New York
+- `電子郵件地址和網站`: wshinfo@mfat.govt.nz  https://www.mfat.govt.nz/en/countries-and-regions/americas/united-states-of-america/
+- `總領事館`: Honolulu, Los Angeles, New York
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Thomas Stewart UDALL (since 1 December 2021); note - also accredited to Samoa
-- `embassy`: 29 Fitzherbert Terrace, Thorndon, Wellington 6011
-- `mailing address`: 4370 Auckland Place, Washington DC  20521-4370
-- `telephone`: [64] (4) 462-6000
+- `外交代表負責人`: Ambassador Thomas Stewart UDALL (since 1 December 2021); note - also accredited to Samoa
+- `大使館`: 29 Fitzherbert Terrace, Thorndon, Wellington 6011
+- `郵寄地址`: 4370 Auckland Place, Washington DC  20521-4370
+- `電話號碼`: [64] (4) 462-6000
 - `FAX`: [64] (4) 499-0490
-- `email address and website`: AucklandACS@state.gov  https://nz.usembassy.gov/
-- `consulate(s) general`: Auckland
+- `電子郵件地址和網站`: AucklandACS@state.gov  https://nz.usembassy.gov/
+- `總領事館`: Auckland
 
 ### 旗幟說明
 blue with the flag of the UK in the upper hoist-side quadrant with four red five-pointed stars edged in white centered in the outer half of the flag; the stars represent the Southern Cross constellation
@@ -375,8 +375,8 @@ blue with the flag of the UK in the upper hoist-side quadrant with four red five
 Southern Cross constellation (four, five-pointed stars), kiwi (bird), silver fern; national colors: black, white, red (ochre)
 
 ### 國歌
-- `name`: "God Defend New Zealand"
-- `lyrics/music`: Thomas BRACKEN [English], Thomas Henry SMITH [Maori]/John Joseph WOODS
+- `名稱`: "God Defend New Zealand"
+- `歌詞／音樂`: Thomas BRACKEN [English], Thomas Henry SMITH [Maori]/John Joseph WOODS
 **note**:  adopted 1940 as national song, adopted 1977 as co-national anthem; New Zealand has two national anthems with equal status; as a commonwealth realm, in addition to "God Defend New Zealand," "God Save the King" serves as a royal anthem (see United Kingdom); "God Save the King" normally played only when a member of the royal family or the governor-general is present; in all other cases, "God Defend New Zealand" is played
 
 ### 國家級遺產
@@ -423,18 +423,18 @@ $253.466 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 5.8% (2021 est.)
-- `industry`: 19% (2021 est.)
-- `services`: 67.1% (2021 est.)
+- `農業`: 5.8% (2021 est.)
+- `產業`: 19% (2021 est.)
+- `服務`: 67.1% (2021 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 58.2% (2022 est.)
-- `government consumption`: 21.1% (2022 est.)
-- `investment in fixed capital`: 25.4% (2022 est.)
-- `investment in inventories`: 0.4% (2022 est.)
-- `exports of goods and services`: 24.4% (2022 est.)
-- `imports of goods and services`: -29.7% (2022 est.)
+- `家庭消費`: 58.2% (2022 est.)
+- `政府消費`: 21.1% (2022 est.)
+- `固定資本投資`: 25.4% (2022 est.)
+- `存貨投資`: 0.4% (2022 est.)
+- `商品和服務出口`: 24.4% (2022 est.)
+- `商品和服務進口`: -29.7% (2022 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -459,14 +459,14 @@ agriculture, forestry, fishing, logs and wood articles, manufacturing, mining, c
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 10.7% (2023 est.)
-- `male`: 10.9% (2023 est.)
-- `female`: 10.5% (2023 est.)
+- `總計`: 10.7% (2023 est.)
+- `男性`: 10.9% (2023 est.)
+- `女性`: 10.5% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 平均家庭支出
-- `on food`: 12.5% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 4.9% of household expenditures (2022 est.)
+- `餐食`: 12.5% of household expenditures (2022 est.)
+- `酒精和煙草`: 4.9% of household expenditures (2022 est.)
 
 ### 匯款
 0.24% of GDP (2023 est.)
@@ -475,8 +475,8 @@ agriculture, forestry, fishing, logs and wood articles, manufacturing, mining, c
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $83.157 billion (2022 est.)
-- `expenditures`: $88.64 billion (2022 est.)
+- `收入`: $83.157 billion (2022 est.)
+- `支出`: $88.64 billion (2022 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -538,43 +538,43 @@ $16.114 billion (2021 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 10.412 million kW (2022 est.)
-- `consumption`: 41.466 billion kWh (2022 est.)
-- `transmission/distribution losses`: 2.712 billion kWh (2022 est.)
+- `裝機容量`: 10.412 million kW (2022 est.)
+- `消費`: 41.466 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 2.712 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 13.2% of total installed capacity (2022 est.)
-- `solar`: 0.5% of total installed capacity (2022 est.)
-- `wind`: 6.5% of total installed capacity (2022 est.)
-- `hydroelectricity`: 58.5% of total installed capacity (2022 est.)
-- `geothermal`: 17.7% of total installed capacity (2022 est.)
-- `biomass and waste`: 3.5% of total installed capacity (2022 est.)
+- `石化燃料`: 13.2% of total installed capacity (2022 est.)
+- `太陽能`: 0.5% of total installed capacity (2022 est.)
+- `風能`: 6.5% of total installed capacity (2022 est.)
+- `水力發電`: 58.5% of total installed capacity (2022 est.)
+- `地熱`: 17.7% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 3.5% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `production`: 3.036 million metric tons (2022 est.)
-- `consumption`: 2.441 million metric tons (2022 est.)
-- `exports`: 1.278 million metric tons (2022 est.)
-- `imports`: 727,000 metric tons (2022 est.)
-- `proven reserves`: 7.575 billion metric tons (2022 est.)
+- `生產`: 3.036 million metric tons (2022 est.)
+- `消費`: 2.441 million metric tons (2022 est.)
+- `出口`: 1.278 million metric tons (2022 est.)
+- `進口`: 727,000 metric tons (2022 est.)
+- `探明儲量`: 7.575 billion metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 12,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 154,000 bbl/day (2023 est.)
-- `crude oil estimated reserves`: 40.993 million barrels (2021 est.)
+- `總石油產量`: 12,000 bbl/day (2023 est.)
+- `成品油消費量`: 154,000 bbl/day (2023 est.)
+- `原油儲備量估值`: 40.993 million barrels (2021 est.)
 
 ### 天然氣
-- `production`: 3.77 billion cubic meters (2022 est.)
-- `consumption`: 3.819 billion cubic meters (2022 est.)
-- `proven reserves`: 31.149 billion cubic meters (2021 est.)
+- `生產`: 3.77 billion cubic meters (2022 est.)
+- `消費`: 3.819 billion cubic meters (2022 est.)
+- `探明儲量`: 31.149 billion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 31.998 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 3.687 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 21.018 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 7.293 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 31.998 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 3.687 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 21.018 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 7.293 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 120.219 million Btu/person (2022 est.)
@@ -582,17 +582,17 @@ $16.114 billion (2021 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 757,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 15 (2022 est.)
+- `總訂閱數`: 757,000 (2022 est.)
+- `每100名居民訂閱數`: 15 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 5.947 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 115 (2022 est.)
+- `總訂閱數`: 5.947 million (2022 est.)
+- `每100名居民訂閱數`: 115 (2022 est.)
 
 ### 電信系統
-- `general assessment`: the growth areas in in New Zealand’s telecom market have been in mobile broadband and fiber; New Zealand’s mobile market continues to undergo significant developments; the coverage of LTE networks has been supported by the Rural Broadband Initiative rollout, which added a significant number of mobile sites to new or underserved areas; the market is undergoing additional consolidation; offering fixed and mobile services (2023)
-- `domestic`: fixed-line roughly 13 per 100 and mobile-cellular telephone subscribership 114 per 100 persons (2021)
-- `international`: country code - 64; landing points for the Southern Cross NEXT, Aqualink, Nelson-Levin, SCCN and Hawaiki submarine cable system providing links to Australia, Fiji, American Samoa, Kiribati, Samo, Tokelau, US and around New Zealand; satellite earth stations - 8 (1 Inmarsat - Pacific Ocean, 7 other) (2019)
+- `總體評估`: the growth areas in in New Zealand’s telecom market have been in mobile broadband and fiber; New Zealand’s mobile market continues to undergo significant developments; the coverage of LTE networks has been supported by the Rural Broadband Initiative rollout, which added a significant number of mobile sites to new or underserved areas; the market is undergoing additional consolidation; offering fixed and mobile services (2023)
+- `國內`: fixed-line roughly 13 per 100 and mobile-cellular telephone subscribership 114 per 100 persons (2021)
+- `國際的`: country code - 64; landing points for the Southern Cross NEXT, Aqualink, Nelson-Levin, SCCN and Hawaiki submarine cable system providing links to Australia, Fiji, American Samoa, Kiribati, Samo, Tokelau, US and around New Zealand; satellite earth stations - 8 (1 Inmarsat - Pacific Ocean, 7 other) (2019)
 
 ### 廣播媒體
 state-owned Television New Zealand operates multiple TV networks and state-owned Radio New Zealand operates 3 radio networks and an external shortwave radio service to the South Pacific region; a small number of national commercial TV and radio stations and many regional commercial television and radio stations are available; cable and satellite TV systems are available, as are a range of streaming services (2019)
@@ -601,20 +601,20 @@ state-owned Television New Zealand operates multiple TV networks and state-owned
 .nz
 
 ### 網際網路使用者
-- `total`: 4.896 million (2021 est.)
-- `percent of population`: 96% (2021 est.)
+- `總計`: 4.896 million (2021 est.)
+- `佔人口比例`: 96% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 1,764,984 (2020 est.)
-- `subscriptions per 100 inhabitants`: 37 (2020 est.)
+- `總計`: 1,764,984 (2020 est.)
+- `每100名居民訂閱數`: 37 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 15 (2020)
-- `inventory of registered aircraft operated by air carriers`: 199
-- `annual passenger traffic on registered air carriers`: 17,249,049 (2018)
-- `annual freight traffic on registered air carriers`: 1,349,300,000 (2018) mt-km
+- `註冊航空公司數量`: 15 (2020)
+- `註冊飛機庫存—航空承運商經營`: 199
+- `年度客運量－註冊航空公司`: 17,249,049 (2018)
+- `年度貨運量－註冊航空公司`: 1,349,300,000 (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 ZK
@@ -629,26 +629,26 @@ ZK
 331 km condensate, 2,500 km gas, 172 km liquid petroleum gas, 288 km oil, 198 km refined products (2018)
 
 ### 鐵路
-- `total`: 4,128 km (2018)
-- `narrow gauge`: 4,128 km (2018) 1.067-m gauge (506 km electrified)
+- `總計`: 4,128 km (2018)
+- `窄軌`: 4,128 km (2018) 1.067-m gauge (506 km electrified)
 
 ### 道路
-- `total`: 94,000 km
-- `paved`: 61,600 km (includes 199 km of expressways)
-- `unpaved`: 32,400 km (2017)
+- `總計`: 94,000 km
+- `已鋪砌`: 61,600 km (includes 199 km of expressways)
+- `未鋪砌`: 32,400 km (2017)
 
 ### 商船
-- `total`: 117 (2023)
-- `by type`: container ship 2, general cargo 12, oil tanker 3, other 100
+- `總計`: 117 (2023)
+- `依類型`: container ship 2, general cargo 12, oil tanker 3, other 100
 
 ### 港口
-- `total ports`: 22 (2024)
-- `large`: 2
-- `medium`: 1
-- `small`: 10
-- `very small`: 9
-- `ports with oil terminals`: 14
-- `key ports`: Auckland, Bluff Harbor, Gisborne, Manukau Harbor, Napier, Nelson, New Plymouth, Otago Harbor, Picton, Tauranga, Timaru, Wellington, Whangarei
+- `總港口數`: 22 (2024)
+- `大`: 2
+- `中`: 1
+- `小`: 10
+- `非常小`: 9
+- `原油碼頭港口`: 14
+- `主要港口`: Auckland, Bluff Harbor, Gisborne, Manukau Harbor, Napier, Nelson, New Plymouth, Otago Harbor, Picton, Tauranga, Timaru, Wellington, Whangarei
 
 ## 軍事和安全
 
@@ -701,7 +701,7 @@ Islamic State of Iraq and ash-Sham (ISIS)
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `stateless persons`: 5 (2022)
+- `無國籍人士`: 5 (2022)
 
 ### 非法藥物
 significant consumer of amphetamines

@@ -19,16 +19,16 @@ Central Europe, between Germany, Poland, Slovakia, and Austria
 Europe
 
 ### 面積
-- `total `: 78,867 sq km
-- `land`: 77,247 sq km
-- `water`: 1,620 sq km
+- `總計`: 78,867 sq km
+- `土地`: 77,247 sq km
+- `水`: 1,620 sq km
 
 ### 面積—比較
 about two-thirds the size of Pennsylvania; slightly smaller than South Carolina
 
 ### 陸地邊界
-- `total`: 2,046 km
-- `border countries`: Austria 402 km; Germany 704 km; Poland 699 km; Slovakia 241 km
+- `總計`: 2,046 km
+- `邊境國家`: Austria 402 km; Germany 704 km; Poland 699 km; Slovakia 241 km
 
 ### 海岸線
 0 km (landlocked)
@@ -43,20 +43,20 @@ temperate; cool summers; cold, cloudy, humid winters
 Bohemia in the west consists of rolling plains, hills, and plateaus surrounded by low mountains; Moravia in the east consists of very hilly country
 
 ### 海拔
-- `highest point`: Snezka 1,602 m
-- `lowest point`: Labe (Elbe) River 115 m
-- `mean elevation`: 433 m
+- `最高點`: Snezka 1,602 m
+- `最低點`: Labe (Elbe) River 115 m
+- `平均海拔`: 433 m
 
 ### 自然資源
 hard coal, soft coal, kaolin, clay, graphite, timber, arable land
 
 ### 土地利用
-- `agricultural land`: 54.8% (2018 est.)
-- `agricultural land: arable land`: arable land: 41% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 1% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 12.8% (2018 est.)
-- `forest`: 34.4% (2018 est.)
-- `other`: 10.8% (2018 est.)
+- `農地`: 54.8% (2018 est.)
+- `農地：耕地`: arable land: 41% (2018 est.)
+- `農地：永久性作物`: permanent crops: 1% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 12.8% (2018 est.)
+- `森林`: 34.4% (2018 est.)
+- `其它`: 10.8% (2018 est.)
 
 ### 灌溉土地
 220 sq km (2020)
@@ -79,13 +79,13 @@ flooding
 ## 人民和社會
 
 ### 人口
-- `total`: 10,837,890
-- `male`: 5,335,737
-- `female`: 5,502,153 (2024 est.)
+- `總計`: 10,837,890
+- `男性`: 5,335,737
+- `女性`: 5,502,153 (2024 est.)
 
 ### 國籍
-- `noun`: Czech(s)
-- `adjective`: Czech
+- `名詞`: Czech(s)
+- `形容詞`: Czech
 
 ### 族裔群體
 Czech 57.3%, Moravian 3.4%, other 7.7%, unspecified 31.6% (2021 est.)
@@ -93,27 +93,27 @@ Czech 57.3%, Moravian 3.4%, other 7.7%, unspecified 31.6% (2021 est.)
 
 ### 語文
 Czech (official) 88.4%, Slovak 1.5%, other 2.6%, unspecified 7.2% (2021 est.)
-- `major-language sample(s)`: World Factbook, nepostradatelný zdroj základních informací. (Czech)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: World Factbook, nepostradatelný zdroj základních informací. (Czech)  The World Factbook, the indispensable source for basic information.
 **note**:  includes only persons with one mother tongue
 
 ### 宗教
 Roman Catholic 7%, other believers belonging to a church or religious society 6% (includes Evangelical United Brethren Church and Czechoslovak Hussite Church), believers unaffiliated with a religious society 9.1%, none 47.8%, unspecified 30.1% (2021 est.)
 
 ### 年齡結構
-- `0-14 years`: 15.7% (male 871,303/female 826,896)
-- `15-64 years`: 63.8% (male 3,542,298/female 3,373,127)
-- `65 years and over`: 20.5% (2024 est.) (male 922,136/female 1,302,130)
+- `0-14歲`: 15.7% (male 871,303/female 826,896)
+- `15-64歲`: 63.8% (male 3,542,298/female 3,373,127)
+- `65歲及以上`: 20.5% (2024 est.) (male 922,136/female 1,302,130)
 
 ### 撫養比率
-- `total dependency ratio`: 57.4
-- `youth dependency ratio`: 25.2
-- `elderly dependency ratio`: 32.2
-- `potential support ratio`: 3.1 (2021 est.)
+- `總受扶養人比率`: 57.4
+- `少年撫養比率`: 25.2
+- `老人撫養比率`: 32.2
+- `潛在支持率`: 3.1 (2021 est.)
 
 ### 年齡中位數
-- `total`: 44.2 years (2024 est.)
-- `male`: 42.7 years
-- `female`: 45.7 years
+- `總計`: 44.2 years (2024 est.)
+- `男性`: 42.7 years
+- `女性`: 45.7 years
 
 ### 人口成長率
 0.04% (2024 est.)
@@ -131,18 +131,18 @@ Roman Catholic 7%, other believers belonging to a church or religious society 6%
 a fairly even distribution throughout most of the country, but the northern and eastern regions tend to have larger urban concentrations
 
 ### 都市化
-- `urban population`: 74.6% of total population (2023)
-- `rate of urbanization`: 0.2% annual rate of change (2020-25 est.)
+- `城市人口`: 74.6% of total population (2023)
+- `城鎮化率`: 0.2% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 1.323 million PRAGUE (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.05 male(s)/female
-- `15-64 years`: 1.05 male(s)/female
-- `65 years and over`: 0.71 male(s)/female
-- `total population`: 0.97 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.05 male(s)/female
+- `15-64歲`: 1.05 male(s)/female
+- `65歲及以上`: 0.71 male(s)/female
+- `總人口數`: 0.97 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 28.5 years (2020 est.)
@@ -151,14 +151,14 @@ a fairly even distribution throughout most of the country, but the northern and 
 3 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 2.6 deaths/1,000 live births (2024 est.)
-- `male`: 2.7 deaths/1,000 live births
-- `female`: 2.4 deaths/1,000 live births
+- `總計`: 2.6 deaths/1,000 live births (2024 est.)
+- `男性`: 2.7 deaths/1,000 live births
+- `女性`: 2.4 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 78.6 years (2024 est.)
-- `male`: 75.6 years
-- `female`: 81.8 years
+- `總人口數`: 78.6 years (2024 est.)
+- `男性`: 75.6 years
+- `女性`: 81.8 years
 
 ### 總生育率
 1.73 children born/woman (2024 est.)
@@ -170,12 +170,12 @@ a fairly even distribution throughout most of the country, but the northern and 
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: 99.9% of population
-- `improved: rural`: rural: 99.8% of population
-- `improved: total`: total: 99.9% of population
-- `unimproved: urban`: urban: 0.1% of population
-- `unimproved: rural`: rural: 0.2% of population
-- `unimproved: total`: total: 0.1% of population (2020 est.)
+- `已改進－城市`: urban: 99.9% of population
+- `已改進－農村`: rural: 99.8% of population
+- `已改進－總計`: total: 99.9% of population
+- `未改進：都市`: urban: 0.1% of population
+- `未改進：鄉村`: rural: 0.2% of population
+- `未改善：總計`: total: 0.1% of population (2020 est.)
 
 ### 當前醫療支出
 9.2% of GDP (2020)
@@ -187,27 +187,27 @@ NA
 6.6 beds/1,000 population (2018)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 肥胖—成人流行率
 26% (2016)
 
 ### 人均酒精消費量
-- `total`: 12.73 liters of pure alcohol (2019 est.)
-- `beer`: 6.77 liters of pure alcohol (2019 est.)
-- `wine`: 2.73 liters of pure alcohol (2019 est.)
-- `spirits`: 3.24 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 12.73 liters of pure alcohol (2019 est.)
+- `啤酒`: 6.77 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 2.73 liters of pure alcohol (2019 est.)
+- `烈酒`: 3.24 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 30.7% (2020 est.)
-- `male`: 35% (2020 est.)
-- `female`: 26.4% (2020 est.)
+- `總計`: 30.7% (2020 est.)
+- `男性`: 35% (2020 est.)
+- `女性`: 26.4% (2020 est.)
 
 ### 5歲以下體重不足兒童
 NA
@@ -219,15 +219,15 @@ NA
 5.1% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: NA
-- `total population`: 99%
-- `male`: 99%
-- `female`: 99% (2011)
+- `定義`: NA
+- `總人口數`: 99%
+- `男性`: 99%
+- `女性`: 99% (2011)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 16 years
-- `male`: 16 years
-- `female`: 17 years (2020)
+- `總計`: 16 years
+- `男性`: 16 years
+- `女性`: 17 years (2020)
 
 ## 環境
 
@@ -235,23 +235,23 @@ NA
 air and water pollution in areas of northwest Bohemia and in northern Moravia around Ostrava present health risks; acid rain damaging forests; land pollution caused by industry, mining, and agriculture
 
 ### 環境—國際協定
-- `party to`: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 temperate; cool summers; cold, cloudy, humid winters
 
 ### 土地利用
-- `agricultural land`: 54.8% (2018 est.)
-- `agricultural land: arable land`: arable land: 41% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 1% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 12.8% (2018 est.)
-- `forest`: 34.4% (2018 est.)
-- `other`: 10.8% (2018 est.)
+- `農地`: 54.8% (2018 est.)
+- `農地：耕地`: arable land: 41% (2018 est.)
+- `農地：永久性作物`: permanent crops: 1% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 12.8% (2018 est.)
+- `森林`: 34.4% (2018 est.)
+- `其它`: 10.8% (2018 est.)
 
 ### 都市化
-- `urban population`: 74.6% of total population (2023)
-- `rate of urbanization`: 0.2% annual rate of change (2020-25 est.)
+- `城市人口`: 74.6% of total population (2023)
+- `城鎮化率`: 0.2% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.17% of GDP (2017 est.)
@@ -260,14 +260,14 @@ temperate; cool summers; cold, cloudy, humid winters
 0.14% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 14.34 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 102.22 megatons (2016 est.)
-- `methane emissions`: 13.11 megatons (2020 est.)
+- `顆粒物排放量`: 14.34 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 102.22 megatons (2016 est.)
+- `甲烷排放量`: 13.11 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 3.337 million tons (2015 est.)
-- `municipal solid waste recycled annually`: 850,935 tons (2015 est.)
-- `percent of municipal solid waste recycled`: 25.5% (2015 est.)
+- `城市固體廢棄物－每年產生`: 3.337 million tons (2015 est.)
+- `城市固體廢棄物－每年回收`: 850,935 tons (2015 est.)
+- `城市固體廢棄物－回收百分比`: 25.5% (2015 est.)
 
 ### 主要河流（按公里長度）
 Labe (Elbe) river source (shared with Germany [m]) - 1,252 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -276,35 +276,35 @@ Labe (Elbe) river source (shared with Germany [m]) - 1,252 km*_issue_*note*_issu
 Atlantic Ocean drainage: *(Black Sea)* Danube (795,656 sq km)
 
 ### 總取水量
-- `municipal`: 630 million cubic meters (2020 est.)
-- `industrial`: 700 million cubic meters (2020 est.)
-- `agricultural`: 40 million cubic meters (2020 est.)
+- `市級`: 630 million cubic meters (2020 est.)
+- `工業`: 700 million cubic meters (2020 est.)
+- `農業`: 40 million cubic meters (2020 est.)
 
 ### 可再生水資源總量
 13.5 billion cubic meters (2020 est.)
 
 ### 地質公園
-- `total global geoparks and regional networks`: 1
-- `global geoparks and regional networks`: Bohemian Paradise (2023)
+- `全球地質公園和區域網絡總數`: 1
+- `全球地質公園和區域網絡`: Bohemian Paradise (2023)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Czech Republic
-- `conventional short form`: Czechia
-- `local long form`: Ceska republika
-- `local short form`: Cesko
-- `etymology`: name derives from the Czechs, a West Slavic tribe who rose to prominence in the late 9th century A.D.; the country officially adopted the English short-form name of Czechia on 1 July 2016
+- `常用長名`: Czech Republic
+- `常用短名`: Czechia
+- `當地語長名`: Ceska republika
+- `當地語短名`: Cesko
+- `语源学`: name derives from the Czechs, a West Slavic tribe who rose to prominence in the late 9th century A.D.; the country officially adopted the English short-form name of Czechia on 1 July 2016
 
 ### 政府類型
 parliamentary republic
 
 ### 首都
-- `name`: Prague
-- `geographic coordinates`: 50 05 N, 14 28 E
-- `time difference`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
-- `daylight saving time`: +1hr, begins last Sunday in March; ends last Sunday in October
-- `etymology`: the name may derive from an old Slavic root "praga" or "prah", meaning "ford", and refer to the city's origin at a crossing point of the Vltava (Moldau) River
+- `名稱`: Prague
+- `地理坐標`: 50 05 N, 14 28 E
+- `時差`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+- `日光節約時間`: +1hr, begins last Sunday in March; ends last Sunday in October
+- `语源学`: the name may derive from an old Slavic root "praga" or "prah", meaning "ford", and refer to the city's origin at a crossing point of the Vltava (Moldau) River
 
 ### 行政區劃
 13 regions (kraje, singular - kraj) and 1 capital city* (hlavni mesto); Jihocesky (South Bohemia), Jihomoravsky (South Moravia), Karlovarsky (Karlovy Vary), Kralovehradecky (Hradec Kralove), Liberecky (Liberec), Moravskoslezsky (Moravia-Silesia), Olomoucky (Olomouc), Pardubicky (Pardubice), Plzensky (Pilsen), Praha (Prague)*, Stredocesky (Central Bohemia), Ustecky (Usti), Vysocina (Highlands), Zlinsky (Zlin)
@@ -319,37 +319,37 @@ Czechoslovak Founding Day, 28 October (1918)
 new civil code enacted in 2014, replacing civil code of 1964 - based on former Austro-Hungarian civil codes and socialist theory - and reintroducing former Czech legal terminology
 
 ### 憲法
-- `history`: previous 1960; latest ratified 16 December 1992, effective 1 January 1993
-- `amendments`: passage requires at least three-fifths concurrence of members present in both houses of Parliament; amended several times, last in 2021
+- `歷史`: previous 1960; latest ratified 16 December 1992, effective 1 January 1993
+- `修正`: passage requires at least three-fifths concurrence of members present in both houses of Parliament; amended several times, last in 2021
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Czechia
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 5 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Czechia
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 5 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Petr PAVEL (since 9 March 2023)
-- `head of government`: Prime Minister Petr FIALA (since 17 December 2021)
-- `cabinet`: Cabinet appointed by the president on the recommendation of the prime minister
-- `elections/appointments`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (limited to 2 consecutive terms); elections last held on 13 to 14 January 2023 with a second round held from 27 to 28 January 2023; next election to be by January 2028; prime minister appointed by the president for a 4-year term
-- `election results`: *2023: *Petr PAVEL elected in the second round; percent of vote in the first round - Petr PAVEL (independent) 35.4%, Andrej BABIS (ANO) 35*%*, Danuse NERUDOVA (Mayors and Independents) 13.9%, Pavel FISCHER (independent) 6.8%; percent of vote in the second round - Petr PAVEL 58.3%, Andrej BABIS 41.6%*  2018:* Milos ZEMAN reelected president in the second round; percent of vote - Milos ZEMAN (SPO) 51.4%, Jiri DRAHOS (independent) 48.6%
+- `國家元首`: President Petr PAVEL (since 9 March 2023)
+- `政府首腦`: Prime Minister Petr FIALA (since 17 December 2021)
+- `内閣`: Cabinet appointed by the president on the recommendation of the prime minister
+- `選舉/任命`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (limited to 2 consecutive terms); elections last held on 13 to 14 January 2023 with a second round held from 27 to 28 January 2023; next election to be by January 2028; prime minister appointed by the president for a 4-year term
+- `選舉結果`: *2023: *Petr PAVEL elected in the second round; percent of vote in the first round - Petr PAVEL (independent) 35.4%, Andrej BABIS (ANO) 35*%*, Danuse NERUDOVA (Mayors and Independents) 13.9%, Pavel FISCHER (independent) 6.8%; percent of vote in the second round - Petr PAVEL 58.3%, Andrej BABIS 41.6%*  2018:* Milos ZEMAN reelected president in the second round; percent of vote - Milos ZEMAN (SPO) 51.4%, Jiri DRAHOS (independent) 48.6%
 
 ### 立法部門
-- `description`: bicameral Parliament or Parlament consists of:Senate or Senat (81 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years)  Chamber of Deputies or Poslanecka Snemovna (200 seats; members directly elected in 14 multi-seat constituencies by proportional representation vote with a 5% threshold required to fill a seat; members serve 4-year terms)
-- `elections`: Senate - last held on 20 to 21 September 2024 with a runoff from 27 to 28 September 2024 (next to be held in September 2026)Chamber of Deputies - last held on 8 to 9 October 2021 (next to be held by October 2025)
-- `election results`: Senate - percent of vote - NA; - seats by party/coalition - NA   Chamber of Deputies - percent of vote by party/coalition – SPOLU 27.8%, ANO 27.1%, Pirates and STAN 15.6%, SPD 9.6%, other 19.9%; seats by party/coalition - ANO 72, SPOLU 71, Pirates and STAN 37, SPD 20; composition - men 148, women 52, percent of women 26%; note - total Parliament percent of women 23.8%
+- `描述`: bicameral Parliament or Parlament consists of:Senate or Senat (81 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years)  Chamber of Deputies or Poslanecka Snemovna (200 seats; members directly elected in 14 multi-seat constituencies by proportional representation vote with a 5% threshold required to fill a seat; members serve 4-year terms)
+- `選舉`: Senate - last held on 20 to 21 September 2024 with a runoff from 27 to 28 September 2024 (next to be held in September 2026)Chamber of Deputies - last held on 8 to 9 October 2021 (next to be held by October 2025)
+- `選舉結果`: Senate - percent of vote - NA; - seats by party/coalition - NA   Chamber of Deputies - percent of vote by party/coalition – SPOLU 27.8%, ANO 27.1%, Pirates and STAN 15.6%, SPD 9.6%, other 19.9%; seats by party/coalition - ANO 72, SPOLU 71, Pirates and STAN 37, SPD 20; composition - men 148, women 52, percent of women 26%; note - total Parliament percent of women 23.8%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court (organized into Civil Law and Commercial Division, and Criminal Division each with a court chief justice, vice justice, and several judges); Constitutional Court (consists of 15 justices); Supreme Administrative Court (consists of 36 judges, including the court president and vice president, and organized into 6-, 7-, and 9-member chambers)
-- `judge selection and term of office`: Supreme Court judges proposed by the Chamber of Deputies and appointed by the president; judges appointed for life; Constitutional Court judges appointed by the president and confirmed by the Senate; judges appointed for 10-year, renewable terms; Supreme Administrative Court judges selected by the president of the Court; unlimited terms
-- `subordinate courts`: High Court; regional and district courts
+- `最高法院`: Supreme Court (organized into Civil Law and Commercial Division, and Criminal Division each with a court chief justice, vice justice, and several judges); Constitutional Court (consists of 15 justices); Supreme Administrative Court (consists of 36 judges, including the court president and vice president, and organized into 6-, 7-, and 9-member chambers)
+- `法官遴選和任期`: Supreme Court judges proposed by the Chamber of Deputies and appointed by the president; judges appointed for life; Constitutional Court judges appointed by the president and confirmed by the Senate; judges appointed for 10-year, renewable terms; Supreme Administrative Court judges selected by the president of the Court; unlimited terms
+- `下級法院`: High Court; regional and district courts
 
 ### 政黨
 Action of Dissatisfied Citizens or ANO (*Akce nespokojených občanů)*Christian and Democratic Union - Czechoslovak People's Party or* KDU-ČSL*Civic Democratic Party or ODSCommunist Party of Bohemia and Moravia or KSČMCzech Pirate Party or PirátiForMOST or ProMOSTFreedom and Direct Democracy or SPDIndependents or NEZMayors and Independents or STANMayors for the Liberec Region or SLKOstravakPřísahaSenator 21 or SEN 21Social Democracy SOCDEMSvobodniTradition Responsibility Prosperity 09 or TOP 09Tábor 2020 or T2020United Democrats - Association of Independents or SD-SN
@@ -358,20 +358,20 @@ Action of Dissatisfied Citizens or ANO (*Akce nespokojených občanů)*Christian
 Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Miloslav STAŠEK (since 16 September 2022)
-- `chancery`: 3900 Spring of Freedom Street NW, Washington, DC 20008-3803
-- `telephone`: [1] (202) 274-9100
+- `外交代表負責人`: Ambassador Miloslav STAŠEK (since 16 September 2022)
+- `衡平法院（在美國）`: 3900 Spring of Freedom Street NW, Washington, DC 20008-3803
+- `電話號碼`: [1] (202) 274-9100
 - `FAX`: [1] (202) 966-8540
-- `email address and website`: washington@embassy.mzv.cz  https://www.mzv.cz/washington/
-- `consulate(s) general`: Chicago, Los Angeles, New York
+- `電子郵件地址和網站`: washington@embassy.mzv.cz  https://www.mzv.cz/washington/
+- `總領事館`: Chicago, Los Angeles, New York
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Bijan SABET (since 15 February 2023)
-- `embassy`: Trziste 15, 118 01 Praha 1 - Mala Strana
-- `mailing address`: 5630 Prague Place, Washington DC  20521-5630
-- `telephone`: [420] 257-022-000
+- `外交代表負責人`: Ambassador Bijan SABET (since 15 February 2023)
+- `大使館`: Trziste 15, 118 01 Praha 1 - Mala Strana
+- `郵寄地址`: 5630 Prague Place, Washington DC  20521-5630
+- `電話號碼`: [420] 257-022-000
 - `FAX`: [420] 257-022-809
-- `email address and website`: ACSPrg@state.gov  https://cz.usembassy.gov/
+- `電子郵件地址和網站`: ACSPrg@state.gov  https://cz.usembassy.gov/
 
 ### 旗幟說明
 two equal horizontal bands of white (top) and red with a blue isosceles triangle based on the hoist side
@@ -381,8 +381,8 @@ two equal horizontal bands of white (top) and red with a blue isosceles triangle
 silver (or white), double-tailed, rampant lion; national colors: white, red, blue
 
 ### 國歌
-- `name`: "Kde domov muj?" (Where is My Home?)
-- `lyrics/music`: Josef Kajetan TYL/Frantisek Jan SKROUP
+- `名稱`: "Kde domov muj?" (Where is My Home?)
+- `歌詞／音樂`: Josef Kajetan TYL/Frantisek Jan SKROUP
 **note**:  adopted 1993; the anthem was originally written as incidental music to the play "Fidlovacka" (1834), it soon became very popular as an unofficial anthem of the Czech nation; its first verse served as the official Czechoslovak anthem beginning in 1918, while the second verse (Slovak) was dropped after the split of Czechoslovakia in 1993
 
 ### 國家級遺產
@@ -429,18 +429,18 @@ $330.858 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 1.6% (2023 est.)
-- `industry`: 30.2% (2023 est.)
-- `services`: 59.8% (2023 est.)
+- `農業`: 1.6% (2023 est.)
+- `產業`: 30.2% (2023 est.)
+- `服務`: 59.8% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 45.6% (2023 est.)
-- `government consumption`: 20.4% (2023 est.)
-- `investment in fixed capital`: 27% (2023 est.)
-- `investment in inventories`: 1.9% (2023 est.)
-- `exports of goods and services`: 72% (2023 est.)
-- `imports of goods and services`: -66.9% (2023 est.)
+- `家庭消費`: 45.6% (2023 est.)
+- `政府消費`: 20.4% (2023 est.)
+- `固定資本投資`: 27% (2023 est.)
+- `存貨投資`: 1.9% (2023 est.)
+- `商品和服務出口`: 72% (2023 est.)
+- `商品和服務進口`: -66.9% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -465,9 +465,9 @@ motor vehicles, metallurgy, machinery and equipment, glass, armaments
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 8.3% (2023 est.)
-- `male`: 7.8% (2023 est.)
-- `female`: 9% (2023 est.)
+- `總計`: 8.3% (2023 est.)
+- `男性`: 7.8% (2023 est.)
+- `女性`: 9% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -479,12 +479,12 @@ motor vehicles, metallurgy, machinery and equipment, glass, armaments
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 平均家庭支出
-- `on food`: 16.4% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 8.2% of household expenditures (2022 est.)
+- `餐食`: 16.4% of household expenditures (2022 est.)
+- `酒精和煙草`: 8.2% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 3.9% (2021 est.)
-- `highest 10%`: 22.2% (2021 est.)
+- `最低10%`: 3.9% (2021 est.)
+- `最高10%`: 22.2% (2021 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -494,8 +494,8 @@ motor vehicles, metallurgy, machinery and equipment, glass, armaments
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $94.01 billion (2022 est.)
-- `expenditures`: $103.959 billion (2022 est.)
+- `收入`: $94.01 billion (2022 est.)
+- `支出`: $103.959 billion (2022 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -556,22 +556,22 @@ $173.618 billion (2021 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 21.914 million kW (2022 est.)
-- `consumption`: 62.077 billion kWh (2022 est.)
-- `exports`: 30.255 billion kWh (2022 est.)
-- `imports`: 16.726 billion kWh (2022 est.)
-- `transmission/distribution losses`: 3.414 billion kWh (2022 est.)
+- `裝機容量`: 21.914 million kW (2022 est.)
+- `消費`: 62.077 billion kWh (2022 est.)
+- `出口`: 30.255 billion kWh (2022 est.)
+- `進口`: 16.726 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 3.414 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 48.4% of total installed capacity (2022 est.)
-- `nuclear`: 39.3% of total installed capacity (2022 est.)
-- `solar`: 3.1% of total installed capacity (2022 est.)
-- `wind`: 0.8% of total installed capacity (2022 est.)
-- `hydroelectricity`: 2.2% of total installed capacity (2022 est.)
-- `biomass and waste`: 6.2% of total installed capacity (2022 est.)
+- `石化燃料`: 48.4% of total installed capacity (2022 est.)
+- `核能`: 39.3% of total installed capacity (2022 est.)
+- `太陽能`: 3.1% of total installed capacity (2022 est.)
+- `風能`: 0.8% of total installed capacity (2022 est.)
+- `水力發電`: 2.2% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 6.2% of total installed capacity (2022 est.)
 
 ### 核能
 - `Number of operational nuclear reactors`: 6 (2023)
@@ -579,28 +579,28 @@ $173.618 billion (2021 est.)
 - `Percent of total electricity production`: 40% (2023 est.)
 
 ### 煤炭
-- `production`: 37.423 million metric tons (2022 est.)
-- `consumption`: 40.239 million metric tons (2022 est.)
-- `exports`: 2.575 million metric tons (2022 est.)
-- `imports`: 4.516 million metric tons (2022 est.)
-- `proven reserves`: 3.595 billion metric tons (2022 est.)
+- `生產`: 37.423 million metric tons (2022 est.)
+- `消費`: 40.239 million metric tons (2022 est.)
+- `出口`: 2.575 million metric tons (2022 est.)
+- `進口`: 4.516 million metric tons (2022 est.)
+- `探明儲量`: 3.595 billion metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 4,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 211,000 bbl/day (2023 est.)
-- `crude oil estimated reserves`: 15 million barrels (2021 est.)
+- `總石油產量`: 4,000 bbl/day (2023 est.)
+- `成品油消費量`: 211,000 bbl/day (2023 est.)
+- `原油儲備量估值`: 15 million barrels (2021 est.)
 
 ### 天然氣
-- `production`: 224.725 million cubic meters (2022 est.)
-- `consumption`: 7.602 billion cubic meters (2022 est.)
-- `imports`: 8.608 billion cubic meters (2022 est.)
-- `proven reserves`: 3.964 billion cubic meters (2021 est.)
+- `生產`: 224.725 million cubic meters (2022 est.)
+- `消費`: 7.602 billion cubic meters (2022 est.)
+- `進口`: 8.608 billion cubic meters (2022 est.)
+- `探明儲量`: 3.964 billion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 91.213 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 51.306 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 25.255 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 14.652 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 91.213 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 51.306 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 25.255 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 14.652 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 149.874 million Btu/person (2022 est.)
@@ -608,17 +608,17 @@ $173.618 billion (2021 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 1.214 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 12 (2022 est.)
+- `總訂閱數`: 1.214 million (2022 est.)
+- `每100名居民訂閱數`: 12 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 13.475 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 128 (2022 est.)
+- `總訂閱數`: 13.475 million (2022 est.)
+- `每100名居民訂閱數`: 128 (2022 est.)
 
 ### 電信系統
-- `general assessment`: telcos in the Czech Republic have become multi-service providers, offering a full range of fixed and mobile services; this has enabled the Mobile Network Operators (MNOs) to expand the reach of their 5G networks while they have been closing down 3G networks and repurposing the internet for 5G and long-term evolution (LTE) use (2024)
-- `domestic`: roughly 12 fixed-telephone subscriptions per 100 inhabitants and mobile telephone usage of 128 per 100 inhabitants (2022)
-- `international`: country code - 420; satellite earth stations - 6 (2 Intersputnik - Atlantic and Indian Ocean regions, 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 Globalstar) (2019)
+- `總體評估`: telcos in the Czech Republic have become multi-service providers, offering a full range of fixed and mobile services; this has enabled the Mobile Network Operators (MNOs) to expand the reach of their 5G networks while they have been closing down 3G networks and repurposing the internet for 5G and long-term evolution (LTE) use (2024)
+- `國內`: roughly 12 fixed-telephone subscriptions per 100 inhabitants and mobile telephone usage of 128 per 100 inhabitants (2022)
+- `國際的`: country code - 420; satellite earth stations - 6 (2 Intersputnik - Atlantic and Indian Ocean regions, 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 Globalstar) (2019)
 
 ### 廣播媒體
 22 TV stations operate nationally, with 17 of them in private hands; publicly operated Czech Television has 5 national channels; throughout the country, there are some 350 TV channels in operation, many through cable, satellite, and IPTV subscription services; 63 radio broadcasters are registered, operating over 80 radio stations, including 7 multiregional radio stations or networks; publicly operated broadcaster Czech Radio operates 4 national, 14 regional, and 4 Internet stations; both Czech Radio and Czech Television are partially financed through a license fee (2019)
@@ -627,20 +627,20 @@ $173.618 billion (2021 est.)
 .cz
 
 ### 網際網路使用者
-- `total`: 9.13 million (2021 est.)
-- `percent of population`: 83% (2021 est.)
+- `總計`: 9.13 million (2021 est.)
+- `佔人口比例`: 83% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 3,845,426 (2020 est.)
-- `subscriptions per 100 inhabitants`: 36 (2020 est.)
+- `總計`: 3,845,426 (2020 est.)
+- `每100名居民訂閱數`: 36 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 4 (2020)
-- `inventory of registered aircraft operated by air carriers`: 48
-- `annual passenger traffic on registered air carriers`: 5,727,200 (2018)
-- `annual freight traffic on registered air carriers`: 25.23 million (2018) mt-km
+- `註冊航空公司數量`: 4 (2020)
+- `註冊飛機庫存—航空承運商經營`: 48
+- `年度客運量－註冊航空公司`: 5,727,200 (2018)
+- `年度貨運量－註冊航空公司`: 25.23 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 OK
@@ -655,10 +655,10 @@ OK
 7,160 km gas, 675 km oil, 94 km refined products (2016)
 
 ### 鐵路
-- `total`: 9,548 km (2020) 3,242 km electrified
+- `總計`: 9,548 km (2020) 3,242 km electrified
 
 ### 道路
-- `total`: 129,418 km (2022)
+- `總計`: 129,418 km (2022)
 
 ### 水道
 664 km (2010) (principally on Elbe, Vltava, Oder, and other navigable rivers, lakes, and canals)
@@ -695,8 +695,8 @@ the Czech military is responsible for national and territorial defense, assistin
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 381,400 (Ukraine) (as of 31 January 2024)
-- `stateless persons`: 1,625 (2022)
+- `難民（原籍國）`: 381,400 (Ukraine) (as of 31 January 2024)
+- `無國籍人士`: 1,625 (2022)
 
 ### 非法藥物
 main country of origin of methamphetamine in European markets; manufacture of methamphetamine continues to be mostly based on pseudoephedrine from Poland or Turkey

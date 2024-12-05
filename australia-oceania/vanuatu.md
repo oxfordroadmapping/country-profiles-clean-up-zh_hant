@@ -19,25 +19,25 @@ Oceania, group of islands in the South Pacific Ocean, about three-quarters of th
 Oceania
 
 ### 面積
-- `total `: 12,189 sq km
-- `land`: 12,189 sq km
-- `water`: 0 sq km
+- `總計`: 12,189 sq km
+- `土地`: 12,189 sq km
+- `水`: 0 sq km
 **note**:  includes more than 80 islands, about 65 of which are inhabited
 
 ### 面積—比較
 slightly larger than Connecticut
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 2,528 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: 200 nm or to the edge of the continental margin
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: 200 nm or to the edge of the continental margin
 measured from claimed archipelagic baselines
 
 ### 氣候
@@ -47,19 +47,19 @@ tropical; moderated by southeast trade winds from May to October; moderate rainf
 mostly mountainous islands of volcanic origin; narrow coastal plains
 
 ### 海拔
-- `highest point`: Tabwemasana 1,877 m
-- `lowest point`: Pacific Ocean 0 m
+- `最高點`: Tabwemasana 1,877 m
+- `最低點`: Pacific Ocean 0 m
 
 ### 自然資源
 manganese, hardwood forests, fish
 
 ### 土地利用
-- `agricultural land`: 15.3% (2018 est.)
-- `agricultural land: arable land`: arable land: 1.6% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 10.3% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 3.4% (2018 est.)
-- `forest`: 36.1% (2018 est.)
-- `other`: 48.6% (2018 est.)
+- `農地`: 15.3% (2018 est.)
+- `農地：耕地`: arable land: 1.6% (2018 est.)
+- `農地：永久性作物`: permanent crops: 10.3% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 3.4% (2018 est.)
+- `森林`: 36.1% (2018 est.)
+- `其它`: 48.6% (2018 est.)
 
 ### 灌溉土地
 0 sq km (2022)
@@ -76,13 +76,13 @@ a Y-shaped chain of four main islands and 80 smaller islands; several of the isl
 ## 人民和社會
 
 ### 人口
-- `total`: 318,007
-- `male`: 157,932
-- `female`: 160,075 (2024 est.)
+- `總計`: 318,007
+- `男性`: 157,932
+- `女性`: 160,075 (2024 est.)
 
 ### 國籍
-- `noun`: Ni-Vanuatu (singular and plural)
-- `adjective`: Ni-Vanuatu
+- `名詞`: Ni-Vanuatu (singular and plural)
+- `形容詞`: Ni-Vanuatu
 
 ### 族裔群體
 Ni-Vanuatu 99%, other 1% (European, Asian, other Melanesian, Polynesian, Micronesian, other) (2020 est.)
@@ -95,20 +95,20 @@ indigenous languages (more than 100) 82.6%, Bislama (official; creole) 14.5%, En
 Protestant 39.9% (Presbyterian 27.2%, Seventh Day Adventist 14.8%, Anglican 12%, Churches of Christ 5%, Assemblies of God 4.9%, Neil Thomas Ministry/Inner Life Ministry 3.2%), Roman Catholic 12.1%, Apostolic 2.3%, Church of Jesus Christ 1.8%, customary beliefs (including Jon Frum cargo cult) 3.1%, other 12%, none 1.4%, unspecified 0.1% (2020 est.)
 
 ### 年齡結構
-- `0-14 years`: 31.1% (male 50,584/female 48,475)
-- `15-64 years`: 63.8% (male 99,496/female 103,425)
-- `65 years and over`: 5% (2024 est.) (male 7,852/female 8,175)
+- `0-14歲`: 31.1% (male 50,584/female 48,475)
+- `15-64歲`: 63.8% (male 99,496/female 103,425)
+- `65歲及以上`: 5% (2024 est.) (male 7,852/female 8,175)
 
 ### 撫養比率
-- `total dependency ratio`: 76.5
-- `youth dependency ratio`: 69.9
-- `elderly dependency ratio`: 12.3
-- `potential support ratio`: 15.2 (2021 est.)
+- `總受扶養人比率`: 76.5
+- `少年撫養比率`: 69.9
+- `老人撫養比率`: 12.3
+- `潛在支持率`: 15.2 (2021 est.)
 
 ### 年齡中位數
-- `total`: 24.6 years (2024 est.)
-- `male`: 24.1 years
-- `female`: 25 years
+- `總計`: 24.6 years (2024 est.)
+- `男性`: 24.1 years
+- `女性`: 25 years
 
 ### 人口成長率
 1.55% (2024 est.)
@@ -126,31 +126,31 @@ Protestant 39.9% (Presbyterian 27.2%, Seventh Day Adventist 14.8%, Anglican 12%,
 three-quarters of the population lives in rural areas; the urban populace lives primarily in two cities, Port-Vila and Lugenville; three largest islands - Espiritu Santo, Malakula, and Efate - accomodate over half of the populace
 
 ### 都市化
-- `urban population`: 26% of total population (2023)
-- `rate of urbanization`: 2.55% annual rate of change (2020-25 est.)
+- `城市人口`: 26% of total population (2023)
+- `城鎮化率`: 2.55% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 53,000 PORT-VILA (capital) (2018)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.04 male(s)/female
-- `15-64 years`: 0.96 male(s)/female
-- `65 years and over`: 0.96 male(s)/female
-- `total population`: 0.99 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.04 male(s)/female
+- `15-64歲`: 0.96 male(s)/female
+- `65歲及以上`: 0.96 male(s)/female
+- `總人口數`: 0.99 male(s)/female (2024 est.)
 
 ### 產婦死亡率
 94 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 13.7 deaths/1,000 live births (2024 est.)
-- `male`: 15 deaths/1,000 live births
-- `female`: 12.3 deaths/1,000 live births
+- `總計`: 13.7 deaths/1,000 live births (2024 est.)
+- `男性`: 15 deaths/1,000 live births
+- `女性`: 12.3 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 75.7 years (2024 est.)
-- `male`: 74 years
-- `female`: 77.4 years
+- `總人口數`: 75.7 years (2024 est.)
+- `男性`: 74 years
+- `女性`: 77.4 years
 
 ### 總生育率
 2.53 children born/woman (2024 est.)
@@ -162,12 +162,12 @@ three-quarters of the population lives in rural areas; the urban populace lives 
 49% (2013)
 
 ### 飲用水來源
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 89.7% of population
-- `improved: total`: total: 92.3% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 10.3% of population
-- `unimproved: total`: total: 7.7% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 89.7% of population
+- `已改進－總計`: total: 92.3% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 10.3% of population
+- `未改善：總計`: total: 7.7% of population (2020 est.)
 
 ### 當前醫療支出
 4% of GDP (2020)
@@ -176,27 +176,27 @@ three-quarters of the population lives in rural areas; the urban populace lives 
 0.17 physicians/1,000 population (2016)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 91.1% of population
-- `improved: rural`: rural: 60.4% of population
-- `improved: total`: total: 68.2% of population
-- `unimproved: urban`: urban: 8.9% of population
-- `unimproved: rural`: rural: 39.6% of population
-- `unimproved: total`: total: 31.8% of population (2020 est.)
+- `已改進－城市`: urban: 91.1% of population
+- `已改進－農村`: rural: 60.4% of population
+- `已改進－總計`: total: 68.2% of population
+- `未改進：都市`: urban: 8.9% of population
+- `未改進：鄉村`: rural: 39.6% of population
+- `未改善：總計`: total: 31.8% of population (2020 est.)
 
 ### 肥胖—成人流行率
 25.2% (2016)
 
 ### 人均酒精消費量
-- `total`: 1.6 liters of pure alcohol (2019 est.)
-- `beer`: 0.34 liters of pure alcohol (2019 est.)
-- `wine`: 0.39 liters of pure alcohol (2019 est.)
-- `spirits`: 0.87 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 1.6 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.34 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.39 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.87 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 17.8% (2020 est.)
-- `male`: 33% (2020 est.)
-- `female`: 2.6% (2020 est.)
+- `總計`: 17.8% (2020 est.)
+- `男性`: 33% (2020 est.)
+- `女性`: 2.6% (2020 est.)
 
 ### 5歲以下體重不足兒童
 11.7% (2013)
@@ -208,10 +208,10 @@ three-quarters of the population lives in rural areas; the urban populace lives 
 2.2% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 89.1%
-- `male`: 89.8%
-- `female`: 88.4% (2021)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 89.1%
+- `男性`: 89.8%
+- `女性`: 88.4% (2021)
 
 ## 環境
 
@@ -219,23 +219,23 @@ three-quarters of the population lives in rural areas; the urban populace lives 
 population growth; water pollution, most of the population does not have access to a reliable supply of potable water; inadequate sanitation; deforestation
 
 ### 環境—國際協定
-- `party to`: Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Wetlands
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Wetlands
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 tropical; moderated by southeast trade winds from May to October; moderate rainfall from November to April; may be affected by cyclones from December to April
 
 ### 土地利用
-- `agricultural land`: 15.3% (2018 est.)
-- `agricultural land: arable land`: arable land: 1.6% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 10.3% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 3.4% (2018 est.)
-- `forest`: 36.1% (2018 est.)
-- `other`: 48.6% (2018 est.)
+- `農地`: 15.3% (2018 est.)
+- `農地：耕地`: arable land: 1.6% (2018 est.)
+- `農地：永久性作物`: permanent crops: 10.3% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 3.4% (2018 est.)
+- `森林`: 36.1% (2018 est.)
+- `其它`: 48.6% (2018 est.)
 
 ### 都市化
-- `urban population`: 26% of total population (2023)
-- `rate of urbanization`: 2.55% annual rate of change (2020-25 est.)
+- `城市人口`: 26% of total population (2023)
+- `城鎮化率`: 2.55% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.54% of GDP (2018 est.)
@@ -244,14 +244,14 @@ tropical; moderated by southeast trade winds from May to October; moderate rainf
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 8.42 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 0.15 megatons (2016 est.)
-- `methane emissions`: 0.5 megatons (2020 est.)
+- `顆粒物排放量`: 8.42 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 0.15 megatons (2016 est.)
+- `甲烷排放量`: 0.5 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 70,225 tons (2012 est.)
-- `municipal solid waste recycled annually`: 25,983 tons (2013 est.)
-- `percent of municipal solid waste recycled`: 37% (2013 est.)
+- `城市固體廢棄物－每年產生`: 70,225 tons (2012 est.)
+- `城市固體廢棄物－每年回收`: 25,983 tons (2013 est.)
+- `城市固體廢棄物－回收百分比`: 37% (2013 est.)
 
 ### 可再生水資源總量
 10 billion cubic meters (2020 est.)
@@ -259,21 +259,21 @@ tropical; moderated by southeast trade winds from May to October; moderate rainf
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Vanuatu
-- `conventional short form`: Vanuatu
-- `local long form`: Ripablik blong Vanuatu
-- `local short form`: Vanuatu
-- `former`: New Hebrides
-- `etymology`: derived from the words "vanua" (home or land) and "tu" (stand) that occur in several of the Austonesian languages spoken on the islands and which provide a meaning of "the land remains" but which also convey a sense of "independence" or "our land"
+- `常用長名`: Republic of Vanuatu
+- `常用短名`: Vanuatu
+- `當地語長名`: Ripablik blong Vanuatu
+- `當地語短名`: Vanuatu
+- `前任`: New Hebrides
+- `语源学`: derived from the words "vanua" (home or land) and "tu" (stand) that occur in several of the Austonesian languages spoken on the islands and which provide a meaning of "the land remains" but which also convey a sense of "independence" or "our land"
 
 ### 政府類型
 parliamentary republic
 
 ### 首都
-- `name`: Port-Vila (on Efate)
-- `geographic coordinates`: 17 44 S, 168 19 E
-- `time difference`: UTC+11 (16 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: there are two possibilities for the origin of the name: early European settlers were Portuguese and "vila" means "village or town" in Portuguese, hence "Port-Vila" would mean "Port Town"; alternatively, the site of the capital is referred to as "Efil" or "Ifira" in native languages, "Vila" is a likely corruption of these names
+- `名稱`: Port-Vila (on Efate)
+- `地理坐標`: 17 44 S, 168 19 E
+- `時差`: UTC+11 (16 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: there are two possibilities for the origin of the name: early European settlers were Portuguese and "vila" means "village or town" in Portuguese, hence "Port-Vila" would mean "Port Town"; alternatively, the site of the capital is referred to as "Efil" or "Ifira" in native languages, "Vila" is a likely corruption of these names
 
 ### 行政區劃
 6 provinces; Malampa, Penama, Sanma, Shefa, Tafea, Torba
@@ -288,38 +288,38 @@ Independence Day, 30 July (1980)
 mixed legal system of English common law, French law, and customary law
 
 ### 憲法
-- `history`: draft completed August 1979, finalized by constitution conference 19 September 1979, ratified by French and British Governments 23 October 1979, effective 30 July 1980 at independence
-- `amendments`: proposed by the prime minister or by the Parliament membership; passage requires at least two-thirds majority vote by Parliament in special session with at least three fourths of the membership; passage of amendments affecting the national and official languages, or the electoral and parliamentary system also requires approval in a referendum; amended several times, last in 2013
+- `歷史`: draft completed August 1979, finalized by constitution conference 19 September 1979, ratified by French and British Governments 23 October 1979, effective 30 July 1980 at independence
+- `修正`: proposed by the prime minister or by the Parliament membership; passage requires at least two-thirds majority vote by Parliament in special session with at least three fourths of the membership; passage of amendments affecting the national and official languages, or the electoral and parliamentary system also requires approval in a referendum; amended several times, last in 2013
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: both parents must be citizens of Vanuatu; in the case of only one parent, it must be the father who is a citizen
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 10 years
+- `出生公民權`: no
+- `血統公民身份`: both parents must be citizens of Vanuatu; in the case of only one parent, it must be the father who is a citizen
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 10 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Nikenike VUROBARAVU (since 23 July 2022)
-- `head of government`: Prime Minister Charlot SALWAI (since 6 October 2023)
-- `cabinet`: Council of Ministers appointed by the prime minister, responsible to Parliament
-- `elections/appointments`: president indirectly elected by an electoral college consisting of Parliament and presidents of the 6 provinces; Vanuatu president serves a 5-year term; election last held on 23 July 2022 (next to be held in 2027); following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by Parliament from among its members; election for prime minister last held on 20 April 2020 (next to be held following general elections in 2024)
-- `election results`: *2022:* Nikenike VUROBARAVU elected president in eighth round; electoral college vote - Nikenike VUROBARAVU (VP) 48 votes, Solas MOLISA (VP) 4 votes; note - Charlot SALWAI (RMC) elected prime minister on 6 October 2023, 29 votes for, 0 against; Prime Minister Sato KILMAN lost no-confidence vote on 6 October 2023, requiring a new election
+- `國家元首`: President Nikenike VUROBARAVU (since 23 July 2022)
+- `政府首腦`: Prime Minister Charlot SALWAI (since 6 October 2023)
+- `内閣`: Council of Ministers appointed by the prime minister, responsible to Parliament
+- `選舉/任命`: president indirectly elected by an electoral college consisting of Parliament and presidents of the 6 provinces; Vanuatu president serves a 5-year term; election last held on 23 July 2022 (next to be held in 2027); following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by Parliament from among its members; election for prime minister last held on 20 April 2020 (next to be held following general elections in 2024)
+- `選舉結果`: *2022:* Nikenike VUROBARAVU elected president in eighth round; electoral college vote - Nikenike VUROBARAVU (VP) 48 votes, Solas MOLISA (VP) 4 votes; note - Charlot SALWAI (RMC) elected prime minister on 6 October 2023, 29 votes for, 0 against; Prime Minister Sato KILMAN lost no-confidence vote on 6 October 2023, requiring a new election
 **note**:  the National Council of Chiefs (Malvatu Mauri) is a formal advisory body of chiefs recognized by the country's constitution; it advises the government on matters of culture and language
 
 ### 立法部門
-- `description`: unicameral Parliament (52 seats; members directly elected in 8 single-seat and 9 multi-seat constituencies by single non-transferable vote to serve 4-year terms (candidates in multi-seat constituencies can be elected with only 4% of the vote)
-- `elections`: last held on 13 October 2022 (next to be held in 2026)
-- `election results`: percent of vote by party - NA; seats by party - UMP 7, VP 7, LPV 5, RMC 5, GJP 4, NUP 4, RDP 4, IG 3, PPP 2, NCM 2, VNDP 2, LM 1, NAG 1, PUDP 1, UCM 1, VLM 1, VPDP 1, independent 1; composition - men 50, women 1, percentage women 2%; note - political party associations are fluid
+- `描述`: unicameral Parliament (52 seats; members directly elected in 8 single-seat and 9 multi-seat constituencies by single non-transferable vote to serve 4-year terms (candidates in multi-seat constituencies can be elected with only 4% of the vote)
+- `選舉`: last held on 13 October 2022 (next to be held in 2026)
+- `選舉結果`: percent of vote by party - NA; seats by party - UMP 7, VP 7, LPV 5, RMC 5, GJP 4, NUP 4, RDP 4, IG 3, PPP 2, NCM 2, VNDP 2, LM 1, NAG 1, PUDP 1, UCM 1, VLM 1, VPDP 1, independent 1; composition - men 50, women 1, percentage women 2%; note - political party associations are fluid
 
 ### 司法部門
-- `highest court(s)`: Court of Appeal (consists of 2 or more judges of the Supreme Court designated by the chief justice); Supreme Court (consists of the chief justice and 6 puisne judges - 3 local and 3 expatriate)
-- `judge selection and term of office`: Supreme Court chief justice appointed by the president after consultation with the prime minister and the leader of the opposition; other judges appointed by the president on the advice of the Judicial Service Commission, a 4-member advisory body; judges serve until the age of retirement
-- `subordinate courts`: Magistrates Courts; Island Courts
+- `最高法院`: Court of Appeal (consists of 2 or more judges of the Supreme Court designated by the chief justice); Supreme Court (consists of the chief justice and 6 puisne judges - 3 local and 3 expatriate)
+- `法官遴選和任期`: Supreme Court chief justice appointed by the president after consultation with the prime minister and the leader of the opposition; other judges appointed by the president on the advice of the Judicial Service Commission, a 4-member advisory body; judges serve until the age of retirement
+- `下級法院`: Magistrates Courts; Island Courts
 
 ### 政黨
 Iauko Group (Eagle Party) or IG Laverwo Movement or LM Land and Justice Party (Graon mo Jastis Pati or GJP) Leaders Party of Vanuatu or LVP Nagriamel Movement or NAG National United Party or NUP Nagwasoanda Custom Movement or NCM People's Progressive Party or PPP People Unity Development Party or PUDP Rural Development Party or RDP Reunification of Movement for Change or RMC Union of Moderate Parties or UMPUnity for Change Movement or UCM Vanua'aku Pati (Our Land Party) or VP Vanuatu Liberal Movement or VLM Vanuatu National Development Party or VNDP Vanuatu Progressive Development Party or VPDP 
@@ -328,16 +328,16 @@ Iauko Group (Eagle Party) or IG Laverwo Movement or LM Land and Justice Party 
 ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IMSO, IOC, IOM, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIF, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Odo TEVI (since 8 September 2017)note - also Permanent Representative to the UN
-- `chancery`: 800 Second Avenue, Suite 400B, New York, NY 10017
-- `telephone`: [1] (212) 661-4303
+- `外交代表負責人`: Ambassador Odo TEVI (since 8 September 2017)note - also Permanent Representative to the UN
+- `衡平法院（在美國）`: 800 Second Avenue, Suite 400B, New York, NY 10017
+- `電話號碼`: [1] (212) 661-4303
 - `FAX`: [1] (212) 422-3427
-- `email address and website`: vanunmis@aol.com  https://www.un.int/vanuatu/
+- `電子郵件地址和網站`: vanunmis@aol.com  https://www.un.int/vanuatu/
 note - the Vanuatu Permanent Mission to the UN serves as the embassy
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Ann Marie YASTISHOCK (since 16 April 2024); note - also accredited to the Papua New Guinea and the Solomon Islands, based in Port Moresby, Papua New Guinea
-- `embassy`: Port Vila
+- `外交代表負責人`: Ambassador Ann Marie YASTISHOCK (since 16 April 2024); note - also accredited to the Papua New Guinea and the Solomon Islands, based in Port Moresby, Papua New Guinea
+- `大使館`: Port Vila
 
 ### 旗幟說明
 two equal horizontal bands of red (top) and green with a black isosceles triangle (based on the hoist side) all separated by a black-edged yellow stripe in the shape of a horizontal Y (the two points of the Y face the hoist side and enclose the triangle); centered in the triangle is a boar's tusk encircling two crossed namele fern fronds, all in yellow; red represents the blood of boars and men, as well as unity, green the richness of the islands, and black the ni-Vanuatu people; the yellow Y-shape - which reflects the pattern of the islands in the Pacific Ocean - symbolizes the light of the Gospel spreading through the islands; the boar's tusk is a symbol of prosperity frequently worn as a pendant on the islands; the fern fronds represent peace
@@ -347,8 +347,8 @@ two equal horizontal bands of red (top) and green with a black isosceles triangl
 boar's tusk with crossed fern fronds; national colors: red, black, green, yellow
 
 ### 國歌
-- `name`: "Yumi, Yumi, Yumi" (We, We, We)
-- `lyrics/music`: Francois Vincent AYSSAV
+- `名稱`: "Yumi, Yumi, Yumi" (We, We, We)
+- `歌詞／音樂`: Francois Vincent AYSSAV
 **note**:  adopted 1980; the anthem is written in Bislama, a Creole language that mixes Pidgin English and French
 
 ### 國家級遺產
@@ -389,18 +389,18 @@ $1.126 billion (2023 est.)
 **note**: annual % change based on consumer prices
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 21.2% (2018 est.)
-- `industry`: 10% (2018 est.)
-- `services`: 59.8% (2018 est.)
+- `農業`: 21.2% (2018 est.)
+- `產業`: 10% (2018 est.)
+- `服務`: 59.8% (2018 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 55.5% (2019 est.)
-- `government consumption`: 20.6% (2019 est.)
-- `investment in fixed capital`: 55.5% (2022 est.)
-- `investment in inventories`: 0.6% (2022 est.)
-- `exports of goods and services`: 15.3% (2022 est.)
-- `imports of goods and services`: -55.5% (2022 est.)
+- `家庭消費`: 55.5% (2019 est.)
+- `政府消費`: 20.6% (2019 est.)
+- `固定資本投資`: 55.5% (2022 est.)
+- `存貨投資`: 0.6% (2022 est.)
+- `商品和服務出口`: 15.3% (2022 est.)
+- `商品和服務進口`: -55.5% (2022 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -425,9 +425,9 @@ food and fish freezing, wood processing, meat canning
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 10.7% (2023 est.)
-- `male`: 8.9% (2023 est.)
-- `female`: 13% (2023 est.)
+- `總計`: 10.7% (2023 est.)
+- `男性`: 8.9% (2023 est.)
+- `女性`: 13% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -439,8 +439,8 @@ food and fish freezing, wood processing, meat canning
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 3% (2019 est.)
-- `highest 10%`: 24.7% (2019 est.)
+- `最低10%`: 3% (2019 est.)
+- `最高10%`: 24.7% (2019 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -450,8 +450,8 @@ food and fish freezing, wood processing, meat canning
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $415.063 million (2021 est.)
-- `expenditures`: $325.587 million (2021 est.)
+- `收入`: $415.063 million (2021 est.)
+- `支出`: $325.587 million (2021 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -516,27 +516,27 @@ $295.759 million (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 70% (2022 est.)
-- `electrification - urban areas`: 97%
-- `electrification - rural areas`: 60.7%
+- `電氣化－總人口`: 70% (2022 est.)
+- `電氣化－城市地區`: 97%
+- `電氣化－農村地區`: 60.7%
 
 ### 電力
-- `installed generating capacity`: 38,000 kW (2022 est.)
-- `consumption`: 68.092 million kWh (2022 est.)
-- `transmission/distribution losses`: 5.198 million kWh (2022 est.)
+- `裝機容量`: 38,000 kW (2022 est.)
+- `消費`: 68.092 million kWh (2022 est.)
+- `傳輸／分配損耗`: 5.198 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 81.8% of total installed capacity (2022 est.)
-- `solar`: 11.5% of total installed capacity (2022 est.)
-- `wind`: 6.5% of total installed capacity (2022 est.)
-- `biomass and waste`: 0.1% of total installed capacity (2022 est.)
+- `石化燃料`: 81.8% of total installed capacity (2022 est.)
+- `太陽能`: 11.5% of total installed capacity (2022 est.)
+- `風能`: 6.5% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 0.1% of total installed capacity (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 2,000 bbl/day (2022 est.)
+- `成品油消費量`: 2,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 248,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 248,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 248,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 248,000 metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 10.775 million Btu/person (2022 est.)
@@ -544,17 +544,17 @@ $295.759 million (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 3,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 1 (2022 est.)
+- `總訂閱數`: 3,000 (2022 est.)
+- `每100名居民訂閱數`: 1 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 256,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 78 (2022 est.)
+- `總訂閱數`: 256,000 (2022 est.)
+- `每100名居民訂閱數`: 78 (2022 est.)
 
 ### 電信系統
-- `general assessment`: for many years, 2G Global System for Mobile Communications was the primary mobile technology for Vanuatu’s 300,000 people; recent infrastructure projects have improved access technologies, with a transition to 3G and 4G; Vanuatu has also benefited from the ICN1 submarine cable and the launch of the Kacific-1 satellite, both of which have considerably improved access to telecom services in recent years; Vanuatu’s telecom sector is liberalized, with the two prominent mobile operators; while fixed broadband penetration remains low, the incumbent operator is slowly exchanging copper fixed-lines for fiber; a number of ongoing submarine cable developments will also assist in increasing data rates and reduce internet pricing in coming years (2023)
-- `domestic`: fixed-line teledensity is 1 per 100 and mobile-cellular 78 per 100 (2021)
-- `international`: country code - 678; landing points for the ICN1 & ICN2 submarine cables providing connectivity to the Solomon Islands and Fiji; cables helped end-users with Internet bandwidth; satellite earth station - 1 Intelsat (Pacific Ocean) (2020)
+- `總體評估`: for many years, 2G Global System for Mobile Communications was the primary mobile technology for Vanuatu’s 300,000 people; recent infrastructure projects have improved access technologies, with a transition to 3G and 4G; Vanuatu has also benefited from the ICN1 submarine cable and the launch of the Kacific-1 satellite, both of which have considerably improved access to telecom services in recent years; Vanuatu’s telecom sector is liberalized, with the two prominent mobile operators; while fixed broadband penetration remains low, the incumbent operator is slowly exchanging copper fixed-lines for fiber; a number of ongoing submarine cable developments will also assist in increasing data rates and reduce internet pricing in coming years (2023)
+- `國內`: fixed-line teledensity is 1 per 100 and mobile-cellular 78 per 100 (2021)
+- `國際的`: country code - 678; landing points for the ICN1 & ICN2 submarine cables providing connectivity to the Solomon Islands and Fiji; cables helped end-users with Internet bandwidth; satellite earth station - 1 Intelsat (Pacific Ocean) (2020)
 
 ### 廣播媒體
 1 state-owned TV station; multi-channel pay TV is available; state-owned Radio Vanuatu operates 2 radio stations; 2 privately owned radio broadcasters (Capital FM 107 and Laef FM); programming from multiple international broadcasters is available (2023)
@@ -563,20 +563,20 @@ $295.759 million (2022 est.)
 .vu
 
 ### 網際網路使用者
-- `total`: 211,200 (2021 est.)
-- `percent of population`: 66% (2021 est.)
+- `總計`: 211,200 (2021 est.)
+- `佔人口比例`: 66% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 2,785 (2020 est.)
-- `subscriptions per 100 inhabitants`: 1 (2020 est.)
+- `總計`: 2,785 (2020 est.)
+- `每100名居民訂閱數`: 1 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 1 (2020)
-- `inventory of registered aircraft operated by air carriers`: 8
-- `annual passenger traffic on registered air carriers`: 374,603 (2018)
-- `annual freight traffic on registered air carriers`: 1.66 million (2018) mt-km
+- `註冊航空公司數量`: 1 (2020)
+- `註冊飛機庫存—航空承運商經營`: 8
+- `年度客運量－註冊航空公司`: 374,603 (2018)
+- `年度貨運量－註冊航空公司`: 1.66 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 YJ
@@ -585,20 +585,20 @@ YJ
 31 (2024)
 
 ### 道路
-- `total`: 2,958 km (2023)
+- `總計`: 2,958 km (2023)
 
 ### 商船
-- `total`: 338 (2023)
-- `by type`: bulk carrier 11, container ship 3, general cargo 101, other 223
+- `總計`: 338 (2023)
+- `依類型`: bulk carrier 11, container ship 3, general cargo 101, other 223
 
 ### 港口
-- `total ports`: 3 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 1
-- `very small`: 2
-- `ports with oil terminals`: 2
-- `key ports`: Forari Bay, Luganville, Port Vila
+- `總港口數`: 3 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 1
+- `非常小`: 2
+- `原油碼頭港口`: 2
+- `主要港口`: Forari Bay, Luganville, Port Vila
 
 ## 軍事和安全
 
@@ -612,5 +612,5 @@ the separate British and French police forces were unified in 1980 as the New He
 ## 跨國議題
 
 ### 人口販運
-- `tier rating`: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Vanuatu remained on Tier 2 Watch List for the second consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/vanuatu/
+- `會級評分`: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Vanuatu remained on Tier 2 Watch List for the second consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/vanuatu/
 

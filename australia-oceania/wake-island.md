@@ -19,22 +19,22 @@ Oceania, atoll in the North Pacific Ocean, about two-thirds of the way from Hawa
 Oceania
 
 ### 面積
-- `total `: 7 sq km
-- `land`: 6.5 sq km
-- `water`: 0 sq km
+- `總計`: 7 sq km
+- `土地`: 6.5 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 about 11 times the size of the National Mall in Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 19.3 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive economic zone`: 200 nm
+- `領海`: 12 nm
+- `專屬經濟區`: 200 nm
 
 ### 氣候
 tropical
@@ -43,15 +43,15 @@ tropical
 atoll of three low coral islands, Peale, Wake, and Wilkes, built up on an underwater volcano; central lagoon is former crater, islands are part of the rim
 
 ### 海拔
-- `highest point`: unnamed location 8 m
-- `lowest point`: Pacific Ocean 0 m
+- `最高點`: unnamed location 8 m
+- `最低點`: Pacific Ocean 0 m
 
 ### 自然資源
 none
 
 ### 土地利用
-- `agricultural land`: 0% (2018 est.)
-- `other`: 100% (2018 est.)
+- `農地`: 0% (2018 est.)
+- `其它`: 100% (2018 est.)
 
 ### 灌溉土地
 0 sq km (2022)
@@ -65,7 +65,7 @@ strategic location in the North Pacific Ocean; emergency landing location for tr
 ## 人民和社會
 
 ### 人口
-- `total`: (2018 est.) no indigenous inhabitants
+- `總計`: (2018 est.) no indigenous inhabitants
 **note**:  approximately 100 military personnel and civilian contractors maintain and operate the airfield and communications facilities
 
 ## 環境
@@ -77,15 +77,15 @@ potable water obtained through a catchment rainwater system and a desalinization
 tropical
 
 ### 土地利用
-- `agricultural land`: 0% (2018 est.)
-- `other`: 100% (2018 est.)
+- `農地`: 0% (2018 est.)
+- `其它`: 100% (2018 est.)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Wake Island
-- `etymology`: although first discovered by British Captain William WAKE in 1792, the island is named after British Captain Samuel WAKE, who rediscovered the island in 1796
+- `常用長名`: none
+- `常用短名`: Wake Island
+- `语源学`: although first discovered by British Captain William WAKE in 1792, the island is named after British Captain Samuel WAKE, who rediscovered the island in 1796
 
 ### 附屬狀況
 unincorporated unorganized territory of the US; administered from Washington, DC, by the Department of the Interior; activities in the atoll are currently conducted by the 11th US Air Force and managed from Pacific Air Force Support Center
@@ -107,19 +107,19 @@ the flag of the US is used
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2021)
+- `電氣化－總人口`: 100% (2021)
 
 ### 石油
-- `refined petroleum consumption`: 8,000 bbl/day (2022 est.)
+- `成品油消費量`: 8,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 1.221 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 1.221 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 1.221 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 1.221 million metric tonnes of CO2 (2022 est.)
 
 ## 通訊
 
 ### 電信系統
-- `general assessment`: satellite communications; 2 Defense Switched Network circuits off the Overseas Telephone System (OTS); located in the Hawaii area code - 808 (2018) (2018)
+- `總體評估`: satellite communications; 2 Defense Switched Network circuits off the Overseas Telephone System (OTS); located in the Hawaii area code - 808 (2018) (2018)
 
 ### 廣播媒體
 American Armed Forces Radio and Television Service (AFRTS) provides satellite radio/TV broadcasts (2018)
@@ -130,13 +130,13 @@ American Armed Forces Radio and Television Service (AFRTS) provides satellite ra
 1 (2024)
 
 ### 港口
-- `total ports`: 1 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 0
-- `very small`: 1
-- `ports with oil terminals`: 1
-- `key ports`: Wake Island
+- `總港口數`: 1 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 0
+- `非常小`: 1
+- `原油碼頭港口`: 1
+- `主要港口`: Wake Island
 
 ### 運輸—註釋
 there are no commercial or civilian flights to and from Wake Island, except in direct support of island missions; emergency landing is available

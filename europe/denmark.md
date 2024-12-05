@@ -19,26 +19,26 @@ Northern Europe, bordering the Baltic Sea and the North Sea, on a peninsula nort
 Europe
 
 ### 面積
-- `total `: 43,094 sq km
-- `land`: 42,434 sq km
-- `water`: 660 sq km
+- `總計`: 43,094 sq km
+- `土地`: 42,434 sq km
+- `水`: 660 sq km
 **note**:  includes the island of Bornholm in the Baltic Sea and the rest of metropolitan Denmark (the Jutland Peninsula, and the major islands of Sjaelland and Fyn) but excludes the Faroe Islands and Greenland
 
 ### 面積—比較
 slightly less than twice the size of Massachusetts; about two-thirds the size of West Virginia
 
 ### 陸地邊界
-- `total`: 141 km
-- `border countries`: Germany 140 km; Canada 1.3 km
+- `總計`: 141 km
+- `邊境國家`: Germany 140 km; Canada 1.3 km
 
 ### 海岸線
 7,314 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: 200-m depth or to the depth of exploitation
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: 200-m depth or to the depth of exploitation
 
 ### 氣候
 temperate; humid and overcast; mild, windy winters and cool summers
@@ -47,20 +47,20 @@ temperate; humid and overcast; mild, windy winters and cool summers
 low and flat to gently rolling plains
 
 ### 海拔
-- `highest point`: Store Mollehoj 171 m
-- `lowest point`: Lammefjord -7 m
-- `mean elevation`: 34 m
+- `最高點`: Store Mollehoj 171 m
+- `最低點`: Lammefjord -7 m
+- `平均海拔`: 34 m
 
 ### 自然資源
 petroleum, natural gas, fish, arable land, salt, limestone, chalk, stone, gravel and sand
 
 ### 土地利用
-- `agricultural land`: 63.4% (2018 est.)
-- `agricultural land: arable land`: arable land: 58.9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.1% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 4.4% (2018 est.)
-- `forest`: 12.9% (2018 est.)
-- `other`: 23.7% (2018 est.)
+- `農地`: 63.4% (2018 est.)
+- `農地：耕地`: arable land: 58.9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.1% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 4.4% (2018 est.)
+- `森林`: 12.9% (2018 est.)
+- `其它`: 23.7% (2018 est.)
 
 ### 灌溉土地
 2,360 sq km (2020)
@@ -77,13 +77,13 @@ composed of the Jutland Peninsula and a group of more than 400 islands (Danish A
 ## 人民和社會
 
 ### 人口
-- `total`: 5,973,136
-- `male`: 2,975,261
-- `female`: 2,997,875 (2024 est.)
+- `總計`: 5,973,136
+- `男性`: 2,975,261
+- `女性`: 2,997,875 (2024 est.)
 
 ### 國籍
-- `noun`: Dane(s)
-- `adjective`: Danish
+- `名詞`: Dane(s)
+- `形容詞`: Danish
 
 ### 族裔群體
 Danish (includes Greenlandic (who are predominantly Inuit) and Faroese) 84.2%, Turkish 1.1%, other 14.7% (largest groups are Polish, Romanian, Syrian, Ukrainian, German, and Iraqi) (2023 est.)
@@ -91,7 +91,7 @@ Danish (includes Greenlandic (who are predominantly Inuit) and Faroese) 84.2%, T
 
 ### 語文
 Danish, Faroese, Greenlandic (an Inuit dialect), German (small minority); note - English is the predominant second language
-- `major-language sample(s)`: Verdens Faktabog, den uundværlig kilde til grundlæggende oplysninger. (Danish)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: Verdens Faktabog, den uundværlig kilde til grundlæggende oplysninger. (Danish)  The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Evangelical Lutheran (official) 71.4%, Muslim 4.3%, other/none/unspecified (denominations include Roman Catholic, Jehovah's Witness, Serbian Orthodox Christian, Jewish, Baptist, Buddhist, Church of Jesus Christ, Pentecostal, and nondenominational Christian) 24.3% (2024 est.)
@@ -100,20 +100,20 @@ Evangelical Lutheran (official) 71.4%, Muslim 4.3%, other/none/unspecified (deno
 Modern immigration to Denmark began in the 1960s and 1970s, although immigration, primarily from the Nordic countries and Western Europe, has earlier roots.  Dutch migrants came in the 16th century and Germans in the 18th, in both cases to work in agriculture.  Between the late 19th century and World War I, Denmark absorbed unskilled Polish, German, and Swedish labor migrants in significant numbers, sometimes at the request of the Danish Government.  Between the two World Wars, Denmark received many Eastern European, Jewish, and German migrants. It wasn’t until after World War II, that refugees began seeking sanctuary in Demark, including a large number of German refugees and later Hungarians, Czechs, and Polish Jews.  Denmark also imported foreign labor during the 1960s, mainly from Turkey, the former Yugoslavia, and Pakistan.  Although the “guest worker” program was halted in 1973, immigrants continued to arrive to be reunited with family members who were already in Denmark as refugees or as guest workers. Non-European refugees came from Chile, Uganda, and Vietnam.  In the 1990s, Denmark began receiving migrants and refugees from new places, including Russia, Hungary, Bosnia, Iran, Iraq, and Lebanon.  Despite raising more restrictions on immigration, in the 2000s, Denmark continued to receive asylum seekers, particularly from Afghanistan, Iraq, Somalia, and the former Yugoslavia, as well as labor migrants from new EU member states.  In more recent years, Denmark has severely limited its refugee intake, aiming to accept as few refugees outside of the UN resettlement program as possible.  In the mid-2010s, Denmark passed legislation enabling it to withdraw temporary protective status as soon as conditions in the home country, as determined by Denmark, have improved.  This policy has lead Denmark, to deem Damascus and other areas in Syria safe for return, making it the only country in Europe to do so.  Consequently, some Syrian refugees have had their residency status revoked, and they are detained in deportation centers because Denmark does not have diplomatic relations with Syria and, therefore, cannot send them back.  Copenhagen hopes its stricter policies will discourage asylum seekers, particularly those from non-Western countries.
 
 ### 年齡結構
-- `0-14 years`: 16.2% (male 496,793/female 471,018)
-- `15-64 years`: 62.9% (male 1,903,315/female 1,856,615)
-- `65 years and over`: 20.8% (2024 est.) (male 575,153/female 670,242)
+- `0-14歲`: 16.2% (male 496,793/female 471,018)
+- `15-64歲`: 62.9% (male 1,903,315/female 1,856,615)
+- `65歲及以上`: 20.8% (2024 est.) (male 575,153/female 670,242)
 
 ### 撫養比率
-- `total dependency ratio`: 57.3
-- `youth dependency ratio`: 25.4
-- `elderly dependency ratio`: 31.9
-- `potential support ratio`: 3.1 (2021 est.)
+- `總受扶養人比率`: 57.3
+- `少年撫養比率`: 25.4
+- `老人撫養比率`: 31.9
+- `潛在支持率`: 3.1 (2021 est.)
 
 ### 年齡中位數
-- `total`: 42.2 years (2024 est.)
-- `male`: 41 years
-- `female`: 43.4 years
+- `總計`: 42.2 years (2024 est.)
+- `男性`: 41 years
+- `女性`: 43.4 years
 
 ### 人口成長率
 0.44% (2024 est.)
@@ -131,18 +131,18 @@ Modern immigration to Denmark began in the 1960s and 1970s, although immigration
 with excellent access to the North Sea, Skagerrak, Kattegat, and the Baltic Sea, population centers tend to be along coastal areas, particularly in Copenhagen and the eastern side of the country's mainland
 
 ### 都市化
-- `urban population`: 88.5% of total population (2023)
-- `rate of urbanization`: 0.54% annual rate of change (2020-25 est.)
+- `城市人口`: 88.5% of total population (2023)
+- `城鎮化率`: 0.54% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 1.381 million COPENHAGEN (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.07 male(s)/female
-- `0-14 years`: 1.05 male(s)/female
-- `15-64 years`: 1.03 male(s)/female
-- `65 years and over`: 0.86 male(s)/female
-- `total population`: 0.99 male(s)/female (2024 est.)
+- `出生時`: 1.07 male(s)/female
+- `0-14歲`: 1.05 male(s)/female
+- `15-64歲`: 1.03 male(s)/female
+- `65歲及以上`: 0.86 male(s)/female
+- `總人口數`: 0.99 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 29.8 years (2020 est.)
@@ -151,14 +151,14 @@ with excellent access to the North Sea, Skagerrak, Kattegat, and the Baltic Sea,
 5 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 3 deaths/1,000 live births (2024 est.)
-- `male`: 3.4 deaths/1,000 live births
-- `female`: 2.5 deaths/1,000 live births
+- `總計`: 3 deaths/1,000 live births (2024 est.)
+- `男性`: 3.4 deaths/1,000 live births
+- `女性`: 2.5 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 82.1 years (2024 est.)
-- `male`: 80.2 years
-- `female`: 84.1 years
+- `總人口數`: 82.1 years (2024 est.)
+- `男性`: 80.2 years
+- `女性`: 84.1 years
 
 ### 總生育率
 1.77 children born/woman (2024 est.)
@@ -170,12 +170,12 @@ with excellent access to the North Sea, Skagerrak, Kattegat, and the Baltic Sea,
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 當前醫療支出
 10.5% of GDP (2020)
@@ -187,27 +187,27 @@ NA
 2.6 beds/1,000 population (2019)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 肥胖—成人流行率
 19.7% (2016)
 
 ### 人均酒精消費量
-- `total`: 9.16 liters of pure alcohol (2019 est.)
-- `beer`: 3.42 liters of pure alcohol (2019 est.)
-- `wine`: 4.08 liters of pure alcohol (2019 est.)
-- `spirits`: 1.66 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 9.16 liters of pure alcohol (2019 est.)
+- `啤酒`: 3.42 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 4.08 liters of pure alcohol (2019 est.)
+- `烈酒`: 1.66 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 17.5% (2020 est.)
-- `male`: 17.8% (2020 est.)
-- `female`: 17.1% (2020 est.)
+- `總計`: 17.5% (2020 est.)
+- `男性`: 17.8% (2020 est.)
+- `女性`: 17.1% (2020 est.)
 
 ### 5歲以下體重不足兒童
 NA
@@ -216,20 +216,20 @@ NA
 59.6% (2023 est.)
 
 ### 童婚
-- `women married by age 18`: 0.7% (2021 est.)
+- `18歲前結婚的女性`: 0.7% (2021 est.)
 
 ### 教育支出
 6.4% of GDP (2020 est.)
 
 ### 識字程度
-- `total population`: NA
-- `male`: NA
-- `female`: NA
+- `總人口數`: NA
+- `男性`: NA
+- `女性`: NA
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 19 years
-- `male`: 18 years
-- `female`: 19 years (2020)
+- `總計`: 19 years
+- `男性`: 18 years
+- `女性`: 19 years (2020)
 
 ## 環境
 
@@ -237,23 +237,23 @@ NA
 air pollution, principally from vehicle and power plant emissions; nitrogen and phosphorus pollution of the North Sea; drinking and surface water becoming polluted from animal wastes and pesticides; much of country's household and industrial waste is recycled
 
 ### 環境—國際協定
-- `party to`: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
-- `signed, but not ratified`: Antarctic-Environmental Protection
+- `是以下議定書的締約國：`: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
+- `已簽署但未批準`: Antarctic-Environmental Protection
 
 ### 氣候
 temperate; humid and overcast; mild, windy winters and cool summers
 
 ### 土地利用
-- `agricultural land`: 63.4% (2018 est.)
-- `agricultural land: arable land`: arable land: 58.9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.1% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 4.4% (2018 est.)
-- `forest`: 12.9% (2018 est.)
-- `other`: 23.7% (2018 est.)
+- `農地`: 63.4% (2018 est.)
+- `農地：耕地`: arable land: 58.9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.1% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 4.4% (2018 est.)
+- `森林`: 12.9% (2018 est.)
+- `其它`: 23.7% (2018 est.)
 
 ### 都市化
-- `urban population`: 88.5% of total population (2023)
-- `rate of urbanization`: 0.54% annual rate of change (2020-25 est.)
+- `城市人口`: 88.5% of total population (2023)
+- `城鎮化率`: 0.54% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.02% of GDP (2018 est.)
@@ -262,45 +262,45 @@ temperate; humid and overcast; mild, windy winters and cool summers
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 9.66 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 31.79 megatons (2016 est.)
-- `methane emissions`: 6.54 megatons (2020 est.)
+- `顆粒物排放量`: 9.66 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 31.79 megatons (2016 est.)
+- `甲烷排放量`: 6.54 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 4.485 million tons (2015 est.)
-- `municipal solid waste recycled annually`: 1,223,060 tons (2015 est.)
-- `percent of municipal solid waste recycled`: 27.3% (2015 est.)
+- `城市固體廢棄物－每年產生`: 4.485 million tons (2015 est.)
+- `城市固體廢棄物－每年回收`: 1,223,060 tons (2015 est.)
+- `城市固體廢棄物－回收百分比`: 27.3% (2015 est.)
 
 ### 總取水量
-- `municipal`: 400 million cubic meters (2020 est.)
-- `industrial`: 50 million cubic meters (2020 est.)
-- `agricultural`: 530 million cubic meters (2020 est.)
+- `市級`: 400 million cubic meters (2020 est.)
+- `工業`: 50 million cubic meters (2020 est.)
+- `農業`: 530 million cubic meters (2020 est.)
 
 ### 可再生水資源總量
 6 billion cubic meters (2020 est.)
 
 ### 地質公園
-- `total global geoparks and regional networks`: 3 (2024)
-- `global geoparks and regional networks`: Odsherred; South Fyn Archipelago; Vestjylland (2024)
+- `全球地質公園和區域網絡總數`: 3 (2024)
+- `全球地質公園和區域網絡`: Odsherred; South Fyn Archipelago; Vestjylland (2024)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Kingdom of Denmark
-- `conventional short form`: Denmark
-- `local long form`: Kongeriget Danmark
-- `local short form`: Danmark
-- `etymology`: the name derives from the words "Dane(s)" and "mark"; the latter referring to a march (borderland) or forest
+- `常用長名`: Kingdom of Denmark
+- `常用短名`: Denmark
+- `當地語長名`: Kongeriget Danmark
+- `當地語短名`: Danmark
+- `语源学`: the name derives from the words "Dane(s)" and "mark"; the latter referring to a march (borderland) or forest
 
 ### 政府類型
 parliamentary constitutional monarchy
 
 ### 首都
-- `name`: Copenhagen
-- `geographic coordinates`: 55 40 N, 12 35 E
-- `time difference`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
-- `daylight saving time`: +1hr, begins last Sunday in March; ends last Sunday in October; note - applies to continental Denmark only, not to its North Atlantic components
-- `etymology`: name derives from the city's Danish appellation Kobenhavn, meaning "Merchant's Harbor"
+- `名稱`: Copenhagen
+- `地理坐標`: 55 40 N, 12 35 E
+- `時差`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+- `日光節約時間`: +1hr, begins last Sunday in March; ends last Sunday in October; note - applies to continental Denmark only, not to its North Atlantic components
+- `语源学`: name derives from the city's Danish appellation Kobenhavn, meaning "Merchant's Harbor"
 
 ### 行政區劃
 metropolitan Denmark - 5 regions (regioner, singular - region); Hovedstaden (Capital), Midtjylland (Central Jutland), Nordjylland (North Jutland), Sjaelland (Zealand), Syddanmark (Southern Denmark)
@@ -315,37 +315,37 @@ Constitution Day, 5 June (1849); note - closest equivalent to a national holiday
 civil law; judicial review of legislative acts
 
 ### 憲法
-- `history`: several previous; latest adopted 5 June 1953
-- `amendments`: proposed by the Folketing (Parliament) with consent of the government; passage requires approval by the next Folketing following a general election, approval by simple majority vote of at least 40% of voters in a referendum, and assent of the chief of state; changed several times, last in 2009 (Danish Act of Succession)
+- `歷史`: several previous; latest adopted 5 June 1953
+- `修正`: proposed by the Folketing (Parliament) with consent of the government; passage requires approval by the next Folketing following a general election, approval by simple majority vote of at least 40% of voters in a referendum, and assent of the chief of state; changed several times, last in 2009 (Danish Act of Succession)
 
 ### 國際法組織參與
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Denmark
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: 7 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Denmark
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: 7 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: King FREDERIK X (since 14 January 2024) 
-- `head of government`: Prime Minister Mette FREDERIKSEN (since 27 June 2019)
-- `cabinet`: Council of State appointed by the monarch
-- `elections/appointments`: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch
+- `國家元首`: King FREDERIK X (since 14 January 2024) 
+- `政府首腦`: Prime Minister Mette FREDERIKSEN (since 27 June 2019)
+- `内閣`: Council of State appointed by the monarch
+- `選舉/任命`: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch
 **note**: Queen MARGRETHE II abdicated on 14 January 2024, the first Danish monarch to voluntarily abdicate since King ERIC III in 1146
 
 ### 立法部門
-- `description`: unicameral People's Assembly or Folketing (179 seats, including 2 each representing Greenland and the Faroe Islands; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 4-year terms unless the Folketing is dissolved earlier)
-- `elections`: last held on 1 November 2022 (next to be held by 31 October 2026)
-- `election results`: percent of vote by party - SDP 27.5%, V 13.3%, M 9.3%, SF 8.3%, E 8.1%, LA 8.1%, C 5.5%, EL 5.1%, SLP 3.8%, AP 3.3%, NB 3.3%, DF 2.6%; seats by party - SDP 50, V 23, M 16, SF 15, E 14, LA 14, C 10, EL 9, SLP 7, AP 6, NB 6, DF 5; composition - men 98, women 81, percentage women 45.3%
+- `描述`: unicameral People's Assembly or Folketing (179 seats, including 2 each representing Greenland and the Faroe Islands; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 4-year terms unless the Folketing is dissolved earlier)
+- `選舉`: last held on 1 November 2022 (next to be held by 31 October 2026)
+- `選舉結果`: percent of vote by party - SDP 27.5%, V 13.3%, M 9.3%, SF 8.3%, E 8.1%, LA 8.1%, C 5.5%, EL 5.1%, SLP 3.8%, AP 3.3%, NB 3.3%, DF 2.6%; seats by party - SDP 50, V 23, M 16, SF 15, E 14, LA 14, C 10, EL 9, SLP 7, AP 6, NB 6, DF 5; composition - men 98, women 81, percentage women 45.3%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court (consists of the court president and 18 judges)
-- `judge selection and term of office`: judges appointed by the monarch upon the recommendation of the Minister of Justice, with the advice of the Judicial Appointments Council, a 6-member independent body of judges and lawyers; judges appointed for life with retirement at age 70
-- `subordinate courts`: Special Court of Indictment and Revision; 2 High Courts; Maritime and Commercial Court; county courts
+- `最高法院`: Supreme Court (consists of the court president and 18 judges)
+- `法官遴選和任期`: judges appointed by the monarch upon the recommendation of the Minister of Justice, with the advice of the Judicial Appointments Council, a 6-member independent body of judges and lawyers; judges appointed for life with retirement at age 70
+- `下級法院`: Special Court of Indictment and Revision; 2 High Courts; Maritime and Commercial Court; county courts
 
 ### 政黨
 The Alternative or AP Conservative People's Party or DKF or C Danish People's Party or DF or O Denmark Democrats or E Green Left or SF or F (formerly Socialist People's Party or SF or F)Liberal Alliance or LA or I Liberal Party (Venstre) or V Moderates or M New Right Party or NB or D Red-Green Alliance (Unity List) or EL Social Democrats or SDP or A Social Liberal Party or SLP or B 
@@ -354,20 +354,20 @@ The Alternative or AP Conservative People's Party or DKF or C Danish People's 
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOOSA, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Jesper Møller SØRENSEN (since 15 September 2023)
-- `chancery`: 3200 Whitehaven Street NW, Washington, DC 20008
-- `telephone`: [1] (202) 234-4300
+- `外交代表負責人`: Ambassador Jesper Møller SØRENSEN (since 15 September 2023)
+- `衡平法院（在美國）`: 3200 Whitehaven Street NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 234-4300
 - `FAX`: [1] (202) 328-1470
-- `email address and website`: wasamb@um.dk  https://usa.um.dk/en
-- `consulate(s) general`: Chicago, Houston, New York, Silicon Valley (CA)
+- `電子郵件地址和網站`: wasamb@um.dk  https://usa.um.dk/en
+- `總領事館`: Chicago, Houston, New York, Silicon Valley (CA)
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Alan LEVENTHAL (since 1 July 2022)
-- `embassy`: Dag Hammarskjolds Alle 24, 2100 Kobenhavn 0
-- `mailing address`: 5280 Copenhagen Place, Washington DC  20521-5280
-- `telephone`: [45] 33-41-71-00
+- `外交代表負責人`: Ambassador Alan LEVENTHAL (since 1 July 2022)
+- `大使館`: Dag Hammarskjolds Alle 24, 2100 Kobenhavn 0
+- `郵寄地址`: 5280 Copenhagen Place, Washington DC  20521-5280
+- `電話號碼`: [45] 33-41-71-00
 - `FAX`: [45] 35-43-02-23
-- `email address and website`: CopenhagenACS@state.gov  https://dk.usembassy.gov/
+- `電子郵件地址和網站`: CopenhagenACS@state.gov  https://dk.usembassy.gov/
 
 ### 旗幟說明
 red with a white cross that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side; the banner is referred to as the Dannebrog (Danish flag) and is one of the oldest national flags in the world; traditions as to the origin of the flag design vary, but the best known is a legend that the banner fell from the sky during an early-13th century battle; caught up by the Danish king before it ever touched the earth, this heavenly talisman inspired the royal army to victory; in actuality, the flag may derive from a crusade banner or ensign
@@ -377,8 +377,8 @@ red with a white cross that extends to the edges of the flag; the vertical part 
 lion, mute swan; national colors: red, white
 
 ### 國歌
-- `name`: "Der er et yndigt land" (There is a Lovely Country); "Kong Christian" (King Christian)
-- `lyrics/music`: Adam Gottlob OEHLENSCHLAGER/Hans Ernst KROYER; Johannes EWALD/unknown
+- `名稱`: "Der er et yndigt land" (There is a Lovely Country); "Kong Christian" (King Christian)
+- `歌詞／音樂`: Adam Gottlob OEHLENSCHLAGER/Hans Ernst KROYER; Johannes EWALD/unknown
 **note**:  Denmark has two national anthems with equal status; "Der er et yndigt land," adopted 1844, is a national anthem, while "Kong Christian," adopted 1780, serves as both a national and royal anthem; "Kong Christian" is also known as "Kong Christian stod ved hojen mast" (King Christian Stood by the Lofty Mast) and "Kongesangen" (The King's Anthem); within Denmark, the royal anthem is played only when royalty is present and is usually followed by the national anthem; when royalty is not present, only the national anthem is performed; outside Denmark, the royal anthem is played, unless the national anthem is requested
 
 ### 國家級遺產
@@ -425,18 +425,18 @@ $404.199 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 1% (2023 est.)
-- `industry`: 21.5% (2023 est.)
-- `services`: 66.1% (2023 est.)
+- `農業`: 1% (2023 est.)
+- `產業`: 21.5% (2023 est.)
+- `服務`: 66.1% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 45.8% (2023 est.)
-- `government consumption`: 22.6% (2023 est.)
-- `investment in fixed capital`: 21.8% (2023 est.)
-- `investment in inventories`: 0.2% (2023 est.)
-- `exports of goods and services`: 69% (2023 est.)
-- `imports of goods and services`: -59.4% (2023 est.)
+- `家庭消費`: 45.8% (2023 est.)
+- `政府消費`: 22.6% (2023 est.)
+- `固定資本投資`: 21.8% (2023 est.)
+- `存貨投資`: 0.2% (2023 est.)
+- `商品和服務出口`: 69% (2023 est.)
+- `商品和服務進口`: -59.4% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -461,9 +461,9 @@ wind turbines, pharmaceuticals, medical equipment, shipbuilding and refurbishmen
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 11.7% (2023 est.)
-- `male`: 12% (2023 est.)
-- `female`: 11.3% (2023 est.)
+- `總計`: 11.7% (2023 est.)
+- `男性`: 12% (2023 est.)
+- `女性`: 11.3% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -475,12 +475,12 @@ wind turbines, pharmaceuticals, medical equipment, shipbuilding and refurbishmen
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 平均家庭支出
-- `on food`: 11.7% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 4% of household expenditures (2022 est.)
+- `餐食`: 11.7% of household expenditures (2022 est.)
+- `酒精和煙草`: 4% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 3.7% (2021 est.)
-- `highest 10%`: 23.8% (2021 est.)
+- `最低10%`: 3.7% (2021 est.)
+- `最高10%`: 23.8% (2021 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -490,8 +490,8 @@ wind turbines, pharmaceuticals, medical equipment, shipbuilding and refurbishmen
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $145.764 billion (2022 est.)
-- `expenditures`: $130.785 billion (2022 est.)
+- `收入`: $145.764 billion (2022 est.)
+- `支出`: $130.785 billion (2022 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -553,43 +553,43 @@ $82.236 billion (2021 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 19.503 million kW (2022 est.)
-- `consumption`: 33.167 billion kWh (2022 est.)
-- `exports`: 17.392 billion kWh (2022 est.)
-- `imports`: 18.797 billion kWh (2022 est.)
-- `transmission/distribution losses`: 1.965 billion kWh (2022 est.)
+- `裝機容量`: 19.503 million kW (2022 est.)
+- `消費`: 33.167 billion kWh (2022 est.)
+- `出口`: 17.392 billion kWh (2022 est.)
+- `進口`: 18.797 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 1.965 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 11.2% of total installed capacity (2022 est.)
-- `solar`: 6.3% of total installed capacity (2022 est.)
-- `wind`: 56.4% of total installed capacity (2022 est.)
-- `biomass and waste`: 26.1% of total installed capacity (2022 est.)
+- `石化燃料`: 11.2% of total installed capacity (2022 est.)
+- `太陽能`: 6.3% of total installed capacity (2022 est.)
+- `風能`: 56.4% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 26.1% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `consumption`: 1.788 million metric tons (2022 est.)
-- `exports`: 826,000 metric tons (2022 est.)
-- `imports`: 1.89 million metric tons (2022 est.)
+- `消費`: 1.788 million metric tons (2022 est.)
+- `出口`: 826,000 metric tons (2022 est.)
+- `進口`: 1.89 million metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 63,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 152,000 bbl/day (2023 est.)
-- `crude oil estimated reserves`: 441 million barrels (2021 est.)
+- `總石油產量`: 63,000 bbl/day (2023 est.)
+- `成品油消費量`: 152,000 bbl/day (2023 est.)
+- `原油儲備量估值`: 441 million barrels (2021 est.)
 
 ### 天然氣
-- `production`: 1.879 billion cubic meters (2022 est.)
-- `consumption`: 2.208 billion cubic meters (2022 est.)
-- `exports`: 2.041 billion cubic meters (2022 est.)
-- `imports`: 2.582 billion cubic meters (2022 est.)
-- `proven reserves`: 29.534 billion cubic meters (2021 est.)
+- `生產`: 1.879 billion cubic meters (2022 est.)
+- `消費`: 2.208 billion cubic meters (2022 est.)
+- `出口`: 2.041 billion cubic meters (2022 est.)
+- `進口`: 2.582 billion cubic meters (2022 est.)
+- `探明儲量`: 29.534 billion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 30.308 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 3.973 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 21.706 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 4.628 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 30.308 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 3.973 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 21.706 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 4.628 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 100.26 million Btu/person (2022 est.)
@@ -597,17 +597,17 @@ $82.236 billion (2021 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 712,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 12 (2022 est.)
+- `總訂閱數`: 712,000 (2022 est.)
+- `每100名居民訂閱數`: 12 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 7.444 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 127 (2022 est.)
+- `總訂閱數`: 7.444 million (2022 est.)
+- `每100名居民訂閱數`: 127 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Denmark has one of the highest broadband subscription rates globally, with a near universal availability of super-fast connections; extensive cable and DSL infrastructure has been supported by a progressive regulatory regime which has encouraged operator access to both copper and fiber networks; fiber networks have a fast-growing footprint, while a number of community and metropolitan schemes have supplemented their own commitments to build out fiber nationally; a number of wholesale fiber schemes have also added to the wider availability of fiber broadband; the reach of LTE infrastructure is comprehensive, while the Mobile Network Operators by mid-2021 had also provided about 90% population coverage with 5G; services based on 5G were initially launched using trial 3.5GHz licenses; the multi-spectrum auction held in April 2021 has enabled them to improve the resilience and capacity of 5G; all MNOs are engaged in closing down their 3G networks and repurposing spectrum for LTE and 5G use (2021)
-- `domestic`: fixed-line roughly 12 per 100 and about 124 per 100 for mobile-cellular subscriptions (2021)
-- `international`: country code - 45; landing points for the NSC, COBRAcable, CANTAT-3, DANICE, Havfrue/AEC-2, TAT-14m Denmark-Norway-5 & 6, Skagenfiber West & East, GC1, GC2, GC3, GC-KPN, Kattegat 1 & 2 & 3, Energinet Lyngsa-Laeso, Energinet Laeso-Varberg, Fehmarn Balt, Baltica, German-Denmark 2 & 3, Ronne-Rodvig, Denmark-Sweden 15 & 16 & 17 & 18, IP-Only Denmark-Sweden, Scandinavian South, Scandinavian Ring North, Danica North, 34 series of fiber-optic submarine cables link Denmark with Canada, Faroe Islands, Germany, Iceland, Netherlands, Norway, Poland, Russia, Sweden, US, and UK; satellite earth stations - 18 (6 Intelsat, 10 Eutelsat, 1 Orion, 1 Inmarsat (Blaavand-Atlantic-East)); note - the Nordic countries (Denmark, Finland, Iceland, Norway, and Sweden) share the Danish earth station and the Eik, Norway, station for worldwide Inmarsat access (2019)
+- `總體評估`: Denmark has one of the highest broadband subscription rates globally, with a near universal availability of super-fast connections; extensive cable and DSL infrastructure has been supported by a progressive regulatory regime which has encouraged operator access to both copper and fiber networks; fiber networks have a fast-growing footprint, while a number of community and metropolitan schemes have supplemented their own commitments to build out fiber nationally; a number of wholesale fiber schemes have also added to the wider availability of fiber broadband; the reach of LTE infrastructure is comprehensive, while the Mobile Network Operators by mid-2021 had also provided about 90% population coverage with 5G; services based on 5G were initially launched using trial 3.5GHz licenses; the multi-spectrum auction held in April 2021 has enabled them to improve the resilience and capacity of 5G; all MNOs are engaged in closing down their 3G networks and repurposing spectrum for LTE and 5G use (2021)
+- `國內`: fixed-line roughly 12 per 100 and about 124 per 100 for mobile-cellular subscriptions (2021)
+- `國際的`: country code - 45; landing points for the NSC, COBRAcable, CANTAT-3, DANICE, Havfrue/AEC-2, TAT-14m Denmark-Norway-5 & 6, Skagenfiber West & East, GC1, GC2, GC3, GC-KPN, Kattegat 1 & 2 & 3, Energinet Lyngsa-Laeso, Energinet Laeso-Varberg, Fehmarn Balt, Baltica, German-Denmark 2 & 3, Ronne-Rodvig, Denmark-Sweden 15 & 16 & 17 & 18, IP-Only Denmark-Sweden, Scandinavian South, Scandinavian Ring North, Danica North, 34 series of fiber-optic submarine cables link Denmark with Canada, Faroe Islands, Germany, Iceland, Netherlands, Norway, Poland, Russia, Sweden, US, and UK; satellite earth stations - 18 (6 Intelsat, 10 Eutelsat, 1 Orion, 1 Inmarsat (Blaavand-Atlantic-East)); note - the Nordic countries (Denmark, Finland, Iceland, Norway, and Sweden) share the Danish earth station and the Eik, Norway, station for worldwide Inmarsat access (2019)
 
 ### 廣播媒體
 strong public-sector TV presence with state-owned Danmarks Radio (DR) operating 6 channels and publicly owned TV2 operating roughly a half-dozen channels; broadcasts of privately owned stations are available via satellite and cable feed; DR operates 4 nationwide FM radio stations, 10 digital audio broadcasting stations, and 14 web-based radio stations; 140 commercial and 187 community (non-commercial) radio stations (2019)
@@ -616,20 +616,20 @@ strong public-sector TV presence with state-owned Danmarks Radio (DR) operating 
 .dk
 
 ### 網際網路使用者
-- `total`: 5.841 million (2021 est.)
-- `percent of population`: 99% (2021 est.)
+- `總計`: 5.841 million (2021 est.)
+- `佔人口比例`: 99% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 2,590,282 (2020 est.)
-- `subscriptions per 100 inhabitants`: 45 (2020 est.)
+- `總計`: 2,590,282 (2020 est.)
+- `每100名居民訂閱數`: 45 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 10 (2020)
-- `inventory of registered aircraft operated by air carriers`: 76
-- `annual passenger traffic on registered air carriers`: 582,011 (2015)
-- `annual freight traffic on registered air carriers`: mt-km
+- `註冊航空公司數量`: 10 (2020)
+- `註冊飛機庫存—航空承運商經營`: 76
+- `年度客運量－註冊航空公司`: 582,011 (2015)
+- `年度貨運量－註冊航空公司`: mt-km
 
 ### 註冊民用航空器國家代碼前綴
 OY
@@ -644,26 +644,26 @@ OY
 1,536 km gas, 330 km oil (2015)
 
 ### 鐵路
-- `total`: 2,682 km (2020) 876 km electrified
+- `總計`: 2,682 km (2020) 876 km electrified
 
 ### 道路
-- `total`: 73,591 km (2022)
+- `總計`: 73,591 km (2022)
 
 ### 水道
 400 km (2010)
 
 ### 商船
-- `total`: 715 (2023)
-- `by type`: bulk carrier 15, container ship 132, general cargo 69, oil tanker 107, other 392
+- `總計`: 715 (2023)
+- `依類型`: bulk carrier 15, container ship 132, general cargo 69, oil tanker 107, other 392
 
 ### 港口
-- `total ports`: 69 (2024)
-- `large`: 1
-- `medium`: 2
-- `small`: 30
-- `very small`: 36
-- `ports with oil terminals`: 33
-- `key ports`: Abenra, Alborg, Arhus, Assens, Augustenborg, Bandholm, Esbjerg, Faborg, Fredericia, Frederikshavn, Haderslev, Holstebro-Stuer, Kalundborg, Kobenhavn, Kolding, Korsor, Marstal, Middelfart, Naestved, Nakskov, Nyborg, Nykobing, Odense, Randers, Ronne, Rudkobing, Sakskobing, Skagen Havn, Sonderborg, Stubbekobing, Studstrup, Svendborg, Vejle
+- `總港口數`: 69 (2024)
+- `大`: 1
+- `中`: 2
+- `小`: 30
+- `非常小`: 36
+- `原油碼頭港口`: 33
+- `主要港口`: Abenra, Alborg, Arhus, Assens, Augustenborg, Bandholm, Esbjerg, Faborg, Fredericia, Frederikshavn, Haderslev, Holstebro-Stuer, Kalundborg, Kobenhavn, Kolding, Korsor, Marstal, Middelfart, Naestved, Nakskov, Nyborg, Nykobing, Odense, Randers, Ronne, Rudkobing, Sakskobing, Skagen Havn, Sonderborg, Stubbekobing, Studstrup, Svendborg, Vejle
 
 ## 軍事和安全
 
@@ -711,6 +711,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 37,530 (Ukraine) (as of 3 March 2024)
-- `stateless persons`: 11,644 (2022)
+- `難民（原籍國）`: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 37,530 (Ukraine) (as of 3 March 2024)
+- `無國籍人士`: 11,644 (2022)
 

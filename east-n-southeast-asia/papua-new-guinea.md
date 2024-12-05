@@ -19,24 +19,24 @@ Oceania, group of islands including the eastern half of the island of New Guinea
 Oceania
 
 ### 面積
-- `total `: 462,840 sq km
-- `land`: 452,860 sq km
-- `water`: 9,980 sq km
+- `總計`: 462,840 sq km
+- `土地`: 452,860 sq km
+- `水`: 9,980 sq km
 
 ### 面積—比較
 slightly larger than California
 
 ### 陸地邊界
-- `total`: 824 km
-- `border countries`: Indonesia 824 km
+- `總計`: 824 km
+- `邊境國家`: Indonesia 824 km
 
 ### 海岸線
 5,152 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `continental shelf`: 200-m depth or to the depth of exploitation
-- `exclusive fishing zone`: 200 nm
+- `領海`: 12 nm
+- `大陸架`: 200-m depth or to the depth of exploitation
+- `專屬捕魚區`: 200 nm
 measured from claimed archipelagic baselines
 
 ### 氣候
@@ -46,20 +46,20 @@ tropical; northwest monsoon (December to March), southeast monsoon (May to Octob
 mostly mountains with coastal lowlands and rolling foothills
 
 ### 海拔
-- `highest point`: Mount Wilhelm 4,509 m
-- `lowest point`: Pacific Ocean 0 m
-- `mean elevation`: 667 m
+- `最高點`: Mount Wilhelm 4,509 m
+- `最低點`: Pacific Ocean 0 m
+- `平均海拔`: 667 m
 
 ### 自然資源
 gold, copper, silver, natural gas, timber, oil, fisheries
 
 ### 土地利用
-- `agricultural land`: 2.6% (2018 est.)
-- `agricultural land: arable land`: arable land: 0.7% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 1.5% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0.4% (2018 est.)
-- `forest`: 63.1% (2018 est.)
-- `other`: 34.3% (2018 est.)
+- `農地`: 2.6% (2018 est.)
+- `農地：耕地`: arable land: 0.7% (2018 est.)
+- `農地：永久性作物`: permanent crops: 1.5% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0.4% (2018 est.)
+- `森林`: 63.1% (2018 est.)
+- `其它`: 34.3% (2018 est.)
 
 ### 灌溉土地
 0 sq km (2022)
@@ -79,13 +79,13 @@ active volcanism; the country is subject to frequent and sometimes severe earthq
 ## 人民和社會
 
 ### 人口
-- `total`: 10,046,233
-- `male`: 5,092,262
-- `female`: 4,953,971 (2024 est.)
+- `總計`: 10,046,233
+- `男性`: 5,092,262
+- `女性`: 4,953,971 (2024 est.)
 
 ### 國籍
-- `noun`: Papua New Guinean(s)
-- `adjective`: Papua New Guinean
+- `名詞`: Papua New Guinean(s)
+- `形容詞`: Papua New Guinean
 
 ### 族裔群體
 Melanesian, Papuan, Negrito, Micronesian, Polynesian
@@ -99,20 +99,20 @@ Protestant 64.3% (Evangelical Lutheran 18.4%, Seventh Day Adventist 12.9%, Pente
 **note**:  data represent only the citizen population; roughly 0.3% of the population are non-citizens, consisting of Christian 52% (predominantly Roman Catholic), other 10.7% , none 37.3%
 
 ### 年齡結構
-- `0-14 years`: 37.1% (male 1,902,272/female 1,825,471)
-- `15-64 years`: 58.9% (male 2,991,479/female 2,923,410)
-- `65 years and over`: 4% (2024 est.) (male 198,511/female 205,090)
+- `0-14歲`: 37.1% (male 1,902,272/female 1,825,471)
+- `15-64歲`: 58.9% (male 2,991,479/female 2,923,410)
+- `65歲及以上`: 4% (2024 est.) (male 198,511/female 205,090)
 
 ### 撫養比率
-- `total dependency ratio`: 60.5
-- `youth dependency ratio`: 55.5
-- `elderly dependency ratio`: 5
-- `potential support ratio`: 20.1 (2021 est.)
+- `總受扶養人比率`: 60.5
+- `少年撫養比率`: 55.5
+- `老人撫養比率`: 5
+- `潛在支持率`: 20.1 (2021 est.)
 
 ### 年齡中位數
-- `total`: 21.7 years (2024 est.)
-- `male`: 21.6 years
-- `female`: 21.9 years
+- `總計`: 21.7 years (2024 est.)
+- `男性`: 21.6 years
+- `女性`: 21.9 years
 
 ### 人口成長率
 2.26% (2024 est.)
@@ -130,18 +130,18 @@ Protestant 64.3% (Evangelical Lutheran 18.4%, Seventh Day Adventist 12.9%, Pente
 population concentrated in the highlands and eastern coastal areas on the island of New Guinea; predominantly a rural distribution with only about one-fifth of the population residing in urban areas
 
 ### 都市化
-- `urban population`: 13.7% of total population (2023)
-- `rate of urbanization`: 2.91% annual rate of change (2020-25 est.)
+- `城市人口`: 13.7% of total population (2023)
+- `城鎮化率`: 2.91% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 410,000 PORT MORESBY (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.04 male(s)/female
-- `15-64 years`: 1.02 male(s)/female
-- `65 years and over`: 0.97 male(s)/female
-- `total population`: 1.03 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.04 male(s)/female
+- `15-64歲`: 1.02 male(s)/female
+- `65歲及以上`: 0.97 male(s)/female
+- `總人口數`: 1.03 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 21.9 years (2016/18)
@@ -151,14 +151,14 @@ population concentrated in the highlands and eastern coastal areas on the island
 192 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 32 deaths/1,000 live births (2024 est.)
-- `male`: 35.3 deaths/1,000 live births
-- `female`: 28.6 deaths/1,000 live births
+- `總計`: 32 deaths/1,000 live births (2024 est.)
+- `男性`: 35.3 deaths/1,000 live births
+- `女性`: 28.6 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 70.1 years (2024 est.)
-- `male`: 68.3 years
-- `female`: 71.9 years
+- `總人口數`: 70.1 years (2024 est.)
+- `男性`: 68.3 years
+- `女性`: 71.9 years
 
 ### 總生育率
 3.79 children born/woman (2024 est.)
@@ -170,12 +170,12 @@ population concentrated in the highlands and eastern coastal areas on the island
 36.7% (2016/18)
 
 ### 飲用水來源
-- `improved: urban`: urban: 86.2% of population
-- `improved: rural`: rural: 41.5% of population
-- `improved: total`: total: 47.5% of population
-- `unimproved: urban`: urban: 13.8% of population
-- `unimproved: rural`: rural: 58.5% of population
-- `unimproved: total`: total: 52.5% of population (2020 est.)
+- `已改進－城市`: urban: 86.2% of population
+- `已改進－農村`: rural: 41.5% of population
+- `已改進－總計`: total: 47.5% of population
+- `未改進：都市`: urban: 13.8% of population
+- `未改進：鄉村`: rural: 58.5% of population
+- `未改善：總計`: total: 52.5% of population (2020 est.)
 
 ### 當前醫療支出
 2.5% of GDP (2020)
@@ -184,44 +184,44 @@ population concentrated in the highlands and eastern coastal areas on the island
 0.07 physicians/1,000 population (2019)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 57.8% of population
-- `improved: rural`: rural: 18.2% of population
-- `improved: total`: total: 23.5% of population
-- `unimproved: urban`: urban: 42.2% of population
-- `unimproved: rural`: rural: 81.8% of population
-- `unimproved: total`: total: 76.5% of population (2020 est.)
+- `已改進－城市`: urban: 57.8% of population
+- `已改進－農村`: rural: 18.2% of population
+- `已改進－總計`: total: 23.5% of population
+- `未改進：都市`: urban: 42.2% of population
+- `未改進：鄉村`: rural: 81.8% of population
+- `未改善：總計`: total: 76.5% of population (2020 est.)
 
 ### 肥胖—成人流行率
 21.3% (2016)
 
 ### 人均酒精消費量
-- `total`: 1.26 liters of pure alcohol (2019 est.)
-- `beer`: 0.6 liters of pure alcohol (2019 est.)
-- `wine`: 0.06 liters of pure alcohol (2019 est.)
-- `spirits`: 0.6 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 1.26 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.6 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.06 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.6 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 39.3% (2020 est.)
-- `male`: 53.5% (2020 est.)
-- `female`: 25.1% (2020 est.)
+- `總計`: 39.3% (2020 est.)
+- `男性`: 53.5% (2020 est.)
+- `女性`: 25.1% (2020 est.)
 
 ### 目前已婚婦女（15-49歲）
 65.5% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 8%
-- `women married by age 18`: 27.3%
-- `men married by age 18`: 3.7% (2018 est.)
+- `15歲前結婚的女性`: 8%
+- `18歲前結婚的女性`: 27.3%
+- `18歲前結婚的男性`: 3.7% (2018 est.)
 
 ### 教育支出
 1.4% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 64.2%
-- `male`: 65.6%
-- `female`: 62.8% (2015)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 64.2%
+- `男性`: 65.6%
+- `女性`: 62.8% (2015)
 
 ### 人民—註釋
 the indigenous population of Papua New Guinea (PNG) is one of the most heterogeneous in the world; PNG has several thousand separate communities, most with only a few hundred people; divided by language, customs, and tradition, some of these communities have engaged in low-scale tribal conflict with their neighbors for millennia; the advent of modern weapons and modern migrants into urban areas has greatly magnified the impact of this lawlessness
@@ -232,23 +232,23 @@ the indigenous population of Papua New Guinea (PNG) is one of the most heterogen
 rain forest loss as a result of growing commercial demand for tropical timber; unsustainable logging practices result in soil erosion, water quality degredation, and loss of habitat and biodiversity; large-scale mining projects cause adverse impacts on forests and water quality (discharge of heavy metals, cyanide, and acids into rivers); severe drought; inappropriate farming practices accelerate land degradion (soil erosion, siltation, loss of soil fertility); destructive fishing practices and coastal pollution due to run-off from land-based activities and oil spills
 
 ### 環境—國際協定
-- `party to`: Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands
-- `signed, but not ratified`: Comprehensive Nuclear Test Ban
+- `是以下議定書的締約國：`: Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands
+- `已簽署但未批準`: Comprehensive Nuclear Test Ban
 
 ### 氣候
 tropical; northwest monsoon (December to March), southeast monsoon (May to October); slight seasonal temperature variation
 
 ### 土地利用
-- `agricultural land`: 2.6% (2018 est.)
-- `agricultural land: arable land`: arable land: 0.7% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 1.5% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0.4% (2018 est.)
-- `forest`: 63.1% (2018 est.)
-- `other`: 34.3% (2018 est.)
+- `農地`: 2.6% (2018 est.)
+- `農地：耕地`: arable land: 0.7% (2018 est.)
+- `農地：永久性作物`: permanent crops: 1.5% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0.4% (2018 est.)
+- `森林`: 63.1% (2018 est.)
+- `其它`: 34.3% (2018 est.)
 
 ### 都市化
-- `urban population`: 13.7% of total population (2023)
-- `rate of urbanization`: 2.91% annual rate of change (2020-25 est.)
+- `城市人口`: 13.7% of total population (2023)
+- `城鎮化率`: 2.91% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 2.08% of GDP (2018 est.)
@@ -257,22 +257,22 @@ tropical; northwest monsoon (December to March), southeast monsoon (May to Octob
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 8.89 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 7.54 megatons (2016 est.)
-- `methane emissions`: 11.05 megatons (2020 est.)
+- `顆粒物排放量`: 8.89 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 7.54 megatons (2016 est.)
+- `甲烷排放量`: 11.05 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 1 million tons (2014 est.)
-- `municipal solid waste recycled annually`: 20,000 tons (2016 est.)
-- `percent of municipal solid waste recycled`: 2% (2016 est.)
+- `城市固體廢棄物－每年產生`: 1 million tons (2014 est.)
+- `城市固體廢棄物－每年回收`: 20,000 tons (2016 est.)
+- `城市固體廢棄物－回收百分比`: 2% (2016 est.)
 
 ### 主要河流（按公里長度）
 Sepik river source and mouth (shared with Indonesia) - 1,126 km; Fly river source and mouth (shared with Indonesia) - 1,050 km
 
 ### 總取水量
-- `municipal`: 220 million cubic meters (2020 est.)
-- `industrial`: 170 million cubic meters (2020 est.)
-- `agricultural`: 1 million cubic meters (2020 est.)
+- `市級`: 220 million cubic meters (2020 est.)
+- `工業`: 170 million cubic meters (2020 est.)
+- `農業`: 1 million cubic meters (2020 est.)
 
 ### 可再生水資源總量
 801 billion cubic meters (2020 est.)
@@ -280,22 +280,22 @@ Sepik river source and mouth (shared with Indonesia) - 1,126 km; Fly river sourc
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Independent State of Papua New Guinea
-- `conventional short form`: Papua New Guinea
-- `local short form`: Papuaniugini
-- `former`: German New Guinea, British New Guinea, Territory of Papua and New Guinea
-- `abbreviation`: PNG
-- `etymology`: the word "papua" derives from the Malay "papuah" describing the frizzy hair of the Melanesians; Spanish explorer Ynigo ORTIZ de RETEZ applied the term "Nueva Guinea" to the island of New Guinea in 1545 after noting the resemblance of the locals to the peoples of the Guinea coast of Africa
+- `常用長名`: Independent State of Papua New Guinea
+- `常用短名`: Papua New Guinea
+- `當地語短名`: Papuaniugini
+- `前任`: German New Guinea, British New Guinea, Territory of Papua and New Guinea
+- `縮寫`: PNG
+- `语源学`: the word "papua" derives from the Malay "papuah" describing the frizzy hair of the Melanesians; Spanish explorer Ynigo ORTIZ de RETEZ applied the term "Nueva Guinea" to the island of New Guinea in 1545 after noting the resemblance of the locals to the peoples of the Guinea coast of Africa
 
 ### 政府類型
 parliamentary democracy under a constitutional monarchy; a Commonwealth realm
 
 ### 首都
-- `name`: Port Moresby
-- `geographic coordinates`: 9 27 S, 147 11 E
-- `time difference`: UTC+10 (15 hours ahead of Washington, DC, during Standard Time)
-- `time zone note`: Papua New Guinea has two time zones, including Bougainville (UTC+11)
-- `etymology`: named in 1873 by Captain John MORESBY (1830-1922) in honor of his father, British Admiral Sir Fairfax MORESBY (1786-1877)
+- `名稱`: Port Moresby
+- `地理坐標`: 9 27 S, 147 11 E
+- `時差`: UTC+10 (15 hours ahead of Washington, DC, during Standard Time)
+- `時區備註`: Papua New Guinea has two time zones, including Bougainville (UTC+11)
+- `语源学`: named in 1873 by Captain John MORESBY (1830-1922) in honor of his father, British Admiral Sir Fairfax MORESBY (1786-1877)
 
 ### 行政區劃
 20 provinces, 1 autonomous region*, and 1 district**; Bougainville*, Central, Chimbu, Eastern Highlands, East New Britain, East Sepik, Enga, Gulf, Hela, Jiwaka, Madang, Manus, Milne Bay, Morobe, National Capital**, New Ireland, Northern, Southern Highlands, Western, Western Highlands, West New Britain, West Sepik
@@ -310,37 +310,37 @@ Independence Day, 16 September (1975)
 mixed legal system of English common law and customary law
 
 ### 憲法
-- `history`: adopted 15 August 1975, effective at independence 16 September 1975
-- `amendments`: proposed by the National Parliament; passage has prescribed majority vote requirements depending on the constitutional sections being amended – absolute majority, two-thirds majority, or three-fourths majority; amended many times, last in 2016
+- `歷史`: adopted 15 August 1975, effective at independence 16 September 1975
+- `修正`: proposed by the National Parliament; passage has prescribed majority vote requirements depending on the constitutional sections being amended – absolute majority, two-thirds majority, or three-fourths majority; amended many times, last in 2016
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Papua New Guinea
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 8 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Papua New Guinea
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 8 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: King CHARLES III (since 8 September 2022); represented by Governor General Grand Chief Sir Bob DADAE (since 28 February 2017)
-- `head of government`: Prime Minister James MARAPE (since 30 May 2019)
-- `cabinet`: National Executive Council appointed by the governor general on the recommendation of the prime minister
-- `elections/appointments`: the monarchy is hereditary; governor general nominated by the National Parliament and appointed by the chief of state; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general pending the outcome of a National Parliament vote
-- `election results`: James MARAPE reelected prime minister; National Parliament vote - 105 out of 118
+- `國家元首`: King CHARLES III (since 8 September 2022); represented by Governor General Grand Chief Sir Bob DADAE (since 28 February 2017)
+- `政府首腦`: Prime Minister James MARAPE (since 30 May 2019)
+- `内閣`: National Executive Council appointed by the governor general on the recommendation of the prime minister
+- `選舉/任命`: the monarchy is hereditary; governor general nominated by the National Parliament and appointed by the chief of state; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general pending the outcome of a National Parliament vote
+- `選舉結果`: James MARAPE reelected prime minister; National Parliament vote - 105 out of 118
 
 ### 立法部門
-- `description`: unicameral National Parliament (111 seats; 89 members directly elected from single-seat open constituencies and 22 governors directly elected from 20 provincial constituencies, 1 autonomous region, and 1 district - all by instant runoff preferential vote; members serve 5-year terms)
-- `elections`: last held from 4-22 July 2022 (next to be held in June 2027)
-- `election results`: percent of vote by party - NA; seats by party - PANGU PATI - 39, PNC - 17, URP - 11, NAP - 6, SDP - 4, PFP - 4, PP – 4, PNGP – 3,  ULP - 3, Advance PNG - 2, National Party - 2, Liberal Party - 2, AP - 1, Destiny Party - 1, Greens - 1, MAP - 1, NGP - 1, ODP - 1, PLP - 1, PMC - 1, PPP - 1, PRP - 1, THE - 1, independent - 10; composition - men 108, women 3, percentage women 2.7%
+- `描述`: unicameral National Parliament (111 seats; 89 members directly elected from single-seat open constituencies and 22 governors directly elected from 20 provincial constituencies, 1 autonomous region, and 1 district - all by instant runoff preferential vote; members serve 5-year terms)
+- `選舉`: last held from 4-22 July 2022 (next to be held in June 2027)
+- `選舉結果`: percent of vote by party - NA; seats by party - PANGU PATI - 39, PNC - 17, URP - 11, NAP - 6, SDP - 4, PFP - 4, PP – 4, PNGP – 3,  ULP - 3, Advance PNG - 2, National Party - 2, Liberal Party - 2, AP - 1, Destiny Party - 1, Greens - 1, MAP - 1, NGP - 1, ODP - 1, PLP - 1, PMC - 1, PPP - 1, PRP - 1, THE - 1, independent - 10; composition - men 108, women 3, percentage women 2.7%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court (consists of the chief justice, deputy chief justice, 35 justices, and 5 acting justices); National Courts (consists of 13 courts located in the provincial capitals, with a total of 19 resident judges)
-- `judge selection and term of office`: Supreme Court chief justice appointed by the governor general upon advice of the National Executive Council (cabinet) after consultation with the National Justice Administration minister; deputy chief justice and other justices appointed by the Judicial and Legal Services Commission, a 5-member body that includes the Supreme Court chief and deputy chief justices, the chief ombudsman, and a member of the National Parliament; full-time citizen judges appointed for 10-year renewable terms; non-citizen judges initially appointed for 3-year renewable terms and after first renewal can serve until age 70; appointment and tenure of National Court resident judges NA
-- `subordinate courts`: district, village, and juvenile courts, military courts, taxation courts, coronial courts, mining warden courts, land courts, traffic courts, committal courts, grade five courts
+- `最高法院`: Supreme Court (consists of the chief justice, deputy chief justice, 35 justices, and 5 acting justices); National Courts (consists of 13 courts located in the provincial capitals, with a total of 19 resident judges)
+- `法官遴選和任期`: Supreme Court chief justice appointed by the governor general upon advice of the National Executive Council (cabinet) after consultation with the National Justice Administration minister; deputy chief justice and other justices appointed by the Judicial and Legal Services Commission, a 5-member body that includes the Supreme Court chief and deputy chief justices, the chief ombudsman, and a member of the National Parliament; full-time citizen judges appointed for 10-year renewable terms; non-citizen judges initially appointed for 3-year renewable terms and after first renewal can serve until age 70; appointment and tenure of National Court resident judges NA
+- `下級法院`: district, village, and juvenile courts, military courts, taxation courts, coronial courts, mining warden courts, land courts, traffic courts, committal courts, grade five courts
 
 ### 政黨
 Destiny Party Liberal Party Melanesian Alliance Party or MAP Melanesian Liberal Party or MLP National Alliance Party or NAP Our Development Party or ODP Papua and Niugini Union Party or PANGU PATI Papua New Guinea Greens Party Papua New Guinea National Party Papua New Guinea Party or PNGP People's First Party or PFP People's Movement for Change or PMC People's National Congress Party or PNC People’s National Party People's Party or PP People's Progress Party or PPP People's Reform Party or PRP PNG Party Social Democratic Party or SDP Triumph Heritage Empowerment Party or THE United Labor Party or ULP United Resources Party or URP 
@@ -349,18 +349,18 @@ Destiny Party Liberal Party Melanesian Alliance Party or MAP Melanesian Liber
 ACP, ADB, AOSIS, APEC, ARF, ASEAN (observer), C, CD, CP, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador (vacant); Chargé d’Affaires Cephas KAYO (since 31 January 2018)
-- `chancery`: 1825 K Street NW, Suite 1010, Washington, DC 20006
-- `telephone`: [1] (202) 745-3680
+- `外交代表負責人`: Ambassador (vacant); Chargé d’Affaires Cephas KAYO (since 31 January 2018)
+- `衡平法院（在美國）`: 1825 K Street NW, Suite 1010, Washington, DC 20006
+- `電話號碼`: [1] (202) 745-3680
 - `FAX`: [1] (202) 745-3679
-- `email address and website`: info@pngembassy.org  http://www.pngembassy.org/
+- `電子郵件地址和網站`: info@pngembassy.org  http://www.pngembassy.org/
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Ann Marie YASTISHOCK (since 22 February 2024); note - also accredited to the Solomon Islands and Vanuatu
-- `embassy`: Harbour City Road, Konedobu, Port Moresby, NCD, Papua New Guinea
-- `mailing address`: 4240 Port Moresby Pl, Washington DC 20521-4240
-- `telephone`: [675] 308-9100
-- `email address and website`: ConsularPortMoresby@state.gov  https://pg.usembassy.gov/
+- `外交代表負責人`: Ambassador Ann Marie YASTISHOCK (since 22 February 2024); note - also accredited to the Solomon Islands and Vanuatu
+- `大使館`: Harbour City Road, Konedobu, Port Moresby, NCD, Papua New Guinea
+- `郵寄地址`: 4240 Port Moresby Pl, Washington DC 20521-4240
+- `電話號碼`: [675] 308-9100
+- `電子郵件地址和網站`: ConsularPortMoresby@state.gov  https://pg.usembassy.gov/
 
 ### 旗幟說明
 divided diagonally from upper hoist-side corner; the upper triangle is red with a soaring yellow bird of paradise centered; the lower triangle is black with five, white, five-pointed stars of the Southern Cross constellation centered; red, black, and yellow are traditional colors of Papua New Guinea; the bird of paradise - endemic to the island of New Guinea - is an emblem of regional tribal culture and represents the emergence of Papua New Guinea as a nation; the Southern Cross, visible in the night sky, symbolizes Papua New Guinea's connection with Australia and several other countries in the South Pacific
@@ -369,8 +369,8 @@ divided diagonally from upper hoist-side corner; the upper triangle is red with 
 bird of paradise; national colors: red, black
 
 ### 國歌
-- `name`: "O Arise All You Sons"
-- `lyrics/music`: Thomas SHACKLADY
+- `名稱`: "O Arise All You Sons"
+- `歌詞／音樂`: Thomas SHACKLADY
 **note**:  adopted 1975
 
 ### 國家級遺產
@@ -416,18 +416,18 @@ $30.932 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 16.9% (2022 est.)
-- `industry`: 40.3% (2022 est.)
-- `services`: 39% (2022 est.)
+- `農業`: 16.9% (2022 est.)
+- `產業`: 40.3% (2022 est.)
+- `服務`: 39% (2022 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 43.7% (2017 est.)
-- `government consumption`: 19.7% (2017 est.)
-- `investment in fixed capital`: 10% (2017 est.)
-- `investment in inventories`: 0.4% (2017 est.)
-- `exports of goods and services`: 49.3% (2017 est.)
-- `imports of goods and services`: -22.3% (2017 est.)
+- `家庭消費`: 43.7% (2017 est.)
+- `政府消費`: 19.7% (2017 est.)
+- `固定資本投資`: 10% (2017 est.)
+- `存貨投資`: 0.4% (2017 est.)
+- `商品和服務出口`: 49.3% (2017 est.)
+- `商品和服務進口`: -22.3% (2017 est.)
 
 ### 農產品
 oil palm fruit, coconuts, bananas, fruits, sweet potatoes, game meat, yams, root vegetables, sugarcane, vegetables (2022)
@@ -451,9 +451,9 @@ oil and gas; mining (gold, copper, and nickel); palm oil processing; plywood and
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 3.7% (2023 est.)
-- `male`: 4.5% (2023 est.)
-- `female`: 2.9% (2023 est.)
+- `總計`: 3.7% (2023 est.)
+- `男性`: 4.5% (2023 est.)
+- `女性`: 2.9% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 匯款
@@ -463,8 +463,8 @@ oil and gas; mining (gold, copper, and nickel); palm oil processing; plywood and
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $5.268 billion (2022 est.)
-- `expenditures`: $6.156 billion (2022 est.)
+- `收入`: $5.268 billion (2022 est.)
+- `支出`: $6.156 billion (2022 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -530,40 +530,40 @@ $6.35 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 19% (2022 est.)
-- `electrification - urban areas`: 65.1%
-- `electrification - rural areas`: 14.2%
+- `電氣化－總人口`: 19% (2022 est.)
+- `電氣化－城市地區`: 65.1%
+- `電氣化－農村地區`: 14.2%
 
 ### 電力
-- `installed generating capacity`: 1.263 million kW (2022 est.)
-- `consumption`: 4.524 billion kWh (2022 est.)
-- `transmission/distribution losses`: 318.563 million kWh (2022 est.)
+- `裝機容量`: 1.263 million kW (2022 est.)
+- `消費`: 4.524 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 318.563 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 74.8% of total installed capacity (2022 est.)
-- `solar`: 0.1% of total installed capacity (2022 est.)
-- `hydroelectricity`: 16.5% of total installed capacity (2022 est.)
-- `geothermal`: 8.3% of total installed capacity (2022 est.)
-- `biomass and waste`: 0.3% of total installed capacity (2022 est.)
+- `石化燃料`: 74.8% of total installed capacity (2022 est.)
+- `太陽能`: 0.1% of total installed capacity (2022 est.)
+- `水力發電`: 16.5% of total installed capacity (2022 est.)
+- `地熱`: 8.3% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 0.3% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `imports`: 9,000 metric tons (2022 est.)
+- `進口`: 9,000 metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 32,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 27,000 bbl/day (2022 est.)
-- `crude oil estimated reserves`: 159.656 million barrels (2021 est.)
+- `總石油產量`: 32,000 bbl/day (2023 est.)
+- `成品油消費量`: 27,000 bbl/day (2022 est.)
+- `原油儲備量估值`: 159.656 million barrels (2021 est.)
 
 ### 天然氣
-- `production`: 10.837 billion cubic meters (2022 est.)
-- `consumption`: 166.98 million cubic meters (2022 est.)
-- `exports`: 10.67 billion cubic meters (2022 est.)
-- `proven reserves`: 183.125 billion cubic meters (2021 est.)
+- `生產`: 10.837 billion cubic meters (2022 est.)
+- `消費`: 166.98 million cubic meters (2022 est.)
+- `出口`: 10.67 billion cubic meters (2022 est.)
+- `探明儲量`: 183.125 billion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 4.375 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 4.048 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 328,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 4.375 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 4.048 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 328,000 metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 6.565 million Btu/person (2022 est.)
@@ -571,17 +571,17 @@ $6.35 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 166,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 2 (2021 est.)
+- `總訂閱數`: 166,000 (2021 est.)
+- `每100名居民訂閱數`: 2 (2021 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 4.818 million (2021 est.)
-- `subscriptions per 100 inhabitants`: 48 (2021 est.)
+- `總訂閱數`: 4.818 million (2021 est.)
+- `每100名居民訂閱數`: 48 (2021 est.)
 
 ### 電信系統
-- `general assessment`: fixed-line teledensity in Papua New Guinea has seen little change over the past two decades; progress in the country’s telecom sector has come primarily from mobile networks, where accessibility has expanded considerably in recent years, with population coverage increasing from less than 3% in 2006 to more than 90% by early 2021; the MNOs operate networks offering services based on GSM, 3G, and 4G, depending on location; GSM is prevalent in many rural and remote areas, while 3G and 4G are centered more on urban areas; MNOs’ investments in 4G are growing, though GSM still represents the bulk of all mobile connections owing to the low penetration of smartphones and the concentration of high-speed data networks predominantly in high value urban areas; a lack of sufficient competition and investment in the wire line segment has driven up prices and hampered network coverage and quality; infrastructure deployment costs are high, partly due to the relatively low subscriber base, the difficult terrain, and the high proportion of the population living in rural areas; fixed telecom infrastructure is almost non-existent outside urban centers, leaving most of the population under served; PNG is the Pacific region’s largest poorly developed telecom market, with only around 22% of its people connected to the internet; this falls far behind the recommended targets set in the country’s draft National Broadband Policy, which aimed to provide universal mobile broadband access; low international capacity has meant that internet services are slow and unreliable; two subsea cables connect PNG to Australia (landing at Sydney) and the United States (Guam); despite the improvement in recent years, the country is still impacted by a connectivity infrastructure deficit, making it reliant on more expensive alternatives such as satellites, also weighing on the affordability of services for end-users; the government granted a license to Starlink at the beginning of 2024, which should improve digital access in rural areas (2023)
-- `domestic`: fixed-line nearly 2 per 100 and mobile-cellular is 48 per 100 persons (2021)
-- `international`: country code - 675; landing points for the Kumul Domestic Submarine Cable System, PNG-LNG, APNG-2, CSCS the PPC-1 submarine cables to Australia, Guam, PNG and Solomon Islands; and CS² to PNG, Solomon Islands, and Australia; satellite earth station - 1 Intelsat (Pacific Ocean) (2023)
+- `總體評估`: fixed-line teledensity in Papua New Guinea has seen little change over the past two decades; progress in the country’s telecom sector has come primarily from mobile networks, where accessibility has expanded considerably in recent years, with population coverage increasing from less than 3% in 2006 to more than 90% by early 2021; the MNOs operate networks offering services based on GSM, 3G, and 4G, depending on location; GSM is prevalent in many rural and remote areas, while 3G and 4G are centered more on urban areas; MNOs’ investments in 4G are growing, though GSM still represents the bulk of all mobile connections owing to the low penetration of smartphones and the concentration of high-speed data networks predominantly in high value urban areas; a lack of sufficient competition and investment in the wire line segment has driven up prices and hampered network coverage and quality; infrastructure deployment costs are high, partly due to the relatively low subscriber base, the difficult terrain, and the high proportion of the population living in rural areas; fixed telecom infrastructure is almost non-existent outside urban centers, leaving most of the population under served; PNG is the Pacific region’s largest poorly developed telecom market, with only around 22% of its people connected to the internet; this falls far behind the recommended targets set in the country’s draft National Broadband Policy, which aimed to provide universal mobile broadband access; low international capacity has meant that internet services are slow and unreliable; two subsea cables connect PNG to Australia (landing at Sydney) and the United States (Guam); despite the improvement in recent years, the country is still impacted by a connectivity infrastructure deficit, making it reliant on more expensive alternatives such as satellites, also weighing on the affordability of services for end-users; the government granted a license to Starlink at the beginning of 2024, which should improve digital access in rural areas (2023)
+- `國內`: fixed-line nearly 2 per 100 and mobile-cellular is 48 per 100 persons (2021)
+- `國際的`: country code - 675; landing points for the Kumul Domestic Submarine Cable System, PNG-LNG, APNG-2, CSCS the PPC-1 submarine cables to Australia, Guam, PNG and Solomon Islands; and CS² to PNG, Solomon Islands, and Australia; satellite earth station - 1 Intelsat (Pacific Ocean) (2023)
 
 ### 廣播媒體
 5 TV stations: 1 commercial station (TV Wan), 2 state-run stations, (National Broadcasting Corporation and EMTV - formerly a commercial TV station previously owned by Fiji Television Limited but PNG’s Telikom purchased it in Jan 2016, hence being state-run); 1 digital free-to-view network launched in 2014, and 1 satellite network Click TV (PNGTV) launched in 2015; the state-run NBC operates 3 radio networks with multiple repeaters and about 20 provincial stations; several commercial radio stations with multiple transmission points as well as several community stations; transmissions of several international broadcasters are accessible (2023)
@@ -590,20 +590,20 @@ $6.35 billion (2022 est.)
 .pg
 
 ### 網際網路使用者
-- `total`: 3.168 million (2021 est.)
-- `percent of population`: 32% (2021 est.)
+- `總計`: 3.168 million (2021 est.)
+- `佔人口比例`: 32% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 21,000 (2020 est.)
-- `subscriptions per 100 inhabitants`: 0.2 (2020 est.)
+- `總計`: 21,000 (2020 est.)
+- `每100名居民訂閱數`: 0.2 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 6 (2020)
-- `inventory of registered aircraft operated by air carriers`: 48
-- `annual passenger traffic on registered air carriers`: 964,713 (2018)
-- `annual freight traffic on registered air carriers`: 30.93 million (2018) mt-km
+- `註冊航空公司數量`: 6 (2020)
+- `註冊飛機庫存—航空承運商經營`: 48
+- `年度客運量－註冊航空公司`: 964,713 (2018)
+- `年度貨運量－註冊航空公司`: 30.93 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 P2
@@ -618,25 +618,25 @@ P2
 264 km oil (2013)
 
 ### 道路
-- `total`: 24,862 km
-- `paved`: 2,647 km
-- `unpaved`: 22,215 km (2015)
+- `總計`: 24,862 km
+- `已鋪砌`: 2,647 km
+- `未鋪砌`: 22,215 km (2015)
 
 ### 水道
 11,000 km (2011)
 
 ### 商船
-- `total`: 205 (2023)
-- `by type`: container ship 6, general cargo 89, oil tanker 4, other 106
+- `總計`: 205 (2023)
+- `依類型`: container ship 6, general cargo 89, oil tanker 4, other 106
 
 ### 港口
-- `total ports`: 22 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 6
-- `very small`: 16
-- `ports with oil terminals`: 8
-- `key ports`: Kavieng Harbor, Kieta, Port Moresby, Rabaul, Vanimo, Wewak Harbor
+- `總港口數`: 22 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 6
+- `非常小`: 16
+- `原油碼頭港口`: 8
+- `主要港口`: Kavieng Harbor, Kieta, Port Moresby, Rabaul, Vanimo, Wewak Harbor
 
 ## 軍事和安全
 
@@ -665,12 +665,12 @@ the Papua New Guinea Defense Force (PNGDF) is a small and lightly armed force ta
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 11,432 (Indonesia) (mid-year 2022)
+- `難民（原籍國）`: 11,432 (Indonesia) (mid-year 2022)
 - `IDPs`: 91,000 (tribal conflict, inter-communal violence) (2022)
-- `stateless persons`: 15 (2022)
+- `無國籍人士`: 15 (2022)
 
 ### 人口販運
-- `tier rating`: Tier 3 — Papua New Guinea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Papua New Guinea remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/papua-new-guinea/
+- `會級評分`: Tier 3 — Papua New Guinea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Papua New Guinea remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/papua-new-guinea/
 
 ### 非法藥物
 transit point for smuggling drugs such as methamphetamine and cocaine; major consumer of cannabis

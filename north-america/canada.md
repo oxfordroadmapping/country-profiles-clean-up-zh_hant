@@ -19,16 +19,16 @@ Northern North America, bordering the North Atlantic Ocean on the east, North Pa
 North America
 
 ### 面積
-- `total `: 9,984,670 sq km
-- `land`: 9,093,507 sq km
-- `water`: 891,163 sq km
+- `總計`: 9,984,670 sq km
+- `土地`: 9,093,507 sq km
+- `水`: 891,163 sq km
 
 ### 面積—比較
 slightly larger than the US
 
 ### 陸地邊界
-- `total`: 8,892 km
-- `border countries`: US 8,891 km (includes 2,475 km with Alaska); Denmark (Greenland) 1.3 km
+- `總計`: 8,892 km
+- `邊境國家`: US 8,891 km (includes 2,475 km with Alaska); Denmark (Greenland) 1.3 km
  
 
 ### 海岸線
@@ -36,10 +36,10 @@ slightly larger than the US
 **note**:  the Canadian Arctic Archipelago - consisting of 36,563 islands, several of them some of the world's largest - contributes to Canada easily having the longest coastline in the world
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: 200 nm or to the edge of the continental margin
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: 200 nm or to the edge of the continental margin
 
 ### 氣候
 varies from temperate in south to subarctic and arctic in north
@@ -48,26 +48,26 @@ varies from temperate in south to subarctic and arctic in north
 mostly plains with mountains in west, lowlands in southeast
 
 ### 海拔
-- `highest point`: Mount Logan 5,959 m
-- `lowest point`: Atlantic/Pacific/Arctic Oceans 0 m
-- `mean elevation`: 487 m
+- `最高點`: Mount Logan 5,959 m
+- `最低點`: Atlantic/Pacific/Arctic Oceans 0 m
+- `平均海拔`: 487 m
 
 ### 自然資源
 bauxite, iron ore, nickel, zinc, copper, gold, lead, uranium, rare earth elements, molybdenum, potash, diamonds, silver, fish, timber, wildlife, coal, petroleum, natural gas, hydropower
 
 ### 土地利用
-- `agricultural land`: 6.8% (2018 est.)
-- `agricultural land: arable land`: arable land: 4.7% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.5% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 1.6% (2018 est.)
-- `forest`: 34.1% (2018 est.)
-- `other`: 59.1% (2018 est.)
+- `農地`: 6.8% (2018 est.)
+- `農地：耕地`: arable land: 4.7% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.5% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 1.6% (2018 est.)
+- `森林`: 34.1% (2018 est.)
+- `其它`: 59.1% (2018 est.)
 
 ### 灌溉土地
 9,045 sq km (2015)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Huron* - 35,972 sq km; Great Bear Lake - 31,328 sq km; Superior* - 28,754 sq km; Great Slave Lake - 28,568 sq km; Lake Winnipeg - 24,387 sq km; Erie* - 12,776 sq km; Ontario* - 9,790 sq km; Lake Athabasca - 7,935 sq km; Reindeer Lake - 6,650 sq km; Nettilling Lake - 5,542 sq kmnote - Great Lakes* area shown as Canadian waters
+- `淡水湖`: Huron* - 35,972 sq km; Great Bear Lake - 31,328 sq km; Superior* - 28,754 sq km; Great Slave Lake - 28,568 sq km; Lake Winnipeg - 24,387 sq km; Erie* - 12,776 sq km; Ontario* - 9,790 sq km; Lake Athabasca - 7,935 sq km; Reindeer Lake - 6,650 sq km; Nettilling Lake - 5,542 sq kmnote - Great Lakes* area shown as Canadian waters
 
 ### 主要河流（按公里長度）
 Mackenzie - 4, 241 km; Yukon river source (shared with the US [m]) - 3,185 km; Saint Lawrence river mouth (shared with US) - 3,058 km; Nelson - 2,570 km; Columbia river source (shared with the US [m]) - 1,953 km; Churchill - 1,600 km; Fraser - 1,368 km; Ottawa - 1,271 km; Athabasca - 1,231 km; North Saskatchewan - 1,220 km; Liard - 1,115 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -90,13 +90,13 @@ continuous permafrost in north is a serious obstacle to development; cyclonic st
 ## 人民和社會
 
 ### 人口
-- `total`: 38,794,813
-- `male`: 19,234,729
-- `female`: 19,560,084 (2024 est.)
+- `總計`: 38,794,813
+- `男性`: 19,234,729
+- `女性`: 19,560,084 (2024 est.)
 
 ### 國籍
-- `noun`: Canadian(s)
-- `adjective`: Canadian
+- `名詞`: Canadian(s)
+- `形容詞`: Canadian
 
 ### 族裔群體
 Canadian 15.6%, English 14.7%, Scottish 12.1%, French 11%, Irish 12.1%, German 8.1%, Chinese 4.7%, Italian 4.3%, First Nations 1.7%, Indian 3.7%, Ukrainian 3.5%, Metis 1.5% (2021 est.)
@@ -104,26 +104,26 @@ Canadian 15.6%, English 14.7%, Scottish 12.1%, French 11%, Irish 12.1%, German 8
 
 ### 語文
 English (official) 87.1%, French (official) 29.1%, Chinese languages 4.2%, Spanish 3.2%, Punjabi 2.6%, Arabic 2.4%, Tagalog 2.3%, Italian 1.5% (2022 est.)
-- `major-language sample(s)`: The World Factbook, the indispensable source for basic information. (English)  The World Factbook, une source indispensable d'informations de base. (French)
+- `主要語言樣本`: The World Factbook, the indispensable source for basic information. (English)  The World Factbook, une source indispensable d'informations de base. (French)
 
 ### 宗教
 Christian 53.3%, Muslim 4.9%, Hindu 2.3%, Sikh 2.1%, Buddhist 1%, Jewish 0.9%, Traditional (North American Indigenous) 0.2%, other religions and traditional spirituality 0.6%, none 34.6% (2021 est.)
 
 ### 年齡結構
-- `0-14 years`: 15.5% (male 3,098,478/female 2,929,148)
-- `15-64 years`: 63.4% (male 12,382,422/female 12,227,512)
-- `65 years and over`: 21% (2024 est.) (male 3,753,829/female 4,403,424)
+- `0-14歲`: 15.5% (male 3,098,478/female 2,929,148)
+- `15-64歲`: 63.4% (male 12,382,422/female 12,227,512)
+- `65歲及以上`: 21% (2024 est.) (male 3,753,829/female 4,403,424)
 
 ### 撫養比率
-- `total dependency ratio`: 52.1
-- `youth dependency ratio`: 23.9
-- `elderly dependency ratio`: 28.2
-- `potential support ratio`: 3.6 (2021 est.)
+- `總受扶養人比率`: 52.1
+- `少年撫養比率`: 23.9
+- `老人撫養比率`: 28.2
+- `潛在支持率`: 3.6 (2021 est.)
 
 ### 年齡中位數
-- `total`: 42.6 years (2024 est.)
-- `male`: 41.4 years
-- `female`: 43.8 years
+- `總計`: 42.6 years (2024 est.)
+- `男性`: 41.4 years
+- `女性`: 43.8 years
 
 ### 人口成長率
 0.71% (2024 est.)
@@ -141,18 +141,18 @@ Christian 53.3%, Muslim 4.9%, Hindu 2.3%, Sikh 2.1%, Buddhist 1%, Jewish 0.9%, T
 vast majority of Canadians are positioned in a discontinuous band within approximately 300 km of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia
 
 ### 都市化
-- `urban population`: 81.9% of total population (2023)
-- `rate of urbanization`: 0.95% annual rate of change (2020-25 est.)
+- `城市人口`: 81.9% of total population (2023)
+- `城鎮化率`: 0.95% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 6.372 million Toronto, 4.308 million Montreal, 2.657 million Vancouver, 1.640 million Calgary, 1.544 million Edmonton, 1.437 million OTTAWA (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.06 male(s)/female
-- `15-64 years`: 1.01 male(s)/female
-- `65 years and over`: 0.85 male(s)/female
-- `total population`: 0.98 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.06 male(s)/female
+- `15-64歲`: 1.01 male(s)/female
+- `65歲及以上`: 0.85 male(s)/female
+- `總人口數`: 0.98 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 29.4 years (2019 est.)
@@ -161,14 +161,14 @@ vast majority of Canadians are positioned in a discontinuous band within approxi
 11 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 4.3 deaths/1,000 live births (2024 est.)
-- `male`: 4.5 deaths/1,000 live births
-- `female`: 4 deaths/1,000 live births
+- `總計`: 4.3 deaths/1,000 live births (2024 est.)
+- `男性`: 4.5 deaths/1,000 live births
+- `女性`: 4 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 84.2 years (2024 est.)
-- `male`: 81.9 years
-- `female`: 86.6 years
+- `總人口數`: 84.2 years (2024 est.)
+- `男性`: 81.9 years
+- `女性`: 86.6 years
 
 ### 總生育率
 1.58 children born/woman (2024 est.)
@@ -180,12 +180,12 @@ vast majority of Canadians are positioned in a discontinuous band within approxi
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: 99.3% of population
-- `improved: rural`: rural: 99.1% of population
-- `improved: total`: total: 99.2% of population
-- `unimproved: urban`: urban: 0.7% of population
-- `unimproved: rural`: rural: 0.9% of population
-- `unimproved: total`: total: 0.8% of population (2020 est.)
+- `已改進－城市`: urban: 99.3% of population
+- `已改進－農村`: rural: 99.1% of population
+- `已改進－總計`: total: 99.2% of population
+- `未改進：都市`: urban: 0.7% of population
+- `未改進：鄉村`: rural: 0.9% of population
+- `未改善：總計`: total: 0.8% of population (2020 est.)
 
 ### 當前醫療支出
 12.9% of GDP (2020)
@@ -197,27 +197,27 @@ NA
 2.5 beds/1,000 population (2019)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 99.1% of population
-- `improved: rural`: rural: 98.9% of population
-- `improved: total`: total: 99% of population
-- `unimproved: urban`: urban: 0.9% of population
-- `unimproved: rural`: rural: 1.1% of population
-- `unimproved: total`: total: 1% of population (2020 est.)
+- `已改進－城市`: urban: 99.1% of population
+- `已改進－農村`: rural: 98.9% of population
+- `已改進－總計`: total: 99% of population
+- `未改進：都市`: urban: 0.9% of population
+- `未改進：鄉村`: rural: 1.1% of population
+- `未改善：總計`: total: 1% of population (2020 est.)
 
 ### 肥胖—成人流行率
 29.4% (2016)
 
 ### 人均酒精消費量
-- `total`: 8 liters of pure alcohol (2019 est.)
-- `beer`: 3.5 liters of pure alcohol (2019 est.)
-- `wine`: 2 liters of pure alcohol (2019 est.)
-- `spirits`: 2.1 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.4 liters of pure alcohol (2019 est.)
+- `總計`: 8 liters of pure alcohol (2019 est.)
+- `啤酒`: 3.5 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 2 liters of pure alcohol (2019 est.)
+- `烈酒`: 2.1 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.4 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 13% (2020 est.)
-- `male`: 15.3% (2020 est.)
-- `female`: 10.7% (2020 est.)
+- `總計`: 13% (2020 est.)
+- `男性`: 15.3% (2020 est.)
+- `女性`: 10.7% (2020 est.)
 
 ### 5歲以下體重不足兒童
 NA
@@ -229,14 +229,14 @@ NA
 5.2% of GDP (2020 est.)
 
 ### 識字程度
-- `total population`: NA
-- `male`: NA
-- `female`: NA
+- `總人口數`: NA
+- `男性`: NA
+- `女性`: NA
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 17 years
-- `male`: 16 years
-- `female`: 17 years (2020)
+- `總計`: 17 years
+- `男性`: 16 years
+- `女性`: 17 years (2020)
 
 ## 環境
 
@@ -244,23 +244,23 @@ NA
 metal smelting, coal-burning utilities, and vehicle emissions impacting agricultural and forest productivity; air pollution and resulting acid rain severely affecting lakes and damaging forests; ocean waters becoming contaminated due to agricultural, industrial, mining, and forestry activities
 
 ### 環境—國際協定
-- `party to`: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands
-- `signed, but not ratified`: Air Pollution-Volatile Organic Compounds, Marine Life Conservation
+- `是以下議定書的締約國：`: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands
+- `已簽署但未批準`: Air Pollution-Volatile Organic Compounds, Marine Life Conservation
 
 ### 氣候
 varies from temperate in south to subarctic and arctic in north
 
 ### 土地利用
-- `agricultural land`: 6.8% (2018 est.)
-- `agricultural land: arable land`: arable land: 4.7% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.5% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 1.6% (2018 est.)
-- `forest`: 34.1% (2018 est.)
-- `other`: 59.1% (2018 est.)
+- `農地`: 6.8% (2018 est.)
+- `農地：耕地`: arable land: 4.7% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.5% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 1.6% (2018 est.)
+- `森林`: 34.1% (2018 est.)
+- `其它`: 59.1% (2018 est.)
 
 ### 都市化
-- `urban population`: 81.9% of total population (2023)
-- `rate of urbanization`: 0.95% annual rate of change (2020-25 est.)
+- `城市人口`: 81.9% of total population (2023)
+- `城鎮化率`: 0.95% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.08% of GDP (2018 est.)
@@ -269,17 +269,17 @@ varies from temperate in south to subarctic and arctic in north
 0.08% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 6.39 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 544.89 megatons (2016 est.)
-- `methane emissions`: 101.82 megatons (2020 est.)
+- `顆粒物排放量`: 6.39 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 544.89 megatons (2016 est.)
+- `甲烷排放量`: 101.82 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 25,103,034 tons (2014 est.)
-- `municipal solid waste recycled annually`: 5,168,715 tons (2008 est.)
-- `percent of municipal solid waste recycled`: 20.6% (2008 est.)
+- `城市固體廢棄物－每年產生`: 25,103,034 tons (2014 est.)
+- `城市固體廢棄物－每年回收`: 5,168,715 tons (2008 est.)
+- `城市固體廢棄物－回收百分比`: 20.6% (2008 est.)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Huron* - 35,972 sq km; Great Bear Lake - 31,328 sq km; Superior* - 28,754 sq km; Great Slave Lake - 28,568 sq km; Lake Winnipeg - 24,387 sq km; Erie* - 12,776 sq km; Ontario* - 9,790 sq km; Lake Athabasca - 7,935 sq km; Reindeer Lake - 6,650 sq km; Nettilling Lake - 5,542 sq kmnote - Great Lakes* area shown as Canadian waters
+- `淡水湖`: Huron* - 35,972 sq km; Great Bear Lake - 31,328 sq km; Superior* - 28,754 sq km; Great Slave Lake - 28,568 sq km; Lake Winnipeg - 24,387 sq km; Erie* - 12,776 sq km; Ontario* - 9,790 sq km; Lake Athabasca - 7,935 sq km; Reindeer Lake - 6,650 sq km; Nettilling Lake - 5,542 sq kmnote - Great Lakes* area shown as Canadian waters
 
 ### 主要河流（按公里長度）
 Mackenzie - 4, 241 km; Yukon river source (shared with the US [m]) - 3,185 km; Saint Lawrence river mouth (shared with US) - 3,058 km; Nelson - 2,570 km; Columbia river source (shared with the US [m]) - 1,953 km; Churchill - 1,600 km; Fraser - 1,368 km; Ottawa - 1,271 km; Athabasca - 1,231 km; North Saskatchewan - 1,220 km; Liard - 1,115 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -291,34 +291,34 @@ Atlantic Ocean drainage: Mississippi* *(Gulf of Mexico)* (3,202,185 sq km, Canad
 Northern Great Plains Aquifer
 
 ### 總取水量
-- `municipal`: 4.87 billion cubic meters (2020 est.)
-- `industrial`: 27.51 billion cubic meters (2020 est.)
-- `agricultural`: 3.86 billion cubic meters (2020 est.)
+- `市級`: 4.87 billion cubic meters (2020 est.)
+- `工業`: 27.51 billion cubic meters (2020 est.)
+- `農業`: 3.86 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 2.9 trillion cubic meters (2020 est.)
 
 ### 地質公園
-- `total global geoparks and regional networks`: 5
-- `global geoparks and regional networks`: Perce; Stonehammer; Tumbler Ridge; Cliffs of Fundy; Discovery (2023)
+- `全球地質公園和區域網絡總數`: 5
+- `全球地質公園和區域網絡`: Perce; Stonehammer; Tumbler Ridge; Cliffs of Fundy; Discovery (2023)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Canada
-- `etymology`: the country name likely derives from the St. Lawrence Iroquoian word "kanata" meaning village or settlement
+- `常用長名`: none
+- `常用短名`: Canada
+- `语源学`: the country name likely derives from the St. Lawrence Iroquoian word "kanata" meaning village or settlement
 
 ### 政府類型
 federal parliamentary democracy (Parliament of Canada) under a constitutional monarchy; a Commonwealth realm; federal and state authorities and responsibilities regulated in constitution
 
 ### 首都
-- `name`: Ottawa
-- `geographic coordinates`: 45 25 N, 75 42 W
-- `time difference`: UTC-5 (same time as Washington, DC, during Standard Time)
-- `daylight saving time`: +1hr, begins second Sunday in March; ends first Sunday in November
-- `time zone note`: Canada has six time zones
-- `etymology`: the city lies on the south bank of the Ottawa River, from which it derives its name; the river name comes from the Algonquin word "adawe" meaning "to trade" and refers to the indigenous peoples who used the river as a trade highway
+- `名稱`: Ottawa
+- `地理坐標`: 45 25 N, 75 42 W
+- `時差`: UTC-5 (same time as Washington, DC, during Standard Time)
+- `日光節約時間`: +1hr, begins second Sunday in March; ends first Sunday in November
+- `時區備註`: Canada has six time zones
+- `语源学`: the city lies on the south bank of the Ottawa River, from which it derives its name; the river name comes from the Algonquin word "adawe" meaning "to trade" and refers to the indigenous peoples who used the river as a trade highway
 
 ### 行政區劃
 10 provinces and 3 territories*; Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories*, Nova Scotia, Nunavut*, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon*
@@ -333,37 +333,37 @@ Canada Day, 1 July (1867)
 common law system except in Quebec, where civil law based on the French civil code prevails
 
 ### 憲法
-- `history`: consists of unwritten and written acts, customs, judicial decisions, and traditions dating from 1763; the written part of the constitution consists of the Constitution Act of 29 March 1867, which created a federation of four provinces, and the Constitution Act of 17 April 1982
-- `amendments`: proposed by either house of Parliament or by the provincial legislative assemblies; there are 5 methods for passage though most require approval by both houses of Parliament, approval of at least two thirds of the provincial legislative assemblies and assent and formalization as a proclamation by the governor general in council; the most restrictive method is reserved for amendments affecting fundamental sections of the constitution, such as the office of the monarch or the governor general, and the constitutional amendment procedures, which require unanimous approval by both houses and by all the provincial assemblies, and assent of the governor general in council; amended 11 times, last in 2011 (Fair Representation Act, 2011)
+- `歷史`: consists of unwritten and written acts, customs, judicial decisions, and traditions dating from 1763; the written part of the constitution consists of the Constitution Act of 29 March 1867, which created a federation of four provinces, and the Constitution Act of 17 April 1982
+- `修正`: proposed by either house of Parliament or by the provincial legislative assemblies; there are 5 methods for passage though most require approval by both houses of Parliament, approval of at least two thirds of the provincial legislative assemblies and assent and formalization as a proclamation by the governor general in council; the most restrictive method is reserved for amendments affecting fundamental sections of the constitution, such as the office of the monarch or the governor general, and the constitutional amendment procedures, which require unanimous approval by both houses and by all the provincial assemblies, and assent of the governor general in council; amended 11 times, last in 2011 (Fair Representation Act, 2011)
 
 ### 國際法組織參與
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: yes
-- `citizenship by descent only`: yes
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: minimum of 3 of last 5 years resident in Canada
+- `出生公民權`: yes
+- `血統公民身份`: yes
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: minimum of 3 of last 5 years resident in Canada
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: King CHARLES III (since 8 September 2022); represented by Governor General Mary SIMON (since 6 July 2021)
-- `head of government`: Prime Minister Justin Pierre James TRUDEAU (since 4 November 2015)
-- `cabinet`: Federal Ministry chosen by the prime minister usually from among members of his/her own party sitting in Parliament
-- `elections/appointments`: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister for a 5-year term; following legislative elections, the leader of the majority party or majority coalition in the House of Commons generally designated prime minister by the governor general
+- `國家元首`: King CHARLES III (since 8 September 2022); represented by Governor General Mary SIMON (since 6 July 2021)
+- `政府首腦`: Prime Minister Justin Pierre James TRUDEAU (since 4 November 2015)
+- `内閣`: Federal Ministry chosen by the prime minister usually from among members of his/her own party sitting in Parliament
+- `選舉/任命`: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister for a 5-year term; following legislative elections, the leader of the majority party or majority coalition in the House of Commons generally designated prime minister by the governor general
 **note**:  the governor general position is largely ceremonial
 
 ### 立法部門
-- `description`: bicameral Parliament or Parlement consists of:Senate or Senat (105 seats; members appointed by the governor general on the advice of the prime minister and can serve until age 75)House of Commons or Chambre des Communes (338 seats; members directly elected in single-seat constituencies by simple majority vote with terms up to 4 years)
-- `elections`: Senate - last appointed in July 2021House of Commons - last held on 20 September 2021 (next to be held on or before 20 October 2025)
-- `election results`: Senate - composition - men 43, women 54, percentage women 55.7% (8 seats are vacant)  House of Commons - percent of vote by party - CPC 33.7%, Liberal Party 32.6%, NDP 17.8%, Bloc Quebecois 7.7%, Greens 2.3%, other 5.9%; seats by party - Liberal Party 159, CPC 119, NDP 25, Bloc Quebecois 32, Greens 2, independent 1; composition - men 234, women 102; percentage women 30.4%; total Parliament percentage women 35.2%
+- `描述`: bicameral Parliament or Parlement consists of:Senate or Senat (105 seats; members appointed by the governor general on the advice of the prime minister and can serve until age 75)House of Commons or Chambre des Communes (338 seats; members directly elected in single-seat constituencies by simple majority vote with terms up to 4 years)
+- `選舉`: Senate - last appointed in July 2021House of Commons - last held on 20 September 2021 (next to be held on or before 20 October 2025)
+- `選舉結果`: Senate - composition - men 43, women 54, percentage women 55.7% (8 seats are vacant)  House of Commons - percent of vote by party - CPC 33.7%, Liberal Party 32.6%, NDP 17.8%, Bloc Quebecois 7.7%, Greens 2.3%, other 5.9%; seats by party - Liberal Party 159, CPC 119, NDP 25, Bloc Quebecois 32, Greens 2, independent 1; composition - men 234, women 102; percentage women 30.4%; total Parliament percentage women 35.2%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court of Canada (consists of the chief justice and 8 judges); note - in 1949, Canada abolished all appeals beyond its Supreme Court, which prior to that time, were heard by the Judicial Committee of the Privy Council (in London)
-- `judge selection and term of office`: chief justice and judges appointed by the prime minister in council; all judges appointed for life with mandatory retirement at age 75
-- `subordinate courts`: federal level: Federal Court of Appeal; Federal Court; Tax Court; federal administrative tribunals; Courts Martial; provincial/territorial level: provincial superior, appeals, first instance, and specialized courts; note - in 1999, the Nunavut Court - a circuit court with the power of a provincial superior court, as well as a territorial court - was established to serve isolated settlements
+- `最高法院`: Supreme Court of Canada (consists of the chief justice and 8 judges); note - in 1949, Canada abolished all appeals beyond its Supreme Court, which prior to that time, were heard by the Judicial Committee of the Privy Council (in London)
+- `法官遴選和任期`: chief justice and judges appointed by the prime minister in council; all judges appointed for life with mandatory retirement at age 75
+- `下級法院`: federal level: Federal Court of Appeal; Federal Court; Tax Court; federal administrative tribunals; Courts Martial; provincial/territorial level: provincial superior, appeals, first instance, and specialized courts; note - in 1999, the Nunavut Court - a circuit court with the power of a provincial superior court, as well as a territorial court - was established to serve isolated settlements
 
 ### 政黨
 Bloc QuebecoisConservative Party of Canada or CPCGreen PartyLiberal PartyNew Democratic Party or NDPPeople's Party of Canada
@@ -372,23 +372,23 @@ Bloc QuebecoisConservative Party of Canada or CPCGreen PartyLiberal PartyNew Dem
 ADB (nonregional member), AfDB (nonregional member), APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CDB, CE (observer), EAPC, EBRD, EITI (implementing country), FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNOOSA, UNRWA, UNTSO, UPU, USMCA, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Kirsten HILLMAN (since 17 July 2020)
-- `chancery`: 501 Pennsylvania Avenue NW, Washington, DC 20001
-- `telephone`: [1] (844) 880-6519
+- `外交代表負責人`: Ambassador Kirsten HILLMAN (since 17 July 2020)
+- `衡平法院（在美國）`: 501 Pennsylvania Avenue NW, Washington, DC 20001
+- `電話號碼`: [1] (844) 880-6519
 - `FAX`: [1] (202) 682-7738
-- `email address and website`: ccs.scc@international.gc.ca  https://www.international.gc.ca/country-pays/us-eu/washington.aspx?lang=eng
-- `consulate(s) general`: Atlanta, Boston, Chicago, Dallas, Denver, Detroit, Los Angeles, Miami, Minneapolis, New York, San Francisco, Seattle
-- `trade office(s)`: Houston, Palo Alto (CA), San Diego; note - there are trade offices in the Consulates General
+- `電子郵件地址和網站`: ccs.scc@international.gc.ca  https://www.international.gc.ca/country-pays/us-eu/washington.aspx?lang=eng
+- `總領事館`: Atlanta, Boston, Chicago, Dallas, Denver, Detroit, Los Angeles, Miami, Minneapolis, New York, San Francisco, Seattle
+- `貿易辦事處`: Houston, Palo Alto (CA), San Diego; note - there are trade offices in the Consulates General
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador David L. COHEN (since December 2021)
-- `embassy`: 490 Sussex Drive, Ottawa, Ontario K1N 1G8
-- `mailing address`: 5480 Ottawa Place, Washington DC  20521-5480
-- `telephone`: [1] (613) 688-5335
+- `外交代表負責人`: Ambassador David L. COHEN (since December 2021)
+- `大使館`: 490 Sussex Drive, Ottawa, Ontario K1N 1G8
+- `郵寄地址`: 5480 Ottawa Place, Washington DC  20521-5480
+- `電話號碼`: [1] (613) 688-5335
 - `FAX`: [1] (613) 241-7845
-- `email address and website`: OttawaNIV@state.gov  https://ca.usembassy.gov/
-- `consulate(s) general`: Calgary, Halifax, Montreal, Quebec City, Toronto, Vancouver
-- `consulate(s)`: Winnipeg
+- `電子郵件地址和網站`: OttawaNIV@state.gov  https://ca.usembassy.gov/
+- `總領事館`: Calgary, Halifax, Montreal, Quebec City, Toronto, Vancouver
+- `領事館`: Winnipeg
 
 ### 旗幟說明
 two vertical bands of red (hoist and fly side, half width) with white square between them; an 11-pointed red maple leaf is centered in the white square; the maple leaf has long been a Canadian symbol
@@ -397,8 +397,8 @@ two vertical bands of red (hoist and fly side, half width) with white square bet
 maple leaf, beaver; national colors: red, white
 
 ### 國歌
-- `name`: "O Canada"
-- `lyrics/music`: Adolphe-Basile ROUTHIER [French], Robert Stanley WEIR [English]/Calixa LAVALLEE
+- `名稱`: "O Canada"
+- `歌詞／音樂`: Adolphe-Basile ROUTHIER [French], Robert Stanley WEIR [English]/Calixa LAVALLEE
 **note**:  adopted 1980; originally written in 1880, "O Canada" served as an unofficial anthem many years before its official adoption; the anthem has French and English versions whose lyrics differ; as a Commonwealth realm, in addition to the national anthem, "God Save the King" serves as the royal anthem (see United Kingdom)
 
 ### 國家級遺產
@@ -445,18 +445,18 @@ $2.14 trillion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 1.8% (2020 est.)
-- `industry`: 22.5% (2020 est.)
-- `services`: 69.6% (2020 est.)
+- `農業`: 1.8% (2020 est.)
+- `產業`: 22.5% (2020 est.)
+- `服務`: 69.6% (2020 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 55.2% (2023 est.)
-- `government consumption`: 21.2% (2023 est.)
-- `investment in fixed capital`: 22.9% (2023 est.)
-- `investment in inventories`: 1% (2023 est.)
-- `exports of goods and services`: 33.5% (2023 est.)
-- `imports of goods and services`: -33.9% (2023 est.)
+- `家庭消費`: 55.2% (2023 est.)
+- `政府消費`: 21.2% (2023 est.)
+- `固定資本投資`: 22.9% (2023 est.)
+- `存貨投資`: 1% (2023 est.)
+- `商品和服務出口`: 33.5% (2023 est.)
+- `商品和服務進口`: -33.9% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -481,9 +481,9 @@ transportation equipment, chemicals, processed and unprocessed minerals, food pr
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 10.6% (2023 est.)
-- `male`: 11.4% (2023 est.)
-- `female`: 9.8% (2023 est.)
+- `總計`: 10.6% (2023 est.)
+- `男性`: 11.4% (2023 est.)
+- `女性`: 9.8% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 基尼指數係數—家庭所得分配
@@ -491,12 +491,12 @@ transportation equipment, chemicals, processed and unprocessed minerals, food pr
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 平均家庭支出
-- `on food`: 9.5% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 3.7% of household expenditures (2022 est.)
+- `餐食`: 9.5% of household expenditures (2022 est.)
+- `酒精和煙草`: 3.7% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 2.9% (2019 est.)
-- `highest 10%`: 24.4% (2019 est.)
+- `最低10%`: 2.9% (2019 est.)
+- `最高10%`: 24.4% (2019 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -506,8 +506,8 @@ transportation equipment, chemicals, processed and unprocessed minerals, food pr
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $393.642 billion (2022 est.)
-- `expenditures`: $399.8 billion (2022 est.)
+- `收入`: $393.642 billion (2022 est.)
+- `支出`: $399.8 billion (2022 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -569,22 +569,22 @@ $106.615 billion (2021 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 158.973 million kW (2022 est.)
-- `consumption`: 553.261 billion kWh (2022 est.)
-- `exports`: 65.225 billion kWh (2022 est.)
-- `imports`: 14.116 billion kWh (2022 est.)
-- `transmission/distribution losses`: 33.626 billion kWh (2022 est.)
+- `裝機容量`: 158.973 million kW (2022 est.)
+- `消費`: 553.261 billion kWh (2022 est.)
+- `出口`: 65.225 billion kWh (2022 est.)
+- `進口`: 14.116 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 33.626 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 17.2% of total installed capacity (2022 est.)
-- `nuclear`: 12.9% of total installed capacity (2022 est.)
-- `solar`: 0.9% of total installed capacity (2022 est.)
-- `wind`: 6% of total installed capacity (2022 est.)
-- `hydroelectricity`: 61.5% of total installed capacity (2022 est.)
-- `biomass and waste`: 1.5% of total installed capacity (2022 est.)
+- `石化燃料`: 17.2% of total installed capacity (2022 est.)
+- `核能`: 12.9% of total installed capacity (2022 est.)
+- `太陽能`: 0.9% of total installed capacity (2022 est.)
+- `風能`: 6% of total installed capacity (2022 est.)
+- `水力發電`: 61.5% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 1.5% of total installed capacity (2022 est.)
 
 ### 核能
 - `Number of operational nuclear reactors`: 19 (2023)
@@ -593,29 +593,29 @@ $106.615 billion (2021 est.)
 - `Number of nuclear reactors permanently shut down`: 6 (2023)
 
 ### 煤炭
-- `production`: 43.024 million metric tons (2022 est.)
-- `consumption`: 17.138 million metric tons (2022 est.)
-- `exports`: 29.114 million metric tons (2022 est.)
-- `imports`: 6.444 million metric tons (2022 est.)
-- `proven reserves`: 6.582 billion metric tons (2022 est.)
+- `生產`: 43.024 million metric tons (2022 est.)
+- `消費`: 17.138 million metric tons (2022 est.)
+- `出口`: 29.114 million metric tons (2022 est.)
+- `進口`: 6.444 million metric tons (2022 est.)
+- `探明儲量`: 6.582 billion metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 5.692 million bbl/day (2023 est.)
-- `refined petroleum consumption`: 2.454 million bbl/day (2023 est.)
-- `crude oil estimated reserves`: 170.3 billion barrels (2021 est.)
+- `總石油產量`: 5.692 million bbl/day (2023 est.)
+- `成品油消費量`: 2.454 million bbl/day (2023 est.)
+- `原油儲備量估值`: 170.3 billion barrels (2021 est.)
 
 ### 天然氣
-- `production`: 187.686 billion cubic meters (2022 est.)
-- `consumption`: 130.316 billion cubic meters (2022 est.)
-- `exports`: 84.928 billion cubic meters (2022 est.)
-- `imports`: 27.481 billion cubic meters (2022 est.)
-- `proven reserves`: 2.067 trillion cubic meters (2021 est.)
+- `生產`: 187.686 billion cubic meters (2022 est.)
+- `消費`: 130.316 billion cubic meters (2022 est.)
+- `出口`: 84.928 billion cubic meters (2022 est.)
+- `進口`: 27.481 billion cubic meters (2022 est.)
+- `探明儲量`: 2.067 trillion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 572.82 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 25.74 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 290.996 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 256.084 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 572.82 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 25.74 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 290.996 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 256.084 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 315.581 million Btu/person (2022 est.)
@@ -623,17 +623,17 @@ $106.615 billion (2021 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 11.312 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 29 (2022 est.)
+- `總訂閱數`: 11.312 million (2022 est.)
+- `每100名居民訂閱數`: 29 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 35.082 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 91 (2022 est.)
+- `總訂閱數`: 35.082 million (2022 est.)
+- `每100名居民訂閱數`: 91 (2022 est.)
 
 ### 電信系統
-- `general assessment`: the Canadian telecom market continues to show steady development as operators invest in network upgrades; much of the investment among telcos has been channeled into LTE infrastructure to capitalize on consumer demand for mobile data services, while there has also been further investment in 5G; investment programs have also been supported by regulatory efforts to ensure that operators have spectrum available to develop 5G services; an investment in fixed-line infrastructure, focused on FttP and, among cable broadband providers; government policy has encouraged the extension of broadband to rural and regional areas, with the result that services are almost universally available and the emphasis now is on improving service speeds to enable the entire population to benefit from the digital economy and society; cable broadband is the principal access platform, followed by DSL; the mobile rate remains comparatively low by international standards; Canadians have provided for LTE and LTE-A infrastructure; despite topographical challenges and the remoteness of many areas, the major players effectively offer 99% population coverage with LTE; operators now provide up to 70% population coverage with 5G (2024)
-- `domestic`: Nearly 29 per 100 fixed-line and 91 per 100 mobile-cellular teledensity (2022)
-- `international`: country code - 1; landing points for the Nunavut Undersea Fiber Optic Network System, Greenland Connect, Persona, GTT Atlantic, and Express, KetchCan 1 Submarine Fiber Cable system, St Pierre and Miquelon Cable submarine cables providing links to the US and Europe; satellite earth stations - 7 (5 Intelsat - 4 Atlantic Ocean and 1 Pacific Ocean, and 2 Intersputnik - Atlantic Ocean region) (2019)
+- `總體評估`: the Canadian telecom market continues to show steady development as operators invest in network upgrades; much of the investment among telcos has been channeled into LTE infrastructure to capitalize on consumer demand for mobile data services, while there has also been further investment in 5G; investment programs have also been supported by regulatory efforts to ensure that operators have spectrum available to develop 5G services; an investment in fixed-line infrastructure, focused on FttP and, among cable broadband providers; government policy has encouraged the extension of broadband to rural and regional areas, with the result that services are almost universally available and the emphasis now is on improving service speeds to enable the entire population to benefit from the digital economy and society; cable broadband is the principal access platform, followed by DSL; the mobile rate remains comparatively low by international standards; Canadians have provided for LTE and LTE-A infrastructure; despite topographical challenges and the remoteness of many areas, the major players effectively offer 99% population coverage with LTE; operators now provide up to 70% population coverage with 5G (2024)
+- `國內`: Nearly 29 per 100 fixed-line and 91 per 100 mobile-cellular teledensity (2022)
+- `國際的`: country code - 1; landing points for the Nunavut Undersea Fiber Optic Network System, Greenland Connect, Persona, GTT Atlantic, and Express, KetchCan 1 Submarine Fiber Cable system, St Pierre and Miquelon Cable submarine cables providing links to the US and Europe; satellite earth stations - 7 (5 Intelsat - 4 Atlantic Ocean and 1 Pacific Ocean, and 2 Intersputnik - Atlantic Ocean region) (2019)
 
 ### 廣播媒體
 2 public TV broadcasting networks, 1 in English and 1 in French, each with a large number of network affiliates; several private-commercial networks also with multiple network affiliates; overall, about 150 TV stations; multi-channel satellite and cable systems provide access to a wide range of stations including US stations; mix of public and commercial radio broadcasters with the Canadian Broadcasting Corporation (CBC), the public radio broadcaster, operating 4 radio networks, Radio Canada International, and radio services to indigenous populations in the north; roughly 1,119 licensed radio stations (2016)
@@ -642,20 +642,20 @@ $106.615 billion (2021 est.)
 .ca
 
 ### 網際網路使用者
-- `total`: 35.34 million (2021 est.)
-- `percent of population`: 93% (2021 est.)
+- `總計`: 35.34 million (2021 est.)
+- `佔人口比例`: 93% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 15,825,813 (2020 est.)
-- `subscriptions per 100 inhabitants`: 42 (2020 est.)
+- `總計`: 15,825,813 (2020 est.)
+- `每100名居民訂閱數`: 42 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 51 (2020)
-- `inventory of registered aircraft operated by air carriers`: 879
-- `annual passenger traffic on registered air carriers`: 89.38 million (2018)
-- `annual freight traffic on registered air carriers`: 3,434,070,000 (2018) mt-km
+- `註冊航空公司數量`: 51 (2020)
+- `註冊飛機庫存—航空承運商經營`: 879
+- `年度客運量－註冊航空公司`: 89.38 million (2018)
+- `年度貨運量－註冊航空公司`: 3,434,070,000 (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 C
@@ -670,30 +670,30 @@ C
 840,000 km oil and gas (2020)
 
 ### 鐵路
-- `total`: 49,422 km (2021) note: 129 km electrified (2021)
-- `standard gauge`: 49,422 km (2021) 1.435-m gauge
+- `總計`: 49,422 km (2021) note: 129 km electrified (2021)
+- `標準鐵軌`: 49,422 km (2021) 1.435-m gauge
 
 ### 道路
-- `total`: 1,042,300 km
-- `paved`: 415,600 km (includes 17,000 km of expressways)
-- `unpaved`: 626,700 km (2011)
+- `總計`: 1,042,300 km
+- `已鋪砌`: 415,600 km (includes 17,000 km of expressways)
+- `未鋪砌`: 626,700 km (2011)
 
 ### 水道
 636 km (2011) (Saint Lawrence Seaway of 3,769 km, including the Saint Lawrence River of 3,058 km, shared with United States)
 
 ### 商船
-- `total`: 716 (2023)
-- `by type`: bulk carrier 22, container ship 1, general cargo 78, oil tanker 15, other 600
+- `總計`: 716 (2023)
+- `依類型`: bulk carrier 22, container ship 1, general cargo 78, oil tanker 15, other 600
 
 ### 港口
-- `total ports`: 284 (2024)
-- `large`: 4
-- `medium`: 14
-- `small`: 58
-- `very small`: 149
-- `size unknown`: 59
-- `ports with oil terminals`: 59
-- `key ports`: Argentia, Canaport (St. John), Halifax, Hamilton, Montreal, New Westminster, Pond Inlet, Prince Rupert, Quebec, Sept Iles, St. John, Sydney, Thunder Bay, Toronto, Trois Rivieres, Vancouver, Victoria Harbor, Windsor
+- `總港口數`: 284 (2024)
+- `大`: 4
+- `中`: 14
+- `小`: 58
+- `非常小`: 149
+- `未知大小`: 59
+- `原油碼頭港口`: 59
+- `主要港口`: Argentia, Canaport (St. John), Halifax, Hamilton, Montreal, New Westminster, Pond Inlet, Prince Rupert, Quebec, Sept Iles, St. John, Sydney, Thunder Bay, Toronto, Trois Rivieres, Vancouver, Victoria Harbor, Windsor
 
 ## 軍事和安全
 
@@ -747,8 +747,8 @@ Islamic State of Iraq and ash-Sham (ISIS); Hizballah
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 22,400 (Venezuela) (refugees and migrants) (2020); 5,254 (Iran) (mid-year 2021)
-- `stateless persons`: 4,323 (2022)
+- `難民（原籍國）`: 22,400 (Venezuela) (refugees and migrants) (2020); 5,254 (Iran) (mid-year 2021)
+- `無國籍人士`: 4,323 (2022)
 
 ### 非法藥物
 transnational criminal organizations trafficked cocaine, opium, methamphetamine, other synthetic drugs, and prescription drugs (some of which transited the United States) to Canada for domestic consumption; a source of synthetic drugs (including synthetic opioids), cannabis, and MDMA trafficked to the United States;  a major source of precursor or essential chemicals used in the production of illicit narcotics

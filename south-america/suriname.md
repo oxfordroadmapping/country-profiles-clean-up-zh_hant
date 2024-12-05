@@ -19,23 +19,23 @@ Northern South America, bordering the North Atlantic Ocean, between French Guian
 South America
 
 ### 面積
-- `total `: 163,820 sq km
-- `land`: 156,000 sq km
-- `water`: 7,820 sq km
+- `總計`: 163,820 sq km
+- `土地`: 156,000 sq km
+- `水`: 7,820 sq km
 
 ### 面積—比較
 slightly larger than Georgia
 
 ### 陸地邊界
-- `total`: 1,907 km
-- `border countries`: Brazil 515 km; French Guiana 556 km; Guyana 836 km
+- `總計`: 1,907 km
+- `邊境國家`: Brazil 515 km; French Guiana 556 km; Guyana 836 km
 
 ### 海岸線
 386 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive economic zone`: 200 nm
+- `領海`: 12 nm
+- `專屬經濟區`: 200 nm
 
 ### 氣候
 tropical; moderated by trade winds
@@ -44,20 +44,20 @@ tropical; moderated by trade winds
 mostly rolling hills; narrow coastal plain with swamps
 
 ### 海拔
-- `highest point`: Juliana Top 1,230 m
-- `lowest point`: unnamed location in the coastal plain -2 m
-- `mean elevation`: 246 m
+- `最高點`: Juliana Top 1,230 m
+- `最低點`: unnamed location in the coastal plain -2 m
+- `平均海拔`: 246 m
 
 ### 自然資源
 timber, hydropower, fish, kaolin, shrimp, bauxite, gold, and small amounts of nickel, copper, platinum, iron ore
 
 ### 土地利用
-- `agricultural land`: 0.5% (2018 est.)
-- `agricultural land: arable land`: arable land: 0.4% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0.1% (2018 est.)
-- `forest`: 94.6% (2018 est.)
-- `other`: 4.9% (2018 est.)
+- `農地`: 0.5% (2018 est.)
+- `農地：耕地`: arable land: 0.4% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0.1% (2018 est.)
+- `森林`: 94.6% (2018 est.)
+- `其它`: 4.9% (2018 est.)
 
 ### 灌溉土地
 600 sq km (2020)
@@ -77,20 +77,20 @@ smallest independent country on South American continent; mostly tropical rain f
 ## 人民和社會
 
 ### 人口
-- `total`: 646,758
-- `male`: 320,352
-- `female`: 326,406 (2024 est.)
+- `總計`: 646,758
+- `男性`: 320,352
+- `女性`: 326,406 (2024 est.)
 
 ### 國籍
-- `noun`: Surinamer(s)
-- `adjective`: Surinamese
+- `名詞`: Surinamer(s)
+- `形容詞`: Surinamese
 
 ### 族裔群體
 Hindustani (also known locally as "East Indians"; their ancestors emigrated from northern India in the latter part of the 19th century) 27.4%, Maroon (their African ancestors were brought to the country in the 17th and 18th centuries as slaves and escaped to the interior) 21.7%, Creole (mixed White and Black) 15.7%, Javanese 13.7%, mixed 13.4%, other 7.6%, unspecified 0.6% (2012 est.)
 
 ### 語文
 Dutch (official), English (widely spoken), Sranang Tongo (Surinamese, sometimes called Taki-Taki, is the native language of Creoles and much of the younger population), Caribbean Hindustani (a dialect of Hindi), Javanese
-- `major-language sample(s)`: Het Wereld Feitenboek, een omnisbare bron van informatie. (Dutch)  The World Factbook, the indispensable source for basic information. (English)
+- `主要語言樣本`: Het Wereld Feitenboek, een omnisbare bron van informatie. (Dutch)  The World Factbook, the indispensable source for basic information. (English)
 
 ### 宗教
 Protestant 23.6% (includes Evangelical 11.2%, Moravian 11.2%, Reformed 0.7%, Lutheran 0.5%), Hindu 22.3%, Roman Catholic 21.6%, Muslim 13.8%, other Christian 3.2%, Winti 1.8%, Jehovah's Witness 1.2%, other 1.7%, none 7.5%, unspecified 3.2% (2012 est.)
@@ -99,20 +99,20 @@ Protestant 23.6% (includes Evangelical 11.2%, Moravian 11.2%, Reformed 0.7%, Lut
 Suriname is a pluralistic society consisting primarily of Creoles (persons of mixed African and European heritage), the descendants of escaped African slaves known as Maroons, and the descendants of Indian and Javanese (Indonesian) contract workers. The country overall is in full, post-industrial demographic transition, with a low fertility rate, a moderate mortality rate, and a rising life expectancy. However, the Maroon population of the rural interior lags behind because of lower educational attainment and contraceptive use, higher malnutrition, and significantly less access to electricity, potable water, sanitation, infrastructure, and health care.Some 350,000 people of Surinamese descent live in the Netherlands, Suriname's former colonial ruler. In the 19th century, better-educated, largely Dutch-speaking Surinamese began emigrating to the Netherlands. World War II interrupted the outflow, but it resumed after the war when Dutch labor demands grew - emigrants included all segments of the Creole population. Suriname still is strongly influenced by the Netherlands because most Surinamese have relatives living there and it is the largest supplier of development aid. Other emigration destinations include French Guiana and the United States. Suriname's immigration rules are flexible, and the country is easy to enter illegally because rainforests obscure its borders. Since the mid-1980s, Brazilians have settled in Suriname's capital, Paramaribo, or eastern Suriname, where they mine gold. This immigration is likely to slowly re-orient Suriname toward its Latin American roots.
 
 ### 年齡結構
-- `0-14 years`: 22.5% (male 73,864/female 71,573)
-- `15-64 years`: 70% (male 226,417/female 226,235)
-- `65 years and over`: 7.5% (2024 est.) (male 20,071/female 28,598)
+- `0-14歲`: 22.5% (male 73,864/female 71,573)
+- `15-64歲`: 70% (male 226,417/female 226,235)
+- `65歲及以上`: 7.5% (2024 est.) (male 20,071/female 28,598)
 
 ### 撫養比率
-- `total dependency ratio`: 50.9
-- `youth dependency ratio`: 40
-- `elderly dependency ratio`: 11
-- `potential support ratio`: 9.1 (2021 est.)
+- `總受扶養人比率`: 50.9
+- `少年撫養比率`: 40
+- `老人撫養比率`: 11
+- `潛在支持率`: 9.1 (2021 est.)
 
 ### 年齡中位數
-- `total`: 32 years (2024 est.)
-- `male`: 31 years
-- `female`: 32.9 years
+- `總計`: 32 years (2024 est.)
+- `男性`: 31 years
+- `女性`: 32.9 years
 
 ### 人口成長率
 1.07% (2024 est.)
@@ -130,31 +130,31 @@ Suriname is a pluralistic society consisting primarily of Creoles (persons of mi
 population concentrated along the nothern coastal strip; the remainder of the country is sparsely populated
 
 ### 都市化
-- `urban population`: 66.4% of total population (2023)
-- `rate of urbanization`: 0.88% annual rate of change (2020-25 est.)
+- `城市人口`: 66.4% of total population (2023)
+- `城鎮化率`: 0.88% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 239,000 PARAMARIBO (capital) (2018)
 
 ### 性別比例
-- `at birth`: 1.07 male(s)/female
-- `0-14 years`: 1.03 male(s)/female
-- `15-64 years`: 1 male(s)/female
-- `65 years and over`: 0.7 male(s)/female
-- `total population`: 0.98 male(s)/female (2024 est.)
+- `出生時`: 1.07 male(s)/female
+- `0-14歲`: 1.03 male(s)/female
+- `15-64歲`: 1 male(s)/female
+- `65歲及以上`: 0.7 male(s)/female
+- `總人口數`: 0.98 male(s)/female (2024 est.)
 
 ### 產婦死亡率
 96 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 29.6 deaths/1,000 live births (2024 est.)
-- `male`: 37.6 deaths/1,000 live births
-- `female`: 21 deaths/1,000 live births
+- `總計`: 29.6 deaths/1,000 live births (2024 est.)
+- `男性`: 37.6 deaths/1,000 live births
+- `女性`: 21 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 72.7 years (2024 est.)
-- `male`: 69 years
-- `female`: 76.7 years
+- `總人口數`: 72.7 years (2024 est.)
+- `男性`: 69 years
+- `女性`: 76.7 years
 
 ### 總生育率
 1.89 children born/woman (2024 est.)
@@ -166,12 +166,12 @@ population concentrated along the nothern coastal strip; the remainder of the co
 39.1% (2018)
 
 ### 飲用水來源
-- `improved: urban`: urban: 99.5% of population
-- `improved: rural`: rural: 98.2% of population
-- `improved: total`: total: 99.1% of population
-- `unimproved: urban`: urban: 0.5% of population
-- `unimproved: rural`: rural: 1.8% of population
-- `unimproved: total`: total: 0.9% of population (2020 est.)
+- `已改進－城市`: urban: 99.5% of population
+- `已改進－農村`: rural: 98.2% of population
+- `已改進－總計`: total: 99.1% of population
+- `未改進：都市`: urban: 0.5% of population
+- `未改進：鄉村`: rural: 1.8% of population
+- `未改善：總計`: total: 0.9% of population (2020 est.)
 
 ### 當前醫療支出
 6.8% of GDP (2020)
@@ -183,22 +183,22 @@ population concentrated along the nothern coastal strip; the remainder of the co
 3 beds/1,000 population (2017)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 98.5% of population
-- `improved: rural`: rural: 91.2% of population
-- `improved: total`: total: 96% of population
-- `unimproved: urban`: urban: 1.5% of population
-- `unimproved: rural`: rural: 8.8% of population
-- `unimproved: total`: total: 4% of population (2020 est.)
+- `已改進－城市`: urban: 98.5% of population
+- `已改進－農村`: rural: 91.2% of population
+- `已改進－總計`: total: 96% of population
+- `未改進：都市`: urban: 1.5% of population
+- `未改進：鄉村`: rural: 8.8% of population
+- `未改善：總計`: total: 4% of population (2020 est.)
 
 ### 肥胖—成人流行率
 26.4% (2016)
 
 ### 人均酒精消費量
-- `total`: 6.6 liters of pure alcohol (2019 est.)
-- `beer`: 3.4 liters of pure alcohol (2019 est.)
-- `wine`: 0.14 liters of pure alcohol (2019 est.)
-- `spirits`: 2.87 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.18 liters of pure alcohol (2019 est.)
+- `總計`: 6.6 liters of pure alcohol (2019 est.)
+- `啤酒`: 3.4 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.14 liters of pure alcohol (2019 est.)
+- `烈酒`: 2.87 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.18 liters of pure alcohol (2019 est.)
 
 ### 5歲以下體重不足兒童
 6.7% (2018)
@@ -207,18 +207,18 @@ population concentrated along the nothern coastal strip; the remainder of the co
 52.1% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 8.8%
-- `women married by age 18`: 36%
-- `men married by age 18`: 19.6% (2018 est.)
+- `15歲前結婚的女性`: 8.8%
+- `18歲前結婚的女性`: 36%
+- `18歲前結婚的男性`: 19.6% (2018 est.)
 
 ### 教育支出
 5% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 95%
-- `male`: 96.5%
-- `female`: 93.4% (2021)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 95%
+- `男性`: 96.5%
+- `女性`: 93.4% (2021)
 
 ## 環境
 
@@ -226,23 +226,23 @@ population concentrated along the nothern coastal strip; the remainder of the co
 deforestation as timber is cut for export; pollution of inland waterways by small-scale mining activities
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 tropical; moderated by trade winds
 
 ### 土地利用
-- `agricultural land`: 0.5% (2018 est.)
-- `agricultural land: arable land`: arable land: 0.4% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0.1% (2018 est.)
-- `forest`: 94.6% (2018 est.)
-- `other`: 4.9% (2018 est.)
+- `農地`: 0.5% (2018 est.)
+- `農地：耕地`: arable land: 0.4% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0.1% (2018 est.)
+- `森林`: 94.6% (2018 est.)
+- `其它`: 4.9% (2018 est.)
 
 ### 都市化
-- `urban population`: 66.4% of total population (2023)
-- `rate of urbanization`: 0.88% annual rate of change (2020-25 est.)
+- `城市人口`: 66.4% of total population (2023)
+- `城鎮化率`: 0.88% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 2.36% of GDP (2018 est.)
@@ -251,20 +251,20 @@ tropical; moderated by trade winds
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 12.17 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 1.74 megatons (2016 est.)
-- `methane emissions`: 2.28 megatons (2020 est.)
+- `顆粒物排放量`: 12.17 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 1.74 megatons (2016 est.)
+- `甲烷排放量`: 2.28 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 78,620 tons (2010 est.)
+- `城市固體廢棄物－每年產生`: 78,620 tons (2010 est.)
 
 ### 主要流域（按面積平方公里）
 Atlantic Ocean drainage: Amazon (6,145,186 sq km)
 
 ### 總取水量
-- `municipal`: 50 million cubic meters (2020 est.)
-- `industrial`: 140 million cubic meters (2020 est.)
-- `agricultural`: 430 million cubic meters (2020 est.)
+- `市級`: 50 million cubic meters (2020 est.)
+- `工業`: 140 million cubic meters (2020 est.)
+- `農業`: 430 million cubic meters (2020 est.)
 
 ### 可再生水資源總量
 99 billion cubic meters (2020 est.)
@@ -272,21 +272,21 @@ Atlantic Ocean drainage: Amazon (6,145,186 sq km)
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Suriname
-- `conventional short form`: Suriname
-- `local long form`: Republiek Suriname
-- `local short form`: Suriname
-- `former`: Netherlands Guiana, Dutch Guiana
-- `etymology`: name may derive from the indigenous "Surinen" people who inhabited the area at the time of European contact
+- `常用長名`: Republic of Suriname
+- `常用短名`: Suriname
+- `當地語長名`: Republiek Suriname
+- `當地語短名`: Suriname
+- `前任`: Netherlands Guiana, Dutch Guiana
+- `语源学`: name may derive from the indigenous "Surinen" people who inhabited the area at the time of European contact
 
 ### 政府類型
 presidential republic
 
 ### 首都
-- `name`: Paramaribo
-- `geographic coordinates`: 5 50 N, 55 10 W
-- `time difference`: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: the name may be the corruption of a Carib (Kalina) village or tribe named Parmirbo
+- `名稱`: Paramaribo
+- `地理坐標`: 5 50 N, 55 10 W
+- `時差`: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: the name may be the corruption of a Carib (Kalina) village or tribe named Parmirbo
 
 ### 行政區劃
 10 districts (distrikten, singular - distrikt); Brokopondo, Commewijne, Coronie, Marowijne, Nickerie, Para, Paramaribo, Saramacca, Sipaliwini, Wanica
@@ -301,38 +301,38 @@ Independence Day, 25 November (1975)
 civil law system influenced by Dutch civil law; note - a new criminal code was enacted in 2017
 
 ### 憲法
-- `history`: previous 1975; latest ratified 30 September 1987, effective 30 October 1987
-- `amendments`: proposed by the National Assembly; passage requires at least two-thirds majority vote of the total membership; amended 1992
+- `歷史`: previous 1975; latest ratified 30 September 1987, effective 30 October 1987
+- `修正`: proposed by the National Assembly; passage requires at least two-thirds majority vote of the total membership; amended 1992
 
 ### 國際法組織參與
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Suriname
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 5 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Suriname
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 5 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Chandrikapersad "Chan" SANTOKHI (since 16 July 2020)
-- `head of government`: President Chandrikapersad "Chan" SANTOKHI (since 16 July 2020)
-- `cabinet`: Cabinet of Ministers appointed by the president
-- `elections/appointments`: president and vice president indirectly elected by the National Assembly; president and vice president serve a 5-year term (no term limits); election last held on 13 July 2020 (next to be held in May 2025)
-- `election results`: *2020:* Chandrikapersad "Chan" SANTOKHI elected president unopposed; National Assembly vote - NA  *2015:* Desire Delano BOUTERSE reelected president unopposed; National Assembly vote - NA
+- `國家元首`: President Chandrikapersad "Chan" SANTOKHI (since 16 July 2020)
+- `政府首腦`: President Chandrikapersad "Chan" SANTOKHI (since 16 July 2020)
+- `内閣`: Cabinet of Ministers appointed by the president
+- `選舉/任命`: president and vice president indirectly elected by the National Assembly; president and vice president serve a 5-year term (no term limits); election last held on 13 July 2020 (next to be held in May 2025)
+- `選舉結果`: *2020:* Chandrikapersad "Chan" SANTOKHI elected president unopposed; National Assembly vote - NA  *2015:* Desire Delano BOUTERSE reelected president unopposed; National Assembly vote - NA
 **note**: the president is both chief of state and head of government
 
 ### 立法部門
-- `description`: unicameral National Assembly or Nationale Assemblee (51 seats; members directly elected in 10 multi-seat constituencies by party-list proportional representation vote, using the D'Hondt method, to serve 5-year terms)
-- `elections`: last held on 25 May 2020 (next to be held in May 2025)
-- `election results`: percent of vote by party - VHP 41.1%, NDP 29.4%, ABOP 17.6%, NPS 7.8%, other 3.9%; seats by party - VHP 20, NDP 16, ABOP 9, NPS 3, BEP 2, PL 2; composition - men 35, women 16, percentage women 31.4%
+- `描述`: unicameral National Assembly or Nationale Assemblee (51 seats; members directly elected in 10 multi-seat constituencies by party-list proportional representation vote, using the D'Hondt method, to serve 5-year terms)
+- `選舉`: last held on 25 May 2020 (next to be held in May 2025)
+- `選舉結果`: percent of vote by party - VHP 41.1%, NDP 29.4%, ABOP 17.6%, NPS 7.8%, other 3.9%; seats by party - VHP 20, NDP 16, ABOP 9, NPS 3, BEP 2, PL 2; composition - men 35, women 16, percentage women 31.4%
 
 ### 司法部門
-- `highest court(s)`: High Court of Justice of Suriname (consists of the court president, vice president, and 4 judges); note - appeals beyond the High Court are referred to the Caribbean Court of Justice; human rights violations can be appealed to the Inter-American Commission on Human Rights with judgments issued by the Inter-American Court on Human Rights
-- `judge selection and term of office`: court judges appointed by the national president in consultation with the National Assembly, the State Advisory Council, and the Order of Private Attorneys; judges serve for life
-- `subordinate courts`: cantonal courts
+- `最高法院`: High Court of Justice of Suriname (consists of the court president, vice president, and 4 judges); note - appeals beyond the High Court are referred to the Caribbean Court of Justice; human rights violations can be appealed to the Inter-American Commission on Human Rights with judgments issued by the Inter-American Court on Human Rights
+- `法官遴選和任期`: court judges appointed by the national president in consultation with the National Assembly, the State Advisory Council, and the Order of Private Attorneys; judges serve for life
+- `下級法院`: cantonal courts
 
 ### 政黨
 Brotherhood and Unity in Politics or BEPDemocratic Alternative '91 or DA91General Liberation and Development Party or ABOPNational Democratic Party or NDPNational Party of Suriname or NPSParty for Democracy and Development in Unity or DOEParty for National Unity and Solidarity or KTPIPeople's Alliance (Pertjajah Luhur) or PLProgressive Workers' and Farmers' Union or PALUProgressive Reform Party or VHPReform and Renewal Movement or HVBSurinamese Labor Party or SPA
@@ -341,20 +341,20 @@ Brotherhood and Unity in Politics or BEPDemocratic Alternative '91 or DA91Genera
 ACP, ACS, AOSIS, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OIC, OPANAL, OPCW, PCA, Petrocaribe, UN, UNASUR, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Jan Marten Willem SCHALKWIJK (since 19 April 2022)
-- `chancery`: 4301 Connecticut Avenue NW, Suite 400, Washington, DC 20008
-- `telephone`: [1] (202) 629-4302
+- `外交代表負責人`: Ambassador Jan Marten Willem SCHALKWIJK (since 19 April 2022)
+- `衡平法院（在美國）`: 4301 Connecticut Avenue NW, Suite 400, Washington, DC 20008
+- `電話號碼`: [1] (202) 629-4302
 - `FAX`: [1] (202) 629-4769
-- `email address and website`: amb.vs@gov.sr  https://surinameembassy.org/index.html
-- `consulate(s) general`: Miami
+- `電子郵件地址和網站`: amb.vs@gov.sr  https://surinameembassy.org/index.html
+- `總領事館`: Miami
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Robert J. FAUCHER (since 31 January 2023)
-- `embassy`: 165 Kristalstraat, Paramaribo
-- `mailing address`: 3390 Paramaribo Place, Washington DC  20521-3390
-- `telephone`: [597] 556-700
+- `外交代表負責人`: Ambassador Robert J. FAUCHER (since 31 January 2023)
+- `大使館`: 165 Kristalstraat, Paramaribo
+- `郵寄地址`: 3390 Paramaribo Place, Washington DC  20521-3390
+- `電話號碼`: [597] 556-700
 - `FAX`: [597] 551-524
-- `email address and website`: caparamar@state.gov  https://sr.usembassy.gov/
+- `電子郵件地址和網站`: caparamar@state.gov  https://sr.usembassy.gov/
 
 ### 旗幟說明
 five horizontal bands of green (top, double width), white, red (quadruple width), white, and green (double width); a large, yellow, five-pointed star is centered in the red band; red stands for progress and love, green symbolizes hope and fertility, white signifies peace, justice, and freedom; the star represents the unity of all ethnic groups; from its yellow light the nation draws strength to bear sacrifices patiently while working toward a golden future
@@ -363,8 +363,8 @@ five horizontal bands of green (top, double width), white, red (quadruple width)
 royal palm, faya lobi (flower); national colors: green, white, red, yellow
 
 ### 國歌
-- `name`: "God zij met ons Suriname!" (God Be With Our Suriname)
-- `lyrics/music`: Cornelis Atses HOEKSTRA and Henry DE ZIEL/Johannes Corstianus DE PUY
+- `名稱`: "God zij met ons Suriname!" (God Be With Our Suriname)
+- `歌詞／音樂`: Cornelis Atses HOEKSTRA and Henry DE ZIEL/Johannes Corstianus DE PUY
 **note**:  adopted 1959; originally adapted from a Sunday school song written in 1893 and contains lyrics in both Dutch and Sranang Tongo
 
 ### 國家級遺產
@@ -411,18 +411,18 @@ $3.782 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 8.1% (2022 est.)
-- `industry`: 44.8% (2022 est.)
-- `services`: 44.7% (2022 est.)
+- `農業`: 8.1% (2022 est.)
+- `產業`: 44.8% (2022 est.)
+- `服務`: 44.7% (2022 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 27.6% (2017 est.)
-- `government consumption`: 11.7% (2017 est.)
-- `investment in fixed capital`: 52.5% (2017 est.)
-- `investment in inventories`: 26.5% (2017 est.)
-- `exports of goods and services`: 68.9% (2017 est.)
-- `imports of goods and services`: -60.6% (2017 est.)
+- `家庭消費`: 27.6% (2017 est.)
+- `政府消費`: 11.7% (2017 est.)
+- `固定資本投資`: 52.5% (2017 est.)
+- `存貨投資`: 26.5% (2017 est.)
+- `商品和服務出口`: 68.9% (2017 est.)
+- `商品和服務進口`: -60.6% (2017 est.)
 
 ### 農產品
 rice, sugarcane, oranges, chicken, plantains, vegetables, bananas, coconuts, cassava, eggs (2022)
@@ -446,17 +446,17 @@ gold mining, oil, lumber, food processing, fishing
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 25.3% (2023 est.)
-- `male`: 17.8% (2023 est.)
-- `female`: 37.8% (2023 est.)
+- `總計`: 25.3% (2023 est.)
+- `男性`: 17.8% (2023 est.)
+- `女性`: 37.8% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 基尼指數係數—家庭所得分配
 39.2 (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 2.2% (2022 est.)
-- `highest 10%`: 30.1% (2022 est.)
+- `最低10%`: 2.2% (2022 est.)
+- `最高10%`: 30.1% (2022 est.)
 
 ### 匯款
 3.88% of GDP (2023 est.)
@@ -465,8 +465,8 @@ gold mining, oil, lumber, food processing, fishing
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $863 million (2019 est.)
-- `expenditures`: $1.648 billion (2019 est.)
+- `收入`: $863 million (2019 est.)
+- `支出`: $1.648 billion (2019 est.)
 
 ### 公共債務
 69.3% of GDP (2017 est.)
@@ -525,34 +525,34 @@ $992.257 million (2021 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 99% (2022 est.)
-- `electrification - urban areas`: 100%
-- `electrification - rural areas`: 98%
+- `電氣化－總人口`: 99% (2022 est.)
+- `電氣化－城市地區`: 100%
+- `電氣化－農村地區`: 98%
 
 ### 電力
-- `installed generating capacity`: 537,000 kW (2022 est.)
-- `consumption`: 1.853 billion kWh (2022 est.)
-- `transmission/distribution losses`: 245.841 million kWh (2022 est.)
+- `裝機容量`: 537,000 kW (2022 est.)
+- `消費`: 1.853 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 245.841 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 51.8% of total installed capacity (2022 est.)
-- `solar`: 0.6% of total installed capacity (2022 est.)
-- `hydroelectricity`: 47.3% of total installed capacity (2022 est.)
-- `biomass and waste`: 0.3% of total installed capacity (2022 est.)
+- `石化燃料`: 51.8% of total installed capacity (2022 est.)
+- `太陽能`: 0.6% of total installed capacity (2022 est.)
+- `水力發電`: 47.3% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 0.3% of total installed capacity (2022 est.)
 
 ### 石油
-- `total petroleum production`: 14,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 15,000 bbl/day (2022 est.)
-- `crude oil estimated reserves`: 89 million barrels (2021 est.)
+- `總石油產量`: 14,000 bbl/day (2023 est.)
+- `成品油消費量`: 15,000 bbl/day (2022 est.)
+- `原油儲備量估值`: 89 million barrels (2021 est.)
 
 ### 天然氣
-- `production`: 7.109 million cubic meters (2022 est.)
-- `consumption`: 6.967 million cubic meters (2022 est.)
+- `生產`: 7.109 million cubic meters (2022 est.)
+- `消費`: 6.967 million cubic meters (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 2.19 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 2.176 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 14,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 2.19 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 2.176 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 14,000 metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 55.101 million Btu/person (2022 est.)
@@ -560,17 +560,17 @@ $992.257 million (2021 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 108,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 18 (2022 est.)
+- `總訂閱數`: 108,000 (2022 est.)
+- `每100名居民訂閱數`: 18 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 929,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 150 (2022 est.)
+- `總訂閱數`: 929,000 (2022 est.)
+- `每100名居民訂閱數`: 150 (2022 est.)
 
 ### 電信系統
-- `general assessment`:  Suriname is the smallest nation on the South American continent, with about 580,000 inhabitants; the only Dutch-speaking nation in South America, it has close affinities with the Caribbean, and is a member of the Caribbean Community and Common Market (CARICOM); the country’s fixed-line infrastructure is reasonably reliable in the more populated coastal region, though poor in the interior; fixed teledensity and broadband penetration are slightly lower than average for Latin America and the Caribbean, while mobile penetration is significantly above the regional average and much higher than would be expected given the country’s relatively low GDP per capita; many Surinamese have up to three mobile lines with different providers, which has pushed up penetration figures although the number of subscribers has fallen in recent years as consumers have responded to economic pressures  (2021)
-- `domestic`: fixed-line is 18 per 100 and mobile-cellular teledensity is 150 telephones per 100 persons (2022)
-- `international`: country code - 597; landing point for the SG-SCS submarine cable linking South America with the Caribbean; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)
+- `總體評估`:  Suriname is the smallest nation on the South American continent, with about 580,000 inhabitants; the only Dutch-speaking nation in South America, it has close affinities with the Caribbean, and is a member of the Caribbean Community and Common Market (CARICOM); the country’s fixed-line infrastructure is reasonably reliable in the more populated coastal region, though poor in the interior; fixed teledensity and broadband penetration are slightly lower than average for Latin America and the Caribbean, while mobile penetration is significantly above the regional average and much higher than would be expected given the country’s relatively low GDP per capita; many Surinamese have up to three mobile lines with different providers, which has pushed up penetration figures although the number of subscribers has fallen in recent years as consumers have responded to economic pressures  (2021)
+- `國內`: fixed-line is 18 per 100 and mobile-cellular teledensity is 150 telephones per 100 persons (2022)
+- `國際的`: country code - 597; landing point for the SG-SCS submarine cable linking South America with the Caribbean; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)
 
 ### 廣播媒體
 2 state-owned TV stations; 1 state-owned radio station; multiple private radio and TV stations (2019)
@@ -579,20 +579,20 @@ $992.257 million (2021 est.)
 .sr
 
 ### 網際網路使用者
-- `total`: 402,600 (2021 est.)
-- `percent of population`: 66% (2021 est.)
+- `總計`: 402,600 (2021 est.)
+- `佔人口比例`: 66% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 92,270 (2020 est.)
-- `subscriptions per 100 inhabitants`: 16 (2020 est.)
+- `總計`: 92,270 (2020 est.)
+- `每100名居民訂閱數`: 16 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 4 (2020)
-- `inventory of registered aircraft operated by air carriers`: 20
-- `annual passenger traffic on registered air carriers`: 272,347 (2018)
-- `annual freight traffic on registered air carriers`: 33.2 million (2018) mt-km
+- `註冊航空公司數量`: 4 (2020)
+- `註冊飛機庫存—航空承運商經營`: 20
+- `年度客運量－註冊航空公司`: 272,347 (2018)
+- `年度貨運量－註冊航空公司`: 33.2 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 PZ
@@ -607,25 +607,25 @@ PZ
 50 km oil (2013)
 
 ### 道路
-- `total`: 4,304 km
-- `paved`: 1,119 km
-- `unpaved`: 3,185 km (2003)
+- `總計`: 4,304 km
+- `已鋪砌`: 1,119 km
+- `未鋪砌`: 3,185 km (2003)
 
 ### 水道
 1,200 km (2011) (most navigable by ships with drafts up to 7 m)
 
 ### 商船
-- `total`: 13 (2023)
-- `by type`: general cargo 5, oil tanker 3, other 5
+- `總計`: 13 (2023)
+- `依類型`: general cargo 5, oil tanker 3, other 5
 
 ### 港口
-- `total ports`: 4 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 1
-- `very small`: 3
-- `ports with oil terminals`: 3
-- `key ports`: Moengo, Nieuw Nickerie, Paramaribo, Paranam
+- `總港口數`: 4 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 1
+- `非常小`: 3
+- `原油碼頭港口`: 3
+- `主要港口`: Moengo, Nieuw Nickerie, Paramaribo, Paranam
 
 ## 軍事和安全
 

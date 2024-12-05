@@ -19,16 +19,16 @@ Northern Asia, between China and Russia
 Asia
 
 ### 面積
-- `total `: 1,564,116 sq km
-- `land`: 1,553,556 sq km
-- `water`: 10,560 sq km
+- `總計`: 1,564,116 sq km
+- `土地`: 1,553,556 sq km
+- `水`: 10,560 sq km
 
 ### 面積—比較
 slightly smaller than Alaska; more than twice the size of Texas
 
 ### 陸地邊界
-- `total`: 8,082 km
-- `border countries`: China 4,630 km; Russia 3,452 km
+- `總計`: 8,082 km
+- `邊境國家`: China 4,630 km; Russia 3,452 km
 
 ### 海岸線
 0 km (landlocked)
@@ -43,27 +43,27 @@ desert; continental (large daily and seasonal temperature ranges)
 vast semidesert and desert plains, grassy steppe, mountains in west and southwest; Gobi Desert in south-central
 
 ### 海拔
-- `highest point`: Nayramadlin Orgil (Khuiten Peak) 4,374 m
-- `lowest point`: Hoh Nuur 560 m
-- `mean elevation`: 1,528 m
+- `最高點`: Nayramadlin Orgil (Khuiten Peak) 4,374 m
+- `最低點`: Hoh Nuur 560 m
+- `平均海拔`: 1,528 m
 
 ### 自然資源
 oil, coal, copper, molybdenum, tungsten, phosphates, tin, nickel, zinc, fluorspar, gold, silver, iron
 
 ### 土地利用
-- `agricultural land`: 73% (2018 est.)
-- `agricultural land: arable land`: arable land: 0.4% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 72.6% (2018 est.)
-- `forest`: 7% (2018 est.)
-- `other`: 20% (2018 est.)
+- `農地`: 73% (2018 est.)
+- `農地：耕地`: arable land: 0.4% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 72.6% (2018 est.)
+- `森林`: 7% (2018 est.)
+- `其它`: 20% (2018 est.)
 
 ### 灌溉土地
 602 sq km (2020)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Hovsgol Nuur - 2,620 sq km; Har Us Nuur - 1,760 sq km; 
-- `salt water lake(s)`: Uvs Nuur - 3,350 sq km; Hyargas Nuur - 1,360 sq km
+- `淡水湖`: Hovsgol Nuur - 2,620 sq km; Har Us Nuur - 1,760 sq km; 
+- `鹽水湖`: Uvs Nuur - 3,350 sq km; Hyargas Nuur - 1,360 sq km
 
 ### 主要河流（按公里長度）
 Amur (shared with China [s] and Russia [m]) - 4,444 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -80,39 +80,39 @@ landlocked; strategic location between China and Russia
 ## 人民和社會
 
 ### 人口
-- `total`: 3,281,676
-- `male`: 1,595,596
-- `female`: 1,686,080 (2024 est.)
+- `總計`: 3,281,676
+- `男性`: 1,595,596
+- `女性`: 1,686,080 (2024 est.)
 
 ### 國籍
-- `noun`: Mongolian(s)
-- `adjective`: Mongolian
+- `名詞`: Mongolian(s)
+- `形容詞`: Mongolian
 
 ### 族裔群體
 Khalkh 83.8%, Kazak 3.8%, Durvud 2.6%, Bayad 2%, Buriad 1.4%, Zakhchin 1.2%, Dariganga 1.1%, other 4.1% (2020 est.)
 
 ### 語文
 Mongolian 90% (official, Khalkha dialect is predominant), Turkic, Russian (1999)
-- `major-language sample(s)`: Дэлхийн баримтат ном, үндсэн мэдээллийн зайлшгүй эх сурвалж. (Mongolian)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: Дэлхийн баримтат ном, үндсэн мэдээллийн зайлшгүй эх сурвалж. (Mongolian)  The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Buddhist 51.7%, Muslim 3.2%, Shamanist 2.5%, Christian 1.3%, other 0.7%, none 40.6% (2020 est.)
 
 ### 年齡結構
-- `0-14 years`: 25.7% (male 429,867/female 412,943)
-- `15-64 years`: 68.4% (male 1,087,487/female 1,156,547)
-- `65 years and over`: 5.9% (2024 est.) (male 78,242/female 116,590)
+- `0-14歲`: 25.7% (male 429,867/female 412,943)
+- `15-64歲`: 68.4% (male 1,087,487/female 1,156,547)
+- `65歲及以上`: 5.9% (2024 est.) (male 78,242/female 116,590)
 
 ### 撫養比率
-- `total dependency ratio`: 58.4
-- `youth dependency ratio`: 51.4
-- `elderly dependency ratio`: 7
-- `potential support ratio`: 14.3 (2021 est.)
+- `總受扶養人比率`: 58.4
+- `少年撫養比率`: 51.4
+- `老人撫養比率`: 7
+- `潛在支持率`: 14.3 (2021 est.)
 
 ### 年齡中位數
-- `total`: 31.5 years (2024 est.)
-- `male`: 30.1 years
-- `female`: 32.8 years
+- `總計`: 31.5 years (2024 est.)
+- `男性`: 30.1 years
+- `女性`: 32.8 years
 
 ### 人口成長率
 0.78% (2024 est.)
@@ -130,18 +130,18 @@ Buddhist 51.7%, Muslim 3.2%, Shamanist 2.5%, Christian 1.3%, other 0.7%, none 40
 sparsely distributed population throughout the country; the capital of Ulaanbaatar and the northern city of Darhan support the highest population densities
 
 ### 都市化
-- `urban population`: 69.1% of total population (2023)
-- `rate of urbanization`: 1.4% annual rate of change (2020-25 est.)
+- `城市人口`: 69.1% of total population (2023)
+- `城鎮化率`: 1.4% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 1.673 million ULAANBAATAR (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.04 male(s)/female
-- `15-64 years`: 0.94 male(s)/female
-- `65 years and over`: 0.67 male(s)/female
-- `total population`: 0.95 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.04 male(s)/female
+- `15-64歲`: 0.94 male(s)/female
+- `65歲及以上`: 0.67 male(s)/female
+- `總人口數`: 0.95 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 20.5 years (2008 est.)
@@ -151,14 +151,14 @@ sparsely distributed population throughout the country; the capital of Ulaanbaat
 39 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 19.4 deaths/1,000 live births (2024 est.)
-- `male`: 22.4 deaths/1,000 live births
-- `female`: 16.2 deaths/1,000 live births
+- `總計`: 19.4 deaths/1,000 live births (2024 est.)
+- `男性`: 22.4 deaths/1,000 live births
+- `女性`: 16.2 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 71.9 years (2024 est.)
-- `male`: 67.8 years
-- `female`: 76.3 years
+- `總人口數`: 71.9 years (2024 est.)
+- `男性`: 67.8 years
+- `女性`: 76.3 years
 
 ### 總生育率
 1.87 children born/woman (2024 est.)
@@ -170,12 +170,12 @@ sparsely distributed population throughout the country; the capital of Ulaanbaat
 48.1% (2018)
 
 ### 飲用水來源
-- `improved: urban`: urban: 98.4% of population
-- `improved: rural`: rural: 64.2% of population
-- `improved: total`: total: 87.6% of population
-- `unimproved: urban`: urban: 1.6% of population
-- `unimproved: rural`: rural: 35.8% of population
-- `unimproved: total`: total: 12.4% of population (2020 est.)
+- `已改進－城市`: urban: 98.4% of population
+- `已改進－農村`: rural: 64.2% of population
+- `已改進－總計`: total: 87.6% of population
+- `未改進：都市`: urban: 1.6% of population
+- `未改進：鄉村`: rural: 35.8% of population
+- `未改善：總計`: total: 12.4% of population (2020 est.)
 
 ### 當前醫療支出
 4.9% of GDP (2020)
@@ -187,27 +187,27 @@ sparsely distributed population throughout the country; the capital of Ulaanbaat
 8 beds/1,000 population (2017)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 97.4% of population
-- `improved: rural`: rural: 69.9% of population
-- `improved: total`: total: 88.8% of population
-- `unimproved: urban`: urban: 2.6% of population
-- `unimproved: rural`: rural: 30.1% of population
-- `unimproved: total`: total: 11.2% of population (2020 est.)
+- `已改進－城市`: urban: 97.4% of population
+- `已改進－農村`: rural: 69.9% of population
+- `已改進－總計`: total: 88.8% of population
+- `未改進：都市`: urban: 2.6% of population
+- `未改進：鄉村`: rural: 30.1% of population
+- `未改善：總計`: total: 11.2% of population (2020 est.)
 
 ### 肥胖—成人流行率
 20.6% (2016)
 
 ### 人均酒精消費量
-- `total`: 5.46 liters of pure alcohol (2019 est.)
-- `beer`: 2.18 liters of pure alcohol (2019 est.)
-- `wine`: 1.46 liters of pure alcohol (2019 est.)
-- `spirits`: 1.82 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 5.46 liters of pure alcohol (2019 est.)
+- `啤酒`: 2.18 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 1.46 liters of pure alcohol (2019 est.)
+- `烈酒`: 1.82 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 29.4% (2020 est.)
-- `male`: 51.7% (2020 est.)
-- `female`: 7.1% (2020 est.)
+- `總計`: 29.4% (2020 est.)
+- `男性`: 51.7% (2020 est.)
+- `女性`: 7.1% (2020 est.)
 
 ### 5歲以下體重不足兒童
 1.8% (2018)
@@ -216,23 +216,23 @@ sparsely distributed population throughout the country; the capital of Ulaanbaat
 58.9% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 0.9%
-- `women married by age 18`: 12%
-- `men married by age 18`: 2.1% (2018 est.)
+- `15歲前結婚的女性`: 0.9%
+- `18歲前結婚的女性`: 12%
+- `18歲前結婚的男性`: 2.1% (2018 est.)
 
 ### 教育支出
 4.7% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 99.2%
-- `male`: 99.1%
-- `female`: 99.2% (2020)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 99.2%
+- `男性`: 99.1%
+- `女性`: 99.2% (2020)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 15 years
-- `male`: 14 years
-- `female`: 16 years (2019)
+- `總計`: 15 years
+- `男性`: 14 years
+- `女性`: 16 years (2019)
 
 ## 環境
 
@@ -240,23 +240,23 @@ sparsely distributed population throughout the country; the capital of Ulaanbaat
 limited natural freshwater resources in some areas; the burning of soft coal in power plants and the lack of enforcement of environmental laws leads to air pollution in Ulaanbaatar; deforestation and overgrazing increase soil erosion from wind and rain; water pollution; desertification and mining activities have a deleterious effect on the environment
 
 ### 環境—國際協定
-- `party to`: Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 desert; continental (large daily and seasonal temperature ranges)
 
 ### 土地利用
-- `agricultural land`: 73% (2018 est.)
-- `agricultural land: arable land`: arable land: 0.4% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 72.6% (2018 est.)
-- `forest`: 7% (2018 est.)
-- `other`: 20% (2018 est.)
+- `農地`: 73% (2018 est.)
+- `農地：耕地`: arable land: 0.4% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 72.6% (2018 est.)
+- `森林`: 7% (2018 est.)
+- `其它`: 20% (2018 est.)
 
 ### 都市化
-- `urban population`: 69.1% of total population (2023)
-- `rate of urbanization`: 1.4% annual rate of change (2020-25 est.)
+- `城市人口`: 69.1% of total population (2023)
+- `城鎮化率`: 1.4% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.14% of GDP (2018 est.)
@@ -265,24 +265,24 @@ desert; continental (large daily and seasonal temperature ranges)
 8.62% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 41.3 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 25.37 megatons (2016 est.)
-- `methane emissions`: 13.72 megatons (2020 est.)
+- `顆粒物排放量`: 41.3 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 25.37 megatons (2016 est.)
+- `甲烷排放量`: 13.72 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 2.9 million tons (2016 est.)
+- `城市固體廢棄物－每年產生`: 2.9 million tons (2016 est.)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Hovsgol Nuur - 2,620 sq km; Har Us Nuur - 1,760 sq km; 
-- `salt water lake(s)`: Uvs Nuur - 3,350 sq km; Hyargas Nuur - 1,360 sq km
+- `淡水湖`: Hovsgol Nuur - 2,620 sq km; Har Us Nuur - 1,760 sq km; 
+- `鹽水湖`: Uvs Nuur - 3,350 sq km; Hyargas Nuur - 1,360 sq km
 
 ### 主要河流（按公里長度）
 Amur (shared with China [s] and Russia [m]) - 4,444 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
 
 ### 總取水量
-- `municipal`: 50 million cubic meters (2020 est.)
-- `industrial`: 170 million cubic meters (2020 est.)
-- `agricultural`: 250 million cubic meters (2020 est.)
+- `市級`: 50 million cubic meters (2020 est.)
+- `工業`: 170 million cubic meters (2020 est.)
+- `農業`: 250 million cubic meters (2020 est.)
 
 ### 可再生水資源總量
 34.8 billion cubic meters (2020 est.)
@@ -290,23 +290,23 @@ Amur (shared with China [s] and Russia [m]) - 4,444 km*_issue_*note*_issue_* –
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Mongolia
-- `local long form`: none
-- `local short form`: Mongol Uls
-- `former`: Outer Mongolia, Mongolian People's Republic
-- `etymology`: the name means "Land of the Mongols" in Latin; the Mongolian name Mongol Uls translates as "Mongol State"
+- `常用長名`: none
+- `常用短名`: Mongolia
+- `當地語長名`: none
+- `當地語短名`: Mongol Uls
+- `前任`: Outer Mongolia, Mongolian People's Republic
+- `语源学`: the name means "Land of the Mongols" in Latin; the Mongolian name Mongol Uls translates as "Mongol State"
 
 ### 政府類型
 semi-presidential republic
 
 ### 首都
-- `name`: Ulaanbaatar
-- `geographic coordinates`: 47 55 N, 106 55 E
-- `time difference`: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)
-- `daylight saving time`: +1hr, begins last Saturday in March; ends last Saturday in September
-- `time zone note`: Mongolia has two time zones - Ulaanbaatar Time (8 hours in advance of UTC) and Hovd Time (7 hours in advance of UTC)
-- `etymology`: the name means "red hero" in Mongolian and honors national hero Damdin SUKHBAATAR, leader of the partisan army that with Soviet Red Army help, liberated Mongolia from Chinese occupation in the early 1920s
+- `名稱`: Ulaanbaatar
+- `地理坐標`: 47 55 N, 106 55 E
+- `時差`: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)
+- `日光節約時間`: +1hr, begins last Saturday in March; ends last Saturday in September
+- `時區備註`: Mongolia has two time zones - Ulaanbaatar Time (8 hours in advance of UTC) and Hovd Time (7 hours in advance of UTC)
+- `语源学`: the name means "red hero" in Mongolian and honors national hero Damdin SUKHBAATAR, leader of the partisan army that with Soviet Red Army help, liberated Mongolia from Chinese occupation in the early 1920s
 
 ### 行政區劃
 21 provinces (aymguud, singular - aymag) and 1 municipality* (singular - hot); Arhangay, Bayanhongor, Bayan-Olgiy, Bulgan, Darhan-Uul, Dornod, Dornogovi, Dundgovi, Dzavhan (Zavkhan), Govi-Altay, Govisumber, Hentiy, Hovd, Hovsgol, Omnogovi, Orhon, Ovorhangay, Selenge, Suhbaatar, Tov, Ulaanbaatar*, Uvs
@@ -321,37 +321,37 @@ Naadam (games) holiday (commemorates independence from China in the 1921 Revolut
 civil law system influenced by Soviet and Romano-Germanic legal systems; constitution ambiguous on judicial review of legislative acts
 
 ### 憲法
-- `history`: several previous; latest adopted 13 January 1992, effective 12 February 1992
-- `amendments`: proposed by the State Great Hural, by the president of the republic, by the government, or by petition submitted to the State Great Hural by the Constitutional Court; conducting referenda on proposed amendments requires at least two-thirds majority vote of the State Great Hural; passage of amendments by the State Great Hural requires at least three-quarters majority vote; passage by referendum requires majority participation of qualified voters and a majority of votes; amended 1999, 2000, 2019, 2023; note - an amendment passed in a referendum held in May 2023 increased the seats in the State Great Hural from 76 to 126
+- `歷史`: several previous; latest adopted 13 January 1992, effective 12 February 1992
+- `修正`: proposed by the State Great Hural, by the president of the republic, by the government, or by petition submitted to the State Great Hural by the Constitutional Court; conducting referenda on proposed amendments requires at least two-thirds majority vote of the State Great Hural; passage of amendments by the State Great Hural requires at least three-quarters majority vote; passage by referendum requires majority participation of qualified voters and a majority of votes; amended 1999, 2000, 2019, 2023; note - an amendment passed in a referendum held in May 2023 increased the seats in the State Great Hural from 76 to 126
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: both parents must be citizens of Mongolia; one parent if born within Mongolia
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 5 years
+- `出生公民權`: no
+- `血統公民身份`: both parents must be citizens of Mongolia; one parent if born within Mongolia
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 5 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Ukhnaagiin KHURELSUKH (since 25 June 2021)
-- `head of government`: Prime Minister Luvsannamsrai OYUN-ERDENE (since 27 January 2021)
-- `cabinet`: directly appointed by the prime minister following a constitutional amendment ratified in November 2019; prior to the amendment, the cabinet was nominated by the prime minister in consultation with the president and confirmed by the State Great Hural (parliament)
-- `elections/appointments`: presidential candidates nominated by political parties represented in the State Great Hural and directly elected by simple majority popular vote for one 6-year term; election last held on 9 June 2021 (next to be held in 2027); following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the State Great Hural
-- `election results`: *2021:* Ukhnaagiin KHURELSUKH elected president in first round; percent of vote - Ukhnaagiin KHURELSUKH (MPP) 68%, Dangaasuren ENKHBAT (RPEC) 20.1%, Sodnomzundui ERDENE (DP) 6%  *2017: * Khaltmaa BATTULGA elected president in second round; percent of vote in first round - Khaltmaa BATTULGA (DP) 38.1%, Miyegombo ENKHBOLD (MPP) 30.3%, Sainkhuu GANBAATAR (MPRP) 30.2%, invalid 1.4%; percent of vote in second round - Khaltmaa BATTULGA 55.2%, Miyegombo ENKHBOLD 44.8%
+- `國家元首`: President Ukhnaagiin KHURELSUKH (since 25 June 2021)
+- `政府首腦`: Prime Minister Luvsannamsrai OYUN-ERDENE (since 27 January 2021)
+- `内閣`: directly appointed by the prime minister following a constitutional amendment ratified in November 2019; prior to the amendment, the cabinet was nominated by the prime minister in consultation with the president and confirmed by the State Great Hural (parliament)
+- `選舉/任命`: presidential candidates nominated by political parties represented in the State Great Hural and directly elected by simple majority popular vote for one 6-year term; election last held on 9 June 2021 (next to be held in 2027); following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the State Great Hural
+- `選舉結果`: *2021:* Ukhnaagiin KHURELSUKH elected president in first round; percent of vote - Ukhnaagiin KHURELSUKH (MPP) 68%, Dangaasuren ENKHBAT (RPEC) 20.1%, Sodnomzundui ERDENE (DP) 6%  *2017: * Khaltmaa BATTULGA elected president in second round; percent of vote in first round - Khaltmaa BATTULGA (DP) 38.1%, Miyegombo ENKHBOLD (MPP) 30.3%, Sainkhuu GANBAATAR (MPRP) 30.2%, invalid 1.4%; percent of vote in second round - Khaltmaa BATTULGA 55.2%, Miyegombo ENKHBOLD 44.8%
 
 ### 立法部門
-- `description`: unicameral State Great Hural or Ulsyn Ikh Khural (126 seats; 78 members directly elected in a selected constituency by simple majority vote and 48 members directly elected by proportional representation vote; members serve 4-year terms)
-- `elections`: last held on 28 June 2024 (next to be held June 2028)
-- `election results`: percent of vote by party - MPP 35.0%, DP 30.1%, HUN Party 10.4%, National Coalition 5.2%, CWGP 5%, other 14.3%; seats by party - MPP 68, DP 42, HUN Party 8, National Coalition 4, CWGP 4; composition - N/A
+- `描述`: unicameral State Great Hural or Ulsyn Ikh Khural (126 seats; 78 members directly elected in a selected constituency by simple majority vote and 48 members directly elected by proportional representation vote; members serve 4-year terms)
+- `選舉`: last held on 28 June 2024 (next to be held June 2028)
+- `選舉結果`: percent of vote by party - MPP 35.0%, DP 30.1%, HUN Party 10.4%, National Coalition 5.2%, CWGP 5%, other 14.3%; seats by party - MPP 68, DP 42, HUN Party 8, National Coalition 4, CWGP 4; composition - N/A
 
 ### 司法部門
-- `highest court(s)`: Supreme Court (consists of the Chief Justice and 24 judges organized into civil, criminal, and administrative chambers); Constitutional Court or Tsets (consists of the chairman and 8 members)
-- `judge selection and term of office`: Supreme Court chief justice and judges appointed by the president upon recommendation by the General Council of Courts - a 14-member body of judges and judicial officials - to the State Great Hural; appointment is for life; chairman of the Constitutional Court elected from among its members; members appointed from nominations by the State Great Hural - 3 each by the president, the State Great Hural, and the Supreme Court; appointment is 6 years; chairmanship limited to a single renewable 3-year term
-- `subordinate courts`: aimag (provincial) and capital city appellate courts; soum, inter-soum, and district courts; Administrative Cases Courts
+- `最高法院`: Supreme Court (consists of the Chief Justice and 24 judges organized into civil, criminal, and administrative chambers); Constitutional Court or Tsets (consists of the chairman and 8 members)
+- `法官遴選和任期`: Supreme Court chief justice and judges appointed by the president upon recommendation by the General Council of Courts - a 14-member body of judges and judicial officials - to the State Great Hural; appointment is for life; chairman of the Constitutional Court elected from among its members; members appointed from nominations by the State Great Hural - 3 each by the president, the State Great Hural, and the Supreme Court; appointment is 6 years; chairmanship limited to a single renewable 3-year term
+- `下級法院`: aimag (provincial) and capital city appellate courts; soum, inter-soum, and district courts; Administrative Cases Courts
 
 ### 政黨
 Democratic Party or DPMongolian People's Party or MPP National Coalition (consists of Mongolian Green Party or MGP and the Mongolian National Democratic Party or MNDP)National Labor Party or HUN Civil Will-Green Party or CWGP
@@ -360,20 +360,20 @@ Democratic Party or DPMongolian People's Party or MPP National Coalition (consi
 ADB, ARF, CD, CICA, CP, EBRD, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MINURSO, MONUSCO, NAM, OPCW, OSCE, SCO (observer), UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMISS, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador BATBAYAR Ulziidelger (since 1 December 2021)
-- `chancery`: 2833 M Street NW, Washington, DC 20007
-- `telephone`: [1] (202) 333-7117
+- `外交代表負責人`: Ambassador BATBAYAR Ulziidelger (since 1 December 2021)
+- `衡平法院（在美國）`: 2833 M Street NW, Washington, DC 20007
+- `電話號碼`: [1] (202) 333-7117
 - `FAX`: [1] (202) 298-9227
-- `email address and website`: washington@mfa.gov.mn  http://mongolianembassy.us/
-- `consulate(s) general`: New York, San Francisco
+- `電子郵件地址和網站`: washington@mfa.gov.mn  http://mongolianembassy.us/
+- `總領事館`: New York, San Francisco
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Richard L. BUANGAN (since November 2022)
-- `embassy`: Denver Street #3, 11th Micro-District, Ulaanbaatar 14190
-- `mailing address`: 4410 Ulaanbaatar Place, Washington DC  20521-4410
-- `telephone`: [976] 7007-6001
+- `外交代表負責人`: Ambassador Richard L. BUANGAN (since November 2022)
+- `大使館`: Denver Street #3, 11th Micro-District, Ulaanbaatar 14190
+- `郵寄地址`: 4410 Ulaanbaatar Place, Washington DC  20521-4410
+- `電話號碼`: [976] 7007-6001
 - `FAX`: [976] 7007-6174
-- `email address and website`: UlaanbaatarACS@state.gov  https://mn.usembassy.gov/
+- `電子郵件地址和網站`: UlaanbaatarACS@state.gov  https://mn.usembassy.gov/
 
 ### 旗幟說明
 three, equal vertical bands of red (hoist side), blue, and red; centered on the hoist-side red band in yellow is the national emblem ("soyombo" - a columnar arrangement of abstract and geometric representation for fire, sun, moon, earth, water, and the yin-yang symbol); blue represents the sky, red symbolizes progress and prosperity
@@ -382,8 +382,8 @@ three, equal vertical bands of red (hoist side), blue, and red; centered on the 
 soyombo emblem; national colors: red, blue, yellow
 
 ### 國歌
-- `name`: "Mongol ulsyn toriin duulal" (National Anthem of Mongolia)
-- `lyrics/music`: Tsendiin DAMDINSUREN/Bilegiin DAMDINSUREN and Luvsanjamts MURJORJ
+- `名稱`: "Mongol ulsyn toriin duulal" (National Anthem of Mongolia)
+- `歌詞／音樂`: Tsendiin DAMDINSUREN/Bilegiin DAMDINSUREN and Luvsanjamts MURJORJ
 **note**:  music adopted 1950, lyrics adopted 2006; lyrics altered on numerous occasions
 
 ### 國家級遺產
@@ -430,18 +430,18 @@ $19.872 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 10.2% (2023 est.)
-- `industry`: 40% (2023 est.)
-- `services`: 40.1% (2023 est.)
+- `農業`: 10.2% (2023 est.)
+- `產業`: 40% (2023 est.)
+- `服務`: 40.1% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 47.8% (2023 est.)
-- `government consumption`: 13.3% (2023 est.)
-- `investment in fixed capital`: 27.4% (2023 est.)
-- `investment in inventories`: 5% (2023 est.)
-- `exports of goods and services`: 78% (2023 est.)
-- `imports of goods and services`: -69.2% (2023 est.)
+- `家庭消費`: 47.8% (2023 est.)
+- `政府消費`: 13.3% (2023 est.)
+- `固定資本投資`: 27.4% (2023 est.)
+- `存貨投資`: 5% (2023 est.)
+- `商品和服務出口`: 78% (2023 est.)
+- `商品和服務進口`: -69.2% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -466,9 +466,9 @@ construction and construction materials; mining (coal, copper, molybdenum, fluor
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 11.4% (2023 est.)
-- `male`: 10.3% (2023 est.)
-- `female`: 12.9% (2023 est.)
+- `總計`: 11.4% (2023 est.)
+- `男性`: 10.3% (2023 est.)
+- `女性`: 12.9% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -480,8 +480,8 @@ construction and construction materials; mining (coal, copper, molybdenum, fluor
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 3.4% (2022 est.)
-- `highest 10%`: 24.6% (2022 est.)
+- `最低10%`: 3.4% (2022 est.)
+- `最高10%`: 24.6% (2022 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -491,8 +491,8 @@ construction and construction materials; mining (coal, copper, molybdenum, fluor
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $4.721 billion (2021 est.)
-- `expenditures`: $4.845 billion (2021 est.)
+- `收入`: $4.721 billion (2021 est.)
+- `支出`: $4.845 billion (2021 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -558,36 +558,36 @@ $9.085 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 1.61 million kW (2022 est.)
-- `consumption`: 8.602 billion kWh (2022 est.)
-- `exports`: 24 million kWh (2022 est.)
-- `imports`: 1.861 billion kWh (2022 est.)
-- `transmission/distribution losses`: 1.036 billion kWh (2022 est.)
+- `裝機容量`: 1.61 million kW (2022 est.)
+- `消費`: 8.602 billion kWh (2022 est.)
+- `出口`: 24 million kWh (2022 est.)
+- `進口`: 1.861 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 1.036 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 88.9% of total installed capacity (2022 est.)
-- `solar`: 2.2% of total installed capacity (2022 est.)
-- `wind`: 7.8% of total installed capacity (2022 est.)
-- `hydroelectricity`: 1% of total installed capacity (2022 est.)
+- `石化燃料`: 88.9% of total installed capacity (2022 est.)
+- `太陽能`: 2.2% of total installed capacity (2022 est.)
+- `風能`: 7.8% of total installed capacity (2022 est.)
+- `水力發電`: 1% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `production`: 28.276 million metric tons (2022 est.)
-- `consumption`: 6.393 million metric tons (2022 est.)
-- `exports`: 19.47 million metric tons (2022 est.)
-- `imports`: 2,000 metric tons (2022 est.)
-- `proven reserves`: 2.52 billion metric tons (2022 est.)
+- `生產`: 28.276 million metric tons (2022 est.)
+- `消費`: 6.393 million metric tons (2022 est.)
+- `出口`: 19.47 million metric tons (2022 est.)
+- `進口`: 2,000 metric tons (2022 est.)
+- `探明儲量`: 2.52 billion metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 15,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 36,000 bbl/day (2022 est.)
+- `總石油產量`: 15,000 bbl/day (2023 est.)
+- `成品油消費量`: 36,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 15.918 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 10.63 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 5.289 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 15.918 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 10.63 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 5.289 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 57.093 million Btu/person (2022 est.)
@@ -595,17 +595,17 @@ $9.085 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 475,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 14 (2022 est.)
+- `總訂閱數`: 475,000 (2022 est.)
+- `每100名居民訂閱數`: 14 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 4.836 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 142 (2022 est.)
+- `總訂閱數`: 4.836 million (2022 est.)
+- `每100名居民訂閱數`: 142 (2022 est.)
 
 ### 電信系統
-- `general assessment`: liberalized and competitive telecoms market comprises of a number of operators; fixed-line penetration increased steadily in the years to 2018 as more people took on fixed-line access for voice calls and to access copper-based broadband services; the number of lines fell in 2019, and again and more sharply in 2020, partly through the economic consequences of the pandemic (GDP fell 5.3% in 2020, year-on-year) and partly due to the migration to the mobile platform and to VoIP; fixed broadband penetration remains low, mainly due to a limited number of fixed lines and the dominance of the mobile platform; the attraction of fixed broadband as a preferred access where it is available is waning as the mobile networks are upgraded with greater capacity and capabilities; the growing popularity of mobile broadband continues to underpin overall broadband and telecom sector growth, with Mongolia’s market very much being dominated by mobile services, supported by widely available LTE; this will largely determine and shape the future direction of Mongolia’s developing digital economy (2021)
-- `domestic`: fixed-line teledensity of 12 per 100; mobile-cellular subscribership is 140 per 100 persons (2021)
-- `international`: country code - 976; satellite earth stations - 7 (2016)
+- `總體評估`: liberalized and competitive telecoms market comprises of a number of operators; fixed-line penetration increased steadily in the years to 2018 as more people took on fixed-line access for voice calls and to access copper-based broadband services; the number of lines fell in 2019, and again and more sharply in 2020, partly through the economic consequences of the pandemic (GDP fell 5.3% in 2020, year-on-year) and partly due to the migration to the mobile platform and to VoIP; fixed broadband penetration remains low, mainly due to a limited number of fixed lines and the dominance of the mobile platform; the attraction of fixed broadband as a preferred access where it is available is waning as the mobile networks are upgraded with greater capacity and capabilities; the growing popularity of mobile broadband continues to underpin overall broadband and telecom sector growth, with Mongolia’s market very much being dominated by mobile services, supported by widely available LTE; this will largely determine and shape the future direction of Mongolia’s developing digital economy (2021)
+- `國內`: fixed-line teledensity of 12 per 100; mobile-cellular subscribership is 140 per 100 persons (2021)
+- `國際的`: country code - 976; satellite earth stations - 7 (2016)
 
 ### 廣播媒體
 following a law passed in 2005, Mongolia's state-run radio and TV provider converted to a public service provider; also available are 68 radio and 160 TV stations, including multi-channel satellite and cable TV providers; transmissions of multiple international broadcasters are available (2019)
@@ -614,20 +614,20 @@ following a law passed in 2005, Mongolia's state-run radio and TV provider conve
 .mn
 
 ### 網際網路使用者
-- `total`: 2.772 million (2021 est.)
-- `percent of population`: 84% (2021 est.)
+- `總計`: 2.772 million (2021 est.)
+- `佔人口比例`: 84% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 307,166 (2020 est.)
-- `subscriptions per 100 inhabitants`: 9 (2020 est.)
+- `總計`: 307,166 (2020 est.)
+- `每100名居民訂閱數`: 9 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 4 (2020)
-- `inventory of registered aircraft operated by air carriers`: 12
-- `annual passenger traffic on registered air carriers`: 670,360 (2018)
-- `annual freight traffic on registered air carriers`: 7.82 million (2018) mt-km
+- `註冊航空公司數量`: 4 (2020)
+- `註冊飛機庫存—航空承運商經營`: 12
+- `年度客運量－註冊航空公司`: 670,360 (2018)
+- `年度貨運量－註冊航空公司`: 7.82 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 JU
@@ -636,21 +636,21 @@ JU
 35 (2024)
 
 ### 鐵路
-- `total`: 1,815 km (2017)
-- `broad gauge`: 1,815 km (2017) 1.520-m gauge
+- `總計`: 1,815 km (2017)
+- `寬軌`: 1,815 km (2017) 1.520-m gauge
 **note**:  national operator Ulaanbaatar Railway is jointly owned by the Mongolian Government and by the Russian State Railway
 
 ### 道路
-- `total`: 113,200 km
-- `paved`: 10,600 km
-- `unpaved`: 102,600 km (2017)
+- `總計`: 113,200 km
+- `已鋪砌`: 10,600 km
+- `未鋪砌`: 102,600 km (2017)
 
 ### 水道
 580 km (2010) (the only waterway in operation is Lake Hovsgol) (135 km); Selenge River (270 km) and Orhon River (175 km) are navigable but carry little traffic; lakes and rivers ice-free from May to September)
 
 ### 商船
-- `total`: 318 (2023)
-- `by type`: bulk carrier 8, container ship 8, general cargo 151, oil tanker 58, other 93
+- `總計`: 318 (2023)
+- `依類型`: bulk carrier 8, container ship 8, general cargo 151, oil tanker 58, other 93
 
 ## 軍事和安全
 
@@ -684,7 +684,7 @@ the Mongolian Armed Forces (MAF) are responsible for ensuring the country's inde
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `stateless persons`: 17 (2022)
+- `無國籍人士`: 17 (2022)
 
 ### 非法藥物
 NA

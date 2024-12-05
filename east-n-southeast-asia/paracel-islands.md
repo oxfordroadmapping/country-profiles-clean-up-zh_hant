@@ -19,15 +19,15 @@ Southeastern Asia, group of small islands and reefs in the South China Sea, abou
 Southeast Asia
 
 ### 面積
-- `total `: 8 sq km ca.
-- `land`: 7.75 sq km ca.
-- `water`: 0 sq km
+- `總計`: 8 sq km ca.
+- `土地`: 7.75 sq km ca.
+- `水`: 0 sq km
 
 ### 面積—比較
 land area is about 13 times the size of the National Mall in Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 518 km
@@ -42,14 +42,14 @@ tropical
 mostly low and flat
 
 ### 海拔
-- `highest point`: unnamed location on Rocky Island 14 m
-- `lowest point`: South China Sea 0 m
+- `最高點`: unnamed location on Rocky Island 14 m
+- `最低點`: South China Sea 0 m
 
 ### 自然資源
 none
 
 ### 土地利用
-- `other`: 100% (2018 est.)
+- `其它`: 100% (2018 est.)
 
 ### 灌溉土地
 0 sq km (2022)
@@ -66,7 +66,7 @@ composed of 130 small coral islands and reefs divided into the northeast Amphitr
 ## 人民和社會
 
 ### 人口
-- `total`: 1,440 (July 2014 est.)
+- `總計`: 1,440 (July 2014 est.)
 **note**:  Chinese activity has increased in recent years, particularly on Woody Island, where the population exceeds 1,000; some other islands have scattered Chinese garrisons
 
 ### 人口成長率
@@ -87,14 +87,14 @@ China's use of dredged sand and coral to build artificial islands harms reef sys
 tropical
 
 ### 土地利用
-- `other`: 100% (2018 est.)
+- `其它`: 100% (2018 est.)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Paracel Islands
-- `etymology`: Portuguese navigators began to refer to the "Ilhas do Pracel" in the 16th century as a designation of low lying islets, sandbanks, and reefs scattered over a wide area; over time the name changed to "parcel" and then "paracel"
+- `常用長名`: none
+- `常用短名`: Paracel Islands
+- `语源学`: Portuguese navigators began to refer to the "Ilhas do Pracel" in the 16th century as a designation of low lying islets, sandbanks, and reefs scattered over a wide area; over time the name changed to "parcel" and then "paracel"
 
 ## 經濟
 

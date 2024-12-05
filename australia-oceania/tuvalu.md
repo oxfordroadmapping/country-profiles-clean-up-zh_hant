@@ -19,23 +19,23 @@ Oceania, island group consisting of nine coral atolls in the South Pacific Ocean
 Oceania
 
 ### 面積
-- `total `: 26 sq km
-- `land`: 26 sq km
-- `water`: 0 sq km
+- `總計`: 26 sq km
+- `土地`: 26 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 0.1 times the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 24 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
 
 ### 氣候
 tropical; moderated by easterly trade winds (March to November); westerly gales and heavy rain (November to March)
@@ -44,20 +44,20 @@ tropical; moderated by easterly trade winds (March to November); westerly gales 
 low-lying and narrow coral atolls
 
 ### 海拔
-- `highest point`: unnamed location 5 m
-- `lowest point`: Pacific Ocean 0 m
-- `mean elevation`: 2 m
+- `最高點`: unnamed location 5 m
+- `最低點`: Pacific Ocean 0 m
+- `平均海拔`: 2 m
 
 ### 自然資源
 fish, coconut (copra)
 
 ### 土地利用
-- `agricultural land`: 60% (2018 est.)
-- `agricultural land: arable land`: arable land: 0% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 60% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
-- `forest`: 33.3% (2018 est.)
-- `other`: 6.7% (2018 est.)
+- `農地`: 60% (2018 est.)
+- `農地：耕地`: arable land: 0% (2018 est.)
+- `農地：永久性作物`: permanent crops: 60% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0% (2018 est.)
+- `森林`: 33.3% (2018 est.)
+- `其它`: 6.7% (2018 est.)
 
 ### 灌溉土地
 0 sq km (2022)
@@ -74,13 +74,13 @@ one of the smallest and most remote countries on Earth; six of the nine coral at
 ## 人民和社會
 
 ### 人口
-- `total`: 11,733
-- `male`: 5,816
-- `female`: 5,917 (2024 est.)
+- `總計`: 11,733
+- `男性`: 5,816
+- `女性`: 5,917 (2024 est.)
 
 ### 國籍
-- `noun`: Tuvaluan(s)
-- `adjective`: Tuvaluan
+- `名詞`: Tuvaluan(s)
+- `形容詞`: Tuvaluan
 
 ### 族裔群體
 Tuvaluan 97%, Tuvaluan/I-Kiribati 1.6%, Tuvaluan/other 0.8%, other 0.6% (2017 est.)
@@ -92,20 +92,20 @@ Tuvaluan (official), English (official), Samoan, Kiribati (on the island of Nui)
 Protestant 92.7% (Congregational Christian Church of Tuvalu 85.9%, Brethren 2.8%, Seventh Day Adventist 2.5%, Assemblies of God 1.5%), Baha'i 1.5%, Jehovah's Witness 1.5%, other 3.9%, none or refused 0.4% (2017 est.)
 
 ### 年齡結構
-- `0-14 years`: 29.2% (male 1,754/female 1,672)
-- `15-64 years`: 63.2% (male 3,736/female 3,675)
-- `65 years and over`: 7.6% (2024 est.) (male 326/female 570)
+- `0-14歲`: 29.2% (male 1,754/female 1,672)
+- `15-64歲`: 63.2% (male 3,736/female 3,675)
+- `65歲及以上`: 7.6% (2024 est.) (male 326/female 570)
 
 ### 撫養比率
-- `total dependency ratio`: 60.9
-- `youth dependency ratio`: 50.9
-- `elderly dependency ratio`: 10
-- `potential support ratio`: 10 (2021)
+- `總受扶養人比率`: 60.9
+- `少年撫養比率`: 50.9
+- `老人撫養比率`: 10
+- `潛在支持率`: 10 (2021)
 
 ### 年齡中位數
-- `total`: 27.8 years (2024 est.)
-- `male`: 26.8 years
-- `female`: 28.8 years
+- `總計`: 27.8 years (2024 est.)
+- `男性`: 26.8 years
+- `女性`: 28.8 years
 
 ### 人口成長率
 0.78% (2024 est.)
@@ -123,28 +123,28 @@ Protestant 92.7% (Congregational Christian Church of Tuvalu 85.9%, Brethren 2.8%
 over half of the population resides on the atoll of Funafuti
 
 ### 都市化
-- `urban population`: 66.2% of total population (2023)
-- `rate of urbanization`: 2.08% annual rate of change (2020-25 est.)
+- `城市人口`: 66.2% of total population (2023)
+- `城鎮化率`: 2.08% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 7,000 FUNAFUTI (capital) (2018)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.05 male(s)/female
-- `15-64 years`: 1.02 male(s)/female
-- `65 years and over`: 0.57 male(s)/female
-- `total population`: 0.98 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.05 male(s)/female
+- `15-64歲`: 1.02 male(s)/female
+- `65歲及以上`: 0.57 male(s)/female
+- `總人口數`: 0.98 male(s)/female (2024 est.)
 
 ### 嬰兒死亡率
-- `total`: 27.8 deaths/1,000 live births (2024 est.)
-- `male`: 31.3 deaths/1,000 live births
-- `female`: 24 deaths/1,000 live births
+- `總計`: 27.8 deaths/1,000 live births (2024 est.)
+- `男性`: 31.3 deaths/1,000 live births
+- `女性`: 24 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 69 years (2024 est.)
-- `male`: 66.5 years
-- `female`: 71.6 years
+- `總人口數`: 69 years (2024 est.)
+- `男性`: 66.5 years
+- `女性`: 71.6 years
 
 ### 總生育率
 2.78 children born/woman (2024 est.)
@@ -156,12 +156,12 @@ over half of the population resides on the atoll of Funafuti
 23.7% (2019/20)
 
 ### 飲用水來源
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 當前醫療支出
 21.5% of GDP (2020)
@@ -170,27 +170,27 @@ over half of the population resides on the atoll of Funafuti
 1.19 physicians/1,000 population (2020)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 91.8% of population
-- `improved: rural`: rural: 91% of population
-- `improved: total`: total: 91.5% of population
-- `unimproved: urban`: urban: 9.2% of population
-- `unimproved: rural`: rural: 9% of population
-- `unimproved: total`: total: 8.5% of population (2017 est.)
+- `已改進－城市`: urban: 91.8% of population
+- `已改進－農村`: rural: 91% of population
+- `已改進－總計`: total: 91.5% of population
+- `未改進：都市`: urban: 9.2% of population
+- `未改進：鄉村`: rural: 9% of population
+- `未改善：總計`: total: 8.5% of population (2017 est.)
 
 ### 肥胖—成人流行率
 51.6% (2016)
 
 ### 人均酒精消費量
-- `total`: 0.93 liters of pure alcohol (2019 est.)
-- `beer`: 0.01 liters of pure alcohol (2019 est.)
-- `wine`: 0.69 liters of pure alcohol (2019 est.)
-- `spirits`: 0.22 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 0.93 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.01 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.69 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.22 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 35.6% (2020 est.)
-- `male`: 49.8% (2020 est.)
-- `female`: 21.3% (2020 est.)
+- `總計`: 35.6% (2020 est.)
+- `男性`: 49.8% (2020 est.)
+- `女性`: 21.3% (2020 est.)
 
 ### 5歲以下體重不足兒童
 3.1% (2019/20) NA
@@ -199,16 +199,16 @@ over half of the population resides on the atoll of Funafuti
 66.1% (2023 est.)
 
 ### 童婚
-- `women married by age 18`: 1.8%
-- `men married by age 18`: 1.7% (2020 est.)
+- `18歲前結婚的女性`: 1.8%
+- `18歲前結婚的男性`: 1.7% (2020 est.)
 
 ### 教育支出
 NA
 
 ### 識字程度
-- `total population`: NA
-- `male`: NA
-- `female`: NA
+- `總人口數`: NA
+- `男性`: NA
+- `女性`: NA
 
 ## 環境
 
@@ -216,36 +216,36 @@ NA
 water needs met by catchment systems; the use of sand as a building material has led to beachhead erosion; deforestation; damage to coral reefs from increasing ocean temperatures and acidification; rising sea levels threaten water table; in 2000, the government appealed to Australia and New Zealand to take in Tuvaluans if rising sea levels should make evacuation necessary
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Whaling
-- `signed, but not ratified`: Comprehensive Nuclear Test Ban
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Whaling
+- `已簽署但未批準`: Comprehensive Nuclear Test Ban
 
 ### 氣候
 tropical; moderated by easterly trade winds (March to November); westerly gales and heavy rain (November to March)
 
 ### 土地利用
-- `agricultural land`: 60% (2018 est.)
-- `agricultural land: arable land`: arable land: 0% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 60% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
-- `forest`: 33.3% (2018 est.)
-- `other`: 6.7% (2018 est.)
+- `農地`: 60% (2018 est.)
+- `農地：耕地`: arable land: 0% (2018 est.)
+- `農地：永久性作物`: permanent crops: 60% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0% (2018 est.)
+- `森林`: 33.3% (2018 est.)
+- `其它`: 6.7% (2018 est.)
 
 ### 都市化
-- `urban population`: 66.2% of total population (2023)
-- `rate of urbanization`: 2.08% annual rate of change (2020-25 est.)
+- `城市人口`: 66.2% of total population (2023)
+- `城鎮化率`: 2.08% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 6.81 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 0.01 megatons (2016 est.)
-- `methane emissions`: 0.01 megatons (2020 est.)
+- `顆粒物排放量`: 6.81 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 0.01 megatons (2016 est.)
+- `甲烷排放量`: 0.01 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 3,989 tons (2011 est.)
-- `municipal solid waste recycled annually`: 598 tons (2013 est.)
-- `percent of municipal solid waste recycled`: 15% (2013 est.)
+- `城市固體廢棄物－每年產生`: 3,989 tons (2011 est.)
+- `城市固體廢棄物－每年回收`: 598 tons (2013 est.)
+- `城市固體廢棄物－回收百分比`: 15% (2013 est.)
 
 ### 可再生水資源總量
 0 cubic meters (2017 est.)
@@ -253,21 +253,21 @@ tropical; moderated by easterly trade winds (March to November); westerly gales 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Tuvalu
-- `local long form`: none
-- `local short form`: Tuvalu
-- `former`: Ellice Islands
-- `etymology`: "tuvalu" means "group of eight" or "eight standing together" referring to the country's eight traditionally inhabited islands
+- `常用長名`: none
+- `常用短名`: Tuvalu
+- `當地語長名`: none
+- `當地語短名`: Tuvalu
+- `前任`: Ellice Islands
+- `语源学`: "tuvalu" means "group of eight" or "eight standing together" referring to the country's eight traditionally inhabited islands
 
 ### 政府類型
 parliamentary democracy under a constitutional monarchy; a Commonwealth realm
 
 ### 首都
-- `name`: Funafuti; note - the capital is an atoll of some 29 islets; administrative offices are in Vaiaku Village on Fongafale Islet
-- `geographic coordinates`: 8 31 S, 179 13 E
-- `time difference`: UTC+12 (17 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: the atoll is named after a founding ancestor chief, Funa, from the island of Samoa
+- `名稱`: Funafuti; note - the capital is an atoll of some 29 islets; administrative offices are in Vaiaku Village on Fongafale Islet
+- `地理坐標`: 8 31 S, 179 13 E
+- `時差`: UTC+12 (17 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: the atoll is named after a founding ancestor chief, Funa, from the island of Samoa
 
 ### 行政區劃
 7 island councils and 1 town council*; Funafuti*, Nanumaga, Nanumea, Niutao, Nui, Nukufetau, Nukulaelae, Vaitupu
@@ -282,37 +282,37 @@ Independence Day, 1 October (1978)
 mixed legal system of English common law and local customary law
 
 ### 憲法
-- `history`: previous 1978 (at independence); latest effective 1 October 1986
-- `amendments`: proposed by the House of Assembly; passage requires at least two-thirds majority vote by the Assembly membership in the final reading; amended 2007, 2010, 2013, 2023
+- `歷史`: previous 1978 (at independence); latest effective 1 October 1986
+- `修正`: proposed by the House of Assembly; passage requires at least two-thirds majority vote by the Assembly membership in the final reading; amended 2007, 2010, 2013, 2023
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt
 
 ### 公民身份
-- `citizenship by birth`: yes
-- `citizenship by descent only`: yes; for a child born abroad, at least one parent must be a citizen of Tuvalu
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: na
+- `出生公民權`: yes
+- `血統公民身份`: yes; for a child born abroad, at least one parent must be a citizen of Tuvalu
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: na
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: King CHARLES III (since 8 September 2022); represented by Governor General Tofiga Vaevalu FALANI (since 29 August 2021)
-- `head of government`: Prime Minister Feleti Penitala TEO (since 27 February 2024)
-- `cabinet`: Cabinet appointed by the governor general on recommendation of the prime minister
-- `elections/appointments`: the monarchy is hereditary; governor general appointed by the monarch on recommendation of the prime minister; prime minister and deputy prime minister elected by and from members of House of Assembly following parliamentary elections
-- `election results`: *2024: *TEO was the only candidate nominated by the House of Assembly*  2019: *Kausea NATANO elected prime minister by House of Assembly; House of Assembly vote - 10 to 6
+- `國家元首`: King CHARLES III (since 8 September 2022); represented by Governor General Tofiga Vaevalu FALANI (since 29 August 2021)
+- `政府首腦`: Prime Minister Feleti Penitala TEO (since 27 February 2024)
+- `内閣`: Cabinet appointed by the governor general on recommendation of the prime minister
+- `選舉/任命`: the monarchy is hereditary; governor general appointed by the monarch on recommendation of the prime minister; prime minister and deputy prime minister elected by and from members of House of Assembly following parliamentary elections
+- `選舉結果`: *2024: *TEO was the only candidate nominated by the House of Assembly*  2019: *Kausea NATANO elected prime minister by House of Assembly; House of Assembly vote - 10 to 6
 
 ### 立法部門
-- `description`: unicameral House of Assembly or Fale I Fono (16 seats; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 4-year terms)
-- `elections`: last held on 26 January 2024 (next to be held in January 2028)
-- `election results`: percent of vote - NA; seats - independent 16; composition - 16 men, 0 women, percentage women 0%
+- `描述`: unicameral House of Assembly or Fale I Fono (16 seats; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 4-year terms)
+- `選舉`: last held on 26 January 2024 (next to be held in January 2028)
+- `選舉結果`: percent of vote - NA; seats - independent 16; composition - 16 men, 0 women, percentage women 0%
 
 ### 司法部門
-- `highest court(s)`: Court of Appeal (consists of the chief justice and not less than 3 appeals judges); High Court (consists of the chief justice); appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)
-- `judge selection and term of office`: Court of Appeal judges appointed by the governor general on the advice of the Cabinet; judge tenure based on terms of appointment; High Court chief justice appointed by the governor general on the advice of the Cabinet; chief justice serves for life; other judges appointed by the governor general on the advice of the Cabinet after consultation with chief justice; judge tenure set by terms of appointment
-- `subordinate courts`: magistrates' courts; island courts; land courts
+- `最高法院`: Court of Appeal (consists of the chief justice and not less than 3 appeals judges); High Court (consists of the chief justice); appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)
+- `法官遴選和任期`: Court of Appeal judges appointed by the governor general on the advice of the Cabinet; judge tenure based on terms of appointment; High Court chief justice appointed by the governor general on the advice of the Cabinet; chief justice serves for life; other judges appointed by the governor general on the advice of the Cabinet after consultation with chief justice; judge tenure set by terms of appointment
+- `下級法院`: magistrates' courts; island courts; land courts
 
 ### 政黨
 there are no political parties, but members of parliament usually align themselves in informal groupings
@@ -321,15 +321,15 @@ there are no political parties, but members of parliament usually align themselv
 ACP, ADB, AOSIS, C, FAO, IBRD, IDA, IFAD, IFRCS (observer), ILO, IMF, IMO, IOC, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Tapugao FALEFOU (since 19 April 2023); note - also Permanent Representative to UN
-- `chancery`: 685 Third Avenue, Suite 1104, New York, NY 10017
-- `telephone`: [1] (212) 490-0534
+- `外交代表負責人`: Ambassador Tapugao FALEFOU (since 19 April 2023); note - also Permanent Representative to UN
+- `衡平法院（在美國）`: 685 Third Avenue, Suite 1104, New York, NY 10017
+- `電話號碼`: [1] (212) 490-0534
 - `FAX`: [1] (212) 808-4975
-- `email address and website`: tuvalumission.un@gmail.com  tuvalu.unmission@gov.tv  https://www.un.int/tuvalu/about
+- `電子郵件地址和網站`: tuvalumission.un@gmail.com  tuvalu.unmission@gov.tv  https://www.un.int/tuvalu/about
 note - the Tuvalu Permanent Mission to the UN serves as the Embassy
 
 ### 駐該國的美國外交代表
-- `embassy`: the US does not have an embassy in Tuvalu; the US Ambassador to Fiji is accredited to Tuvalu
+- `大使館`: the US does not have an embassy in Tuvalu; the US Ambassador to Fiji is accredited to Tuvalu
 
 ### 旗幟說明
 light blue with the flag of the UK in the upper hoist-side quadrant; the outer half of the flag represents a map of the country with nine yellow, five-pointed stars on a blue field symbolizing the nine atolls in the ocean
@@ -338,8 +338,8 @@ light blue with the flag of the UK in the upper hoist-side quadrant; the outer h
 maneapa (native meeting house); national colors: light blue, yellow
 
 ### 國歌
-- `name`: "Tuvalu mo te Atua" (Tuvalu for the Almighty)
-- `lyrics/music`: Afaese MANOA
+- `名稱`: "Tuvalu mo te Atua" (Tuvalu for the Almighty)
+- `歌詞／音樂`: Afaese MANOA
 **note**:  adopted 1978; the anthem's name is also the nation's motto
 
 ## 經濟
@@ -374,9 +374,9 @@ $62.28 million (2023 est.)
 3.5% (2016 est.)
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 15.9% (2015 est.)
-- `industry`: 7% (2015 est.)
-- `services`: 70% (2012 est.)
+- `農業`: 15.9% (2015 est.)
+- `產業`: 7% (2015 est.)
+- `服務`: 70% (2012 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### 農產品
@@ -394,9 +394,9 @@ fishing
 3,615
 
 ### 青年失業率（15-24歲）
-- `total`: 20.6% (2016)
-- `male`: 9.8%
-- `female`: 45.9%
+- `總計`: 20.6% (2016)
+- `男性`: 9.8%
+- `女性`: 45.9%
 
 ### 匯款
 4.82% of GDP (2023 est.)
@@ -405,8 +405,8 @@ fishing
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $87 million (2019 est.)
-- `expenditures`: $88 million (2019 est.)
+- `收入`: $87 million (2019 est.)
+- `支出`: $88 million (2019 est.)
 **note**:  revenue data include Official Development Assistance from Australia
 
 ### 公共債務
@@ -457,31 +457,31 @@ ships, refined petroleum, iron structures, engine parts, plastic products (2022)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
-- `electrification - urban areas`: 100%
-- `electrification - rural areas`: 99.1%
+- `電氣化－總人口`: 100% (2022 est.)
+- `電氣化－城市地區`: 100%
+- `電氣化－農村地區`: 99.1%
 
 ### 天然氣
-- `production`: 0 cubic meters (2021 est.)
-- `consumption`: 0 cubic meters (2021 est.)
-- `exports`: 0 cubic meters (2021 est.)
-- `imports`: 0 cubic meters (2021 est.)
-- `proven reserves`: 0 cubic meters (2021 est.)
+- `生產`: 0 cubic meters (2021 est.)
+- `消費`: 0 cubic meters (2021 est.)
+- `出口`: 0 cubic meters (2021 est.)
+- `進口`: 0 cubic meters (2021 est.)
+- `探明儲量`: 0 cubic meters (2021 est.)
 
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 2,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 18 (2021 est.)
+- `總訂閱數`: 2,000 (2021 est.)
+- `每100名居民訂閱數`: 18 (2021 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 9,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 80 (2021 est.)
+- `總訂閱數`: 9,000 (2021 est.)
+- `每100名居民訂閱數`: 80 (2021 est.)
 
 ### 電信系統
-- `general assessment`: provides fixed-line telephone communications to subscribers on each of the islands of Tuvalu; each island relies on the use of a satellite dish for inter-island telephone communication, internet access, and mobile phone services (2023)
-- `domestic`: fixed-line teledensity is 18 per 100 and mobile-cellular is 80 per 100 (2021)
-- `international`: country code - 688; international calls can be made by satellite
+- `總體評估`: provides fixed-line telephone communications to subscribers on each of the islands of Tuvalu; each island relies on the use of a satellite dish for inter-island telephone communication, internet access, and mobile phone services (2023)
+- `國內`: fixed-line teledensity is 18 per 100 and mobile-cellular is 80 per 100 (2021)
+- `國際的`: country code - 688; international calls can be made by satellite
 
 ### 廣播媒體
 no TV stations; many households use satellite dishes to watch foreign TV stations; 1 government-owned radio station, Radio Tuvalu, includes relays of programming from international broadcasters (2019)
@@ -490,12 +490,12 @@ no TV stations; many households use satellite dishes to watch foreign TV station
 .tv
 
 ### 網際網路使用者
-- `total`: 7,920 (2021 est.)
-- `percent of population`: 49% (2021 est.)
+- `總計`: 7,920 (2021 est.)
+- `佔人口比例`: 49% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 450 (2017 est.)
-- `subscriptions per 100 inhabitants`: 4 (2017 est.)
+- `總計`: 450 (2017 est.)
+- `每100名居民訂閱數`: 4 (2017 est.)
 
 ## 交通運輸
 
@@ -506,20 +506,20 @@ T2
 1 (2024)
 
 ### 道路
-- `total`: 16 km (2022)
+- `總計`: 16 km (2022)
 
 ### 商船
-- `total`: 270 (2023)
-- `by type`: bulk carrier 21, container ship 3, general cargo 29, oil tanker 19, other 198
+- `總計`: 270 (2023)
+- `依類型`: bulk carrier 21, container ship 3, general cargo 29, oil tanker 19, other 198
 
 ### 港口
-- `total ports`: 1 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 0
-- `very small`: 1
-- `ports with oil terminals`: 1
-- `key ports`: Funafuti Atoll
+- `總港口數`: 1 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 0
+- `非常小`: 1
+- `原油碼頭港口`: 1
+- `主要港口`: Funafuti Atoll
 
 ## 軍事和安全
 

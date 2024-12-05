@@ -19,16 +19,16 @@ interior Western Africa, southwest of Algeria, north of Guinea, Cote d'Ivoire, a
 Africa
 
 ### 面積
-- `total `: 1,240,192 sq km
-- `land`: 1,220,190 sq km
-- `water`: 20,002 sq km
+- `總計`: 1,240,192 sq km
+- `土地`: 1,220,190 sq km
+- `水`: 20,002 sq km
 
 ### 面積—比較
 slightly less than twice the size of Texas
 
 ### 陸地邊界
-- `total`: 7,908 km
-- `border countries`: Algeria 1,359 km; Burkina Faso 1,325 km; Cote d'Ivoire 599 km; Guinea 1,062 km; Mauritania 2,236 km; Niger 838 km, Senegal 489 km
+- `總計`: 7,908 km
+- `邊境國家`: Algeria 1,359 km; Burkina Faso 1,325 km; Cote d'Ivoire 599 km; Guinea 1,062 km; Mauritania 2,236 km; Niger 838 km, Senegal 489 km
 
 ### 海岸線
 0 km (landlocked)
@@ -43,27 +43,27 @@ subtropical to arid; hot and dry (February to June); rainy, humid, and mild (Jun
 mostly flat to rolling northern plains covered by sand; savanna in south, rugged hills in northeast
 
 ### 海拔
-- `highest point`: Hombori Tondo 1,155 m
-- `lowest point`: Senegal River 23 m
-- `mean elevation`: 343 m
+- `最高點`: Hombori Tondo 1,155 m
+- `最低點`: Senegal River 23 m
+- `平均海拔`: 343 m
 
 ### 自然資源
 gold, phosphates, kaolin, salt, limestone, uranium, gypsum, granite, hydropower
 **note**: bauxite, iron ore, manganese, tin, and copper deposits are known but not exploited
 
 ### 土地利用
-- `agricultural land`: 34.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 5.6% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.1% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 28.4% (2018 est.)
-- `forest`: 10.2% (2018 est.)
-- `other`: 55.7% (2018 est.)
+- `農地`: 34.1% (2018 est.)
+- `農地：耕地`: arable land: 5.6% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.1% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 28.4% (2018 est.)
+- `森林`: 10.2% (2018 est.)
+- `其它`: 55.7% (2018 est.)
 
 ### 灌溉土地
 3,780 sq km (2012)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lac Faguibine - 590 sq kmnote - the Niger River is the only source of water for the lake; in recent years the lake is dry
+- `淡水湖`: Lac Faguibine - 590 sq kmnote - the Niger River is the only source of water for the lake; in recent years the lake is dry
 
 ### 主要河流（按公里長度）
 Niger (shared with Guinea [s], Niger, and Nigeria [m]) - 4,200 km; Senegal (shared with Guinea [s], Senegal, and Mauritania [m]) - 1,641 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -86,13 +86,13 @@ landlocked; divided into three natural zones: the southern, cultivated Sudanese;
 ## 人民和社會
 
 ### 人口
-- `total`: 21,990,607
-- `male`: 10,688,755
-- `female`: 11,301,852 (2024 est.)
+- `總計`: 21,990,607
+- `男性`: 10,688,755
+- `女性`: 11,301,852 (2024 est.)
 
 ### 國籍
-- `noun`: Malian(s)
-- `adjective`: Malian
+- `名詞`: Malian(s)
+- `形容詞`: Malian
 
 ### 族裔群體
 Bambara 33.3%, Fulani (Peuhl) 13.3%, Sarakole/Soninke/Marka 9.8%, Senufo/Manianka 9.6%, Malinke 8.8%, Dogon 8.7%, Sonrai 5.9%, Bobo 2.1%, Tuareg/Bella 1.7%, other Malian 6%, from members of Economic Community of West Africa 0.4%, other 0.3% (2018 est.)
@@ -108,20 +108,20 @@ Muslim 93.9%, Christian 2.8%, animist 0.7%, none 2.5% (2018 est.)
 Mali’s total population is expected to double by 2035; its capital Bamako is one of the fastest-growing cities in Africa. A young age structure, a declining mortality rate, and a sustained high total fertility rate of 5.5 children per woman – the fourth highest in the world, as of 2022 – ensure continued rapid population growth for the foreseeable future. Significant outmigration only marginally tempers this growth. Despite decreases, Mali’s infant, child, and maternal mortality rates remain among the highest in Sub-Saharan Africa because of limited access to and adoption of family planning, early childbearing, short birth intervals, the prevalence of female genital cutting, infrequent use of skilled birth attendants, and a lack of emergency obstetrical and neonatal care. Mali’s high total fertility rate has been virtually unchanged for decades, as a result of the ongoing preference for large families, early childbearing, the lack of female education and empowerment, poverty, and extremely low contraceptive use. Slowing Mali’s population growth by lowering its birth rate will be essential for poverty reduction, improving food security, and developing human capital and the economy. Mali has a long history of seasonal migration and emigration driven by poverty, conflict, demographic pressure, unemployment, food insecurity, and droughts. Many Malians from rural areas migrate during the dry period to nearby villages and towns to do odd jobs or to adjoining countries to work in agriculture or mining. Pastoralists and nomads move seasonally to southern Mali or nearby coastal states. Others migrate long term to Mali’s urban areas, Cote d’Ivoire, other neighboring countries, and in smaller numbers to France, Mali’s former colonial ruler. Since the early 1990s, Mali’s role has grown as a transit country for regional migration flows and illegal migration to Europe. Human smugglers and traffickers exploit the same regional routes used for moving contraband drugs, arms, and cigarettes. Between early 2012 and 2013, renewed fighting in northern Mali between government forces and Tuareg secessionists and their Islamist allies, a French-led international military intervention, as well as chronic food shortages, caused the displacement of hundreds of thousands of Malians. Most of those displaced domestically sought shelter in urban areas of southern Mali, except for pastoralist and nomadic groups, who abandoned their traditional routes, gave away or sold their livestock, and dispersed into the deserts of northern Mali or crossed into neighboring countries. Almost all Malians who took refuge abroad (mostly Tuareg and Maure pastoralists) stayed in the region, largely in Mauritania, Niger, and Burkina Faso.
 
 ### 年齡結構
-- `0-14 years`: 46.8% (male 5,175,714/female 5,114,128)
-- `15-64 years`: 50.1% (male 5,178,742/female 5,842,456)
-- `65 years and over`: 3.1% (2024 est.) (male 334,299/female 345,268)
+- `0-14歲`: 46.8% (male 5,175,714/female 5,114,128)
+- `15-64歲`: 50.1% (male 5,178,742/female 5,842,456)
+- `65歲及以上`: 3.1% (2024 est.) (male 334,299/female 345,268)
 
 ### 撫養比率
-- `total dependency ratio`: 99.3
-- `youth dependency ratio`: 94.5
-- `elderly dependency ratio`: 4.9
-- `potential support ratio`: 20.6 (2021 est.)
+- `總受扶養人比率`: 99.3
+- `少年撫養比率`: 94.5
+- `老人撫養比率`: 4.9
+- `潛在支持率`: 20.6 (2021 est.)
 
 ### 年齡中位數
-- `total`: 16.4 years (2024 est.)
-- `male`: 15.7 years
-- `female`: 17.1 years
+- `總計`: 16.4 years (2024 est.)
+- `男性`: 15.7 years
+- `女性`: 17.1 years
 
 ### 人口成長率
 2.9% (2024 est.)
@@ -139,18 +139,18 @@ Mali’s total population is expected to double by 2035; its capital Bamako is o
 the overwhelming majority of the population lives in the southern half of the country, with greater density along the border with Burkina Faso as shown in this population distribution map
 
 ### 都市化
-- `urban population`: 46.2% of total population (2023)
-- `rate of urbanization`: 4.57% annual rate of change (2020-25 est.)
+- `城市人口`: 46.2% of total population (2023)
+- `城鎮化率`: 4.57% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 2.929 million BAMAKO (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.03 male(s)/female
-- `0-14 years`: 1.01 male(s)/female
-- `15-64 years`: 0.89 male(s)/female
-- `65 years and over`: 0.97 male(s)/female
-- `total population`: 0.95 male(s)/female (2024 est.)
+- `出生時`: 1.03 male(s)/female
+- `0-14歲`: 1.01 male(s)/female
+- `15-64歲`: 0.89 male(s)/female
+- `65歲及以上`: 0.97 male(s)/female
+- `總人口數`: 0.95 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 19.2 years (2018 est.)
@@ -160,14 +160,14 @@ the overwhelming majority of the population lives in the southern half of the co
 440 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 57.4 deaths/1,000 live births (2024 est.)
-- `male`: 62.6 deaths/1,000 live births
-- `female`: 52 deaths/1,000 live births
+- `總計`: 57.4 deaths/1,000 live births (2024 est.)
+- `男性`: 62.6 deaths/1,000 live births
+- `女性`: 52 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 63.2 years (2024 est.)
-- `male`: 60.9 years
-- `female`: 65.6 years
+- `總人口數`: 63.2 years (2024 est.)
+- `男性`: 60.9 years
+- `女性`: 65.6 years
 
 ### 總生育率
 5.35 children born/woman (2024 est.)
@@ -179,12 +179,12 @@ the overwhelming majority of the population lives in the southern half of the co
 17.2% (2018)
 
 ### 飲用水來源
-- `improved: urban`: urban: 99.9% of population
-- `improved: rural`: rural: 75.9% of population
-- `improved: total`: total: 86.4% of population
-- `unimproved: urban`: urban: 0.1% of population
-- `unimproved: rural`: rural: 24.1% of population
-- `unimproved: total`: total: 13.6% of population (2020 est.)
+- `已改進－城市`: urban: 99.9% of population
+- `已改進－農村`: rural: 75.9% of population
+- `已改進－總計`: total: 86.4% of population
+- `未改進：都市`: urban: 0.1% of population
+- `未改進：鄉村`: rural: 24.1% of population
+- `未改善：總計`: total: 13.6% of population (2020 est.)
 
 ### 當前醫療支出
 4.3% of GDP (2020)
@@ -196,27 +196,27 @@ the overwhelming majority of the population lives in the southern half of the co
 0.1 beds/1,000 population
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 85.7% of population
-- `improved: rural`: rural: 44.7% of population
-- `improved: total`: total: 62.7% of population
-- `unimproved: urban`: urban: 14.3% of population
-- `unimproved: rural`: rural: 55.3% of population
-- `unimproved: total`: total: 37.3% of population (2020 est.)
+- `已改進－城市`: urban: 85.7% of population
+- `已改進－農村`: rural: 44.7% of population
+- `已改進－總計`: total: 62.7% of population
+- `未改進：都市`: urban: 14.3% of population
+- `未改進：鄉村`: rural: 55.3% of population
+- `未改善：總計`: total: 37.3% of population (2020 est.)
 
 ### 肥胖—成人流行率
 8.6% (2016)
 
 ### 人均酒精消費量
-- `total`: 0.6 liters of pure alcohol (2019 est.)
-- `beer`: 0.09 liters of pure alcohol (2019 est.)
-- `wine`: 0 liters of pure alcohol (2019 est.)
-- `spirits`: 0.02 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.49 liters of pure alcohol (2019 est.)
+- `總計`: 0.6 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.09 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.02 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.49 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 8.3% (2020 est.)
-- `male`: 15.6% (2020 est.)
-- `female`: 1% (2020 est.)
+- `總計`: 8.3% (2020 est.)
+- `男性`: 15.6% (2020 est.)
+- `女性`: 1% (2020 est.)
 
 ### 5歲以下體重不足兒童
 18.5% (2022)
@@ -225,23 +225,23 @@ the overwhelming majority of the population lives in the southern half of the co
 77.9% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 15.9%
-- `women married by age 18`: 53.7%
-- `men married by age 18`: 2.1% (2018 est.)
+- `15歲前結婚的女性`: 15.9%
+- `18歲前結婚的女性`: 53.7%
+- `18歲前結婚的男性`: 2.1% (2018 est.)
 
 ### 教育支出
 4.4% of GDP (2021 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 35.5%
-- `male`: 46.2%
-- `female`: 25.7% (2018)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 35.5%
+- `男性`: 46.2%
+- `女性`: 25.7% (2018)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 7 years
-- `male`: 8 years
-- `female`: 7 years (2017)
+- `總計`: 7 years
+- `男性`: 8 years
+- `女性`: 7 years (2017)
 
 ## 環境
 
@@ -249,26 +249,26 @@ the overwhelming majority of the population lives in the southern half of the co
 deforestation; soil erosion; desertification; loss of pasture land; inadequate supplies of potable water
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Tropical Timber 2006, Wetlands, Whaling
-- `signed, but not ratified`: Nuclear Test Ban
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Tropical Timber 2006, Wetlands, Whaling
+- `已簽署但未批準`: Nuclear Test Ban
 
 ### 氣候
 subtropical to arid; hot and dry (February to June); rainy, humid, and mild (June to November); cool and dry (November to February)
 
 ### 土地利用
-- `agricultural land`: 34.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 5.6% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.1% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 28.4% (2018 est.)
-- `forest`: 10.2% (2018 est.)
-- `other`: 55.7% (2018 est.)
+- `農地`: 34.1% (2018 est.)
+- `農地：耕地`: arable land: 5.6% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.1% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 28.4% (2018 est.)
+- `森林`: 10.2% (2018 est.)
+- `其它`: 55.7% (2018 est.)
 
 ### 都市化
-- `urban population`: 46.2% of total population (2023)
-- `rate of urbanization`: 4.57% annual rate of change (2020-25 est.)
+- `城市人口`: 46.2% of total population (2023)
+- `城鎮化率`: 4.57% annual rate of change (2020-25 est.)
 
 ### 糧食不安全
-- `severe localized food insecurity`: *due to civil insecurity and **high food prices **- *according to the latest analysis, about 1.26 million people are projected to face acute food insecurity during the June to August 2023 lean season period; in total however, the number of food insecure is lower in 2023 compared to 2022; food insecurity conditions are primarily underpinned by the impact of the conflict in central and northern areas, which has caused the displacement of over 375,000 people, as of April 2023; persistent high food prices affect vulnerable households across the country, but limit in particular the food access of people in conflict-affected areas due to market disruptions and limited access to sources of income and humanitarian assistance (2023)
+- `嚴重的地區糧食不安全`: *due to civil insecurity and **high food prices **- *according to the latest analysis, about 1.26 million people are projected to face acute food insecurity during the June to August 2023 lean season period; in total however, the number of food insecure is lower in 2023 compared to 2022; food insecurity conditions are primarily underpinned by the impact of the conflict in central and northern areas, which has caused the displacement of over 375,000 people, as of April 2023; persistent high food prices affect vulnerable households across the country, but limit in particular the food access of people in conflict-affected areas due to market disruptions and limited access to sources of income and humanitarian assistance (2023)
 
 ### 森林資源收入
 2.02% of GDP (2018 est.)
@@ -277,15 +277,15 @@ subtropical to arid; hot and dry (February to June); rainy, humid, and mild (Jun
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 38.55 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 3.18 megatons (2016 est.)
-- `methane emissions`: 19.16 megatons (2020 est.)
+- `顆粒物排放量`: 38.55 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 3.18 megatons (2016 est.)
+- `甲烷排放量`: 19.16 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 1,937,354 tons (2012 est.)
+- `城市固體廢棄物－每年產生`: 1,937,354 tons (2012 est.)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lac Faguibine - 590 sq kmnote - the Niger River is the only source of water for the lake; in recent years the lake is dry
+- `淡水湖`: Lac Faguibine - 590 sq kmnote - the Niger River is the only source of water for the lake; in recent years the lake is dry
 
 ### 主要河流（按公里長度）
 Niger (shared with Guinea [s], Niger, and Nigeria [m]) - 4,200 km; Senegal (shared with Guinea [s], Senegal, and Mauritania [m]) - 1,641 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -297,9 +297,9 @@ Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km), Volta
 Lullemeden-Irhazer Basin, Taodeni-Tanezrouft Basin
 
 ### 總取水量
-- `municipal`: 110 million cubic meters (2020 est.)
-- `industrial`: 4 million cubic meters (2020 est.)
-- `agricultural`: 5.08 billion cubic meters (2020 est.)
+- `市級`: 110 million cubic meters (2020 est.)
+- `工業`: 4 million cubic meters (2020 est.)
+- `農業`: 5.08 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 120 billion cubic meters (2020 est.)
@@ -307,21 +307,21 @@ Lullemeden-Irhazer Basin, Taodeni-Tanezrouft Basin
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Mali
-- `conventional short form`: Mali
-- `local long form`: République de Mali
-- `local short form`: Mali
-- `former`: French Sudan, Sudanese Republic, Mali Federation
-- `etymology`: name derives from the West African Mali Empire of the 13th to 16th centuries A.D.
+- `常用長名`: Republic of Mali
+- `常用短名`: Mali
+- `當地語長名`: République de Mali
+- `當地語短名`: Mali
+- `前任`: French Sudan, Sudanese Republic, Mali Federation
+- `语源学`: name derives from the West African Mali Empire of the 13th to 16th centuries A.D.
 
 ### 政府類型
 semi-presidential republic
 
 ### 首都
-- `name`: Bamako
-- `geographic coordinates`: 12 39 N, 8 00 W
-- `time difference`: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: the name in the Bambara language can mean either "crocodile tail" or "crocodile river" and three crocodiles appear on the city seal
+- `名稱`: Bamako
+- `地理坐標`: 12 39 N, 8 00 W
+- `時差`: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: the name in the Bambara language can mean either "crocodile tail" or "crocodile river" and three crocodiles appear on the city seal
 
 ### 行政區劃
 10 regions (regions, singular - region), 1 district*; District de Bamako*, Gao, Kayes, Kidal, Koulikoro, Menaka, Mopti, Segou, Sikasso, Taoudenni, Tombouctou (Timbuktu); note - Menaka and Taoudenni were legislated in 2016, but implementation has not been confirmed by the US Board on Geographic Names
@@ -336,39 +336,39 @@ Independence Day, 22 September (1960)
 civil law system based on the French civil law model and influenced by customary law; judicial review of legislative acts in the Constitutional Court
 
 ### 憲法
-- `history`: several previous; latest drafted 13 October 2022 and submitted to Transition President Assimi GOITA; final draft completed 1 March 2023; approved by referendum 18 June 2023; validated by Constitutional Court 22 July 2023; note - the new constitution includes provisions for expansion of presidential and military powers and creation of a "senate"
-- `amendments`: procedure for amending the 2023 constitution NA
+- `歷史`: several previous; latest drafted 13 October 2022 and submitted to Transition President Assimi GOITA; final draft completed 1 March 2023; approved by referendum 18 June 2023; validated by Constitutional Court 22 July 2023; note - the new constitution includes provisions for expansion of presidential and military powers and creation of a "senate"
+- `修正`: procedure for amending the 2023 constitution NA
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Mali
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: 5 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Mali
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: 5 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: Transition President Assimi GOITA (since 7 June 2021)
-- `head of government`: Transition Prime Minister Choguel MAIGA (since 7 June 2021)
-- `cabinet`: Council of Ministers appointed by the prime minister
-- `elections/appointments`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 29 July 2018 with runoff on 12 August 2018; prime minister appointed by the president; note - on 21 February 2022, the transition government adopted a charter allowing transition authorities to rule for up to 5 years, but a referendum pushed through by the junta in June 2023 consolidated power in the presidency and would allow junta leaders to serve in a new government, creating the potential for transition President GOITA to maintain his hold on power indefinitely
-- `election results`: *2018*: Ibrahim Boubacar KEITA reelected president in second round; percent of vote in first round - Ibrahim Boubacar KEITA (RPM) 41.7%, Soumaila CISSE (URD) 17.8%, other 40.5%; percent of vote in second round - Ibrahim Boubacar KEITA 67.2%, Soumaila CISSE 32.8%  *2013*: Ibrahim Boubacar KEITA elected president in second round; percent of vote in first round - Ibrahim Boubacar KEITA (RPM) 39.8%, Soumaila CISSE (URD) 19.7%, other 40.5%; percent of vote in second round - Ibrahim Boubacar KEITA (RPM) 77.6%, Soumaila CISSE (URD) 22.4%
+- `國家元首`: Transition President Assimi GOITA (since 7 June 2021)
+- `政府首腦`: Transition Prime Minister Choguel MAIGA (since 7 June 2021)
+- `内閣`: Council of Ministers appointed by the prime minister
+- `選舉/任命`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 29 July 2018 with runoff on 12 August 2018; prime minister appointed by the president; note - on 21 February 2022, the transition government adopted a charter allowing transition authorities to rule for up to 5 years, but a referendum pushed through by the junta in June 2023 consolidated power in the presidency and would allow junta leaders to serve in a new government, creating the potential for transition President GOITA to maintain his hold on power indefinitely
+- `選舉結果`: *2018*: Ibrahim Boubacar KEITA reelected president in second round; percent of vote in first round - Ibrahim Boubacar KEITA (RPM) 41.7%, Soumaila CISSE (URD) 17.8%, other 40.5%; percent of vote in second round - Ibrahim Boubacar KEITA 67.2%, Soumaila CISSE 32.8%  *2013*: Ibrahim Boubacar KEITA elected president in second round; percent of vote in first round - Ibrahim Boubacar KEITA (RPM) 39.8%, Soumaila CISSE (URD) 19.7%, other 40.5%; percent of vote in second round - Ibrahim Boubacar KEITA (RPM) 77.6%, Soumaila CISSE (URD) 22.4%
 **note**:  an August 2020 coup d'état deposed President Ibrahim Boubacar KEITA; on 21 September 2020, a group of 17 electors chosen by the Malian military junta, known as the National Committee for the Salvation of the People (CNSP) and led by Colonel Assimi GOITA, selected Bah NDAW as transition president; GOITA served as vice president of the transition government which was inaugurated on 25 September 2020; Vice President GOITA seized power on 25 May 2021; NDAW resigned on 26 May 2021; on 6 June 2022, GOITA's government announced a transition period of 24 months with a planned return to civilian rule by March 2024
 
 ### 立法部門
-- `description`: unicameral National Assembly or Assemblee Nationale (147 seats; members directly elected in single and multi-seat constituencies by absolute majority vote in 2 rounds if needed; 13 seats reserved for citizens living abroad; members serve 5-year terms)
-- `elections`: last held on 30 March and 19 April 2020
-- `election results`: percent of vote by party - NA; seats by party - NA; composition - NA
+- `描述`: unicameral National Assembly or Assemblee Nationale (147 seats; members directly elected in single and multi-seat constituencies by absolute majority vote in 2 rounds if needed; 13 seats reserved for citizens living abroad; members serve 5-year terms)
+- `選舉`: last held on 30 March and 19 April 2020
+- `選舉結果`: percent of vote by party - NA; seats by party - NA; composition - NA
 **note 1**:  the National Assembly was dissolved on 18 August 2020 after a military coup; the transitional government created a Transitional National Council (CNT) that acts as the transitional government's legislative body; a new constitution was ratified in July 2023 that expanded the military junta's powers, and no plans for legislative elections have been announced**note 2**:  coup leaders appointed a president and vice president; the president then apportioned CNT seats to various groups and political parties
 
 ### 司法部門
-- `highest court(s)`: Supreme Court or Cour Supreme (consists of 19 judges organized into judicial, administrative, and accounting sections); Constitutional Court (consists of 9 judges)
-- `judge selection and term of office`: Supreme Court judges appointed by the Ministry of Justice to serve 5-year terms; Constitutional Court judges selected - 3 each by the president, the National Assembly, and the Supreme Council of the Magistracy; members serve single renewable 7-year terms
-- `subordinate courts`: Court of Appeal; High Court of Justice (jurisdiction limited to cases of high treason or criminal offenses by the president or ministers while in office); administrative courts (first instance and appeal); commercial courts; magistrate courts; labor courts; juvenile courts; special court of state security
+- `最高法院`: Supreme Court or Cour Supreme (consists of 19 judges organized into judicial, administrative, and accounting sections); Constitutional Court (consists of 9 judges)
+- `法官遴選和任期`: Supreme Court judges appointed by the Ministry of Justice to serve 5-year terms; Constitutional Court judges selected - 3 each by the president, the National Assembly, and the Supreme Council of the Magistracy; members serve single renewable 7-year terms
+- `下級法院`: Court of Appeal; High Court of Justice (jurisdiction limited to cases of high treason or criminal offenses by the president or ministers while in office); administrative courts (first instance and appeal); commercial courts; magistrate courts; labor courts; juvenile courts; special court of state security
 
 ### 政黨
 African Solidarity for Democracy and Independence or SADIAlliance for Democracy and Progress or ADP-MalibaAlliance for Democracy in Mali-Pan-African Party for Liberty, Solidarity, and Justice or ADEMA-PASJAlliance for the Solidarity of Mali-Convergence of Patriotic Forces or ASMA-CFPConvergence for the Development of Mali or CODEM Democratic Alliance for Peace or ADP-MalibaMovement for Mali or MPMParty for National Renewal (also Rebirth or Renaissance or PARENA)Rally for Mali or RPM Social Democratic Convention or CDSUnion for Democracy and Development or UDDUnion for Republic and Democracy or URDYéléma
@@ -378,19 +378,19 @@ African Solidarity for Democracy and Independence or SADIAlliance for Democracy 
 ACP, AfDB, AU (suspended), CD, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, MONUSCO, NAM, OIC, OPCW, UN, UNCTAD, UNDP, UNESCO, UNFPA, UNHCR, UNIDO, UNOPS, UN Women, UNWTO, UPU, WADB (regional), WAEMU, World Bank Group, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Sékou BERTHE (since 16 September 2022)
-- `chancery`: 2130 R Street NW, Washington, DC 20008
-- `telephone`: [1] (202) 332-2249
+- `外交代表負責人`: Ambassador Sékou BERTHE (since 16 September 2022)
+- `衡平法院（在美國）`: 2130 R Street NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 332-2249
 - `FAX`: [1] (202) 332-6603
-- `email address and website`: administration@maliembassy.us  https://www.maliembassy.us/
+- `電子郵件地址和網站`: administration@maliembassy.us  https://www.maliembassy.us/
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Rachna KORHONEN (since 16 March 2023)
-- `embassy`: ACI 2000, Rue 243, (located off the Roi Bin Fahad Aziz Bridge west of the Bamako central district), Porte 297, Bamako
-- `mailing address`: 2050 Bamako Place, Washington DC  20521-2050
-- `telephone`: [223] 20-70-23-00
+- `外交代表負責人`: Ambassador Rachna KORHONEN (since 16 March 2023)
+- `大使館`: ACI 2000, Rue 243, (located off the Roi Bin Fahad Aziz Bridge west of the Bamako central district), Porte 297, Bamako
+- `郵寄地址`: 2050 Bamako Place, Washington DC  20521-2050
+- `電話號碼`: [223] 20-70-23-00
 - `FAX`: [223] 20-70-24-79
-- `email address and website`: ACSBamako@state.gov  https://ml.usembassy.gov/
+- `電子郵件地址和網站`: ACSBamako@state.gov  https://ml.usembassy.gov/
 
 ### 旗幟說明
 three equal vertical bands of green (hoist side), yellow, and red
@@ -400,8 +400,8 @@ three equal vertical bands of green (hoist side), yellow, and red
 Great Mosque of Djenne; national colors: green, yellow, red
 
 ### 國歌
-- `name`: "Le Mali" (Mali)
-- `lyrics/music`: Seydou Badian KOUYATE/Banzoumana SISSOKO
+- `名稱`: "Le Mali" (Mali)
+- `歌詞／音樂`: Seydou Badian KOUYATE/Banzoumana SISSOKO
 **note**:  adopted 1962; also known as "Pour L'Afrique et pour toi, Mali" (For Africa and for You, Mali) and "A ton appel Mali" (At Your Call, Mali)
 
 ### 國家級遺產
@@ -446,18 +446,18 @@ $20.905 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 36.8% (2023 est.)
-- `industry`: 19.4% (2023 est.)
-- `services`: 36.1% (2023 est.)
+- `農業`: 36.8% (2023 est.)
+- `產業`: 19.4% (2023 est.)
+- `服務`: 36.1% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 74.3% (2023 est.)
-- `government consumption`: 17.1% (2023 est.)
-- `investment in fixed capital`: 20.1% (2023 est.)
-- `investment in inventories`: -1.9% (2023 est.)
-- `exports of goods and services`: 28.2% (2023 est.)
-- `imports of goods and services`: -37.8% (2023 est.)
+- `家庭消費`: 74.3% (2023 est.)
+- `政府消費`: 17.1% (2023 est.)
+- `固定資本投資`: 20.1% (2023 est.)
+- `存貨投資`: -1.9% (2023 est.)
+- `商品和服務出口`: 28.2% (2023 est.)
+- `商品和服務進口`: -37.8% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -482,9 +482,9 @@ food processing; construction; phosphate and gold mining
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 4.1% (2023 est.)
-- `male`: 4.1% (2023 est.)
-- `female`: 4.2% (2023 est.)
+- `總計`: 4.1% (2023 est.)
+- `男性`: 4.1% (2023 est.)
+- `女性`: 4.2% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -496,8 +496,8 @@ food processing; construction; phosphate and gold mining
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 3.2% (2021 est.)
-- `highest 10%`: 28.3% (2021 est.)
+- `最低10%`: 3.2% (2021 est.)
+- `最高10%`: 28.3% (2021 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -507,8 +507,8 @@ food processing; construction; phosphate and gold mining
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $2.841 billion (2020 est.)
-- `expenditures`: $2.533 billion (2020 est.)
+- `收入`: $2.841 billion (2020 est.)
+- `支出`: $2.533 billion (2020 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -571,33 +571,33 @@ $3.923 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 53% (2022 est.)
-- `electrification - urban areas`: 99.7%
-- `electrification - rural areas`: 18.3%
+- `電氣化－總人口`: 53% (2022 est.)
+- `電氣化－城市地區`: 99.7%
+- `電氣化－農村地區`: 18.3%
 
 ### 電力
-- `installed generating capacity`: 1.145 million kW (2022 est.)
-- `consumption`: 3.5 billion kWh (2022 est.)
-- `exports`: 600 million kWh (2022 est.)
-- `imports`: 775.87 million kWh (2022 est.)
-- `transmission/distribution losses`: 433.773 million kWh (2022 est.)
+- `裝機容量`: 1.145 million kW (2022 est.)
+- `消費`: 3.5 billion kWh (2022 est.)
+- `出口`: 600 million kWh (2022 est.)
+- `進口`: 775.87 million kWh (2022 est.)
+- `傳輸／分配損耗`: 433.773 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 60.2% of total installed capacity (2022 est.)
-- `solar`: 0.9% of total installed capacity (2022 est.)
-- `hydroelectricity`: 37.3% of total installed capacity (2022 est.)
-- `biomass and waste`: 1.6% of total installed capacity (2022 est.)
+- `石化燃料`: 60.2% of total installed capacity (2022 est.)
+- `太陽能`: 0.9% of total installed capacity (2022 est.)
+- `水力發電`: 37.3% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 1.6% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `exports`: (2022 est.) less than 1 metric ton
-- `imports`: 100 metric tons (2022 est.)
+- `出口`: (2022 est.) less than 1 metric ton
+- `進口`: 100 metric tons (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 46,000 bbl/day (2022 est.)
+- `成品油消費量`: 46,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 6.868 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 6.868 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 6.868 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 6.868 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 4.476 million Btu/person (2022 est.)
@@ -605,17 +605,17 @@ $3.923 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 307,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 1 (2022 est.)
+- `總訂閱數`: 307,000 (2022 est.)
+- `每100名居民訂閱數`: 1 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 25.869 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 114 (2022 est.)
+- `總訂閱數`: 25.869 million (2022 est.)
+- `每100名居民訂閱數`: 114 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Mali’s telecom systems are challenged by recent conflict, geography, areas of low population, poverty, security issues, and high illiteracy; telecom infrastructure is barely adequate in urban areas and not available in most of the country with underinvestment in fixed-line networks; high mobile penetration and potential for mobile broadband service; local plans for IXP; dependent on neighboring countries for international bandwidth and access to submarine cables (2022)
-- `domestic`: fixed-line subscribership is 1 per 100 persons; mobile-cellular subscribership has increased sharply to 100 per 100 persons (2021)
-- `international`: country code - 223; satellite communications center and fiber-optic links to neighboring countries; satellite earth stations - 2 Intelsat (1 Atlantic Ocean, 1 Indian Ocean) (2020)
+- `總體評估`: Mali’s telecom systems are challenged by recent conflict, geography, areas of low population, poverty, security issues, and high illiteracy; telecom infrastructure is barely adequate in urban areas and not available in most of the country with underinvestment in fixed-line networks; high mobile penetration and potential for mobile broadband service; local plans for IXP; dependent on neighboring countries for international bandwidth and access to submarine cables (2022)
+- `國內`: fixed-line subscribership is 1 per 100 persons; mobile-cellular subscribership has increased sharply to 100 per 100 persons (2021)
+- `國際的`: country code - 223; satellite communications center and fiber-optic links to neighboring countries; satellite earth stations - 2 Intelsat (1 Atlantic Ocean, 1 Indian Ocean) (2020)
 
 ### 廣播媒體
 national public TV broadcaster; 2 privately owned companies provide subscription services to foreign multi-channel TV packages; national public radio broadcaster supplemented by a large number of privately owned and community broadcast stations; transmissions of multiple international broadcasters are available (2019)
@@ -624,17 +624,17 @@ national public TV broadcaster; 2 privately owned companies provide subscription
 .ml
 
 ### 網際網路使用者
-- `total`: 7.48 million (2021 est.)
-- `percent of population`: 34% (2021 est.)
+- `總計`: 7.48 million (2021 est.)
+- `佔人口比例`: 34% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 243,806 (2020 est.)
-- `subscriptions per 100 inhabitants`: 1 (2020 est.)
+- `總計`: 243,806 (2020 est.)
+- `每100名居民訂閱數`: 1 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 0 (2020)
+- `註冊航空公司數量`: 0 (2020)
 
 ### 註冊民用航空器國家代碼前綴
 TZ, TT
@@ -646,11 +646,11 @@ TZ, TT
 3 (2024)
 
 ### 鐵路
-- `total`: 593 km (2014)
-- `narrow gauge`: 593 km (2014) 1.000-m gauge
+- `總計`: 593 km (2014)
+- `窄軌`: 593 km (2014) 1.000-m gauge
 
 ### 道路
-- `total`: 139,107 km (2014)
+- `總計`: 139,107 km (2014)
 
 ### 水道
 1,800 km (2011) (downstream of Koulikoro; low water levels on the River Niger cause problems in dry years; in the months before the rainy season the river is not navigable by commercial vessels)
@@ -692,11 +692,11 @@ Ansar al-Dine; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 29,138 (Burkina Faso) (refugees and asylum seekers), 20,617 (Niger) (refugees and asylum seekers), 14,956 (Mauritania) (refugees and asylum seekers) (2023)
+- `難民（原籍國）`: 29,138 (Burkina Faso) (refugees and asylum seekers), 20,617 (Niger) (refugees and asylum seekers), 14,956 (Mauritania) (refugees and asylum seekers) (2023)
 - `IDPs`: 375,539 (Tuareg rebellion since 2012) (2023)
 
 ### 人口販運
-- `tier rating`: Tier 2 Watch list — Mali did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2024-trafficking-in-persons-report/mali/
+- `會級評分`: Tier 2 Watch list — Mali did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2024-trafficking-in-persons-report/mali/
 
 ### 非法藥物
 a transit point for illicit drugs trafficked to Europe; trafficking controlled by armed groups, criminal organizations, terrorist groups and government officials that facilitate, protect and profit from the activity

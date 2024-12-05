@@ -19,15 +19,15 @@ Europe between the North Atlantic Ocean in the west and Russia, Belarus, and Ukr
 Europe
 
 ### 面積
-- `total `: 4,236,351 sq km
+- `總計`: 4,236,351 sq km
 **rank by area (sq km)**: 1. France (includes five overseas regions) 643,801 2. Spain 505,370 3. Sweden 450,295 4. Germany 357,022 5. Finland 338,145 6. Poland 312,685 7. Italy 301,3408. Romania 238,391 9. Greece 131,957 10. Bulgaria 110,879 11. Hungary 93,028 12. Portugal 92,090 13. Austria 83,871 14. Czechia 78,867 15. Ireland 70,273 16. Lithuania 65,300 17. Latvia 64,589 18. Croatia 56,594 19. Slovakia 49,035 20. Estonia 45,228 21. Denmark 43,094 22. Netherlands 41,543 23. Belgium 30,528 24. Slovenia 20,273 25. Cyprus 9,251 26. Luxembourg 2,586 27. Malta 316
 
 ### 面積—比較
 less than one half the size of the United States
 
 ### 陸地邊界
-- `total`: 13,770 km
-- `border countries`: Albania 212 km; Andorra 118 km; Belarus 1,176 km; Bosnia and Herzegovina 956 km; Holy See 3 km; Liechtenstein 34 km; North Macedonia 396 km; Moldova 683 km; Monaco 6 km; Montenegro 19 km; Norway 2,375 km; Russia 2,435 km; San Marino 37 km; Serbia 1,353 km; Switzerland 1,729 km; Turkey 415 km; United Kingdom 499 km; Ukraine 1,324 km
+- `總計`: 13,770 km
+- `邊境國家`: Albania 212 km; Andorra 118 km; Belarus 1,176 km; Bosnia and Herzegovina 956 km; Holy See 3 km; Liechtenstein 34 km; North Macedonia 396 km; Moldova 683 km; Monaco 6 km; Montenegro 19 km; Norway 2,375 km; Russia 2,435 km; San Marino 37 km; Serbia 1,353 km; Switzerland 1,729 km; Turkey 415 km; United Kingdom 499 km; Ukraine 1,324 km
 **note**:  data for European continent only
 
 ### 海岸線
@@ -40,8 +40,8 @@ cold temperate; potentially subarctic in the north to temperate; mild wet winter
 fairly flat along Baltic and Atlantic coasts; mountainous in the central and southern areas
 
 ### 海拔
-- `highest point`: Mont Blanc, France 4,810 m
-- `lowest point`: Zuidplaspolder, Netherlands -7 m
+- `最高點`: Mont Blanc, France 4,810 m
+- `最低點`: Zuidplaspolder, Netherlands -7 m
 
 ### 自然資源
 iron ore, natural gas, petroleum, coal, copper, lead, zinc, bauxite, uranium, potash, salt, hydropower, arable land, timber, fish
@@ -58,9 +58,9 @@ flooding along coasts; avalanches in mountainous area; earthquakes in the south;
 ## 人民和社會
 
 ### 人口
-- `total`: 451,815,312
-- `male`: 220,631,332
-- `female`: 231,183,980 (2024 est.)
+- `總計`: 451,815,312
+- `男性`: 220,631,332
+- `女性`: 231,183,980 (2024 est.)
 
 ### 語文
 Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovene, Spanish, Swedish
@@ -70,20 +70,20 @@ Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, G
 Roman Catholic 41%, Orthodox 10%, Protestant 9%, other Christian 4%, Muslim 2%, other 4% (includes Jewish, Sikh, Buddhist, Hindu), atheist 10%, non-believer/agnostic 17%, unspecified 3% (2019 est.)
 
 ### 年齡結構
-- `0-14 years`: 14.5% (male 33,606,273/female 31,985,118)
-- `15-64 years`: 63.5% (male 143,874,460/female 143,104,994)
-- `65 years and over`: 22% (2024 est.) (male 43,150,599/female 56,093,868)
+- `0-14歲`: 14.5% (male 33,606,273/female 31,985,118)
+- `15-64歲`: 63.5% (male 143,874,460/female 143,104,994)
+- `65歲及以上`: 22% (2024 est.) (male 43,150,599/female 56,093,868)
 
 ### 撫養比率
-- `total dependency ratio`: NA
-- `youth dependency ratio`: NA
-- `elderly dependency ratio`: NA
-- `potential support ratio`: NA
+- `總受扶養人比率`: NA
+- `少年撫養比率`: NA
+- `老人撫養比率`: NA
+- `潛在支持率`: NA
 
 ### 年齡中位數
-- `total`: 44 years (2020)
-- `male`: 42.6 years
-- `female`: 45.5 years
+- `總計`: 44 years (2020)
+- `男性`: 42.6 years
+- `女性`: 45.5 years
 
 ### 人口成長率
 0.1% (2021 est.)
@@ -101,19 +101,19 @@ Roman Catholic 41%, Orthodox 10%, Protestant 9%, other Christian 4%, Muslim 2%, 
 population distribution varies considerably from country to country but tends to follow a pattern of coastal and river settlement, with urban agglomerations forming large hubs facilitating large scale housing, industry, and commerce; the area in and around the Netherlands, Belgium, and Luxembourg (known collectively as Benelux), is the most densely populated area in the EU
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.05 male(s)/female
-- `15-64 years`: 1.01 male(s)/female
-- `65 years and over`: 0.77 male(s)/female
-- `total population`: 0.95 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.05 male(s)/female
+- `15-64歲`: 1.01 male(s)/female
+- `65歲及以上`: 0.77 male(s)/female
+- `總人口數`: 0.95 male(s)/female (2024 est.)
 
 ### 嬰兒死亡率
-- `total`: 3.4 deaths/1,000 live births (2024 est.)
+- `總計`: 3.4 deaths/1,000 live births (2024 est.)
 
 ### 出生時預期壽命
-- `total population`: 77.63 years (2021)
-- `male`: 72.98 years
-- `female`: 82.51 years
+- `總人口數`: 77.63 years (2021)
+- `男性`: 72.98 years
+- `女性`: 82.51 years
 
 ### 總生育率
 1.54 children born/woman (2024 est.)
@@ -125,20 +125,20 @@ population distribution varies considerably from country to country but tends to
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: NA
-- `improved: rural`: rural: NA
-- `improved: total`: total: NA
-- `unimproved: urban`: urban: NA
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: NA
+- `已改進－城市`: urban: NA
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: NA
+- `未改進：都市`: urban: NA
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: NA
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: NA
-- `improved: rural`: rural: NA
-- `improved: total`: total: NA
-- `unimproved: urban`: urban: NA
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: NA
+- `已改進－城市`: urban: NA
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: NA
+- `未改進：都市`: urban: NA
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: NA
 
 ### 5歲以下體重不足兒童
 NA
@@ -147,9 +147,9 @@ NA
 5% of GDP (2020 est.)
 
 ### 識字程度
-- `total population`: NA
-- `male`: NA
-- `female`: NA
+- `總人口數`: NA
+- `男性`: NA
+- `女性`: NA
 
 ## 環境
 
@@ -157,8 +157,8 @@ NA
 various forms of air, soil, and water pollution; see individual country entries
 
 ### 環境—國際協定
-- `party to`: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Tropical Timber 2006
-- `signed, but not ratified`: Air Pollution-Volatile Organic Compounds
+- `是以下議定書的締約國：`: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Tropical Timber 2006
+- `已簽署但未批準`: Air Pollution-Volatile Organic Compounds
 
 ### 氣候
 cold temperate; potentially subarctic in the north to temperate; mild wet winters; hot dry summers in the south
@@ -170,7 +170,7 @@ cold temperate; potentially subarctic in the north to temperate; mild wet winter
 0.02% of GDP (2018 est.)
 
 ### 空氣污染物
-- `carbon dioxide emissions`: 2,881.62 megatons (2016 est.)
+- `二氧化碳排放量`: 2,881.62 megatons (2016 est.)
 
 ### 可再生水資源總量
 1.7 trillion cubic meters (2019)
@@ -178,18 +178,18 @@ cold temperate; potentially subarctic in the north to temperate; mild wet winter
 ## 政府
 
 ### 聯盟名稱
-- `conventional long form`: European Union
-- `abbreviation`: EU
+- `常用長名`: European Union
+- `縮寫`: EU
 
 ### 政治結構
 a hybrid and unique intergovernmental and supranational organization
 
 ### 首都
-- `name`: Brussels (Belgium), Strasbourg (France), Luxembourg, Frankfurt (Germany); note - the European Council, a gathering of member-state heads of state and/or government, and the Council of the European Union, a gathering of member-state cabinet ministers, meet in Brussels, Belgium, except for Council of the EU meetings held in Luxembourg in April, June, and October; the European Parliament meets in Brussels and Strasbourg, France, and has administrative offices in Luxembourg; the Court of Justice of the European Union is located in Luxembourg; and the European Central Bank is located in Frankfurt, Germany
-- `geographic coordinates`: (Brussels) 50 50 N, 4 20 E
-- `time difference`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
-- `daylight saving time`: +1hr, begins last Sunday in March; ends last Sunday in October
-- `time zone note`: the 27 European Union member states spread across three time zones; a proposal has been put forward to do away with daylight savings time in all EU member states
+- `名稱`: Brussels (Belgium), Strasbourg (France), Luxembourg, Frankfurt (Germany); note - the European Council, a gathering of member-state heads of state and/or government, and the Council of the European Union, a gathering of member-state cabinet ministers, meet in Brussels, Belgium, except for Council of the EU meetings held in Luxembourg in April, June, and October; the European Parliament meets in Brussels and Strasbourg, France, and has administrative offices in Luxembourg; the Court of Justice of the European Union is located in Luxembourg; and the European Central Bank is located in Frankfurt, Germany
+- `地理坐標`: (Brussels) 50 50 N, 4 20 E
+- `時差`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+- `日光節約時間`: +1hr, begins last Sunday in March; ends last Sunday in October
+- `時區備註`: the 27 European Union member states spread across three time zones; a proposal has been put forward to do away with daylight savings time in all EU member states
 
 ### 會員國
 27 countries: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden; note - 9 candidate countries: Albania, Bosnia and Herzegovina, Georgia, Moldova, Montenegro, North Macedonia, Serbia, Turkey, Ukraine there are 13 overseas countries and territories (OCTs) (1 with Denmark [Greenland], 6 with France [French Polynesia, French Southern and Antarctic Lands, New Caledonia, Saint Barthelemy, Saint Pierre and Miquelon, Wallis and Futuna], and 6 with the Netherlands [Aruba, Bonaire, Curacao, Saba, Sint Eustatius, Sint Maarten]), all are part of the Overseas Countries and Territories Association (OCTA)
@@ -206,8 +206,8 @@ Europe Day (also known as Schuman Day), 9 May (1950); note - the day in 1950 tha
 unique supranational system of laws in which, according to an interpretive declaration of member-state governments appended to the Treaty of Lisbon, "the Treaties and the law adopted by the Union on the basis of the Treaties have primacy over the law of Member States" under conditions laid down in the case law of the Court of Justice; key principles of EU jurisprudence include universal rights as guaranteed by the Charter of Fundamental Rights and as resulting from constitutional traditions common to the EU's 27 member states; EU law is divided into 'primary' and 'secondary' legislation; primary legislation is derived from the consolidated versions of the Treaty on European Union and the Treaty on the Functioning of the European Union and are the basis for all EU action; secondary legislation - which includes directives, regulations, and decisions - is derived from the principles and objectives set out in the treaties
 
 ### 憲法
-- `history`: none; note - the EU legal order relies primarily on two consolidated texts encompassing all provisions as amended from a series of past treaties: the Treaty on European Union (TEU) and the Treaty on the Functioning of the EU (TFEU); The TEU as modified by the 2009 Lisbon Treaty states in Article 1 that "the HIGH CONTRACTING PARTIES establish among themselves a EUROPEAN UNION ... on which the Member States confer competences to attain objectives they have in common"; Article 1 of the TEU states further that the EU is "founded on the present Treaty and on the Treaty on the Functioning of the European Union (hereinafter referred to as 'the Treaties')," both possessing the same legal value; Article 6 of the TEU provides that a separately adopted Charter of Fundamental Rights of the European Union "shall have the same legal value as the Treaties"
-- `amendments`: European Union treaties can be amended in several ways: 1) Ordinary Revision Procedure (for key amendments to the treaties); initiated by an EU member state, by the European Parliament, or by the European Commission; following adoption of the proposal by the European Council, a convention is formed of national government representatives to review the proposal and a conference of government representatives  subsequently reviews the proposal; passage requires ratification by all EU member states; 2) Simplified Revision Procedure (for amendment of EU internal policies and actions); passage of a proposal requires unanimous European Council vote following European Council consultation with the European Commission, the European Parliament, and the European Central Bank (if the amendment concerns monetary matters) and requires ratification by all EU member states; 3) Passerelle Clause (allows the alteration of a legislative procedure without a formal amendment of the treaties); 4) Flexibility Clause (permits the EU to decide in subject areas where EU competences have not been explicitly granted in the Treaties but are necessary to the attainment of the objectives set out in the Treaty); note - the Treaty of Lisbon (signed in December 2007 and effective in December 2009) amended the two treaties that formed the EU - the Maastricht Treaty (1992), also known as the TEU,  and the Treaty of Rome (1957), known in updated form as the TFEU
+- `歷史`: none; note - the EU legal order relies primarily on two consolidated texts encompassing all provisions as amended from a series of past treaties: the Treaty on European Union (TEU) and the Treaty on the Functioning of the EU (TFEU); The TEU as modified by the 2009 Lisbon Treaty states in Article 1 that "the HIGH CONTRACTING PARTIES establish among themselves a EUROPEAN UNION ... on which the Member States confer competences to attain objectives they have in common"; Article 1 of the TEU states further that the EU is "founded on the present Treaty and on the Treaty on the Functioning of the European Union (hereinafter referred to as 'the Treaties')," both possessing the same legal value; Article 6 of the TEU provides that a separately adopted Charter of Fundamental Rights of the European Union "shall have the same legal value as the Treaties"
+- `修正`: European Union treaties can be amended in several ways: 1) Ordinary Revision Procedure (for key amendments to the treaties); initiated by an EU member state, by the European Parliament, or by the European Commission; following adoption of the proposal by the European Council, a convention is formed of national government representatives to review the proposal and a conference of government representatives  subsequently reviews the proposal; passage requires ratification by all EU member states; 2) Simplified Revision Procedure (for amendment of EU internal policies and actions); passage of a proposal requires unanimous European Council vote following European Council consultation with the European Commission, the European Parliament, and the European Central Bank (if the amendment concerns monetary matters) and requires ratification by all EU member states; 3) Passerelle Clause (allows the alteration of a legislative procedure without a formal amendment of the treaties); 4) Flexibility Clause (permits the EU to decide in subject areas where EU competences have not been explicitly granted in the Treaties but are necessary to the attainment of the objectives set out in the Treaty); note - the Treaty of Lisbon (signed in December 2007 and effective in December 2009) amended the two treaties that formed the EU - the Maastricht Treaty (1992), also known as the TEU,  and the Treaty of Rome (1957), known in updated form as the TFEU
 
 ### 選舉權
 18 years of age (16 years in Austria); universal; voting for the European Parliament is permitted in each member state
@@ -217,14 +217,14 @@ under the EU treaties there are three distinct institutions, each of which condu
 **note**:  for external representation and foreign policy making, member-state leaders appointed Joseph BORRELL (Spain) as the High Representative of the Union for Foreign Affairs and Security Policy; BORRELL took office on 1 December 2019, succeeding Federica MOGHERINI (Italy (2014 - 2019); the High Representative's concurrent appointment as Vice President of the European Commission was meant to bring more coherence to the EU’s foreign policy (including policies managed by the Commission that are particularly relevant for EU external relations, such as trade, humanitarian aid and crisis management, neighborhood policy and enlargement, as well as between member-state capitals and the EU); the High Representative helps develop and implement the EU's Common Foreign and Security Policy and Common Security and Defense Policy components, chairs the Council of the EU's meetings of member-state foreign ministers, called the Foreign Affairs Council, represents and acts for the Union in many international contexts, and oversees the European External Action Service, the diplomatic corps of the EU, established on 1 December 2010
 
 ### 立法部門
-- `description`: two legislative bodies consisting of the Council of the European Union (27 seats; ministers representing the 27 member states) and the European Parliament (720 seats; seats allocated among member states roughly in proportion to population size; members elected by proportional representation to serve 5-year terms)
-- `elections`: last held on 6-9 June 2024 (next to be held in June 2029)
-- `election results`: European Parliament percent of vote - NA; seats by party - EPP 188, S&D 136, PfE 84, ECR 78, Renew 77, Greens/EFA 53, GUE-NGL 46, ESN 25, non-attached 12, other 21; composition - men 424, women 281, percentage women 39.8%
+- `描述`: two legislative bodies consisting of the Council of the European Union (27 seats; ministers representing the 27 member states) and the European Parliament (720 seats; seats allocated among member states roughly in proportion to population size; members elected by proportional representation to serve 5-year terms)
+- `選舉`: last held on 6-9 June 2024 (next to be held in June 2029)
+- `選舉結果`: European Parliament percent of vote - NA; seats by party - EPP 188, S&D 136, PfE 84, ECR 78, Renew 77, Greens/EFA 53, GUE-NGL 46, ESN 25, non-attached 12, other 21; composition - men 424, women 281, percentage women 39.8%
 **note 1**:  the European Parliament (EP) President, Roberta METSOLA, was elected in January 2022 and reelected in July 2024 by a majority of EP members (MEPs) and represents the EP in the EU and internationally   **note 2**:  the EP and the Council of the EU share responsibilities for adopting the bulk of EU legislation; the European Commission proposes legislation, and the two other bodies have to agree for the proposal to become law -- except in the area of Common Foreign and Security Policy, which is governed by consensus of the EU member-state governments
 
 ### 司法部門
-- `highest court(s)`: Court of Justice of the European Union, which includes the Court of Justice (informally known as the European Court of Justice or ECJ) and the General Court (consists of 27 judges, one drawn from each member state); the ECJ includes 11 Advocates General while the General Court can include additional judges; both the ECJ and the General Court may sit in a "Grand Chamber" of 15 judges in special cases but usually in chambers of 3 to 5 judges
-- `judge selection and term of office`: judges appointed by the common consent of the member states to serve 6-year renewable terms
+- `最高法院`: Court of Justice of the European Union, which includes the Court of Justice (informally known as the European Court of Justice or ECJ) and the General Court (consists of 27 judges, one drawn from each member state); the ECJ includes 11 Advocates General while the General Court can include additional judges; both the ECJ and the General Court may sit in a "Grand Chamber" of 15 judges in special cases but usually in chambers of 3 to 5 judges
+- `法官遴選和任期`: judges appointed by the common consent of the member states to serve 6-year renewable terms
 **note**:  the ECJ is the supreme judicial authority of the EU; it ensures that EU law is interpreted and applied uniformly throughout the EU, resolves disputes among EU institutions and member states, and reviews issues and opinions regarding questions of EU law referred by member state courts
 
 ### 政黨
@@ -234,18 +234,18 @@ The Left or GUE/NGL European Conservatives and Reformists or ECR Greens/Europe
 ARF, ASEAN (dialogue member), Australian Group, BIS, BSEC (observer), CBSS, CERN, EBRD, FAO, FATF, G-7, G-10, G-20, IDA, IEA, IGAD (partners), LAIA (observer), NSG (observer), OAS (observer), OECD, PIF (partner), SAARC (observer), SICA (observer), UN (observer), UNRWA (observer), WCO, WTO, ZC (observer)
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Jovita NELIUPŠIENĖ, Head of Delegation (since 27 February 2024)
-- `chancery`: 2175 K Street NW, Washington, DC 20037
-- `telephone`: [1] (202) 862-9500
+- `外交代表負責人`: Ambassador Jovita NELIUPŠIENĖ, Head of Delegation (since 27 February 2024)
+- `衡平法院（在美國）`: 2175 K Street NW, Washington, DC 20037
+- `電話號碼`: [1] (202) 862-9500
 - `FAX`: [1] (202) 429-1766
-- `email address and website`: delegation-usa-info@eeas.europa.eu  Delegation of the European Union to the United States of America | EEAS (europa.eu)
+- `電子郵件地址和網站`: delegation-usa-info@eeas.europa.eu  Delegation of the European Union to the United States of America | EEAS (europa.eu)
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Mark GITENSTEIN (since 24 January 2022)
-- `embassy`: Zinnerstraat - 13 - Rue Zinner, B-1000 Brussels
-- `mailing address`: use embassy street address
-- `telephone`: [32] (2) 811-4100
-- `email address and website`: https://useu.usmission.gov/
+- `外交代表負責人`: Ambassador Mark GITENSTEIN (since 24 January 2022)
+- `大使館`: Zinnerstraat - 13 - Rue Zinner, B-1000 Brussels
+- `郵寄地址`: use embassy street address
+- `電話號碼`: [32] (2) 811-4100
+- `電子郵件地址和網站`: https://useu.usmission.gov/
 
 ### 旗幟說明
 a blue field with 12 five-pointed gold stars arranged in a circle in the center; blue represents the sky of the Western world, the stars are the peoples of Europe in a circle, a symbol of unity; the number of stars is fixed
@@ -254,8 +254,8 @@ a blue field with 12 five-pointed gold stars arranged in a circle in the center;
 a circle of 12, five-pointed, golden yellow stars on a blue field; union colors: blue, yellow
 
 ### 國歌
-- `name`: "Ode to Joy"
-- `lyrics/music`: no lyrics/Ludwig VAN BEETHOVEN, arranged by Herbert VON KARAJAN
+- `名稱`: "Ode to Joy"
+- `歌詞／音樂`: no lyrics/Ludwig VAN BEETHOVEN, arranged by Herbert VON KARAJAN
 **note**:  official EU anthem since 1985; the anthem is meant to represent all of Europe rather than just the organization, conveying ideas of peace, freedom, and unity
 
 ## 經濟
@@ -295,18 +295,18 @@ $18.349 trillion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 1.7% (2023 est.)
-- `industry`: 23.7% (2023 est.)
-- `services`: 65% (2023 est.)
+- `農業`: 1.7% (2023 est.)
+- `產業`: 23.7% (2023 est.)
+- `服務`: 65% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 52.3% (2023 est.)
-- `government consumption`: 21.1% (2023 est.)
-- `investment in fixed capital`: 22.2% (2023 est.)
-- `investment in inventories`: 0.7% (2023 est.)
-- `exports of goods and services`: 52.7% (2023 est.)
-- `imports of goods and services`: -49% (2023 est.)
+- `家庭消費`: 52.3% (2023 est.)
+- `政府消費`: 21.1% (2023 est.)
+- `固定資本投資`: 22.2% (2023 est.)
+- `存貨投資`: 0.7% (2023 est.)
+- `商品和服務出口`: 52.7% (2023 est.)
+- `商品和服務進口`: -49% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -331,17 +331,17 @@ among the world's largest and most technologically advanced regions, the EU indu
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 16.1% (2023 est.)
-- `male`: 16.4% (2023 est.)
-- `female`: 16% (2023 est.)
+- `總計`: 16.1% (2023 est.)
+- `男性`: 16.4% (2023 est.)
+- `女性`: 16% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 基尼指數係數—家庭所得分配
 30.8 (2016 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 2.8%
-- `highest 10%`: 23.8% (2016 est.)
+- `最低10%`: 2.8%
+- `最高10%`: 23.8% (2016 est.)
 
 ### 匯款
 0.77% of GDP (2023 est.)
@@ -403,7 +403,7 @@ $740.9 billion (31 December 2014 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 二氧化碳排放量
 3.475 billion metric tonnes of CO2 (2015 est.)
@@ -411,12 +411,12 @@ $740.9 billion (31 December 2014 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 155.005 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 36 (2022 est.)
+- `總訂閱數`: 155.005 million (2022 est.)
+- `每100名居民訂閱數`: 36 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 552.316 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 124 (2022 est.)
+- `總訂閱數`: 552.316 million (2022 est.)
+- `每100名居民訂閱數`: 124 (2022 est.)
 
 ### 電信系統
 note - see individual country entries of member states
@@ -425,18 +425,18 @@ note - see individual country entries of member states
 .eu; note - see country entries of member states for individual country codes
 
 ### 網際網路使用者
-- `total`: 389,063,826 (2021 est.)
-- `percent of population`: 87% (2021 est.)
+- `總計`: 389,063,826 (2021 est.)
+- `佔人口比例`: 87% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 163,772,540 (2020 est.)
-- `subscriptions per 100 inhabitants`: 37 (2020 est.)
+- `總計`: 163,772,540 (2020 est.)
+- `每100名居民訂閱數`: 37 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `annual passenger traffic on registered air carriers`: 636,860,155 (2018)
-- `annual freight traffic on registered air carriers`: 31,730,660,000 (2018)
+- `年度客運量－註冊航空公司`: 636,860,155 (2018)
+- `年度貨運量－註冊航空公司`: 31,730,660,000 (2018)
 
 ### 機場
 4,585 (2024)
@@ -445,10 +445,10 @@ note - see individual country entries of member states
 1,755 (2024)
 
 ### 鐵路
-- `total`: 4,894,173 km (2019)
+- `總計`: 4,894,173 km (2019)
 
 ### 道路
-- `total`: 4,894,173 km (2019) 4,894,173
+- `總計`: 4,894,173 km (2019) 4,894,173
 
 ### 水道
 42,000 km (2017) 42,000 km

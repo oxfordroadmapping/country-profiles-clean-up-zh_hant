@@ -19,24 +19,24 @@ Caribbean, islands between the Caribbean Sea and North Atlantic Ocean, north of 
 Central America and the Caribbean
 
 ### 面積
-- `total `: 389 sq km (Saint Vincent 344 sq km)
-- `land`: 389 sq km
-- `water`: 0 sq km
+- `總計`: 389 sq km (Saint Vincent 344 sq km)
+- `土地`: 389 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 twice the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 84 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: 200 nm
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: 200 nm
 
 ### 氣候
 tropical; little seasonal temperature variation; rainy season (May to November)
@@ -45,19 +45,19 @@ tropical; little seasonal temperature variation; rainy season (May to November)
 volcanic, mountainous
 
 ### 海拔
-- `highest point`: La Soufriere 1,234 m
-- `lowest point`: Caribbean Sea 0 m
+- `最高點`: La Soufriere 1,234 m
+- `最低點`: Caribbean Sea 0 m
 
 ### 自然資源
 hydropower, arable land
 
 ### 土地利用
-- `agricultural land`: 25.6% (2018 est.)
-- `agricultural land: arable land`: arable land: 12.8% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 7.7% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 5.1% (2018 est.)
-- `forest`: 68.7% (2018 est.)
-- `other`: 5.7% (2018 est.)
+- `農地`: 25.6% (2018 est.)
+- `農地：耕地`: arable land: 12.8% (2018 est.)
+- `農地：永久性作物`: permanent crops: 7.7% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 5.1% (2018 est.)
+- `森林`: 68.7% (2018 est.)
+- `其它`: 5.7% (2018 est.)
 
 ### 灌溉土地
 10 sq km (2012)
@@ -74,13 +74,13 @@ the administration of the islands of the Grenadines group is divided between Sai
 ## 人民和社會
 
 ### 人口
-- `total`: 100,647
-- `male`: 51,249
-- `female`: 49,398 (2024 est.)
+- `總計`: 100,647
+- `男性`: 51,249
+- `女性`: 49,398 (2024 est.)
 
 ### 國籍
-- `noun`: Saint Vincentian(s) or Vincentian(s)
-- `adjective`: Saint Vincentian or Vincentian
+- `名詞`: Saint Vincentian(s) or Vincentian(s)
+- `形容詞`: Saint Vincentian or Vincentian
 
 ### 族裔群體
 African descent 71.2%, mixed 23%, Indigenous 3%, East Indian/Indian 1.1%, European 1.5%, other 0.2% (2012 est.)
@@ -92,20 +92,20 @@ English, Vincentian Creole English, French patois
 Protestant 75% (Pentecostal 27.6%, Anglican 13.9%, Seventh Day Adventist 11.6%,  Baptist 8.9%, Methodist 8.7%, Evangelical 3.8%, Salvation Army 0.3%, Presbyterian/Congregational 0.3%), Roman Catholic 6.3%,  Rastafarian 1.1%, Jehovah's Witness 0.8%, other 4.7%, none 7.5%, unspecified 4.7% (2012 est.)
 
 ### 年齡結構
-- `0-14 years`: 18.8% (male 9,527/female 9,353)
-- `15-64 years`: 68.2% (male 35,401/female 33,288)
-- `65 years and over`: 13% (2024 est.) (male 6,321/female 6,757)
+- `0-14歲`: 18.8% (male 9,527/female 9,353)
+- `15-64歲`: 68.2% (male 35,401/female 33,288)
+- `65歲及以上`: 13% (2024 est.) (male 6,321/female 6,757)
 
 ### 撫養比率
-- `total dependency ratio`: 49
-- `youth dependency ratio`: 32.9
-- `elderly dependency ratio`: 16.1
-- `potential support ratio`: 6.2 (2021 est.)
+- `總受扶養人比率`: 49
+- `少年撫養比率`: 32.9
+- `老人撫養比率`: 16.1
+- `潛在支持率`: 6.2 (2021 est.)
 
 ### 年齡中位數
-- `total`: 37.6 years (2024 est.)
-- `male`: 37.7 years
-- `female`: 37.4 years
+- `總計`: 37.6 years (2024 est.)
+- `男性`: 37.7 years
+- `女性`: 37.4 years
 
 ### 人口成長率
 -0.15% (2024 est.)
@@ -123,31 +123,31 @@ Protestant 75% (Pentecostal 27.6%, Anglican 13.9%, Seventh Day Adventist 11.6%,�
 most of the population is concentrated in and around the capital of Kingstown
 
 ### 都市化
-- `urban population`: 54.3% of total population (2023)
-- `rate of urbanization`: 0.94% annual rate of change (2020-25 est.)
+- `城市人口`: 54.3% of total population (2023)
+- `城鎮化率`: 0.94% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 27,000 KINGSTOWN (capital) (2018)
 
 ### 性別比例
-- `at birth`: 1.03 male(s)/female
-- `0-14 years`: 1.02 male(s)/female
-- `15-64 years`: 1.06 male(s)/female
-- `65 years and over`: 0.94 male(s)/female
-- `total population`: 1.04 male(s)/female (2024 est.)
+- `出生時`: 1.03 male(s)/female
+- `0-14歲`: 1.02 male(s)/female
+- `15-64歲`: 1.06 male(s)/female
+- `65歲及以上`: 0.94 male(s)/female
+- `總人口數`: 1.04 male(s)/female (2024 est.)
 
 ### 產婦死亡率
 62 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 12.3 deaths/1,000 live births (2024 est.)
-- `male`: 13.9 deaths/1,000 live births
-- `female`: 10.7 deaths/1,000 live births
+- `總計`: 12.3 deaths/1,000 live births (2024 est.)
+- `男性`: 13.9 deaths/1,000 live births
+- `女性`: 10.7 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 77.2 years (2024 est.)
-- `male`: 75.2 years
-- `female`: 79.3 years
+- `總人口數`: 77.2 years (2024 est.)
+- `男性`: 75.2 years
+- `女性`: 79.3 years
 
 ### 總生育率
 1.74 children born/woman (2024 est.)
@@ -159,8 +159,8 @@ most of the population is concentrated in and around the capital of Kingstown
 NA
 
 ### 飲用水來源
-- `improved: total`: total: 95.1% of population
-- `unimproved: total`: total: 4.9% of population (2017 est.)
+- `已改進－總計`: total: 95.1% of population
+- `未改善：總計`: total: 4.9% of population (2017 est.)
 
 ### 當前醫療支出
 4.8% of GDP (2020)
@@ -172,22 +172,22 @@ NA
 4.3 beds/1,000 population (2016)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: NA
-- `improved: rural`: rural: NA
-- `improved: total`: total: 90.2% of population
-- `unimproved: urban`: urban: NA
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: 9.8% of population (2017 est.)
+- `已改進－城市`: urban: NA
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: 90.2% of population
+- `未改進：都市`: urban: NA
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: 9.8% of population (2017 est.)
 
 ### 肥胖—成人流行率
 23.7% (2016)
 
 ### 人均酒精消費量
-- `total`: 7.48 liters of pure alcohol (2019 est.)
-- `beer`: 2.52 liters of pure alcohol (2019 est.)
-- `wine`: 0.24 liters of pure alcohol (2019 est.)
-- `spirits`: 4.48 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.23 liters of pure alcohol (2019 est.)
+- `總計`: 7.48 liters of pure alcohol (2019 est.)
+- `啤酒`: 2.52 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.24 liters of pure alcohol (2019 est.)
+- `烈酒`: 4.48 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.23 liters of pure alcohol (2019 est.)
 
 ### 5歲以下體重不足兒童
 NA
@@ -199,14 +199,14 @@ NA
 5.7% of GDP (2018 est.)
 
 ### 識字程度
-- `total population`: NA
-- `male`: NA
-- `female`: NA
+- `總人口數`: NA
+- `男性`: NA
+- `女性`: NA
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 14 years
-- `male`: 14 years
-- `female`: 15 years (2015)
+- `總計`: 14 years
+- `男性`: 14 years
+- `女性`: 15 years (2015)
 
 ## 環境
 
@@ -214,23 +214,23 @@ NA
 pollution of coastal waters and shorelines from discharges by pleasure yachts and other effluents; in some areas, pollution is severe enough to make swimming prohibitive; poor land use planning; deforestation; watershed management and squatter settlement control
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Whaling
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Whaling
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 tropical; little seasonal temperature variation; rainy season (May to November)
 
 ### 土地利用
-- `agricultural land`: 25.6% (2018 est.)
-- `agricultural land: arable land`: arable land: 12.8% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 7.7% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 5.1% (2018 est.)
-- `forest`: 68.7% (2018 est.)
-- `other`: 5.7% (2018 est.)
+- `農地`: 25.6% (2018 est.)
+- `農地：耕地`: arable land: 12.8% (2018 est.)
+- `農地：永久性作物`: permanent crops: 7.7% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 5.1% (2018 est.)
+- `森林`: 68.7% (2018 est.)
+- `其它`: 5.7% (2018 est.)
 
 ### 都市化
-- `urban population`: 54.3% of total population (2023)
-- `rate of urbanization`: 0.94% annual rate of change (2020-25 est.)
+- `城市人口`: 54.3% of total population (2023)
+- `城鎮化率`: 0.94% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.02% of GDP (2018 est.)
@@ -239,17 +239,17 @@ tropical; little seasonal temperature variation; rainy season (May to November)
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 9.41 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 0.22 megatons (2016 est.)
-- `methane emissions`: 0.09 megatons (2020 est.)
+- `顆粒物排放量`: 9.41 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 0.22 megatons (2016 est.)
+- `甲烷排放量`: 0.09 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 31,561 tons (2015 est.)
+- `城市固體廢棄物－每年產生`: 31,561 tons (2015 est.)
 
 ### 總取水量
-- `municipal`: 10 million cubic meters (2020 est.)
-- `industrial`: 2,000 cubic meters (2017 est.)
-- `agricultural`: 0 cubic meters (2017 est.)
+- `市級`: 10 million cubic meters (2020 est.)
+- `工業`: 2,000 cubic meters (2017 est.)
+- `農業`: 0 cubic meters (2017 est.)
 
 ### 可再生水資源總量
 100 million cubic meters (2020 est.)
@@ -257,18 +257,18 @@ tropical; little seasonal temperature variation; rainy season (May to November)
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Saint Vincent and the Grenadines
-- `etymology`: Saint Vincent was named by explorer Christopher COLUMBUS after Saint VINCENT of Saragossa because the 22 January 1498 day of discovery was the saint's feast day
+- `常用長名`: none
+- `常用短名`: Saint Vincent and the Grenadines
+- `语源学`: Saint Vincent was named by explorer Christopher COLUMBUS after Saint VINCENT of Saragossa because the 22 January 1498 day of discovery was the saint's feast day
 
 ### 政府類型
 parliamentary democracy under a constitutional monarchy; a Commonwealth realm
 
 ### 首都
-- `name`: Kingstown
-- `geographic coordinates`: 13 08 N, 61 13 W
-- `time difference`: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
-- `etymology`: an earlier French settlement was renamed Kingstown by the British in 1763 when they assumed control of the island; the king referred to in the name is GEORGE III (r. 1760-1820)
+- `名稱`: Kingstown
+- `地理坐標`: 13 08 N, 61 13 W
+- `時差`: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+- `语源学`: an earlier French settlement was renamed Kingstown by the British in 1763 when they assumed control of the island; the king referred to in the name is GEORGE III (r. 1760-1820)
 
 ### 行政區劃
 6 parishes; Charlotte, Grenadines, Saint Andrew, Saint David, Saint George, Saint Patrick
@@ -283,36 +283,36 @@ Independence Day, 27 October (1979)
 English common law
 
 ### 憲法
-- `history`: previous 1969, 1975; latest drafted 26 July 1979, effective 27 October 1979 (The Saint Vincent Constitution Order 1979)
-- `amendments`: proposed by the House of Assembly; passage requires at least two-thirds majority vote of the Assembly membership and assent of the governor general; passage of amendments to constitutional sections on fundamental rights and freedoms, citizen protections, various government functions and authorities, and constitutional amendment procedures requires approval by the Assembly membership, approval in a referendum of at least two thirds of the votes cast, and assent of the governor general
+- `歷史`: previous 1969, 1975; latest drafted 26 July 1979, effective 27 October 1979 (The Saint Vincent Constitution Order 1979)
+- `修正`: proposed by the House of Assembly; passage requires at least two-thirds majority vote of the Assembly membership and assent of the governor general; passage of amendments to constitutional sections on fundamental rights and freedoms, citizen protections, various government functions and authorities, and constitutional amendment procedures requires approval by the Assembly membership, approval in a referendum of at least two thirds of the votes cast, and assent of the governor general
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: yes
-- `citizenship by descent only`: at least one parent must be a citizen of Saint Vincent and the Grenadines
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: 7 years
+- `出生公民權`: yes
+- `血統公民身份`: at least one parent must be a citizen of Saint Vincent and the Grenadines
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: 7 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: King CHARLES III (since 8 September 2022); represented by Governor General Susan DOUGAN (since 1 August 2019)
-- `head of government`: Prime Minister Ralph Everard GONSALVES (since 29 March 2001)
-- `cabinet`: Cabinet appointed by the governor general on the advice of the prime minister
-- `elections/appointments`: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party usually appointed prime minister by the governor general; deputy prime minister appointed by the governor general on the advice of the prime minister
+- `國家元首`: King CHARLES III (since 8 September 2022); represented by Governor General Susan DOUGAN (since 1 August 2019)
+- `政府首腦`: Prime Minister Ralph Everard GONSALVES (since 29 March 2001)
+- `内閣`: Cabinet appointed by the governor general on the advice of the prime minister
+- `選舉/任命`: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party usually appointed prime minister by the governor general; deputy prime minister appointed by the governor general on the advice of the prime minister
 
 ### 立法部門
-- `description`: unicameral House of Assembly (23 seats; 15 representatives directly elected in single-seat constituencies by simple majority vote, 6 senators appointed by the governor general, and 2 ex officio members - the speaker of the house and the attorney general; members serve 5-year terms)
-- `elections`: last held on 5 November 2020 (next to be held in 2025)
-- `election results`: percent of vote by party - ULP 49.58%, NDP 50.34%, other 0.8%; seats by party - ULP 9, NDP 6; composition - men 18, women 5, percentage women 21.7%
+- `描述`: unicameral House of Assembly (23 seats; 15 representatives directly elected in single-seat constituencies by simple majority vote, 6 senators appointed by the governor general, and 2 ex officio members - the speaker of the house and the attorney general; members serve 5-year terms)
+- `選舉`: last held on 5 November 2020 (next to be held in 2025)
+- `選舉結果`: percent of vote by party - ULP 49.58%, NDP 50.34%, other 0.8%; seats by party - ULP 9, NDP 6; composition - men 18, women 5, percentage women 21.7%
 
 ### 司法部門
-- `highest court(s)`: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Saint Vincent and the Grenadines; note - Saint Vincent and the Grenadines is also a member of the Caribbean Court of Justice
-- `judge selection and term of office`: chief justice of Eastern Caribbean Supreme Court appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, an independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62
-- `subordinate courts`: magistrates' courts
+- `最高法院`: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Saint Vincent and the Grenadines; note - Saint Vincent and the Grenadines is also a member of the Caribbean Court of Justice
+- `法官遴選和任期`: chief justice of Eastern Caribbean Supreme Court appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, an independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62
+- `下級法院`: magistrates' courts
 
 ### 政黨
 New Democratic Party or NDPSVG Green Party or SVGPUnity Labor Party or ULP (formed in 1994 by the coalition of Saint Vincent Labor Party or SVLP and the Movement for National Unity or MNU)
@@ -321,15 +321,15 @@ New Democratic Party or NDPSVG Green Party or SVGPUnity Labor Party or ULP (form
 ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (subscriber), ITU, MIGA, NAM, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU (NGOs), WHO, WIPO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Lou-Anne Gaylene GILCHRIST (since 18 January 2017)
-- `chancery`: 1627 K Street, NW, Suite 704, Washington, DC 20006
-- `telephone`: [1] (202) 364-6730
+- `外交代表負責人`: Ambassador Lou-Anne Gaylene GILCHRIST (since 18 January 2017)
+- `衡平法院（在美國）`: 1627 K Street, NW, Suite 704, Washington, DC 20006
+- `電話號碼`: [1] (202) 364-6730
 - `FAX`: [1] (202) 364-6736
-- `email address and website`: mail@embsvg.com  http://wa.embassy.gov.vc/washington/
-- `consulate(s) general`: New York
+- `電子郵件地址和網站`: mail@embsvg.com  http://wa.embassy.gov.vc/washington/
+- `總領事館`: New York
 
 ### 駐該國的美國外交代表
-- `embassy`: the US does not have an embassy in Saint Vincent and the Grenadines; the US Ambassador to Barbados is accredited to Saint Vincent and the Grenadines
+- `大使館`: the US does not have an embassy in Saint Vincent and the Grenadines; the US Ambassador to Barbados is accredited to Saint Vincent and the Grenadines
 
 ### 旗幟說明
 three vertical bands of blue (hoist side), gold (double width), and green; the gold band bears three green diamonds arranged in a V pattern, which stands for Vincent; the diamonds recall the islands as "the Gems of the Antilles" and are set slightly lowered in the gold band to reflect the nation's position in the Antilles; blue conveys the colors of a tropical sky and crystal waters, yellow signifies the golden Grenadine sands, and green represents lush vegetation
@@ -338,8 +338,8 @@ three vertical bands of blue (hoist side), gold (double width), and green; the g
 Saint Vincent parrot; national colors: blue, gold, green
 
 ### 國歌
-- `name`: "St. Vincent! Land So Beautiful!"
-- `lyrics/music`: Phyllis Joyce MCCLEAN PUNNETT/Joel Bertram MIGUEL
+- `名稱`: "St. Vincent! Land So Beautiful!"
+- `歌詞／音樂`: Phyllis Joyce MCCLEAN PUNNETT/Joel Bertram MIGUEL
 **note**:  adopted 1967
 
 ## 經濟
@@ -380,18 +380,18 @@ $1.066 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 4.2% (2023 est.)
-- `industry`: 14.2% (2023 est.)
-- `services`: 64.2% (2023 est.)
+- `農業`: 4.2% (2023 est.)
+- `產業`: 14.2% (2023 est.)
+- `服務`: 64.2% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 87.3% (2017 est.)
-- `government consumption`: 16.6% (2017 est.)
-- `investment in fixed capital`: 10.8% (2017 est.)
-- `investment in inventories`: -0.2% (2017 est.)
-- `exports of goods and services`: 37.1% (2017 est.)
-- `imports of goods and services`: -51.7% (2017 est.)
+- `家庭消費`: 87.3% (2017 est.)
+- `政府消費`: 16.6% (2017 est.)
+- `固定資本投資`: 10.8% (2017 est.)
+- `存貨投資`: -0.2% (2017 est.)
+- `商品和服務出口`: 37.1% (2017 est.)
+- `商品和服務進口`: -51.7% (2017 est.)
 
 ### 農產品
 bananas, root vegetables, plantains, vegetables, fruits, coconuts, mangoes/guavas, yams, spices, sweet potatoes (2022)
@@ -415,9 +415,9 @@ tourism; food processing, cement, furniture, clothing, starch
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 42.3% (2023 est.)
-- `male`: 42.5% (2023 est.)
-- `female`: 42% (2023 est.)
+- `總計`: 42.3% (2023 est.)
+- `男性`: 42.5% (2023 est.)
+- `女性`: 42% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 匯款
@@ -427,8 +427,8 @@ tourism; food processing, cement, furniture, clothing, starch
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $226.404 million (2017 est.)
-- `expenditures`: $208.744 million (2017 est.)
+- `收入`: $226.404 million (2017 est.)
+- `支出`: $208.744 million (2017 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -493,28 +493,28 @@ $414.492 million (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 54,000 kW (2022 est.)
-- `consumption`: 162.316 million kWh (2022 est.)
-- `transmission/distribution losses`: 10.868 million kWh (2022 est.)
+- `裝機容量`: 54,000 kW (2022 est.)
+- `消費`: 162.316 million kWh (2022 est.)
+- `傳輸／分配損耗`: 10.868 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 75.2% of total installed capacity (2022 est.)
-- `solar`: 1.7% of total installed capacity (2022 est.)
-- `hydroelectricity`: 23.1% of total installed capacity (2022 est.)
+- `石化燃料`: 75.2% of total installed capacity (2022 est.)
+- `太陽能`: 1.7% of total installed capacity (2022 est.)
+- `水力發電`: 23.1% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `exports`: 16.8 metric tons (2022 est.)
-- `imports`: 16 metric tons (2022 est.)
+- `出口`: 16.8 metric tons (2022 est.)
+- `進口`: 16 metric tons (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 2,000 bbl/day (2022 est.)
+- `成品油消費量`: 2,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 246,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 246,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 246,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 246,000 metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 35.826 million Btu/person (2022 est.)
@@ -522,17 +522,17 @@ $414.492 million (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 11,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 11 (2022 est.)
+- `總訂閱數`: 11,000 (2022 est.)
+- `每100名居民訂閱數`: 11 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 104,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 100 (2022 est.)
+- `總訂閱數`: 104,000 (2022 est.)
+- `每100名居民訂閱數`: 100 (2022 est.)
 
 ### 電信系統
-- `general assessment`: adequate island-wide, fully automatic telephone system; broadband access; expanded FttP (Fiber to the Home) markets; LTE launches; regulatory development; telecom sector contributes greatly to the overall GDP; telecom sector is a growth area (2020)
-- `domestic`: fixed-line teledensity is 11 per 100 persons and mobile-cellular teledensity is 110 per 100 persons (2021)
-- `international`: country code - 1-784; landing points for the ECFS, CARCIP and Southern Caribbean Fiber submarine cables providing connectivity to US and Caribbean Islands; connectivity also provided by VHF/UHF radiotelephone from Saint Vincent to Barbados; SHF radiotelephone to Grenada and Saint Lucia; access to Intelsat earth station in Martinique through Saint Lucia (2019)
+- `總體評估`: adequate island-wide, fully automatic telephone system; broadband access; expanded FttP (Fiber to the Home) markets; LTE launches; regulatory development; telecom sector contributes greatly to the overall GDP; telecom sector is a growth area (2020)
+- `國內`: fixed-line teledensity is 11 per 100 persons and mobile-cellular teledensity is 110 per 100 persons (2021)
+- `國際的`: country code - 1-784; landing points for the ECFS, CARCIP and Southern Caribbean Fiber submarine cables providing connectivity to US and Caribbean Islands; connectivity also provided by VHF/UHF radiotelephone from Saint Vincent to Barbados; SHF radiotelephone to Grenada and Saint Lucia; access to Intelsat earth station in Martinique through Saint Lucia (2019)
 
 ### 廣播媒體
 St. Vincent and the Grenadines Broadcasting Corporation operates 1 TV station and 5 repeater stations that provide near total coverage to the multi-island state; multi-channel cable TV service available; a partially government-funded national radio service broadcasts on 1 station and has 2 repeater stations; about a dozen privately owned radio stations and repeater stations
@@ -541,18 +541,18 @@ St. Vincent and the Grenadines Broadcasting Corporation operates 1 TV station an
 .vc
 
 ### 網際網路使用者
-- `total`: 85,000 (2021 est.)
-- `percent of population`: 85% (2021 est.)
+- `總計`: 85,000 (2021 est.)
+- `佔人口比例`: 85% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 24,733 (2020 est.)
-- `subscriptions per 100 inhabitants`: 22 (2020 est.)
+- `總計`: 24,733 (2020 est.)
+- `每100名居民訂閱數`: 22 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 2 (2020)
-- `inventory of registered aircraft operated by air carriers`: 11
+- `註冊航空公司數量`: 2 (2020)
+- `註冊飛機庫存—航空承運商經營`: 11
 
 ### 註冊民用航空器國家代碼前綴
 J8
@@ -561,17 +561,17 @@ J8
 5 (2024)
 
 ### 商船
-- `total`: 830 (2023)
-- `by type`: bulk carrier 30, container ship 18, general cargo 137, oil tanker 16, other 629
+- `總計`: 830 (2023)
+- `依類型`: bulk carrier 30, container ship 18, general cargo 137, oil tanker 16, other 629
 
 ### 港口
-- `total ports`: 1 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 1
-- `very small`: 0
-- `ports with oil terminals`: 1
-- `key ports`: Kingstown
+- `總港口數`: 1 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 1
+- `非常小`: 0
+- `原油碼頭港口`: 1
+- `主要港口`: Kingstown
 
 ## 軍事和安全
 

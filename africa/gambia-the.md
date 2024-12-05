@@ -19,25 +19,25 @@ Western Africa, bordering the North Atlantic Ocean and Senegal
 Africa
 
 ### 面積
-- `total `: 11,300 sq km
-- `land`: 10,120 sq km
-- `water`: 1,180 sq km
+- `總計`: 11,300 sq km
+- `土地`: 10,120 sq km
+- `水`: 1,180 sq km
 
 ### 面積—比較
 slightly less than twice the size of Delaware
 
 ### 陸地邊界
-- `total`: 749 km
-- `border countries`: Senegal 749 km
+- `總計`: 749 km
+- `邊境國家`: Senegal 749 km
 
 ### 海岸線
 80 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 18 nm
-- `continental shelf`: extent not specified
-- `exclusive fishing zone`: 200 nm
+- `領海`: 12 nm
+- `毗連區`: 18 nm
+- `大陸架`: extent not specified
+- `專屬捕魚區`: 200 nm
 
 ### 氣候
 tropical; hot, rainy season (June to November); cooler, dry season (November to May)
@@ -46,20 +46,20 @@ tropical; hot, rainy season (June to November); cooler, dry season (November to 
 flood plain of the Gambia River flanked by some low hills
 
 ### 海拔
-- `highest point`: unnamed elevation 63 m; 3 km southeast of the town of Sabi
-- `lowest point`: Atlantic Ocean 0 m
-- `mean elevation`: 34 m
+- `最高點`: unnamed elevation 63 m; 3 km southeast of the town of Sabi
+- `最低點`: Atlantic Ocean 0 m
+- `平均海拔`: 34 m
 
 ### 自然資源
 fish, clay, silica sand, titanium (rutile and ilmenite), tin, zircon
 
 ### 土地利用
-- `agricultural land`: 56.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 41% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.5% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 14.6% (2018 est.)
-- `forest`: 43.9% (2018 est.)
-- `other`: 0% (2018 est.)
+- `農地`: 56.1% (2018 est.)
+- `農地：耕地`: arable land: 41% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.5% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 14.6% (2018 est.)
+- `森林`: 43.9% (2018 est.)
+- `其它`: 0% (2018 est.)
 
 ### 灌溉土地
 50 sq km (2012)
@@ -82,13 +82,13 @@ almost an enclave of Senegal; smallest country on the African mainland
 ## 人民和社會
 
 ### 人口
-- `total`: 2,523,327
-- `male`: 1,250,490
-- `female`: 1,272,837 (2024 est.)
+- `總計`: 2,523,327
+- `男性`: 1,250,490
+- `女性`: 1,272,837 (2024 est.)
 
 ### 國籍
-- `noun`: Gambian(s)
-- `adjective`: Gambian
+- `名詞`: Gambian(s)
+- `形容詞`: Gambian
 
 ### 族裔群體
 Mandinka/Jahanka 33.3%, Fulani/Tukulur/Lorobo 18.2%, Wolof 12.9%, Jola/Karoninka 11%, Serahuleh 7.2%, Serer 3.5%, other 4%, non-Gambian 9.9% (2019-20 est.)
@@ -103,20 +103,20 @@ Muslim 96.4%, Christian 3.5%, other or none 0.1% (2019-20 est.)
 The Gambia’s youthful age structure – approximately 55% of the population is under the age of 25 as of 2021 – is likely to persist because the country’s total fertility rate remains strong at nearly 4 children per woman. The overall literacy rate is around 50%, and is significantly lower for women than for men. At least 70% of the populace are farmers who are reliant on rain-fed agriculture and cannot afford improved seeds and fertilizers. Crop failures caused by droughts between 2011 and 2013 increased poverty, food shortages, and malnutrition. The Gambia is a source country for migrants and a transit and destination country for migrants and refugees. Since the 1980s, economic deterioration, drought, and high unemployment, especially among youths, have driven both domestic migration (largely urban) and migration abroad (legal and illegal). Emigrants are largely skilled workers, including doctors and nurses, and provide a significant amount of remittances. The top receiving countries for Gambian emigrants are Spain, the US, Nigeria, Senegal, and the UK. While the Gambia and Spain do not share historic, cultural, or trade ties, rural Gambians have migrated to Spain in large numbers because of its proximity and the availability of jobs in its underground economy (this flow slowed following the onset of Spain’s late 2007 economic crisis). The Gambia’s role as a host country to refugees is a result of wars in several of its neighboring West African countries. Since 2006, refugees from the Casamance conflict in Senegal have replaced their pattern of flight and return with permanent settlement in The Gambia, often moving in with relatives along the Senegal-Gambia border. The strain of providing for about 7,400 Casamance refugees increased poverty among Gambian villagers. The number of refugees decreased to around 3,500 by 2022.
 
 ### 年齡結構
-- `0-14 years`: 38.2% (male 486,472/female 477,309)
-- `15-64 years`: 58.1% (male 723,360/female 743,127)
-- `65 years and over`: 3.7% (2024 est.) (male 40,658/female 52,401)
+- `0-14歲`: 38.2% (male 486,472/female 477,309)
+- `15-64歲`: 58.1% (male 723,360/female 743,127)
+- `65歲及以上`: 3.7% (2024 est.) (male 40,658/female 52,401)
 
 ### 撫養比率
-- `total dependency ratio`: 85
-- `youth dependency ratio`: 80.5
-- `elderly dependency ratio`: 4.5
-- `potential support ratio`: 22.2 (2021 est.)
+- `總受扶養人比率`: 85
+- `少年撫養比率`: 80.5
+- `老人撫養比率`: 4.5
+- `潛在支持率`: 22.2 (2021 est.)
 
 ### 年齡中位數
-- `total`: 20.2 years (2024 est.)
-- `male`: 19.8 years
-- `female`: 20.6 years
+- `總計`: 20.2 years (2024 est.)
+- `男性`: 19.8 years
+- `女性`: 20.6 years
 
 ### 人口成長率
 2.16% (2024 est.)
@@ -134,19 +134,19 @@ The Gambia’s youthful age structure – approximately 55% of the population is
 settlements are found scattered along the Gambia River; the largest communities, including the capital of Banjul, and the country's largest city, Serekunda, are found at the mouth of the Gambia River along the Atlantic coast as shown in this population distribution map
 
 ### 都市化
-- `urban population`: 64.5% of total population (2023)
-- `rate of urbanization`: 3.75% annual rate of change (2020-25 est.)
+- `城市人口`: 64.5% of total population (2023)
+- `城鎮化率`: 3.75% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 481,000 BANJUL (capital) (2023)
 **note**:  includes the local government areas of Banjul and Kanifing
 
 ### 性別比例
-- `at birth`: 1.03 male(s)/female
-- `0-14 years`: 1.02 male(s)/female
-- `15-64 years`: 0.97 male(s)/female
-- `65 years and over`: 0.78 male(s)/female
-- `total population`: 0.98 male(s)/female (2024 est.)
+- `出生時`: 1.03 male(s)/female
+- `0-14歲`: 1.02 male(s)/female
+- `15-64歲`: 0.97 male(s)/female
+- `65歲及以上`: 0.78 male(s)/female
+- `總人口數`: 0.98 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 20.7 years (2019/20 est.)
@@ -156,14 +156,14 @@ settlements are found scattered along the Gambia River; the largest communities,
 458 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 35.7 deaths/1,000 live births (2024 est.)
-- `male`: 39.1 deaths/1,000 live births
-- `female`: 32.2 deaths/1,000 live births
+- `總計`: 35.7 deaths/1,000 live births (2024 est.)
+- `男性`: 39.1 deaths/1,000 live births
+- `女性`: 32.2 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 68.4 years (2024 est.)
-- `male`: 66.7 years
-- `female`: 70.1 years
+- `總人口數`: 68.4 years (2024 est.)
+- `男性`: 66.7 years
+- `女性`: 70.1 years
 
 ### 總生育率
 3.52 children born/woman (2024 est.)
@@ -175,12 +175,12 @@ settlements are found scattered along the Gambia River; the largest communities,
 18.9% (2019/20)
 
 ### 飲用水來源
-- `improved: urban`: urban: 91.8% of population
-- `improved: rural`: rural: 85.7% of population
-- `improved: total`: total: 89.5% of population
-- `unimproved: urban`: urban: 8.2% of population
-- `unimproved: rural`: rural: 14.3% of population
-- `unimproved: total`: total: 10.5% of population (2020 est.)
+- `已改進－城市`: urban: 91.8% of population
+- `已改進－農村`: rural: 85.7% of population
+- `已改進－總計`: total: 89.5% of population
+- `未改進：都市`: urban: 8.2% of population
+- `未改進：鄉村`: rural: 14.3% of population
+- `未改善：總計`: total: 10.5% of population (2020 est.)
 
 ### 當前醫療支出
 2.6% of GDP (2020)
@@ -192,27 +192,27 @@ settlements are found scattered along the Gambia River; the largest communities,
 1.1 beds/1,000 population (2011)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 75.8% of population
-- `improved: rural`: rural: 33.6% of population
-- `improved: total`: total: 60% of population
-- `unimproved: urban`: urban: 24.2% of population
-- `unimproved: rural`: rural: 66.4% of population
-- `unimproved: total`: total: 40% of population (2020 est.)
+- `已改進－城市`: urban: 75.8% of population
+- `已改進－農村`: rural: 33.6% of population
+- `已改進－總計`: total: 60% of population
+- `未改進：都市`: urban: 24.2% of population
+- `未改進：鄉村`: rural: 66.4% of population
+- `未改善：總計`: total: 40% of population (2020 est.)
 
 ### 肥胖—成人流行率
 10.3% (2016)
 
 ### 人均酒精消費量
-- `total`: 2.67 liters of pure alcohol (2019 est.)
-- `beer`: 0.21 liters of pure alcohol (2019 est.)
-- `wine`: 0 liters of pure alcohol (2019 est.)
-- `spirits`: 0.02 liters of pure alcohol (2019 est.)
-- `other alcohols`: 2.44 liters of pure alcohol (2019 est.)
+- `總計`: 2.67 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.21 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.02 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 2.44 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 11.1% (2020 est.)
-- `male`: 21.4% (2020 est.)
-- `female`: 0.8% (2020 est.)
+- `總計`: 11.1% (2020 est.)
+- `男性`: 21.4% (2020 est.)
+- `女性`: 0.8% (2020 est.)
 
 ### 5歲以下體重不足兒童
 11.6% (2019/20)
@@ -221,18 +221,18 @@ settlements are found scattered along the Gambia River; the largest communities,
 60.9% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 5.6%
-- `women married by age 18`: 23.1%
-- `men married by age 18`: 0.2% (2020 est.)
+- `15歲前結婚的女性`: 5.6%
+- `18歲前結婚的女性`: 23.1%
+- `18歲前結婚的男性`: 0.2% (2020 est.)
 
 ### 教育支出
 2.8% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 58.1%
-- `male`: 65.2%
-- `female`: 51.2% (2021)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 58.1%
+- `男性`: 65.2%
+- `女性`: 51.2% (2021)
 
 ## 環境
 
@@ -240,23 +240,23 @@ settlements are found scattered along the Gambia River; the largest communities,
 deforestation due to slash-and-burn agriculture; desertification; water pollution; water-borne diseases
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling
-- `signed, but not ratified`: Comprehensive Nuclear Test Ban
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling
+- `已簽署但未批準`: Comprehensive Nuclear Test Ban
 
 ### 氣候
 tropical; hot, rainy season (June to November); cooler, dry season (November to May)
 
 ### 土地利用
-- `agricultural land`: 56.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 41% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.5% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 14.6% (2018 est.)
-- `forest`: 43.9% (2018 est.)
-- `other`: 0% (2018 est.)
+- `農地`: 56.1% (2018 est.)
+- `農地：耕地`: arable land: 41% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.5% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 14.6% (2018 est.)
+- `森林`: 43.9% (2018 est.)
+- `其它`: 0% (2018 est.)
 
 ### 都市化
-- `urban population`: 64.5% of total population (2023)
-- `rate of urbanization`: 3.75% annual rate of change (2020-25 est.)
+- `城市人口`: 64.5% of total population (2023)
+- `城鎮化率`: 3.75% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 2.47% of GDP (2018 est.)
@@ -265,12 +265,12 @@ tropical; hot, rainy season (June to November); cooler, dry season (November to 
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 39.1 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 0.53 megatons (2016 est.)
-- `methane emissions`: 1.96 megatons (2020 est.)
+- `顆粒物排放量`: 39.1 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 0.53 megatons (2016 est.)
+- `甲烷排放量`: 1.96 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 193,441 tons (2002 est.)
+- `城市固體廢棄物－每年產生`: 193,441 tons (2002 est.)
 
 ### 主要河流（按公里長度）
 Gambia river mouth (shared with Senegal and Guinea [s]) - 1,094 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -279,9 +279,9 @@ Gambia river mouth (shared with Senegal and Guinea [s]) - 1,094 km*_issue_*note*
 Senegalo-Mauritanian Basin
 
 ### 總取水量
-- `municipal`: 40 million cubic meters (2020 est.)
-- `industrial`: 20 million cubic meters (2020 est.)
-- `agricultural`: 40 million cubic meters (2020 est.)
+- `市級`: 40 million cubic meters (2020 est.)
+- `工業`: 20 million cubic meters (2020 est.)
+- `農業`: 40 million cubic meters (2020 est.)
 
 ### 可再生水資源總量
 8 billion cubic meters (2020 est.)
@@ -289,18 +289,18 @@ Senegalo-Mauritanian Basin
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of The Gambia
-- `conventional short form`: The Gambia
-- `etymology`: named for the Gambia River that flows through the heart of the country
+- `常用長名`: Republic of The Gambia
+- `常用短名`: The Gambia
+- `语源学`: named for the Gambia River that flows through the heart of the country
 
 ### 政府類型
 presidential republic
 
 ### 首都
-- `name`: Banjul
-- `geographic coordinates`: 13 27 N, 16 34 W
-- `time difference`: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: Banjul is located on Saint Mary's Island at the mouth of the Gambia River; the Mandinka used to gather fibrous plants on the island for the manufacture of ropes; "bang julo" is Mandinka for "rope fiber"; mispronunciation over time caused the term became the word Banjul
+- `名稱`: Banjul
+- `地理坐標`: 13 27 N, 16 34 W
+- `時差`: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: Banjul is located on Saint Mary's Island at the mouth of the Gambia River; the Mandinka used to gather fibrous plants on the island for the manufacture of ropes; "bang julo" is Mandinka for "rope fiber"; mispronunciation over time caused the term became the word Banjul
 
 ### 行政區劃
 5 regions, 1 city*, and 1 municipality**; Banjul*, Central River, Kanifing**, Lower River, North Bank, Upper River, West Coast
@@ -315,37 +315,37 @@ Independence Day, 18 February (1965)
 mixed legal system of English common law, Islamic law, and customary law
 
 ### 憲法
-- `history`: previous 1965 (Independence Act), 1970; latest adopted 8 April 1996, approved by referendum 8 August 1996, effective 16 January 1997; note - in early 2018, the "Constitutional Review Commission," was established to draft  and assist in instituting a new constitution; a second draft completed in March 2020 was rejected by the National Assembly in September; the president announced in January 2022 government plans to draft a new constitution 
-- `amendments`: proposed by the National Assembly; passage requires at least three-fourths majority vote by the Assembly membership in each of several readings and approval by the president of the republic; a referendum is required for amendments affecting national sovereignty, fundamental rights and freedoms, government structures and authorities, taxation, and public funding; passage by referendum requires participation of at least 50% of eligible voters and approval by at least 75% of votes cast; amended 2001, 2004, 2018
+- `歷史`: previous 1965 (Independence Act), 1970; latest adopted 8 April 1996, approved by referendum 8 August 1996, effective 16 January 1997; note - in early 2018, the "Constitutional Review Commission," was established to draft  and assist in instituting a new constitution; a second draft completed in March 2020 was rejected by the National Assembly in September; the president announced in January 2022 government plans to draft a new constitution 
+- `修正`: proposed by the National Assembly; passage requires at least three-fourths majority vote by the Assembly membership in each of several readings and approval by the president of the republic; a referendum is required for amendments affecting national sovereignty, fundamental rights and freedoms, government structures and authorities, taxation, and public funding; passage by referendum requires participation of at least 50% of eligible voters and approval by at least 75% of votes cast; amended 2001, 2004, 2018
 
 ### 國際法組織參與
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: yes
-- `citizenship by descent only`: yes
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 5 years
+- `出生公民權`: yes
+- `血統公民身份`: yes
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 5 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Adama BARROW (since 19 January 2022)
-- `head of government`: Vice President Mohammed JALLOW (since 23 February 2024)  
-- `cabinet`: Cabinet appointed by the president
-- `elections/appointments`: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 4 December 2021 (next to be held in 2026); vice president appointed by the president
-- `election results`: *2021: *Adama BARROW reelected president; percent of vote - Adama BARROW (NPP) 53.2%, Ousainou DARBOE (UDP) 27.7%, Mamma KANDEH (GDC) 12.3%, other 6.8%  *2016: *Adama BARROW elected president; percent of vote - Adama BARROW (Coalition 2016) 43.3%, Yahya JAMMEH (APRC) 39.6%, Mamma KANDEH (GDC) 17.1%
+- `國家元首`: President Adama BARROW (since 19 January 2022)
+- `政府首腦`: Vice President Mohammed JALLOW (since 23 February 2024)  
+- `内閣`: Cabinet appointed by the president
+- `選舉/任命`: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 4 December 2021 (next to be held in 2026); vice president appointed by the president
+- `選舉結果`: *2021: *Adama BARROW reelected president; percent of vote - Adama BARROW (NPP) 53.2%, Ousainou DARBOE (UDP) 27.7%, Mamma KANDEH (GDC) 12.3%, other 6.8%  *2016: *Adama BARROW elected president; percent of vote - Adama BARROW (Coalition 2016) 43.3%, Yahya JAMMEH (APRC) 39.6%, Mamma KANDEH (GDC) 17.1%
 
 ### 立法部門
-- `description`: unicameral National Assembly (58 seats; 53 members directly elected in single-seat constituencies by simple majority vote and 5 appointed by the president; members serve 5-year terms)
-- `elections`: last held on 9 April 2022 (next to be held in 2027)
-- `election results`: percent of vote by party - NPP 33.9%, UDP 28.3%, independent 22.6%, NRP 7.5%, PDOIS 3.7%, APRL 3.7%; seats by party - NPP 18, UDP 15, independent 12, NRP 4, APRL 2, PDOIS 2; composition - men 53, women 5, percentage women 8.6%
+- `描述`: unicameral National Assembly (58 seats; 53 members directly elected in single-seat constituencies by simple majority vote and 5 appointed by the president; members serve 5-year terms)
+- `選舉`: last held on 9 April 2022 (next to be held in 2027)
+- `選舉結果`: percent of vote by party - NPP 33.9%, UDP 28.3%, independent 22.6%, NRP 7.5%, PDOIS 3.7%, APRL 3.7%; seats by party - NPP 18, UDP 15, independent 12, NRP 4, APRL 2, PDOIS 2; composition - men 53, women 5, percentage women 8.6%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court of The Gambia (consists of the chief justice and 6 justices; court sessions held with 5 justices)
-- `judge selection and term of office`: justices appointed by the president after consultation with the Judicial Service Commission, a 6-member independent body of high-level judicial officials, a presidential appointee, and a National Assembly appointee; justices appointed for life or until mandatory retirement at age 75
-- `subordinate courts`: Court of Appeal; High Court; Special Criminal Court; Khadis or Muslim courts; district tribunals; magistrates courts; cadi courts
+- `最高法院`: Supreme Court of The Gambia (consists of the chief justice and 6 justices; court sessions held with 5 justices)
+- `法官遴選和任期`: justices appointed by the president after consultation with the Judicial Service Commission, a 6-member independent body of high-level judicial officials, a presidential appointee, and a National Assembly appointee; justices appointed for life or until mandatory retirement at age 75
+- `下級法院`: Court of Appeal; High Court; Special Criminal Court; Khadis or Muslim courts; district tribunals; magistrates courts; cadi courts
 
 ### 政黨
 Alliance for Patriotic Reorientation and Construction or APRC Gambia Democratic Congress or GDC Gambia Moral Congress or GMC National People's Party or NPP People's Progressive Party or PPP United Democratic Party or UDP 
@@ -354,19 +354,19 @@ Alliance for Patriotic Reorientation and Construction or APRC Gambia Democratic
 ACP, AfDB, AU, ECOWAS, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHRC, UNIDO, UNISFA, UNMIL, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Momodou Lamin BAH (12 December 2022)
-- `chancery`: 5630 16th Street NW, Washington, DC 20011
-- `telephone`: [1] (202) 785-1399
+- `外交代表負責人`: Ambassador Momodou Lamin BAH (12 December 2022)
+- `衡平法院（在美國）`: 5630 16th Street NW, Washington, DC 20011
+- `電話號碼`: [1] (202) 785-1399
 - `FAX`: [1] (202) 785-1430
-- `email address and website`: info@gambiaembassydc.us  https://www.gambiaembassydc.us/home
+- `電子郵件地址和網站`: info@gambiaembassydc.us  https://www.gambiaembassydc.us/home
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Sharon L. CROMER (since 18 March 2022)
-- `embassy`: Kairaba Avenue, Fajara, P.M.B. 19, Banjul
-- `mailing address`: 2070 Banjul Place, Washington DC  20521-2070
-- `telephone`: [220] 439-2856
+- `外交代表負責人`: Ambassador Sharon L. CROMER (since 18 March 2022)
+- `大使館`: Kairaba Avenue, Fajara, P.M.B. 19, Banjul
+- `郵寄地址`: 2070 Banjul Place, Washington DC  20521-2070
+- `電話號碼`: [220] 439-2856
 - `FAX`: [220] 439-2475
-- `email address and website`: ConsularBanjul@state.gov  https://gm.usembassy.gov/
+- `電子郵件地址和網站`: ConsularBanjul@state.gov  https://gm.usembassy.gov/
 
 ### 旗幟說明
 three equal horizontal bands of red (top), blue with white edges, and green; red stands for the sun and the savannah, blue represents the Gambia River, and green symbolizes forests and agriculture; the white stripes denote unity and peace
@@ -375,8 +375,8 @@ three equal horizontal bands of red (top), blue with white edges, and green; red
 lion; national colors: red, blue, green, white
 
 ### 國歌
-- `name`: "For The Gambia, Our Homeland"
-- `lyrics/music`: Virginia Julie HOWE/adapted by Jeremy Frederick HOWE
+- `名稱`: "For The Gambia, Our Homeland"
+- `歌詞／音樂`: Virginia Julie HOWE/adapted by Jeremy Frederick HOWE
 **note**:  adopted 1965; the music is an adaptation of the traditional Mandinka song "Foday Kaba Dumbuya"
 
 ### 國家級遺產
@@ -417,17 +417,17 @@ $2.34 billion (2023 est.)
 **note**: annual % change based on consumer prices
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 24.6% (2023 est.)
-- `industry`: 15.2% (2023 est.)
-- `services`: 51.5% (2023 est.)
+- `農業`: 24.6% (2023 est.)
+- `產業`: 15.2% (2023 est.)
+- `服務`: 51.5% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 81.6% (2023 est.)
-- `government consumption`: 8.8% (2023 est.)
-- `investment in fixed capital`: 39.3% (2023 est.)
-- `exports of goods and services`: 5.4% (2023 est.)
-- `imports of goods and services`: -35.1% (2023 est.)
+- `家庭消費`: 81.6% (2023 est.)
+- `政府消費`: 8.8% (2023 est.)
+- `固定資本投資`: 39.3% (2023 est.)
+- `商品和服務出口`: 5.4% (2023 est.)
+- `商品和服務進口`: -35.1% (2023 est.)
 **note**:  figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -452,9 +452,9 @@ peanuts, fish, hides, tourism, beverages, agricultural machinery assembly, woodw
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 10.6% (2023 est.)
-- `male`: 10.9% (2023 est.)
-- `female`: 10.4% (2023 est.)
+- `總計`: 10.6% (2023 est.)
+- `男性`: 10.9% (2023 est.)
+- `女性`: 10.4% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -466,8 +466,8 @@ peanuts, fish, hides, tourism, beverages, agricultural machinery assembly, woodw
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 2.6% (2020 est.)
-- `highest 10%`: 30.6% (2020 est.)
+- `最低10%`: 2.6% (2020 est.)
+- `最高10%`: 30.6% (2020 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -477,8 +477,8 @@ peanuts, fish, hides, tourism, beverages, agricultural machinery assembly, woodw
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $308.887 million (2018 est.)
-- `expenditures`: $221.137 million (2018 est.)
+- `收入`: $308.887 million (2018 est.)
+- `支出`: $221.137 million (2018 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -542,25 +542,25 @@ $696.707 million (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 65.4% (2022 est.)
-- `electrification - urban areas`: 82.8%
-- `electrification - rural areas`: 31.2%
+- `電氣化－總人口`: 65.4% (2022 est.)
+- `電氣化－城市地區`: 82.8%
+- `電氣化－農村地區`: 31.2%
 
 ### 電力
-- `installed generating capacity`: 140,000 kW (2022 est.)
-- `consumption`: 405.405 million kWh (2022 est.)
-- `transmission/distribution losses`: 104.176 million kWh (2022 est.)
+- `裝機容量`: 140,000 kW (2022 est.)
+- `消費`: 405.405 million kWh (2022 est.)
+- `傳輸／分配損耗`: 104.176 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 99.4% of total installed capacity (2022 est.)
-- `solar`: 0.6% of total installed capacity (2022 est.)
+- `石化燃料`: 99.4% of total installed capacity (2022 est.)
+- `太陽能`: 0.6% of total installed capacity (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 3,000 bbl/day (2022 est.)
+- `成品油消費量`: 3,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 524,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 524,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 524,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 524,000 metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 2.651 million Btu/person (2022 est.)
@@ -568,17 +568,17 @@ $696.707 million (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 60,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 2 (2021 est.)
+- `總訂閱數`: 60,000 (2021 est.)
+- `每100名居民訂閱數`: 2 (2021 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 2.678 million (2021 est.)
-- `subscriptions per 100 inhabitants`: 101 (2021 est.)
+- `總訂閱數`: 2.678 million (2021 est.)
+- `每100名居民訂閱數`: 101 (2021 est.)
 
 ### 電信系統
-- `general assessment`: Gambia’s telecom market has five mobile networks providing effective competition; mobile subscriptions are well above the African average, itself a testament to the poor condition of the fixed-line infrastructure and the lack of availability of fixed services in many rural areas of the country; there are only four licensed ISPs, which are small networks serving local areas, and so competition is minimal; their limited services are complemented by the fixed-wireless offerings of three of the MNOs; the government has embarked on a National Broadband Network program aimed at closing the digital divide affecting many parts of the country; despite efforts to improve internet connectivity, the country ranks among the lowest globally in terms of digital readiness. (2022)
-- `domestic`: fixed-line subscriptions are 2 per 100 and  mobile-cellular teledensity nearly 110 per 100 persons (2021)
-- `international`: country code - 220; landing point for the ACE submarine cable to West Africa and Europe; microwave radio relay links to Senegal and Guinea-Bissau; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)
+- `總體評估`: Gambia’s telecom market has five mobile networks providing effective competition; mobile subscriptions are well above the African average, itself a testament to the poor condition of the fixed-line infrastructure and the lack of availability of fixed services in many rural areas of the country; there are only four licensed ISPs, which are small networks serving local areas, and so competition is minimal; their limited services are complemented by the fixed-wireless offerings of three of the MNOs; the government has embarked on a National Broadband Network program aimed at closing the digital divide affecting many parts of the country; despite efforts to improve internet connectivity, the country ranks among the lowest globally in terms of digital readiness. (2022)
+- `國內`: fixed-line subscriptions are 2 per 100 and  mobile-cellular teledensity nearly 110 per 100 persons (2021)
+- `國際的`: country code - 220; landing point for the ACE submarine cable to West Africa and Europe; microwave radio relay links to Senegal and Guinea-Bissau; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)
 
 ### 廣播媒體
 1 state-run TV-channel; one privately-owned TV-station; 1 Online TV-station; three state-owned radio station and 31 privately owned radio stations; eight community radio stations; transmissions of multiple international broadcasters are available, some via shortwave radio; cable and satellite TV subscription services are obtainable in some parts of the country  (2019)
@@ -587,19 +587,19 @@ $696.707 million (2022 est.)
 .gm
 
 ### 網際網路使用者
-- `total`: 858,000 (2021 est.)
-- `percent of population`: 33% (2021 est.)
+- `總計`: 858,000 (2021 est.)
+- `佔人口比例`: 33% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 5,000 (2020 est.)
-- `subscriptions per 100 inhabitants`: 0.2 (2020 est.)
+- `總計`: 5,000 (2020 est.)
+- `每100名居民訂閱數`: 0.2 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 2 (2020)
-- `inventory of registered aircraft operated by air carriers`: 6
-- `annual passenger traffic on registered air carriers`: 53,735 (2018)
+- `註冊航空公司數量`: 2 (2020)
+- `註冊飛機庫存—航空承運商經營`: 6
+- `年度客運量－註冊航空公司`: 53,735 (2018)
 
 ### 註冊民用航空器國家代碼前綴
 C5
@@ -608,25 +608,25 @@ C5
 1 (2024)
 
 ### 道路
-- `total`: 2,977 km
-- `paved`: 518 km
-- `unpaved`: 2,459 km (2011)
+- `總計`: 2,977 km
+- `已鋪砌`: 518 km
+- `未鋪砌`: 2,459 km (2011)
 
 ### 水道
 390 km (2010) (on River Gambia; small oceangoing vessels can reach 190 km)
 
 ### 商船
-- `total`: 15 (2023)
-- `by type`: general cargo 5, other 10
+- `總計`: 15 (2023)
+- `依類型`: general cargo 5, other 10
 
 ### 港口
-- `total ports`: 1 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 0
-- `very small`: 1
-- `ports with oil terminals`: 1
-- `key ports`: Banjul
+- `總港口數`: 1 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 0
+- `非常小`: 1
+- `原油碼頭港口`: 1
+- `主要港口`: Banjul
 
 ## 軍事和安全
 

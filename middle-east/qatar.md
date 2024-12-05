@@ -19,24 +19,24 @@ Middle East, peninsula bordering the Persian Gulf and Saudi Arabia
 Middle East
 
 ### 面積
-- `total `: 11,586 sq km
-- `land`: 11,586 sq km
-- `water`: 0 sq km
+- `總計`: 11,586 sq km
+- `土地`: 11,586 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 almost twice the size of Delaware; slightly smaller than Connecticut
 
 ### 陸地邊界
-- `total`: 87 km
-- `border countries`: Saudi Arabia 87 km
+- `總計`: 87 km
+- `邊境國家`: Saudi Arabia 87 km
 
 ### 海岸線
 563 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: as determined by bilateral agreements or the median line
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: as determined by bilateral agreements or the median line
 
 ### 氣候
 arid; mild, pleasant winters; very hot, humid summers
@@ -45,20 +45,20 @@ arid; mild, pleasant winters; very hot, humid summers
 mostly flat and barren desert
 
 ### 海拔
-- `highest point`: Tuwayyir al Hamir 103 m
-- `lowest point`: Persian Gulf 0 m
-- `mean elevation`: 28 m
+- `最高點`: Tuwayyir al Hamir 103 m
+- `最低點`: Persian Gulf 0 m
+- `平均海拔`: 28 m
 
 ### 自然資源
 petroleum, fish, natural gas
 
 ### 土地利用
-- `agricultural land`: 5.6% (2018 est.)
-- `agricultural land: arable land`: arable land: 1.1% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.2% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 4.3% (2018 est.)
-- `forest`: 0% (2018 est.)
-- `other`: 94.4% (2018 est.)
+- `農地`: 5.6% (2018 est.)
+- `農地：耕地`: arable land: 1.1% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.2% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 4.3% (2018 est.)
+- `森林`: 0% (2018 est.)
+- `其它`: 94.4% (2018 est.)
 
 ### 灌溉土地
 130 sq km (2020)
@@ -78,39 +78,39 @@ the peninsula occupies a strategic location in the central Persian Gulf near maj
 ## 人民和社會
 
 ### 人口
-- `total`: 2,552,088
-- `male`: 1,961,135
-- `female`: 590,953 (2024 est.)
+- `總計`: 2,552,088
+- `男性`: 1,961,135
+- `女性`: 590,953 (2024 est.)
 
 ### 國籍
-- `noun`: Qatari(s)
-- `adjective`: Qatari
+- `名詞`: Qatari(s)
+- `形容詞`: Qatari
 
 ### 族裔群體
 non-Qatari 88.4%, Qatari 11.6% (2015 est.)
 
 ### 語文
 Arabic (official), English commonly used as a second language
-- `major-language sample(s)`: كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)  The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Muslim 65.2%, Christian 13.7%, Hindu 15.9%, Buddhist 3.8%, folk religion <0.1%, Jewish <0.1%, other <1%, unaffiliated <1% (2020 est.)
 
 ### 年齡結構
-- `0-14 years`: 13.1% (male 168,844/female 165,905)
-- `15-64 years`: 85.4% (male 1,767,294/female 411,977)
-- `65 years and over`: 1.5% (2024 est.) (male 24,997/female 13,071)
+- `0-14歲`: 13.1% (male 168,844/female 165,905)
+- `15-64歲`: 85.4% (male 1,767,294/female 411,977)
+- `65歲及以上`: 1.5% (2024 est.) (male 24,997/female 13,071)
 
 ### 撫養比率
-- `total dependency ratio`: 20.7
-- `youth dependency ratio`: 16.1
-- `elderly dependency ratio`: 2
-- `potential support ratio`: 50.1 (2021 est.)
+- `總受扶養人比率`: 20.7
+- `少年撫養比率`: 16.1
+- `老人撫養比率`: 2
+- `潛在支持率`: 50.1 (2021 est.)
 
 ### 年齡中位數
-- `total`: 34.3 years (2024 est.)
-- `male`: 35.7 years
-- `female`: 28.1 years
+- `總計`: 34.3 years (2024 est.)
+- `男性`: 35.7 years
+- `女性`: 28.1 years
 
 ### 人口成長率
 0.71% (2024 est.)
@@ -128,31 +128,31 @@ Muslim 65.2%, Christian 13.7%, Hindu 15.9%, Buddhist 3.8%, folk religion <0.1%, 
 most of the population is clustered in or around the capital of Doha on the eastern side of the peninsula
 
 ### 都市化
-- `urban population`: 99.4% of total population (2023)
-- `rate of urbanization`: 1.66% annual rate of change (2020-25 est.)
+- `城市人口`: 99.4% of total population (2023)
+- `城鎮化率`: 1.66% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 798,000 Ar-Rayyan, 658,000 DOHA (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.02 male(s)/female
-- `0-14 years`: 1.02 male(s)/female
-- `15-64 years`: 4.29 male(s)/female
-- `65 years and over`: 1.91 male(s)/female
-- `total population`: 3.32 male(s)/female (2024 est.)
+- `出生時`: 1.02 male(s)/female
+- `0-14歲`: 1.02 male(s)/female
+- `15-64歲`: 4.29 male(s)/female
+- `65歲及以上`: 1.91 male(s)/female
+- `總人口數`: 3.32 male(s)/female (2024 est.)
 
 ### 產婦死亡率
 8 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 6.4 deaths/1,000 live births (2024 est.)
-- `male`: 7 deaths/1,000 live births
-- `female`: 5.8 deaths/1,000 live births
+- `總計`: 6.4 deaths/1,000 live births (2024 est.)
+- `男性`: 7 deaths/1,000 live births
+- `女性`: 5.8 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 80.3 years (2024 est.)
-- `male`: 78.2 years
-- `female`: 82.4 years
+- `總人口數`: 80.3 years (2024 est.)
+- `男性`: 78.2 years
+- `女性`: 82.4 years
 
 ### 總生育率
 1.9 children born/woman (2024 est.)
@@ -164,12 +164,12 @@ most of the population is clustered in or around the capital of Doha on the east
 37.5% (2012)
 
 ### 飲用水來源
-- `improved: urban`: urban: NA
-- `improved: rural`: rural: NA
-- `improved: total`: total: 99.6% of population
-- `unimproved: urban`: urban: NA
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: 0.4% of population (2020 est.)
+- `已改進－城市`: urban: NA
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: 99.6% of population
+- `未改進：都市`: urban: NA
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: 0.4% of population (2020 est.)
 
 ### 當前醫療支出
 4.2% of GDP (2020)
@@ -181,27 +181,27 @@ most of the population is clustered in or around the capital of Doha on the east
 1.3 beds/1,000 population (2017)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: NA
-- `improved: rural`: rural: NA
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: NA
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: NA
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: NA
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 肥胖—成人流行率
 35.1% (2016)
 
 ### 人均酒精消費量
-- `total`: 0.96 liters of pure alcohol (2019 est.)
-- `beer`: 0.29 liters of pure alcohol (2019 est.)
-- `wine`: 0.07 liters of pure alcohol (2019 est.)
-- `spirits`: 0.59 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.01 liters of pure alcohol (2019 est.)
+- `總計`: 0.96 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.29 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.07 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.59 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.01 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 11.8% (2020 est.)
-- `male`: 21.7% (2020 est.)
-- `female`: 1.9% (2020 est.)
+- `總計`: 11.8% (2020 est.)
+- `男性`: 21.7% (2020 est.)
+- `女性`: 1.9% (2020 est.)
 
 ### 5歲以下體重不足兒童
 NA
@@ -213,15 +213,15 @@ NA
 3.2% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 93.5%
-- `male`: 92.4%
-- `female`: 94.7% (2017)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 93.5%
+- `男性`: 92.4%
+- `女性`: 94.7% (2017)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 13 years
-- `male`: 12 years
-- `female`: 15 years (2021)
+- `總計`: 13 years
+- `男性`: 12 years
+- `女性`: 15 years (2021)
 
 ## 環境
 
@@ -229,23 +229,23 @@ NA
 air, land, and water pollution are significant environmental issues; limited natural freshwater resources are increasing dependence on large-scale desalination facilities; other issues include conservation of oil supplies and preservation of the natural wildlife heritage
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 arid; mild, pleasant winters; very hot, humid summers
 
 ### 土地利用
-- `agricultural land`: 5.6% (2018 est.)
-- `agricultural land: arable land`: arable land: 1.1% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.2% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 4.3% (2018 est.)
-- `forest`: 0% (2018 est.)
-- `other`: 94.4% (2018 est.)
+- `農地`: 5.6% (2018 est.)
+- `農地：耕地`: arable land: 1.1% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.2% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 4.3% (2018 est.)
+- `森林`: 0% (2018 est.)
+- `其它`: 94.4% (2018 est.)
 
 ### 都市化
-- `urban population`: 99.4% of total population (2023)
-- `rate of urbanization`: 1.66% annual rate of change (2020-25 est.)
+- `城市人口`: 99.4% of total population (2023)
+- `城鎮化率`: 1.66% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0% of GDP (2018 est.)
@@ -254,22 +254,22 @@ arid; mild, pleasant winters; very hot, humid summers
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 59.04 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 103.26 megatons (2016 est.)
-- `methane emissions`: 8.34 megatons (2020 est.)
+- `顆粒物排放量`: 59.04 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 103.26 megatons (2016 est.)
+- `甲烷排放量`: 8.34 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 1,000,990 tons (2012 est.)
-- `municipal solid waste recycled annually`: 30,030 tons (2014 est.)
-- `percent of municipal solid waste recycled`: 3% (2014 est.)
+- `城市固體廢棄物－每年產生`: 1,000,990 tons (2012 est.)
+- `城市固體廢棄物－每年回收`: 30,030 tons (2014 est.)
+- `城市固體廢棄物－回收百分比`: 3% (2014 est.)
 
 ### 主要含水層
 Arabian Aquifer System
 
 ### 總取水量
-- `municipal`: 530 million cubic meters (2020 est.)
-- `industrial`: 400 million cubic meters (2020 est.)
-- `agricultural`: 320 million cubic meters (2020 est.)
+- `市級`: 530 million cubic meters (2020 est.)
+- `工業`: 400 million cubic meters (2020 est.)
+- `農業`: 320 million cubic meters (2020 est.)
 
 ### 可再生水資源總量
 60 million cubic meters (2020 est.)
@@ -277,21 +277,21 @@ Arabian Aquifer System
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: State of Qatar
-- `conventional short form`: Qatar
-- `local long form`: Dawlat Qatar
-- `local short form`: Qatar
-- `etymology`: the origin of the name is uncertain, but it dates back at least 2,000 years since a term "Catharrei" was used to describe the inhabitants of the peninsula by Pliny the Elder (1st century A.D.), and a "Catara" peninsula is depicted on a map by Ptolemy (2nd century A.D.)
+- `常用長名`: State of Qatar
+- `常用短名`: Qatar
+- `當地語長名`: Dawlat Qatar
+- `當地語短名`: Qatar
+- `语源学`: the origin of the name is uncertain, but it dates back at least 2,000 years since a term "Catharrei" was used to describe the inhabitants of the peninsula by Pliny the Elder (1st century A.D.), and a "Catara" peninsula is depicted on a map by Ptolemy (2nd century A.D.)
 **note**:  closest approximation of the native pronunciation is gat-tar or cot-tar
 
 ### 政府類型
 absolute monarchy
 
 ### 首都
-- `name`: Doha
-- `geographic coordinates`: 25 17 N, 51 32 E
-- `time difference`: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: derives from the Arabic term "dohat," meaning "roundness," and refers to the small rounded bays along the area's coastline
+- `名稱`: Doha
+- `地理坐標`: 25 17 N, 51 32 E
+- `時差`: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: derives from the Arabic term "dohat," meaning "roundness," and refers to the small rounded bays along the area's coastline
 
 ### 行政區劃
 8 municipalities (baladiyat, singular - baladiyah); Ad Dawhah, Al Khawr wa adh Dhakhirah, Al Wakrah, Ar Rayyan, Ash Shamal, Ash Shihaniyah, Az Za'ayin, Umm Salal
@@ -306,36 +306,36 @@ National Day, 18 December (1878), anniversary of Al Thani family accession to th
 mixed legal system of civil law and Islamic (sharia) law (in family and personal matters)
 
 ### 憲法
-- `history`: previous 1972 (provisional); latest drafted 2 July 2002, approved by referendum 29 April 2003, endorsed 8 June 2004, effective 9 June 2005
-- `amendments`: proposed by the Amir or by one third of Advisory Council members; passage requires two-thirds majority vote of Advisory Council members and approval and promulgation by the emir; articles pertaining to the rule of state and its inheritance, functions of the emir, and citizen rights and liberties cannot be amended; amended by referendum November 2024; note - among the 19 proposed amendments, a major one was replacing direct elections for 30 of the 45 members of the Shura Council with appointments
+- `歷史`: previous 1972 (provisional); latest drafted 2 July 2002, approved by referendum 29 April 2003, endorsed 8 June 2004, effective 9 June 2005
+- `修正`: proposed by the Amir or by one third of Advisory Council members; passage requires two-thirds majority vote of Advisory Council members and approval and promulgation by the emir; articles pertaining to the rule of state and its inheritance, functions of the emir, and citizen rights and liberties cannot be amended; amended by referendum November 2024; note - among the 19 proposed amendments, a major one was replacing direct elections for 30 of the 45 members of the Shura Council with appointments
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: the father must be a citizen of Qatar
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 20 years; 15 years if an Arab national
+- `出生公民權`: no
+- `血統公民身份`: the father must be a citizen of Qatar
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 20 years; 15 years if an Arab national
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: Amir TAMIM bin Hamad Al Thani (since 25 June 2013)
-- `head of government`: Prime Minister and Foreign Minister MUHAMMAD bin Abd al-Rahman Al Thani (since 7 March 2023)
-- `cabinet`: Council of Ministers appointed by the amir
-- `elections/appointments`: the monarchy is hereditary; prime minister appointed by the amir
+- `國家元首`: Amir TAMIM bin Hamad Al Thani (since 25 June 2013)
+- `政府首腦`: Prime Minister and Foreign Minister MUHAMMAD bin Abd al-Rahman Al Thani (since 7 March 2023)
+- `内閣`: Council of Ministers appointed by the amir
+- `選舉/任命`: the monarchy is hereditary; prime minister appointed by the amir
 
 ### 立法部門
-- `description`: unicameral Advisory Council or Majlis al-Shura (45 seats; members appointed by the monarch to serve until resignation or until relieved; note 1 - legislative drafting authority rests with the Council of Ministers and is reviewed by the Advisory Council; note 2 - a constitutional amendment passed in late 2023, replaced direct elections for 30 of the 45 members of the Shura Council with appointments
-- `elections`: last held for 30 elected members on 2 October 2021 (next to be held in 2025); last members appointed - 14 October 2021 (next appointments - NA)
-- `election results`: 30 nonpartisan members elected; composition - men 30, women 0, percentage women 0%15 appointed members; composition men 13, women 2, percentage women 13.3%
+- `描述`: unicameral Advisory Council or Majlis al-Shura (45 seats; members appointed by the monarch to serve until resignation or until relieved; note 1 - legislative drafting authority rests with the Council of Ministers and is reviewed by the Advisory Council; note 2 - a constitutional amendment passed in late 2023, replaced direct elections for 30 of the 45 members of the Shura Council with appointments
+- `選舉`: last held for 30 elected members on 2 October 2021 (next to be held in 2025); last members appointed - 14 October 2021 (next appointments - NA)
+- `選舉結果`: 30 nonpartisan members elected; composition - men 30, women 0, percentage women 0%15 appointed members; composition men 13, women 2, percentage women 13.3%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court or Court of Cassation (consists of the court president and several judges); Supreme Constitutional Court (consists of the chief justice and 6 members)
-- `judge selection and term of office`: Supreme Court judges nominated by the Supreme Judiciary Council, a 9-member independent body consisting of judiciary heads appointed by the amir; judges appointed for 3-year renewable terms; Supreme Constitutional Court members nominated by the Supreme Judiciary Council and appointed by the monarch; term of appointment NA
-- `subordinate courts`: Courts of Appeal; Administrative Court; Courts of First Instance; sharia courts; Courts of Justice; Qatar International Court and Dispute Resolution Center, established in 2009, provides dispute resolution services for institutions and bodies in Qatar, as well as internationally
+- `最高法院`: Supreme Court or Court of Cassation (consists of the court president and several judges); Supreme Constitutional Court (consists of the chief justice and 6 members)
+- `法官遴選和任期`: Supreme Court judges nominated by the Supreme Judiciary Council, a 9-member independent body consisting of judiciary heads appointed by the amir; judges appointed for 3-year renewable terms; Supreme Constitutional Court members nominated by the Supreme Judiciary Council and appointed by the monarch; term of appointment NA
+- `下級法院`: Courts of Appeal; Administrative Court; Courts of First Instance; sharia courts; Courts of Justice; Qatar International Court and Dispute Resolution Center, established in 2009, provides dispute resolution services for institutions and bodies in Qatar, as well as internationally
 
 ### 政黨
 political parties are banned
@@ -344,20 +344,20 @@ political parties are banned
 ABEDA, AFESD, AMF, CAEU, CD, CICA (observer), EITI (implementing country), FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OAS (observer), OIC, OIF, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Meshal bin Hamad AL THANI (since 24 April 2017)
-- `chancery`: 2555 M Street NW, Washington, DC 20037
-- `telephone`: [1] (202) 274-1600
+- `外交代表負責人`: Ambassador Meshal bin Hamad AL THANI (since 24 April 2017)
+- `衡平法院（在美國）`: 2555 M Street NW, Washington, DC 20037
+- `電話號碼`: [1] (202) 274-1600
 - `FAX`: [1] (202) 237-0682
-- `email address and website`: info.dc@mofa.gov.qa  https://washington.embassy.qa/en/home
-- `consulate(s) general`: Houston, Los Angeles, New York
+- `電子郵件地址和網站`: info.dc@mofa.gov.qa  https://washington.embassy.qa/en/home
+- `總領事館`: Houston, Los Angeles, New York
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Timmy DAVIS (since 5 September 2022)
-- `embassy`: 22 February Street, Al Luqta District, P.O. Box 2399, Doha
-- `mailing address`: 6130 Doha Place, Washington DC  20521-6130
-- `telephone`: [974] 4496-6000
+- `外交代表負責人`: Ambassador Timmy DAVIS (since 5 September 2022)
+- `大使館`: 22 February Street, Al Luqta District, P.O. Box 2399, Doha
+- `郵寄地址`: 6130 Doha Place, Washington DC  20521-6130
+- `電話號碼`: [974] 4496-6000
 - `FAX`: [974] 4488-4298
-- `email address and website`: PasDoha@state.gov  https://qa.usembassy.gov/
+- `電子郵件地址和網站`: PasDoha@state.gov  https://qa.usembassy.gov/
 
 ### 旗幟說明
 maroon with a broad white serrated band (nine white points) on the hoist side; maroon represents the blood shed in Qatari wars, white stands for peace; the nine-pointed serrated edge signifies Qatar as the ninth member of the "reconciled emirates" in the wake of the Qatari-British treaty of 1916
@@ -367,8 +367,8 @@ maroon with a broad white serrated band (nine white points) on the hoist side; m
 a maroon field surmounted by a white serrated band with nine white points; national colors: maroon, white
 
 ### 國歌
-- `name`: "Al-Salam Al-Amiri" (The Amiri Salute)
-- `lyrics/music`: Sheikh MUBARAK bin Saif al-Thani/Abdul Aziz Nasser OBAIDAN
+- `名稱`: "Al-Salam Al-Amiri" (The Amiri Salute)
+- `歌詞／音樂`: Sheikh MUBARAK bin Saif al-Thani/Abdul Aziz Nasser OBAIDAN
 **note**:  adopted 1996; anthem first performed that year at a meeting of the Gulf Cooperative Council hosted by Qatar
 
 ### 國家級遺產
@@ -415,17 +415,17 @@ $235.77 billion (2022 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 0.3% (2022 est.)
-- `industry`: 65.4% (2022 est.)
-- `services`: 38.5% (2022 est.)
+- `農業`: 0.3% (2022 est.)
+- `產業`: 65.4% (2022 est.)
+- `服務`: 38.5% (2022 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 19.5% (2022 est.)
-- `government consumption`: 12.9% (2022 est.)
-- `investment in fixed capital`: 30.7% (2022 est.)
-- `exports of goods and services`: 68.6% (2022 est.)
-- `imports of goods and services`: -31.6% (2022 est.)
+- `家庭消費`: 19.5% (2022 est.)
+- `政府消費`: 12.9% (2022 est.)
+- `固定資本投資`: 30.7% (2022 est.)
+- `商品和服務出口`: 68.6% (2022 est.)
+- `商品和服務進口`: -31.6% (2022 est.)
 **note**:  figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -450,14 +450,14 @@ liquefied natural gas, crude oil production and refining, ammonia, fertilizer, p
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 0.6% (2023 est.)
-- `male`: 0.3% (2023 est.)
-- `female`: 1.5% (2023 est.)
+- `總計`: 0.6% (2023 est.)
+- `男性`: 0.3% (2023 est.)
+- `女性`: 1.5% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 平均家庭支出
-- `on food`: 12.3% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 0.3% of household expenditures (2022 est.)
+- `餐食`: 12.3% of household expenditures (2022 est.)
+- `酒精和煙草`: 0.3% of household expenditures (2022 est.)
 
 ### 匯款
 0.44% of GDP (2022 est.)
@@ -466,8 +466,8 @@ liquefied natural gas, crude oil production and refining, ammonia, fertilizer, p
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $65.922 billion (2019 est.)
-- `expenditures`: $57.258 billion (2019 est.)
+- `收入`: $65.922 billion (2019 est.)
+- `支出`: $57.258 billion (2019 est.)
 
 ### 公共債務
 53.8% of GDP (2017 est.)
@@ -526,37 +526,37 @@ $42.213 billion (2021 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 11.414 million kW (2022 est.)
-- `consumption`: 51.079 billion kWh (2022 est.)
-- `transmission/distribution losses`: 2.968 billion kWh (2022 est.)
+- `裝機容量`: 11.414 million kW (2022 est.)
+- `消費`: 51.079 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 2.968 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 99.7% of total installed capacity (2022 est.)
-- `biomass and waste`: 0.3% of total installed capacity (2022 est.)
+- `石化燃料`: 99.7% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 0.3% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `exports`: 3,000 metric tons (2022 est.)
-- `imports`: 4,000 metric tons (2022 est.)
+- `出口`: 3,000 metric tons (2022 est.)
+- `進口`: 4,000 metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 1.851 million bbl/day (2023 est.)
-- `refined petroleum consumption`: 297,000 bbl/day (2022 est.)
-- `crude oil estimated reserves`: 25.244 billion barrels (2021 est.)
+- `總石油產量`: 1.851 million bbl/day (2023 est.)
+- `成品油消費量`: 297,000 bbl/day (2022 est.)
+- `原油儲備量估值`: 25.244 billion barrels (2021 est.)
 
 ### 天然氣
-- `production`: 169.595 billion cubic meters (2022 est.)
-- `consumption`: 41.515 billion cubic meters (2022 est.)
-- `exports`: 126.221 billion cubic meters (2022 est.)
-- `proven reserves`: 23.861 trillion cubic meters (2021 est.)
+- `生產`: 169.595 billion cubic meters (2022 est.)
+- `消費`: 41.515 billion cubic meters (2022 est.)
+- `出口`: 126.221 billion cubic meters (2022 est.)
+- `探明儲量`: 23.861 trillion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 122.122 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 3,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 35.699 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 86.42 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 122.122 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 3,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 35.699 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 86.42 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 767.202 million Btu/person (2022 est.)
@@ -564,17 +564,17 @@ $42.213 billion (2021 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 524,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 19 (2022 est.)
+- `總訂閱數`: 524,000 (2022 est.)
+- `每100名居民訂閱數`: 19 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 4.693 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 174 (2022 est.)
+- `總訂閱數`: 4.693 million (2022 est.)
+- `每100名居民訂閱數`: 174 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Qatar had developed a mature telecom sector which has been able to absorb the additional data demands made on it during the pandemic; mobile services based on LTE are universally available to migrate to 5G; in combination with a strong fiber rollout, the country is aiming to provide gigabit services nationally; 5G services are largely based on 3.5GHz spectrum made available following an auction in early 2019 (2022)
-- `domestic`: fixed-line is 17 per 100 and mobile-cellular telephone subscribership is 144 telephones per 100 persons (2021)
-- `international`: country code - 974; landing points for the Qatar-UAE Submarine Cable System, AAE-1, FOG, GBICS/East North Africa MENA and the FALCON submarine cable network that provides links to Asia, Africa, the Middle East, Europe and Southeast Asia; tropospheric scatter to Bahrain; microwave radio relay to Saudi Arabia and the UAE; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean) and 1 Arabsat; retains full ownership of two commercial satellites, Es'hailSat 1 and 2 (2019)
+- `總體評估`: Qatar had developed a mature telecom sector which has been able to absorb the additional data demands made on it during the pandemic; mobile services based on LTE are universally available to migrate to 5G; in combination with a strong fiber rollout, the country is aiming to provide gigabit services nationally; 5G services are largely based on 3.5GHz spectrum made available following an auction in early 2019 (2022)
+- `國內`: fixed-line is 17 per 100 and mobile-cellular telephone subscribership is 144 telephones per 100 persons (2021)
+- `國際的`: country code - 974; landing points for the Qatar-UAE Submarine Cable System, AAE-1, FOG, GBICS/East North Africa MENA and the FALCON submarine cable network that provides links to Asia, Africa, the Middle East, Europe and Southeast Asia; tropospheric scatter to Bahrain; microwave radio relay to Saudi Arabia and the UAE; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean) and 1 Arabsat; retains full ownership of two commercial satellites, Es'hailSat 1 and 2 (2019)
 
 ### 廣播媒體
 TV and radio broadcast licensing and access to local media markets are state controlled; home of the satellite TV channel Al-Jazeera, which was originally owned and financed by the Qatari government but has evolved to independent corporate status; Al-Jazeera claims editorial independence in broadcasting; local radio transmissions include state, private, and international broadcasters on FM frequencies in Doha; in August 2013, Qatar's satellite company Es'hailSat launched its first communications satellite Es'hail 1 (manufactured in the US), which entered commercial service in December 2013 to provide improved television broadcasting capability and expand availability of voice and Internet; Es'hailSat launched its second commercial satellite in 2018 with aid of SpaceX (2019)
@@ -583,20 +583,20 @@ TV and radio broadcast licensing and access to local media markets are state con
 .qa
 
 ### 網際網路使用者
-- `total`: 2.7 million (2021 est.)
-- `percent of population`: 100% (2021 est.)
+- `總計`: 2.7 million (2021 est.)
+- `佔人口比例`: 100% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 296,126 (2020 est.)
-- `subscriptions per 100 inhabitants`: 10 (2020 est.)
+- `總計`: 296,126 (2020 est.)
+- `每100名居民訂閱數`: 10 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 3 (2020)
-- `inventory of registered aircraft operated by air carriers`: 251
-- `annual passenger traffic on registered air carriers`: 29,178,923 (2018)
-- `annual freight traffic on registered air carriers`: 12,666,710,000 (2018) mt-km
+- `註冊航空公司數量`: 3 (2020)
+- `註冊飛機庫存—航空承運商經營`: 251
+- `年度客運量－註冊航空公司`: 29,178,923 (2018)
+- `年度貨運量－註冊航空公司`: 12,666,710,000 (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 A7
@@ -611,20 +611,20 @@ A7
 288 km condensate, 221 km condensate/gas, 2,383 km gas, 90 km liquid petroleum gas, 745 km oil, 103 km refined products (2013)
 
 ### 道路
-- `total`: 7,039 km (2016)
+- `總計`: 7,039 km (2016)
 
 ### 商船
-- `total`: 123 (2023)
-- `by type`: bulk carrier 5, container ship 4, general cargo 4, oil tanker 2, other 108
+- `總計`: 123 (2023)
+- `依類型`: bulk carrier 5, container ship 4, general cargo 4, oil tanker 2, other 108
 
 ### 港口
-- `total ports`: 6 (2024)
-- `large`: 0
-- `medium`: 1
-- `small`: 2
-- `very small`: 3
-- `ports with oil terminals`: 5
-- `key ports`: Al Rayyan Terminal, Al Shaheen Terminal, Doha, Jazirat Halul, Ras Laffan, Umm Said
+- `總港口數`: 6 (2024)
+- `大`: 0
+- `中`: 1
+- `小`: 2
+- `非常小`: 3
+- `原油碼頭港口`: 5
+- `主要港口`: Al Rayyan Terminal, Al Shaheen Terminal, Doha, Jazirat Halul, Ras Laffan, Umm Said
 
 ## 軍事和安全
 
@@ -657,5 +657,5 @@ Qatar's military is a small and well-equipped force that is responsible for defe
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `stateless persons`: 1,200 (2022)
+- `無國籍人士`: 1,200 (2022)
 

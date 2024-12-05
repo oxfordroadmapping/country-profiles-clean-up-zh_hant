@@ -19,22 +19,22 @@ archipelago in the Indian Ocean, south of India, about halfway between Africa an
 Political Map of the World
 
 ### 面積
-- `total `: 60 sq km
-- `land`: 60 sq km (44 Diego Garcia)
-- `water`: 54,340 sq km
+- `總計`: 60 sq km
+- `土地`: 60 sq km (44 Diego Garcia)
+- `水`: 54,340 sq km
 **note**:  includes the entire Chagos Archipelago of 55 islands
 
 ### 面積—比較
 land area is about one-third the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 698 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
+- `領海`: 12 nm
 - `Environment (Protection and Preservation) Zone`: 200 nm
 
 ### 氣候
@@ -44,19 +44,19 @@ tropical marine; hot, humid, moderated by trade winds
 flat and low coral atolls (most areas do not exceed two m in elevation); sits atop the submarine volcanic Chagos-Laccadive Ridge
 
 ### 海拔
-- `highest point`: ocean-side dunes on Diego Garcia 9 m
-- `lowest point`: Indian Ocean 0 m
+- `最高點`: ocean-side dunes on Diego Garcia 9 m
+- `最低點`: Indian Ocean 0 m
 
 ### 自然資源
 coconuts, fish, sugarcane
 
 ### 土地利用
-- `agricultural land`: 0% (2018 est.)
-- `agricultural land: arable land`: arable land: 0% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
-- `forest`: 0% (2018 est.)
-- `other`: 100% (2018 est.)
+- `農地`: 0% (2018 est.)
+- `農地：耕地`: arable land: 0% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0% (2018 est.)
+- `森林`: 0% (2018 est.)
+- `其它`: 100% (2018 est.)
 
 ### 自然災害
 none; located outside routes of Indian Ocean cyclones
@@ -67,7 +67,7 @@ none; located outside routes of Indian Ocean cyclones
 ## 人民和社會
 
 ### 人口
-- `total`: no indigenous inhabitants
+- `總計`: no indigenous inhabitants
 **note**:  approximately 1,200 former agricultural workers resident in the Chagos Archipelago, often referred to as Chagossians or Ilois, were relocated to Mauritius and the Seychelles in the 1960s and 1970s; approximately 3,000 UK and US military personnel and civilian contractors living on the island of Diego Garcia (2018)
 
 ## 環境
@@ -79,40 +79,40 @@ wastewater discharge into the lagoon on Diego Garcia
 tropical marine; hot, humid, moderated by trade winds
 
 ### 土地利用
-- `agricultural land`: 0% (2018 est.)
-- `agricultural land: arable land`: arable land: 0% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
-- `forest`: 0% (2018 est.)
-- `other`: 100% (2018 est.)
+- `農地`: 0% (2018 est.)
+- `農地：耕地`: arable land: 0% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0% (2018 est.)
+- `森林`: 0% (2018 est.)
+- `其它`: 100% (2018 est.)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: British Indian Ocean Territory
-- `conventional short form`: none
-- `abbreviation`: BIOT
-- `etymology`: self-descriptive name specifying the territory's affiliation and location
+- `常用長名`: British Indian Ocean Territory
+- `常用短名`: none
+- `縮寫`: BIOT
+- `语源学`: self-descriptive name specifying the territory's affiliation and location
 
 ### 附屬狀況
 overseas territory of the UK; administered by a commissioner, resident in the Foreign, Commonwealth, and Development Office in London
 
 ### 首都
-- `name`: administered from London; often regarded as being on Diego Garcia
-- `geographic coordinates`: *_issue_* *_issue_*7 18S, 12 24E
-- `time difference`: UTC+6 (12 hours ahead of Washington, DC, during Standard Time)
+- `名稱`: administered from London; often regarded as being on Diego Garcia
+- `地理坐標`: *_issue_* *_issue_*7 18S, 12 24E
+- `時差`: UTC+6 (12 hours ahead of Washington, DC, during Standard Time)
 
 ### 法律制度
 the laws of the UK apply where applicable
 
 ### 憲法
-- `history`: British Indian Ocean Territory (Constitution) Order 2004
+- `歷史`: British Indian Ocean Territory (Constitution) Order 2004
 
 ### 行政部門
-- `chief of state`: King CHARLES III (since 8 September 2022)
-- `head of government`: Commissioner Paul CANDLER (since 8 July 2021); Administrator Balraj DHANDA; note - both reside in the UK and are represented by Commander Colvin OSBORN, RN, Officer commanding British Forces on Diego Garcia (since January 2022)
-- `cabinet`: NA
-- `elections/appointments`: the monarchy is hereditary; commissioner and administrator appointed by the monarch
+- `國家元首`: King CHARLES III (since 8 September 2022)
+- `政府首腦`: Commissioner Paul CANDLER (since 8 July 2021); Administrator Balraj DHANDA; note - both reside in the UK and are represented by Commander Colvin OSBORN, RN, Officer commanding British Forces on Diego Garcia (since January 2022)
+- `内閣`: NA
+- `選舉/任命`: the monarchy is hereditary; commissioner and administrator appointed by the monarch
 
 ### 國際組織參與
 UPU
@@ -121,7 +121,7 @@ UPU
 none (overseas territory of the UK)
 
 ### 駐該國的美國外交代表
-- `embassy`: none (overseas territory of the UK)
+- `大使館`: none (overseas territory of the UK)
 
 ### 旗幟說明
 white with six blue wavy horizontal stripes; the flag of the UK is in the upper hoist-side quadrant; the striped section bears a palm tree and yellow crown (the symbols of the territory) centered on the outer half of the flag; the wavy stripes represent the Indian Ocean; although not officially described, the six blue stripes may stand for the six main atolls of the archipelago
@@ -156,9 +156,9 @@ the US dollar is used
 ## 通訊
 
 ### 電信系統
-- `general assessment`: separate facilities for military and public needs are available (2018)
-- `domestic`: all commercial telephone services are available, including connection to the Internet (2018)
-- `international`: country code (Diego Garcia) - 246; landing point for the SAFE submarine cable that provides direct connectivity to Africa, Asia and near-by Indian Ocean island countries; international telephone service is carried by satellite (2019)
+- `總體評估`: separate facilities for military and public needs are available (2018)
+- `國內`: all commercial telephone services are available, including connection to the Internet (2018)
+- `國際的`: country code (Diego Garcia) - 246; landing point for the SAFE submarine cable that provides direct connectivity to Africa, Asia and near-by Indian Ocean island countries; international telephone service is carried by satellite (2019)
 
 ### 廣播媒體
 Armed Forces Radio and Television Service (AFRTS) broadcasts over 3 separate frequencies for US and UK military personnel stationed on the islands
@@ -178,13 +178,13 @@ Diego Garcia hosts one of four dedicated ground antennas that assist in the oper
 **note**:  short section of paved road between port and airfield on Diego Garcia
 
 ### 港口
-- `total ports`: 1 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 0
-- `very small`: 1
-- `ports with oil terminals`: 1
-- `key ports`: Diego Garcia
+- `總港口數`: 1 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 0
+- `非常小`: 1
+- `原油碼頭港口`: 1
+- `主要港口`: Diego Garcia
 
 ## 軍事和安全
 

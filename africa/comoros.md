@@ -19,22 +19,22 @@ Southern Africa, group of islands at the northern mouth of the Mozambique Channe
 Africa
 
 ### 面積
-- `total `: 2,235 sq km
-- `land`: 2,235 sq km
-- `water`: 0 sq km
+- `總計`: 2,235 sq km
+- `土地`: 2,235 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 slightly more than 12 times the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 340 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive economic zone`: 200 nm
+- `領海`: 12 nm
+- `專屬經濟區`: 200 nm
 
 ### 氣候
 tropical marine; rainy season (November to May)
@@ -43,19 +43,19 @@ tropical marine; rainy season (November to May)
 volcanic islands, interiors vary from steep mountains to low hills
 
 ### 海拔
-- `highest point`: Karthala 2,360 m
-- `lowest point`: Indian Ocean 0 m
+- `最高點`: Karthala 2,360 m
+- `最低點`: Indian Ocean 0 m
 
 ### 自然資源
 fish
 
 ### 土地利用
-- `agricultural land`: 84.4% (2018 est.)
-- `agricultural land: arable land`: arable land: 46.7% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 29.6% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 8.1% (2018 est.)
-- `forest`: 1.4% (2018 est.)
-- `other`: 14.2% (2018 est.)
+- `農地`: 84.4% (2018 est.)
+- `農地：耕地`: arable land: 46.7% (2018 est.)
+- `農地：永久性作物`: permanent crops: 29.6% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 8.1% (2018 est.)
+- `森林`: 1.4% (2018 est.)
+- `其它`: 14.2% (2018 est.)
 
 ### 灌溉土地
 1.3 sq km (2012)
@@ -72,13 +72,13 @@ important location at northern end of Mozambique Channel; the only Arab League c
 ## 人民和社會
 
 ### 人口
-- `total`: 900,141
-- `male`: 435,758
-- `female`: 464,383 (2024 est.)
+- `總計`: 900,141
+- `男性`: 435,758
+- `女性`: 464,383 (2024 est.)
 
 ### 國籍
-- `noun`: Comoran(s)
-- `adjective`: Comoran
+- `名詞`: Comoran(s)
+- `形容詞`: Comoran
 
 ### 族裔群體
 Antalote, Cafre, Makoa, Oimatsaha, Sakalava
@@ -94,20 +94,20 @@ Muslim 98.1% (overwhelmingly Sunni Muslim, small Shia Muslim and Ahmadiyya Musli
 Comoros’ population is a melange of Arabs, Persians, Indonesians, Africans, and Indians, and the much smaller number of Europeans that settled on the islands between the 8th and 19th centuries, when they served as a regional trade hub. The Arab and Persian influence is most evident in the islands’ overwhelmingly Muslim majority – about 98% of Comorans are Sunni Muslims. The country is densely populated, averaging nearly 350 people per square mile, although this varies widely among the islands, with Anjouan being the most densely populated.Given the large share of land dedicated to agriculture and Comoros’ growing population, habitable land is becoming increasingly crowded. The combination of increasing population pressure on limited land and resources, widespread poverty, and poor job prospects motivates thousands of Comorans each year to attempt to illegally migrate using small fishing boats to the neighboring island of Mayotte, which is a French territory. The majority of legal Comoran migration to France came after Comoros’ independence from France in 1975, with the flow peaking in the mid-1980s.At least 150,000 to 200,000 people of Comoran citizenship or descent live abroad, mainly in France, where they have gone seeking a better quality of life, job opportunities, higher education (Comoros has no universities), advanced health care, and to finance elaborate traditional wedding ceremonies (aada). Remittances from the diaspora are an economic mainstay, in 2013 representing approximately 25% of Comoros’ GDP and significantly more than the value of its exports of goods and services (only 15% of GDP). Grand Comore, Comoros’ most populous island, is both the primary source of emigrants and the main recipient of remittances. Most remittances are spent on private consumption, but this often goes toward luxury goods and the aada and does not contribute to economic development or poverty reduction. Although the majority of the diaspora is now French-born with more distant ties to Comoros, it is unclear whether they will sustain the current level of remittances.
 
 ### 年齡結構
-- `0-14 years`: 32.6% (male 146,480/female 146,626)
-- `15-64 years`: 62.8% (male 271,139/female 294,231)
-- `65 years and over`: 4.6% (2024 est.) (male 18,139/female 23,526)
+- `0-14歲`: 32.6% (male 146,480/female 146,626)
+- `15-64歲`: 62.8% (male 271,139/female 294,231)
+- `65歲及以上`: 4.6% (2024 est.) (male 18,139/female 23,526)
 
 ### 撫養比率
-- `total dependency ratio`: 74.1
-- `youth dependency ratio`: 66.6
-- `elderly dependency ratio`: 7.5
-- `potential support ratio`: 13.3 (2021 est.)
+- `總受扶養人比率`: 74.1
+- `少年撫養比率`: 66.6
+- `老人撫養比率`: 7.5
+- `潛在支持率`: 13.3 (2021 est.)
 
 ### 年齡中位數
-- `total`: 22.7 years (2024 est.)
-- `male`: 22.1 years
-- `female`: 23.3 years
+- `總計`: 22.7 years (2024 est.)
+- `男性`: 22.1 years
+- `女性`: 23.3 years
 
 ### 人口成長率
 1.3% (2024 est.)
@@ -125,18 +125,18 @@ Comoros’ population is a melange of Arabs, Persians, Indonesians, Africans, an
 the capital city of Maroni, located on the western side of the island of Grande Comore, is the country's largest city; however, of the three islands that comprise Comoros, it is Anjouan that is the most densely populated as shown in this population distribution map
 
 ### 都市化
-- `urban population`: 30.1% of total population (2023)
-- `rate of urbanization`: 2.97% annual rate of change (2020-25 est.)
+- `城市人口`: 30.1% of total population (2023)
+- `城鎮化率`: 2.97% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 62,000 MORONI (capital) (2018)
 
 ### 性別比例
-- `at birth`: 1.03 male(s)/female
-- `0-14 years`: 1 male(s)/female
-- `15-64 years`: 0.92 male(s)/female
-- `65 years and over`: 0.77 male(s)/female
-- `total population`: 0.94 male(s)/female (2024 est.)
+- `出生時`: 1.03 male(s)/female
+- `0-14歲`: 1 male(s)/female
+- `15-64歲`: 0.92 male(s)/female
+- `65歲及以上`: 0.77 male(s)/female
+- `總人口數`: 0.94 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 23 years (2012 est.)
@@ -146,14 +146,14 @@ the capital city of Maroni, located on the western side of the island of Grande 
 217 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 54.9 deaths/1,000 live births (2024 est.)
-- `male`: 64.9 deaths/1,000 live births
-- `female`: 44.7 deaths/1,000 live births
+- `總計`: 54.9 deaths/1,000 live births (2024 est.)
+- `男性`: 64.9 deaths/1,000 live births
+- `女性`: 44.7 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 67.8 years (2024 est.)
-- `male`: 65.5 years
-- `female`: 70.2 years
+- `總人口數`: 67.8 years (2024 est.)
+- `男性`: 65.5 years
+- `女性`: 70.2 years
 
 ### 總生育率
 2.61 children born/woman (2024 est.)
@@ -165,12 +165,12 @@ the capital city of Maroni, located on the western side of the island of Grande 
 19.4% (2012)
 
 ### 飲用水來源
-- `improved: urban`: urban: 97.4% of population
-- `improved: rural`: rural: 88.5% of population
-- `improved: total`: total: 91% of population
-- `unimproved: urban`: urban: 2.6% of population
-- `unimproved: rural`: rural: 11.5% of population
-- `unimproved: total`: total: 8.9% of population (2017 est.)
+- `已改進－城市`: urban: 97.4% of population
+- `已改進－農村`: rural: 88.5% of population
+- `已改進－總計`: total: 91% of population
+- `未改進：都市`: urban: 2.6% of population
+- `未改進：鄉村`: rural: 11.5% of population
+- `未改善：總計`: total: 8.9% of population (2017 est.)
 
 ### 當前醫療支出
 5.4% of GDP (2020)
@@ -179,27 +179,27 @@ the capital city of Maroni, located on the western side of the island of Grande 
 0.26 physicians/1,000 population (2018)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 62.4% of population
-- `improved: rural`: rural: 43.6% of population
-- `improved: total`: total: 49% of population
-- `unimproved: urban`: urban: 37.6% of population
-- `unimproved: rural`: rural: 56.4% of population
-- `unimproved: total`: total: 51% of population (2017 est.)
+- `已改進－城市`: urban: 62.4% of population
+- `已改進－農村`: rural: 43.6% of population
+- `已改進－總計`: total: 49% of population
+- `未改進：都市`: urban: 37.6% of population
+- `未改進：鄉村`: rural: 56.4% of population
+- `未改善：總計`: total: 51% of population (2017 est.)
 
 ### 肥胖—成人流行率
 7.8% (2016)
 
 ### 人均酒精消費量
-- `total`: 0.18 liters of pure alcohol (2019 est.)
-- `beer`: 0.04 liters of pure alcohol (2019 est.)
-- `wine`: 0.07 liters of pure alcohol (2019 est.)
-- `spirits`: 0.07 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 0.18 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.04 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.07 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.07 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 20.3% (2020 est.)
-- `male`: 29.5% (2020 est.)
-- `female`: 11.1% (2020 est.)
+- `總計`: 20.3% (2020 est.)
+- `男性`: 29.5% (2020 est.)
+- `女性`: 11.1% (2020 est.)
 
 ### 目前已婚婦女（15-49歲）
 61.2% (2023 est.)
@@ -208,15 +208,15 @@ the capital city of Maroni, located on the western side of the island of Grande 
 2.6% of GDP (2015 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 62%
-- `male`: 67%
-- `female`: 56.9% (2021)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 62%
+- `男性`: 67%
+- `女性`: 56.9% (2021)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 11 years
-- `male`: 11 years
-- `female`: 11 years (2014)
+- `總計`: 11 years
+- `男性`: 11 years
+- `女性`: 11 years (2014)
 
 ## 環境
 
@@ -224,23 +224,23 @@ the capital city of Maroni, located on the western side of the island of Grande 
 deforestation; soil degradation and erosion results from forest loss and from crop cultivation on slopes without proper terracing; marine biodiversity affected as soil erosion leads to the silting of coral reefs
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 tropical marine; rainy season (November to May)
 
 ### 土地利用
-- `agricultural land`: 84.4% (2018 est.)
-- `agricultural land: arable land`: arable land: 46.7% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 29.6% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 8.1% (2018 est.)
-- `forest`: 1.4% (2018 est.)
-- `other`: 14.2% (2018 est.)
+- `農地`: 84.4% (2018 est.)
+- `農地：耕地`: arable land: 46.7% (2018 est.)
+- `農地：永久性作物`: permanent crops: 29.6% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 8.1% (2018 est.)
+- `森林`: 1.4% (2018 est.)
+- `其它`: 14.2% (2018 est.)
 
 ### 都市化
-- `urban population`: 30.1% of total population (2023)
-- `rate of urbanization`: 2.97% annual rate of change (2020-25 est.)
+- `城市人口`: 30.1% of total population (2023)
+- `城鎮化率`: 2.97% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 1.39% of GDP (2018 est.)
@@ -249,17 +249,17 @@ tropical marine; rainy season (November to May)
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 14.37 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 0.2 megatons (2016 est.)
-- `methane emissions`: 0.19 megatons (2020 est.)
+- `顆粒物排放量`: 14.37 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 0.2 megatons (2016 est.)
+- `甲烷排放量`: 0.19 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 91,013 tons (2015 est.)
+- `城市固體廢棄物－每年產生`: 91,013 tons (2015 est.)
 
 ### 總取水量
-- `municipal`: 4.8 million cubic meters (2017 est.)
-- `industrial`: 500,000 cubic meters (2017 est.)
-- `agricultural`: 4.7 million cubic meters (2017 est.)
+- `市級`: 4.8 million cubic meters (2017 est.)
+- `工業`: 500,000 cubic meters (2017 est.)
+- `農業`: 4.7 million cubic meters (2017 est.)
 
 ### 可再生水資源總量
 1.2 billion cubic meters (2020 est.)
@@ -267,21 +267,21 @@ tropical marine; rainy season (November to May)
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Union of the Comoros
-- `conventional short form`: Comoros
-- `local long form`: Udzima wa Komori (Comorian)/Union des Comores (French)/Al Ittihad al Qumuri (Arabic)
-- `local short form`: Komori (Comorian)/Les Comores (French)/Juzur al Qamar (Arabic)
-- `former`: Comorian State, Federal Islamic Republic of the Comoros
-- `etymology`: name derives from the Arabic designation "Juzur al Qamar" meaning "Islands of the Moon"
+- `常用長名`: Union of the Comoros
+- `常用短名`: Comoros
+- `當地語長名`: Udzima wa Komori (Comorian)/Union des Comores (French)/Al Ittihad al Qumuri (Arabic)
+- `當地語短名`: Komori (Comorian)/Les Comores (French)/Juzur al Qamar (Arabic)
+- `前任`: Comorian State, Federal Islamic Republic of the Comoros
+- `语源学`: name derives from the Arabic designation "Juzur al Qamar" meaning "Islands of the Moon"
 
 ### 政府類型
 federal presidential republic
 
 ### 首都
-- `name`: Moroni
-- `geographic coordinates`: 11 42 S, 43 14 E
-- `time difference`: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: Moroni derives from "mroni," which means "at the river" in Shingazidja, the Comorian language spoken on Grande Comore (N'gazidja)
+- `名稱`: Moroni
+- `地理坐標`: 11 42 S, 43 14 E
+- `時差`: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: Moroni derives from "mroni," which means "at the river" in Shingazidja, the Comorian language spoken on Grande Comore (N'gazidja)
 
 ### 行政區劃
 3 islands; Anjouan (Ndzuwani), Grande Comore (N'gazidja), Moheli (Mwali)
@@ -296,40 +296,40 @@ Independence Day, 6 July (1975)
 mixed legal system of Islamic religious law, the French civil code of 1975, and customary law
 
 ### 憲法
-- `history`: previous 1996, 2001; newest adopted 30 July 2018
-- `amendments`: proposed by the president of the union or supported by at least one third of the Assembly of the Union membership; adoption requires approval by at least three-quarters majority of the total Assembly membership or approval in a referendum
+- `歷史`: previous 1996, 2001; newest adopted 30 July 2018
+- `修正`: proposed by the president of the union or supported by at least one third of the Assembly of the Union membership; adoption requires approval by at least three-quarters majority of the total Assembly membership or approval in a referendum
 **note**: a referendum held on 30 July 2018 - boycotted by the opposition - overwhelmingly approved a new constitution that allows for 2 consecutive 5-year presidential terms while retaining the rotating presidency within the islands
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of the Comoros
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 10 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of the Comoros
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 10 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President AZALI Assoumani (since 26 May 2016) 
-- `head of government`: President AZALI Assoumani (since 26 May 2016)
-- `cabinet`: Council of Ministers appointed by the president
-- `elections/appointments`: president directly elected by absolute majority vote in 2 rounds if needed for a 5-year term; election last held on 14 January 2024 (next to be held in 2029)
-- `election results`: *2024: *AZALI Assoumani reelected president in first round - AZALI Assoumani (CRC) 63%, SALIM ISSA Abdallah (PJ) 20.3%, DAOUDOU Abdallah Mohamed (Orange Party) 5.9%, Bourhane HAMIDOU (independent) 5.1%*  2019*: AZALI Assoumani elected president in first round - AZALI Assoumani (CRC) 60.8%, Ahamada MAHAMOUDOU (PJ) 14.6%, Mouigni Baraka Said SOILIHI (independent) 5.6%, other 19%
+- `國家元首`: President AZALI Assoumani (since 26 May 2016) 
+- `政府首腦`: President AZALI Assoumani (since 26 May 2016)
+- `内閣`: Council of Ministers appointed by the president
+- `選舉/任命`: president directly elected by absolute majority vote in 2 rounds if needed for a 5-year term; election last held on 14 January 2024 (next to be held in 2029)
+- `選舉結果`: *2024: *AZALI Assoumani reelected president in first round - AZALI Assoumani (CRC) 63%, SALIM ISSA Abdallah (PJ) 20.3%, DAOUDOU Abdallah Mohamed (Orange Party) 5.9%, Bourhane HAMIDOU (independent) 5.1%*  2019*: AZALI Assoumani elected president in first round - AZALI Assoumani (CRC) 60.8%, Ahamada MAHAMOUDOU (PJ) 14.6%, Mouigni Baraka Said SOILIHI (independent) 5.6%, other 19%
 **note**: the president is both chief of state and head of government
 
 ### 立法部門
-- `description`: unicameral Assembly of the Union (24 members directly elected by absolute majority vote in 2 rounds if needed; members serve 5-year terms)
-- `elections`: last held on 19 January 2020 with a runoff on 23 February 2020 (next to be held in 2025)
-- `election results`: percent of vote by party in first round - CRC 60.9%, Orange Party 4.3%, independent 30.8%, other 4%; seats by party in the first round -  CRC 16, Orange Party 1, independent 2; percent of vote by party in the second round - CRC 54.1%, Orange Party 18.9%, independent 26.1%, other 1%; seats by party in the second round - CRC 4, Orange Party 1; composition - men 20, women 4, percentage women 16.7% 
+- `描述`: unicameral Assembly of the Union (24 members directly elected by absolute majority vote in 2 rounds if needed; members serve 5-year terms)
+- `選舉`: last held on 19 January 2020 with a runoff on 23 February 2020 (next to be held in 2025)
+- `選舉結果`: percent of vote by party in first round - CRC 60.9%, Orange Party 4.3%, independent 30.8%, other 4%; seats by party in the first round -  CRC 16, Orange Party 1, independent 2; percent of vote by party in the second round - CRC 54.1%, Orange Party 18.9%, independent 26.1%, other 1%; seats by party in the second round - CRC 4, Orange Party 1; composition - men 20, women 4, percentage women 16.7% 
 **note**:  opposition parties, which had demanded "transparent, free, and democratic" elections, boycotted the 2020 elections
 
 ### 司法部門
-- `highest court(s)`: Supreme Court or Cour Supreme (consists of 7 judges)
-- `judge selection and term of office`: Supreme Court judges - selection and term of office NA
-- `subordinate courts`: Court of Appeals (in Moroni); Tribunal de premiere instance; island village (community) courts; religious courts        
+- `最高法院`: Supreme Court or Cour Supreme (consists of 7 judges)
+- `法官遴選和任期`: Supreme Court judges - selection and term of office NA
+- `下級法院`: Court of Appeals (in Moroni); Tribunal de premiere instance; island village (community) courts; religious courts        
 
 ### 政黨
 Convention for the Renewal of the Comoros or CRCJuwa Party (Parti Juwa) or PJOrange Party (2020)
@@ -338,14 +338,14 @@ Convention for the Renewal of the Comoros or CRCJuwa Party (Parti Juwa) or PJOra
 ACP, AfDB, AMF, AOSIS, AU, CAEU (candidates), COMESA, FAO, FZ, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Issimail CHANFI (since 23 December 2020); note - also Permanent Representative to the UN
-- `chancery`: Permanent Mission to the UN, 866 United Nations Plaza, Suite 495, New York, NY 10017
-- `telephone`: [1] (212) 750-1637
+- `外交代表負責人`: Ambassador Issimail CHANFI (since 23 December 2020); note - also Permanent Representative to the UN
+- `衡平法院（在美國）`: Permanent Mission to the UN, 866 United Nations Plaza, Suite 495, New York, NY 10017
+- `電話號碼`: [1] (212) 750-1637
 - `FAX`: [1] (212) 750-1657
-- `email address and website`: comoros@un.int  https://www.un.int/comoros/
+- `電子郵件地址和網站`: comoros@un.int  https://www.un.int/comoros/
 
 ### 駐該國的美國外交代表
-- `embassy`: the US does not have an embassy in Comoros; the US Ambassador to Madagascar is accredited to Comoros
+- `大使館`: the US does not have an embassy in Comoros; the US Ambassador to Madagascar is accredited to Comoros
 
 ### 旗幟說明
 four equal horizontal bands of yellow (top), white, red, and blue, with a green isosceles triangle based on the hoist; centered within the triangle is a vertical white crescent moon with the convex side facing the hoist and four white, five-pointed stars placed vertically in a line between the points of the crescent; the horizontal bands and the four stars represent the four main islands of the archipelago - Mwali, N'gazidja, Ndzuwani, and Mahore (Mayotte - department of France, but claimed by Comoros)
@@ -355,8 +355,8 @@ four equal horizontal bands of yellow (top), white, red, and blue, with a green 
 four five-pointed stars and crescent moon; national colors: green, white
 
 ### 國歌
-- `name`: "Udzima wa ya Masiwa" (The Union of the Great Islands)
-- `lyrics/music`: Said Hachim SIDI ABDEREMANE/Said Hachim SIDI ABDEREMANE and Kamildine ABDALLAH
+- `名稱`: "Udzima wa ya Masiwa" (The Union of the Great Islands)
+- `歌詞／音樂`: Said Hachim SIDI ABDEREMANE/Said Hachim SIDI ABDEREMANE and Kamildine ABDALLAH
 **note**:  adopted 1978
 
 ## 經濟
@@ -392,17 +392,17 @@ $1.352 billion (2023 est.)
 **note**:  annual % change based on consumer prices
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 37.2% (2023 est.)
-- `industry`: 9% (2023 est.)
-- `services`: 49.6% (2023 est.)
+- `農業`: 37.2% (2023 est.)
+- `產業`: 9% (2023 est.)
+- `服務`: 49.6% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 100.1% (2023 est.)
-- `government consumption`: 9.3% (2023 est.)
-- `investment in fixed capital`: 12.7% (2023 est.)
-- `exports of goods and services`: 13% (2023 est.)
-- `imports of goods and services`: -35% (2023 est.)
+- `家庭消費`: 100.1% (2023 est.)
+- `政府消費`: 9.3% (2023 est.)
+- `固定資本投資`: 12.7% (2023 est.)
+- `商品和服務出口`: 13% (2023 est.)
+- `商品和服務進口`: -35% (2023 est.)
 **note**:  figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -427,9 +427,9 @@ fishing, tourism, perfume distillation
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 10.9% (2023 est.)
-- `male`: 9.9% (2023 est.)
-- `female`: 12.2% (2023 est.)
+- `總計`: 10.9% (2023 est.)
+- `男性`: 9.9% (2023 est.)
+- `女性`: 12.2% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 基尼指數係數—家庭所得分配
@@ -437,8 +437,8 @@ fishing, tourism, perfume distillation
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 1.6% (2014 est.)
-- `highest 10%`: 33.7% (2014 est.)
+- `最低10%`: 1.6% (2014 est.)
+- `最高10%`: 33.7% (2014 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -448,8 +448,8 @@ fishing, tourism, perfume distillation
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $223 million (2018 est.)
-- `expenditures`: $228 million (2018 est.)
+- `收入`: $223 million (2018 est.)
+- `支出`: $228 million (2018 est.)
 
 ### 公共債務
 32.4% of GDP (2017 est.)
@@ -512,27 +512,27 @@ $233.947 million (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 89.9% (2022 est.)
-- `electrification - urban areas`: 100%
-- `electrification - rural areas`: 82.9%
+- `電氣化－總人口`: 89.9% (2022 est.)
+- `電氣化－城市地區`: 100%
+- `電氣化－農村地區`: 82.9%
 
 ### 電力
-- `installed generating capacity`: 4.036 million kW (2022 est.)
-- `consumption`: 113.052 million kWh (2022 est.)
-- `transmission/distribution losses`: 22.1 million kWh (2022 est.)
+- `裝機容量`: 4.036 million kW (2022 est.)
+- `消費`: 113.052 million kWh (2022 est.)
+- `傳輸／分配損耗`: 22.1 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 100% of total installed capacity (2022 est.)
+- `石化燃料`: 100% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `imports`: 2,000 metric tons (2022 est.)
+- `進口`: 2,000 metric tons (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 3,000 bbl/day (2022 est.)
+- `成品油消費量`: 3,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 372,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 372,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 372,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 372,000 metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 6.223 million Btu/person (2022 est.)
@@ -540,17 +540,17 @@ $233.947 million (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 7,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: (2022 est.) less than 1
+- `總訂閱數`: 7,000 (2022 est.)
+- `每100名居民訂閱數`: (2022 est.) less than 1
 
 ### 電話—移動電話
-- `total subscriptions`: 839,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 100 (2022 est.)
+- `總訂閱數`: 839,000 (2022 est.)
+- `每100名居民訂閱數`: 100 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Comoros launched a special program for the construction of a wireless network to inter connect the 3 islands of the archipelago; telephone service limited to the islands' few towns (2020)
-- `domestic`: fixed-line connections less than 1 per 100 persons; mobile-cellular usage about 104 per 100 persons (2021)
-- `international`: country code - 269; landing point for the EASSy, Comoros Domestic Cable System, Avassa, and FLY-LION3 fiber-optic submarine cable system connecting East Africa with Europe; HF radiotelephone communications to Madagascar and Reunion (2019)
+- `總體評估`: Comoros launched a special program for the construction of a wireless network to inter connect the 3 islands of the archipelago; telephone service limited to the islands' few towns (2020)
+- `國內`: fixed-line connections less than 1 per 100 persons; mobile-cellular usage about 104 per 100 persons (2021)
+- `國際的`: country code - 269; landing point for the EASSy, Comoros Domestic Cable System, Avassa, and FLY-LION3 fiber-optic submarine cable system connecting East Africa with Europe; HF radiotelephone communications to Madagascar and Reunion (2019)
 
 ### 廣播媒體
 national state-owned TV station and a TV station run by Anjouan regional government; national state-owned radio; regional governments on the islands of Grande Comore and Anjouan each operate a radio station; a few independent and small community radio stations operate on the islands of Grande Comore and Moheli, and these two islands have access to Mayotte Radio and French TV
@@ -559,18 +559,18 @@ national state-owned TV station and a TV station run by Anjouan regional governm
 .km
 
 ### 網際網路使用者
-- `total`: 221,400 (2021 est.)
-- `percent of population`: 27% (2021 est.)
+- `總計`: 221,400 (2021 est.)
+- `佔人口比例`: 27% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 1,066 (2020 est.)
-- `subscriptions per 100 inhabitants`: 0.1 (2020 est.)
+- `總計`: 1,066 (2020 est.)
+- `每100名居民訂閱數`: 0.1 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 2 (2020)
-- `inventory of registered aircraft operated by air carriers`: 9
+- `註冊航空公司數量`: 2 (2020)
+- `註冊飛機庫存—航空承運商經營`: 9
 
 ### 註冊民用航空器國家代碼前綴
 D6
@@ -579,22 +579,22 @@ D6
 3 (2024)
 
 ### 道路
-- `total`: 849 km
-- `paved`: 673 km
-- `unpaved`: 207 km (2019)
+- `總計`: 849 km
+- `已鋪砌`: 673 km
+- `未鋪砌`: 207 km (2019)
 
 ### 商船
-- `total`: 273 (2023)
-- `by type`: bulk carrier 17, container ship 7, general cargo 125, oil tanker 36, other 88
+- `總計`: 273 (2023)
+- `依類型`: bulk carrier 17, container ship 7, general cargo 125, oil tanker 36, other 88
 
 ### 港口
-- `total ports`: 4 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 0
-- `very small`: 4
-- `ports with oil terminals`: 3
-- `key ports`: Dzaoudzi, Fomboni, Moroni, Moutsamoudu
+- `總港口數`: 4 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 0
+- `非常小`: 4
+- `原油碼頭港口`: 3
+- `主要港口`: Dzaoudzi, Fomboni, Moroni, Moutsamoudu
 
 ## 軍事和安全
 

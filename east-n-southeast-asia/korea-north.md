@@ -19,23 +19,23 @@ Eastern Asia, northern half of the Korean Peninsula bordering the Korea Bay and 
 Asia
 
 ### 面積
-- `total `: 120,538 sq km
-- `land`: 120,408 sq km
-- `water`: 130 sq km
+- `總計`: 120,538 sq km
+- `土地`: 120,408 sq km
+- `水`: 130 sq km
 
 ### 面積—比較
 slightly larger than Virginia; slightly smaller than Mississippi
 
 ### 陸地邊界
-- `total`: 1,607 km
-- `border countries`: China 1,352 km; South Korea 237 km; Russia 18 km
+- `總計`: 1,607 km
+- `邊境國家`: China 1,352 km; South Korea 237 km; Russia 18 km
 
 ### 海岸線
 2,495 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive economic zone`: 200 nm
+- `領海`: 12 nm
+- `專屬經濟區`: 200 nm
 **note**:  military boundary line 50 nm in the Sea of Japan and the exclusive economic zone limit in the Yellow Sea where all foreign vessels and aircraft without permission are banned
 
 ### 氣候
@@ -45,20 +45,20 @@ temperate, with rainfall concentrated in summer; long, bitter winters
 mostly hills and mountains separated by deep, narrow valleys; wide coastal plains in west, discontinuous in east
 
 ### 海拔
-- `highest point`: Paektu-san 2,744 m
-- `lowest point`: Sea of Japan 0 m
-- `mean elevation`: 600 m
+- `最高點`: Paektu-san 2,744 m
+- `最低點`: Sea of Japan 0 m
+- `平均海拔`: 600 m
 
 ### 自然資源
 coal, iron ore, limestone, magnesite, graphite, copper, zinc, lead, precious metals, hydropower
 
 ### 土地利用
-- `agricultural land`: 21.8% (2018 est.)
-- `agricultural land: arable land`: arable land: 19.5% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 1.9% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0.4% (2018 est.)
-- `forest`: 46% (2018 est.)
-- `other`: 32.2% (2018 est.)
+- `農地`: 21.8% (2018 est.)
+- `農地：耕地`: arable land: 19.5% (2018 est.)
+- `農地：永久性作物`: permanent crops: 1.9% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0.4% (2018 est.)
+- `森林`: 46% (2018 est.)
+- `其它`: 32.2% (2018 est.)
 
 ### 灌溉土地
 14,600 sq km (2012)
@@ -75,40 +75,40 @@ strategic location bordering China, South Korea, and Russia; mountainous interio
 ## 人民和社會
 
 ### 人口
-- `total`: 26,298,666
-- `male`: 12,828,269
-- `female`: 13,470,397 (2024 est.)
+- `總計`: 26,298,666
+- `男性`: 12,828,269
+- `女性`: 13,470,397 (2024 est.)
 
 ### 國籍
-- `noun`: Korean(s)
-- `adjective`: Korean
+- `名詞`: Korean(s)
+- `形容詞`: Korean
 
 ### 族裔群體
 racially homogeneous; there is a small Chinese community and a few ethnic Japanese
 
 ### 語文
 Korean
-- `major-language sample(s)`: 월드 팩트북, 필수적인 기본 정보 제공처 (Korean)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: 월드 팩트북, 필수적인 기본 정보 제공처 (Korean)  The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 traditionally Buddhist and Confucian, some Christian and syncretic Chondogyo (Religion of the Heavenly Way)
 **note**:  autonomous religious activities now almost nonexistent; government-sponsored religious groups exist to provide illusion of religious freedom
 
 ### 年齡結構
-- `0-14 years`: 19.9% (male 2,673,822/female 2,548,775)
-- `15-64 years`: 68.9% (male 9,054,771/female 9,066,447)
-- `65 years and over`: 11.2% (2024 est.) (male 1,099,676/female 1,855,175)
+- `0-14歲`: 19.9% (male 2,673,822/female 2,548,775)
+- `15-64歲`: 68.9% (male 9,054,771/female 9,066,447)
+- `65歲及以上`: 11.2% (2024 est.) (male 1,099,676/female 1,855,175)
 
 ### 撫養比率
-- `total dependency ratio`: 43.5
-- `youth dependency ratio`: 27.2
-- `elderly dependency ratio`: 16.3
-- `potential support ratio`: 6.1 (2021 est.)
+- `總受扶養人比率`: 43.5
+- `少年撫養比率`: 27.2
+- `老人撫養比率`: 16.3
+- `潛在支持率`: 6.1 (2021 est.)
 
 ### 年齡中位數
-- `total`: 35.9 years (2024 est.)
-- `male`: 34.5 years
-- `female`: 37.4 years
+- `總計`: 35.9 years (2024 est.)
+- `男性`: 34.5 years
+- `女性`: 37.4 years
 
 ### 人口成長率
 0.4% (2024 est.)
@@ -126,31 +126,31 @@ traditionally Buddhist and Confucian, some Christian and syncretic Chondogyo (Re
 population concentrated in the plains and lowlands; least populated regions are the mountainous provinces adjacent to the Chinese border; largest concentrations are in the western provinces, particularly the municipal district of Pyongyang, and around Hungnam and Wonsan in the east
 
 ### 都市化
-- `urban population`: 63.2% of total population (2023)
-- `rate of urbanization`: 0.85% annual rate of change (2020-25 est.)
+- `城市人口`: 63.2% of total population (2023)
+- `城鎮化率`: 0.85% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 3.158 million PYONGYANG (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.06 male(s)/female
-- `0-14 years`: 1.05 male(s)/female
-- `15-64 years`: 1 male(s)/female
-- `65 years and over`: 0.59 male(s)/female
-- `total population`: 0.95 male(s)/female (2024 est.)
+- `出生時`: 1.06 male(s)/female
+- `0-14歲`: 1.05 male(s)/female
+- `15-64歲`: 1 male(s)/female
+- `65歲及以上`: 0.59 male(s)/female
+- `總人口數`: 0.95 male(s)/female (2024 est.)
 
 ### 產婦死亡率
 107 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 15.4 deaths/1,000 live births (2024 est.)
-- `male`: 16.9 deaths/1,000 live births
-- `female`: 13.8 deaths/1,000 live births
+- `總計`: 15.4 deaths/1,000 live births (2024 est.)
+- `男性`: 16.9 deaths/1,000 live births
+- `女性`: 13.8 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 73.5 years (2024 est.)
-- `male`: 70.2 years
-- `female`: 77 years
+- `總人口數`: 73.5 years (2024 est.)
+- `男性`: 70.2 years
+- `女性`: 77 years
 
 ### 總生育率
 1.81 children born/woman (2024 est.)
@@ -162,12 +162,12 @@ population concentrated in the plains and lowlands; least populated regions are 
 70.2% (2017)
 
 ### 飲用水來源
-- `improved: urban`: urban: 97.8% of population
-- `improved: rural`: rural: 89.1% of population
-- `improved: total`: total: 94.5% of population
-- `unimproved: urban`: urban: 2.2% of population
-- `unimproved: rural`: rural: 10.9% of population
-- `unimproved: total`: total: 5.5% of population (2020 est.)
+- `已改進－城市`: urban: 97.8% of population
+- `已改進－農村`: rural: 89.1% of population
+- `已改進－總計`: total: 94.5% of population
+- `未改進：都市`: urban: 2.2% of population
+- `未改進：鄉村`: rural: 10.9% of population
+- `未改善：總計`: total: 5.5% of population (2020 est.)
 
 ### 當前醫療支出
 NA
@@ -176,27 +176,27 @@ NA
 3.68 physicians/1,000 population (2017)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 92.7% of population
-- `improved: rural`: rural: 73.1% of population
-- `improved: total`: total: 85.3% of population
-- `unimproved: urban`: urban: 7.3% of population
-- `unimproved: rural`: rural: 26.9% of population
-- `unimproved: total`: total: 14.7% of population (2020 est.)
+- `已改進－城市`: urban: 92.7% of population
+- `已改進－農村`: rural: 73.1% of population
+- `已改進－總計`: total: 85.3% of population
+- `未改進：都市`: urban: 7.3% of population
+- `未改進：鄉村`: rural: 26.9% of population
+- `未改善：總計`: total: 14.7% of population (2020 est.)
 
 ### 肥胖—成人流行率
 6.8% (2016)
 
 ### 人均酒精消費量
-- `total`: 3.61 liters of pure alcohol (2019 est.)
-- `beer`: 0.12 liters of pure alcohol (2019 est.)
-- `wine`: 0 liters of pure alcohol (2019 est.)
-- `spirits`: 3.48 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 3.61 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.12 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0 liters of pure alcohol (2019 est.)
+- `烈酒`: 3.48 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 17.4% (2020 est.)
-- `male`: 34.8% (2020 est.)
-- `female`: 0% (2020 est.)
+- `總計`: 17.4% (2020 est.)
+- `男性`: 34.8% (2020 est.)
+- `女性`: 0% (2020 est.)
 
 ### 5歲以下體重不足兒童
 9.3% (2017)
@@ -205,21 +205,21 @@ NA
 69.7% (2023 est.)
 
 ### 童婚
-- `women married by age 18`: 0.1% (2017 est.)
+- `18歲前結婚的女性`: 0.1% (2017 est.)
 
 ### 教育支出
 NA
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 100%
-- `male`: 100%
-- `female`: 100% (2015)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 100%
+- `男性`: 100%
+- `女性`: 100% (2015)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 11 years
-- `male`: 11 years
-- `female`: 11 years (2015)
+- `總計`: 11 years
+- `男性`: 11 years
+- `女性`: 11 years (2015)
 
 ## 環境
 
@@ -227,36 +227,36 @@ NA
 water pollution; inadequate supplies of potable water; waterborne disease; deforestation; soil erosion and degradation
 
 ### 環境—國際協定
-- `party to`: Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands
-- `signed, but not ratified`: Antarctic-Environmental Protection, Law of the Sea
+- `是以下議定書的締約國：`: Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands
+- `已簽署但未批準`: Antarctic-Environmental Protection, Law of the Sea
 
 ### 氣候
 temperate, with rainfall concentrated in summer; long, bitter winters
 
 ### 土地利用
-- `agricultural land`: 21.8% (2018 est.)
-- `agricultural land: arable land`: arable land: 19.5% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 1.9% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0.4% (2018 est.)
-- `forest`: 46% (2018 est.)
-- `other`: 32.2% (2018 est.)
+- `農地`: 21.8% (2018 est.)
+- `農地：耕地`: arable land: 19.5% (2018 est.)
+- `農地：永久性作物`: permanent crops: 1.9% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0.4% (2018 est.)
+- `森林`: 46% (2018 est.)
+- `其它`: 32.2% (2018 est.)
 
 ### 都市化
-- `urban population`: 63.2% of total population (2023)
-- `rate of urbanization`: 0.85% annual rate of change (2020-25 est.)
+- `城市人口`: 63.2% of total population (2023)
+- `城鎮化率`: 0.85% annual rate of change (2020-25 est.)
 
 ### 糧食不安全
-- `widespread lack of access`: *due to low food consumption levels, poor dietary diversity, and economic downturn -*the food security situation is expected to remain fragile, given persisting economic constraints aggravated by a below-average 2022 agricultural output (2023)
+- `普遍缺乏訪問權限`: *due to low food consumption levels, poor dietary diversity, and economic downturn -*the food security situation is expected to remain fragile, given persisting economic constraints aggravated by a below-average 2022 agricultural output (2023)
 
 ### 空氣污染物
-- `particulate matter emissions`: 41.46 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 28.28 megatons (2016 est.)
-- `methane emissions`: 18.68 megatons (2020 est.)
+- `顆粒物排放量`: 41.46 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 28.28 megatons (2016 est.)
+- `甲烷排放量`: 18.68 megatons (2020 est.)
 
 ### 總取水量
-- `municipal`: 900 million cubic meters (2020 est.)
-- `industrial`: 1.15 billion cubic meters (2020 est.)
-- `agricultural`: 6.61 billion cubic meters (2020 est.)
+- `市級`: 900 million cubic meters (2020 est.)
+- `工業`: 1.15 billion cubic meters (2020 est.)
+- `農業`: 6.61 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 77.15 billion cubic meters (2020 est.)
@@ -264,22 +264,22 @@ temperate, with rainfall concentrated in summer; long, bitter winters
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Democratic People's Republic of Korea
-- `conventional short form`: North Korea
-- `local long form`: Choson-minjujuui-inmin-konghwaguk
-- `local short form`: Choson
-- `abbreviation`: DPRK
-- `etymology`: derived from the Chinese name for Goryeo, which was the Korean dynasty that united the peninsula in the 10th century A.D.; the North Korean name "Choson" means "[Land of the] Morning Calm"
+- `常用長名`: Democratic People's Republic of Korea
+- `常用短名`: North Korea
+- `當地語長名`: Choson-minjujuui-inmin-konghwaguk
+- `當地語短名`: Choson
+- `縮寫`: DPRK
+- `语源学`: derived from the Chinese name for Goryeo, which was the Korean dynasty that united the peninsula in the 10th century A.D.; the North Korean name "Choson" means "[Land of the] Morning Calm"
 
 ### 政府類型
 dictatorship, single-party communist state
 
 ### 首都
-- `name`: Pyongyang
-- `geographic coordinates`: 39 01 N, 125 45 E
-- `time difference`: UTC+9 (14 hours ahead of Washington, DC, during Standard Time)
-- `time zone note`: on 5 May 2018, North Korea reverted to UTC+9, the same time zone as South Korea
-- `etymology`: the name translates as "flat land" in Korean
+- `名稱`: Pyongyang
+- `地理坐標`: 39 01 N, 125 45 E
+- `時差`: UTC+9 (14 hours ahead of Washington, DC, during Standard Time)
+- `時區備註`: on 5 May 2018, North Korea reverted to UTC+9, the same time zone as South Korea
+- `语源学`: the name translates as "flat land" in Korean
 
 ### 行政區劃
 9 provinces (do, singular and plural) and 4 special administration cities (si, singular and plural) **provinces**:  Chagang, Hambuk (North Hamgyong), Hamnam (South Hamgyong), Hwangbuk (North Hwanghae), Hwangnam (South Hwanghae), Kangwon, P'yongbuk (North Pyongan), P'yongnam (South Pyongan), Ryanggang **special administration cities**:  Kaesong, Nampo, P'yongyang, Rason
@@ -295,39 +295,39 @@ Founding of the Democratic People's Republic of Korea (DPRK), 9 September (1948)
 civil law system based on the Prussian model; system influenced by Japanese traditions and Communist legal theory
 
 ### 憲法
-- `history`: previous 1948, 1972; latest adopted 1998 (during KIM Jong-il era)
-- `amendments`: proposed by the Supreme People’s Assembly (SPA); passage requires more than two-thirds majority vote of the total SPA membership; revised several times, last in 2023
+- `歷史`: previous 1948, 1972; latest adopted 1998 (during KIM Jong-il era)
+- `修正`: proposed by the Supreme People’s Assembly (SPA); passage requires more than two-thirds majority vote of the total SPA membership; revised several times, last in 2023
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of North Korea
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: unknown
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of North Korea
+- `承認雙重國籍`: no
+- `入籍的居留要求`: unknown
 
 ### 選舉權
 17 years of age; universal and compulsory
 
 ### 行政部門
-- `chief of state`: State Affairs Commission President KIM Jong Un (since 17 December 2011)
-- `head of government`: Supreme People's Assembly President CHOE Ryong Hae (since 11 April 2019)
-- `cabinet`: Cabinet or Naegak members appointed by the Supreme People's Assembly except the Minister of People's Armed Forces
-- `elections/appointments`: chief of state and premier indirectly elected by the Supreme People's Assembly; election last held on 10 March 2019 (next to be held in March 2024)
-- `election results`: *2019:* KIM Jong Un reelected unopposed
+- `國家元首`: State Affairs Commission President KIM Jong Un (since 17 December 2011)
+- `政府首腦`: Supreme People's Assembly President CHOE Ryong Hae (since 11 April 2019)
+- `内閣`: Cabinet or Naegak members appointed by the Supreme People's Assembly except the Minister of People's Armed Forces
+- `選舉/任命`: chief of state and premier indirectly elected by the Supreme People's Assembly; election last held on 10 March 2019 (next to be held in March 2024)
+- `選舉結果`: *2019:* KIM Jong Un reelected unopposed
 **note 1**:  KIM Jong Un's titles include general secretary of the Workers' Party of Korea (KWP), chairman of the KWP Central Military Commission, president of the State Affairs Commission, and supreme commander of the Korean People's Army  **note 2**:  within the North Korean system, KIM Jong Un's role as chief of state is secondary to his role as general secretary of the Korean Workers' Party; chief of state is used to engage with non-communist countries such as the US; North Korea revised its constitution in 2019 to define "the Chairman of the State Affairs Commission" as "the supreme leader who represents the state"; functions as the commander-in-chief and chief executive; the specific titles associated with this office have changed multiple times under KIM's tenure, however, KIM Jong Un has been supreme leader since his father's death in 2011  **note 3**:  the head of government functions as the technical head of state and performs related duties, such as receiving ambassadors' credentials
 
 ### 立法部門
-- `description`: unicameral Supreme People's Assembly (SPA) or Ch'oego Inmin Hoeui (687 seats; members directly elected by majority vote in 2 rounds if needed to serve 5-year terms)
-- `elections`: last held on 10 March 2019 (next to be held in 2024)
-- `election results`: percent of vote by party - NA; seats by party - KWP 607, KSDP 50, Chondoist Chongu Party 22, General Association of Korean Residents in Japan (Chongryon) 5, religious associations 3; ruling party approves a list of candidates who are elected without opposition; composition as of February 2024 - men 566, women 121, percentage women 17.6%
+- `描述`: unicameral Supreme People's Assembly (SPA) or Ch'oego Inmin Hoeui (687 seats; members directly elected by majority vote in 2 rounds if needed to serve 5-year terms)
+- `選舉`: last held on 10 March 2019 (next to be held in 2024)
+- `選舉結果`: percent of vote by party - NA; seats by party - KWP 607, KSDP 50, Chondoist Chongu Party 22, General Association of Korean Residents in Japan (Chongryon) 5, religious associations 3; ruling party approves a list of candidates who are elected without opposition; composition as of February 2024 - men 566, women 121, percentage women 17.6%
 **note**:  the SPA functions as a rubberstamp legislature; the Korean Workers' Party selects all candidates
 
 ### 司法部門
-- `highest court(s)`: Supreme Court or Central Court (consists of one judge and 2 "People's Assessors" or, for some cases, 3 judges)
-- `judge selection and term of office`: judges elected by the Supreme People's Assembly for 5-year terms
-- `subordinate courts`: lower provincial courts as determined by the Supreme People's Assembly
+- `最高法院`: Supreme Court or Central Court (consists of one judge and 2 "People's Assessors" or, for some cases, 3 judges)
+- `法官遴選和任期`: judges elected by the Supreme People's Assembly for 5-year terms
+- `下級法院`: lower provincial courts as determined by the Supreme People's Assembly
 
 ### 政黨
 **major parties**: Korean Workers' Party or KWP (formally known as Workers' Party of Korea) General Association of Korean Residents in Japan (Chongryon; under KWP control) **minor parties**:  Chondoist Chongu Party (under KWP control)Social Democratic Party or KSDP (under KWP control)
@@ -339,7 +339,7 @@ ARF, FAO, G-77, ICAO, ICRM, IFAD, IFRCS, IHO, IMO, IMSO, IOC, IPU, ISO, ITSO, IT
 none  *_issue_*Note*_issue_*:  North Korea has a Permanent Mission to the UN in New York
 
 ### 駐該國的美國外交代表
-- `embassy`: none; the Swedish Embassy in Pyongyang represents the US as consular protecting power
+- `大使館`: none; the Swedish Embassy in Pyongyang represents the US as consular protecting power
 
 ### 旗幟說明
 three horizontal bands of blue (top), red (triple width), and blue; the red band is edged in white; on the hoist side of the red band is a white disk with a red five-pointed star; the broad red band symbolizes revolutionary traditions; the narrow white bands stand for purity, strength, and dignity; the blue bands signify sovereignty, peace, and friendship; the red star represents socialism
@@ -348,8 +348,8 @@ three horizontal bands of blue (top), red (triple width), and blue; the red band
 red star, chollima (winged horse); national colors: red, white, blue
 
 ### 國歌
-- `name`: "Aegukka" (Patriotic Song)
-- `lyrics/music`: PAK Se Yong/KIM Won Gyun
+- `名稱`: "Aegukka" (Patriotic Song)
+- `歌詞／音樂`: PAK Se Yong/KIM Won Gyun
 **note**:  adopted 1947; both North Korea's and South Korea's anthems share the same name and have a vaguely similar melody but have different lyrics; the North Korean anthem is also known as "Ach'imun pinnara" (Let Morning Shine)
 
 ### 國家級遺產
@@ -378,13 +378,13 @@ $1,800 (2014 est.)
 $28 billion (2013 est.)
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 22.5% (2017 est.)
-- `industry`: 47.6% (2017 est.)
-- `services`: 29.9% (2017 est.)
+- `農業`: 22.5% (2017 est.)
+- `產業`: 47.6% (2017 est.)
+- `服務`: 29.9% (2017 est.)
 
 ### GDP—構成，按最終使用部門
-- `exports of goods and services`: 5.9% (2016 est.)
-- `imports of goods and services`: -11.1% (2016 est.)
+- `商品和服務出口`: 5.9% (2016 est.)
+- `商品和服務進口`: -11.1% (2016 est.)
 
 ### 農產品
 maize, rice, vegetables, apples, cabbages, fruits, sweet potatoes, potatoes, beans, soybeans (2022)
@@ -408,9 +408,9 @@ military products; machine building, electric power, chemicals; mining (coal, ir
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 7.1% (2023 est.)
-- `male`: 6.3% (2023 est.)
-- `female`: 7.8% (2023 est.)
+- `總計`: 7.1% (2023 est.)
+- `男性`: 6.3% (2023 est.)
+- `女性`: 7.8% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 出口
@@ -447,30 +447,30 @@ plastic products, tobacco, soybean oil, rubber tires, packaged medicine (2022)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 54.7% (2022 est.)
+- `電氣化－總人口`: 54.7% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 8.277 million kW (2022 est.)
-- `consumption`: 18.24 billion kWh (2022 est.)
-- `transmission/distribution losses`: 4.033 billion kWh (2022 est.)
+- `裝機容量`: 8.277 million kW (2022 est.)
+- `消費`: 18.24 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 4.033 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 42.1% of total installed capacity (2022 est.)
-- `solar`: 0.3% of total installed capacity (2022 est.)
-- `hydroelectricity`: 57.6% of total installed capacity (2022 est.)
+- `石化燃料`: 42.1% of total installed capacity (2022 est.)
+- `太陽能`: 0.3% of total installed capacity (2022 est.)
+- `水力發電`: 57.6% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `production`: 21.747 million metric tons (2022 est.)
-- `consumption`: 21.747 million metric tons (2022 est.)
-- `proven reserves`: 10.6 billion metric tons (2022 est.)
+- `生產`: 21.747 million metric tons (2022 est.)
+- `消費`: 21.747 million metric tons (2022 est.)
+- `探明儲量`: 10.6 billion metric tons (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 17,000 bbl/day (2022 est.)
+- `成品油消費量`: 17,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 61.605 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 58.987 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 2.617 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 61.605 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 58.987 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 2.617 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 25.876 million Btu/person (2022 est.)
@@ -478,17 +478,17 @@ plastic products, tobacco, soybean oil, rubber tires, packaged medicine (2022)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 1.18 million (2021 est.)
-- `subscriptions per 100 inhabitants`: 5 (2021 est.)
+- `總訂閱數`: 1.18 million (2021 est.)
+- `每100名居民訂閱數`: 5 (2021 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 6 million (2021 est.)
-- `subscriptions per 100 inhabitants`: 23 (2021 est.)
+- `總訂閱數`: 6 million (2021 est.)
+- `每100名居民訂閱數`: 23 (2021 est.)
 
 ### 電信系統
-- `general assessment`: despite years of isolationism, economic under-achievement, and international sanctions, North Korea has improved its telecommunications infrastructure in the last decade; Inconsistent electric power supply and likely difficulties procuring new hardware, however, present enduring obstacles to building reliable high-speed telecom networks; mobile phone use is estimated to have increased to nearly 25% of the polulation as of 2018, yet the high cost of ownership makes mobile communications inaccessible to North Koreans of lower socioeconomic status; strict regime censorship and monitoring of telecom systems in North Korea restricts users from legally contacting anyone outside the country or accessing the global Internet; for those citizens living close to China, it has been possible to illegally obtain Chinese handsets and SIM cards, and to connect to towers located just across the border; while this offers access to the outside world and at much lower prices than the state-controlled offerings, the risks are high including steep fines and the possibility of jail time; North Korea has been effective in building an IT sector and a nascent digital economy on the back of a concerted effort to grow a sizeable, well-trained IT workforce; but even here, its capabilities have been directed more towards nefarious activities such as cyber crime and hacking into foreign countries’ computer and financial systems; North Korea’s determination to maintain ideological control of its populace by isolating itself from the rest of the world will probably lead to tighter controls on communications inside and outside of the country (2023)
-- `domestic`: fixed-lines are approximately 5 per 100 and mobile-cellular 23 per 100 persons (2021)
-- `international`: country code - 850; satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Russian - Indian Ocean region); other international connections through Moscow and Beijing
+- `總體評估`: despite years of isolationism, economic under-achievement, and international sanctions, North Korea has improved its telecommunications infrastructure in the last decade; Inconsistent electric power supply and likely difficulties procuring new hardware, however, present enduring obstacles to building reliable high-speed telecom networks; mobile phone use is estimated to have increased to nearly 25% of the polulation as of 2018, yet the high cost of ownership makes mobile communications inaccessible to North Koreans of lower socioeconomic status; strict regime censorship and monitoring of telecom systems in North Korea restricts users from legally contacting anyone outside the country or accessing the global Internet; for those citizens living close to China, it has been possible to illegally obtain Chinese handsets and SIM cards, and to connect to towers located just across the border; while this offers access to the outside world and at much lower prices than the state-controlled offerings, the risks are high including steep fines and the possibility of jail time; North Korea has been effective in building an IT sector and a nascent digital economy on the back of a concerted effort to grow a sizeable, well-trained IT workforce; but even here, its capabilities have been directed more towards nefarious activities such as cyber crime and hacking into foreign countries’ computer and financial systems; North Korea’s determination to maintain ideological control of its populace by isolating itself from the rest of the world will probably lead to tighter controls on communications inside and outside of the country (2023)
+- `國內`: fixed-lines are approximately 5 per 100 and mobile-cellular 23 per 100 persons (2021)
+- `國際的`: country code - 850; satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Russian - Indian Ocean region); other international connections through Moscow and Beijing
 
 ### 廣播媒體
 no independent media; radios and TVs are pre-tuned to government stations; 4 government-owned TV stations; the Korean Workers' Party owns and operates the Korean Central Broadcasting Station, and the state-run Voice of Korea operates an external broadcast service; the government prohibits listening to and jams foreign broadcasts (2019)
@@ -499,10 +499,10 @@ no independent media; radios and TVs are pre-tuned to government stations; 4 gov
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 1 (2020)
-- `inventory of registered aircraft operated by air carriers`: 4
-- `annual passenger traffic on registered air carriers`: 103,560 (2018)
-- `annual freight traffic on registered air carriers`: 250,000 (2018) mt-km
+- `註冊航空公司數量`: 1 (2020)
+- `註冊飛機庫存—航空承運商經營`: 4
+- `年度客運量－註冊航空公司`: 103,560 (2018)
+- `年度貨運量－註冊航空公司`: 250,000 (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 P
@@ -517,30 +517,30 @@ P
 6 km oil (2013)
 
 ### 鐵路
-- `total`: 7,435 km (2014)
-- `standard gauge`: 7,435 km (2014) 1.435-m gauge (5,400 km electrified)
+- `總計`: 7,435 km (2014)
+- `標準鐵軌`: 7,435 km (2014) 1.435-m gauge (5,400 km electrified)
 **note**:  figures are approximate; some narrow-gauge railway also exists
 
 ### 道路
-- `total`: 25,554 km
-- `paved`: 724 km
-- `unpaved`: 24,830 km (2006)
+- `總計`: 25,554 km
+- `已鋪砌`: 724 km
+- `未鋪砌`: 24,830 km (2006)
 
 ### 水道
 2,250 km (2011) (most navigable only by small craft)
 
 ### 商船
-- `total`: 264 (2023)
-- `by type`: bulk carrier 10, container ship 5, general cargo 191, oil tanker 29, other 29
+- `總計`: 264 (2023)
+- `依類型`: bulk carrier 10, container ship 5, general cargo 191, oil tanker 29, other 29
 
 ### 港口
-- `total ports`: 10 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 7
-- `very small`: 3
-- `ports with oil terminals`: 0
-- `key ports`: Ch'ongjin, Haeju Hang, Hungnam, Najin, Nampo, Senbong, Wonsan
+- `總港口數`: 10 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 7
+- `非常小`: 3
+- `原油碼頭港口`: 0
+- `主要港口`: Ch'ongjin, Haeju Hang, Hungnam, Najin, Nampo, Senbong, Wonsan
 
 ## 軍事和安全
 
@@ -586,7 +586,7 @@ North Korea’s leader has emphasized the development of space capabilities, par
 - `IDPs`: undetermined (2021)
 
 ### 人口販運
-- `tier rating`: Tier 3 — the government of North Korea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, North Korea remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/north-korea/
+- `會級評分`: Tier 3 — the government of North Korea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, North Korea remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/north-korea/
 
 ### 非法藥物
 at present there is insufficient information to determine the current level of involvement of government officials in the production or trafficking of illicit drugs, but for years, from the 1970s into the 2000s, citizens of North Korea , many of them diplomatic employees of the government, were apprehended abroad while trafficking in narcotics; police investigations in Taiwan, Japan and Australia during that period have linked North Korea to large illicit shipments of heroin and methamphetamine

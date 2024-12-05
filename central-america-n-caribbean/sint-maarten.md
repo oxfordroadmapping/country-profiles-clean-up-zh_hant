@@ -19,24 +19,24 @@ Caribbean, located in the Leeward Islands (northern) group; Dutch part of the is
 Central America and the Caribbean
 
 ### 面積
-- `total `: 34 sq km
-- `land`: 34 sq km
-- `water`: 0 sq km
+- `總計`: 34 sq km
+- `土地`: 34 sq km
+- `水`: 0 sq km
 **note**:  Dutch part of the island of Saint Martin
 
 ### 面積—比較
 one-fifth the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 16 km
-- `border countries`: Saint Martin (France) 16 km
+- `總計`: 16 km
+- `邊境國家`: Saint Martin (France) 16 km
 
 ### 海岸線
 58.9 km (for entire island)
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive economic zone`: 200 nm
+- `領海`: 12 nm
+- `專屬經濟區`: 200 nm
 
 ### 氣候
 tropical marine climate, ameliorated by northeast trade winds, results in moderate temperatures; average rainfall of 150 cm/year; hurricane season stretches from July to November
@@ -45,8 +45,8 @@ tropical marine climate, ameliorated by northeast trade winds, results in modera
 low, hilly terrain, volcanic origin
 
 ### 海拔
-- `highest point`: Mount Flagstaff 383 m
-- `lowest point`: Caribbean Sea 0 m
+- `最高點`: Mount Flagstaff 383 m
+- `最低點`: Caribbean Sea 0 m
 
 ### 自然資源
 fish, salt
@@ -63,9 +63,9 @@ subject to hurricanes from July to November
 ## 人民和社會
 
 ### 人口
-- `total`: 46,215
-- `male`: 22,817
-- `female`: 23,398 (2024 est.)
+- `總計`: 46,215
+- `男性`: 22,817
+- `女性`: 23,398 (2024 est.)
 
 ### 族裔群體
 Saint Maarten 29.9%, Dominican Republic 10.2%, Haiti 7.8%, Jamaica 6.6%, Saint Martin 5.9%, Guyana 5%, Dominica 4.4%, Curacao 4.1%, Aruba 3.4%, Saint Kitts and Nevis 2.8%, India 2.6%, Netherlands 2.2%, US 1.6%, Suriname 1.4%, Saint Lucia 1.3%, Anguilla 1.1%, other 8%, unspecified 1.7% (2011 est.)
@@ -78,20 +78,20 @@ English (official) 67.5%, Spanish 12.9%, Creole 8.2%, Dutch (official) 4.2%, Pap
 Protestant 41.9% (Pentecostal 14.7%, Methodist 10.0%, Seventh Day Adventist 6.6%, Baptist 4.7%, Anglican 3.1%, other Protestant 2.8%), Roman Catholic 33.1%, Hindu 5.2%, Christian 4.1%, Jehovah's Witness 1.7%, Evangelical 1.4%, Muslim/Jewish 1.1%, other 1.3% (includes Buddhist, Sikh, Rastafarian), none 7.9%, no response 2.4% (2011 est.)
 
 ### 年齡結構
-- `0-14 years`: 18.4% (male 4,409/female 4,114)
-- `15-64 years`: 66.3% (male 15,158/female 15,496)
-- `65 years and over`: 15.2% (2024 est.) (male 3,250/female 3,788)
+- `0-14歲`: 18.4% (male 4,409/female 4,114)
+- `15-64歲`: 66.3% (male 15,158/female 15,496)
+- `65歲及以上`: 15.2% (2024 est.) (male 3,250/female 3,788)
 
 ### 撫養比率
-- `total dependency ratio`: 27.2
-- `youth dependency ratio`: 14.9
-- `elderly dependency ratio`: 12.3
-- `potential support ratio`: 8.1 (2021)
+- `總受扶養人比率`: 27.2
+- `少年撫養比率`: 14.9
+- `老人撫養比率`: 12.3
+- `潛在支持率`: 8.1 (2021)
 
 ### 年齡中位數
-- `total`: 41 years (2024 est.)
-- `male`: 39 years
-- `female`: 42.8 years
+- `總計`: 41 years (2024 est.)
+- `男性`: 39 years
+- `女性`: 42.8 years
 
 ### 人口成長率
 1.15% (2024 est.)
@@ -109,28 +109,28 @@ Protestant 41.9% (Pentecostal 14.7%, Methodist 10.0%, Seventh Day Adventist 6.6%
 most populous areas are Lower Prince's Quarter (north of Philipsburg), followed closely by Cul de Sac
 
 ### 都市化
-- `urban population`: 100% of total population (2023)
-- `rate of urbanization`: 1.16% annual rate of change (2020-25 est. est.)
+- `城市人口`: 100% of total population (2023)
+- `城鎮化率`: 1.16% annual rate of change (2020-25 est. est.)
 
 ### 主要城市地區—人口
 1,327 PHILIPSBURG (capital) (2011)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.07 male(s)/female
-- `15-64 years`: 0.98 male(s)/female
-- `65 years and over`: 0.86 male(s)/female
-- `total population`: 0.98 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.07 male(s)/female
+- `15-64歲`: 0.98 male(s)/female
+- `65歲及以上`: 0.86 male(s)/female
+- `總人口數`: 0.98 male(s)/female (2024 est.)
 
 ### 嬰兒死亡率
-- `total`: 7.6 deaths/1,000 live births (2024 est.)
-- `male`: 8.4 deaths/1,000 live births
-- `female`: 6.8 deaths/1,000 live births
+- `總計`: 7.6 deaths/1,000 live births (2024 est.)
+- `男性`: 8.4 deaths/1,000 live births
+- `女性`: 6.8 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 79.7 years (2024 est.)
-- `male`: 77.4 years
-- `female`: 82.2 years
+- `總人口數`: 79.7 years (2024 est.)
+- `男性`: 77.4 years
+- `女性`: 82.2 years
 
 ### 總生育率
 1.97 children born/woman (2024 est.)
@@ -142,8 +142,8 @@ most populous areas are Lower Prince's Quarter (north of Philipsburg), followed 
 NA
 
 ### 飲用水來源
-- `improved: total`: total: 95.1% of population
-- `unimproved: total`: total: 4.9% of population (2017)
+- `已改進－總計`: total: 95.1% of population
+- `未改善：總計`: total: 4.9% of population (2017)
 
 ### 當前醫療支出
 NA
@@ -152,12 +152,12 @@ NA
 NA
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: NA
-- `improved: rural`: rural: NA
-- `improved: total`: total: 98.8% of population
-- `unimproved: urban`: urban: NA
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: 1.2% of population (2017)
+- `已改進－城市`: urban: NA
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: 98.8% of population
+- `未改進：都市`: urban: NA
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: 1.2% of population (2017)
 
 ### 5歲以下體重不足兒童
 NA
@@ -166,14 +166,14 @@ NA
 NA
 
 ### 識字程度
-- `total population`: NA
-- `male`: NA
-- `female`: NA
+- `總人口數`: NA
+- `男性`: NA
+- `女性`: NA
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 12 years
-- `male`: 12 years
-- `female`: 12 years (2014)
+- `總計`: 12 years
+- `男性`: 12 years
+- `女性`: 12 years (2014)
 
 ## 環境
 
@@ -184,18 +184,18 @@ scarcity of potable water (increasing percentage provided by desalination); inad
 tropical marine climate, ameliorated by northeast trade winds, results in moderate temperatures; average rainfall of 150 cm/year; hurricane season stretches from July to November
 
 ### 都市化
-- `urban population`: 100% of total population (2023)
-- `rate of urbanization`: 1.16% annual rate of change (2020-25 est. est.)
+- `城市人口`: 100% of total population (2023)
+- `城鎮化率`: 1.16% annual rate of change (2020-25 est. est.)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Country of Sint Maarten
-- `conventional short form`: Sint Maarten
-- `local long form`: Land Sint Maarten (Dutch)/ Country of Sint Maarten (English)
-- `local short form`: Sint Maarten (Dutch and English)
-- `former`: Netherlands Antilles; Curacao and Dependencies
-- `etymology`: explorer Christopher COLUMBUS named the island after Saint MARTIN of Tours because the 11 November 1493 day of discovery was the saint's feast day
+- `常用長名`: Country of Sint Maarten
+- `常用短名`: Sint Maarten
+- `當地語長名`: Land Sint Maarten (Dutch)/ Country of Sint Maarten (English)
+- `當地語短名`: Sint Maarten (Dutch and English)
+- `前任`: Netherlands Antilles; Curacao and Dependencies
+- `语源学`: explorer Christopher COLUMBUS named the island after Saint MARTIN of Tours because the 11 November 1493 day of discovery was the saint's feast day
 
 ### 政府類型
 parliamentary democracy under a constitutional monarchy
@@ -204,10 +204,10 @@ parliamentary democracy under a constitutional monarchy
 constituent country within the Kingdom of the Netherlands; full autonomy in internal affairs granted in 2010; Dutch Government responsible for defense and foreign affairs
 
 ### 首都
-- `name`: Philipsburg
-- `geographic coordinates`: 18 1 N, 63 2 W
-- `time difference`: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
-- `etymology`: founded and named in 1763 by John PHILIPS, a Scottish captain in the Dutch navy
+- `名稱`: Philipsburg
+- `地理坐標`: 18 1 N, 63 2 W
+- `時差`: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+- `语源学`: founded and named in 1763 by John PHILIPS, a Scottish captain in the Dutch navy
 
 ### 行政區劃
 none (part of the Kingdom of the Netherlands)
@@ -223,8 +223,8 @@ King's Day (birthday of King WILLEM-ALEXANDER), 27 April (1967); note - King's o
 based on Dutch civil law system with some English common law influence
 
 ### 憲法
-- `history`: previous 1947, 1955; latest adopted 21 July 2010, entered into force 10 October 2010 (regulates governance of Sint Maarten but is subordinate to the Charter for the Kingdom of the Netherlands)
-- `amendments`: proposals initiated by the Government or by Parliament; passage requires at least a two-thirds majority of the Parliament membership; passage of amendments relating to fundamental rights, authorities of the governor and of Parliament must include the "views" of the Kingdom of the Netherlands Government prior to ratification by Parliament
+- `歷史`: previous 1947, 1955; latest adopted 21 July 2010, entered into force 10 October 2010 (regulates governance of Sint Maarten but is subordinate to the Charter for the Kingdom of the Netherlands)
+- `修正`: proposals initiated by the Government or by Parliament; passage requires at least a two-thirds majority of the Parliament membership; passage of amendments relating to fundamental rights, authorities of the governor and of Parliament must include the "views" of the Kingdom of the Netherlands Government prior to ratification by Parliament
 
 ### 公民身份
 see the Netherlands
@@ -233,20 +233,20 @@ see the Netherlands
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: King WILLEM-ALEXANDER of the Netherlands (since 30 April 2013); represented by Governor Ajamu G. BALY (since 10 October 2022)
-- `head of government`: Prime Minister Luc MERCELINA (since 3 May 2024)
-- `cabinet`: Cabinet nominated by the prime minister and appointed by the governor
-- `elections/appointments`: the monarch is hereditary; governor appointed by the monarch for a 6-year term; following parliamentary elections, the leader of the majority party usually elected prime minister by Parliament
+- `國家元首`: King WILLEM-ALEXANDER of the Netherlands (since 30 April 2013); represented by Governor Ajamu G. BALY (since 10 October 2022)
+- `政府首腦`: Prime Minister Luc MERCELINA (since 3 May 2024)
+- `内閣`: Cabinet nominated by the prime minister and appointed by the governor
+- `選舉/任命`: the monarch is hereditary; governor appointed by the monarch for a 6-year term; following parliamentary elections, the leader of the majority party usually elected prime minister by Parliament
 
 ### 立法部門
-- `description`: unicameral Parliament of Sint Maarten (15 seats; members directly elected by proportional representation vote to serve 4-year terms)
-- `elections`: last held 11 January 2024 (next to be held in 2028)
-- `election results`: percent of vote by party - NA 23.9%, UPP 19.6%, URSM 13.9%, DP 13.6%, PFP 11.9%, NOW 10.3%, other 6.8%; seats by party - NA 4, UPP 3, URSM 2, DP 2, PFP2, NOW 2; composition - men 8, women 7, percentage women 46.7% (additional member is suspended)
+- `描述`: unicameral Parliament of Sint Maarten (15 seats; members directly elected by proportional representation vote to serve 4-year terms)
+- `選舉`: last held 11 January 2024 (next to be held in 2028)
+- `選舉結果`: percent of vote by party - NA 23.9%, UPP 19.6%, URSM 13.9%, DP 13.6%, PFP 11.9%, NOW 10.3%, other 6.8%; seats by party - NA 4, UPP 3, URSM 2, DP 2, PFP2, NOW 2; composition - men 8, women 7, percentage women 46.7% (additional member is suspended)
 
 ### 司法部門
-- `highest court(s)`: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (consists of the presiding judge, other members, and their substitutes); final appeals heard by the Supreme Court (in The Hague, Netherlands); note - prior to 2010, the Joint Court of Justice was the Common Court of Justice of the Netherlands Antilles and Aruba
-- `judge selection and term of office`: Joint Court judges appointed by the monarch serve for life
-- `subordinate courts`: Courts in First Instance
+- `最高法院`: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (consists of the presiding judge, other members, and their substitutes); final appeals heard by the Supreme Court (in The Hague, Netherlands); note - prior to 2010, the Joint Court of Justice was the Common Court of Justice of the Netherlands Antilles and Aruba
+- `法官遴選和任期`: Joint Court judges appointed by the monarch serve for life
+- `下級法院`: Courts in First Instance
 
 ### 政黨
 Democratic Party or DPNational Alliance or NANational Opportunity Wealth or NOWParty for Progress or PFPSint Maarten Christian Party or SMCPUnified Resilient St Maarten Movement or URSMUnited People's Party or UPPUnited Sint Maarten Party or US Party
@@ -258,7 +258,7 @@ Caricom (observer), ILO, Interpol, UNESCO (associate), UPU, WMO
 none (represented by the Kingdom of the Netherlands)
 
 ### 駐該國的美國外交代表
-- `embassy`: the US does not have an embassy in Sint Maarten; the Consul General to Curacao is accredited to Sint Maarten
+- `大使館`: the US does not have an embassy in Sint Maarten; the Consul General to Curacao is accredited to Sint Maarten
 
 ### 旗幟說明
 two equal horizontal bands of red (top) and blue with a white isosceles triangle based on the hoist side; the center of the triangle displays the Sint Maarten coat of arms; the arms consist of an orange-bordered  blue shield prominently displaying the white court house in Philipsburg, as well as a bouquet of yellow sage (the national flower) in the upper left, and the silhouette of a Dutch-French friendship monument in the upper right; the shield is surmounted by a yellow rising sun in front of which is a brown pelican in flight; a yellow scroll below the shield bears the motto: SEMPER PROGREDIENS (Always Progressing); the three main colors are identical to those on the Dutch flag
@@ -268,8 +268,8 @@ two equal horizontal bands of red (top) and blue with a white isosceles triangle
 brown pelican, yellow sage (flower); national colors: red, white, blue
 
 ### 國歌
-- `name`: O Sweet Saint Martin's Land
-- `lyrics/music`: Gerard KEMPS
+- `名稱`: O Sweet Saint Martin's Land
+- `歌詞／音樂`: Gerard KEMPS
 **note**:  the song, written in 1958, is used as an unofficial anthem for the entire island (both French and Dutch sides); as a collectivity of France, in addition to the local anthem, "La Marseillaise" is official on the French side (see France); as a constituent part of the Kingdom of the Netherlands, in addition to the local anthem, "Het Wilhelmus" is official on the Dutch side (see Netherlands)
 
 ## 經濟
@@ -306,8 +306,8 @@ $1.623 billion (2023 est.)
 **note**: annual % change based on consumer prices
 
 ### GDP—構成，按原產出部門
-- `industry`: 6% (2021 est.)
-- `services`: 89.3% (2021 est.)
+- `產業`: 6% (2021 est.)
+- `服務`: 89.3% (2021 est.)
 **note**:  figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### 農產品
@@ -371,25 +371,25 @@ refined petroleum, jewelry, pearl products, diamonds, cars (2022)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ## 通訊
 
 ### 電話—移動電話
-- `total subscriptions`: 68,840 (2012 est.)
-- `subscriptions per 100 inhabitants`: 196 (2012 est.)
+- `總訂閱數`: 68,840 (2012 est.)
+- `每100名居民訂閱數`: 196 (2012 est.)
 
 ### 電信系統
-- `general assessment`: generally adequate facilities; growth sectors include mobile telephone and data segments; effective competition; LTE expansion; tourism and telecom sector contribute greatly to the GDP (2018)
-- `domestic`: 196 per 100 mobile-cellular teledensity (2012)
-- `international`: country code - 1-721; landing points for SMPR-1 and the ECFS submarine cables providing connectivity to the Caribbean; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)
+- `總體評估`: generally adequate facilities; growth sectors include mobile telephone and data segments; effective competition; LTE expansion; tourism and telecom sector contribute greatly to the GDP (2018)
+- `國內`: 196 per 100 mobile-cellular teledensity (2012)
+- `國際的`: country code - 1-721; landing points for SMPR-1 and the ECFS submarine cables providing connectivity to the Caribbean; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)
 
 ### 網際網路國家代碼
 .sx; note - IANA has designated .sx for Sint Maarten, but has not yet assigned it to a sponsoring organization
 
 ### 網際網路使用者
-- `total`: 39,089 (2022)
-- `percent of population`: 89.5% (2022)
+- `總計`: 39,089 (2022)
+- `佔人口比例`: 89.5% (2022)
 
 ## 交通運輸
 
@@ -397,16 +397,16 @@ refined petroleum, jewelry, pearl products, diamonds, cars (2022)
 1 (2024)
 
 ### 道路
-- `total`: 53 km
+- `總計`: 53 km
 
 ### 港口
-- `total ports`: 2 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 2
-- `very small`: 0
-- `ports with oil terminals`: 1
-- `key ports`: Coles Bay Oil Terminal, Philipsburg
+- `總港口數`: 2 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 2
+- `非常小`: 0
+- `原油碼頭港口`: 1
+- `主要港口`: Coles Bay Oil Terminal, Philipsburg
 
 ## 軍事和安全
 
@@ -419,5 +419,5 @@ defense is the responsibility of the Kingdom of the Netherlands
 ## 跨國議題
 
 ### 人口販運
-- `tier rating`: Tier 3 — Sint Maarten does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Sint Maarten remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/sint-maarten/
+- `會級評分`: Tier 3 — Sint Maarten does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Sint Maarten remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/sint-maarten/
 

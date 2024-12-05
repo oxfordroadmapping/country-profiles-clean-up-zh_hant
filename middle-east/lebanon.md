@@ -19,22 +19,22 @@ Middle East, bordering the Mediterranean Sea, between Israel and Syria
 Middle East
 
 ### 面積
-- `total `: 10,400 sq km
-- `land`: 10,230 sq km
-- `water`: 170 sq km
+- `總計`: 10,400 sq km
+- `土地`: 10,230 sq km
+- `水`: 170 sq km
 
 ### 面積—比較
 about one-third the size of Maryland
 
 ### 陸地邊界
-- `total`: 484 km
-- `border countries`: Israel 81 km; Syria 403 km
+- `總計`: 484 km
+- `邊境國家`: Israel 81 km; Syria 403 km
 
 ### 海岸線
 225 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
+- `領海`: 12 nm
 
 ### 氣候
 Mediterranean; mild to cool, wet winters with hot, dry summers; the Lebanon Mountains experience heavy winter snows
@@ -43,20 +43,20 @@ Mediterranean; mild to cool, wet winters with hot, dry summers; the Lebanon Moun
 narrow coastal plain; El Beqaa (Bekaa Valley) separates Lebanon and Anti-Lebanon Mountains
 
 ### 海拔
-- `highest point`: Qornet es Saouda 3,088 m
-- `lowest point`: Mediterranean Sea 0 m
-- `mean elevation`: 1,250 m
+- `最高點`: Qornet es Saouda 3,088 m
+- `最低點`: Mediterranean Sea 0 m
+- `平均海拔`: 1,250 m
 
 ### 自然資源
 limestone, iron ore, salt, water-surplus state in a water-deficit region, arable land
 
 ### 土地利用
-- `agricultural land`: 63.3% (2018 est.)
-- `agricultural land: arable land`: arable land: 11.9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 12.3% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 39.1% (2018 est.)
-- `forest`: 13.4% (2018 est.)
-- `other`: 23.3% (2018 est.)
+- `農地`: 63.3% (2018 est.)
+- `農地：耕地`: arable land: 11.9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 12.3% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 39.1% (2018 est.)
+- `森林`: 13.4% (2018 est.)
+- `其它`: 23.3% (2018 est.)
 
 ### 灌溉土地
 1,040 sq km (2012)
@@ -73,13 +73,13 @@ smallest country in continental Asia; Nahr el Litani is the only major river in 
 ## 人民和社會
 
 ### 人口
-- `total`: 5,364,482
-- `male`: 2,678,543
-- `female`: 2,685,939 (2024 est.)
+- `總計`: 5,364,482
+- `男性`: 2,678,543
+- `女性`: 2,685,939 (2024 est.)
 
 ### 國籍
-- `noun`: Lebanese (singular and plural)
-- `adjective`: Lebanese
+- `名詞`: Lebanese (singular and plural)
+- `形容詞`: Lebanese
 
 ### 族裔群體
 Arab 95%, Armenian 4%, other 1%
@@ -87,27 +87,27 @@ Arab 95%, Armenian 4%, other 1%
 
 ### 語文
 Arabic (official), French, English, Armenian
-- `major-language sample(s)`: كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)  The World Factbook, une source indispensable d'informations de base. (French)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)  The World Factbook, une source indispensable d'informations de base. (French)  The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Muslim 67.8% (31.9% Sunni, 31.2% Shia, smaller percentages of Alawites and Ismailis), Christian 32.4% (Maronite Catholics are the largest Christian group), Druze 4.5%, very small numbers of Jews, Baha'is, Buddhists, and Hindus (2020 est.)
 **note**:  data represent the religious affiliation of the citizen population (data do not include Lebanon's sizable Syrian and Palestinian refugee populations); 18 religious sects recognized
 
 ### 年齡結構
-- `0-14 years`: 18.9% (male 519,352/female 495,591)
-- `15-64 years`: 71.6% (male 1,939,311/female 1,900,574)
-- `65 years and over`: 9.5% (2024 est.) (male 219,880/female 289,774)
+- `0-14歲`: 18.9% (male 519,352/female 495,591)
+- `15-64歲`: 71.6% (male 1,939,311/female 1,900,574)
+- `65歲及以上`: 9.5% (2024 est.) (male 219,880/female 289,774)
 
 ### 撫養比率
-- `total dependency ratio`: 59.3
-- `youth dependency ratio`: 44
-- `elderly dependency ratio`: 15.3
-- `potential support ratio`: 6.5 (2021 est.)
+- `總受扶養人比率`: 59.3
+- `少年撫養比率`: 44
+- `老人撫養比率`: 15.3
+- `潛在支持率`: 6.5 (2021 est.)
 
 ### 年齡中位數
-- `total`: 36.3 years (2024 est.)
-- `male`: 35.6 years
-- `female`: 36.9 years
+- `總計`: 36.3 years (2024 est.)
+- `男性`: 35.6 years
+- `女性`: 36.9 years
 
 ### 人口成長率
 0.61% (2024 est.)
@@ -125,31 +125,31 @@ Muslim 67.8% (31.9% Sunni, 31.2% Shia, smaller percentages of Alawites and Ismai
 the majority of the people live on or near the Mediterranean coast, and of these most live in and around the capital, Beirut; favorable growing conditions in the Bekaa Valley, on the southeastern side of the Lebanon Mountains, have attracted farmers and thus the area exhibits a smaller population density
 
 ### 都市化
-- `urban population`: 89.4% of total population (2023)
-- `rate of urbanization`: -1.23% annual rate of change (2020-25 est.)
+- `城市人口`: 89.4% of total population (2023)
+- `城鎮化率`: -1.23% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 2.421 million BEIRUT (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.05 male(s)/female
-- `15-64 years`: 1.02 male(s)/female
-- `65 years and over`: 0.76 male(s)/female
-- `total population`: 1 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.05 male(s)/female
+- `15-64歲`: 1.02 male(s)/female
+- `65歲及以上`: 0.76 male(s)/female
+- `總人口數`: 1 male(s)/female (2024 est.)
 
 ### 產婦死亡率
 21 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 6.7 deaths/1,000 live births (2024 est.)
-- `male`: 7.3 deaths/1,000 live births
-- `female`: 6.2 deaths/1,000 live births
+- `總計`: 6.7 deaths/1,000 live births (2024 est.)
+- `男性`: 7.3 deaths/1,000 live births
+- `女性`: 6.2 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 79.2 years (2024 est.)
-- `male`: 77.8 years
-- `female`: 80.7 years
+- `總人口數`: 79.2 years (2024 est.)
+- `男性`: 77.8 years
+- `女性`: 80.7 years
 
 ### 總生育率
 1.71 children born/woman (2024 est.)
@@ -161,12 +161,12 @@ the majority of the people live on or near the Mediterranean coast, and of these
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: NA
-- `improved: rural`: rural: NA
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: NA
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: NA
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: NA
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 當前醫療支出
 8% of GDP (2020)
@@ -178,27 +178,27 @@ NA
 2.7 beds/1,000 population (2017)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: NA
-- `improved: rural`: rural: NA
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: NA
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: NA
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: NA
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 肥胖—成人流行率
 32% (2016)
 
 ### 人均酒精消費量
-- `total`: 1.14 liters of pure alcohol (2019 est.)
-- `beer`: 0.38 liters of pure alcohol (2019 est.)
-- `wine`: 0.21 liters of pure alcohol (2019 est.)
-- `spirits`: 0.53 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.02 liters of pure alcohol (2019 est.)
+- `總計`: 1.14 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.38 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.21 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.53 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.02 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 38.2% (2020 est.)
-- `male`: 47.5% (2020 est.)
-- `female`: 28.9% (2020 est.)
+- `總計`: 38.2% (2020 est.)
+- `男性`: 47.5% (2020 est.)
+- `女性`: 28.9% (2020 est.)
 
 ### 5歲以下體重不足兒童
 3.4% (2021) NA
@@ -207,22 +207,22 @@ NA
 51.4% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 1.4%
-- `women married by age 18`: 6% (2016 est.)
+- `15歲前結婚的女性`: 1.4%
+- `18歲前結婚的女性`: 6% (2016 est.)
 
 ### 教育支出
 1.7% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 95.1%
-- `male`: 96.9%
-- `female`: 93.3% (2018)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 95.1%
+- `男性`: 96.9%
+- `女性`: 93.3% (2018)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 11 years
-- `male`: 12 years
-- `female`: 11 years (2014)
+- `總計`: 11 years
+- `男性`: 12 years
+- `女性`: 11 years (2014)
 
 ## 環境
 
@@ -230,26 +230,26 @@ NA
 deforestation; soil deterioration, erosion; desertification; species loss; air pollution in Beirut from vehicular traffic and the burning of industrial wastes; pollution of coastal waters from raw sewage and oil spills; waste-water management
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands
-- `signed, but not ratified`: Environmental Modification, Marine Life Conservation
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands
+- `已簽署但未批準`: Environmental Modification, Marine Life Conservation
 
 ### 氣候
 Mediterranean; mild to cool, wet winters with hot, dry summers; the Lebanon Mountains experience heavy winter snows
 
 ### 土地利用
-- `agricultural land`: 63.3% (2018 est.)
-- `agricultural land: arable land`: arable land: 11.9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 12.3% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 39.1% (2018 est.)
-- `forest`: 13.4% (2018 est.)
-- `other`: 23.3% (2018 est.)
+- `農地`: 63.3% (2018 est.)
+- `農地：耕地`: arable land: 11.9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 12.3% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 39.1% (2018 est.)
+- `森林`: 13.4% (2018 est.)
+- `其它`: 23.3% (2018 est.)
 
 ### 都市化
-- `urban population`: 89.4% of total population (2023)
-- `rate of urbanization`: -1.23% annual rate of change (2020-25 est.)
+- `城市人口`: 89.4% of total population (2023)
+- `城鎮化率`: -1.23% annual rate of change (2020-25 est.)
 
 ### 糧食不安全
-- `widespread lack of access`: *due to the ongoing financial and economic crisis - *according to the latest analysis, about 1.46 million Lebanese residents (38% of the resident population) were subjected to severe food insecurity between January and April 2023 (2023)
+- `普遍缺乏訪問權限`: *due to the ongoing financial and economic crisis - *according to the latest analysis, about 1.46 million Lebanese residents (38% of the resident population) were subjected to severe food insecurity between January and April 2023 (2023)
 
 ### 森林資源收入
 0% of GDP (2018 est.)
@@ -258,19 +258,19 @@ Mediterranean; mild to cool, wet winters with hot, dry summers; the Lebanon Moun
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 24.23 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 24.8 megatons (2016 est.)
-- `methane emissions`: 3.37 megatons (2020 est.)
+- `顆粒物排放量`: 24.23 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 24.8 megatons (2016 est.)
+- `甲烷排放量`: 3.37 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 2.04 million tons (2014 est.)
-- `municipal solid waste recycled annually`: 163,200 tons (2014 est.)
-- `percent of municipal solid waste recycled`: 8% (2014 est.)
+- `城市固體廢棄物－每年產生`: 2.04 million tons (2014 est.)
+- `城市固體廢棄物－每年回收`: 163,200 tons (2014 est.)
+- `城市固體廢棄物－回收百分比`: 8% (2014 est.)
 
 ### 總取水量
-- `municipal`: 240 million cubic meters (2020 est.)
-- `industrial`: 900 million cubic meters (2020 est.)
-- `agricultural`: 700 million cubic meters (2020 est.)
+- `市級`: 240 million cubic meters (2020 est.)
+- `工業`: 900 million cubic meters (2020 est.)
+- `農業`: 700 million cubic meters (2020 est.)
 
 ### 可再生水資源總量
 4.5 billion cubic meters (2020 est.)
@@ -278,22 +278,22 @@ Mediterranean; mild to cool, wet winters with hot, dry summers; the Lebanon Moun
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Lebanese Republic
-- `conventional short form`: Lebanon
-- `local long form`: Al Jumhuriyah al Lubnaniyah
-- `local short form`: Lubnan
-- `former`: Greater Lebanon
-- `etymology`: derives from the Semitic root "lbn" meaning "white" and refers to snow-capped Mount Lebanon
+- `常用長名`: Lebanese Republic
+- `常用短名`: Lebanon
+- `當地語長名`: Al Jumhuriyah al Lubnaniyah
+- `當地語短名`: Lubnan
+- `前任`: Greater Lebanon
+- `语源学`: derives from the Semitic root "lbn" meaning "white" and refers to snow-capped Mount Lebanon
 
 ### 政府類型
 parliamentary democratic republic
 
 ### 首都
-- `name`: Beirut
-- `geographic coordinates`: 33 52 N, 35 30 E
-- `time difference`: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
-- `daylight saving time`: +1hr, begins last Sunday in March; ends last Sunday in October
-- `etymology`: derived from the Canaanite or Phoenician word "ber'ot," meaning "the wells" or "fountain," which referred to the site's accessible water table
+- `名稱`: Beirut
+- `地理坐標`: 33 52 N, 35 30 E
+- `時差`: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
+- `日光節約時間`: +1hr, begins last Sunday in March; ends last Sunday in October
+- `语源学`: derived from the Canaanite or Phoenician word "ber'ot," meaning "the wells" or "fountain," which referred to the site's accessible water table
 
 ### 行政區劃
 8 governorates (mohafazat, singular - mohafazah); Aakkar, Baalbek-Hermel, Beqaa (Bekaa), Beyrouth (Beirut), Liban-Nord (North Lebanon), Liban-Sud (South Lebanon), Mont-Liban (Mount Lebanon), Nabatiye
@@ -308,38 +308,38 @@ Independence Day, 22 November (1943)
 mixed legal system of civil law based on the French civil code, Ottoman legal tradition, and religious laws covering personal status, marriage, divorce, and other family relations of the Jewish, Islamic, and Christian communities
 
 ### 憲法
-- `history`: drafted 15 May 1926, adopted 23 May 1926
-- `amendments`: proposed by the president of the republic and introduced as a government bill to the National Assembly or proposed by at least 10 members of the Assembly and agreed upon by two thirds of its members; if proposed by the National Assembly, review and approval by two-thirds majority of the Cabinet is required; if approved, the proposal is next submitted to the Cabinet for drafting as an amendment; Cabinet approval requires at least two-thirds majority, followed by submission to the National Assembly for discussion and vote; passage requires at least two-thirds majority vote of a required two-thirds quorum of the Assembly membership and promulgation by the president; amended several times, last in 2004
+- `歷史`: drafted 15 May 1926, adopted 23 May 1926
+- `修正`: proposed by the president of the republic and introduced as a government bill to the National Assembly or proposed by at least 10 members of the Assembly and agreed upon by two thirds of its members; if proposed by the National Assembly, review and approval by two-thirds majority of the Cabinet is required; if approved, the proposal is next submitted to the Cabinet for drafting as an amendment; Cabinet approval requires at least two-thirds majority, followed by submission to the National Assembly for discussion and vote; passage requires at least two-thirds majority vote of a required two-thirds quorum of the Assembly membership and promulgation by the president; amended several times, last in 2004
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: the father must be a citizen of Lebanon
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: unknown
+- `出生公民權`: no
+- `血統公民身份`: the father must be a citizen of Lebanon
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: unknown
 
 ### 選舉權
 21 years of age; authorized for all men and women regardless of religion; excludes persons convicted of felonies and other crimes or those imprisoned; excludes all military and security service personnel regardless of rank
 
 ### 行政部門
-- `chief of state`: president (vacant)
-- `head of government`: Caretaker Prime Minister Najib MIQATI (since 20 September 2021)
-- `cabinet`: Cabinet chosen by the prime minister in consultation with the president and Parliament
-- `elections/appointments`: president indirectly elected by a qualified majority of two-thirds of Parliament members in the first round and if needed a two-thirds quorum of members by simple majority vote in a second round for a 6-year term (eligible for non-consecutive terms); last held on 31 October 2016; prime minister appointed by the president in consultation with Parliament
-- `election results`: *2023:* on 14 June 2023, Parliament failed in its twelfth attempt to elect a president; note - the Hezbollah bloc withdrew following the first round of voting and a second round was not possible since Parliament lacked the required 86-member quorum for a second round of voting*2016:* Michel AWN elected president in second round; Parliament vote - Michel AWN (FPM) 83; the president was finally elected in its 46th attempt on 31 October 2016
+- `國家元首`: president (vacant)
+- `政府首腦`: Caretaker Prime Minister Najib MIQATI (since 20 September 2021)
+- `内閣`: Cabinet chosen by the prime minister in consultation with the president and Parliament
+- `選舉/任命`: president indirectly elected by a qualified majority of two-thirds of Parliament members in the first round and if needed a two-thirds quorum of members by simple majority vote in a second round for a 6-year term (eligible for non-consecutive terms); last held on 31 October 2016; prime minister appointed by the president in consultation with Parliament
+- `選舉結果`: *2023:* on 14 June 2023, Parliament failed in its twelfth attempt to elect a president; note - the Hezbollah bloc withdrew following the first round of voting and a second round was not possible since Parliament lacked the required 86-member quorum for a second round of voting*2016:* Michel AWN elected president in second round; Parliament vote - Michel AWN (FPM) 83; the president was finally elected in its 46th attempt on 31 October 2016
 
 ### 立法部門
-- `description`: unicameral House of Representatives or Majlis al-Nuwab in Arabic, Chambre des députés in French (128 seats; members directly elected in multi-member constituencies by open-list proportional representation vote; members serve 4-year terms)
-- `elections`: last held on 15 May 2022 (next to be held in May 2026)
-- `election results`: percent of vote by party/coalition – NA; seats by party/coalition – FPM 16, LF 14, Amal Movement 13, Hezbollah 13, PSP 9, Kata’ib Party 4, other 30, independent 29; composition - men 120, women 8, percentage women 6.3%
+- `描述`: unicameral House of Representatives or Majlis al-Nuwab in Arabic, Chambre des députés in French (128 seats; members directly elected in multi-member constituencies by open-list proportional representation vote; members serve 4-year terms)
+- `選舉`: last held on 15 May 2022 (next to be held in May 2026)
+- `選舉結果`: percent of vote by party/coalition – NA; seats by party/coalition – FPM 16, LF 14, Amal Movement 13, Hezbollah 13, PSP 9, Kata’ib Party 4, other 30, independent 29; composition - men 120, women 8, percentage women 6.3%
 **note 1**:  Lebanon’s constitution states that the Parliament cannot conduct regular business until it elects a president when the position is vacant **note 2**:  seats are apportioned evenly between Christians and Muslims
 
 ### 司法部門
-- `highest court(s)`: Court of Cassation or Supreme Court (organized into 8 chambers, each with a presiding judge and 2 associate judges); Constitutional Council (consists of 10 members)
-- `judge selection and term of office`: Court of Cassation judges appointed by Supreme Judicial Council, a 10-member body headed by the chief justice, and includes other judicial officials; judge tenure NA; Constitutional Council members appointed - 5 by the Council of Ministers and 5 by parliament; members serve 5-year terms
-- `subordinate courts`: Courts of Appeal; Courts of First Instance; specialized tribunals, religious courts; military courts
+- `最高法院`: Court of Cassation or Supreme Court (organized into 8 chambers, each with a presiding judge and 2 associate judges); Constitutional Council (consists of 10 members)
+- `法官遴選和任期`: Court of Cassation judges appointed by Supreme Judicial Council, a 10-member body headed by the chief justice, and includes other judicial officials; judge tenure NA; Constitutional Council members appointed - 5 by the Council of Ministers and 5 by parliament; members serve 5-year terms
+- `下級法院`: Courts of Appeal; Courts of First Instance; specialized tribunals, religious courts; military courts
 
 ### 政黨
 Al-Ahbash (Association of Islamic Charitable Projects) or AICPAmal Movement ("Hope Movement")Azm MovementBa’th Arab Socialist Party of LebanonFree Patriotic Movement or FPMFuture Movement Bloc or FM (resigned from politics in January 2022)HizballahIslamic Action Front or IAFKata'ib PartyLebanese Democratic PartyLebanese Forces or LFMarada MovementProgressive Socialist Party or PSPSocial Democrat Hunshaqian PartySyrian Social Nationalist Party or SSNPTashnaq or Armenian Revolutionary Federation
@@ -348,20 +348,20 @@ Al-Ahbash (Association of Islamic Charitable Projects) or AICPAmal Movement ("Ho
 ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAS (observer), OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador (vacant); Chargé d'Affaires Waël HACHEM, Counselor (since 15 March 2021)
-- `chancery`: 2560 28th Street NW, Washington, DC 20008
-- `telephone`: [1] (202) 939-6300
+- `外交代表負責人`: Ambassador (vacant); Chargé d'Affaires Waël HACHEM, Counselor (since 15 March 2021)
+- `衡平法院（在美國）`: 2560 28th Street NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 939-6300
 - `FAX`: [1] (202) 939-6324
-- `email address and website`: info@lebanonembassyus.org  http://www.lebanonembassyus.org/
-- `consulate(s) general`: Detroit, New York, Los Angeles
+- `電子郵件地址和網站`: info@lebanonembassyus.org  http://www.lebanonembassyus.org/
+- `總領事館`: Detroit, New York, Los Angeles
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador-designate Lisa A. JOHNSON (since 11 January 2024)
-- `embassy`: Awkar facing the MunicipalityP.O. Box 70-840 Antelias, Beirut
-- `mailing address`: 6070 Beirut Place, Washington DC  20521-6070
-- `telephone`: [961] (04) 543-600
+- `外交代表負責人`: Ambassador-designate Lisa A. JOHNSON (since 11 January 2024)
+- `大使館`: Awkar facing the MunicipalityP.O. Box 70-840 Antelias, Beirut
+- `郵寄地址`: 6070 Beirut Place, Washington DC  20521-6070
+- `電話號碼`: [961] (04) 543-600
 - `FAX`: [961] (4) 544-019
-- `email address and website`: BeirutACS@state.gov  https://lb.usembassy.gov/
+- `電子郵件地址和網站`: BeirutACS@state.gov  https://lb.usembassy.gov/
 
 ### 旗幟說明
 three horizontal bands consisting of red (top), white (middle, double width), and red (bottom) with a green cedar tree centered in the white band; the red bands symbolize blood shed for liberation, the white band denotes peace, the snow of the mountains, and purity; the green cedar tree is the symbol of Lebanon and represents eternity, steadiness, happiness, and prosperity
@@ -370,8 +370,8 @@ three horizontal bands consisting of red (top), white (middle, double width), an
 cedar tree; national colors: red, white, green
 
 ### 國歌
-- `name`: "Kulluna lil-watan" (All Of Us, For Our Country!)
-- `lyrics/music`: Rachid NAKHLE/Wadih SABRA
+- `名稱`: "Kulluna lil-watan" (All Of Us, For Our Country!)
+- `歌詞／音樂`: Rachid NAKHLE/Wadih SABRA
 **note**:  adopted 1927; chosen following a nationwide competition
 
 ### 國家級遺產
@@ -418,17 +418,17 @@ $17.937 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 1.1% (2023 est.)
-- `industry`: 2.4% (2023 est.)
-- `services`: 47.7% (2023 est.)
+- `農業`: 1.1% (2023 est.)
+- `產業`: 2.4% (2023 est.)
+- `服務`: 47.7% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 129.7% (2023 est.)
-- `government consumption`: 5.8% (2023 est.)
-- `investment in fixed capital`: 0.9% (2023 est.)
-- `exports of goods and services`: 46.1% (2023 est.)
-- `imports of goods and services`: -82.4% (2023 est.)
+- `家庭消費`: 129.7% (2023 est.)
+- `政府消費`: 5.8% (2023 est.)
+- `固定資本投資`: 0.9% (2023 est.)
+- `商品和服務出口`: 46.1% (2023 est.)
+- `商品和服務進口`: -82.4% (2023 est.)
 **note**:  figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -453,14 +453,14 @@ banking, tourism, real estate and construction, food processing, wine, jewelry, 
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 23.7% (2023 est.)
-- `male`: 24.6% (2023 est.)
-- `female`: 22% (2023 est.)
+- `總計`: 23.7% (2023 est.)
+- `男性`: 24.6% (2023 est.)
+- `女性`: 22% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 平均家庭支出
-- `on food`: 20.7% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 1.1% of household expenditures (2022 est.)
+- `餐食`: 20.7% of household expenditures (2022 est.)
+- `酒精和煙草`: 1.1% of household expenditures (2022 est.)
 
 ### 匯款
 35.51% of GDP (2023 est.)
@@ -469,8 +469,8 @@ banking, tourism, real estate and construction, food processing, wine, jewelry, 
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $12.73 billion (2021 est.)
-- `expenditures`: $11.356 billion (2021 est.)
+- `收入`: $12.73 billion (2021 est.)
+- `支出`: $11.356 billion (2021 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -536,33 +536,33 @@ $38.856 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 4.141 million kW (2022 est.)
-- `consumption`: 9.166 billion kWh (2022 est.)
-- `imports`: 448.671 million kWh (2022 est.)
-- `transmission/distribution losses`: 1.328 billion kWh (2022 est.)
+- `裝機容量`: 4.141 million kW (2022 est.)
+- `消費`: 9.166 billion kWh (2022 est.)
+- `進口`: 448.671 million kWh (2022 est.)
+- `傳輸／分配損耗`: 1.328 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 90.6% of total installed capacity (2022 est.)
-- `solar`: 3% of total installed capacity (2022 est.)
-- `wind`: 0.1% of total installed capacity (2022 est.)
-- `hydroelectricity`: 6% of total installed capacity (2022 est.)
-- `biomass and waste`: 0.3% of total installed capacity (2022 est.)
+- `石化燃料`: 90.6% of total installed capacity (2022 est.)
+- `太陽能`: 3% of total installed capacity (2022 est.)
+- `風能`: 0.1% of total installed capacity (2022 est.)
+- `水力發電`: 6% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 0.3% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `consumption`: 207,000 metric tons (2022 est.)
-- `exports`: 47.1 metric tons (2022 est.)
-- `imports`: 197,000 metric tons (2022 est.)
+- `消費`: 207,000 metric tons (2022 est.)
+- `出口`: 47.1 metric tons (2022 est.)
+- `進口`: 197,000 metric tons (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 174,000 bbl/day (2022 est.)
+- `成品油消費量`: 174,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 26.594 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 456,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 26.137 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 26.594 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 456,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 26.137 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 67.466 million Btu/person (2022 est.)
@@ -570,17 +570,17 @@ $38.856 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 875,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 16 (2021 est.)
+- `總訂閱數`: 875,000 (2021 est.)
+- `每100名居民訂閱數`: 16 (2021 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 4.288 million (2021 est.)
-- `subscriptions per 100 inhabitants`: 77 (2021 est.)
+- `總訂閱數`: 4.288 million (2021 est.)
+- `每100名居民訂閱數`: 77 (2021 est.)
 
 ### 電信系統
-- `general assessment`: Lebanon’s economic crisis has had a dire effect on the country’s telecom services; although some progress has been made with developing 5G, the poor economic conditions have contributed to an erratic electricity supply and a lack of fuel to maintain generators; this has meant that internet services to areas of the country are not available on a regular basis, frustrating all those who depend on stable connectivity, and stalling business growth; adding to the difficulties is the political crisis; the cabinet went into caretaker status after the National Assembly election in May 2022 meaning it can only engage in routine decision making; there is little confidence on the ground that sectarian-based political horse-trading will give way to responsible governing to improve the lot of the stressed populace (2023)
-- `domestic`: fixed-line is 16 per 100 and 77 per 100 for mobile-cellular subscriptions (2021)
-- `international`: country code - 961; landing points for the IMEWE, BERYTAR AND CADMOS submarine cable links to Europe, Africa, the Middle East and Asia; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Atlantic Ocean) (2019)
+- `總體評估`: Lebanon’s economic crisis has had a dire effect on the country’s telecom services; although some progress has been made with developing 5G, the poor economic conditions have contributed to an erratic electricity supply and a lack of fuel to maintain generators; this has meant that internet services to areas of the country are not available on a regular basis, frustrating all those who depend on stable connectivity, and stalling business growth; adding to the difficulties is the political crisis; the cabinet went into caretaker status after the National Assembly election in May 2022 meaning it can only engage in routine decision making; there is little confidence on the ground that sectarian-based political horse-trading will give way to responsible governing to improve the lot of the stressed populace (2023)
+- `國內`: fixed-line is 16 per 100 and 77 per 100 for mobile-cellular subscriptions (2021)
+- `國際的`: country code - 961; landing points for the IMEWE, BERYTAR AND CADMOS submarine cable links to Europe, Africa, the Middle East and Asia; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Atlantic Ocean) (2019)
 
 ### 廣播媒體
 7 TV stations, 1 of which is state owned; more than 30 radio stations, 1 of which is state owned; satellite and cable TV services available; transmissions of at least 2 international broadcasters are accessible through partner stations (2019)
@@ -589,20 +589,20 @@ $38.856 billion (2022 est.)
 .lb
 
 ### 網際網路使用者
-- `total`: 4.872 million (2021 est.)
-- `percent of population`: 87% (2021 est.)
+- `總計`: 4.872 million (2021 est.)
+- `佔人口比例`: 87% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 432,070 (2020 est.)
-- `subscriptions per 100 inhabitants`: 6 (2020 est.)
+- `總計`: 432,070 (2020 est.)
+- `每100名居民訂閱數`: 6 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 1 (2020)
-- `inventory of registered aircraft operated by air carriers`: 21
-- `annual passenger traffic on registered air carriers`: 2,981,937 (2018)
-- `annual freight traffic on registered air carriers`: 56.57 million (2018) mt-km
+- `註冊航空公司數量`: 1 (2020)
+- `註冊飛機庫存—航空承運商經營`: 21
+- `年度客運量－註冊航空公司`: 2,981,937 (2018)
+- `年度貨運量－註冊航空公司`: 56.57 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 OD
@@ -617,26 +617,26 @@ OD
 88 km gas (2013)
 
 ### 鐵路
-- `total`: 401 km (2017)
-- `standard gauge`: 319 km (2017) 1.435-m gauge
-- `narrow gauge`: 82 km (2017) 1.050-m gauge
+- `總計`: 401 km (2017)
+- `標準鐵軌`: 319 km (2017) 1.435-m gauge
+- `窄軌`: 82 km (2017) 1.050-m gauge
 **note**:  rail system is still unusable due to damage sustained from fighting in the 1980s and in 2006
 
 ### 道路
-- `total`: 21,705 km (2017)
+- `總計`: 21,705 km (2017)
 
 ### 商船
-- `total`: 51 (2023)
-- `by type`: bulk carrier 2, container ship 1, general cargo 30, oil tanker 1, other 17
+- `總計`: 51 (2023)
+- `依類型`: bulk carrier 2, container ship 1, general cargo 30, oil tanker 1, other 17
 
 ### 港口
-- `total ports`: 5 (2024)
-- `large`: 1
-- `medium`: 1
-- `small`: 0
-- `very small`: 3
-- `ports with oil terminals`: 3
-- `key ports`: Bayrut, Sayda, Selaata, Sidon/zahrani Terminal, Tarabulus
+- `總港口數`: 5 (2024)
+- `大`: 1
+- `中`: 1
+- `小`: 0
+- `非常小`: 3
+- `原油碼頭港口`: 3
+- `主要港口`: Bayrut, Sayda, Selaata, Sidon/zahrani Terminal, Tarabulus
 
 ## 軍事和安全
 
@@ -673,12 +673,12 @@ Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; Asbat al-Ansar; HAMAS; Hizball
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 487,000 (Palestinian refugees) (2022); 784,884 (Syria) (2023)
+- `難民（原籍國）`: 487,000 (Palestinian refugees) (2022); 784,884 (Syria) (2023)
 - `IDPs`: 7,000 (2020)
-- `stateless persons`: undetermined (2016); note - tens of thousands of persons are stateless in Lebanon, including many Palestinian refugees and their descendants, Syrian Kurds denaturalized in Syria in 1962, children born to Lebanese women married to foreign or stateless men; most babies born to Syrian refugees, and Lebanese children whose births are unregistered
+- `無國籍人士`: undetermined (2016); note - tens of thousands of persons are stateless in Lebanon, including many Palestinian refugees and their descendants, Syrian Kurds denaturalized in Syria in 1962, children born to Lebanese women married to foreign or stateless men; most babies born to Syrian refugees, and Lebanese children whose births are unregistered
 
 ### 人口販運
-- `tier rating`: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared to the previous reporting period, therefore Lebanon remained on Tier 2 Watch List for a second consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/lebanon/
+- `會級評分`: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared to the previous reporting period, therefore Lebanon remained on Tier 2 Watch List for a second consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/lebanon/
 
 ### 非法藥物
 source country for amphetamine tablets destined for Saudi Arabia, Qatar, United Arab Emirates, Libya and Sudan; source for captagon

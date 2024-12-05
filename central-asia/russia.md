@@ -19,25 +19,25 @@ North Asia bordering the Arctic Ocean, extending from Eastern Europe (the portio
 Asia
 
 ### 面積
-- `total `: 17,098,242 sq km
-- `land`: 16,377,742 sq km
-- `water`: 720,500 sq km
+- `總計`: 17,098,242 sq km
+- `土地`: 16,377,742 sq km
+- `水`: 720,500 sq km
 
 ### 面積—比較
 approximately 1.8 times the size of the US
 
 ### 陸地邊界
-- `total`: 22,407 km
-- `border countries`: Azerbaijan 338 km; Belarus 1,312 km; China (southeast) 4,133 km and China (south) 46 km; Estonia 324 km; Finland 1,309 km; Georgia 894 km; Kazakhstan 7,644 km; North Korea 18 km; Latvia 332 km; Lithuania (Kaliningrad Oblast) 261 km; Mongolia 3,452 km; Norway 191 km; Poland (Kaliningrad Oblast) 209 km; Ukraine 1,944 km
+- `總計`: 22,407 km
+- `邊境國家`: Azerbaijan 338 km; Belarus 1,312 km; China (southeast) 4,133 km and China (south) 46 km; Estonia 324 km; Finland 1,309 km; Georgia 894 km; Kazakhstan 7,644 km; North Korea 18 km; Latvia 332 km; Lithuania (Kaliningrad Oblast) 261 km; Mongolia 3,452 km; Norway 191 km; Poland (Kaliningrad Oblast) 209 km; Ukraine 1,944 km
 
 ### 海岸線
 37,653 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: 200-m depth or to the depth of exploitation
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: 200-m depth or to the depth of exploitation
 
 ### 氣候
 ranges from steppes in the south through humid continental in much of European Russia; subarctic in Siberia to tundra climate in the polar north; winters vary from cool along Black Sea coast to frigid in Siberia; summers vary from warm in the steppes to cool along Arctic coast
@@ -46,28 +46,28 @@ ranges from steppes in the south through humid continental in much of European R
 broad plain with low hills west of Urals; vast coniferous forest and tundra in Siberia; uplands and mountains along southern border regions
 
 ### 海拔
-- `highest point`: Gora El'brus (highest point in Europe) 5,642 m
-- `lowest point`: Caspian Sea -28 m
-- `mean elevation`: 600 m
+- `最高點`: Gora El'brus (highest point in Europe) 5,642 m
+- `最低點`: Caspian Sea -28 m
+- `平均海拔`: 600 m
 
 ### 自然資源
 wide natural-resource base including major deposits of oil, natural gas, coal, and many strategic minerals, bauxite, reserves of rare earth elements, timber
 **note**:  formidable obstacles of climate, terrain, and distance hinder exploitation of natural resources
 
 ### 土地利用
-- `agricultural land`: 13.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 7.3% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.1% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 5.7% (2018 est.)
-- `forest`: 49.4% (2018 est.)
-- `other`: 37.5% (2018 est.)
+- `農地`: 13.1% (2018 est.)
+- `農地：耕地`: arable land: 7.3% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.1% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 5.7% (2018 est.)
+- `森林`: 49.4% (2018 est.)
+- `其它`: 37.5% (2018 est.)
 
 ### 灌溉土地
 43,000 sq km (2012)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lake Baikal - 31,500 sq km; Lake Ladoga - 18,130 sq km; Lake Onega - 9,720 sq km; Lake Khanka (shared with China) - 5,010 sq km; Lake Peipus - 4,300 sq km (shared with Estonia); Ozero Vygozero - 1,250 sq km; Ozero Beloye - 1,120 sq km
-- `salt water lake(s)`: Caspian Sea (shared with Iran, Azerbaijan, Turkmenistan, and Kazakhstan) - 374,000 sq km; Ozero Malyye Chany - 2,500 sq km; Curonian Lagoon (shared with Lithuania) - 1,620 sq kmnote - the Caspian Sea is the World's largest lake
+- `淡水湖`: Lake Baikal - 31,500 sq km; Lake Ladoga - 18,130 sq km; Lake Onega - 9,720 sq km; Lake Khanka (shared with China) - 5,010 sq km; Lake Peipus - 4,300 sq km (shared with Estonia); Ozero Vygozero - 1,250 sq km; Ozero Beloye - 1,120 sq km
+- `鹽水湖`: Caspian Sea (shared with Iran, Azerbaijan, Turkmenistan, and Kazakhstan) - 374,000 sq km; Ozero Malyye Chany - 2,500 sq km; Curonian Lagoon (shared with Lithuania) - 1,620 sq kmnote - the Caspian Sea is the World's largest lake
 
 ### 主要河流（按公里長度）
 Yenisey-Angara - 5,539 km; Ob-Irtysh - 5,410 km;  Amur river mouth (shared with China [s] and Mongolia) - 4,444 km; Lena - 4,400 km; Volga - 3,645 km; Kolyma - 2,513 km; Ural river source (shared with Kazakhstan [m]) - 2,428 km; Dnepr (Dnieper) river source (shared with Belarus and Ukraine [m]) - 2,287 km; Don - 1,870 km; Pechora - 1,809 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -90,13 +90,13 @@ permafrost over much of Siberia is a major impediment to development; volcanic a
 ## 人民和社會
 
 ### 人口
-- `total`: 140,820,810
-- `male`: 65,496,805
-- `female`: 75,324,005 (2024 est.)
+- `總計`: 140,820,810
+- `男性`: 65,496,805
+- `女性`: 75,324,005 (2024 est.)
 
 ### 國籍
-- `noun`: Russian(s)
-- `adjective`: Russian
+- `名詞`: Russian(s)
+- `形容詞`: Russian
 
 ### 族裔群體
 Russian 77.7%, Tatar 3.7%, Ukrainian 1.4%, Bashkir 1.1%, Chuvash 1%, Chechen 1%, other 10.2%, unspecified 3.9% (2010 est.)
@@ -104,7 +104,7 @@ Russian 77.7%, Tatar 3.7%, Ukrainian 1.4%, Bashkir 1.1%, Chuvash 1%, Chechen 1%,
 
 ### 語文
 Russian (official) 85.7%, Tatar 3.2%, Chechen 1%, other 10.1% (2010 est.)
-- `major-language sample(s)`: Книга фактов о мире – незаменимый источник базовой информации. (Russian)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: Книга фактов о мире – незаменимый источник базовой информации. (Russian)  The World Factbook, the indispensable source for basic information.
 **note**:  data represent native language spoken
 
 ### 宗教
@@ -112,20 +112,20 @@ Russian Orthodox 15-20%, Muslim 10-15%, other Christian 2% (2006 est.)
 **note**:  estimates are of practicing worshipers; Russia has large populations of non-practicing believers and non-believers, a legacy of over seven decades of official atheism under Soviet rule; Russia officially recognizes Orthodox Christianity, Islam, Judaism, and Buddhism as the country's traditional religions
 
 ### 年齡結構
-- `0-14 years`: 16.5% (male 11,956,284/female 11,313,829)
-- `15-64 years`: 65.7% (male 45,007,073/female 47,518,221)
-- `65 years and over`: 17.8% (2024 est.) (male 8,533,448/female 16,491,955)
+- `0-14歲`: 16.5% (male 11,956,284/female 11,313,829)
+- `15-64歲`: 65.7% (male 45,007,073/female 47,518,221)
+- `65歲及以上`: 17.8% (2024 est.) (male 8,533,448/female 16,491,955)
 
 ### 撫養比率
-- `total dependency ratio`: 50
-- `youth dependency ratio`: 26.6
-- `elderly dependency ratio`: 23.4
-- `potential support ratio`: 4.3 (2021 est.)
+- `總受扶養人比率`: 50
+- `少年撫養比率`: 26.6
+- `老人撫養比率`: 23.4
+- `潛在支持率`: 4.3 (2021 est.)
 
 ### 年齡中位數
-- `total`: 41.9 years (2024 est.)
-- `male`: 39.4 years
-- `female`: 44.5 years
+- `總計`: 41.9 years (2024 est.)
+- `男性`: 39.4 years
+- `女性`: 44.5 years
 
 ### 人口成長率
 -0.49% (2024 est.)
@@ -143,18 +143,18 @@ Russian Orthodox 15-20%, Muslim 10-15%, other Christian 2% (2006 est.)
 population is heavily concentrated in the westernmost fifth of the country extending from the Baltic Sea, south to the Caspian Sea, and eastward parallel to the Kazakh border; elsewhere, sizeable pockets are isolated and generally found in the south
 
 ### 都市化
-- `urban population`: 75.3% of total population (2023)
-- `rate of urbanization`: 0.11% annual rate of change (2020-25 est.)
+- `城市人口`: 75.3% of total population (2023)
+- `城鎮化率`: 0.11% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 12.680 million MOSCOW (capital), 5.561 million Saint Petersburg, 1.695 million Novosibirsk, 1.528 million Yekaterinburg, 1.292 million Kazan, 1.251 million Nizhniy Novgorod (2023)
 
 ### 性別比例
-- `at birth`: 1.06 male(s)/female
-- `0-14 years`: 1.06 male(s)/female
-- `15-64 years`: 0.95 male(s)/female
-- `65 years and over`: 0.52 male(s)/female
-- `total population`: 0.87 male(s)/female (2024 est.)
+- `出生時`: 1.06 male(s)/female
+- `0-14歲`: 1.06 male(s)/female
+- `15-64歲`: 0.95 male(s)/female
+- `65歲及以上`: 0.52 male(s)/female
+- `總人口數`: 0.87 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 25.2 years (2013 est.)
@@ -163,14 +163,14 @@ population is heavily concentrated in the westernmost fifth of the country exten
 14 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 6.5 deaths/1,000 live births (2024 est.)
-- `male`: 7.2 deaths/1,000 live births
-- `female`: 5.8 deaths/1,000 live births
+- `總計`: 6.5 deaths/1,000 live births (2024 est.)
+- `男性`: 7.2 deaths/1,000 live births
+- `女性`: 5.8 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 72.3 years (2024 est.)
-- `male`: 67.4 years
-- `female`: 77.4 years
+- `總人口數`: 72.3 years (2024 est.)
+- `男性`: 67.4 years
+- `女性`: 77.4 years
 
 ### 總生育率
 1.52 children born/woman (2024 est.)
@@ -183,12 +183,12 @@ population is heavily concentrated in the westernmost fifth of the country exten
 **note**:  percent of women aged 15-44
 
 ### 飲用水來源
-- `improved: urban`: urban: 99.1% of population
-- `improved: rural`: rural: 93.1% of population
-- `improved: total`: total: 97.6% of population
-- `unimproved: urban`: urban: 0.9% of population
-- `unimproved: rural`: rural: 6.9% of population
-- `unimproved: total`: total: 2.4% of population (2020 est.)
+- `已改進－城市`: urban: 99.1% of population
+- `已改進－農村`: rural: 93.1% of population
+- `已改進－總計`: total: 97.6% of population
+- `未改進：都市`: urban: 0.9% of population
+- `未改進：鄉村`: rural: 6.9% of population
+- `未改善：總計`: total: 2.4% of population (2020 est.)
 
 ### 當前醫療支出
 7.6% of GDP (2020)
@@ -200,32 +200,32 @@ population is heavily concentrated in the westernmost fifth of the country exten
 7.1 beds/1,000 population (2018)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 95.2% of population
-- `improved: rural`: rural: 72.3% of population
-- `improved: total`: total: 89.4% of population
-- `unimproved: urban`: urban: 4.8% of population
-- `unimproved: rural`: rural: 27.7% of population
-- `unimproved: total`: total: 10.6% of population (2020 est.)
+- `已改進－城市`: urban: 95.2% of population
+- `已改進－農村`: rural: 72.3% of population
+- `已改進－總計`: total: 89.4% of population
+- `未改進：都市`: urban: 4.8% of population
+- `未改進：鄉村`: rural: 27.7% of population
+- `未改善：總計`: total: 10.6% of population (2020 est.)
 
 ### 主要傳染病
-- `degree of risk`: intermediate (2023)
-- `food or waterborne diseases`: bacterial diarrhea
-- `vectorborne diseases`: Crimean-Congo hemorrhagic fever, tickborne encephalitis
+- `風險程度`: intermediate (2023)
+- `食物或水源性疾病`: bacterial diarrhea
+- `媒介傳播疾病`: Crimean-Congo hemorrhagic fever, tickborne encephalitis
 
 ### 肥胖—成人流行率
 23.1% (2016)
 
 ### 人均酒精消費量
-- `total`: 7.29 liters of pure alcohol (2019 est.)
-- `beer`: 3.04 liters of pure alcohol (2019 est.)
-- `wine`: 0.97 liters of pure alcohol (2019 est.)
-- `spirits`: 3.16 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.12 liters of pure alcohol (2019 est.)
+- `總計`: 7.29 liters of pure alcohol (2019 est.)
+- `啤酒`: 3.04 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.97 liters of pure alcohol (2019 est.)
+- `烈酒`: 3.16 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.12 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 26.8% (2020 est.)
-- `male`: 40.8% (2020 est.)
-- `female`: 12.8% (2020 est.)
+- `總計`: 26.8% (2020 est.)
+- `男性`: 40.8% (2020 est.)
+- `女性`: 12.8% (2020 est.)
 
 ### 5歲以下體重不足兒童
 NA
@@ -234,22 +234,22 @@ NA
 53.1% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 0.3%
-- `women married by age 18`: 6.2% (2017 est.)
+- `15歲前結婚的女性`: 0.3%
+- `18歲前結婚的女性`: 6.2% (2017 est.)
 
 ### 教育支出
 3.7% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 99.7%
-- `male`: 99.7%
-- `female`: 99.7% (2018)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 99.7%
+- `男性`: 99.7%
+- `女性`: 99.7% (2018)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 16 years
-- `male`: 16 years
-- `female`: 16 years (2019)
+- `總計`: 16 years
+- `男性`: 16 years
+- `女性`: 16 years (2019)
 
 ## 環境
 
@@ -257,23 +257,23 @@ NA
 air pollution from heavy industry, emissions of coal-fired electric plants, and transportation in major cities; industrial, municipal, and agricultural pollution of inland waterways and seacoasts; deforestation; soil erosion; soil contamination from improper application of agricultural chemicals; nuclear waste disposal; scattered areas of sometimes intense radioactive contamination; groundwater contamination from toxic waste; urban solid waste management; abandoned stocks of obsolete pesticides
 
 ### 環境—國際協定
-- `party to`: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulphur 85, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling
-- `signed, but not ratified`: Air Pollution-Sulfur 94
+- `是以下議定書的締約國：`: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulphur 85, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling
+- `已簽署但未批準`: Air Pollution-Sulfur 94
 
 ### 氣候
 ranges from steppes in the south through humid continental in much of European Russia; subarctic in Siberia to tundra climate in the polar north; winters vary from cool along Black Sea coast to frigid in Siberia; summers vary from warm in the steppes to cool along Arctic coast
 
 ### 土地利用
-- `agricultural land`: 13.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 7.3% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.1% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 5.7% (2018 est.)
-- `forest`: 49.4% (2018 est.)
-- `other`: 37.5% (2018 est.)
+- `農地`: 13.1% (2018 est.)
+- `農地：耕地`: arable land: 7.3% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.1% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 5.7% (2018 est.)
+- `森林`: 49.4% (2018 est.)
+- `其它`: 37.5% (2018 est.)
 
 ### 都市化
-- `urban population`: 75.3% of total population (2023)
-- `rate of urbanization`: 0.11% annual rate of change (2020-25 est.)
+- `城市人口`: 75.3% of total population (2023)
+- `城鎮化率`: 0.11% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.29% of GDP (2018 est.)
@@ -282,18 +282,18 @@ ranges from steppes in the south through humid continental in much of European R
 0.53% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 8.88 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 1,732.03 megatons (2016 est.)
-- `methane emissions`: 851.52 megatons (2020 est.)
+- `顆粒物排放量`: 8.88 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 1,732.03 megatons (2016 est.)
+- `甲烷排放量`: 851.52 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 60 million tons (2012 est.)
-- `municipal solid waste recycled annually`: 2.7 million tons (2012 est.)
-- `percent of municipal solid waste recycled`: 4.5% (2012 est.)
+- `城市固體廢棄物－每年產生`: 60 million tons (2012 est.)
+- `城市固體廢棄物－每年回收`: 2.7 million tons (2012 est.)
+- `城市固體廢棄物－回收百分比`: 4.5% (2012 est.)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lake Baikal - 31,500 sq km; Lake Ladoga - 18,130 sq km; Lake Onega - 9,720 sq km; Lake Khanka (shared with China) - 5,010 sq km; Lake Peipus - 4,300 sq km (shared with Estonia); Ozero Vygozero - 1,250 sq km; Ozero Beloye - 1,120 sq km
-- `salt water lake(s)`: Caspian Sea (shared with Iran, Azerbaijan, Turkmenistan, and Kazakhstan) - 374,000 sq km; Ozero Malyye Chany - 2,500 sq km; Curonian Lagoon (shared with Lithuania) - 1,620 sq kmnote - the Caspian Sea is the World's largest lake
+- `淡水湖`: Lake Baikal - 31,500 sq km; Lake Ladoga - 18,130 sq km; Lake Onega - 9,720 sq km; Lake Khanka (shared with China) - 5,010 sq km; Lake Peipus - 4,300 sq km (shared with Estonia); Ozero Vygozero - 1,250 sq km; Ozero Beloye - 1,120 sq km
+- `鹽水湖`: Caspian Sea (shared with Iran, Azerbaijan, Turkmenistan, and Kazakhstan) - 374,000 sq km; Ozero Malyye Chany - 2,500 sq km; Curonian Lagoon (shared with Lithuania) - 1,620 sq kmnote - the Caspian Sea is the World's largest lake
 
 ### 主要河流（按公里長度）
 Yenisey-Angara - 5,539 km; Ob-Irtysh - 5,410 km;  Amur river mouth (shared with China [s] and Mongolia) - 4,444 km; Lena - 4,400 km; Volga - 3,645 km; Kolyma - 2,513 km; Ural river source (shared with Kazakhstan [m]) - 2,428 km; Dnepr (Dnieper) river source (shared with Belarus and Ukraine [m]) - 2,287 km; Don - 1,870 km; Pechora - 1,809 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -305,37 +305,37 @@ Arctic Ocean drainage: Kolyma (679,934 sq km), Lena (2,306,743 sq km), Ob (2,972
 Angara-Lena Basin, Pechora Basin, North Caucasus Basin, East European Aquifer System, West Siberian Basin, Tunguss Basin, Yakut Basin
 
 ### 總取水量
-- `municipal`: 17.15 billion cubic meters (2020 est.)
-- `industrial`: 29.03 billion cubic meters (2020 est.)
-- `agricultural`: 18.64 billion cubic meters (2020 est.)
+- `市級`: 17.15 billion cubic meters (2020 est.)
+- `工業`: 29.03 billion cubic meters (2020 est.)
+- `農業`: 18.64 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 4.53 trillion cubic meters (2020 est.)
 
 ### 地質公園
-- `total global geoparks and regional networks`: 1
-- `global geoparks and regional networks`: Yangan-Tau (2023)
+- `全球地質公園和區域網絡總數`: 1
+- `全球地質公園和區域網絡`: Yangan-Tau (2023)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Russian Federation
-- `conventional short form`: Russia
-- `local long form`: Rossiyskaya Federatsiya
-- `local short form`: Rossiya
-- `former`: Russian Empire, Russian Soviet Federative Socialist Republic
-- `etymology`: Russian lands were generally referred to as Muscovy until PETER I officially declared the Russian Empire in 1721; the new name sought to invoke the patrimony of the medieval eastern European Rus state centered on Kyiv in present-day Ukraine; the Rus were a Varangian (eastern Viking) elite that imposed their rule and eventually their name on their Slavic subjects
+- `常用長名`: Russian Federation
+- `常用短名`: Russia
+- `當地語長名`: Rossiyskaya Federatsiya
+- `當地語短名`: Rossiya
+- `前任`: Russian Empire, Russian Soviet Federative Socialist Republic
+- `语源学`: Russian lands were generally referred to as Muscovy until PETER I officially declared the Russian Empire in 1721; the new name sought to invoke the patrimony of the medieval eastern European Rus state centered on Kyiv in present-day Ukraine; the Rus were a Varangian (eastern Viking) elite that imposed their rule and eventually their name on their Slavic subjects
 
 ### 政府類型
 semi-presidential federation
 
 ### 首都
-- `name`: Moscow
-- `geographic coordinates`: 55 45 N, 37 36 E
-- `time difference`: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
-- `daylight saving time`: does not observe daylight savings time (DST)
-- `time zone note`: Russia has 11 time zones, the largest number of contiguous time zones of any country in the world; in 2014, two time zones were added and DST dropped
-- `etymology`: named after the Moskva River; the origin of the river's name is obscure but may derive from the appellation "Mustajoki" given to the river by the Finno-Ugric people who originally inhabited the area and whose meaning may have been "dark" or "turbid"
+- `名稱`: Moscow
+- `地理坐標`: 55 45 N, 37 36 E
+- `時差`: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
+- `日光節約時間`: does not observe daylight savings time (DST)
+- `時區備註`: Russia has 11 time zones, the largest number of contiguous time zones of any country in the world; in 2014, two time zones were added and DST dropped
+- `语源学`: named after the Moskva River; the origin of the river's name is obscure but may derive from the appellation "Mustajoki" given to the river by the Finno-Ugric people who originally inhabited the area and whose meaning may have been "dark" or "turbid"
 
 ### 行政區劃
 46 provinces (oblasti, singular - oblast), 21 republics (respubliki, singular - respublika), 4 autonomous okrugs (avtonomnyye okrugi, singular - avtonomnyy okrug), 9 krays (kraya, singular - kray), 2 federal cities (goroda, singular - gorod), and 1 autonomous oblast (avtonomnaya oblast') **oblasts**:  Amur (Blagoveshchensk), Arkhangelsk, Astrakhan, Belgorod, Bryansk, Chelyabinsk, Irkutsk, Ivanovo, Kaliningrad, Kaluga, Kemerovo, Kirov, Kostroma, Kurgan, Kursk, Leningrad (Gatchina), Lipetsk, Magadan, Moscow, Murmansk, Nizhniy Novgorod, Novgorod, Novosibirsk, Omsk, Orenburg, Orel, Penza, Pskov, Rostov, Ryazan, Sakhalin (Yuzhno-Sakhalinsk), Samara, Saratov, Smolensk, Sverdlovsk (Yekaterinburg), Tambov, Tomsk, Tula, Tver, Tyumen, Ulyanovsk, Vladimir, Volgograd, Vologda, Voronezh, Yaroslavl **republics**:  Adygeya (Maykop), Altay (Gorno-Altaysk), Bashkortostan (Ufa), Buryatiya (Ulan-Ude), Chechnya (Groznyy), Chuvashiya (Cheboksary), Dagestan (Makhachkala), Ingushetiya (Magas), Kabardino-Balkariya (Nal'chik), Kalmykiya (Elista), Karachayevo-Cherkesiya (Cherkessk), Kareliya (Petrozavodsk), Khakasiya (Abakan), Komi (Syktyvkar), Mariy-El (Yoshkar-Ola), Mordoviya (Saransk), North Ossetia (Vladikavkaz), Sakha [Yakutiya] (Yakutsk), Tatarstan (Kazan), Tyva (Kyzyl), Udmurtiya (Izhevsk) **autonomous okrugs**:  Chukotka (Anadyr'), Khanty-Mansi-Yugra (Khanty-Mansiysk), Nenets (Nar'yan-Mar), Yamalo-Nenets (Salekhard) **krays**:  Altay (Barnaul), Kamchatka (Petropavlovsk-Kamchatskiy), Khabarovsk, Krasnodar, Krasnoyarsk, Perm, Primorskiy [Maritime] (Vladivostok), Stavropol, Zabaykalsk [Transbaikal] (Chita) **federal cities**:  Moscow [Moskva], Saint Petersburg [Sankt-Peterburg] **autonomous oblast**:  Yevreyskaya [Jewish] (Birobidzhan)
@@ -351,39 +351,39 @@ Russia Day, 12 June (1990); note - commemorates the adoption of the Declaration 
 civil law system; judicial review of legislative acts
 
 ### 憲法
-- `history`: several previous (during Russian Empire and Soviet era); latest drafted 12 July 1993, adopted by referendum 12 December 1993, effective 25 December 1993
-- `amendments`: proposed by the president of the Russian Federation, by either house of the Federal Assembly, by the government of the Russian Federation, or by legislative (representative) bodies of the Federation's constituent entities; proposals to amend the government’s constitutional system, human and civil rights and freedoms, and procedures for amending or drafting a new constitution require formation of a Constitutional Assembly; passage of such amendments requires two-thirds majority vote of its total membership; passage in a referendum requires participation of an absolute majority of eligible voters and an absolute majority of valid votes; approval of proposed amendments to the government structure, authorities, and procedures requires approval by the legislative bodies of at least two thirds of the Russian Federation's constituent entities; amended several times, last in 2020 (major revisions)
+- `歷史`: several previous (during Russian Empire and Soviet era); latest drafted 12 July 1993, adopted by referendum 12 December 1993, effective 25 December 1993
+- `修正`: proposed by the president of the Russian Federation, by either house of the Federal Assembly, by the government of the Russian Federation, or by legislative (representative) bodies of the Federation's constituent entities; proposals to amend the government’s constitutional system, human and civil rights and freedoms, and procedures for amending or drafting a new constitution require formation of a Constitutional Assembly; passage of such amendments requires two-thirds majority vote of its total membership; passage in a referendum requires participation of an absolute majority of eligible voters and an absolute majority of valid votes; approval of proposed amendments to the government structure, authorities, and procedures requires approval by the legislative bodies of at least two thirds of the Russian Federation's constituent entities; amended several times, last in 2020 (major revisions)
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Russia
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: 3-5 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Russia
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: 3-5 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Vladimir Vladimirovich PUTIN (since 7 May 2012)
-- `head of government`: Premier Mikhail Vladimirovich MISHUSTIN (since 16 January 2020)
-- `cabinet`: the government is composed of the premier, his deputies, and ministers, all appointed by the president; the premier is also confirmed by the Duma
-- `elections/appointments`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (2020 constitutional amendments allow a second consecutive term); election last held on 15 to 17 March 2024 (next to be held 2030)
-- `election results`: *2024*: Vladimir PUTIN reelected president; percent of vote - Vladimir PUTIN (independent) 88.5%, Nikolay KHARITONOV (Communist Party) 4.4%, Vladislav DAVANKOV (New People party) 3.9%, Leonid SLUTSKY (Liberal Democrats) 3.2%  *2018: V*ladimir PUTIN reelected president; percent of vote - Vladimir PUTIN (independent) 77.5%, Pavel GRUDININ (CPRF) 11.9%, Vladimir ZHIRINOVSKIY (LDPR) 5.7%, other 4.9%; Mikhail MISHUSTIN (independent) approved as premier by Duma; vote - 383 to 0*  *2012: **Vladimir PUTIN elected president; percent of vote - Vladimir PUTIN (United Russia) 63.6%, Gennadiy ZYUGANOV (CPRF) 17.2%, Mikhail PROKHOROV (CP) 8%, Vladimir ZHIRINOVSKIY (LDPR) 6.2%, Sergey MIRONOV (A Just Russia) 3.9%, other 1.1%; Dmitriy MEDVEDEV (United Russia) approved as premier by Duma; vote - 299 to 144
+- `國家元首`: President Vladimir Vladimirovich PUTIN (since 7 May 2012)
+- `政府首腦`: Premier Mikhail Vladimirovich MISHUSTIN (since 16 January 2020)
+- `内閣`: the government is composed of the premier, his deputies, and ministers, all appointed by the president; the premier is also confirmed by the Duma
+- `選舉/任命`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (2020 constitutional amendments allow a second consecutive term); election last held on 15 to 17 March 2024 (next to be held 2030)
+- `選舉結果`: *2024*: Vladimir PUTIN reelected president; percent of vote - Vladimir PUTIN (independent) 88.5%, Nikolay KHARITONOV (Communist Party) 4.4%, Vladislav DAVANKOV (New People party) 3.9%, Leonid SLUTSKY (Liberal Democrats) 3.2%  *2018: V*ladimir PUTIN reelected president; percent of vote - Vladimir PUTIN (independent) 77.5%, Pavel GRUDININ (CPRF) 11.9%, Vladimir ZHIRINOVSKIY (LDPR) 5.7%, other 4.9%; Mikhail MISHUSTIN (independent) approved as premier by Duma; vote - 383 to 0*  *2012: **Vladimir PUTIN elected president; percent of vote - Vladimir PUTIN (United Russia) 63.6%, Gennadiy ZYUGANOV (CPRF) 17.2%, Mikhail PROKHOROV (CP) 8%, Vladimir ZHIRINOVSKIY (LDPR) 6.2%, Sergey MIRONOV (A Just Russia) 3.9%, other 1.1%; Dmitriy MEDVEDEV (United Russia) approved as premier by Duma; vote - 299 to 144
 **note**:  there is also a Presidential Administration that provides staff and policy support to the president, drafts presidential decrees, and coordinates policy among government agencies; a Security Council also reports directly to the president
 
 ### 立法部門
-- `description`: bicameral Federal Assembly or Federalnoye Sobraniye consists of:Federation Council or Sovet Federatsii (170 seats statutory, 169 as of April 2023; 2 members in each of the 83 federal administrative units (see note below) - oblasts, krays, republics, autonomous okrugs and oblasts, and federal cities of Moscow and Saint Petersburg - appointed by the top executive and legislative officials; members serve 4-year terms)State Duma or Gosudarstvennaya Duma (450 seats (see note below); as of February 2014, the electoral system reverted to a mixed electoral system for the 2016 election, in which one-half of the members are directly elected by simple majority vote and one-half directly elected by proportional representation vote; members serve 5-year terms)
-- `elections`: State Duma - last held 17 - 19 September 2021 (next to be held in September 2026)
-- `election results`: Federation Council - composition - men 137, women 32, percentage women 18.9% State Duma - percent vote by party - United Russia 50.9%, CPRF 19.3%, LDPR 7.7%, A Just Russia 7.6%, New People 5.3% other minor parties and independents 9.2%; seats by party - United Russia 324, CPRF 57, LDPR 21, A Just Russia 27, New People 13; Rodina 1, CP 1, Party of Growth 1, independent 5; composition - men 376, women 74, percentage women 16.4%; total Federal Assembly percentage women 17.1%
+- `描述`: bicameral Federal Assembly or Federalnoye Sobraniye consists of:Federation Council or Sovet Federatsii (170 seats statutory, 169 as of April 2023; 2 members in each of the 83 federal administrative units (see note below) - oblasts, krays, republics, autonomous okrugs and oblasts, and federal cities of Moscow and Saint Petersburg - appointed by the top executive and legislative officials; members serve 4-year terms)State Duma or Gosudarstvennaya Duma (450 seats (see note below); as of February 2014, the electoral system reverted to a mixed electoral system for the 2016 election, in which one-half of the members are directly elected by simple majority vote and one-half directly elected by proportional representation vote; members serve 5-year terms)
+- `選舉`: State Duma - last held 17 - 19 September 2021 (next to be held in September 2026)
+- `選舉結果`: Federation Council - composition - men 137, women 32, percentage women 18.9% State Duma - percent vote by party - United Russia 50.9%, CPRF 19.3%, LDPR 7.7%, A Just Russia 7.6%, New People 5.3% other minor parties and independents 9.2%; seats by party - United Russia 324, CPRF 57, LDPR 21, A Just Russia 27, New People 13; Rodina 1, CP 1, Party of Growth 1, independent 5; composition - men 376, women 74, percentage women 16.4%; total Federal Assembly percentage women 17.1%
 **note 1**:  the State Duma now includes 3 representatives from the "Republic of Crimea," while the Federation Council includes 2 each from the "Republic of Crimea" and the "Federal City of Sevastopol," both regions that Russia occupied and attempted to annex from Ukraine and that the US does not recognize as part of Russia
 
 ### 司法部門
-- `highest court(s)`: Supreme Court of the Russian Federation (consists of 170 members organized into the Judicial Panel for Civil Affairs, the Judicial Panel for Criminal Affairs, and the Military Panel); Constitutional Court (consists of 11 members, including the chairperson and deputy); note - in February 2014, Russia’s Higher Court of Arbitration was abolished and its former authorities transferred to the Supreme Court, which in addition is the country’s highest judicial authority for appeals, civil, criminal, administrative, and military cases, and the disciplinary judicial board, which has jurisdiction over economic disputes
-- `judge selection and term of office`: all members of Russia's 3 highest courts nominated by the president and appointed by the Federation Council (the upper house of the legislature); members of all 3 courts appointed for life
-- `subordinate courts`: regional (kray) and provincial (oblast) courts; Moscow and St. Petersburg city courts; autonomous province and district courts; note - the 21 Russian Republics have court systems specified by their own constitutions
+- `最高法院`: Supreme Court of the Russian Federation (consists of 170 members organized into the Judicial Panel for Civil Affairs, the Judicial Panel for Criminal Affairs, and the Military Panel); Constitutional Court (consists of 11 members, including the chairperson and deputy); note - in February 2014, Russia’s Higher Court of Arbitration was abolished and its former authorities transferred to the Supreme Court, which in addition is the country’s highest judicial authority for appeals, civil, criminal, administrative, and military cases, and the disciplinary judicial board, which has jurisdiction over economic disputes
+- `法官遴選和任期`: all members of Russia's 3 highest courts nominated by the president and appointed by the Federation Council (the upper house of the legislature); members of all 3 courts appointed for life
+- `下級法院`: regional (kray) and provincial (oblast) courts; Moscow and St. Petersburg city courts; autonomous province and district courts; note - the 21 Russian Republics have court systems specified by their own constitutions
 
 ### 政黨
 A Just Russia or SRZPCivic Platform or GPCommunist Party of the Russian Federation or KPRFLiberal Democratic Party of Russia or LDPRNew People NLParty of Growth PRRodinaUnited Russia ER
@@ -392,21 +392,21 @@ A Just Russia or SRZPCivic Platform or GPCommunist Party of the Russian Federati
 APEC, Arctic Council, ARF, ASEAN (dialogue partner), BIS, BRICS, BSEC, CBSS, CD, CE, CERN (observer), CICA, CIS, CSTO, EAEC, EAEU, EAPC, EAS, EBRD, FAO, FATF, G-20, GCTU, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MONUSCO, NEA, NSG, OAS (observer), OIC (observer), OPCW, OSCE, Paris Club, PCA, PFP, SCO, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UN Security Council (permanent), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Anatoly Ivanovich ANTONOV (since 8 September 2017)
-- `chancery`: 2650 Wisconsin Avenue NW, Washington, DC 20007
-- `telephone`: [1] (202) 298-5700
+- `外交代表負責人`: Ambassador Anatoly Ivanovich ANTONOV (since 8 September 2017)
+- `衡平法院（在美國）`: 2650 Wisconsin Avenue NW, Washington, DC 20007
+- `電話號碼`: [1] (202) 298-5700
 - `FAX`: [1] (202) 298-5735
-- `email address and website`: rusembusa@mid.ru  https://washington.mid.ru/en/
-- `consulate(s) general`: Houston, New York
+- `電子郵件地址和網站`: rusembusa@mid.ru  https://washington.mid.ru/en/
+- `總領事館`: Houston, New York
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Lynne M. TRACY (30 January 2023)
-- `embassy`: 55,75566° N, 37,58028° E
-- `mailing address`: 5430 Moscow Place, Washington DC  20521-5430
-- `telephone`: [7] (495) 728-5000
+- `外交代表負責人`: Ambassador Lynne M. TRACY (30 January 2023)
+- `大使館`: 55,75566° N, 37,58028° E
+- `郵寄地址`: 5430 Moscow Place, Washington DC  20521-5430
+- `電話號碼`: [7] (495) 728-5000
 - `FAX`: [7] (495) 728-5090
-- `email address and website`: MoscowACS@state.gov  https://ru.usembassy.gov/
-- `consulate(s) general`: Vladivostok (suspended status), Yekaterinburg (suspended status)
+- `電子郵件地址和網站`: MoscowACS@state.gov  https://ru.usembassy.gov/
+- `總領事館`: Vladivostok (suspended status), Yekaterinburg (suspended status)
 
 ### 旗幟說明
 three equal horizontal bands of white (top), blue, and red
@@ -416,8 +416,8 @@ three equal horizontal bands of white (top), blue, and red
 bear, double-headed eagle; national colors: white, blue, red
 
 ### 國歌
-- `name`: "Gimn Rossiyskoy Federatsii" (National Anthem of the Russian Federation)
-- `lyrics/music`: Sergey Vladimirovich MIKHALKOV/Aleksandr Vasilyevich ALEKSANDROV
+- `名稱`: "Gimn Rossiyskoy Federatsii" (National Anthem of the Russian Federation)
+- `歌詞／音樂`: Sergey Vladimirovich MIKHALKOV/Aleksandr Vasilyevich ALEKSANDROV
 **note**:  in 2000, Russia adopted the tune of the anthem of the former Soviet Union (composed in 1939); the lyrics, also adopted in 2000, were written by the same person who authored the Soviet lyrics in 1943
 
 ### 國家級遺產
@@ -464,18 +464,18 @@ $2.021 trillion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 3.3% (2023 est.)
-- `industry`: 30.6% (2023 est.)
-- `services`: 56.9% (2023 est.)
+- `農業`: 3.3% (2023 est.)
+- `產業`: 30.6% (2023 est.)
+- `服務`: 56.9% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 49.8% (2023 est.)
-- `government consumption`: 18.5% (2023 est.)
-- `investment in fixed capital`: 21.9% (2023 est.)
-- `investment in inventories`: 3.8% (2023 est.)
-- `exports of goods and services`: 23.1% (2023 est.)
-- `imports of goods and services`: -18.7% (2023 est.)
+- `家庭消費`: 49.8% (2023 est.)
+- `政府消費`: 18.5% (2023 est.)
+- `固定資本投資`: 21.9% (2023 est.)
+- `存貨投資`: 3.8% (2023 est.)
+- `商品和服務出口`: 23.1% (2023 est.)
+- `商品和服務進口`: -18.7% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -500,9 +500,9 @@ complete range of mining and extractive industries producing coal, oil, gas, che
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 12.7% (2023 est.)
-- `male`: 12.3% (2023 est.)
-- `female`: 13.2% (2023 est.)
+- `總計`: 12.7% (2023 est.)
+- `男性`: 12.3% (2023 est.)
+- `女性`: 13.2% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -514,12 +514,12 @@ complete range of mining and extractive industries producing coal, oil, gas, che
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 平均家庭支出
-- `on food`: 28.9% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 7.3% of household expenditures (2022 est.)
+- `餐食`: 28.9% of household expenditures (2022 est.)
+- `酒精和煙草`: 7.3% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 3.1% (2020 est.)
-- `highest 10%`: 29% (2020 est.)
+- `最低10%`: 3.1% (2020 est.)
+- `最高10%`: 29% (2020 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -529,8 +529,8 @@ complete range of mining and extractive industries producing coal, oil, gas, che
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $776.897 billion (2022 est.)
-- `expenditures`: $719.521 billion (2022 est.)
+- `收入`: $776.897 billion (2022 est.)
+- `支出`: $719.521 billion (2022 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -596,24 +596,24 @@ $135.301 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
-- `electrification - urban areas`: 99.1%
-- `electrification - rural areas`: 100%
+- `電氣化－總人口`: 100% (2022 est.)
+- `電氣化－城市地區`: 99.1%
+- `電氣化－農村地區`: 100%
 
 ### 電力
-- `installed generating capacity`: 301.123 million kW (2022 est.)
-- `consumption`: 1.026 trillion kWh (2022 est.)
-- `exports`: 18.582 billion kWh (2022 est.)
-- `imports`: 1.532 billion kWh (2022 est.)
-- `transmission/distribution losses`: 95.804 billion kWh (2022 est.)
+- `裝機容量`: 301.123 million kW (2022 est.)
+- `消費`: 1.026 trillion kWh (2022 est.)
+- `出口`: 18.582 billion kWh (2022 est.)
+- `進口`: 1.532 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 95.804 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 60.3% of total installed capacity (2022 est.)
-- `nuclear`: 19.6% of total installed capacity (2022 est.)
-- `solar`: 0.2% of total installed capacity (2022 est.)
-- `wind`: 0.3% of total installed capacity (2022 est.)
-- `hydroelectricity`: 19.2% of total installed capacity (2022 est.)
-- `biomass and waste`: 0.3% of total installed capacity (2022 est.)
+- `石化燃料`: 60.3% of total installed capacity (2022 est.)
+- `核能`: 19.6% of total installed capacity (2022 est.)
+- `太陽能`: 0.2% of total installed capacity (2022 est.)
+- `風能`: 0.3% of total installed capacity (2022 est.)
+- `水力發電`: 19.2% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 0.3% of total installed capacity (2022 est.)
 
 ### 核能
 - `Number of operational nuclear reactors`: 36 (2023)
@@ -623,29 +623,29 @@ $135.301 billion (2022 est.)
 - `Number of nuclear reactors permanently shut down`: 11 (2023)
 
 ### 煤炭
-- `production`: 508.19 million metric tons (2022 est.)
-- `consumption`: 310.958 million metric tons (2022 est.)
-- `exports`: 220.306 million metric tons (2022 est.)
-- `imports`: 23.074 million metric tons (2022 est.)
-- `proven reserves`: 162.166 billion metric tons (2022 est.)
+- `生產`: 508.19 million metric tons (2022 est.)
+- `消費`: 310.958 million metric tons (2022 est.)
+- `出口`: 220.306 million metric tons (2022 est.)
+- `進口`: 23.074 million metric tons (2022 est.)
+- `探明儲量`: 162.166 billion metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 10.727 million bbl/day (2023 est.)
-- `refined petroleum consumption`: 3.684 million bbl/day (2022 est.)
-- `crude oil estimated reserves`: 80 billion barrels (2021 est.)
+- `總石油產量`: 10.727 million bbl/day (2023 est.)
+- `成品油消費量`: 3.684 million bbl/day (2022 est.)
+- `原油儲備量估值`: 80 billion barrels (2021 est.)
 
 ### 天然氣
-- `production`: 617.83 billion cubic meters (2022 est.)
-- `consumption`: 472.239 billion cubic meters (2022 est.)
-- `exports`: 176.056 billion cubic meters (2022 est.)
-- `imports`: 8.129 billion cubic meters (2022 est.)
-- `proven reserves`: 47.805 trillion cubic meters (2021 est.)
+- `生產`: 617.83 billion cubic meters (2022 est.)
+- `消費`: 472.239 billion cubic meters (2022 est.)
+- `出口`: 176.056 billion cubic meters (2022 est.)
+- `進口`: 8.129 billion cubic meters (2022 est.)
+- `探明儲量`: 47.805 trillion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 1.84 billion metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 517.718 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 414.253 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 907.83 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 1.84 billion metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 517.718 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 414.253 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 907.83 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 225.235 million Btu/person (2022 est.)
@@ -653,17 +653,17 @@ $135.301 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 23.864 million (2021 est.)
-- `subscriptions per 100 inhabitants`: 16 (2021 est.)
+- `總訂閱數`: 23.864 million (2021 est.)
+- `每100名居民訂閱數`: 16 (2021 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 245.267 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 169 (2021 est.)
+- `總訂閱數`: 245.267 million (2022 est.)
+- `每100名居民訂閱數`: 169 (2021 est.)
 
 ### 電信系統
-- `general assessment`: the telecom market is the largest in Europe, supported by a population of about 143 million; the overall market is dominated by the western regions, particularly Moscow and St Petersburg which are the main cities and economic centers; many other regions in the east and north of the country were settled during the Soviet period; the telecommunication companies continue to deploy and modernize fixed-line network infrastructure to offer improved broadband services as well as a range of IP-delivered content; the number of Digital Subscriber Line (DSL) connections continues to decrease as subscribers are migrated to fiber; the development of 5G services has been hindered by the lack of frequencies; the 3.4GHz range commonly used for 5G in Europe has been restricted for use in Russia by the military and intelligence agencies; the Mobile Network Operators (MNOs) have an equal share in a joint venture, New Digital Solutions, aimed at developing a strategy to deploy 5G using a shared network (2024)
-- `domestic`: 16 per 100 for fixed-line and mobile-cellular is 169 per 100 persons (2022)
-- `international`: country code - 7; landing points for the Far East Submarine Cable System, HSCS, Sakhalin-Kuril Island Cable, RSCN, BCS North-Phase 2, Kerch Strait Cable and the Georgia-Russian submarine cable system connecting Russia, Japan, Finland, Georgia and Ukraine; satellite earth stations provide access to Intelsat, Intersputnik, Eutelsat, Inmarsat, and Orbita systems (2019)
+- `總體評估`: the telecom market is the largest in Europe, supported by a population of about 143 million; the overall market is dominated by the western regions, particularly Moscow and St Petersburg which are the main cities and economic centers; many other regions in the east and north of the country were settled during the Soviet period; the telecommunication companies continue to deploy and modernize fixed-line network infrastructure to offer improved broadband services as well as a range of IP-delivered content; the number of Digital Subscriber Line (DSL) connections continues to decrease as subscribers are migrated to fiber; the development of 5G services has been hindered by the lack of frequencies; the 3.4GHz range commonly used for 5G in Europe has been restricted for use in Russia by the military and intelligence agencies; the Mobile Network Operators (MNOs) have an equal share in a joint venture, New Digital Solutions, aimed at developing a strategy to deploy 5G using a shared network (2024)
+- `國內`: 16 per 100 for fixed-line and mobile-cellular is 169 per 100 persons (2022)
+- `國際的`: country code - 7; landing points for the Far East Submarine Cable System, HSCS, Sakhalin-Kuril Island Cable, RSCN, BCS North-Phase 2, Kerch Strait Cable and the Georgia-Russian submarine cable system connecting Russia, Japan, Finland, Georgia and Ukraine; satellite earth stations provide access to Intelsat, Intersputnik, Eutelsat, Inmarsat, and Orbita systems (2019)
 
 ### 廣播媒體
 13 national TV stations with the federal government owning 1 and holding a controlling interest in a second; state-owned Gazprom maintains a controlling interest in 2 of the national channels; government-affiliated Bank Rossiya owns controlling interest in a fourth and fifth, while a sixth national channel is owned by the Moscow city administration; the Russian Orthodox Church and the Russian military, respectively, own 2 additional national channels; roughly 3,300 national, regional, and local TV stations with over two-thirds completely or partially controlled by the federal or local governments; satellite TV services are available; 2 state-run national radio networks with a third majority-owned by Gazprom; roughly 2,400 public and commercial radio stations
@@ -672,20 +672,20 @@ $135.301 billion (2022 est.)
 .ru; note - Russia also has responsibility for a legacy domain ".su" that was allocated to the Soviet Union and is being phased out
 
 ### 網際網路使用者
-- `total`: 132 million (2021 est.)
-- `percent of population`: 88% (2021 est.)
+- `總計`: 132 million (2021 est.)
+- `佔人口比例`: 88% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 33,893,305 (2020 est.)
-- `subscriptions per 100 inhabitants`: 23 (2020 est.)
+- `總計`: 33,893,305 (2020 est.)
+- `每100名居民訂閱數`: 23 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 32 (2020)
-- `inventory of registered aircraft operated by air carriers`: 958
-- `annual passenger traffic on registered air carriers`: 99,327,311 (2018)
-- `annual freight traffic on registered air carriers`: 6,810,610,000 (2018) mt-km
+- `註冊航空公司數量`: 32 (2020)
+- `註冊飛機庫存—航空承運商經營`: 958
+- `年度客運量－註冊航空公司`: 99,327,311 (2018)
+- `年度貨運量－註冊航空公司`: 6,810,610,000 (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 RA
@@ -700,30 +700,30 @@ RA
 177,700 km gas, 54,800 km oil, 19,300 km refined products (2017)
 
 ### 鐵路
-- `total`: 85,494 km (2019)
-- `narrow gauge`: 957 km
+- `總計`: 85,494 km (2019)
+- `窄軌`: 957 km
 
 ### 道路
-- `total`: 1,283,387 km
-- `paved`: 927,721 km (includes 39,143 km of expressways)
-- `unpaved`: 355,666 km (2012)
+- `總計`: 1,283,387 km
+- `已鋪砌`: 927,721 km (includes 39,143 km of expressways)
+- `未鋪砌`: 355,666 km (2012)
 
 ### 水道
 102,000 km (2009) (including 48,000 km with guaranteed depth; the 72,000-km system in European Russia links Baltic Sea, White Sea, Caspian Sea, Sea of Azov, and Black Sea)
 
 ### 商船
-- `total`: 2,910 (2023)
-- `by type`: bulk carrier 15, container ship 20, general cargo 976, oil tanker 387, other 1,512
+- `總計`: 2,910 (2023)
+- `依類型`: bulk carrier 15, container ship 20, general cargo 976, oil tanker 387, other 1,512
 
 ### 港口
-- `total ports`: 67 (2024)
-- `large`: 4
-- `medium`: 5
-- `small`: 19
-- `very small`: 38
-- `size unknown`: 1
-- `ports with oil terminals`: 32
-- `key ports`: Arkhangels'k, De Kastri, Dudinka, Kaliningrad, Murmansk, Novorossiysk, Sankt-Peterburg, Vladivostok, Vyborg
+- `總港口數`: 67 (2024)
+- `大`: 4
+- `中`: 5
+- `小`: 19
+- `非常小`: 38
+- `未知大小`: 1
+- `原油碼頭港口`: 32
+- `主要港口`: Arkhangels'k, De Kastri, Dudinka, Kaliningrad, Murmansk, Novorossiysk, Sankt-Peterburg, Vladivostok, Vyborg
 
 ### 運輸—註釋
 Russia operates the largest polar-class icebreaker fleet in the world with 52 vessels, seven of which are the world's only nuclear-powered heavy icebreakers; the primary mission includes keeping open ports, terminals, and shipping lanes along the Northern Sea Route (see Arctic Ocean map), in the Baltic Sea, and in the Russian Far East, including the Sea of Okhotsk
@@ -781,12 +781,12 @@ Islamic State of Iraq and ash-Sham (ISIS)
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 1,212,585 (Ukraine) (as of 30 June 2023)
+- `難民（原籍國）`: 1,212,585 (Ukraine) (as of 30 June 2023)
 - `IDPs`: 7,500 (2022)
-- `stateless persons`: 56,960 (mid-year 2021); note - Russia's stateless population consists of Roma, Meskhetian Turks, and ex-Soviet citizens from the former republics; between 2003 and 2010 more than 600,000 stateless people were naturalized; most Meskhetian Turks, followers of Islam with origins in Georgia, fled or were evacuated from Uzbekistan after a 1989 pogrom and have lived in Russia for more than the required five-year residency period; they continue to be denied registration for citizenship and basic rights by local Krasnodar Krai authorities on the grounds that they are temporary illegal migrants
+- `無國籍人士`: 56,960 (mid-year 2021); note - Russia's stateless population consists of Roma, Meskhetian Turks, and ex-Soviet citizens from the former republics; between 2003 and 2010 more than 600,000 stateless people were naturalized; most Meskhetian Turks, followers of Islam with origins in Georgia, fled or were evacuated from Uzbekistan after a 1989 pogrom and have lived in Russia for more than the required five-year residency period; they continue to be denied registration for citizenship and basic rights by local Krasnodar Krai authorities on the grounds that they are temporary illegal migrants
 
 ### 人口販運
-- `tier rating`: Tier 3 — Russia does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Russia remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/russia/
+- `會級評分`: Tier 3 — Russia does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Russia remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/russia/
 
 ### 非法藥物
 a destination country for heroin and other Afghan opiates; a transit country for cocaine from South America, especially Ecuador to Europe, Belgium and Netherlands; synthetic drugs are produced in clandestine drug laboratories throughout the country; marijuana cultivated in Russian Far East and the North Caucasus; the majority of hashish is smuggled in from Northern Africa

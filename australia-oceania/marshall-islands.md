@@ -19,24 +19,24 @@ Oceania, consists of 29 atolls and five isolated islands in the North Pacific Oc
 Oceania
 
 ### 面積
-- `total `: 181 sq km
-- `land`: 181 sq km
-- `water`: 0 sq km
+- `總計`: 181 sq km
+- `土地`: 181 sq km
+- `水`: 0 sq km
 **note**:  the archipelago includes 11,673 sq km of lagoon waters and encompasses the atolls of Bikini, Enewetak, Kwajalein, Majuro, Rongelap, and Utirik
 
 ### 面積—比較
 about the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 370.4 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
 
 ### 氣候
 tropical; hot and humid; wet season May to November; islands border typhoon belt
@@ -45,20 +45,20 @@ tropical; hot and humid; wet season May to November; islands border typhoon belt
 low coral limestone and sand islands
 
 ### 海拔
-- `highest point`: East-central Airik Island, Maloelap Atoll 14 m
-- `lowest point`: Pacific Ocean 0 m
-- `mean elevation`: 2 m
+- `最高點`: East-central Airik Island, Maloelap Atoll 14 m
+- `最低點`: Pacific Ocean 0 m
+- `平均海拔`: 2 m
 
 ### 自然資源
 coconut products, marine products, deep seabed minerals
 
 ### 土地利用
-- `agricultural land`: 50.7% (2018 est.)
-- `agricultural land: arable land`: arable land: 7.8% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 31.2% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 11.7% (2018 est.)
-- `forest`: 49.3% (2018 est.)
-- `other`: 0% (2018 est.)
+- `農地`: 50.7% (2018 est.)
+- `農地：耕地`: arable land: 7.8% (2018 est.)
+- `農地：永久性作物`: permanent crops: 31.2% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 11.7% (2018 est.)
+- `森林`: 49.3% (2018 est.)
+- `其它`: 0% (2018 est.)
 
 ### 灌溉土地
 0 sq km (2022)
@@ -75,40 +75,40 @@ the islands of Bikini and Enewetak are former US nuclear test sites; Kwajalein a
 ## 人民和社會
 
 ### 人口
-- `total`: 82,011
-- `male`: 41,581
-- `female`: 40,430 (2024 est.)
+- `總計`: 82,011
+- `男性`: 41,581
+- `女性`: 40,430 (2024 est.)
 
 ### 國籍
-- `noun`: Marshallese (singular and plural)
-- `adjective`: Marshallese
+- `名詞`: Marshallese (singular and plural)
+- `形容詞`: Marshallese
 
 ### 族裔群體
 Marshallese 95.6%, Filipino 1.1%, other 3.3% (2021 est.)
 
 ### 語文
 Marshallese (official) 98.2%, other languages 1.8% (1999)
-- `major-language sample(s)`: Bok eo an Lalin kin Melele ko Rejimwe ej jikin ebōk melele ko raurōk. (Marshallese)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: Bok eo an Lalin kin Melele ko Rejimwe ej jikin ebōk melele ko raurōk. (Marshallese)  The World Factbook, the indispensable source for basic information.
 **note**:  English (official), widely spoken as a second language
 
 ### 宗教
 Protestant 79.3% (United Church of Christ 47.9%, Assembly of God 14.1%, Full Gospel 5%, Bukot Nan Jesus 3%, Salvation Army 2.3%, Reformed Congressional Church 2.2%, Seventh Day Adventist 1.7%, New Beginning Church 1.4%, other Protestant 1.6%), Roman Catholic 9.3%, Church of Jesus Christ 5.7%, Jehovah's Witness 1.3%, other 3.3%, none 1.1% (2021 est.)
 
 ### 年齡結構
-- `0-14 years`: 30% (male 12,538/female 12,072)
-- `15-64 years`: 64.3% (male 26,750/female 25,944)
-- `65 years and over`: 5.7% (2024 est.) (male 2,293/female 2,414)
+- `0-14歲`: 30% (male 12,538/female 12,072)
+- `15-64歲`: 64.3% (male 26,750/female 25,944)
+- `65歲及以上`: 5.7% (2024 est.) (male 2,293/female 2,414)
 
 ### 撫養比率
-- `total dependency ratio`: 59.9
-- `youth dependency ratio`: 53
-- `elderly dependency ratio`: 6.8
-- `potential support ratio`: 14.7 (2021)
+- `總受扶養人比率`: 59.9
+- `少年撫養比率`: 53
+- `老人撫養比率`: 6.8
+- `潛在支持率`: 14.7 (2021)
 
 ### 年齡中位數
-- `total`: 25.5 years (2024 est.)
-- `male`: 25.4 years
-- `female`: 25.6 years
+- `總計`: 25.5 years (2024 est.)
+- `男性`: 25.4 years
+- `女性`: 25.6 years
 
 ### 人口成長率
 1.26% (2024 est.)
@@ -126,28 +126,28 @@ Protestant 79.3% (United Church of Christ 47.9%, Assembly of God 14.1%, Full Gos
 most people live in urban clusters found on many of the country's islands; more than two-thirds of the population lives on the atolls of Majuro and Ebeye
 
 ### 都市化
-- `urban population`: 78.9% of total population (2023)
-- `rate of urbanization`: 0.61% annual rate of change (2020-25 est.)
+- `城市人口`: 78.9% of total population (2023)
+- `城鎮化率`: 0.61% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 31,000 MAJURO (capital) (2018)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.04 male(s)/female
-- `15-64 years`: 1.03 male(s)/female
-- `65 years and over`: 0.95 male(s)/female
-- `total population`: 1.03 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.04 male(s)/female
+- `15-64歲`: 1.03 male(s)/female
+- `65歲及以上`: 0.95 male(s)/female
+- `總人口數`: 1.03 male(s)/female (2024 est.)
 
 ### 嬰兒死亡率
-- `total`: 20.6 deaths/1,000 live births (2024 est.)
-- `male`: 24 deaths/1,000 live births
-- `female`: 17.1 deaths/1,000 live births
+- `總計`: 20.6 deaths/1,000 live births (2024 est.)
+- `男性`: 24 deaths/1,000 live births
+- `女性`: 17.1 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 75.2 years (2024 est.)
-- `male`: 73 years
-- `female`: 77.5 years
+- `總人口數`: 75.2 years (2024 est.)
+- `男性`: 73 years
+- `女性`: 77.5 years
 
 ### 總生育率
 2.67 children born/woman (2024 est.)
@@ -159,12 +159,12 @@ most people live in urban clusters found on many of the country's islands; more 
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 99.8% of population
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0.2% of population
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 99.8% of population
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0.2% of population
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 當前醫療支出
 13% of GDP (2020)
@@ -176,20 +176,20 @@ NA
 2.7 beds/1,000 population
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 96.6% of population
-- `improved: rural`: rural: 65.4% of population
-- `improved: total`: total: 89.7% of population
-- `unimproved: urban`: urban: 3.4% of population
-- `unimproved: rural`: rural: 34.6% of population
-- `unimproved: total`: total: 10.3% of population (2020 est.)
+- `已改進－城市`: urban: 96.6% of population
+- `已改進－農村`: rural: 65.4% of population
+- `已改進－總計`: total: 89.7% of population
+- `未改進：都市`: urban: 3.4% of population
+- `未改進：鄉村`: rural: 34.6% of population
+- `未改善：總計`: total: 10.3% of population (2020 est.)
 
 ### 肥胖—成人流行率
 52.9% (2016)
 
 ### 煙草使用
-- `total`: 28.5% (2020 est.)
-- `male`: 48.7% (2020 est.)
-- `female`: 8.3% (2020 est.)
+- `總計`: 28.5% (2020 est.)
+- `男性`: 48.7% (2020 est.)
+- `女性`: 8.3% (2020 est.)
 
 ### 5歲以下體重不足兒童
 11.9% (2017)
@@ -201,15 +201,15 @@ NA
 13.6% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 98.3%
-- `male`: 98.3%
-- `female`: 98.2% (2011)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 98.3%
+- `男性`: 98.3%
+- `女性`: 98.2% (2011)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 10 years
-- `male`: 10 years
-- `female`: 10 years (2019)
+- `總計`: 10 years
+- `男性`: 10 years
+- `女性`: 10 years (2019)
 
 ## 環境
 
@@ -217,36 +217,36 @@ NA
 inadequate supplies of potable water; pollution of Majuro lagoon from household waste and discharges from fishing vessels; sea level rise
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 tropical; hot and humid; wet season May to November; islands border typhoon belt
 
 ### 土地利用
-- `agricultural land`: 50.7% (2018 est.)
-- `agricultural land: arable land`: arable land: 7.8% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 31.2% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 11.7% (2018 est.)
-- `forest`: 49.3% (2018 est.)
-- `other`: 0% (2018 est.)
+- `農地`: 50.7% (2018 est.)
+- `農地：耕地`: arable land: 7.8% (2018 est.)
+- `農地：永久性作物`: permanent crops: 31.2% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 11.7% (2018 est.)
+- `森林`: 49.3% (2018 est.)
+- `其它`: 0% (2018 est.)
 
 ### 都市化
-- `urban population`: 78.9% of total population (2023)
-- `rate of urbanization`: 0.61% annual rate of change (2020-25 est.)
+- `城市人口`: 78.9% of total population (2023)
+- `城鎮化率`: 0.61% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 7.21 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 0.14 megatons (2016 est.)
-- `methane emissions`: 0.03 megatons (2020 est.)
+- `顆粒物排放量`: 7.21 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 0.14 megatons (2016 est.)
+- `甲烷排放量`: 0.03 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 8,614 tons (2013 est.)
-- `municipal solid waste recycled annually`: 2,653 tons (2007 est.)
-- `percent of municipal solid waste recycled`: 30.8% (2007 est.)
+- `城市固體廢棄物－每年產生`: 8,614 tons (2013 est.)
+- `城市固體廢棄物－每年回收`: 2,653 tons (2007 est.)
+- `城市固體廢棄物－回收百分比`: 30.8% (2007 est.)
 
 ### 可再生水資源總量
 0 cubic meters (2017 est.)
@@ -254,22 +254,22 @@ tropical; hot and humid; wet season May to November; islands border typhoon belt
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of the Marshall Islands
-- `conventional short form`: Marshall Islands
-- `local long form`: Republic of the Marshall Islands
-- `local short form`: Marshall Islands
-- `former`: Trust Territory of the Pacific Islands, Marshall Islands District
-- `abbreviation`: RMI
-- `etymology`: named after British Captain John MARSHALL, who charted many of the islands in 1788
+- `常用長名`: Republic of the Marshall Islands
+- `常用短名`: Marshall Islands
+- `當地語長名`: Republic of the Marshall Islands
+- `當地語短名`: Marshall Islands
+- `前任`: Trust Territory of the Pacific Islands, Marshall Islands District
+- `縮寫`: RMI
+- `语源学`: named after British Captain John MARSHALL, who charted many of the islands in 1788
 
 ### 政府類型
 mixed presidential-parliamentary system in free association with the US
 
 ### 首都
-- `name`: Majuro; note - the capital is an atoll of 64 islands; governmental buildings are housed on three fused islands on the eastern side of the atoll: Djarrit, Uliga, and Delap
-- `geographic coordinates`: 7 06 N, 171 23 E
-- `time difference`: UTC+12 (17 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: Majuro means "two openings" or "two eyes" and refers to the two major northern passages through the atoll into the Majuro lagoon
+- `名稱`: Majuro; note - the capital is an atoll of 64 islands; governmental buildings are housed on three fused islands on the eastern side of the atoll: Djarrit, Uliga, and Delap
+- `地理坐標`: 7 06 N, 171 23 E
+- `時差`: UTC+12 (17 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: Majuro means "two openings" or "two eyes" and refers to the two major northern passages through the atoll into the Majuro lagoon
 
 ### 行政區劃
 24 municipalities; Ailinglaplap, Ailuk, Arno, Aur, Bikini & Kili, Ebon, Enewetak & Ujelang, Jabat, Jaluit, Kwajalein, Lae, Lib, Likiep, Majuro, Maloelap, Mejit, Mili, Namorik, Namu, Rongelap, Ujae, Utrik, Wotho, Wotje
@@ -284,39 +284,39 @@ Constitution Day, 1 May (1979)
 mixed legal system of US and English common law, customary law, and local statutes
 
 ### 憲法
-- `history`: effective 1 May 1979
-- `amendments`: proposed by the National Parliament or by a constitutional convention; passage by Parliament requires at least two-thirds majority vote of the total membership in each of two readings and approval by a majority of votes in a referendum; amendments submitted by a constitutional convention require approval of at least two thirds of votes in a referendum; amended several times, last in 2018
+- `歷史`: effective 1 May 1979
+- `修正`: proposed by the National Parliament or by a constitutional convention; passage by Parliament requires at least two-thirds majority vote of the total membership in each of two readings and approval by a majority of votes in a referendum; amendments submitted by a constitutional convention require approval of at least two thirds of votes in a referendum; amended several times, last in 2018
 
 ### 國際法組織參與
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of the Marshall Islands
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 5 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of the Marshall Islands
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 5 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Hilda C. HEINE (since 3 January 2023)
-- `head of government`: President Hilda C. HEINE (since 3 January 2023)
-- `cabinet`: Cabinet nominated by the president from among members of the Nitijela, appointed by Nitijela speaker
-- `elections/appointments`: president indirectly elected by the Nitijela from among its members for a 4-year term (no term limits); election last held on 2 January 2023 (next to be held in 2027)
-- `election results`: *2023: *Hilda C. HEINE elected president; National Parliament vote - Hilda C. HEINE (independent) 17, David KABUA (independent) 16  *2020: *David KABUA elected president; National Parliament vote - David KABUA (independent) 20, Hilda C. HEINE (independent) 12
+- `國家元首`: President Hilda C. HEINE (since 3 January 2023)
+- `政府首腦`: President Hilda C. HEINE (since 3 January 2023)
+- `内閣`: Cabinet nominated by the president from among members of the Nitijela, appointed by Nitijela speaker
+- `選舉/任命`: president indirectly elected by the Nitijela from among its members for a 4-year term (no term limits); election last held on 2 January 2023 (next to be held in 2027)
+- `選舉結果`: *2023: *Hilda C. HEINE elected president; National Parliament vote - Hilda C. HEINE (independent) 17, David KABUA (independent) 16  *2020: *David KABUA elected president; National Parliament vote - David KABUA (independent) 20, Hilda C. HEINE (independent) 12
 **note**:  the president is both chief of state and head of government
 
 ### 立法部門
-- `description`: unicameral National Parliament or Nitijela (33 seats; members in 19 single- and 5 multi-seat constituencies directly elected by simple majority vote to serve 4-year terms)
-- `elections`: last held on 20 November 2023 (next to be held in November 2027)
-- `election results`: percent of vote by party - NA; seats by part - independent 33; composition - men 29, women 4, percent of women 12.1%
+- `描述`: unicameral National Parliament or Nitijela (33 seats; members in 19 single- and 5 multi-seat constituencies directly elected by simple majority vote to serve 4-year terms)
+- `選舉`: last held on 20 November 2023 (next to be held in November 2027)
+- `選舉結果`: percent of vote by party - NA; seats by part - independent 33; composition - men 29, women 4, percent of women 12.1%
 **note**:  the Council of Iroij is a 12-member consultative group of tribal leaders that advises the Presidential Cabinet and reviews legislation affecting customary law or any traditional practice 
 
 ### 司法部門
-- `highest court(s)`: Supreme Court (consists of the chief justice and 2 associate justices)
-- `judge selection and term of office`: judges appointed by the Cabinet upon the recommendation of the Judicial Service Commission (consists of the chief justice of the High Court, the attorney general and a private citizen selected by the Cabinet) and upon approval of the Nitijela; the current chief justice, appointed in 2013, serves for 10 years; Marshallese citizens appointed as justices serve until retirement at age 72
-- `subordinate courts`: High Court; District Courts; Traditional Rights Court; Community Courts
+- `最高法院`: Supreme Court (consists of the chief justice and 2 associate justices)
+- `法官遴選和任期`: judges appointed by the Cabinet upon the recommendation of the Judicial Service Commission (consists of the chief justice of the High Court, the attorney general and a private citizen selected by the Cabinet) and upon approval of the Nitijela; the current chief justice, appointed in 2013, serves for 10 years; Marshallese citizens appointed as justices serve until retirement at age 72
+- `下級法院`: High Court; District Courts; Traditional Rights Court; Community Courts
 
 ### 政黨
 traditionally there have been no formally organized political parties; what has existed more closely resembles factions or interest groups because they do not have party headquarters, formal platforms, or party structures
@@ -325,20 +325,20 @@ traditionally there have been no formally organized political parties; what has 
 ACP, ADB, AOSIS, FAO, G-77, IAEA, IBRD, ICAO, ICCt, IDA, IFAD, IFC, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNHRC, WHO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Charles Rudolph PAUL (since 27 February 2024)
-- `chancery`: 2433 Massachusetts Avenue NW, Washington, DC 20008
-- `telephone`: [1] (202) 234-5414
+- `外交代表負責人`: Ambassador Charles Rudolph PAUL (since 27 February 2024)
+- `衡平法院（在美國）`: 2433 Massachusetts Avenue NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 234-5414
 - `FAX`: [1] (202) 232-3236
-- `email address and website`: info@rmiembassyus.org
-- `consulate(s) general`: Honolulu, Springdale (AR)
+- `電子郵件地址和網站`: info@rmiembassyus.org
+- `總領事館`: Honolulu, Springdale (AR)
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador (vacant); Chargé d’Affaires Lance POSEY (since 18 August 2023)
-- `embassy`: Mejen Weto, Ocean Side, Majuro
-- `mailing address`: 4380 Majuro Place, Washington DC  20521-4380
-- `telephone`: [692] 247-4011
+- `外交代表負責人`: Ambassador (vacant); Chargé d’Affaires Lance POSEY (since 18 August 2023)
+- `大使館`: Mejen Weto, Ocean Side, Majuro
+- `郵寄地址`: 4380 Majuro Place, Washington DC  20521-4380
+- `電話號碼`: [692] 247-4011
 - `FAX`: [692] 247-4012
-- `email address and website`: MAJConsular@state.gov  https://mh.usembassy.gov/
+- `電子郵件地址和網站`: MAJConsular@state.gov  https://mh.usembassy.gov/
 
 ### 旗幟說明
 blue with two stripes radiating from the lower hoist-side corner - orange (top) and white; a white star with four large rays and 20 small rays appears on the hoist side above the two stripes; blue represents the Pacific Ocean, the orange stripe signifies the Ralik Chain or sunset and courage, while the white stripe signifies the Ratak Chain or sunrise and peace; the star symbolizes the cross of Christianity, each of the 24 rays designates one of the electoral districts in the country and the four larger rays highlight the principal cultural centers of Majuro, Jaluit, Wotje, and Ebeye; the rising diagonal band can also be interpreted as representing the equator, with the star showing the archipelago's position just to the north
@@ -347,8 +347,8 @@ blue with two stripes radiating from the lower hoist-side corner - orange (top) 
 a 24-rayed star; national colors: blue, white, orange
 
 ### 國歌
-- `name`: "Forever Marshall Islands"
-- `lyrics/music`: Amata KABUA
+- `名稱`: "Forever Marshall Islands"
+- `歌詞／音樂`: Amata KABUA
 **note**:  adopted 1981
 
 ### 國家級遺產
@@ -387,18 +387,18 @@ $284 million (2023 est.)
 -1.5% (2016 est.)
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 20.6% (2022 est.)
-- `industry`: 10.3% (2022 est.)
-- `services`: 68.7% (2022 est.)
+- `農業`: 20.6% (2022 est.)
+- `產業`: 10.3% (2022 est.)
+- `服務`: 68.7% (2022 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 71.7% (2022 est.)
-- `government consumption`: 57.4% (2022 est.)
-- `investment in fixed capital`: 19.8% (2022 est.)
-- `investment in inventories`: 0.3% (2022 est.)
-- `exports of goods and services`: 46.3% (2022 est.)
-- `imports of goods and services`: -73.7% (2022 est.)
+- `家庭消費`: 71.7% (2022 est.)
+- `政府消費`: 57.4% (2022 est.)
+- `固定資本投資`: 19.8% (2022 est.)
+- `存貨投資`: 0.3% (2022 est.)
+- `商品和服務出口`: 46.3% (2022 est.)
+- `商品和服務進口`: -73.7% (2022 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -413,9 +413,9 @@ copra, tuna processing, tourism, craft items (from seashells, wood, and pearls)
 **note**:  annual % change in industrial value added based on constant local currency
 
 ### 青年失業率（15-24歲）
-- `total`: 26% (2019 est.)
-- `male`: 31%
-- `female`: 14.2%
+- `總計`: 26% (2019 est.)
+- `男性`: 31%
+- `女性`: 14.2%
 
 ### 貧窮線以下的人口
 7.2% (2019 est.)
@@ -426,8 +426,8 @@ copra, tuna processing, tourism, craft items (from seashells, wood, and pearls)
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 2.8% (2019 est.)
-- `highest 10%`: 27.5% (2019 est.)
+- `最低10%`: 2.8% (2019 est.)
+- `最高10%`: 27.5% (2019 est.)
 **note**:  % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -437,8 +437,8 @@ copra, tuna processing, tourism, craft items (from seashells, wood, and pearls)
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $186.971 million (2018 est.)
-- `expenditures`: $177.91 million (2018 est.)
+- `收入`: $186.971 million (2018 est.)
+- `支出`: $177.91 million (2018 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -489,9 +489,9 @@ the US dollar is used
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
-- `electrification - urban areas`: 96.1%
-- `electrification - rural areas`: 100%
+- `電氣化－總人口`: 100% (2022 est.)
+- `電氣化－城市地區`: 96.1%
+- `電氣化－農村地區`: 100%
 
 ### 二氧化碳排放量
 293,700 metric tonnes of CO2 (2017 est.)
@@ -499,17 +499,17 @@ the US dollar is used
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 2,000 (2014 est.)
-- `subscriptions per 100 inhabitants`: 5 (2014 est.)
+- `總訂閱數`: 2,000 (2014 est.)
+- `每100名居民訂閱數`: 5 (2014 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 16,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 38 (2021 est.)
+- `總訂閱數`: 16,000 (2021 est.)
+- `每100名居民訂閱數`: 38 (2021 est.)
 
 ### 電信系統
-- `general assessment`: the National Telecommunications Act, through Bill No. 66, ushered in a new era in telecommunications in the Marshall Islands; this will enable an open, competitive market for telecommunications that is regulated by a Telecommunications Commissioner; telecom officials announced that they would be able to offer satellite internet services beginning in mid-2023; the World Bank has been promoting telecommunications reform here for a decade and has a multi-million-dollar telecommunications reform grant program in progress (2022)
-- `domestic`: fixed-line roughly 5 per 100 persons and mobile-cellular is nearly 38 per 100 persons (2021)
-- `international`: country code - 692; satellite earth stations - 2 Intelsat (Pacific Ocean); US Government satellite communications system on Kwajalein
+- `總體評估`: the National Telecommunications Act, through Bill No. 66, ushered in a new era in telecommunications in the Marshall Islands; this will enable an open, competitive market for telecommunications that is regulated by a Telecommunications Commissioner; telecom officials announced that they would be able to offer satellite internet services beginning in mid-2023; the World Bank has been promoting telecommunications reform here for a decade and has a multi-million-dollar telecommunications reform grant program in progress (2022)
+- `國內`: fixed-line roughly 5 per 100 persons and mobile-cellular is nearly 38 per 100 persons (2021)
+- `國際的`: country code - 692; satellite earth stations - 2 Intelsat (Pacific Ocean); US Government satellite communications system on Kwajalein
 
 ### 廣播媒體
 no TV broadcast station; a cable network is available on Majuro with programming via videotape replay and satellite relays; 4 radio broadcast stations; American Armed Forces Radio and Television Service (AFRTS) provides satellite radio and television service to Kwajalein Atoll (2019)
@@ -518,12 +518,12 @@ no TV broadcast station; a cable network is available on Majuro with programming
 .mh
 
 ### 網際網路使用者
-- `total`: 16,254 (2021 est.)
-- `percent of population`: 38.7% (2021 est.)
+- `總計`: 16,254 (2021 est.)
+- `佔人口比例`: 38.7% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 1,000 (2020 est.)
-- `subscriptions per 100 inhabitants`: 2 (2020 est.)
+- `總計`: 1,000 (2020 est.)
+- `每100名居民訂閱數`: 2 (2020 est.)
 
 ### 來文—註釋
 Kwajalein hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are at Cape Canaveral, Florida (US), on Ascension (Saint Helena, Ascension, and Tristan da Cunha), and at Diego Garcia (British Indian Ocean Territory))
@@ -531,10 +531,10 @@ Kwajalein hosts one of four dedicated ground antennas that assist in the operati
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 1 (2020)
-- `inventory of registered aircraft operated by air carriers`: 3
-- `annual passenger traffic on registered air carriers`: 24,313 (2018)
-- `annual freight traffic on registered air carriers`: 130,000 (2018) mt-km
+- `註冊航空公司數量`: 1 (2020)
+- `註冊飛機庫存—航空承運商經營`: 3
+- `年度客運量－註冊航空公司`: 24,313 (2018)
+- `年度貨運量－註冊航空公司`: 130,000 (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 V7
@@ -543,22 +543,22 @@ V7
 33 (2024)
 
 ### 道路
-- `total`: 2,028 km
-- `paved`: 75 km
-- `unpaved`: 1,953 km (2007)
+- `總計`: 2,028 km
+- `已鋪砌`: 75 km
+- `未鋪砌`: 1,953 km (2007)
 
 ### 商船
-- `total`: 4,180 (2023)
-- `by type`: bulk carrier 1,939, container ship 277, general cargo 66, oil tanker 1039, other 859
+- `總計`: 4,180 (2023)
+- `依類型`: bulk carrier 1,939, container ship 277, general cargo 66, oil tanker 1039, other 859
 
 ### 港口
-- `total ports`: 3 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 0
-- `very small`: 3
-- `ports with oil terminals`: 2
-- `key ports`: Enitwetak Island, Kwajalein, Majuro Atoll
+- `總港口數`: 3 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 0
+- `非常小`: 3
+- `原油碼頭港口`: 2
+- `主要港口`: Enitwetak Island, Kwajalein, Majuro Atoll
 
 ## 軍事和安全
 
@@ -571,5 +571,5 @@ defense is the responsibility of the US; in 1982, the Marshall Islands signed a 
 ## 跨國議題
 
 ### 人口販運
-- `tier rating`: Tier 2 Watch List — Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Marshall Islands remained on Tier 2 Watch List for the second consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/marshall-islands/
+- `會級評分`: Tier 2 Watch List — Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Marshall Islands remained on Tier 2 Watch List for the second consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/marshall-islands/
 

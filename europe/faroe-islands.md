@@ -19,23 +19,23 @@ Northern Europe, island group between the Norwegian Sea and the North Atlantic O
 Europe
 
 ### 面積
-- `total `: 1,393 sq km
-- `land`: 1,393 sq km
-- `water`: 0 sq km (some lakes and streams)
+- `總計`: 1,393 sq km
+- `土地`: 1,393 sq km
+- `水`: 0 sq km (some lakes and streams)
 
 ### 面積—比較
 eight times the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 1,117 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `continental shelf`: 200 nm or agreed boundaries or median line
-- `exclusive fishing zone`: 200 nm or agreed boundaries or median line
+- `領海`: 12 nm
+- `大陸架`: 200 nm or agreed boundaries or median line
+- `專屬捕魚區`: 200 nm or agreed boundaries or median line
 
 ### 氣候
 mild winters, cool summers; usually overcast; foggy, windy
@@ -44,19 +44,19 @@ mild winters, cool summers; usually overcast; foggy, windy
 rugged, rocky, some low peaks; cliffs along most of coast
 
 ### 海拔
-- `highest point`: Slaettaratindur 882 m
-- `lowest point`: Atlantic Ocean 0 m
+- `最高點`: Slaettaratindur 882 m
+- `最低點`: Atlantic Ocean 0 m
 
 ### 自然資源
 fish, whales, hydropower, possible oil and gas
 
 ### 土地利用
-- `agricultural land`: 2.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 2.1% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
-- `forest`: 0.1% (2018 est.)
-- `other`: 97.8% (2018 est.)
+- `農地`: 2.1% (2018 est.)
+- `農地：耕地`: arable land: 2.1% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0% (2018 est.)
+- `森林`: 0.1% (2018 est.)
+- `其它`: 97.8% (2018 est.)
 
 ### 人口分布
 the island of Streymoy is by far the most populous with over 40% of the population; it has approximately twice as many inhabitants as Eysturoy, the second most populous island; seven of the inhabited islands have fewer than 100 people
@@ -70,13 +70,13 @@ archipelago of 17 inhabited islands and one uninhabited island, and a few uninha
 ## 人民和社會
 
 ### 人口
-- `total`: 52,933
-- `male`: 27,400
-- `female`: 25,533 (2024 est.)
+- `總計`: 52,933
+- `男性`: 27,400
+- `女性`: 25,533 (2024 est.)
 
 ### 國籍
-- `noun`: Faroese (singular and plural)
-- `adjective`: Faroese
+- `名詞`: Faroese (singular and plural)
+- `形容詞`: Faroese
 
 ### 族裔群體
 Faroese 83.8% (Scandinavian and Anglo-Saxon descent), Danish 8.3%, Filipino 1.2%, other Nordic 0.9%, other 4.5% (includes Polish and Romanian) (2024 est.)
@@ -90,20 +90,20 @@ Faroese 93.8% (derived from Old Norse), Danish 3.2%, other 3% (2011 est.)
 Christian 87% (predominantly Evangelical Lutheran), other 0.9%, none 3.7%, unspecified 8.9% (2011 est.)
 
 ### 年齡結構
-- `0-14 years`: 20% (male 5,489/female 5,122)
-- `15-64 years`: 61.5% (male 17,188/female 15,346)
-- `65 years and over`: 18.5% (2024 est.) (male 4,723/female 5,065)
+- `0-14歲`: 20% (male 5,489/female 5,122)
+- `15-64歲`: 61.5% (male 17,188/female 15,346)
+- `65歲及以上`: 18.5% (2024 est.) (male 4,723/female 5,065)
 
 ### 撫養比率
-- `total dependency ratio`: 62.8
-- `youth dependency ratio`: 33.6
-- `elderly dependency ratio`: 29.1
-- `potential support ratio`: 3.4 (2021)
+- `總受扶養人比率`: 62.8
+- `少年撫養比率`: 33.6
+- `老人撫養比率`: 29.1
+- `潛在支持率`: 3.4 (2021)
 
 ### 年齡中位數
-- `total`: 36.8 years (2024 est.)
-- `male`: 36.9 years
-- `female`: 36.8 years
+- `總計`: 36.8 years (2024 est.)
+- `男性`: 36.9 years
+- `女性`: 36.8 years
 
 ### 人口成長率
 0.63% (2024 est.)
@@ -121,28 +121,28 @@ Christian 87% (predominantly Evangelical Lutheran), other 0.9%, none 3.7%, unspe
 the island of Streymoy is by far the most populous with over 40% of the population; it has approximately twice as many inhabitants as Eysturoy, the second most populous island; seven of the inhabited islands have fewer than 100 people
 
 ### 都市化
-- `urban population`: 43% of total population (2023)
-- `rate of urbanization`: 0.89% annual rate of change (2020-25 est.)
+- `城市人口`: 43% of total population (2023)
+- `城鎮化率`: 0.89% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 21,000 TORSHAVN (capital) (2018)
 
 ### 性別比例
-- `at birth`: 1.07 male(s)/female
-- `0-14 years`: 1.07 male(s)/female
-- `15-64 years`: 1.12 male(s)/female
-- `65 years and over`: 0.93 male(s)/female
-- `total population`: 1.07 male(s)/female (2024 est.)
+- `出生時`: 1.07 male(s)/female
+- `0-14歲`: 1.07 male(s)/female
+- `15-64歲`: 1.12 male(s)/female
+- `65歲及以上`: 0.93 male(s)/female
+- `總人口數`: 1.07 male(s)/female (2024 est.)
 
 ### 嬰兒死亡率
-- `total`: 5.7 deaths/1,000 live births (2024 est.)
-- `male`: 6.3 deaths/1,000 live births
-- `female`: 5.1 deaths/1,000 live births
+- `總計`: 5.7 deaths/1,000 live births (2024 est.)
+- `男性`: 6.3 deaths/1,000 live births
+- `女性`: 5.1 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 81.7 years (2024 est.)
-- `male`: 79.2 years
-- `female`: 84.4 years
+- `總人口數`: 81.7 years (2024 est.)
+- `男性`: 79.2 years
+- `女性`: 84.4 years
 
 ### 總生育率
 2.27 children born/woman (2024 est.)
@@ -154,12 +154,12 @@ the island of Streymoy is by far the most populous with over 40% of the populati
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: NA
-- `improved: rural`: rural: NA
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: NA
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: 0% of population (2020)
+- `已改進－城市`: urban: NA
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: NA
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: 0% of population (2020)
 
 ### 當前醫療支出
 NA
@@ -171,12 +171,12 @@ NA
 4.2 beds/1,000 population (2016)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: NA
-- `improved: rural`: rural: NA
-- `improved: total`: total: NA
-- `unimproved: urban`: urban: NA
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: NA
+- `已改進－城市`: urban: NA
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: NA
+- `未改進：都市`: urban: NA
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: NA
 
 ### 5歲以下體重不足兒童
 NA
@@ -188,9 +188,9 @@ NA
 7.6% of GDP (2019 est.)
 
 ### 識字程度
-- `total population`: NA
-- `male`: NA
-- `female`: NA
+- `總人口數`: NA
+- `男性`: NA
+- `女性`: NA
 
 ## 環境
 
@@ -201,27 +201,27 @@ coastal erosion, landslides and rockfalls, flash flooding, wind storms; oil spil
 mild winters, cool summers; usually overcast; foggy, windy
 
 ### 土地利用
-- `agricultural land`: 2.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 2.1% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
-- `forest`: 0.1% (2018 est.)
-- `other`: 97.8% (2018 est.)
+- `農地`: 2.1% (2018 est.)
+- `農地：耕地`: arable land: 2.1% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0% (2018 est.)
+- `森林`: 0.1% (2018 est.)
+- `其它`: 97.8% (2018 est.)
 
 ### 都市化
-- `urban population`: 43% of total population (2023)
-- `rate of urbanization`: 0.89% annual rate of change (2020-25 est.)
+- `城市人口`: 43% of total population (2023)
+- `城鎮化率`: 0.89% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0% of GDP (2017 est.)
 
 ### 空氣污染物
-- `carbon dioxide emissions`: 0.63 megatons (2016 est.)
+- `二氧化碳排放量`: 0.63 megatons (2016 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 61,000 tons (2014 est.)
-- `municipal solid waste recycled annually`: 40,870 tons (2012 est.)
-- `percent of municipal solid waste recycled`: 67% (2012 est.)
+- `城市固體廢棄物－每年產生`: 61,000 tons (2014 est.)
+- `城市固體廢棄物－每年回收`: 40,870 tons (2012 est.)
+- `城市固體廢棄物－回收百分比`: 67% (2012 est.)
 
 ### 可再生水資源總量
 0 cubic meters (2017 est.)
@@ -229,11 +229,11 @@ mild winters, cool summers; usually overcast; foggy, windy
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Faroe Islands
-- `local long form`: none
-- `local short form`: Foroyar
-- `etymology`: the archipelago's name may derive from the Old Norse word "faer," meaning sheep
+- `常用長名`: none
+- `常用短名`: Faroe Islands
+- `當地語長名`: none
+- `當地語短名`: Foroyar
+- `语源学`: the archipelago's name may derive from the Old Norse word "faer," meaning sheep
 
 ### 政府類型
 parliamentary democracy (Faroese Parliament); part of the Kingdom of Denmark
@@ -242,11 +242,11 @@ parliamentary democracy (Faroese Parliament); part of the Kingdom of Denmark
 part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark since 1948
 
 ### 首都
-- `name`: Torshavn
-- `geographic coordinates`: 62 00 N, 6 46 W
-- `time difference`: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
-- `daylight saving time`: +1hr, begins last Sunday in March; ends last Sunday in October
-- `etymology`: the meaning in Danish is "Thor's harbor"
+- `名稱`: Torshavn
+- `地理坐標`: 62 00 N, 6 46 W
+- `時差`: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
+- `日光節約時間`: +1hr, begins last Sunday in March; ends last Sunday in October
+- `语源学`: the meaning in Danish is "Thor's harbor"
 
 ### 行政區劃
 part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark; there are 29 first-order municipalities (kommunur, singular - kommuna) Eidhi, Eystur, Famjin, Fuglafjordhur, Fugloy, Hov, Husavik, Hvalba, Hvannasund, Klaksvik, Kunoy, Kvivik, Nes, Porkeri, Runavik, Sandur, Sjovar, Skalavik, Skopun, Skuvoy, Sorvagur, Sumba, Sunda, Torshavn, Tvoroyri, Vagar, Vagur, Vestmanna, Vidhareidhi
@@ -261,8 +261,8 @@ Olaifest (Olavsoka) (commemorates the death in battle of King OLAF II of Norway,
 the laws of Denmark apply where applicable
 
 ### 憲法
-- `history`: 5 June 1953 (Danish Constitution), 23 March 1948 (Home Rule Act), and 24 June 2005 (Takeover Act) serve as the Faroe Islands' constitutional position in the Unity of the Realm
-- `amendments`: see entry for Denmark
+- `歷史`: 5 June 1953 (Danish Constitution), 23 March 1948 (Home Rule Act), and 24 June 2005 (Takeover Act) serve as the Faroe Islands' constitutional position in the Unity of the Realm
+- `修正`: see entry for Denmark
 
 ### 公民身份
 see Denmark
@@ -271,20 +271,20 @@ see Denmark
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: King FREDERIK X of Denmark (since 14 January 2024), represented by High Commissioner Lene Moyell JOHANSEN, chief administrative officer (since 15 May 2017) (2024)
-- `head of government`: Prime Minister Aksel V. JOHANNESEN (since 22 December 2022)
-- `cabinet`: Landsstyri appointed by the prime minister
-- `elections/appointments`: the monarchy is hereditary; high commissioner appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by the Faroese Parliament; election last held on 8 December 2022 (next to be held in 2026)
+- `國家元首`: King FREDERIK X of Denmark (since 14 January 2024), represented by High Commissioner Lene Moyell JOHANSEN, chief administrative officer (since 15 May 2017) (2024)
+- `政府首腦`: Prime Minister Aksel V. JOHANNESEN (since 22 December 2022)
+- `内閣`: Landsstyri appointed by the prime minister
+- `選舉/任命`: the monarchy is hereditary; high commissioner appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by the Faroese Parliament; election last held on 8 December 2022 (next to be held in 2026)
 
 ### 立法部門
-- `description`: unicameral Faroese Parliament or Logting (33 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)
-- `elections`: Faroese Parliament - last held on 8 December 2022 (next to be held in 2026)  Faroese seats in the Danish Parliament last held on 31 October 2022 (next to be held no later than 31 October 2026)
-- `election results`: Faroese Parliament percent of vote by party - JF 26.6%, B 20%, A 18.9%, E 17.7%, F 7.5%, H 6.6%, seats by party - JF 9, B 7, A 6, E 6, F 3, H 2; composition - men 24, women 9; percentage women 27.3%  Faroese seats in Danish Parliament - percent of vote by party - NA; seats by party - JF 1, B 1; composition - men 2, women 0; percentage women 0%
+- `描述`: unicameral Faroese Parliament or Logting (33 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)
+- `選舉`: Faroese Parliament - last held on 8 December 2022 (next to be held in 2026)  Faroese seats in the Danish Parliament last held on 31 October 2022 (next to be held no later than 31 October 2026)
+- `選舉結果`: Faroese Parliament percent of vote by party - JF 26.6%, B 20%, A 18.9%, E 17.7%, F 7.5%, H 6.6%, seats by party - JF 9, B 7, A 6, E 6, F 3, H 2; composition - men 24, women 9; percentage women 27.3%  Faroese seats in Danish Parliament - percent of vote by party - NA; seats by party - JF 1, B 1; composition - men 2, women 0; percentage women 0%
 **note**:  the Faroe Islands elect 2 members to the Danish Parliament to serve 4-year terms
 
 ### 司法部門
-- `highest court(s)`: Faroese Court or Raett (Rett - Danish) decides both civil and criminal cases; the Court is part of the Danish legal system
-- `subordinate courts`: Court of the First Instance or Tribunal de Premiere Instance; Court of Administrative Law or Tribunal Administratif; Mixed Commercial Court; Land Court
+- `最高法院`: Faroese Court or Raett (Rett - Danish) decides both civil and criminal cases; the Court is part of the Danish legal system
+- `下級法院`: Court of the First Instance or Tribunal de Premiere Instance; Court of Administrative Law or Tribunal Administratif; Mixed Commercial Court; Land Court
 
 ### 政黨
 Center Party or H (Midflokkurin) People's Party or A (Folkaflokkurin) Progress Party or F (Framsokn) Republic or E (Tjodveldi)  (formerly the Republican Party)Self-Government Party or D (Sjalvstyri or Sjalvstyrisflokkurin) Social Democratic Party or JF (Javnadarflokkurin) or JF Union Party or B (Sambandsflokkurin) 
@@ -296,7 +296,7 @@ Arctic Council, IMO (associate), NC, NIB, UNESCO (associate), UPU
 none (self-governing overseas administrative division of Denmark)
 
 ### 駐該國的美國外交代表
-- `embassy`: none (self-governing overseas administrative division of Denmark)
+- `大使館`: none (self-governing overseas administrative division of Denmark)
 
 ### 旗幟說明
 white with a red cross outlined in blue extending to the edges of the flag; the vertical part of the cross is shifted toward the hoist side in the style of the Dannebrog (Danish flag); referred to as Merkid, meaning "the banner" or "the mark," the flag resembles those of neighboring Iceland and Norway, and uses the same three colors - but in a different sequence; white represents the clear Faroese sky, as well as the foam of the waves; red and blue are traditional Faroese colors
@@ -306,8 +306,8 @@ white with a red cross outlined in blue extending to the edges of the flag; the 
 ram; national colors: red, white, blue
 
 ### 國歌
-- `name`: "Mitt alfagra land" (My Fairest Land)
-- `lyrics/music`: Simun av SKAROI/Peter ALBERG
+- `名稱`: "Mitt alfagra land" (My Fairest Land)
+- `歌詞／音樂`: Simun av SKAROI/Peter ALBERG
 **note**:  adopted 1948; the anthem is also known as "Tu alfagra land mitt" (Thou Fairest Land of Mine); as a self-governing overseas administrative division of Denmark, the Faroe Islands are permitted their own national anthem
 
 ## 經濟
@@ -342,17 +342,17 @@ $3.556 billion (2022 est.)
 -1.7% (2015)
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 18.7% (2022 est.)
-- `industry`: 18.1% (2022 est.)
-- `services`: 52.3% (2022 est.)
+- `農業`: 18.7% (2022 est.)
+- `產業`: 18.1% (2022 est.)
+- `服務`: 52.3% (2022 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 41.4% (2022 est.)
-- `government consumption`: 27.4% (2022 est.)
-- `investment in fixed capital`: 31.4% (2022 est.)
-- `exports of goods and services`: 62.4% (2022 est.)
-- `imports of goods and services`: -62.5% (2022 est.)
+- `家庭消費`: 41.4% (2022 est.)
+- `政府消費`: 27.4% (2022 est.)
+- `固定資本投資`: 31.4% (2022 est.)
+- `商品和服務出口`: 62.4% (2022 est.)
+- `商品和服務進口`: -62.5% (2022 est.)
 **note**:  figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -423,44 +423,44 @@ goods for household consumption, machinery and transport equipment, fuels, raw m
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
-- `electrification - urban areas`: 99.9%
-- `electrification - rural areas`: 100%
+- `電氣化－總人口`: 100% (2022 est.)
+- `電氣化－城市地區`: 99.9%
+- `電氣化－農村地區`: 100%
 
 ### 電力
-- `installed generating capacity`: 178,000 kW (2022 est.)
-- `consumption`: 394.337 million kWh (2022 est.)
-- `transmission/distribution losses`: 25.063 million kWh (2022 est.)
+- `裝機容量`: 178,000 kW (2022 est.)
+- `消費`: 394.337 million kWh (2022 est.)
+- `傳輸／分配損耗`: 25.063 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 62.6% of total installed capacity (2022 est.)
-- `wind`: 11.2% of total installed capacity (2022 est.)
-- `hydroelectricity`: 26.2% of total installed capacity (2022 est.)
+- `石化燃料`: 62.6% of total installed capacity (2022 est.)
+- `風能`: 11.2% of total installed capacity (2022 est.)
+- `水力發電`: 26.2% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `imports`: (2022 est.) less than 1 metric ton
+- `進口`: (2022 est.) less than 1 metric ton
 
 ### 石油
-- `refined petroleum consumption`: 5,000 bbl/day (2022 est.)
+- `成品油消費量`: 5,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 825,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 825,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 825,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 825,000 metric tonnes of CO2 (2022 est.)
 
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 15,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 29 (2021 est.)
+- `總訂閱數`: 15,000 (2021 est.)
+- `每100名居民訂閱數`: 29 (2021 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 59,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 112 (2021 est.)
+- `總訂閱數`: 59,000 (2021 est.)
+- `每100名居民訂閱數`: 112 (2021 est.)
 
 ### 電信系統
-- `general assessment`: the Faroe Islands have a highly developed communication network, which covers the whole country; from telecommunication and mobile phones to the internet and media, the Faroe Islands are at the forefront of modern communications technology; working within the special geographic circumstances of the Faroe Islands; companies have become world experts in providing digital communication solutions to remote and sparsely populated areas (2022)
-- `domestic`: 29 per 100 teledensity for fixed-line and nearly 110 per 100 for mobile-cellular (2021)
-- `international`: country code - 298; landing points for the SHEFA-2, FARICE-1, and CANTAT-3 fiber-optic submarine cables from the Faroe Islands, to Denmark, Germany, UK and Iceland; satellite earth stations - 1 Orion; (2019)
+- `總體評估`: the Faroe Islands have a highly developed communication network, which covers the whole country; from telecommunication and mobile phones to the internet and media, the Faroe Islands are at the forefront of modern communications technology; working within the special geographic circumstances of the Faroe Islands; companies have become world experts in providing digital communication solutions to remote and sparsely populated areas (2022)
+- `國內`: 29 per 100 teledensity for fixed-line and nearly 110 per 100 for mobile-cellular (2021)
+- `國際的`: country code - 298; landing points for the SHEFA-2, FARICE-1, and CANTAT-3 fiber-optic submarine cables from the Faroe Islands, to Denmark, Germany, UK and Iceland; satellite earth stations - 1 Orion; (2019)
 
 ### 廣播媒體
 1 publicly owned TV station; the Faroese telecommunications company distributes local and international channels through its digital terrestrial network; publicly owned radio station supplemented by 3 privately owned stations broadcasting over multiple frequencies
@@ -469,18 +469,18 @@ goods for household consumption, machinery and transport equipment, fuels, raw m
 .fo
 
 ### 網際網路使用者
-- `total`: 51,728 (2021 est.)
-- `percent of population`: 97.6% (2021 est.)
+- `總計`: 51,728 (2021 est.)
+- `佔人口比例`: 97.6% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 18,443 (2020 est.)
-- `subscriptions per 100 inhabitants`: 38 (2020 est.)
+- `總計`: 18,443 (2020 est.)
+- `每100名居民訂閱數`: 38 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 1 (2020) (registered in Denmark)
-- `inventory of registered aircraft operated by air carriers`: 3 (registered in Denmark)
+- `註冊航空公司數量`: 1 (2020) (registered in Denmark)
+- `註冊飛機庫存—航空承運商經營`: 3 (registered in Denmark)
 
 ### 註冊民用航空器國家代碼前綴
 OY-H
@@ -492,23 +492,23 @@ OY-H
 12 (2024)
 
 ### 道路
-- `total`: 960 km
-- `paved`: 500 km
-- `unpaved`: 460 km (2017)
+- `總計`: 960 km
+- `已鋪砌`: 500 km
+- `未鋪砌`: 460 km (2017)
 **note**:  those islands not connected by roads (bridges or tunnels) are connected by seven different ferry links operated by the nationally owned company SSL; 28 km of tunnels
 
 ### 商船
-- `total`: 91 (2023)
-- `by type`: container ships 6, general cargo 45, other 40
+- `總計`: 91 (2023)
+- `依類型`: container ships 6, general cargo 45, other 40
 
 ### 港口
-- `total ports`: 9 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 0
-- `very small`: 9
-- `ports with oil terminals`: 5
-- `key ports`: Fuglafjordur, Klaksvik, Kongshavn, Runavik, Sorvagur, Torshavn, Tvoroyri, Vagur, Vestmanna
+- `總港口數`: 9 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 0
+- `非常小`: 9
+- `原油碼頭港口`: 5
+- `主要港口`: Fuglafjordur, Klaksvik, Kongshavn, Runavik, Sorvagur, Torshavn, Tvoroyri, Vagur, Vestmanna
 
 ## 軍事和安全
 

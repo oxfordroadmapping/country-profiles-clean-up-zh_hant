@@ -19,25 +19,25 @@ Southeastern Asia, bordering the Gulf of Thailand, between Thailand, Vietnam, an
 Southeast Asia
 
 ### 面積
-- `total `: 181,035 sq km
-- `land`: 176,515 sq km
-- `water`: 4,520 sq km
+- `總計`: 181,035 sq km
+- `土地`: 176,515 sq km
+- `水`: 4,520 sq km
 
 ### 面積—比較
 one and a half times the size of Pennsylvania; slightly smaller than Oklahoma
 
 ### 陸地邊界
-- `total`: 2,530 km
-- `border countries`: Laos 555 km; Thailand 817 km; Vietnam 1158 km
+- `總計`: 2,530 km
+- `邊境國家`: Laos 555 km; Thailand 817 km; Vietnam 1158 km
 
 ### 海岸線
 443 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: 200 nm
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: 200 nm
 
 ### 氣候
 tropical; rainy, monsoon season (May to November); dry season (December to April); little seasonal temperature variation
@@ -46,26 +46,26 @@ tropical; rainy, monsoon season (May to November); dry season (December to April
 mostly low, flat plains; mountains in southwest and north
 
 ### 海拔
-- `highest point`: Phnum Aoral 1,810 m
-- `lowest point`: Gulf of Thailand 0 m
-- `mean elevation`: 126 m
+- `最高點`: Phnum Aoral 1,810 m
+- `最低點`: Gulf of Thailand 0 m
+- `平均海拔`: 126 m
 
 ### 自然資源
 oil and gas, timber, gemstones, iron ore, manganese, phosphates, hydropower potential, arable land
 
 ### 土地利用
-- `agricultural land`: 32.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 22.7% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.9% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 8.5% (2018 est.)
-- `forest`: 56.5% (2018 est.)
-- `other`: 11.4% (2018 est.)
+- `農地`: 32.1% (2018 est.)
+- `農地：耕地`: arable land: 22.7% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.9% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 8.5% (2018 est.)
+- `森林`: 56.5% (2018 est.)
+- `其它`: 11.4% (2018 est.)
 
 ### 灌溉土地
 3,540 sq km (2012)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Tonle Sap - 2,700-16,000 sq km
+- `淡水湖`: Tonle Sap - 2,700-16,000 sq km
 
 ### 主要河流（按公里長度）
 Mekong (shared with China [s], Burma, Thailand, Laos, and Vietnam [m]) - 4,350 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -85,20 +85,20 @@ a land of paddies and forests dominated by the Mekong River and Tonle Sap (South
 ## 人民和社會
 
 ### 人口
-- `total`: 17,063,669
-- `male`: 8,277,588
-- `female`: 8,786,081 (2024 est.)
+- `總計`: 17,063,669
+- `男性`: 8,277,588
+- `女性`: 8,786,081 (2024 est.)
 
 ### 國籍
-- `noun`: Cambodian(s)
-- `adjective`: Cambodian
+- `名詞`: Cambodian(s)
+- `形容詞`: Cambodian
 
 ### 族裔群體
 Khmer 95.4%, Cham 2.4%, Chinese 1.5%, other 0.7% (2019-20 est.)
 
 ### 語文
 Khmer (official) 95.8%, minority languages 2.9%, Chinese 0.6%, Vietnamese 0.5%, other 0.2% (2019 est.)
-- `major-language sample(s)`: សៀវភៅហេតុការណនៅលើពិភពលោក។ ទីតាំងពត៏មានមូលដានគ្រឹះយាងសំខាន់។. (Khmer)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: សៀវភៅហេតុការណនៅលើពិភពលោក។ ទីតាំងពត៏មានមូលដានគ្រឹះយាងសំខាន់។. (Khmer)  The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Buddhist (official) 97.1%, Muslim 2%, Christian 0.3%, other 0.5% (2019 est.)
@@ -107,20 +107,20 @@ Buddhist (official) 97.1%, Muslim 2%, Christian 0.3%, other 0.5% (2019 est.)
 Cambodia is a predominantly rural country with among the most ethnically and religiously homogenous populations in Southeast Asia: more than 95% of its inhabitants are Khmer and more than 95% are Buddhist.  The population’s size and age structure shrank and then rebounded during the 20th century as a result of conflict and mass death.  During the Khmer Rouge regime between 1975 and 1979 as many as 1.5 to 2 million people are estimated to have been killed or died as a result of starvation, disease, or overwork – a loss of about 25% of the population.  At the same time, emigration was high, and the fertility rate sharply declined.  In the 1980s, after the overthrow of the Khmer Rouge, fertility nearly doubled and reached pre-Khmer Rouge levels of close to 7 children per woman, reflecting in part higher infant survival rates.  The baby boom was followed by a sustained fertility decline starting in the early 1990s, eventually decreasing from 3.8 in 2000 to 2.9 in 2010, although the rate varied by income, education, and rural versus urban location.  Despite continuing fertility reduction, Cambodia still has a youthful population that is likely to maintain population growth through population momentum. Improvements have also been made in mortality, life expectancy, and contraceptive prevalence, although reducing malnutrition among children remains stalled.  Differences in health indicators are pronounced between urban and rural areas, which experience greater poverty. Cambodia is predominantly a country of migration, driven by the search for work, education, or marriage.  Internal migration is more prevalent than international migration, with rural to urban migration being the most common, followed by rural to rural migration.  Urban migration focuses on the pursuit of unskilled or semi-skilled jobs in Phnom Penh, with men working mainly in the construction industry and women working in garment factories.  Most Cambodians who migrate abroad do so illegally using brokers because it is cheaper and faster than through formal channels, but doing so puts them at risk of being trafficked for forced labor or sexual exploitation.  Young Cambodian men and women migrate short distances across the Thai border using temporary passes to work in agriculture, while others migrate long distances primarily into Thailand and Malaysia for work in agriculture, fishing, construction, manufacturing, and domestic service.  Cambodia was a refugee sending country in the 1970s and 1980s as a result of the brutality of the Khmer Rouge regime, its ousting by the Vietnamese invasion, and the resultant civil war.  Tens of thousands of Cambodians fled to Thailand; more than 100,000 were resettled in the US in the 1980s.  Cambodia signed a multi-million dollar agreement with Australia in 2014 to voluntarily resettle refugees seeking shelter in Australia.  However, the deal has proven to be a failure because of poor conditions and a lack of support services for the few refugees willing to accept the offer.
 
 ### 年齡結構
-- `0-14 years`: 28.9% (male 2,497,056/female 2,436,618)
-- `15-64 years`: 65.8% (male 5,456,941/female 5,765,206)
-- `65 years and over`: 5.3% (2024 est.) (male 323,591/female 584,257)
+- `0-14歲`: 28.9% (male 2,497,056/female 2,436,618)
+- `15-64歲`: 65.8% (male 5,456,941/female 5,765,206)
+- `65歲及以上`: 5.3% (2024 est.) (male 323,591/female 584,257)
 
 ### 撫養比率
-- `total dependency ratio`: 53.4
-- `youth dependency ratio`: 45
-- `elderly dependency ratio`: 8.5
-- `potential support ratio`: 11.8 (2021 est.)
+- `總受扶養人比率`: 53.4
+- `少年撫養比率`: 45
+- `老人撫養比率`: 8.5
+- `潛在支持率`: 11.8 (2021 est.)
 
 ### 年齡中位數
-- `total`: 27.9 years (2024 est.)
-- `male`: 26.9 years
-- `female`: 28.9 years
+- `總計`: 27.9 years (2024 est.)
+- `男性`: 26.9 years
+- `女性`: 28.9 years
 
 ### 人口成長率
 0.99% (2024 est.)
@@ -138,18 +138,18 @@ Cambodia is a predominantly rural country with among the most ethnically and rel
 population concentrated in the southeast, particularly in and around the capital of Phnom Penh; further distribution is linked closely to the Tonle Sap and Mekong Rivers
 
 ### 都市化
-- `urban population`: 25.6% of total population (2023)
-- `rate of urbanization`: 3.06% annual rate of change (2020-25 est.)
+- `城市人口`: 25.6% of total population (2023)
+- `城鎮化率`: 3.06% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 2.281 million PHNOM PENH (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.04 male(s)/female
-- `0-14 years`: 1.02 male(s)/female
-- `15-64 years`: 0.95 male(s)/female
-- `65 years and over`: 0.55 male(s)/female
-- `total population`: 0.94 male(s)/female (2024 est.)
+- `出生時`: 1.04 male(s)/female
+- `0-14歲`: 1.02 male(s)/female
+- `15-64歲`: 0.95 male(s)/female
+- `65歲及以上`: 0.55 male(s)/female
+- `總人口數`: 0.94 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 23.3 years (2021-22 est.)
@@ -159,14 +159,14 @@ population concentrated in the southeast, particularly in and around the capital
 218 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 27.9 deaths/1,000 live births (2024 est.)
-- `male`: 31.3 deaths/1,000 live births
-- `female`: 24.4 deaths/1,000 live births
+- `總計`: 27.9 deaths/1,000 live births (2024 est.)
+- `男性`: 31.3 deaths/1,000 live births
+- `女性`: 24.4 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 71.4 years (2024 est.)
-- `male`: 69.6 years
-- `female`: 73.3 years
+- `總人口數`: 71.4 years (2024 est.)
+- `男性`: 69.6 years
+- `女性`: 73.3 years
 
 ### 總生育率
 2.17 children born/woman (2024 est.)
@@ -178,12 +178,12 @@ population concentrated in the southeast, particularly in and around the capital
 56.3% (2014)
 
 ### 飲用水來源
-- `improved: urban`: urban: 99.3% of population
-- `improved: rural`: rural: 80.6% of population
-- `improved: total`: total: 85.1% of population
-- `unimproved: urban`: urban: 0.7% of population
-- `unimproved: rural`: rural: 19.4% of population
-- `unimproved: total`: total: 14.9% of population (2020 est.)
+- `已改進－城市`: urban: 99.3% of population
+- `已改進－農村`: rural: 80.6% of population
+- `已改進－總計`: total: 85.1% of population
+- `未改進：都市`: urban: 0.7% of population
+- `未改進：鄉村`: rural: 19.4% of population
+- `未改善：總計`: total: 14.9% of population (2020 est.)
 
 ### 當前醫療支出
 7.5% of GDP (2020)
@@ -195,27 +195,27 @@ population concentrated in the southeast, particularly in and around the capital
 1.9 beds/1,000 population (2016)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 69.3% of population
-- `improved: total`: total: 76.8% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 30.7% of population
-- `unimproved: total`: total: 23.2% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 69.3% of population
+- `已改進－總計`: total: 76.8% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 30.7% of population
+- `未改善：總計`: total: 23.2% of population (2020 est.)
 
 ### 肥胖—成人流行率
 3.9% (2016)
 
 ### 人均酒精消費量
-- `total`: 4.56 liters of pure alcohol (2019 est.)
-- `beer`: 4.12 liters of pure alcohol (2019 est.)
-- `wine`: 0.03 liters of pure alcohol (2019 est.)
-- `spirits`: 0.41 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 4.56 liters of pure alcohol (2019 est.)
+- `啤酒`: 4.12 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.03 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.41 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 21.1% (2020 est.)
-- `male`: 36.1% (2020 est.)
-- `female`: 6% (2020 est.)
+- `總計`: 21.1% (2020 est.)
+- `男性`: 36.1% (2020 est.)
+- `女性`: 6% (2020 est.)
 
 ### 5歲以下體重不足兒童
 16.3% (2022)
@@ -227,10 +227,10 @@ population concentrated in the southeast, particularly in and around the capital
 3.1% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 83.9%
-- `male`: 88.4%
-- `female`: 79.8% (2021)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 83.9%
+- `男性`: 88.4%
+- `女性`: 79.8% (2021)
 
 ## 環境
 
@@ -238,23 +238,23 @@ population concentrated in the southeast, particularly in and around the capital
 illegal logging activities throughout the country and strip mining for gems in the western region along the border with Thailand have resulted in habitat loss and declining biodiversity (in particular, destruction of mangrove swamps threatens natural fisheries); soil erosion; in rural areas, most of the population does not have access to potable water; declining fish stocks because of illegal fishing and overfishing; coastal ecosystems choked by sediment washed loose from deforested areas inland
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
-- `signed, but not ratified`: Law of the Sea
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
+- `已簽署但未批準`: Law of the Sea
 
 ### 氣候
 tropical; rainy, monsoon season (May to November); dry season (December to April); little seasonal temperature variation
 
 ### 土地利用
-- `agricultural land`: 32.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 22.7% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.9% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 8.5% (2018 est.)
-- `forest`: 56.5% (2018 est.)
-- `other`: 11.4% (2018 est.)
+- `農地`: 32.1% (2018 est.)
+- `農地：耕地`: arable land: 22.7% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.9% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 8.5% (2018 est.)
+- `森林`: 56.5% (2018 est.)
+- `其它`: 11.4% (2018 est.)
 
 ### 都市化
-- `urban population`: 25.6% of total population (2023)
-- `rate of urbanization`: 3.06% annual rate of change (2020-25 est.)
+- `城市人口`: 25.6% of total population (2023)
+- `城鎮化率`: 3.06% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.84% of GDP (2018 est.)
@@ -263,15 +263,15 @@ tropical; rainy, monsoon season (May to November); dry season (December to April
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 17.8 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 9.92 megatons (2016 est.)
-- `methane emissions`: 14.88 megatons (2020 est.)
+- `顆粒物排放量`: 17.8 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 9.92 megatons (2016 est.)
+- `甲烷排放量`: 14.88 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 1.089 million tons (2014 est.)
+- `城市固體廢棄物－每年產生`: 1.089 million tons (2014 est.)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Tonle Sap - 2,700-16,000 sq km
+- `淡水湖`: Tonle Sap - 2,700-16,000 sq km
 
 ### 主要河流（按公里長度）
 Mekong (shared with China [s], Burma, Thailand, Laos, and Vietnam [m]) - 4,350 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -280,9 +280,9 @@ Mekong (shared with China [s], Burma, Thailand, Laos, and Vietnam [m]) - 4,350 k
 Pacific Ocean drainage: Mekong (805,604 sq km)
 
 ### 總取水量
-- `municipal`: 100 million cubic meters (2020 est.)
-- `industrial`: 30 million cubic meters (2020 est.)
-- `agricultural`: 2.05 billion cubic meters (2020 est.)
+- `市級`: 100 million cubic meters (2020 est.)
+- `工業`: 30 million cubic meters (2020 est.)
+- `農業`: 2.05 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 476.1 billion cubic meters (2020 est.)
@@ -290,21 +290,21 @@ Pacific Ocean drainage: Mekong (805,604 sq km)
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Kingdom of Cambodia
-- `conventional short form`: Cambodia
-- `local long form`: Preahreacheanachakr Kampuchea (phonetic transliteration)
-- `local short form`: Kampuchea
-- `former`: Khmer Republic, Democratic Kampuchea, People's Republic of Kampuchea, State of Cambodia
-- `etymology`: the English name Cambodia is an anglicization of the French Cambodge, which is the French transliteration of the native name Kampuchea
+- `常用長名`: Kingdom of Cambodia
+- `常用短名`: Cambodia
+- `當地語長名`: Preahreacheanachakr Kampuchea (phonetic transliteration)
+- `當地語短名`: Kampuchea
+- `前任`: Khmer Republic, Democratic Kampuchea, People's Republic of Kampuchea, State of Cambodia
+- `语源学`: the English name Cambodia is an anglicization of the French Cambodge, which is the French transliteration of the native name Kampuchea
 
 ### 政府類型
 parliamentary constitutional monarchy
 
 ### 首都
-- `name`: Phnom Penh
-- `geographic coordinates`: 11 33 N, 104 55 E
-- `time difference`: UTC+7 (12 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: Phnom Penh translates as "Penh's Hill" in Khmer; the city takes its name from the present Wat Phnom (Hill Temple), the tallest religious structure in the city, whose establishment, according to legend, was inspired in the 14th century by a pious nun, Daun PENH
+- `名稱`: Phnom Penh
+- `地理坐標`: 11 33 N, 104 55 E
+- `時差`: UTC+7 (12 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: Phnom Penh translates as "Penh's Hill" in Khmer; the city takes its name from the present Wat Phnom (Hill Temple), the tallest religious structure in the city, whose establishment, according to legend, was inspired in the 14th century by a pious nun, Daun PENH
 
 ### 行政區劃
 24 provinces (khett, singular and plural) and 1 municipality (krong, singular and plural) **provinces**:  Banteay Meanchey, Battambang, Kampong Cham, Kampong Chhnang, Kampong Speu, Kampong Thom, Kampot, Kandal, Kep, Koh Kong, Kratie, Mondolkiri, Oddar Meanchey, Pailin, Preah Sihanouk, Preah Vihear, Prey Veng, Pursat, Ratanakiri, Siem Reap, Stung Treng, Svay Rieng, Takeo, Tbong Khmum **municipalities**:  Phnom Penh (Phnum Penh)
@@ -319,38 +319,38 @@ Independence Day, 9 November (1953)
 civil law system (influenced by the UN Transitional Authority in Cambodia) customary law, Communist legal theory, and common law
 
 ### 憲法
-- `history`: previous 1947; latest promulgated 21 September 1993
-- `amendments`: proposed by the monarch, by the prime minister, or by the president of the National Assembly if supported by one fourth of the Assembly membership; passage requires two-thirds majority of the Assembly membership; constitutional articles on the multiparty democratic form of government and the monarchy cannot be amended; amended several times, latest 2022
+- `歷史`: previous 1947; latest promulgated 21 September 1993
+- `修正`: proposed by the monarch, by the prime minister, or by the president of the National Assembly if supported by one fourth of the Assembly membership; passage requires two-thirds majority of the Assembly membership; constitutional articles on the multiparty democratic form of government and the monarchy cannot be amended; amended several times, latest 2022
 
 ### 國際法組織參與
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Cambodia
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: 7 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Cambodia
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: 7 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: King Norodom SIHAMONI (since 29 October 2004)
-- `head of government`: Prime Minister HUN MANET (since 22 August 2023)
-- `cabinet`: Council of Ministers named by the prime minister and appointed by the monarch
-- `elections/appointments`: monarch chosen by the 9-member Royal Council of the Throne from among all eligible males of royal descent; following legislative elections, a member of the majority party or majority coalition named prime minister by the Chairman of the National Assembly and appointed by the monarch
+- `國家元首`: King Norodom SIHAMONI (since 29 October 2004)
+- `政府首腦`: Prime Minister HUN MANET (since 22 August 2023)
+- `内閣`: Council of Ministers named by the prime minister and appointed by the monarch
+- `選舉/任命`: monarch chosen by the 9-member Royal Council of the Throne from among all eligible males of royal descent; following legislative elections, a member of the majority party or majority coalition named prime minister by the Chairman of the National Assembly and appointed by the monarch
 **note**:  MANET succeeded his father, HUN SEN, who had been prime minister since 1985
 
 ### 立法部門
-- `description`: bicameral Parliament of Cambodia consists of:Senate (62 seats; 58 indirectly elected by parliamentarians and commune councils, 2 indirectly elected by the National Assembly, and 2 appointed by the monarch; members serve 6-year terms)  National Assembly (125 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)
-- `elections`: Senate - last held on 25 February 2024 (next to be held in February 2030)National Assembly - last held on 23 July 2023 (next to be held in July 2028)
-- `election results`: Senate - percent of vote by party - CPP 86%, KWP 12%; seats by party - CPP 57; KWP 3; independent 2; composition - men 50, women 12, percentage women 19.4%  National Assembly - percent of vote by party - CPP 82.4%, FUNCINPEC 9.2%, KNUP 1.7%, CYP 1.3%, other 5.4% (14 other parties received votes); seats by party - CPP 120, FUNCINPEC 5; composition - men 108, women 17, percentage women 13.6%
+- `描述`: bicameral Parliament of Cambodia consists of:Senate (62 seats; 58 indirectly elected by parliamentarians and commune councils, 2 indirectly elected by the National Assembly, and 2 appointed by the monarch; members serve 6-year terms)  National Assembly (125 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)
+- `選舉`: Senate - last held on 25 February 2024 (next to be held in February 2030)National Assembly - last held on 23 July 2023 (next to be held in July 2028)
+- `選舉結果`: Senate - percent of vote by party - CPP 86%, KWP 12%; seats by party - CPP 57; KWP 3; independent 2; composition - men 50, women 12, percentage women 19.4%  National Assembly - percent of vote by party - CPP 82.4%, FUNCINPEC 9.2%, KNUP 1.7%, CYP 1.3%, other 5.4% (14 other parties received votes); seats by party - CPP 120, FUNCINPEC 5; composition - men 108, women 17, percentage women 13.6%
 **note**:  the EU, UN, and US condemned the July 2023 National Assembly election as neither free nor fair
 
 ### 司法部門
-- `highest court(s)`: Supreme Council (organized into 5- and 9-judge panels and includes a court chief and deputy chief); Constitutional Court (consists of 9 members); note - in 1997, the Cambodian Government requested UN assistance in establishing trials to prosecute former Khmer Rouge senior leaders for crimes against humanity committed during the 1975-1979 Khmer Rouge regime; the Extraordinary Chambers of the Courts of Cambodia (also called the Khmer Rouge Tribunal) was established in 2006 and began hearings for the first case in 2009; court proceedings remain ongoing in 2021
-- `judge selection and term of office`: Supreme Court and Constitutional Council judge candidates recommended by the Supreme Council of Magistracy, a 17-member body chaired by the monarch and includes other high-level judicial officers; judges of both courts appointed by the monarch; Supreme Court judges appointed for life; Constitutional Council judges appointed for 9-year terms with one-third of the court renewed every 3 years
-- `subordinate courts`: Appellate Court; provincial and municipal courts; Military Court
+- `最高法院`: Supreme Council (organized into 5- and 9-judge panels and includes a court chief and deputy chief); Constitutional Court (consists of 9 members); note - in 1997, the Cambodian Government requested UN assistance in establishing trials to prosecute former Khmer Rouge senior leaders for crimes against humanity committed during the 1975-1979 Khmer Rouge regime; the Extraordinary Chambers of the Courts of Cambodia (also called the Khmer Rouge Tribunal) was established in 2006 and began hearings for the first case in 2009; court proceedings remain ongoing in 2021
+- `法官遴選和任期`: Supreme Court and Constitutional Council judge candidates recommended by the Supreme Council of Magistracy, a 17-member body chaired by the monarch and includes other high-level judicial officers; judges of both courts appointed by the monarch; Supreme Court judges appointed for life; Constitutional Council judges appointed for 9-year terms with one-third of the court renewed every 3 years
+- `下級法院`: Appellate Court; provincial and municipal courts; Military Court
 
 ### 政黨
 Candlelight Party or CPCambodian People's Party or CPP Khmer Will Party or KWP
@@ -360,19 +360,19 @@ Candlelight Party or CPCambodian People's Party or CPP Khmer Will Party or KWP
 ADB, ARF, ASEAN, CICA, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador KEO Chhea (since 19 April 2022)
-- `chancery`: 4530 16th Street NW, Washington, DC 20011
-- `telephone`: [1] (202) 726-7742
+- `外交代表負責人`: Ambassador KEO Chhea (since 19 April 2022)
+- `衡平法院（在美國）`: 4530 16th Street NW, Washington, DC 20011
+- `電話號碼`: [1] (202) 726-7742
 - `FAX`: [1] (202) 726-8381
-- `email address and website`: camemb.usa@mfaic.gov.kh  https://www.embassyofcambodiadc.org/
+- `電子郵件地址和網站`: camemb.usa@mfaic.gov.kh  https://www.embassyofcambodiadc.org/
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador (vacant); Chargé d’Affaires Bridgette L. WALKER (since August 2024)
-- `embassy`: #1, Street 96, Sangkat Wat Phnom, Khan Daun Penh, Phnom Penh
-- `mailing address`: 4540 Phnom Penh Place, Washington DC  20521-4540
-- `telephone`: [855] (23) 728-000
+- `外交代表負責人`: Ambassador (vacant); Chargé d’Affaires Bridgette L. WALKER (since August 2024)
+- `大使館`: #1, Street 96, Sangkat Wat Phnom, Khan Daun Penh, Phnom Penh
+- `郵寄地址`: 4540 Phnom Penh Place, Washington DC  20521-4540
+- `電話號碼`: [855] (23) 728-000
 - `FAX`: [855] (23) 728-700
-- `email address and website`: ACSPhnomPenh@state.gov  https://kh.usembassy.gov/
+- `電子郵件地址和網站`: ACSPhnomPenh@state.gov  https://kh.usembassy.gov/
 
 ### 旗幟說明
 three horizontal bands of blue (top), red (double width), and blue with a white, three-towered temple, representing Angkor Wat, outlined in black in the center of the red band; red and blue are traditional Cambodian colors
@@ -382,8 +382,8 @@ three horizontal bands of blue (top), red (double width), and blue with a white,
 Angkor Wat temple, kouprey (wild ox); national colors: red, blue
 
 ### 國歌
-- `name`: "Nokoreach" (Royal Kingdom)
-- `lyrics/music`: CHUON NAT/F. PERRUCHOT and J. JEKYLL
+- `名稱`: "Nokoreach" (Royal Kingdom)
+- `歌詞／音樂`: CHUON NAT/F. PERRUCHOT and J. JEKYLL
 **note**:  adopted 1941, restored 1993; the anthem, based on a Cambodian folk tune, was restored after the defeat of the Communist regime
 
 ### 國家級遺產
@@ -429,18 +429,18 @@ $31.773 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 21.5% (2023 est.)
-- `industry`: 38.5% (2023 est.)
-- `services`: 33.4% (2023 est.)
+- `農業`: 21.5% (2023 est.)
+- `產業`: 38.5% (2023 est.)
+- `服務`: 33.4% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 41.8% (2023 est.)
-- `government consumption`: 8.1% (2023 est.)
-- `investment in fixed capital`: 15.3% (2023 est.)
-- `investment in inventories`: 0.7% (2023 est.)
-- `exports of goods and services`: 73.1% (2023 est.)
-- `imports of goods and services`: -40.4% (2023 est.)
+- `家庭消費`: 41.8% (2023 est.)
+- `政府消費`: 8.1% (2023 est.)
+- `固定資本投資`: 15.3% (2023 est.)
+- `存貨投資`: 0.7% (2023 est.)
+- `商品和服務出口`: 73.1% (2023 est.)
+- `商品和服務進口`: -40.4% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -465,17 +465,17 @@ tourism, garments, construction, rice milling, fishing, wood and wood products, 
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 0.8% (2023 est.)
-- `male`: 0.7% (2023 est.)
-- `female`: 0.9% (2023 est.)
+- `總計`: 0.8% (2023 est.)
+- `男性`: 0.7% (2023 est.)
+- `女性`: 0.9% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
 16.5% (2016 est.)
 
 ### 平均家庭支出
-- `on food`: 41.4% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 1.9% of household expenditures (2022 est.)
+- `餐食`: 41.4% of household expenditures (2022 est.)
+- `酒精和煙草`: 1.9% of household expenditures (2022 est.)
 
 ### 匯款
 8.81% of GDP (2023 est.)
@@ -484,8 +484,8 @@ tourism, garments, construction, rice milling, fishing, wood and wood products, 
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $5.9 billion (2020 est.)
-- `expenditures`: $4.666 billion (2020 est.)
+- `收入`: $5.9 billion (2020 est.)
+- `支出`: $4.666 billion (2020 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -546,34 +546,34 @@ $21.328 billion (2020 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 92.3% (2022 est.)
-- `electrification - urban areas`: 99%
-- `electrification - rural areas`: 88%
+- `電氣化－總人口`: 92.3% (2022 est.)
+- `電氣化－城市地區`: 99%
+- `電氣化－農村地區`: 88%
 
 ### 電力
-- `installed generating capacity`: 3.204 million kW (2022 est.)
-- `consumption`: 11.001 billion kWh (2022 est.)
-- `imports`: 3.566 billion kWh (2022 est.)
-- `transmission/distribution losses`: 1.38 billion kWh (2022 est.)
+- `裝機容量`: 3.204 million kW (2022 est.)
+- `消費`: 11.001 billion kWh (2022 est.)
+- `進口`: 3.566 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 1.38 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 49.2% of total installed capacity (2022 est.)
-- `solar`: 4.5% of total installed capacity (2022 est.)
-- `hydroelectricity`: 45.4% of total installed capacity (2022 est.)
-- `biomass and waste`: 1% of total installed capacity (2022 est.)
+- `石化燃料`: 49.2% of total installed capacity (2022 est.)
+- `太陽能`: 4.5% of total installed capacity (2022 est.)
+- `水力發電`: 45.4% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 1% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `production`: 113,000 metric tons (2022 est.)
-- `consumption`: 2.215 million metric tons (2022 est.)
-- `imports`: 2.265 million metric tons (2022 est.)
+- `生產`: 113,000 metric tons (2022 est.)
+- `消費`: 2.215 million metric tons (2022 est.)
+- `進口`: 2.265 million metric tons (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 73,000 bbl/day (2022 est.)
+- `成品油消費量`: 73,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 14.396 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 4.063 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 10.333 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 14.396 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 4.063 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 10.333 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 12.831 million Btu/person (2022 est.)
@@ -581,17 +581,17 @@ $21.328 billion (2020 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 38,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: (2022 est.) less than 1
+- `總訂閱數`: 38,000 (2022 est.)
+- `每100名居民訂閱數`: (2022 est.) less than 1
 
 ### 電話—移動電話
-- `total subscriptions`: 19.505 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 116 (2022 est.)
+- `總訂閱數`: 19.505 million (2022 est.)
+- `每100名居民訂閱數`: 116 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Cambodia’s mobile-dominated telecoms sector spent much of 2020 battling two major challenges: the global pandemic, and the government’s retraction of trial licenses for the rollout of 5G; citing concerns about waste and inefficiency occurring if each operator built a separate 5G infrastructure in order to maximize their own network’s coverage (and, presumably, to capture greater market share), the regulator withdrew the licenses that the operators had been using for their 5G trials; this was despite all of the operators having already announced a successful completion of their trials; more than a year later, the market is still waiting on the government to release its 5G policy and roadmap, along with the allocation of spectrum and approvals to permit commercial operation; there is little expectation of any further progress happening before the start of 2022; the mobile network operators have maintained their focus and investment strategies on upgrading and expanding their existing LTE networks around the country, and to 5G-enable their base stations; when the 5G market eventually arrives, the underlying infrastructure will at least be ready to support a rapid adoption of the higher-value applications and services; the mobile market fell back slightly during 2020 and 2021 (in terms of total subscriber numbers) as the Covid-19 crisis wore on, but it remains in relatively good health as mobile users increased their data usage over the period; the mobile broadband market experienced a small but very rare contraction in 2020, although rates were already very high in this area; there is likely to be a quick rebound to previous levels once economic conditions stabilize, followed by a modest rates of growth over the next five years; the number of fixed telephony lines in service continues to fall sharply as customers migrate to mobile platforms for both voice and data; the lack of any widespread fixed-line infrastructure has had a flow-on effect in the fixed-line broadband market, a sector that also remains largely under-developed (2021)
-- `domestic`: fixed-line connections stand at less than 1 per 100 persons; mobile-cellular usage, aided by competition among service providers, is about 120 per 100 persons (2021)
-- `international`: country code - 855; landing points for MCT and AAE-1 via submarine cables providing communication to Asia, the Middle East, Europe and Africa; satellite earth station - 1 Intersputnik (Indian Ocean region) (2019)
+- `總體評估`: Cambodia’s mobile-dominated telecoms sector spent much of 2020 battling two major challenges: the global pandemic, and the government’s retraction of trial licenses for the rollout of 5G; citing concerns about waste and inefficiency occurring if each operator built a separate 5G infrastructure in order to maximize their own network’s coverage (and, presumably, to capture greater market share), the regulator withdrew the licenses that the operators had been using for their 5G trials; this was despite all of the operators having already announced a successful completion of their trials; more than a year later, the market is still waiting on the government to release its 5G policy and roadmap, along with the allocation of spectrum and approvals to permit commercial operation; there is little expectation of any further progress happening before the start of 2022; the mobile network operators have maintained their focus and investment strategies on upgrading and expanding their existing LTE networks around the country, and to 5G-enable their base stations; when the 5G market eventually arrives, the underlying infrastructure will at least be ready to support a rapid adoption of the higher-value applications and services; the mobile market fell back slightly during 2020 and 2021 (in terms of total subscriber numbers) as the Covid-19 crisis wore on, but it remains in relatively good health as mobile users increased their data usage over the period; the mobile broadband market experienced a small but very rare contraction in 2020, although rates were already very high in this area; there is likely to be a quick rebound to previous levels once economic conditions stabilize, followed by a modest rates of growth over the next five years; the number of fixed telephony lines in service continues to fall sharply as customers migrate to mobile platforms for both voice and data; the lack of any widespread fixed-line infrastructure has had a flow-on effect in the fixed-line broadband market, a sector that also remains largely under-developed (2021)
+- `國內`: fixed-line connections stand at less than 1 per 100 persons; mobile-cellular usage, aided by competition among service providers, is about 120 per 100 persons (2021)
+- `國際的`: country code - 855; landing points for MCT and AAE-1 via submarine cables providing communication to Asia, the Middle East, Europe and Africa; satellite earth station - 1 Intersputnik (Indian Ocean region) (2019)
 
 ### 廣播媒體
 mixture of state-owned, joint public-private, and privately owned broadcast media; 27 TV broadcast stations with most operating on multiple channels, including 1 state-operated station broadcasting from multiple locations, 11 stations either jointly operated or privately owned with some broadcasting from several locations; multi-channel cable and satellite systems are available (2019); 84 radio broadcast stations - 1 state-owned broadcaster with multiple stations and a large mixture of public and private broadcasters; one international broadcaster is available (2019) as well as one Chinese joint venture television station with the Ministry of Interior; several television and radio operators broadcast online only (often via Facebook) (2019)
@@ -600,20 +600,20 @@ mixture of state-owned, joint public-private, and privately owned broadcast medi
 .kh
 
 ### 網際網路使用者
-- `total`: 10.2 million (2021 est.)
-- `percent of population`: 60% (2021 est.)
+- `總計`: 10.2 million (2021 est.)
+- `佔人口比例`: 60% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 233,732 (2020 est.) Slowly increase as focus is on mobile internet
-- `subscriptions per 100 inhabitants`: 1 (2020 est.)
+- `總計`: 233,732 (2020 est.) Slowly increase as focus is on mobile internet
+- `每100名居民訂閱數`: 1 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 6 (2020)
-- `inventory of registered aircraft operated by air carriers`: 25
-- `annual passenger traffic on registered air carriers`: 1,411,059 (2018)
-- `annual freight traffic on registered air carriers`: 680,000 (2018) mt-km
+- `註冊航空公司數量`: 6 (2020)
+- `註冊飛機庫存—航空承運商經營`: 25
+- `年度客運量－註冊航空公司`: 1,411,059 (2018)
+- `年度貨運量－註冊航空公司`: 680,000 (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 XU
@@ -625,30 +625,30 @@ XU
 1 (2024)
 
 ### 鐵路
-- `total`: 642 km (2014)
-- `narrow gauge`: 642 km (2014) 1.000-m gauge
+- `總計`: 642 km (2014)
+- `窄軌`: 642 km (2014) 1.000-m gauge
 **note**:  under restoration
 
 ### 道路
-- `total`: 61,810 km
-- `paved`: 15,000 km
-- `unpaved`: 46,810 km (2021)
+- `總計`: 61,810 km
+- `已鋪砌`: 15,000 km
+- `未鋪砌`: 46,810 km (2021)
 
 ### 水道
 3,700 km (2012) (mainly on Mekong River)
 
 ### 商船
-- `total`: 195 (2023)
-- `by type`: container ship 2, general cargo 123, oil tanker 18, other 52
+- `總計`: 195 (2023)
+- `依類型`: container ship 2, general cargo 123, oil tanker 18, other 52
 
 ### 港口
-- `total ports`: 2 (2024)
-- `large`: 0
-- `medium`: 1
-- `small`: 0
-- `very small`: 1
-- `ports with oil terminals`: 1
-- `key ports`: Kampong Saom, Phsar Ream
+- `總港口數`: 2 (2024)
+- `大`: 0
+- `中`: 1
+- `小`: 0
+- `非常小`: 1
+- `原油碼頭港口`: 1
+- `主要港口`: Kampong Saom, Phsar Ream
 
 ## 軍事和安全
 
@@ -682,10 +682,10 @@ the RCAF’s primary responsibilities are border, coastal, and internal security
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `stateless persons`: 75,000 (2022)
+- `無國籍人士`: 75,000 (2022)
 
 ### 人口販運
-- `tier rating`: Tier 3 — Cambodia does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Cambodia remained on Tier 3; for more details, go to: https://www.state.gov/reports/2024-trafficking-in-persons-report/cambodia/
+- `會級評分`: Tier 3 — Cambodia does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Cambodia remained on Tier 3; for more details, go to: https://www.state.gov/reports/2024-trafficking-in-persons-report/cambodia/
 
 ### 非法藥物
 a significant transshipment country for Burma-sourced methamphetamine and heroin and a location for large-scale ketamine production; transnational criminal organizations (TCO’s) use Cambodia as both a transit and destination for illicit drugs; precursor chemicals from mainly China used at domestic clandestine laboratories operated by TCOs for the manufacturing of methamphetamine, ketamine, and other synthetic drugs (2021)

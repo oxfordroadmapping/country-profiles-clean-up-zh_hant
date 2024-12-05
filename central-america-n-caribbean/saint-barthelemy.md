@@ -19,15 +19,15 @@ Caribbean, island between the Caribbean Sea and the North Atlantic Ocean; locate
 Central America and the Caribbean
 
 ### 面積
-- `total `: 25 sq km
-- `land`: 25 sq km
-- `water`: negligible
+- `總計`: 25 sq km
+- `土地`: 25 sq km
+- `水`: negligible
 
 ### 面積—比較
 less than one-eighth the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 氣候
 tropical, with practically no variation in temperature; has two seasons (dry and humid)
@@ -36,8 +36,8 @@ tropical, with practically no variation in temperature; has two seasons (dry and
 hilly, almost completely surrounded by shallow-water reefs, with plentiful beaches
 
 ### 海拔
-- `highest point`: Morne du Vitet 286 m
-- `lowest point`: Caribbean Ocean 0 m
+- `最高點`: Morne du Vitet 286 m
+- `最低點`: Caribbean Ocean 0 m
 
 ### 自然資源
 few natural resources; beaches foster tourism
@@ -51,35 +51,35 @@ a 1,200-hectare marine nature reserve, the Reserve Naturelle, is made up of five
 ## 人民和社會
 
 ### 人口
-- `total`: 7,086
-- `male`: 3,737
-- `female`: 3,349 (2024 est.)
+- `總計`: 7,086
+- `男性`: 3,737
+- `女性`: 3,349 (2024 est.)
 
 ### 族裔群體
 French, Portuguese, Caribbean, Afro-Caribbean
 
 ### 語文
 French (primary), English
-- `major-language sample(s)`: The World Factbook, une source indispensable d'informations de base. (French)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: The World Factbook, une source indispensable d'informations de base. (French)  The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Roman Catholic, Protestant, Jehovah's Witnesses
 
 ### 年齡結構
-- `0-14 years`: 13.9% (male 506/female 479)
-- `15-64 years`: 63.1% (male 2,413/female 2,057)
-- `65 years and over`: 23% (2024 est.) (male 818/female 813)
+- `0-14歲`: 13.9% (male 506/female 479)
+- `15-64歲`: 63.1% (male 2,413/female 2,057)
+- `65歲及以上`: 23% (2024 est.) (male 818/female 813)
 
 ### 撫養比率
-- `total dependency ratio`: 30.8
-- `youth dependency ratio`: 17.5
-- `elderly dependency ratio`: 13.3
-- `potential support ratio`: 7.5 (2021)
+- `總受扶養人比率`: 30.8
+- `少年撫養比率`: 17.5
+- `老人撫養比率`: 13.3
+- `潛在支持率`: 7.5 (2021)
 
 ### 年齡中位數
-- `total`: 47.4 years (2024 est.)
-- `male`: 47 years
-- `female`: 47.8 years
+- `總計`: 47.4 years (2024 est.)
+- `男性`: 47 years
+- `女性`: 47.8 years
 
 ### 人口成長率
 -0.11% (2024 est.)
@@ -97,21 +97,21 @@ Roman Catholic, Protestant, Jehovah's Witnesses
 most of the populace concentrated in and around the capital of Gustavia, but scattered settlements exist around the island periphery
 
 ### 性別比例
-- `at birth`: 1.06 male(s)/female
-- `0-14 years`: 1.06 male(s)/female
-- `15-64 years`: 1.17 male(s)/female
-- `65 years and over`: 1.01 male(s)/female
-- `total population`: 1.12 male(s)/female (2024 est.)
+- `出生時`: 1.06 male(s)/female
+- `0-14歲`: 1.06 male(s)/female
+- `15-64歲`: 1.17 male(s)/female
+- `65歲及以上`: 1.01 male(s)/female
+- `總人口數`: 1.12 male(s)/female (2024 est.)
 
 ### 嬰兒死亡率
-- `total`: 6.5 deaths/1,000 live births (2024 est.)
-- `male`: 7.6 deaths/1,000 live births
-- `female`: 5.3 deaths/1,000 live births
+- `總計`: 6.5 deaths/1,000 live births (2024 est.)
+- `男性`: 7.6 deaths/1,000 live births
+- `女性`: 5.3 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 81 years (2024 est.)
-- `male`: 78 years
-- `female`: 84.2 years
+- `總人口數`: 81 years (2024 est.)
+- `男性`: 78 years
+- `女性`: 84.2 years
 
 ### 總生育率
 1.64 children born/woman (2024 est.)
@@ -123,12 +123,12 @@ most of the populace concentrated in and around the capital of Gustavia, but sca
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: NA
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: 0% of population (2020)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: 0% of population (2020)
 
 ### 當前醫療支出
 NA
@@ -137,12 +137,12 @@ NA
 NA
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: NA
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: 0% of population (2020)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: 0% of population (2020)
 
 ### 5歲以下體重不足兒童
 NA
@@ -151,9 +151,9 @@ NA
 NA
 
 ### 識字程度
-- `total population`: NA
-- `male`: NA
-- `female`: NA
+- `總人口數`: NA
+- `男性`: NA
+- `女性`: NA
 
 ## 環境
 
@@ -166,12 +166,12 @@ tropical, with practically no variation in temperature; has two seasons (dry and
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Overseas Collectivity of Saint Barthelemy
-- `conventional short form`: Saint Barthelemy
-- `local long form`: Collectivité d'outre mer de Saint-Barthélemy
-- `local short form`: Saint-Barthélemy
-- `abbreviation`: Saint-Barth (French)/ St. Barts or St. Barths (English)
-- `etymology`: explorer Christopher COLUMBUS named the island in honor of his brother Bartolomeo's namesake saint in 1493
+- `常用長名`: Overseas Collectivity of Saint Barthelemy
+- `常用短名`: Saint Barthelemy
+- `當地語長名`: Collectivité d'outre mer de Saint-Barthélemy
+- `當地語短名`: Saint-Barthélemy
+- `縮寫`: Saint-Barth (French)/ St. Barts or St. Barths (English)
+- `语源学`: explorer Christopher COLUMBUS named the island in honor of his brother Bartolomeo's namesake saint in 1493
 
 ### 政府類型
 parliamentary democracy (Territorial Council); overseas collectivity of France
@@ -180,10 +180,10 @@ parliamentary democracy (Territorial Council); overseas collectivity of France
 overseas collectivity of France
 
 ### 首都
-- `name`: Gustavia
-- `geographic coordinates`: 17 53 N, 62 51 W
-- `time difference`: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
-- `etymology`: named in honor of King Gustav III (1746-1792) of Sweden during whose reign the island was obtained from France in 1784; the name was retained when in 1878 the island was sold back to France
+- `名稱`: Gustavia
+- `地理坐標`: 17 53 N, 62 51 W
+- `時差`: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+- `语源学`: named in honor of King Gustav III (1746-1792) of Sweden during whose reign the island was obtained from France in 1784; the name was retained when in 1878 the island was sold back to France
 
 ### 獨立性
 none (overseas collectivity of France)
@@ -195,8 +195,8 @@ Fête de la Fédération, 14 July (1790); note - local holiday is St. Barthelemy
 French civil law
 
 ### 憲法
-- `history`: 4 October 1958 (French Constitution)
-- `amendments`: amendment procedures of France's constitution apply
+- `歷史`: 4 October 1958 (French Constitution)
+- `修正`: amendment procedures of France's constitution apply
 
 ### 公民身份
 see France
@@ -205,16 +205,16 @@ see France
 18 years of age, universal
 
 ### 行政部門
-- `chief of state`: President Emmanuel MACRON (since 14 May 2017), represented by Prefect Vincent BERTON (since 28 March 2022)
-- `head of government`: President of Territorial Council Xavier LEDEE (since 3 April 2022)
-- `cabinet`: Executive Council elected by the Territorial Council; note - there is also an advisory, economic, social, and cultural council
-- `elections/appointments`: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); prefect appointed by the French president on the advice of French Ministry of Interior; president of Territorial Council indirectly elected by its members for a 5-year term; election last held on 27 March 2022 (next to be held in 2027)
-- `election results`: *2022: *Xavier LEDEE (Saint Barth United) elected president; Territorial Council vote - 13 votes for, 6 blank votes*  *2017: **Bruno MAGRAS (Saint Barth First!) elected president; Territorial Council vote - 14 out of 19 votes
+- `國家元首`: President Emmanuel MACRON (since 14 May 2017), represented by Prefect Vincent BERTON (since 28 March 2022)
+- `政府首腦`: President of Territorial Council Xavier LEDEE (since 3 April 2022)
+- `内閣`: Executive Council elected by the Territorial Council; note - there is also an advisory, economic, social, and cultural council
+- `選舉/任命`: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); prefect appointed by the French president on the advice of French Ministry of Interior; president of Territorial Council indirectly elected by its members for a 5-year term; election last held on 27 March 2022 (next to be held in 2027)
+- `選舉結果`: *2022: *Xavier LEDEE (Saint Barth United) elected president; Territorial Council vote - 13 votes for, 6 blank votes*  *2017: **Bruno MAGRAS (Saint Barth First!) elected president; Territorial Council vote - 14 out of 19 votes
 
 ### 立法部門
-- `description`: unicameral Territorial Council (19 seats; members elected by absolute majority vote in the first-round vote and proportional representation vote in the second round; members serve 5-year terms)
-- `elections`: Territorial Council - first round held on 20 March 2022 and second round held on 27 March 2022 (next to be held in 2027)  French Senate - election last held on 24 September 2023 (next to be held on 30 September 2026)  French National Assembly - election last held on 12 and 19 June 2022 (next to be held by June 2027)
-- `election results`: Territorial Council - percent of vote by party in first round - SBA 46.2%, Saint Barth Action Equilibre 27.1%, Unis pour Saint Barthelemy 26.8%; percent of vote by party in second round - Saint Barth Action Equilibre and Unis pour Saint Barthelemy 50.9%, SBA 49.2%, seats by party - Saint Barth Action Equilibre and Unis pour Saint Barthelemy 13, SBA 6; composition - men NA, women NA, percentage women NA%  French Senate - percent of vote by party - NA; seats by party - UMP 1  French National Assembly - percent of vote by party NA; seats by party - UMP 1
+- `描述`: unicameral Territorial Council (19 seats; members elected by absolute majority vote in the first-round vote and proportional representation vote in the second round; members serve 5-year terms)
+- `選舉`: Territorial Council - first round held on 20 March 2022 and second round held on 27 March 2022 (next to be held in 2027)  French Senate - election last held on 24 September 2023 (next to be held on 30 September 2026)  French National Assembly - election last held on 12 and 19 June 2022 (next to be held by June 2027)
+- `選舉結果`: Territorial Council - percent of vote by party in first round - SBA 46.2%, Saint Barth Action Equilibre 27.1%, Unis pour Saint Barthelemy 26.8%; percent of vote by party in second round - Saint Barth Action Equilibre and Unis pour Saint Barthelemy 50.9%, SBA 49.2%, seats by party - Saint Barth Action Equilibre and Unis pour Saint Barthelemy 13, SBA 6; composition - men NA, women NA, percentage women NA%  French Senate - percent of vote by party - NA; seats by party - UMP 1  French National Assembly - percent of vote by party NA; seats by party - UMP 1
 **note**:  1 senator is indirectly elected to the French Senate by an electoral college for a 6-year term, and 1 deputy (shared with Saint Martin) is directly elected to the French National Assembly for a five-year term
 
 ### 政黨
@@ -227,7 +227,7 @@ ACS (associate), UPU
 none (overseas collectivity of France)
 
 ### 駐該國的美國外交代表
-- `embassy`: none (overseas collectivity of France)
+- `大使館`: none (overseas collectivity of France)
 
 ### 旗幟說明
 the flag of France is used
@@ -236,8 +236,8 @@ the flag of France is used
 pelican
 
 ### 國歌
-- `name`: "L'Hymne a St. Barthelemy" (Hymn to St. Barthelemy)
-- `lyrics/music`: Isabelle Massart DERAVIN/Michael VALENTI
+- `名稱`: "L'Hymne a St. Barthelemy" (Hymn to St. Barthelemy)
+- `歌詞／音樂`: Isabelle Massart DERAVIN/Michael VALENTI
 **note**:  local anthem in use since 1999; as a collectivity of France, "La Marseillaise" is official (see France)
 
 ## 經濟
@@ -272,14 +272,14 @@ precious metal watches, base metal watches, jewelry, refined petroleum, cars (20
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2021)
+- `電氣化－總人口`: 100% (2021)
 
 ## 通訊
 
 ### 電信系統
-- `general assessment`: fully integrated access; 4G and LTE services (2019)
-- `domestic`: direct dial capability with both fixed and wireless systems, 3 FM channels, no broadcasting (2018)
-- `international`: country code - 590; landing points for the SSCS and the Southern Caribbean Fiber submarine cables providing voice and data connectivity to numerous Caribbean Islands (2019)
+- `總體評估`: fully integrated access; 4G and LTE services (2019)
+- `國內`: direct dial capability with both fixed and wireless systems, 3 FM channels, no broadcasting (2018)
+- `國際的`: country code - 590; landing points for the SSCS and the Southern Caribbean Fiber submarine cables providing voice and data connectivity to numerous Caribbean Islands (2019)
 
 ### 廣播媒體
 2 local TV broadcasters; 5 FM radio channels (2021)
@@ -288,8 +288,8 @@ precious metal watches, base metal watches, jewelry, refined petroleum, cars (20
 .bl; note - .gp, the Internet country code for Guadeloupe, and .fr, the Internet country code for France, might also be encountered
 
 ### 網際網路使用者
-- `total`: 7,077 (2022 est.)
-- `percent of population`: 71.3% (2022 est.)
+- `總計`: 7,077 (2022 est.)
+- `佔人口比例`: 71.3% (2022 est.)
 
 ## 交通運輸
 
@@ -297,7 +297,7 @@ precious metal watches, base metal watches, jewelry, refined petroleum, cars (20
 1 (2024)
 
 ### 道路
-- `total`: 40 km
+- `總計`: 40 km
 
 ### 運輸—註釋
 nearest airport for international flights is Princess Juliana International Airport (SXM) located on Sint Maarten

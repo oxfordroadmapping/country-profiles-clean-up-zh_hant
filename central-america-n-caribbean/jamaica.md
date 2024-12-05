@@ -19,24 +19,24 @@ Caribbean, island in the Caribbean Sea, south of Cuba
 Central America and the Caribbean
 
 ### 面積
-- `total `: 10,991 sq km
-- `land`: 10,831 sq km
-- `water`: 160 sq km
+- `總計`: 10,991 sq km
+- `土地`: 10,831 sq km
+- `水`: 160 sq km
 
 ### 面積—比較
 about half the size of New Jersey; slightly smaller than Connecticut
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 1,022 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: 200 nm or to edge of the continental margin
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: 200 nm or to edge of the continental margin
 measured from claimed archipelagic straight baselines
 
 ### 氣候
@@ -46,20 +46,20 @@ tropical; hot, humid; temperate interior
 mostly mountains, with narrow, discontinuous coastal plain
 
 ### 海拔
-- `highest point`: Blue Mountain Peak 2,256 m
-- `lowest point`: Caribbean Sea 0 m
-- `mean elevation`: 18 m
+- `最高點`: Blue Mountain Peak 2,256 m
+- `最低點`: Caribbean Sea 0 m
+- `平均海拔`: 18 m
 
 ### 自然資源
 bauxite, alumina, gypsum, limestone
 
 ### 土地利用
-- `agricultural land`: 41.4% (2018 est.)
-- `agricultural land: arable land`: arable land: 11.1% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 9.2% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 21.1% (2018 est.)
-- `forest`: 31.1% (2018 est.)
-- `other`: 27.5% (2018 est.)
+- `農地`: 41.4% (2018 est.)
+- `農地：耕地`: arable land: 11.1% (2018 est.)
+- `農地：永久性作物`: permanent crops: 9.2% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 21.1% (2018 est.)
+- `森林`: 31.1% (2018 est.)
+- `其它`: 27.5% (2018 est.)
 
 ### 灌溉土地
 250 sq km (2012)
@@ -76,13 +76,13 @@ third largest island in the Caribbean (after Cuba and Hispaniola); strategic loc
 ## 人民和社會
 
 ### 人口
-- `total`: 2,823,713
-- `male`: 1,397,495
-- `female`: 1,426,218 (2024 est.)
+- `總計`: 2,823,713
+- `男性`: 1,397,495
+- `女性`: 1,426,218 (2024 est.)
 
 ### 國籍
-- `noun`: Jamaican(s)
-- `adjective`: Jamaican
+- `名詞`: Jamaican(s)
+- `形容詞`: Jamaican
 
 ### 族裔群體
 Black 92.1%, mixed 6.1%, East Indian 0.8%, other 0.4%, unspecified 0.7% (2011 est.)
@@ -94,20 +94,20 @@ English, Jamaican patois
 Protestant 64.8% (includes Seventh Day Adventist 12.0%, Pentecostal 11.0%, Other Church of God 9.2%, New Testament Church of God 7.2%, Baptist 6.7%, Church of God in Jamaica 4.8%, Church of God of Prophecy 4.5%, Anglican 2.8%, United Church 2.1%, Methodist 1.6%, Revived 1.4%, Brethren 0.9%, and Moravian 0.7%), Roman Catholic 2.2%, Jehovah's Witness 1.9%, Rastafarian 1.1%, other 6.5%, none 21.3%, unspecified 2.3% (2011 est.)
 
 ### 年齡結構
-- `0-14 years`: 23.8% (male 342,691/female 329,773)
-- `15-64 years`: 65.7% (male 914,364/female 941,816)
-- `65 years and over`: 10.4% (2024 est.) (male 140,440/female 154,629)
+- `0-14歲`: 23.8% (male 342,691/female 329,773)
+- `15-64歲`: 65.7% (male 914,364/female 941,816)
+- `65歲及以上`: 10.4% (2024 est.) (male 140,440/female 154,629)
 
 ### 撫養比率
-- `total dependency ratio`: 38
-- `youth dependency ratio`: 28
-- `elderly dependency ratio`: 13.4
-- `potential support ratio`: 7.4 (2021 est.)
+- `總受扶養人比率`: 38
+- `少年撫養比率`: 28
+- `老人撫養比率`: 13.4
+- `潛在支持率`: 7.4 (2021 est.)
 
 ### 年齡中位數
-- `total`: 30.9 years (2024 est.)
-- `male`: 30.1 years
-- `female`: 31.7 years
+- `總計`: 30.9 years (2024 est.)
+- `男性`: 30.1 years
+- `女性`: 31.7 years
 
 ### 人口成長率
 0.1% (2024 est.)
@@ -125,18 +125,18 @@ Protestant 64.8% (includes Seventh Day Adventist 12.0%, Pentecostal 11.0%, Other
 population density is high throughout, but increases in and around Kingston, Montego Bay, and Port Esquivel
 
 ### 都市化
-- `urban population`: 57.4% of total population (2023)
-- `rate of urbanization`: 0.79% annual rate of change (2020-25 est.)
+- `城市人口`: 57.4% of total population (2023)
+- `城鎮化率`: 0.79% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 597,000 KINGSTON (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.04 male(s)/female
-- `15-64 years`: 0.97 male(s)/female
-- `65 years and over`: 0.91 male(s)/female
-- `total population`: 0.98 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.04 male(s)/female
+- `15-64歲`: 0.97 male(s)/female
+- `65歲及以上`: 0.91 male(s)/female
+- `總人口數`: 0.98 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 21.2 years (2008 est.)
@@ -146,14 +146,14 @@ population density is high throughout, but increases in and around Kingston, Mon
 99 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 10.7 deaths/1,000 live births (2024 est.)
-- `male`: 11.9 deaths/1,000 live births
-- `female`: 9.4 deaths/1,000 live births
+- `總計`: 10.7 deaths/1,000 live births (2024 est.)
+- `男性`: 11.9 deaths/1,000 live births
+- `女性`: 9.4 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 76.3 years (2024 est.)
-- `male`: 74.5 years
-- `female`: 78.1 years
+- `總人口數`: 76.3 years (2024 est.)
+- `男性`: 74.5 years
+- `女性`: 78.1 years
 
 ### 總生育率
 2.05 children born/woman (2024 est.)
@@ -165,12 +165,12 @@ population density is high throughout, but increases in and around Kingston, Mon
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: 98.3% of population
-- `improved: rural`: rural: 93.9% of population
-- `improved: total`: total: 96.4% of population
-- `unimproved: urban`: urban: 1.7% of population
-- `unimproved: rural`: rural: 6.1% of population
-- `unimproved: total`: total: 3.6% of population (2020 est.)
+- `已改進－城市`: urban: 98.3% of population
+- `已改進－農村`: rural: 93.9% of population
+- `已改進－總計`: total: 96.4% of population
+- `未改進：都市`: urban: 1.7% of population
+- `未改進：鄉村`: rural: 6.1% of population
+- `未改善：總計`: total: 3.6% of population (2020 est.)
 
 ### 當前醫療支出
 6.6% of GDP (2020)
@@ -182,27 +182,27 @@ NA
 1.7 beds/1,000 population (2017)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 98.6% of population
-- `improved: rural`: rural: 99.4% of population
-- `improved: total`: total: 98.9% of population
-- `unimproved: urban`: urban: 1.4% of population
-- `unimproved: rural`: rural: 0.6% of population
-- `unimproved: total`: total: 1.1% of population (2020 est.)
+- `已改進－城市`: urban: 98.6% of population
+- `已改進－農村`: rural: 99.4% of population
+- `已改進－總計`: total: 98.9% of population
+- `未改進：都市`: urban: 1.4% of population
+- `未改進：鄉村`: rural: 0.6% of population
+- `未改善：總計`: total: 1.1% of population (2020 est.)
 
 ### 肥胖—成人流行率
 24.7% (2016)
 
 ### 人均酒精消費量
-- `total`: 3.46 liters of pure alcohol (2019 est.)
-- `beer`: 1.19 liters of pure alcohol (2019 est.)
-- `wine`: 0.25 liters of pure alcohol (2019 est.)
-- `spirits`: 1.66 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.35 liters of pure alcohol (2019 est.)
+- `總計`: 3.46 liters of pure alcohol (2019 est.)
+- `啤酒`: 1.19 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.25 liters of pure alcohol (2019 est.)
+- `烈酒`: 1.66 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.35 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 9.4% (2020 est.)
-- `male`: 15% (2020 est.)
-- `female`: 3.8% (2020 est.)
+- `總計`: 9.4% (2020 est.)
+- `男性`: 15% (2020 est.)
+- `女性`: 3.8% (2020 est.)
 
 ### 5歲以下體重不足兒童
 2.5% (2018/19)
@@ -214,15 +214,15 @@ NA
 6% of GDP (2021 est.)
 
 ### 識字程度
-- `definition`: age 15 and over has ever attended school
-- `total population`: 88.7%
-- `male`: 84%
-- `female`: 93.1% (2015)
+- `定義`: age 15 and over has ever attended school
+- `總人口數`: 88.7%
+- `男性`: 84%
+- `女性`: 93.1% (2015)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 12 years
-- `male`: 11 years
-- `female`: 13 years (2015)
+- `總計`: 12 years
+- `男性`: 11 years
+- `女性`: 13 years (2015)
 
 ## 環境
 
@@ -230,23 +230,23 @@ NA
 heavy rates of deforestation; coastal waters polluted by industrial waste, sewage, and oil spills; damage to coral reefs; air pollution in Kingston from vehicle emissions; land erosion
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 tropical; hot, humid; temperate interior
 
 ### 土地利用
-- `agricultural land`: 41.4% (2018 est.)
-- `agricultural land: arable land`: arable land: 11.1% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 9.2% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 21.1% (2018 est.)
-- `forest`: 31.1% (2018 est.)
-- `other`: 27.5% (2018 est.)
+- `農地`: 41.4% (2018 est.)
+- `農地：耕地`: arable land: 11.1% (2018 est.)
+- `農地：永久性作物`: permanent crops: 9.2% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 21.1% (2018 est.)
+- `森林`: 31.1% (2018 est.)
+- `其它`: 27.5% (2018 est.)
 
 ### 都市化
-- `urban population`: 57.4% of total population (2023)
-- `rate of urbanization`: 0.79% annual rate of change (2020-25 est.)
+- `城市人口`: 57.4% of total population (2023)
+- `城鎮化率`: 0.79% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.15% of GDP (2018 est.)
@@ -255,17 +255,17 @@ tropical; hot, humid; temperate interior
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 14.83 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 8.23 megatons (2016 est.)
-- `methane emissions`: 1.08 megatons (2020 est.)
+- `顆粒物排放量`: 14.83 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 8.23 megatons (2016 est.)
+- `甲烷排放量`: 1.08 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 1,051,695 tons (2016 est.)
+- `城市固體廢棄物－每年產生`: 1,051,695 tons (2016 est.)
 
 ### 總取水量
-- `municipal`: 140 million cubic meters (2020 est.)
-- `industrial`: 1.1 billion cubic meters (2020 est.)
-- `agricultural`: 110 million cubic meters (2020 est.)
+- `市級`: 140 million cubic meters (2020 est.)
+- `工業`: 1.1 billion cubic meters (2020 est.)
+- `農業`: 110 million cubic meters (2020 est.)
 
 ### 可再生水資源總量
 10.82 billion cubic meters (2020 est.)
@@ -273,18 +273,18 @@ tropical; hot, humid; temperate interior
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Jamaica
-- `etymology`: from the native Taino word "haymaca" meaning "Land of Wood and Water" or possibly "Land of Springs"
+- `常用長名`: none
+- `常用短名`: Jamaica
+- `语源学`: from the native Taino word "haymaca" meaning "Land of Wood and Water" or possibly "Land of Springs"
 
 ### 政府類型
 parliamentary democracy (Parliament) under a constitutional monarchy; a Commonwealth realm
 
 ### 首都
-- `name`: Kingston
-- `geographic coordinates`: 18 00 N, 76 48 W
-- `time difference`: UTC-5 (same time as Washington, DC, during Standard Time)
-- `etymology`: the name is a blending of the words "king's" and "town"; the English king at the time of the city's founding in 1692 was WILLIAM III (r. 1689-1702)
+- `名稱`: Kingston
+- `地理坐標`: 18 00 N, 76 48 W
+- `時差`: UTC-5 (same time as Washington, DC, during Standard Time)
+- `语源学`: the name is a blending of the words "king's" and "town"; the English king at the time of the city's founding in 1692 was WILLIAM III (r. 1689-1702)
 
 ### 行政區劃
 14 parishes; Clarendon, Hanover, Kingston, Manchester, Portland, Saint Andrew, Saint Ann, Saint Catherine, Saint Elizabeth, Saint James, Saint Mary, Saint Thomas, Trelawny, Westmoreland
@@ -300,37 +300,37 @@ Independence Day, 6 August (1962)
 common law system based on the English model
 
 ### 憲法
-- `history`: several previous (preindependence); latest drafted 1961-62, submitted to British Parliament 24 July 1962, entered into force 6 August 1962 (at independence)
-- `amendments`: proposed by Parliament; passage of amendments to "non-entrenched" constitutional sections, such as lowering the voting age, requires majority vote by the Parliament membership; passage of amendments to "entrenched" sections, such as fundamental rights and freedoms, requires two-thirds majority vote of Parliament; passage of amendments to "specially entrenched" sections such as the dissolution of Parliament or the executive authority of the monarch requires two-thirds approval by Parliament and approval in a referendum; amended many times, last in 2017; note - in mid-July 2024, Jamaica’s Constitutional Reform Committee submitted its report on recommendations for reform of the constitution and awaiting debate in Parliament
+- `歷史`: several previous (preindependence); latest drafted 1961-62, submitted to British Parliament 24 July 1962, entered into force 6 August 1962 (at independence)
+- `修正`: proposed by Parliament; passage of amendments to "non-entrenched" constitutional sections, such as lowering the voting age, requires majority vote by the Parliament membership; passage of amendments to "entrenched" sections, such as fundamental rights and freedoms, requires two-thirds majority vote of Parliament; passage of amendments to "specially entrenched" sections such as the dissolution of Parliament or the executive authority of the monarch requires two-thirds approval by Parliament and approval in a referendum; amended many times, last in 2017; note - in mid-July 2024, Jamaica’s Constitutional Reform Committee submitted its report on recommendations for reform of the constitution and awaiting debate in Parliament
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt
 
 ### 公民身份
-- `citizenship by birth`: yes
-- `citizenship by descent only`: yes
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: 4 out of the previous 5 years
+- `出生公民權`: yes
+- `血統公民身份`: yes
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: 4 out of the previous 5 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: King CHARLES III (since 8 September 2022); represented by Governor General Sir Patrick L. ALLEN (since 26 February 2009)
-- `head of government`: Prime Minister Andrew HOLNESS (since 3 March 2016)
-- `cabinet`: Cabinet appointed by the governor general on the advice of the prime minister
-- `elections/appointments`: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the leader of the majority party or majority coalition in the House of Representatives is appointed prime minister by the governor general
+- `國家元首`: King CHARLES III (since 8 September 2022); represented by Governor General Sir Patrick L. ALLEN (since 26 February 2009)
+- `政府首腦`: Prime Minister Andrew HOLNESS (since 3 March 2016)
+- `内閣`: Cabinet appointed by the governor general on the advice of the prime minister
+- `選舉/任命`: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the leader of the majority party or majority coalition in the House of Representatives is appointed prime minister by the governor general
 **note**:  the Jamaican Government, in May 2023, announced plans to hold a referendum in 2024 to determine whether or not to remain in the Commonwealth or become a republic
 
 ### 立法部門
-- `description`: bicameral Parliament consists of:Senate (21 seats; 13 members appointed by the governor general on the advice of the prime minister and 8 members appointed by the governor general on the advice of the opposition party leader; members serve 5-year terms (no term limits) or until Parliament is dissolved)House of Representatives (63 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms (no term limits) or until Parliament is dissolved)
-- `elections`: Senate - last full slate of appointments early on 3 September 2020 (next full slate in 2025)House of Representatives - last held on 3 September 2020 (next to be held in 2025)
-- `election results`: Senate - percent by party - NA; seats by party - NA; composition - men 13, women 8, percentage women 38.1%  House of Representatives - percent of vote by party - JLP 57%, PNP 42.8%, independent 0.2%; seats by party - JLP 48, PNP 15; composition - men 45, women 14; percentage women 23.7%; note - total Parliament percentage women 27.5%
+- `描述`: bicameral Parliament consists of:Senate (21 seats; 13 members appointed by the governor general on the advice of the prime minister and 8 members appointed by the governor general on the advice of the opposition party leader; members serve 5-year terms (no term limits) or until Parliament is dissolved)House of Representatives (63 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms (no term limits) or until Parliament is dissolved)
+- `選舉`: Senate - last full slate of appointments early on 3 September 2020 (next full slate in 2025)House of Representatives - last held on 3 September 2020 (next to be held in 2025)
+- `選舉結果`: Senate - percent by party - NA; seats by party - NA; composition - men 13, women 8, percentage women 38.1%  House of Representatives - percent of vote by party - JLP 57%, PNP 42.8%, independent 0.2%; seats by party - JLP 48, PNP 15; composition - men 45, women 14; percentage women 23.7%; note - total Parliament percentage women 27.5%
 
 ### 司法部門
-- `highest court(s)`: Court of Appeal (consists of president of the court and a minimum of 4 judges); Supreme Court (40 judges organized in specialized divisions); note - appeals beyond Jamaica's highest courts are referred to the Judicial Committee of the Privy Council (in London) rather than to the Caribbean Court of Justice (the appellate court for member states of the Caribbean Community)
-- `judge selection and term of office`: chief justice of the Supreme Court and president of the Court of Appeal appointed by the governor-general on the advice of the prime minister; other judges of both courts appointed by the governor-general on the advice of the Judicial Service Commission; judges of both courts serve till age 70
-- `subordinate courts`: resident magistrate courts, district courts, and petty sessions courts
+- `最高法院`: Court of Appeal (consists of president of the court and a minimum of 4 judges); Supreme Court (40 judges organized in specialized divisions); note - appeals beyond Jamaica's highest courts are referred to the Judicial Committee of the Privy Council (in London) rather than to the Caribbean Court of Justice (the appellate court for member states of the Caribbean Community)
+- `法官遴選和任期`: chief justice of the Supreme Court and president of the Court of Appeal appointed by the governor-general on the advice of the prime minister; other judges of both courts appointed by the governor-general on the advice of the Judicial Service Commission; judges of both courts serve till age 70
+- `下級法院`: resident magistrate courts, district courts, and petty sessions courts
 
 ### 政黨
 Jamaica Labor Party or JLPJamaica Progressive Party or JPPPeople's National Party or PNPUnited Independents' Congress or UIC
@@ -339,20 +339,20 @@ Jamaica Labor Party or JLPJamaica Progressive Party or JPPPeople's National Part
 ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Audrey Patrice MARKS (since 18 January 2017)
-- `chancery`: 1520 New Hampshire Avenue NW, Washington, DC 20036
-- `telephone`: [1] (202) 452-0660
+- `外交代表負責人`: Ambassador Audrey Patrice MARKS (since 18 January 2017)
+- `衡平法院（在美國）`: 1520 New Hampshire Avenue NW, Washington, DC 20036
+- `電話號碼`: [1] (202) 452-0660
 - `FAX`: [1] (202) 452-0036
-- `email address and website`: contactus@jamaicaembassy.org  Jamaican Embassy (embassyofjamaica.org)
-- `consulate(s) general`: Miami, New York
+- `電子郵件地址和網站`: contactus@jamaicaembassy.org  Jamaican Embassy (embassyofjamaica.org)
+- `總領事館`: Miami, New York
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador N. Nickolas PERRY (since 13 May 2022)
-- `embassy`: 142 Old Hope Road, Kingston 6
-- `mailing address`: 3210 Kingston Place, Washington DC  20521-3210
-- `telephone`: (876) 702-6000
+- `外交代表負責人`: Ambassador N. Nickolas PERRY (since 13 May 2022)
+- `大使館`: 142 Old Hope Road, Kingston 6
+- `郵寄地址`: 3210 Kingston Place, Washington DC  20521-3210
+- `電話號碼`: (876) 702-6000
 - `FAX`: (876) 702-6348
-- `email address and website`: KingstonACS@state.gov  https://jm.usembassy.gov/
+- `電子郵件地址和網站`: KingstonACS@state.gov  https://jm.usembassy.gov/
 
 ### 旗幟說明
 diagonal yellow cross divides the flag into four triangles - green (top and bottom) and black (hoist side and fly side); green represents hope, vegetation, and agriculture, black reflects hardships overcome and to be faced, and yellow recalls golden sunshine and the island's natural resources
@@ -361,8 +361,8 @@ diagonal yellow cross divides the flag into four triangles - green (top and bott
 green-and-black streamertail (bird), Guaiacum officinale (Guaiacwood); national colors: green, yellow, black
 
 ### 國歌
-- `name`: "Jamaica, Land We Love"
-- `lyrics/music`: Hugh Braham SHERLOCK/Robert Charles LIGHTBOURNE
+- `名稱`: "Jamaica, Land We Love"
+- `歌詞／音樂`: Hugh Braham SHERLOCK/Robert Charles LIGHTBOURNE
 **note**:  adopted 1962
 
 ### 國家級遺產
@@ -409,18 +409,18 @@ $19.423 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 9% (2023 est.)
-- `industry`: 18.6% (2023 est.)
-- `services`: 60.1% (2023 est.)
+- `農業`: 9% (2023 est.)
+- `產業`: 18.6% (2023 est.)
+- `服務`: 60.1% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 76.2% (2019 est.)
-- `government consumption`: 13.6% (2019 est.)
-- `investment in fixed capital`: 24.1% (2019 est.)
-- `investment in inventories`: 0.2% (2019 est.)
-- `exports of goods and services`: 38% (2019 est.)
-- `imports of goods and services`: -52.1% (2019 est.)
+- `家庭消費`: 76.2% (2019 est.)
+- `政府消費`: 13.6% (2019 est.)
+- `固定資本投資`: 24.1% (2019 est.)
+- `存貨投資`: 0.2% (2019 est.)
+- `商品和服務出口`: 38% (2019 est.)
+- `商品和服務進口`: -52.1% (2019 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -445,9 +445,9 @@ agriculture, mining, manufacture, construction, financial and insurance services
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 13.8% (2023 est.)
-- `male`: 13.1% (2023 est.)
-- `female`: 14.9% (2023 est.)
+- `總計`: 13.8% (2023 est.)
+- `男性`: 13.1% (2023 est.)
+- `女性`: 14.9% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -457,8 +457,8 @@ agriculture, mining, manufacture, construction, financial and insurance services
 40.2 (2021 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 2.2% (2021 est.)
-- `highest 10%`: 29.9% (2021 est.)
+- `最低10%`: 2.2% (2021 est.)
+- `最高10%`: 29.9% (2021 est.)
 
 ### 匯款
 19.1% of GDP (2023 est.)
@@ -467,8 +467,8 @@ agriculture, mining, manufacture, construction, financial and insurance services
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $4.041 billion (2020 est.)
-- `expenditures`: $4.12 billion (2020 est.)
+- `收入`: $4.041 billion (2020 est.)
+- `支出`: $4.12 billion (2020 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -534,38 +534,38 @@ $9.148 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 1.222 million kW (2022 est.)
-- `consumption`: 3.367 billion kWh (2022 est.)
-- `transmission/distribution losses`: 1.212 billion kWh (2022 est.)
+- `裝機容量`: 1.222 million kW (2022 est.)
+- `消費`: 3.367 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 1.212 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 86.6% of total installed capacity (2022 est.)
-- `solar`: 3% of total installed capacity (2022 est.)
-- `wind`: 6.1% of total installed capacity (2022 est.)
-- `hydroelectricity`: 3.1% of total installed capacity (2022 est.)
-- `biomass and waste`: 1.2% of total installed capacity (2022 est.)
+- `石化燃料`: 86.6% of total installed capacity (2022 est.)
+- `太陽能`: 3% of total installed capacity (2022 est.)
+- `風能`: 6.1% of total installed capacity (2022 est.)
+- `水力發電`: 3.1% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 1.2% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `consumption`: 65,000 metric tons (2022 est.)
-- `exports`: 100 metric tons (2022 est.)
-- `imports`: 65,000 metric tons (2022 est.)
+- `消費`: 65,000 metric tons (2022 est.)
+- `出口`: 100 metric tons (2022 est.)
+- `進口`: 65,000 metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 3,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 49,000 bbl/day (2022 est.)
+- `總石油產量`: 3,000 bbl/day (2023 est.)
+- `成品油消費量`: 49,000 bbl/day (2022 est.)
 
 ### 天然氣
-- `consumption`: 664.834 million cubic meters (2022 est.)
-- `imports`: 664.834 million cubic meters (2022 est.)
+- `消費`: 664.834 million cubic meters (2022 est.)
+- `進口`: 664.834 million cubic meters (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 8.86 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 147,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 7.411 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 1.302 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 8.86 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 147,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 7.411 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 1.302 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 46.586 million Btu/person (2022 est.)
@@ -573,17 +573,17 @@ $9.148 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 447,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 16 (2022 est.)
+- `總訂閱數`: 447,000 (2022 est.)
+- `每100名居民訂閱數`: 16 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 3.003 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 106 (2022 est.)
+- `總訂閱數`: 3.003 million (2022 est.)
+- `每100名居民訂閱數`: 106 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Jamaica’s telecom sector has for many years been propped up by the mobile sector, which accounts for the vast majority of internet connections and voice lines; it also accounts for just over half of telecom sector revenue; in December 2020, the government announced the rollout of a national broadband network costing up to $237 million; the funding will be spent on improving connectivity in under served areas, improving access to education, and deploying networks to public locations such as hospitals, municipal institutions, and police stations; to aid in this national broadband effort, the government received a donation of 650km of fiber cabling from local cable TV providers and the two main toll road operators; to encourage the use of digital channels as the country deals with the Covid-19 pandemic (2021)
-- `domestic`: fixed-line subscriptions nearly 17 per 100, cellular-mobile roughly 103 per 100 subscriptions (2021)
-- `international`: country code - 1-876 and 1-658; landing points for the ALBA-1, CFX-1, Fibralink, East-West, and Cayman-Jamaican Fiber System submarine cables providing connections to South America, parts of the Caribbean, Central America and the US; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)
+- `總體評估`: Jamaica’s telecom sector has for many years been propped up by the mobile sector, which accounts for the vast majority of internet connections and voice lines; it also accounts for just over half of telecom sector revenue; in December 2020, the government announced the rollout of a national broadband network costing up to $237 million; the funding will be spent on improving connectivity in under served areas, improving access to education, and deploying networks to public locations such as hospitals, municipal institutions, and police stations; to aid in this national broadband effort, the government received a donation of 650km of fiber cabling from local cable TV providers and the two main toll road operators; to encourage the use of digital channels as the country deals with the Covid-19 pandemic (2021)
+- `國內`: fixed-line subscriptions nearly 17 per 100, cellular-mobile roughly 103 per 100 subscriptions (2021)
+- `國際的`: country code - 1-876 and 1-658; landing points for the ALBA-1, CFX-1, Fibralink, East-West, and Cayman-Jamaican Fiber System submarine cables providing connections to South America, parts of the Caribbean, Central America and the US; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)
 
 ### 廣播媒體
 3 free-to-air TV stations, subscription cable services, and roughly 30 radio stations (2019)
@@ -592,17 +592,17 @@ $9.148 billion (2022 est.)
 .jm
 
 ### 網際網路使用者
-- `total`: 2.296 million (2021 est.)
-- `percent of population`: 82% (2021 est.)
+- `總計`: 2.296 million (2021 est.)
+- `佔人口比例`: 82% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 385,603 (2020 est.)
-- `subscriptions per 100 inhabitants`: 13 (2020 est.)
+- `總計`: 385,603 (2020 est.)
+- `每100名居民訂閱數`: 13 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 0 (2020)
+- `註冊航空公司數量`: 0 (2020)
 
 ### 註冊民用航空器國家代碼前綴
 6Y
@@ -614,20 +614,20 @@ $9.148 billion (2022 est.)
 2 (2024)
 
 ### 道路
-- `total`: 25,595 km (2017)
+- `總計`: 25,595 km (2017)
 
 ### 商船
-- `total`: 40 (2023)
-- `by type`: bulk carrier 1, general cargo 11, oil tanker 1, other 27
+- `總計`: 40 (2023)
+- `依類型`: bulk carrier 1, general cargo 11, oil tanker 1, other 27
 
 ### 港口
-- `total ports`: 11 (2024)
-- `large`: 0
-- `medium`: 1
-- `small`: 2
-- `very small`: 8
-- `ports with oil terminals`: 5
-- `key ports`: Falmouth, Kingston, Lucea, Montego Bay, Ocho Rios, Port Antonio, Port Esquivel, Port Kaiser, Rio Bueno, Rocky Point, Savannah la Mar
+- `總港口數`: 11 (2024)
+- `大`: 0
+- `中`: 1
+- `小`: 2
+- `非常小`: 8
+- `原油碼頭港口`: 5
+- `主要港口`: Falmouth, Kingston, Lucea, Montego Bay, Ocho Rios, Port Antonio, Port Esquivel, Port Kaiser, Rio Bueno, Rocky Point, Savannah la Mar
 
 ## 軍事和安全
 

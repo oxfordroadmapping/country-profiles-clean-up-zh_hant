@@ -19,22 +19,22 @@ Oceania, group of three atolls in the South Pacific Ocean, about one-half of the
 Oceania
 
 ### 面積
-- `total `: 12 sq km
-- `land`: 12 sq km
-- `water`: 0 sq km
+- `總計`: 12 sq km
+- `土地`: 12 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 about 17 times the size of the National Mall in Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 101 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive economic zone`: 200 nm
+- `領海`: 12 nm
+- `專屬經濟區`: 200 nm
 
 ### 氣候
 tropical; moderated by trade winds (April to November)
@@ -43,19 +43,19 @@ tropical; moderated by trade winds (April to November)
 low-lying coral atolls enclosing large lagoons
 
 ### 海拔
-- `highest point`: unnamed location 5 m
-- `lowest point`: Pacific Ocean 0 m
+- `最高點`: unnamed location 5 m
+- `最低點`: Pacific Ocean 0 m
 
 ### 自然資源
 fish
 
 ### 土地利用
-- `agricultural land`: 60% (2018 est.)
-- `agricultural land: arable land`: arable land: 0% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 60% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
-- `forest`: 0% (2018 est.)
-- `other`: 40% (2018 est.)
+- `農地`: 60% (2018 est.)
+- `農地：耕地`: arable land: 0% (2018 est.)
+- `農地：永久性作物`: permanent crops: 60% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0% (2018 est.)
+- `森林`: 0% (2018 est.)
+- `其它`: 40% (2018 est.)
 
 ### 灌溉土地
 0 sq km (2022)
@@ -72,11 +72,11 @@ consists of three atolls (Atafu, Fakaofo, Nukunonu), each with a lagoon surround
 ## 人民和社會
 
 ### 人口
-- `total`: 1,647 (2019 est.)
+- `總計`: 1,647 (2019 est.)
 
 ### 國籍
-- `noun`: Tokelauan(s)
-- `adjective`: Tokelauan
+- `名詞`: Tokelauan(s)
+- `形容詞`: Tokelauan
 
 ### 族裔群體
 Tokelauan 64.5%, part Tokelauan/Samoan 9.7%, part Tokelauan/Tuvaluan 2.8%, Tuvaluan 7.5%, Samoan 5.8%, other Pacific Islander 3.4%, other 5.6%, unspecified 0.8% (2016 est.)
@@ -89,10 +89,10 @@ Tokelauan 88.1% (a Polynesian language), English 48.6%, Samoan 26.7%, Tuvaluan 1
 Congregational Christian Church 50.4%, Roman Catholic 38.7%, Presbyterian 5.9%, other Christian 4.2%, unspecified 0.8% (2016 est.)
 
 ### 撫養比率
-- `total dependency ratio`: 60.4
-- `youth dependency ratio`: 47
-- `elderly dependency ratio`: 13.4
-- `potential support ratio`: 7.5 (2021)
+- `總受扶養人比率`: 60.4
+- `少年撫養比率`: 47
+- `老人撫養比率`: 13.4
+- `潛在支持率`: 7.5 (2021)
 
 ### 人口成長率
 -0.01% (2019 est.)
@@ -104,27 +104,27 @@ Congregational Christian Church 50.4%, Roman Catholic 38.7%, Presbyterian 5.9%, 
 the country's small population is fairly evenly distributed amongst the three atolls
 
 ### 都市化
-- `urban population`: 0% of total population (2023)
-- `rate of urbanization`: 0% annual rate of change (2020-25 est.)
+- `城市人口`: 0% of total population (2023)
+- `城鎮化率`: 0% annual rate of change (2020-25 est.)
 
 ### 飲用水來源
-- `improved: urban`: urban: 0% of population
-- `improved: rural`: rural: 99.7% of population
-- `improved: total`: total: 99.7% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0.3% of population
-- `unimproved: total`: total: 0.3% of population (2020 est.)
+- `已改進－城市`: urban: 0% of population
+- `已改進－農村`: rural: 99.7% of population
+- `已改進－總計`: total: 99.7% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0.3% of population
+- `未改善：總計`: total: 0.3% of population (2020 est.)
 
 ### 衛生設施普及程度
-- `improved: rural`: rural: 100% of population
+- `已改進－農村`: rural: 100% of population
 
 ### 目前已婚婦女（15-49歲）
 52% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 0.4%
-- `women married by age 18`: 10.1%
-- `men married by age 18`: 2.8% (2019 est.)
+- `15歲前結婚的女性`: 0.4%
+- `18歲前結婚的女性`: 10.1%
+- `18歲前結婚的男性`: 2.8% (2019 est.)
 
 ## 環境
 
@@ -135,16 +135,16 @@ overexploitation of certain fish and other marine species, coastal sand, and for
 tropical; moderated by trade winds (April to November)
 
 ### 土地利用
-- `agricultural land`: 60% (2018 est.)
-- `agricultural land: arable land`: arable land: 0% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 60% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
-- `forest`: 0% (2018 est.)
-- `other`: 40% (2018 est.)
+- `農地`: 60% (2018 est.)
+- `農地：耕地`: arable land: 0% (2018 est.)
+- `農地：永久性作物`: permanent crops: 60% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0% (2018 est.)
+- `森林`: 0% (2018 est.)
+- `其它`: 40% (2018 est.)
 
 ### 都市化
-- `urban population`: 0% of total population (2023)
-- `rate of urbanization`: 0% annual rate of change (2020-25 est.)
+- `城市人口`: 0% of total population (2023)
+- `城鎮化率`: 0% annual rate of change (2020-25 est.)
 
 ### 可再生水資源總量
 0 cubic meters (2017 est.)
@@ -152,10 +152,10 @@ tropical; moderated by trade winds (April to November)
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Tokelau
-- `former`: Union Islands, Tokelau Islands
-- `etymology`: "tokelau" is a Polynesian word meaning "north wind"
+- `常用長名`: none
+- `常用短名`: Tokelau
+- `前任`: Union Islands, Tokelau Islands
+- `语源学`: "tokelau" is a Polynesian word meaning "north wind"
 
 ### 政府類型
 parliamentary democracy under a constitutional monarchy
@@ -164,7 +164,7 @@ parliamentary democracy under a constitutional monarchy
 self-administering territory of New Zealand; note - Tokelau and New Zealand have agreed to a draft constitution as Tokelau moves toward free association with New Zealand; a UN-sponsored referendum on self governance in October 2007 did not meet the two-thirds majority vote necessary for changing the political status
 
 ### 首都
-- `time difference`: UTC+13 (18 hours ahead of Washington, DC during Standard Time)
+- `時差`: UTC+13 (18 hours ahead of Washington, DC during Standard Time)
 **note**:  there is no designated, official capital for Tokelau; the location of the capital rotates among the three atolls along with the head of government or Ulu o Tokelau
 
 ### 行政區劃
@@ -180,8 +180,8 @@ Waitangi Day (Treaty of Waitangi established British sovereignty over New Zealan
 common law system of New Zealand
 
 ### 憲法
-- `history`: many previous; latest effective 1 January 1949 (Tokelau Islands Act 1948)
-- `amendments`: proposed as a resolution by the General Fono; passage requires support by each village and approval by the General Fono; amended several times, last in 2007
+- `歷史`: many previous; latest effective 1 January 1949 (Tokelau Islands Act 1948)
+- `修正`: proposed as a resolution by the General Fono; passage requires support by each village and approval by the General Fono; amended several times, last in 2007
 
 ### 公民身份
 see New Zealand
@@ -190,21 +190,21 @@ see New Zealand
 21 years of age; universal
 
 ### 行政部門
-- `chief of state`: King CHARLES III (since 8 September 2022); represented by Governor-General of New Zealand Dame Cindy KIRO (since 21 September 2021); New Zealand is represented by Administrator Don HIGGINS (since June 2022)
-- `head of government`: (Ulu o Tokelau) Alapati TAVITE (since 12 March 2024)
-- `cabinet`: Council for the Ongoing Government of Tokelau (or Tokelau Council) functions as a cabinet; consists of 3 village leaders (Faipule) and 3 village mayors (Pulenuku)
-- `elections/appointments`: the monarchy is hereditary; governor general appointed by the monarch; administrator appointed by the Minister of Foreign Affairs and Trade in New Zealand; head of government chosen from the Council of Faipule to serve a 1-year term
+- `國家元首`: King CHARLES III (since 8 September 2022); represented by Governor-General of New Zealand Dame Cindy KIRO (since 21 September 2021); New Zealand is represented by Administrator Don HIGGINS (since June 2022)
+- `政府首腦`: (Ulu o Tokelau) Alapati TAVITE (since 12 March 2024)
+- `内閣`: Council for the Ongoing Government of Tokelau (or Tokelau Council) functions as a cabinet; consists of 3 village leaders (Faipule) and 3 village mayors (Pulenuku)
+- `選舉/任命`: the monarchy is hereditary; governor general appointed by the monarch; administrator appointed by the Minister of Foreign Affairs and Trade in New Zealand; head of government chosen from the Council of Faipule to serve a 1-year term
 **note**:  the meeting place of the Tokelau Council and the head of government position rotates annually among the three atolls; this tradition has given rise to the somewhat misleading description that the capital rotates yearly between the three atolls; in actuality, it is the seat of the government councilors that rotates since Tokelau has no capital
 
 ### 立法部門
-- `description`: unicameral General Fono (20 seats apportioned by island - Atafu 7, Fakaofo 7, Nukunonu 6; members directly elected by simple majority vote to serve 3-year terms)
-- `elections`: last held on 26 January 2023 depending on island (next to be held in January 2026)
-- `election results`: percent of vote by party - NA; seats by party - independent 20; composition - men 17, women 3, percentage women 15%
+- `描述`: unicameral General Fono (20 seats apportioned by island - Atafu 7, Fakaofo 7, Nukunonu 6; members directly elected by simple majority vote to serve 3-year terms)
+- `選舉`: last held on 26 January 2023 depending on island (next to be held in January 2026)
+- `選舉結果`: percent of vote by party - NA; seats by party - independent 20; composition - men 17, women 3, percentage women 15%
 
 ### 司法部門
-- `highest court(s)`: Court of Appeal (in New Zealand) (consists of the court president and 8 judges sitting in 3- or 5-judge panels, depending on the case)
-- `judge selection and term of office`: judges nominated by the Judicial Selection Committee and approved by three-quarters majority of the Parliament; judges serve for life
-- `subordinate courts`: High Court (in New Zealand); Council of Elders or Taupulega
+- `最高法院`: Court of Appeal (in New Zealand) (consists of the court president and 8 judges sitting in 3- or 5-judge panels, depending on the case)
+- `法官遴選和任期`: judges nominated by the Judicial Selection Committee and approved by three-quarters majority of the Parliament; judges serve for life
+- `下級法院`: High Court (in New Zealand); Council of Elders or Taupulega
 
 ### 政黨
 none
@@ -225,8 +225,8 @@ a yellow stylized Tokelauan canoe on a dark blue field sails toward the manu - t
 tuluma (fishing tackle box); national colors: blue, yellow, white
 
 ### 國歌
-- `name`: "Te Atua" (For the Almighty)
-- `lyrics/music`: unknown/Falani KALOLO
+- `名稱`: "Te Atua" (For the Almighty)
+- `歌詞／音樂`: unknown/Falani KALOLO
 **note**:  adopted 2008; in preparation for eventual self governance, Tokelau held a national contest to choose an anthem; as a territory of New Zealand, in addition to "God Defend New Zealand," "God Save the King" serves as a royal anthem (see United Kingdom); "God Save the King" normally played only when a member of the royal family or the governor-general is present; in all other cases, "God Defend New Zealand" is played (see New Zealand)
 
 ## 經濟
@@ -269,8 +269,8 @@ small-scale enterprises for copra production, woodworking, plaited craft goods; 
 **note**:  Underemployment may be as high as 6.6%
 
 ### 預算
-- `revenues`: $24,324,473 (2017 est.)
-- `expenditures`: $11,666,542 (2017 est.)
+- `收入`: $24,324,473 (2017 est.)
+- `支出`: $11,666,542 (2017 est.)
 
 ### 出口
 $103,000 (2015 est.)
@@ -307,13 +307,13 @@ cars, orthopedic appliances, surveying equipment, butter, nuts (2022)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 300 (2010 est.)
-- `subscriptions per 100 inhabitants`: 22 (2010 est.)
+- `總訂閱數`: 300 (2010 est.)
+- `每100名居民訂閱數`: 22 (2010 est.)
 
 ### 電信系統
-- `general assessment`: a new submarine cable between New Zealand and Tokelau will provide high speed, reliable internet to Tokelau for the first time; due for completion in 2022, this will provide Tokelau with affordable, high quality internet and telecommunications, and better, more effective access to digital services and platforms (2021)
-- `domestic`: fixed-line teledensity is 0 per 100 persons (2019)
-- `international`: country code - 690; landing point for the Southern Cross NEXT submarine cable linking Australia, Tokelau, Samoa, Kiribati, Fiji, New Zealand and Los Angeles, CA (USA); radiotelephone service to Samoa; government-regulated telephone service (TeleTok); satellite earth stations - 3 (2020)
+- `總體評估`: a new submarine cable between New Zealand and Tokelau will provide high speed, reliable internet to Tokelau for the first time; due for completion in 2022, this will provide Tokelau with affordable, high quality internet and telecommunications, and better, more effective access to digital services and platforms (2021)
+- `國內`: fixed-line teledensity is 0 per 100 persons (2019)
+- `國際的`: country code - 690; landing point for the Southern Cross NEXT submarine cable linking Australia, Tokelau, Samoa, Kiribati, Fiji, New Zealand and Los Angeles, CA (USA); radiotelephone service to Samoa; government-regulated telephone service (TeleTok); satellite earth stations - 3 (2020)
 
 ### 廣播媒體
 Sky TV access for around 30% of the population; each atoll operates a radio service that provides shipping news and weather reports (2019)
@@ -322,13 +322,13 @@ Sky TV access for around 30% of the population; each atoll operates a radio serv
 .tk
 
 ### 網際網路使用者
-- `total`: 800 (2021 est.)
-- `percent of population`: 58.3% (2021 est.)
+- `總計`: 800 (2021 est.)
+- `佔人口比例`: 58.3% (2021 est.)
 
 ## 交通運輸
 
 ### 道路
-- `total`: 10 km (2019)
+- `總計`: 10 km (2019)
 
 ## 軍事和安全
 

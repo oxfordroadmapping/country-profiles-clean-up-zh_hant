@@ -19,16 +19,16 @@ Central Africa, east of the Democratic Republic of the Congo, west of Tanzania
 Africa
 
 ### 面積
-- `total `: 27,830 sq km
-- `land`: 25,680 sq km
-- `water`: 2,150 sq km
+- `總計`: 27,830 sq km
+- `土地`: 25,680 sq km
+- `水`: 2,150 sq km
 
 ### 面積—比較
 slightly smaller than Maryland
 
 ### 陸地邊界
-- `total`: 1,140 km
-- `border countries`: Democratic Republic of the Congo 236 km; Rwanda 315 km; Tanzania 589 km
+- `總計`: 1,140 km
+- `邊境國家`: Democratic Republic of the Congo 236 km; Rwanda 315 km; Tanzania 589 km
 
 ### 海岸線
 0 km (landlocked)
@@ -43,26 +43,26 @@ equatorial; high plateau with considerable altitude variation (772 m to 2,670 m 
 hilly and mountainous, dropping to a plateau in east, some plains
 
 ### 海拔
-- `highest point`: unnamed elevation on Mukike Range 2,685 m
-- `lowest point`: Lake Tanganyika 772 m
-- `mean elevation`: 1,504 m
+- `最高點`: unnamed elevation on Mukike Range 2,685 m
+- `最低點`: Lake Tanganyika 772 m
+- `平均海拔`: 1,504 m
 
 ### 自然資源
 nickel, uranium, rare earth oxides, peat, cobalt, copper, platinum, vanadium, arable land, hydropower, niobium, tantalum, gold, tin, tungsten, kaolin, limestone
 
 ### 土地利用
-- `agricultural land`: 73.3% (2018 est.)
-- `agricultural land: arable land`: arable land: 38.9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 15.6% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 18.8% (2018 est.)
-- `forest`: 6.6% (2018 est.)
-- `other`: 20.1% (2018 est.)
+- `農地`: 73.3% (2018 est.)
+- `農地：耕地`: arable land: 38.9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 15.6% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 18.8% (2018 est.)
+- `森林`: 6.6% (2018 est.)
+- `其它`: 20.1% (2018 est.)
 
 ### 灌溉土地
 230 sq km (2012)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Zambia) - 32,000 sq km
+- `淡水湖`: Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Zambia) - 32,000 sq km
 
 ### 主要流域（按面積平方公里）
 Atlantic Ocean drainage: Congo (3,730,881 sq km), *(Mediterranean Sea)* Nile (3,254,853 sq km)
@@ -79,20 +79,20 @@ landlocked; straddles crest of the Nile-Congo watershed; the Kagera, which drain
 ## 人民和社會
 
 ### 人口
-- `total`: 13,590,102
-- `male`: 6,755,456
-- `female`: 6,834,646 (2024 est.)
+- `總計`: 13,590,102
+- `男性`: 6,755,456
+- `女性`: 6,834,646 (2024 est.)
 
 ### 國籍
-- `noun`: Burundian(s)
-- `adjective`: Burundian
+- `名詞`: Burundian(s)
+- `形容詞`: Burundian
 
 ### 族裔群體
 Hutu, Tutsi, Twa, South Asian
 
 ### 語文
 Kirundi (official), French (official), English (official, least spoken), Swahili (2008 est.)
-- `major-language sample(s)`: Igitabo Mpuzamakungu c'ibimenyetso bifatika, isoko ntabanduka ku nkuru z'urufatiro. (Kirundi)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: Igitabo Mpuzamakungu c'ibimenyetso bifatika, isoko ntabanduka ku nkuru z'urufatiro. (Kirundi)  The World Factbook, the indispensable source for basic information.
 **note**:  data represent languages read and written by people 10 years of age or older; spoken Kirundi is nearly universal
 
 ### 宗教
@@ -102,20 +102,20 @@ Christian 93.9% (Roman Catholic 58.6%, Protestant 35.3% [includes Adventist 2.7%
 Burundi is a densely populated country with a high population growth rate, factors that combined with land scarcity and poverty place a large share of its population at risk of food insecurity. About 90% of the population relies on subsistence agriculture. Subdivision of land to sons, and redistribution to returning refugees, results in smaller, overworked, and less-productive plots. Food shortages, poverty, and a lack of clean water contribute to a 60% chronic malnutrition rate among children. A lack of reproductive health services has prevented a significant reduction in Burundi’s maternal mortality and fertility rates, which are both among the world’s highest. With almost two-thirds of its population under the age of 25 and a birth rate of about 5 children per woman as of 2022, Burundi’s population will continue to expand rapidly for decades to come, putting additional strain on a poor country. Historically, migration flows into and out of Burundi have consisted overwhelmingly of refugees from violent conflicts. In the last decade, more than a half million Burundian refugees returned home from neighboring countries, mainly Tanzania. Reintegrating the returnees has been problematic due to their prolonged time in exile, land scarcity, poor infrastructure, poverty, and unemployment. Repatriates and existing residents (including internally displaced persons) compete for limited land and other resources. To further complicate matters, international aid organizations reduced their assistance because they no longer classified Burundi as a post-conflict country. Conditions deteriorated when renewed violence erupted in April 2015, causing another outpouring of refugees. In addition to refugee out-migration, Burundi has hosted thousands of refugees from neighboring countries, mostly from the Democratic Republic of the Congo and lesser numbers from Rwanda.
 
 ### 年齡結構
-- `0-14 years`: 42.3% (male 2,895,275/female 2,848,286)
-- `15-64 years`: 54.4% (male 3,662,688/female 3,727,022)
-- `65 years and over`: 3.4% (2024 est.) (male 197,493/female 259,338)
+- `0-14歲`: 42.3% (male 2,895,275/female 2,848,286)
+- `15-64歲`: 54.4% (male 3,662,688/female 3,727,022)
+- `65歲及以上`: 3.4% (2024 est.) (male 197,493/female 259,338)
 
 ### 撫養比率
-- `total dependency ratio`: 95.2
-- `youth dependency ratio`: 90.4
-- `elderly dependency ratio`: 4.8
-- `potential support ratio`: 20.7 (2021 est.)
+- `總受扶養人比率`: 95.2
+- `少年撫養比率`: 90.4
+- `老人撫養比率`: 4.8
+- `潛在支持率`: 20.7 (2021 est.)
 
 ### 年齡中位數
-- `total`: 18.4 years (2024 est.)
-- `male`: 18 years
-- `female`: 18.7 years
+- `總計`: 18.4 years (2024 est.)
+- `男性`: 18 years
+- `女性`: 18.7 years
 
 ### 人口成長率
 2.81% (2024 est.)
@@ -133,18 +133,18 @@ Burundi is a densely populated country with a high population growth rate, facto
 one of Africa's most densely populated countries; concentrations tend to be in the north and along the northern shore of Lake Tanganyika in the west; most people live on farms near areas of fertile volcanic soil as shown in this population distribution map
 
 ### 都市化
-- `urban population`: 14.8% of total population (2023)
-- `rate of urbanization`: 5.43% annual rate of change (2020-25 est.)
+- `城市人口`: 14.8% of total population (2023)
+- `城鎮化率`: 5.43% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 1.207 million BUJUMBURA (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.03 male(s)/female
-- `0-14 years`: 1.02 male(s)/female
-- `15-64 years`: 0.98 male(s)/female
-- `65 years and over`: 0.76 male(s)/female
-- `total population`: 0.99 male(s)/female (2024 est.)
+- `出生時`: 1.03 male(s)/female
+- `0-14歲`: 1.02 male(s)/female
+- `15-64歲`: 0.98 male(s)/female
+- `65歲及以上`: 0.76 male(s)/female
+- `總人口數`: 0.99 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 21.5 years (2016/17 est.)
@@ -154,14 +154,14 @@ one of Africa's most densely populated countries; concentrations tend to be in t
 494 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 35.7 deaths/1,000 live births (2024 est.)
-- `male`: 39.7 deaths/1,000 live births
-- `female`: 31.5 deaths/1,000 live births
+- `總計`: 35.7 deaths/1,000 live births (2024 est.)
+- `男性`: 39.7 deaths/1,000 live births
+- `女性`: 31.5 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 68.1 years (2024 est.)
-- `male`: 66 years
-- `female`: 70.3 years
+- `總人口數`: 68.1 years (2024 est.)
+- `男性`: 66 years
+- `女性`: 70.3 years
 
 ### 總生育率
 4.9 children born/woman (2024 est.)
@@ -173,12 +173,12 @@ one of Africa's most densely populated countries; concentrations tend to be in t
 28.5% (2016/17)
 
 ### 飲用水來源
-- `improved: urban`: urban: 98.7% of population
-- `improved: rural`: rural: 78.9% of population
-- `improved: total`: total: 81.6% of population
-- `unimproved: urban`: urban: 1.3% of population
-- `unimproved: rural`: rural: 21.1% of population
-- `unimproved: total`: total: 18.4% of population (2020 est.)
+- `已改進－城市`: urban: 98.7% of population
+- `已改進－農村`: rural: 78.9% of population
+- `已改進－總計`: total: 81.6% of population
+- `未改進：都市`: urban: 1.3% of population
+- `未改進：鄉村`: rural: 21.1% of population
+- `未改善：總計`: total: 18.4% of population (2020 est.)
 
 ### 當前醫療支出
 6.5% of GDP (2020)
@@ -190,27 +190,27 @@ one of Africa's most densely populated countries; concentrations tend to be in t
 0.8 beds/1,000 population (2014)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 87.4% of population
-- `improved: rural`: rural: 53.7% of population
-- `improved: total`: total: 58.4% of population
-- `unimproved: urban`: urban: 12.6% of population
-- `unimproved: rural`: rural: 46.3% of population
-- `unimproved: total`: total: 41.6% of population (2020 est.)
+- `已改進－城市`: urban: 87.4% of population
+- `已改進－農村`: rural: 53.7% of population
+- `已改進－總計`: total: 58.4% of population
+- `未改進：都市`: urban: 12.6% of population
+- `未改進：鄉村`: rural: 46.3% of population
+- `未改善：總計`: total: 41.6% of population (2020 est.)
 
 ### 肥胖—成人流行率
 5.4% (2016)
 
 ### 人均酒精消費量
-- `total`: 4.07 liters of pure alcohol (2019 est.)
-- `beer`: 1.84 liters of pure alcohol (2019 est.)
-- `wine`: 0 liters of pure alcohol (2019 est.)
-- `spirits`: 0 liters of pure alcohol (2019 est.)
-- `other alcohols`: 2.23 liters of pure alcohol (2019 est.)
+- `總計`: 4.07 liters of pure alcohol (2019 est.)
+- `啤酒`: 1.84 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0 liters of pure alcohol (2019 est.)
+- `烈酒`: 0 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 2.23 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 11.8% (2020 est.)
-- `male`: 17.4% (2020 est.)
-- `female`: 6.1% (2020 est.)
+- `總計`: 11.8% (2020 est.)
+- `男性`: 17.4% (2020 est.)
+- `女性`: 6.1% (2020 est.)
 
 ### 5歲以下體重不足兒童
 27.6% (2022)
@@ -219,23 +219,23 @@ one of Africa's most densely populated countries; concentrations tend to be in t
 54.1% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 2.8%
-- `women married by age 18`: 19%
-- `men married by age 18`: 1.4% (2017 est.)
+- `15歲前結婚的女性`: 2.8%
+- `18歲前結婚的女性`: 19%
+- `18歲前結婚的男性`: 1.4% (2017 est.)
 
 ### 教育支出
 5% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 74.7%
-- `male`: 81.3%
-- `female`: 68.4% (2021)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 74.7%
+- `男性`: 81.3%
+- `女性`: 68.4% (2021)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 11 years
-- `male`: 11 years
-- `female`: 11 years (2018)
+- `總計`: 11 years
+- `男性`: 11 years
+- `女性`: 11 years (2018)
 
 ## 環境
 
@@ -243,26 +243,26 @@ one of Africa's most densely populated countries; concentrations tend to be in t
 soil erosion as a result of overgrazing and the expansion of agriculture into marginal lands; deforestation (little forested land remains because of uncontrolled cutting of trees for fuel); habitat loss threatens wildlife populations
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Wetlands
-- `signed, but not ratified`: Law of the Sea, Nuclear Test Ban
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Wetlands
+- `已簽署但未批準`: Law of the Sea, Nuclear Test Ban
 
 ### 氣候
 equatorial; high plateau with considerable altitude variation (772 m to 2,670 m above sea level); average annual temperature varies with altitude from 23 to 17 degrees Celsius but is generally moderate; average annual rainfall is about 150 cm with two wet seasons (February to May and September to November) and two dry seasons (June to August and December to January)
 
 ### 土地利用
-- `agricultural land`: 73.3% (2018 est.)
-- `agricultural land: arable land`: arable land: 38.9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 15.6% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 18.8% (2018 est.)
-- `forest`: 6.6% (2018 est.)
-- `other`: 20.1% (2018 est.)
+- `農地`: 73.3% (2018 est.)
+- `農地：耕地`: arable land: 38.9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 15.6% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 18.8% (2018 est.)
+- `森林`: 6.6% (2018 est.)
+- `其它`: 20.1% (2018 est.)
 
 ### 都市化
-- `urban population`: 14.8% of total population (2023)
-- `rate of urbanization`: 5.43% annual rate of change (2020-25 est.)
+- `城市人口`: 14.8% of total population (2023)
+- `城鎮化率`: 5.43% annual rate of change (2020-25 est.)
 
 ### 糧食不安全
-- `widespread lack of access`: *due to the effects of weather - *according to the latest estimates, about 1.2 million people are estimated to be facing Crisis levels of acute food insecurity between June and September 2023, unchanged year on year; the main drivers are the lingering impact of floods in northern areas in late 2022 and high food prices due, in part, to the depreciation of the local currency (2023)
+- `普遍缺乏訪問權限`: *due to the effects of weather - *according to the latest estimates, about 1.2 million people are estimated to be facing Crisis levels of acute food insecurity between June and September 2023, unchanged year on year; the main drivers are the lingering impact of floods in northern areas in late 2022 and high food prices due, in part, to the depreciation of the local currency (2023)
 
 ### 森林資源收入
 10.31% of GDP (2018 est.)
@@ -271,23 +271,23 @@ equatorial; high plateau with considerable altitude variation (772 m to 2,670 m 
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 28 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 0.5 megatons (2016 est.)
-- `methane emissions`: 1.42 megatons (2020 est.)
+- `顆粒物排放量`: 28 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 0.5 megatons (2016 est.)
+- `甲烷排放量`: 1.42 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 1,872,016 tons (2002 est.)
+- `城市固體廢棄物－每年產生`: 1,872,016 tons (2002 est.)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Zambia) - 32,000 sq km
+- `淡水湖`: Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Zambia) - 32,000 sq km
 
 ### 主要流域（按面積平方公里）
 Atlantic Ocean drainage: Congo (3,730,881 sq km), *(Mediterranean Sea)* Nile (3,254,853 sq km)
 
 ### 總取水量
-- `municipal`: 40 million cubic meters (2020 est.)
-- `industrial`: 20 million cubic meters (2020 est.)
-- `agricultural`: 220 million cubic meters (2020 est.)
+- `市級`: 40 million cubic meters (2020 est.)
+- `工業`: 20 million cubic meters (2020 est.)
+- `農業`: 220 million cubic meters (2020 est.)
 
 ### 可再生水資源總量
 12.54 billion cubic meters (2020 est.)
@@ -295,21 +295,21 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km), *(Mediterranean Sea)* Nile (3,
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Burundi
-- `conventional short form`: Burundi
-- `local long form`: République du Burundi (French)/ Republika y'u Burundi (Kirundi)
-- `local short form`: Burundi
-- `former`: Urundi, German East Africa, Ruanda-Urundi, Kingdom of Burundi
-- `etymology`: name derived from the pre-colonial Kingdom of Burundi (17th-19th century)
+- `常用長名`: Republic of Burundi
+- `常用短名`: Burundi
+- `當地語長名`: République du Burundi (French)/ Republika y'u Burundi (Kirundi)
+- `當地語短名`: Burundi
+- `前任`: Urundi, German East Africa, Ruanda-Urundi, Kingdom of Burundi
+- `语源学`: name derived from the pre-colonial Kingdom of Burundi (17th-19th century)
 
 ### 政府類型
 presidential republic
 
 ### 首都
-- `name`: Gitega (political capital), Bujumbura (commercial capital)
-- `geographic coordinates`: 3 25 S, 29 55 E
-- `time difference`: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: the naming origins for both Gitega and Bujumbura are obscure; Bujumbura's name prior to independence in 1962 was Usumbura
+- `名稱`: Gitega (political capital), Bujumbura (commercial capital)
+- `地理坐標`: 3 25 S, 29 55 E
+- `時差`: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: the naming origins for both Gitega and Bujumbura are obscure; Bujumbura's name prior to independence in 1962 was Usumbura
 **note**:  in January 2019, the Burundian parliament voted to make Gitega the political capital of the country while Bujumbura would remain its economic capital; as of 2023, the government's move to Gitega remains incomplete
 
 ### 行政區劃
@@ -325,37 +325,37 @@ Independence Day, 1 July (1962)
 mixed legal system of Belgian civil law and customary law
 
 ### 憲法
-- `history`: several previous, ratified by referendum 28 February 2005
-- `amendments`: proposed by the president of the republic after consultation with the government or by absolute majority support of the membership in both houses of Parliament; passage requires at least two-thirds majority vote by the Senate membership and at least four-fifths majority vote by the National Assembly; the president can opt to submit amendment bills to a referendum; constitutional articles including those on national unity, the secularity of Burundi, its democratic form of government, and its sovereignty cannot be amended; amended 2018 (amendments extended the presidential term from 5 to 7 years, reintroduced the position of prime minister, and reduced the number of vice presidents from 2 to 1)
+- `歷史`: several previous, ratified by referendum 28 February 2005
+- `修正`: proposed by the president of the republic after consultation with the government or by absolute majority support of the membership in both houses of Parliament; passage requires at least two-thirds majority vote by the Senate membership and at least four-fifths majority vote by the National Assembly; the president can opt to submit amendment bills to a referendum; constitutional articles including those on national unity, the secularity of Burundi, its democratic form of government, and its sovereignty cannot be amended; amended 2018 (amendments extended the presidential term from 5 to 7 years, reintroduced the position of prime minister, and reduced the number of vice presidents from 2 to 1)
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; withdrew from ICCt in October 2017
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: the father must be a citizen of Burundi
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 10 years
+- `出生公民權`: no
+- `血統公民身份`: the father must be a citizen of Burundi
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 10 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Evariste NDAYISHIMIYE (since 18 June 2020)
-- `head of government`: Minister Gervais NDIRAKOBUCA (since 7 September 2022)
-- `cabinet`: Council of Ministers appointed by president
-- `elections/appointments`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 20 May 2020 (next to be held in May 2027); vice presidents nominated by the president, endorsed by Parliament; note - a 2018 constitutional referendum, effective for the 2020 election, increased the presidential term from 5 to 7 years with a 2-consecutive-term limit, reinstated the position of the prime minister position, and reduced the number of vice presidents from 2 to 1
-- `election results`: *2020: *Evariste NDAYISHIMIYE elected president; percent of vote - Evariste NDAYISHIMIYE (CNDD-FDD) 71.5%, Agathon RWASA (CNL) 25.2%, Gaston SINDIMWO (UPRONA) 1.7%, other 1.6%  *2015:* Pierre NKURUNZIZA reelected president; percent of vote - Pierre NKURUNZIZA (CNDD-FDD) 69.4%, Agathon RWASA (Hope of Burundians - Amizerio y'ABARUNDI) 19%, other 11.6%
+- `國家元首`: President Evariste NDAYISHIMIYE (since 18 June 2020)
+- `政府首腦`: Minister Gervais NDIRAKOBUCA (since 7 September 2022)
+- `内閣`: Council of Ministers appointed by president
+- `選舉/任命`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 20 May 2020 (next to be held in May 2027); vice presidents nominated by the president, endorsed by Parliament; note - a 2018 constitutional referendum, effective for the 2020 election, increased the presidential term from 5 to 7 years with a 2-consecutive-term limit, reinstated the position of the prime minister position, and reduced the number of vice presidents from 2 to 1
+- `選舉結果`: *2020: *Evariste NDAYISHIMIYE elected president; percent of vote - Evariste NDAYISHIMIYE (CNDD-FDD) 71.5%, Agathon RWASA (CNL) 25.2%, Gaston SINDIMWO (UPRONA) 1.7%, other 1.6%  *2015:* Pierre NKURUNZIZA reelected president; percent of vote - Pierre NKURUNZIZA (CNDD-FDD) 69.4%, Agathon RWASA (Hope of Burundians - Amizerio y'ABARUNDI) 19%, other 11.6%
 
 ### 立法部門
-- `description`: bicameral Parliament or Parlement consists of:Senate or Inama Nkenguzamateka (39 seats in the July 2020 election); 36 members indirectly elected by an electoral college of provincial councils using a three-round voting system, which requires a two-thirds majority vote in the first two rounds and simple majority vote for the two leading candidates in the final round; members serve 5-year terms)National Assembly or Inama Nshingamateka (123 seats in the May 2020 election; 100 members directly elected in multi-seat constituencies by proportional representation vote and 23 co-opted members; members serve 5-year terms)
-- `elections`: Senate - last held on 20 July 2020 (next to be held in 2025)National Assembly - last held on 20 May 2020 (next to be held in 2025)
-- `election results`: Senate - percent of vote by party - CNDD-FDD 87.2%, Twa 7.7%, CNL 2.6%, UPRONA 2.6%; seats by party - CNDD-FDD 34, Twa 3, CNL 1, UPRONA 1; composition - men 23, women 16, percentage women 37.2% National Assembly - percent of vote by party - CNDD-FDD 70.9%, CNL 23.4%, UPRONA 2.5%, other (co-opted Twa) 3.2%; seats by party - CNDD-FDD 86, CNL 32, Twa 3, UPRONA 2; composition - men 76, women 47, percentage women 38.2%; note - total Parliament percentage women 38%
+- `描述`: bicameral Parliament or Parlement consists of:Senate or Inama Nkenguzamateka (39 seats in the July 2020 election); 36 members indirectly elected by an electoral college of provincial councils using a three-round voting system, which requires a two-thirds majority vote in the first two rounds and simple majority vote for the two leading candidates in the final round; members serve 5-year terms)National Assembly or Inama Nshingamateka (123 seats in the May 2020 election; 100 members directly elected in multi-seat constituencies by proportional representation vote and 23 co-opted members; members serve 5-year terms)
+- `選舉`: Senate - last held on 20 July 2020 (next to be held in 2025)National Assembly - last held on 20 May 2020 (next to be held in 2025)
+- `選舉結果`: Senate - percent of vote by party - CNDD-FDD 87.2%, Twa 7.7%, CNL 2.6%, UPRONA 2.6%; seats by party - CNDD-FDD 34, Twa 3, CNL 1, UPRONA 1; composition - men 23, women 16, percentage women 37.2% National Assembly - percent of vote by party - CNDD-FDD 70.9%, CNL 23.4%, UPRONA 2.5%, other (co-opted Twa) 3.2%; seats by party - CNDD-FDD 86, CNL 32, Twa 3, UPRONA 2; composition - men 76, women 47, percentage women 38.2%; note - total Parliament percentage women 38%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court (consists of 9 judges and organized into judicial, administrative, and cassation chambers); Constitutional Court (consists of 7 members)
-- `judge selection and term of office`: Supreme Court judges nominated by the Judicial Service Commission, a 15-member body of judicial and legal profession officials), appointed by the president and confirmed by the Senate; judge tenure NA; Constitutional Court judges appointed by the president and confirmed by the Senate and serve 6-year nonrenewable terms
-- `subordinate courts`: Courts of Appeal; County Courts; Courts of Residence; Martial Court; Commercial Court
+- `最高法院`: Supreme Court (consists of 9 judges and organized into judicial, administrative, and cassation chambers); Constitutional Court (consists of 7 members)
+- `法官遴選和任期`: Supreme Court judges nominated by the Judicial Service Commission, a 15-member body of judicial and legal profession officials), appointed by the president and confirmed by the Senate; judge tenure NA; Constitutional Court judges appointed by the president and confirmed by the Senate and serve 6-year nonrenewable terms
+- `下級法院`: Courts of Appeal; County Courts; Courts of Residence; Martial Court; Commercial Court
 
 ### 政黨
 Council for Democracy and the Sustainable Development of Burundi or CODEBU Front for Democracy in Burundi-Sahwanya or FRODEBU-Sahwanya National Council for the Defense of Democracy - Front for the Defense of Democracy or CNDD-FDD National Congress for Liberty or CNL National Liberation Forces or FNL Union for National Progress (Union pour le Progress Nationale) or UPRONA 
@@ -364,19 +364,19 @@ Council for Democracy and the Sustainable Development of Burundi or CODEBU Fron
 ACP, AfDB, ATMIS, AU, CEMAC, CEPGL, CICA, COMESA, EAC, FAO, G-77, IBRD, ICAO, ICGLR, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Jean Bosco BAREGE (since 27 February 2024)
-- `chancery`: 2233 Wisconsin Avenue NW, Washington, DC 20007
-- `telephone`: [1] (202) 342-2574
+- `外交代表負責人`: Ambassador Jean Bosco BAREGE (since 27 February 2024)
+- `衡平法院（在美國）`: 2233 Wisconsin Avenue NW, Washington, DC 20007
+- `電話號碼`: [1] (202) 342-2574
 - `FAX`: [1] (202) 342-2578
-- `email address and website`: burundiembusadc@gmail.com  Burundi Embassy Washington D.C. (burundiembassy-usa.com)
+- `電子郵件地址和網站`: burundiembusadc@gmail.com  Burundi Embassy Washington D.C. (burundiembassy-usa.com)
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Lisa PETERSON (since 27 June 2024)
-- `embassy`: No 50 Avenue Des Etats-Unis, 110-01-02, Bujumbura
-- `mailing address`: 2100 Bujumbura Place, Washington DC  20521-2100
-- `telephone`: [257] 22-207-000
+- `外交代表負責人`: Ambassador Lisa PETERSON (since 27 June 2024)
+- `大使館`: No 50 Avenue Des Etats-Unis, 110-01-02, Bujumbura
+- `郵寄地址`: 2100 Bujumbura Place, Washington DC  20521-2100
+- `電話號碼`: [257] 22-207-000
 - `FAX`: [257] 22-222-926
-- `email address and website`: BujumburaC@state.gov  https://bi.usembassy.gov/
+- `電子郵件地址和網站`: BujumburaC@state.gov  https://bi.usembassy.gov/
 
 ### 旗幟說明
 divided by a white diagonal cross into red panels (top and bottom) and green panels (hoist side and fly side) with a white disk superimposed at the center bearing three red six-pointed stars outlined in green arranged in a triangular design (one star above, two stars below); green symbolizes hope and optimism, white purity and peace, and red the blood shed in the struggle for independence; the three stars in the disk represent the three major ethnic groups: Hutu, Twa, Tutsi, as well as the three elements in the national motto: unity, work, progress
@@ -385,8 +385,8 @@ divided by a white diagonal cross into red panels (top and bottom) and green pan
 lion; national colors: red, white, green
 
 ### 國歌
-- `name`: "Burundi Bwacu" (Our Beloved Burundi)
-- `lyrics/music`: Jean-Baptiste NTAHOKAJA/Marc BARENGAYABO
+- `名稱`: "Burundi Bwacu" (Our Beloved Burundi)
+- `歌詞／音樂`: Jean-Baptiste NTAHOKAJA/Marc BARENGAYABO
 **note**:  adopted 1962
 
 ## 經濟
@@ -423,17 +423,17 @@ $2.642 billion (2023 est.)
 **note**: annual % change based on consumer prices
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 25.2% (2023 est.)
-- `industry`: 9.6% (2023 est.)
-- `services`: 48.8% (2023 est.)
+- `農業`: 25.2% (2023 est.)
+- `產業`: 9.6% (2023 est.)
+- `服務`: 48.8% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 75.6% (2023 est.)
-- `government consumption`: 30.5% (2023 est.)
-- `investment in fixed capital`: 13% (2023 est.)
-- `exports of goods and services`: 5.3% (2023 est.)
-- `imports of goods and services`: -24.3% (2023 est.)
+- `家庭消費`: 75.6% (2023 est.)
+- `政府消費`: 30.5% (2023 est.)
+- `固定資本投資`: 13% (2023 est.)
+- `商品和服務出口`: 5.3% (2023 est.)
+- `商品和服務進口`: -24.3% (2023 est.)
 **note**:  figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -458,9 +458,9 @@ light consumer goods (sugar, shoes, soap, beer); cement, assembly of imported co
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 1.7% (2023 est.)
-- `male`: 2.2% (2023 est.)
-- `female`: 1.3% (2023 est.)
+- `總計`: 1.7% (2023 est.)
+- `男性`: 2.2% (2023 est.)
+- `女性`: 1.3% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 基尼指數係數—家庭所得分配
@@ -468,8 +468,8 @@ light consumer goods (sugar, shoes, soap, beer); cement, assembly of imported co
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 2.9% (2020 est.)
-- `highest 10%`: 29.9% (2020 est.)
+- `最低10%`: 2.9% (2020 est.)
+- `最高10%`: 29.9% (2020 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -479,8 +479,8 @@ light consumer goods (sugar, shoes, soap, beer); cement, assembly of imported co
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $713.694 million (2021 est.)
-- `expenditures`: $506.147 million (2021 est.)
+- `收入`: $713.694 million (2021 est.)
+- `支出`: $506.147 million (2021 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -542,32 +542,32 @@ $444.292 million (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 10.3% (2022 est.)
-- `electrification - urban areas`: 64%
-- `electrification - rural areas`: 1.7%
+- `電氣化－總人口`: 10.3% (2022 est.)
+- `電氣化－城市地區`: 64%
+- `電氣化－農村地區`: 1.7%
 
 ### 電力
-- `installed generating capacity`: 114,000 kW (2022 est.)
-- `consumption`: 415.198 million kWh (2022 est.)
-- `imports`: 101 million kWh (2022 est.)
-- `transmission/distribution losses`: 40 million kWh (2022 est.)
+- `裝機容量`: 114,000 kW (2022 est.)
+- `消費`: 415.198 million kWh (2022 est.)
+- `進口`: 101 million kWh (2022 est.)
+- `傳輸／分配損耗`: 40 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 33.9% of total installed capacity (2022 est.)
-- `solar`: 2.3% of total installed capacity (2022 est.)
-- `hydroelectricity`: 62.1% of total installed capacity (2022 est.)
-- `biomass and waste`: 1.7% of total installed capacity (2022 est.)
+- `石化燃料`: 33.9% of total installed capacity (2022 est.)
+- `太陽能`: 2.3% of total installed capacity (2022 est.)
+- `水力發電`: 62.1% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 1.7% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `imports`: 9,000 metric tons (2022 est.)
+- `進口`: 9,000 metric tons (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 6,000 bbl/day (2022 est.)
+- `成品油消費量`: 6,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 800,000 metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 5,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 795,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 800,000 metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 5,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 795,000 metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 961,000 Btu/person (2022 est.)
@@ -575,17 +575,17 @@ $444.292 million (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 15,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: (2022 est.) less than 1
+- `總訂閱數`: 15,000 (2022 est.)
+- `每100名居民訂閱數`: (2022 est.) less than 1
 
 ### 電話—移動電話
-- `total subscriptions`: 7.471 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 58 (2022 est.)
+- `總訂閱數`: 7.471 million (2022 est.)
+- `每100名居民訂閱數`: 58 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Burundi provides an attractive telecom market given its high population density and existing low subscription rates for all services; one downside for investors is that the country has a very low economic output,and an unconducive business environment;  disposable income is also very low, and fixed-line infrastructure is poor outside the main urban areas; this is a greater motivation for investors to focus on improving mobile networks than in expanding fixed-line infrastructure; to overcome difficulties associated with the poor telecom infrastructure, the government has supported a number of prominent telcos building a national fiber backbone network; this network offers onward connectivity to submarine cable infrastructure landings in Kenya and Tanzania; the first sections of this network were switched on in early 2014, and additional provinces have since been connected; in addition, the government in early 2018 kick-started the Burundi Broadband project, which aims to deliver national connectivity by 2025; based on this improved infrastructure the government and ITU have developed an ICT strategy to make use of telecoms to promote the country’s socio-economic development through to 2028; progress made by Tanzania with its own national backbone network has benefited Burundi, which has been provided with onward connectivity to most countries in the region; International bandwidth capacity has continued to increase in recent years, including a 38% increase in the nine months to September 2021, resulting in lower retail prices for consumers; two of the mobile operators have launched 3G and LTE services to capitalize on the growing demand for internet access; the number of mobile subscribers increased 7% in the third quarter of 2021, quarter-on-quarter; similar growth is expected for the next two years at least, which will help bring the mobile level closer to the average for the region (2022); Burundi’s Telecommunications Regulation and Control Agency (ARCT) has recently published its roadmap for the deployment of 5G services in the country, setting out a target of July 2024 for the introduction of commercial services.   (2022)
-- `domestic`: fixed-line connections stand at less than 1 per 100 persons; mobile-cellular usage is about 62 per 100 persons (2021)
-- `international`: country code - 257; satellite earth station - 1 Intelsat (Indian Ocean); the government, supported by the World Bank, has backed a joint venture with a number of prominent telecoms to build a national fiber backbone network, offering onward connectivity to submarine cable infrastructure landings in Kenya and Tanzania (2019)
+- `總體評估`: Burundi provides an attractive telecom market given its high population density and existing low subscription rates for all services; one downside for investors is that the country has a very low economic output,and an unconducive business environment;  disposable income is also very low, and fixed-line infrastructure is poor outside the main urban areas; this is a greater motivation for investors to focus on improving mobile networks than in expanding fixed-line infrastructure; to overcome difficulties associated with the poor telecom infrastructure, the government has supported a number of prominent telcos building a national fiber backbone network; this network offers onward connectivity to submarine cable infrastructure landings in Kenya and Tanzania; the first sections of this network were switched on in early 2014, and additional provinces have since been connected; in addition, the government in early 2018 kick-started the Burundi Broadband project, which aims to deliver national connectivity by 2025; based on this improved infrastructure the government and ITU have developed an ICT strategy to make use of telecoms to promote the country’s socio-economic development through to 2028; progress made by Tanzania with its own national backbone network has benefited Burundi, which has been provided with onward connectivity to most countries in the region; International bandwidth capacity has continued to increase in recent years, including a 38% increase in the nine months to September 2021, resulting in lower retail prices for consumers; two of the mobile operators have launched 3G and LTE services to capitalize on the growing demand for internet access; the number of mobile subscribers increased 7% in the third quarter of 2021, quarter-on-quarter; similar growth is expected for the next two years at least, which will help bring the mobile level closer to the average for the region (2022); Burundi’s Telecommunications Regulation and Control Agency (ARCT) has recently published its roadmap for the deployment of 5G services in the country, setting out a target of July 2024 for the introduction of commercial services.   (2022)
+- `國內`: fixed-line connections stand at less than 1 per 100 persons; mobile-cellular usage is about 62 per 100 persons (2021)
+- `國際的`: country code - 257; satellite earth station - 1 Intelsat (Indian Ocean); the government, supported by the World Bank, has backed a joint venture with a number of prominent telecoms to build a national fiber backbone network, offering onward connectivity to submarine cable infrastructure landings in Kenya and Tanzania (2019)
 
 ### 廣播媒體
 state-controlled Radio Television Nationale de Burundi (RTNB) operates a TV station and a national radio network; 3 private TV stations and about 10 privately owned radio stations; transmissions of several international broadcasters are available in Bujumbura (2019)
@@ -594,12 +594,12 @@ state-controlled Radio Television Nationale de Burundi (RTNB) operates a TV stat
 .bi
 
 ### 網際網路使用者
-- `total`: 754,000 (2021 est.)
-- `percent of population`: 5.8% (2021 est.)
+- `總計`: 754,000 (2021 est.)
+- `佔人口比例`: 5.8% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 4,230 (2020 est.)
-- `subscriptions per 100 inhabitants`: 0.04 (2020 est.)
+- `總計`: 4,230 (2020 est.)
+- `每100名居民訂閱數`: 0.04 (2020 est.)
 
 ## 交通運輸
 
@@ -610,8 +610,8 @@ state-controlled Radio Television Nationale de Burundi (RTNB) operates a TV stat
 6 (2024)
 
 ### 道路
-- `total`: 12,000 km
-- `paved`: 1,500 km (2020)
+- `總計`: 12,000 km
+- `已鋪砌`: 1,500 km (2020)
 
 ### 水道
 673 km (2022) (mainly on Lake Tanganyika between Bujumbura, Burundi's principal port, and lake ports in Tanzania, Zambia, and the Democratic Republic of the Congo)
@@ -648,7 +648,7 @@ the FDNB is responsible for defending Burundi’s territorial integrity and prot
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 87,157 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)
+- `難民（原籍國）`: 87,157 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)
 - `IDPs`: 76,987 (some ethnic Tutsis remain displaced from intercommunal violence that broke out after the 1993 coup and fighting between government forces and rebel groups; violence since April 2015) (2023)
-- `stateless persons`: 767 (mid-year 2021)
+- `無國籍人士`: 767 (mid-year 2021)
 

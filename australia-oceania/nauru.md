@@ -19,23 +19,23 @@ Oceania, island in the South Pacific Ocean, south of the Marshall Islands
 Oceania
 
 ### 面積
-- `total `: 21 sq km
-- `land`: 21 sq km
-- `water`: 0 sq km
+- `總計`: 21 sq km
+- `土地`: 21 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 about 0.1 times the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 30 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
 
 ### 氣候
 tropical with a monsoonal pattern; rainy season (November to February)
@@ -44,19 +44,19 @@ tropical with a monsoonal pattern; rainy season (November to February)
 sandy beach rises to fertile ring around raised coral reefs with phosphate plateau in center
 
 ### 海拔
-- `highest point`: Command Ridge 70 m
-- `lowest point`: Pacific Ocean 0 m
+- `最高點`: Command Ridge 70 m
+- `最低點`: Pacific Ocean 0 m
 
 ### 自然資源
 phosphates, fish
 
 ### 土地利用
-- `agricultural land`: 20% (2018 est.)
-- `agricultural land: arable land`: arable land: 0% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 20% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
-- `forest`: 0% (2018 est.)
-- `other`: 80% (2018 est.)
+- `農地`: 20% (2018 est.)
+- `農地：耕地`: arable land: 0% (2018 est.)
+- `農地：永久性作物`: permanent crops: 20% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0% (2018 est.)
+- `森林`: 0% (2018 est.)
+- `其它`: 80% (2018 est.)
 
 ### 灌溉土地
 0 sq km (2022)
@@ -73,13 +73,13 @@ Nauru is the third-smallest country in the world behind the Holy See (Vatican Ci
 ## 人民和社會
 
 ### 人口
-- `total`: 9,892
-- `male`: 4,856
-- `female`: 5,036 (2024 est.)
+- `總計`: 9,892
+- `男性`: 4,856
+- `女性`: 5,036 (2024 est.)
 
 ### 國籍
-- `noun`: Nauruan(s)
-- `adjective`: Nauruan
+- `名詞`: Nauruan(s)
+- `形容詞`: Nauruan
 
 ### 族裔群體
 Nauruan 94.6%, I-Kiribati 2.2%, Fijian 1.3%, other 1.9% (2021 est.)
@@ -92,20 +92,20 @@ Nauruan 93% (official, a distinct Pacific Island language), English 2% (widely u
 Protestant 60.4% (Nauruan Congregational 34.7%, Assemblies of God 11.6%, Pacific Light House 6.3%, Nauru Independent 3.6%, Baptist 1.5, Seventh Day Adventist 1.3%, other Protestant 1.4%), Roman Catholic 33.9%, other 4.2%, none 1.3%, no answer 0.3% (2021 est.)
 
 ### 年齡結構
-- `0-14 years`: 29.6% (male 1,493/female 1,433)
-- `15-64 years`: 66% (male 3,220/female 3,309)
-- `65 years and over`: 4.4% (2024 est.) (male 143/female 294)
+- `0-14歲`: 29.6% (male 1,493/female 1,433)
+- `15-64歲`: 66% (male 3,220/female 3,309)
+- `65歲及以上`: 4.4% (2024 est.) (male 143/female 294)
 
 ### 撫養比率
-- `total dependency ratio`: 69.9
-- `youth dependency ratio`: 66
-- `elderly dependency ratio`: 3.9
-- `potential support ratio`: 25.8 (2021)
+- `總受扶養人比率`: 69.9
+- `少年撫養比率`: 66
+- `老人撫養比率`: 3.9
+- `潛在支持率`: 25.8 (2021)
 
 ### 年齡中位數
-- `total`: 27.8 years (2024 est.)
-- `male`: 27.3 years
-- `female`: 28.4 years
+- `總計`: 27.8 years (2024 est.)
+- `男性`: 27.3 years
+- `女性`: 28.4 years
 
 ### 人口成長率
 0.39% (2024 est.)
@@ -123,25 +123,25 @@ Protestant 60.4% (Nauruan Congregational 34.7%, Assemblies of God 11.6%, Pacific
 extensive phosphate mining made approximately 90% of the island unsuitable for farming; most people live in the fertile coastal areas, especially along the southwest coast
 
 ### 都市化
-- `urban population`: 100% of total population (2023)
-- `rate of urbanization`: 0.18% annual rate of change (2020-25 est.)
+- `城市人口`: 100% of total population (2023)
+- `城鎮化率`: 0.18% annual rate of change (2020-25 est.)
 
 ### 性別比例
-- `at birth`: 1.04 male(s)/female
-- `0-14 years`: 1.04 male(s)/female
-- `15-64 years`: 0.97 male(s)/female
-- `65 years and over`: 0.49 male(s)/female
-- `total population`: 0.96 male(s)/female (2024 est.)
+- `出生時`: 1.04 male(s)/female
+- `0-14歲`: 1.04 male(s)/female
+- `15-64歲`: 0.97 male(s)/female
+- `65歲及以上`: 0.49 male(s)/female
+- `總人口數`: 0.96 male(s)/female (2024 est.)
 
 ### 嬰兒死亡率
-- `total`: 7.6 deaths/1,000 live births (2024 est.)
-- `male`: 9.8 deaths/1,000 live births
-- `female`: 5.3 deaths/1,000 live births
+- `總計`: 7.6 deaths/1,000 live births (2024 est.)
+- `男性`: 9.8 deaths/1,000 live births
+- `女性`: 5.3 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 68.6 years (2024 est.)
-- `male`: 65 years
-- `female`: 72.3 years
+- `總人口數`: 68.6 years (2024 est.)
+- `男性`: 65 years
+- `女性`: 72.3 years
 
 ### 總生育率
 2.55 children born/woman (2024 est.)
@@ -153,12 +153,12 @@ extensive phosphate mining made approximately 90% of the island unsuitable for f
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: NA
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 當前醫療支出
 12% of GDP (2020)
@@ -167,27 +167,27 @@ NA
 1.35 physicians/1,000 population (2015)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 96.3% of population
-- `improved: rural`: rural: NA
-- `improved: total`: total: 96.3% of population
-- `unimproved: urban`: urban: 3.7% of population
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: 3.7% of population (2017 est.)
+- `已改進－城市`: urban: 96.3% of population
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: 96.3% of population
+- `未改進：都市`: urban: 3.7% of population
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: 3.7% of population (2017 est.)
 
 ### 肥胖—成人流行率
 61% (2016)
 
 ### 人均酒精消費量
-- `total`: 2.44 liters of pure alcohol (2019 est.)
-- `beer`: 0.54 liters of pure alcohol (2019 est.)
-- `wine`: 0.09 liters of pure alcohol (2019 est.)
-- `spirits`: 1.81 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 2.44 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.54 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.09 liters of pure alcohol (2019 est.)
+- `烈酒`: 1.81 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 48.5% (2020 est.)
-- `male`: 47.8% (2020 est.)
-- `female`: 49.1% (2020 est.)
+- `總計`: 48.5% (2020 est.)
+- `男性`: 47.8% (2020 est.)
+- `女性`: 49.1% (2020 est.)
 
 ### 5歲以下體重不足兒童
 NA
@@ -199,9 +199,9 @@ NA
 7.1% of GDP (2021) NA
 
 ### 識字程度
-- `total population`: NA
-- `male`: NA
-- `female`: NA
+- `總人口數`: NA
+- `男性`: NA
+- `女性`: NA
 
 ## 環境
 
@@ -209,34 +209,34 @@ NA
 limited natural freshwater resources, roof storage tanks that collect rainwater and desalination plants provide water; a century of intensive phosphate mining beginning in 1906 left the central 90% of Nauru a wasteland; cadmium residue, phosphate dust, and other contaminants have caused air and water pollution with negative impacts on health; climate change has brought on rising sea levels and inland water shortages
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Whaling
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Whaling
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 tropical with a monsoonal pattern; rainy season (November to February)
 
 ### 土地利用
-- `agricultural land`: 20% (2018 est.)
-- `agricultural land: arable land`: arable land: 0% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 20% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
-- `forest`: 0% (2018 est.)
-- `other`: 80% (2018 est.)
+- `農地`: 20% (2018 est.)
+- `農地：耕地`: arable land: 0% (2018 est.)
+- `農地：永久性作物`: permanent crops: 20% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0% (2018 est.)
+- `森林`: 0% (2018 est.)
+- `其它`: 80% (2018 est.)
 
 ### 都市化
-- `urban population`: 100% of total population (2023)
-- `rate of urbanization`: 0.18% annual rate of change (2020-25 est.)
+- `城市人口`: 100% of total population (2023)
+- `城鎮化率`: 0.18% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 7.4 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 0.05 megatons (2016 est.)
-- `methane emissions`: 0.01 megatons (2020 est.)
+- `顆粒物排放量`: 7.4 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 0.05 megatons (2016 est.)
+- `甲烷排放量`: 0.01 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 6,192 tons (2016 est.)
+- `城市固體廢棄物－每年產生`: 6,192 tons (2016 est.)
 
 ### 可再生水資源總量
 10 million cubic meters (2020 est.)
@@ -244,19 +244,19 @@ tropical with a monsoonal pattern; rainy season (November to February)
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Nauru
-- `conventional short form`: Nauru
-- `local long form`: Republic of Nauru
-- `local short form`: Nauru
-- `former`: Pleasant Island
-- `etymology`: the island name may derive from the Nauruan word "anaoero" meaning "I go to the beach"
+- `常用長名`: Republic of Nauru
+- `常用短名`: Nauru
+- `當地語長名`: Republic of Nauru
+- `當地語短名`: Nauru
+- `前任`: Pleasant Island
+- `语源学`: the island name may derive from the Nauruan word "anaoero" meaning "I go to the beach"
 
 ### 政府類型
 parliamentary republic
 
 ### 首都
-- `name`: no official capital; government offices in the Yaren District
-- `time difference`: UTC+12 (17 hours ahead of Washington, DC, during Standard Time)
+- `名稱`: no official capital; government offices in the Yaren District
+- `時差`: UTC+12 (17 hours ahead of Washington, DC, during Standard Time)
 
 ### 行政區劃
 14 districts; Aiwo, Anabar, Anetan, Anibare, Baitsi, Boe, Buada, Denigomodu, Ewa, Ijuw, Meneng, Nibok, Uaboe, Yaren
@@ -271,8 +271,8 @@ Independence Day, 31 January (1968)
 mixed legal system of common law based on the English model and customary law
 
 ### 憲法
-- `history`: effective 29 January 1968
-- `amendments`: proposed by Parliament; passage requires two-thirds majority vote of Parliament; amendments to constitutional articles, such as the republican form of government, protection of fundamental rights and freedoms, the structure and authorities of the executive and legislative branches, also require two-thirds majority of votes in a referendum; amended several times, last in 2018
+- `歷史`: effective 29 January 1968
+- `修正`: proposed by Parliament; passage requires two-thirds majority vote of Parliament; amendments to constitutional articles, such as the republican form of government, protection of fundamental rights and freedoms, the structure and authorities of the executive and legislative branches, also require two-thirds majority of votes in a referendum; amended several times, last in 2018
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
@@ -281,22 +281,22 @@ has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
 20 years of age; universal and compulsory
 
 ### 行政部門
-- `chief of state`: President David ADEANG (since 30 October 2023)
-- `head of government`: President David ADEANG (since 30 October 2023)
-- `cabinet`: Cabinet appointed by the president from among members of Parliament
-- `elections/appointments`: president indirectly elected by Parliament for 3-year term (eligible for a second term); election last held on 30 October 2023 (next to be held in 2026)
-- `election results`: *2023:* David ADEAGN elected president over Delvin THOMA, 10-8  *2022:* Russ KUN elected president unopposed
+- `國家元首`: President David ADEANG (since 30 October 2023)
+- `政府首腦`: President David ADEANG (since 30 October 2023)
+- `内閣`: Cabinet appointed by the president from among members of Parliament
+- `選舉/任命`: president indirectly elected by Parliament for 3-year term (eligible for a second term); election last held on 30 October 2023 (next to be held in 2026)
+- `選舉結果`: *2023:* David ADEAGN elected president over Delvin THOMA, 10-8  *2022:* Russ KUN elected president unopposed
 **note**:  the president is both chief of state and head of government
 
 ### 立法部門
-- `description`: unicameral Parliament (19 seats; members directly elected in multi-seat constituencies by majority vote using the "Dowdall" counting system by which voters rank candidates on their ballots; members serve 3-year terms)
-- `elections`: last held on 24 September 2022 (next to be held in September 2025)
-- `election results`: percent of vote - NA; seats - independent 19; composition - men 17, women 2, percentage women 10.5%
+- `描述`: unicameral Parliament (19 seats; members directly elected in multi-seat constituencies by majority vote using the "Dowdall" counting system by which voters rank candidates on their ballots; members serve 3-year terms)
+- `選舉`: last held on 24 September 2022 (next to be held in September 2025)
+- `選舉結果`: percent of vote - NA; seats - independent 19; composition - men 17, women 2, percentage women 10.5%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court (consists of the chief justice and several justices); note - in late 2017, the Nauruan Government revoked the 1976 High Court Appeals Act, which had allowed appeals beyond the Nauruan Supreme Court, and in early 2018, the government formed its own appeals court
-- `judge selection and term of office`: judges appointed by the president to serve until age 65
-- `subordinate courts`: District Court, Family Court
+- `最高法院`: Supreme Court (consists of the chief justice and several justices); note - in late 2017, the Nauruan Government revoked the 1976 High Court Appeals Act, which had allowed appeals beyond the Nauruan Supreme Court, and in early 2018, the government formed its own appeals court
+- `法官遴選和任期`: judges appointed by the president to serve until age 65
+- `下級法院`: District Court, Family Court
 
 ### 政黨
 Nauru does not have formal political parties; alliances within the government are often formed based on extended family ties
@@ -305,14 +305,14 @@ Nauru does not have formal political parties; alliances within the government ar
 ACP, ADB, AOSIS, C, FAO, G-77, ICAO, ICCt, IFAD, Interpol, IOC, IOM, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UPU, WHO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Margo DEIYE (since 1 December 2021); note - also Permanent Representative to the UN
-- `chancery`: 801 2nd Avenue, Third Floor, New York, NY 10017
-- `telephone`: [1] (212) 937-0074
+- `外交代表負責人`: Ambassador Margo DEIYE (since 1 December 2021); note - also Permanent Representative to the UN
+- `衡平法院（在美國）`: 801 2nd Avenue, Third Floor, New York, NY 10017
+- `電話號碼`: [1] (212) 937-0074
 - `FAX`: [1] (212) 937-0079
-- `email address and website`: nauru@onecommonwealth.org  https://www.un.int/nauru/
+- `電子郵件地址和網站`: nauru@onecommonwealth.org  https://www.un.int/nauru/
 
 ### 駐該國的美國外交代表
-- `embassy`: the US does not have an embassy in Nauru; the US Ambassador to Fiji is accredited to Nauru
+- `大使館`: the US does not have an embassy in Nauru; the US Ambassador to Fiji is accredited to Nauru
 
 ### 旗幟說明
 blue with a narrow, horizontal, gold stripe across the center and a large white 12-pointed star below the stripe on the hoist side; blue stands for the Pacific Ocean, the star indicates the country's location in relation to the Equator (the gold stripe) and the 12 points symbolize the 12 original tribes of Nauru; the star's white color represents phosphate, the basis of the island's wealth
@@ -321,8 +321,8 @@ blue with a narrow, horizontal, gold stripe across the center and a large white 
 frigatebird, calophyllum flower; national colors: blue, yellow, white
 
 ### 國歌
-- `name`: "Nauru Bwiema" (Song of Nauru)
-- `lyrics/music`: Margaret HENDRIE/Laurence Henry HICKS
+- `名稱`: "Nauru Bwiema" (Song of Nauru)
+- `歌詞／音樂`: Margaret HENDRIE/Laurence Henry HICKS
 **note**:  adopted 1968
 
 ## 經濟
@@ -357,8 +357,8 @@ $154.128 million (2023 est.)
 8.2% (2016 est.)
 
 ### GDP—構成，按最終使用部門
-- `exports of goods and services`: 54.7% (2022 est.)
-- `imports of goods and services`: -113.2% (2022 est.)
+- `商品和服務出口`: 54.7% (2022 est.)
+- `商品和服務進口`: -113.2% (2022 est.)
 **note**:  figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -379,8 +379,8 @@ phosphate mining, offshore banking, coconut products
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $199.728 million (2020 est.)
-- `expenditures`: $132.607 million (2020 est.)
+- `收入`: $199.728 million (2020 est.)
+- `支出`: $132.607 million (2020 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -435,38 +435,38 @@ ships, plastic products, other foods, cars, refined petroleum (2022)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 19,000 kW (2022 est.)
-- `consumption`: 37.48 million kWh (2022 est.)
-- `transmission/distribution losses`: 3.922 million kWh (2022 est.)
+- `裝機容量`: 19,000 kW (2022 est.)
+- `消費`: 37.48 million kWh (2022 est.)
+- `傳輸／分配損耗`: 3.922 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 88.9% of total installed capacity (2022 est.)
-- `solar`: 11.1% of total installed capacity (2022 est.)
+- `石化燃料`: 88.9% of total installed capacity (2022 est.)
+- `太陽能`: 11.1% of total installed capacity (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 500 bbl/day (2022 est.)
+- `成品油消費量`: 500 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 70,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 70,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 70,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 70,000 metric tonnes of CO2 (2022 est.)
 
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: (2018 est.) 0
-- `subscriptions per 100 inhabitants`: (2014 est.) less than 1
+- `總訂閱數`: (2018 est.) 0
+- `每100名居民訂閱數`: (2014 est.) less than 1
 
 ### 電話—移動電話
-- `total subscriptions`: 10,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 80 (2021 est.)
+- `總訂閱數`: 10,000 (2021 est.)
+- `每100名居民訂閱數`: 80 (2021 est.)
 
 ### 電信系統
-- `general assessment`: relies on satellite as the primary Internet service provider and mobile operator; internet connectivity on the island is very limited and unstable due to the vulnerability of the network infrastructure to bad weather and limited network coverage, with several blind spots (2022)
-- `domestic`: fixed-line 0 per 100 and mobile-cellular subscribership approximately 80 per 100 (2021)
-- `international`: country code - 674; satellite earth station - 1 Intelsat (Pacific Ocean)
+- `總體評估`: relies on satellite as the primary Internet service provider and mobile operator; internet connectivity on the island is very limited and unstable due to the vulnerability of the network infrastructure to bad weather and limited network coverage, with several blind spots (2022)
+- `國內`: fixed-line 0 per 100 and mobile-cellular subscribership approximately 80 per 100 (2021)
+- `國際的`: country code - 674; satellite earth station - 1 Intelsat (Pacific Ocean)
 
 ### 廣播媒體
 1 government-owned TV station broadcasting programs from New Zealand sent via satellite or on videotape; 1 government-owned radio station, broadcasting on AM and FM, utilizes Australian and British programs (2019)
@@ -475,20 +475,20 @@ ships, plastic products, other foods, cars, refined petroleum (2022)
 .nr
 
 ### 網際網路使用者
-- `total`: 10,920 (2021 est.)
-- `percent of population`: 84% (2021 est.)
+- `總計`: 10,920 (2021 est.)
+- `佔人口比例`: 84% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 950 (2010 est.)
-- `subscriptions per 100 inhabitants`: 10 (2010 est.)
+- `總計`: 950 (2010 est.)
+- `每100名居民訂閱數`: 10 (2010 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 1 (2020)
-- `inventory of registered aircraft operated by air carriers`: 5
-- `annual passenger traffic on registered air carriers`: 45,457 (2018)
-- `annual freight traffic on registered air carriers`: 7.94 million (2018) mt-km
+- `註冊航空公司數量`: 1 (2020)
+- `註冊飛機庫存—航空承運商經營`: 5
+- `年度客運量－註冊航空公司`: 45,457 (2018)
+- `年度貨運量－註冊航空公司`: 7.94 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 C2
@@ -497,22 +497,22 @@ C2
 1 (2024)
 
 ### 道路
-- `total`: 30 km
-- `paved`: 24 km
-- `unpaved`: 6 km (2002)
+- `總計`: 30 km
+- `已鋪砌`: 24 km
+- `未鋪砌`: 6 km (2002)
 
 ### 商船
-- `total`: 6 (2023)
-- `by type`: other 6
+- `總計`: 6 (2023)
+- `依類型`: other 6
 
 ### 港口
-- `total ports`: 1 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 0
-- `very small`: 1
-- `ports with oil terminals`: 1
-- `key ports`: Nauru
+- `總港口數`: 1 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 0
+- `非常小`: 1
+- `原油碼頭港口`: 1
+- `主要港口`: Nauru
 
 ## 軍事和安全
 
@@ -525,5 +525,5 @@ under an informal agreement, defense is the responsibility of Australia  Nau
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `stateless persons`: 140 (2022)
+- `無國籍人士`: 140 (2022)
 

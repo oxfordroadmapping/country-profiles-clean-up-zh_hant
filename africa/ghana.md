@@ -19,25 +19,25 @@ Western Africa, bordering the Gulf of Guinea, between Cote d'Ivoire and Togo
 Africa
 
 ### 面積
-- `total `: 238,533 sq km
-- `land`: 227,533 sq km
-- `water`: 11,000 sq km
+- `總計`: 238,533 sq km
+- `土地`: 227,533 sq km
+- `水`: 11,000 sq km
 
 ### 面積—比較
 slightly smaller than Oregon
 
 ### 陸地邊界
-- `total`: 2,420 km
-- `border countries`: Burkina Faso 602 km; Cote d'Ivoire 720 km; Togo 1098 km
+- `總計`: 2,420 km
+- `邊境國家`: Burkina Faso 602 km; Cote d'Ivoire 720 km; Togo 1098 km
 
 ### 海岸線
 539 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: 200 nm
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: 200 nm
 
 ### 氣候
 tropical; warm and comparatively dry along southeast coast; hot and humid in southwest; hot and dry in north
@@ -46,20 +46,20 @@ tropical; warm and comparatively dry along southeast coast; hot and humid in sou
 mostly low plains with dissected plateau in south-central area
 
 ### 海拔
-- `highest point`: Mount Afadjato 885 m
-- `lowest point`: Atlantic Ocean 0 m
-- `mean elevation`: 190 m
+- `最高點`: Mount Afadjato 885 m
+- `最低點`: Atlantic Ocean 0 m
+- `平均海拔`: 190 m
 
 ### 自然資源
 gold, timber, industrial diamonds, bauxite, manganese, fish, rubber, hydropower, petroleum, silver, salt, limestone
 
 ### 土地利用
-- `agricultural land`: 69.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 20.7% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 11.9% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 36.5% (2018 est.)
-- `forest`: 21.2% (2018 est.)
-- `other`: 9.7% (2018 est.)
+- `農地`: 69.1% (2018 est.)
+- `農地：耕地`: arable land: 20.7% (2018 est.)
+- `農地：永久性作物`: permanent crops: 11.9% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 36.5% (2018 est.)
+- `森林`: 21.2% (2018 est.)
+- `其它`: 9.7% (2018 est.)
 
 ### 灌溉土地
 360 sq km (2013)
@@ -82,13 +82,13 @@ Lake Volta is the world's largest artificial lake (manmade reservoir) by surface
 ## 人民和社會
 
 ### 人口
-- `total`: 34,589,092
-- `male`: 16,902,073
-- `female`: 17,687,019 (2024 est.)
+- `總計`: 34,589,092
+- `男性`: 16,902,073
+- `女性`: 17,687,019 (2024 est.)
 
 ### 國籍
-- `noun`: Ghanaian(s)
-- `adjective`: Ghanaian
+- `名詞`: Ghanaian(s)
+- `形容詞`: Ghanaian
 
 ### 族裔群體
 Akan 45.7%, Mole-Dagbani 18.5%, Ewe 12.8%, Ga-Dangme 7.1%, Gurma 6.4%, Guan 3.2%, Grusi 2.7%, Mande 2%, other 1.6% (2021 est.)
@@ -104,20 +104,20 @@ Christian 71.3% (Pentecostal/Charismatic 31.6%, Protestant 17.4%, Catholic 10%, 
 Ghana has a young age structure, with approximately 56% of the population under the age of 25 as of 2020. Its total fertility rate fell significantly during the 1980s and 1990s but has stalled at around four children per woman for the last few years. Fertility remains higher in the northern region than the Greater Accra region. On average, desired fertility has remained stable for several years; urban dwellers want fewer children than rural residents. Increased life expectancy, due to better health care, nutrition, and hygiene, and reduced fertility have increased Ghana’s share of elderly persons; Ghana’s proportion of persons aged 60+ is among the highest in Sub-Saharan Africa. Poverty has declined in Ghana, but it remains pervasive in the northern region, which is susceptible to droughts and floods and has less access to transportation infrastructure, markets, fertile farming land, and industrial centers. The northern region also has lower school enrollment, higher illiteracy, and fewer opportunities for women. Ghana was a country of immigration in the early years after its 1957 independence, attracting labor migrants largely from Nigeria and other neighboring countries to mine minerals and harvest cocoa – immigrants composed about 12% of Ghana’s population in 1960. In the late 1960s, worsening economic and social conditions discouraged immigration, and hundreds of thousands of immigrants, mostly Nigerians, were expelled. During the 1970s, severe drought and an economic downturn transformed Ghana into a country of emigration; neighboring Cote d’Ivoire was the initial destination. Later, hundreds of thousands of Ghanaians migrated to Nigeria to work in its booming oil industry, but most were deported in 1983 and 1985 as oil prices plummeted. Many Ghanaians then turned to more distant destinations, including other parts of Africa, Europe, and North America, but the majority continued to migrate within West Africa. Since the 1990s, increased emigration of skilled Ghanaians, especially to the US and the UK, drained the country of its health care and education professionals. Internally, poverty and other developmental disparities continue to drive Ghanaians from the north to the south, particularly to its urban centers.
 
 ### 年齡結構
-- `0-14 years`: 37.4% (male 6,527,386/female 6,400,245)
-- `15-64 years`: 58.2% (male 9,690,498/female 10,444,197)
-- `65 years and over`: 4.4% (2024 est.) (male 684,189/female 842,577)
+- `0-14歲`: 37.4% (male 6,527,386/female 6,400,245)
+- `15-64歲`: 58.2% (male 9,690,498/female 10,444,197)
+- `65歲及以上`: 4.4% (2024 est.) (male 684,189/female 842,577)
 
 ### 撫養比率
-- `total dependency ratio`: 68.7
-- `youth dependency ratio`: 62.9
-- `elderly dependency ratio`: 5.9
-- `potential support ratio`: 17 (2021 est.)
+- `總受扶養人比率`: 68.7
+- `少年撫養比率`: 62.9
+- `老人撫養比率`: 5.9
+- `潛在支持率`: 17 (2021 est.)
 
 ### 年齡中位數
-- `total`: 21.4 years (2024 est.)
-- `male`: 20.6 years
-- `female`: 22.3 years
+- `總計`: 21.4 years (2024 est.)
+- `男性`: 20.6 years
+- `女性`: 22.3 years
 
 ### 人口成長率
 2.15% (2024 est.)
@@ -135,18 +135,18 @@ Ghana has a young age structure, with approximately 56% of the population under 
 population is concentrated in the southern half of the country, with the highest concentrations being on or near the Atlantic coast as shown in this population distribution map
 
 ### 都市化
-- `urban population`: 59.2% of total population (2023)
-- `rate of urbanization`: 3.06% annual rate of change (2020-25 est.)
+- `城市人口`: 59.2% of total population (2023)
+- `城鎮化率`: 3.06% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 3.768 million Kumasi, 2.660 million ACCRA (capital), 1.078 million Sekondi Takoradi (2023)
 
 ### 性別比例
-- `at birth`: 1.03 male(s)/female
-- `0-14 years`: 1.02 male(s)/female
-- `15-64 years`: 0.93 male(s)/female
-- `65 years and over`: 0.81 male(s)/female
-- `total population`: 0.96 male(s)/female (2024 est.)
+- `出生時`: 1.03 male(s)/female
+- `0-14歲`: 1.02 male(s)/female
+- `15-64歲`: 0.93 male(s)/female
+- `65歲及以上`: 0.81 male(s)/female
+- `總人口數`: 0.96 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 22.1 years (2022 est.)
@@ -156,14 +156,14 @@ population is concentrated in the southern half of the country, with the highest
 263 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 31.2 deaths/1,000 live births (2024 est.)
-- `male`: 34.5 deaths/1,000 live births
-- `female`: 27.8 deaths/1,000 live births
+- `總計`: 31.2 deaths/1,000 live births (2024 est.)
+- `男性`: 34.5 deaths/1,000 live births
+- `女性`: 27.8 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 70.1 years (2024 est.)
-- `male`: 68.4 years
-- `female`: 71.8 years
+- `總人口數`: 70.1 years (2024 est.)
+- `男性`: 68.4 years
+- `女性`: 71.8 years
 
 ### 總生育率
 3.56 children born/woman (2024 est.)
@@ -175,12 +175,12 @@ population is concentrated in the southern half of the country, with the highest
 27.2% (2017/18)
 
 ### 飲用水來源
-- `improved: urban`: urban: 98.7% of population
-- `improved: rural`: rural: 83.8% of population
-- `improved: total`: total: 92.4% of population
-- `unimproved: urban`: urban: 1.3% of population
-- `unimproved: rural`: rural: 16.2% of population
-- `unimproved: total`: total: 7.6% of population (2020 est.)
+- `已改進－城市`: urban: 98.7% of population
+- `已改進－農村`: rural: 83.8% of population
+- `已改進－總計`: total: 92.4% of population
+- `未改進：都市`: urban: 1.3% of population
+- `未改進：鄉村`: rural: 16.2% of population
+- `未改善：總計`: total: 7.6% of population (2020 est.)
 
 ### 當前醫療支出
 4% of GDP (2020)
@@ -192,27 +192,27 @@ population is concentrated in the southern half of the country, with the highest
 0.9 beds/1,000 population (2011)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 84.8% of population
-- `improved: rural`: rural: 52.8% of population
-- `improved: total`: total: 71.1% of population
-- `unimproved: urban`: urban: 15.2% of population
-- `unimproved: rural`: rural: 47.2% of population
-- `unimproved: total`: total: 28.9% of population (2020 est.)
+- `已改進－城市`: urban: 84.8% of population
+- `已改進－農村`: rural: 52.8% of population
+- `已改進－總計`: total: 71.1% of population
+- `未改進：都市`: urban: 15.2% of population
+- `未改進：鄉村`: rural: 47.2% of population
+- `未改善：總計`: total: 28.9% of population (2020 est.)
 
 ### 肥胖—成人流行率
 10.9% (2016)
 
 ### 人均酒精消費量
-- `total`: 1.59 liters of pure alcohol (2019 est.)
-- `beer`: 0.53 liters of pure alcohol (2019 est.)
-- `wine`: 0.05 liters of pure alcohol (2019 est.)
-- `spirits`: 0.39 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.61 liters of pure alcohol (2019 est.)
+- `總計`: 1.59 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.53 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.05 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.39 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.61 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 3.5% (2020 est.)
-- `male`: 6.6% (2020 est.)
-- `female`: 0.3% (2020 est.)
+- `總計`: 3.5% (2020 est.)
+- `男性`: 6.6% (2020 est.)
+- `女性`: 0.3% (2020 est.)
 
 ### 5歲以下體重不足兒童
 12.6% (2017/18)
@@ -221,23 +221,23 @@ population is concentrated in the southern half of the country, with the highest
 54.3% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 5%
-- `women married by age 18`: 19.3%
-- `men married by age 18`: 3.9% (2018 est.)
+- `15歲前結婚的女性`: 5%
+- `18歲前結婚的女性`: 19.3%
+- `18歲前結婚的男性`: 3.9% (2018 est.)
 
 ### 教育支出
 3.9% of GDP (2018 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 79%
-- `male`: 83.5%
-- `female`: 74.5% (2018)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 79%
+- `男性`: 83.5%
+- `女性`: 74.5% (2018)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 12 years
-- `male`: 12 years
-- `female`: 12 years (2020)
+- `總計`: 12 years
+- `男性`: 12 years
+- `女性`: 12 years (2020)
 
 ## 環境
 
@@ -245,23 +245,23 @@ population is concentrated in the southern half of the country, with the highest
 recurrent drought in north severely affects agricultural activities; deforestation; overgrazing; soil erosion; poaching and habitat destruction threaten wildlife populations; water pollution; inadequate supplies of potable water
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
-- `signed, but not ratified`: Marine Life Conservation
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
+- `已簽署但未批準`: Marine Life Conservation
 
 ### 氣候
 tropical; warm and comparatively dry along southeast coast; hot and humid in southwest; hot and dry in north
 
 ### 土地利用
-- `agricultural land`: 69.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 20.7% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 11.9% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 36.5% (2018 est.)
-- `forest`: 21.2% (2018 est.)
-- `other`: 9.7% (2018 est.)
+- `農地`: 69.1% (2018 est.)
+- `農地：耕地`: arable land: 20.7% (2018 est.)
+- `農地：永久性作物`: permanent crops: 11.9% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 36.5% (2018 est.)
+- `森林`: 21.2% (2018 est.)
+- `其它`: 9.7% (2018 est.)
 
 ### 都市化
-- `urban population`: 59.2% of total population (2023)
-- `rate of urbanization`: 3.06% annual rate of change (2020-25 est.)
+- `城市人口`: 59.2% of total population (2023)
+- `城鎮化率`: 3.06% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 3.51% of GDP (2018 est.)
@@ -270,12 +270,12 @@ tropical; warm and comparatively dry along southeast coast; hot and humid in sou
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 46.04 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 16.67 megatons (2016 est.)
-- `methane emissions`: 22.75 megatons (2020 est.)
+- `顆粒物排放量`: 46.04 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 16.67 megatons (2016 est.)
+- `甲烷排放量`: 22.75 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 3,538,275 tons (2005 est.)
+- `城市固體廢棄物－每年產生`: 3,538,275 tons (2005 est.)
 
 ### 主要河流（按公里長度）
 Volta river mouth (shared with Burkina Faso [s]) - 1,600 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -284,9 +284,9 @@ Volta river mouth (shared with Burkina Faso [s]) - 1,600 km*_issue_*note*_issue_
 Atlantic Ocean drainage: Volta (410,991 sq km)
 
 ### 總取水量
-- `municipal`: 300 million cubic meters (2020 est.)
-- `industrial`: 100 million cubic meters (2020 est.)
-- `agricultural`: 1.07 billion cubic meters (2020 est.)
+- `市級`: 300 million cubic meters (2020 est.)
+- `工業`: 100 million cubic meters (2020 est.)
+- `農業`: 1.07 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 56.2 billion cubic meters (2020 est.)
@@ -294,19 +294,19 @@ Atlantic Ocean drainage: Volta (410,991 sq km)
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Ghana
-- `conventional short form`: Ghana
-- `former`: Gold Coast
-- `etymology`: named for the medieval West African kingdom of the same name but whose location was actually further north than the modern country
+- `常用長名`: Republic of Ghana
+- `常用短名`: Ghana
+- `前任`: Gold Coast
+- `语源学`: named for the medieval West African kingdom of the same name but whose location was actually further north than the modern country
 
 ### 政府類型
 presidential republic
 
 ### 首都
-- `name`: Accra
-- `geographic coordinates`: 5 33 N, 0 13 W
-- `time difference`: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: the name derives from the Akan word "nkran" meaning "ants," and refers to the numerous anthills in the area around the capital
+- `名稱`: Accra
+- `地理坐標`: 5 33 N, 0 13 W
+- `時差`: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: the name derives from the Akan word "nkran" meaning "ants," and refers to the numerous anthills in the area around the capital
 
 ### 行政區劃
 16 regions; Ahafo, Ashanti, Bono, Bono East, Central, Eastern, Greater Accra, North East, Northern, Oti, Savannah, Upper East, Upper West, Volta, Western, Western North
@@ -321,37 +321,37 @@ Independence Day, 6 March (1957)
 mixed system of English common law and customary law
 
 ### 憲法
-- `history`: several previous; latest drafted 31 March 1992, approved and promulgated 28 April 1992, entered into force 7 January 1993
-- `amendments`: proposed by Parliament; consideration requires prior referral to the Council of State, a body of prominent citizens who advise the president of the republic; passage of amendments to "entrenched" constitutional articles (including those on national sovereignty, fundamental rights and freedoms, the structure and authorities of the branches of government, and amendment procedures) requires approval in a referendum by at least 40% participation of eligible voters and at least 75% of votes cast, followed by at least two-thirds majority vote in Parliament, and assent of the president; amendments to non-entrenched articles do not require referenda; amended 1996
+- `歷史`: several previous; latest drafted 31 March 1992, approved and promulgated 28 April 1992, entered into force 7 January 1993
+- `修正`: proposed by Parliament; consideration requires prior referral to the Council of State, a body of prominent citizens who advise the president of the republic; passage of amendments to "entrenched" constitutional articles (including those on national sovereignty, fundamental rights and freedoms, the structure and authorities of the branches of government, and amendment procedures) requires approval in a referendum by at least 40% participation of eligible voters and at least 75% of votes cast, followed by at least two-thirds majority vote in Parliament, and assent of the president; amendments to non-entrenched articles do not require referenda; amended 1996
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent or grandparent must be a citizen of Ghana
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: 5 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent or grandparent must be a citizen of Ghana
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: 5 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Nana Addo Dankwa AKUFO-ADDO (since 7 January 2017)
-- `head of government`: President Nana Addo Dankwa AKUFO-ADDO (since 7 January 2017)
-- `cabinet`: Council of Ministers; nominated by the president, approved by Parliament
-- `elections/appointments`: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 7 December 2020 (next to be held on 7 December 2024); the president is both chief of state and head of government
-- `election results`: *2020:* Nana Addo Dankwa AKUFO-ADDO reelected president in the first round; percent of vote - Nana Addo Dankwa AKUFO-ADDO (NPP) 51.3%, John Dramani MAHAMA (NDC) 47.4%, other 1.3%  *2016:* Nana Addo Dankwa AKUFO-ADDO elected president in the first round; percent of vote - Nana Addo Dankwa AKUFO-ADDO (NPP) 53.7%, John Dramani MAHAMA (NDC) 44.5%, other 1.8%  (2020)
+- `國家元首`: President Nana Addo Dankwa AKUFO-ADDO (since 7 January 2017)
+- `政府首腦`: President Nana Addo Dankwa AKUFO-ADDO (since 7 January 2017)
+- `内閣`: Council of Ministers; nominated by the president, approved by Parliament
+- `選舉/任命`: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 7 December 2020 (next to be held on 7 December 2024); the president is both chief of state and head of government
+- `選舉結果`: *2020:* Nana Addo Dankwa AKUFO-ADDO reelected president in the first round; percent of vote - Nana Addo Dankwa AKUFO-ADDO (NPP) 51.3%, John Dramani MAHAMA (NDC) 47.4%, other 1.3%  *2016:* Nana Addo Dankwa AKUFO-ADDO elected president in the first round; percent of vote - Nana Addo Dankwa AKUFO-ADDO (NPP) 53.7%, John Dramani MAHAMA (NDC) 44.5%, other 1.8%  (2020)
 
 ### 立法部門
-- `description`: unicameral Parliament (275 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)
-- `elections`: last held on 7 December 2020 (next to be held in December 2024)
-- `election results`: percent of vote by party - NPP 50.4%, NDC 46.2%, independent 2.3%, other 1.1%; seats by party- NPP 137, NDC 137, independent 1; composition- men 235, women 40, percentage women 14.6%
+- `描述`: unicameral Parliament (275 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)
+- `選舉`: last held on 7 December 2020 (next to be held in December 2024)
+- `選舉結果`: percent of vote by party - NPP 50.4%, NDC 46.2%, independent 2.3%, other 1.1%; seats by party- NPP 137, NDC 137, independent 1; composition- men 235, women 40, percentage women 14.6%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court (consists of the chief justice and 13 justices)
-- `judge selection and term of office`: chief justice appointed by the president in consultation with the Council of State (a small advisory body of prominent citizens) and with the approval of Parliament; other justices appointed by the president upon the advice of the Judicial Council (an 18-member independent body of judicial, military and police officials, and presidential nominees) and on the advice of the Council of State; justices can retire at age 60, with compulsory retirement at age 70
-- `subordinate courts`: Court of Appeal; High Court; Circuit Court; District Court; regional tribunals
+- `最高法院`: Supreme Court (consists of the chief justice and 13 justices)
+- `法官遴選和任期`: chief justice appointed by the president in consultation with the Council of State (a small advisory body of prominent citizens) and with the approval of Parliament; other justices appointed by the president upon the advice of the Judicial Council (an 18-member independent body of judicial, military and police officials, and presidential nominees) and on the advice of the Council of State; justices can retire at age 60, with compulsory retirement at age 70
+- `下級法院`: Court of Appeal; High Court; Circuit Court; District Court; regional tribunals
 
 ### 政黨
 All Peoples Congress or APC Convention People's Party or CPP Ghana Freedom Party or GFP Ghana Union Movement or GUM Great Consolidated Popular Party or GCPP Liberal Party of Ghana or LPG National Democratic Congress or NDC National Democratic Party or NDP New Patriotic Party or NPP People's National Convention or PNC Progressive People's Party or PPP United Front Party or UFP United Progressive Party or UPP 
@@ -360,19 +360,19 @@ All Peoples Congress or APC Convention People's Party or CPP Ghana Freedom Par
 ACP, AfDB, ATMIS, AU, C, ECOWAS, EITI (compliant country), FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OAS (observer), OIF, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Alima MAHAMA (since 7 July 2021)
-- `chancery`: 3512 International Drive NW, Washington, DC 20008
-- `telephone`: [1] (202) 686-4520
+- `外交代表負責人`: Ambassador Alima MAHAMA (since 7 July 2021)
+- `衡平法院（在美國）`: 3512 International Drive NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 686-4520
 - `FAX`: [1] (202) 686-4527
-- `email address and website`: info@ghanaembassydc.org  https://ghanaembassydc.org/
-- `consulate(s) general`: New York
+- `電子郵件地址和網站`: info@ghanaembassydc.org  https://ghanaembassydc.org/
+- `總領事館`: New York
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Virginia E. PALMER (since 16 June 2022)
-- `embassy`: No. 24, Fourth Circular Road, Cantonments, Accra, P.O. Box 2288, Accra
-- `mailing address`: 2020 Accra Place, Washington DC  20521-2020
-- `telephone`: [233] (0) 30-274-1000
-- `email address and website`: ACSAccra@state.gov  https://gh.usembassy.gov/
+- `外交代表負責人`: Ambassador Virginia E. PALMER (since 16 June 2022)
+- `大使館`: No. 24, Fourth Circular Road, Cantonments, Accra, P.O. Box 2288, Accra
+- `郵寄地址`: 2020 Accra Place, Washington DC  20521-2020
+- `電話號碼`: [233] (0) 30-274-1000
+- `電子郵件地址和網站`: ACSAccra@state.gov  https://gh.usembassy.gov/
 
 ### 旗幟說明
 three equal horizontal bands of red (top), yellow, and green, with a large black five-pointed star centered in the yellow band; red symbolizes the blood shed for independence, yellow represents the country's mineral wealth, while green stands for its forests and natural wealth; the black star is said to be the lodestar of African freedom
@@ -382,8 +382,8 @@ three equal horizontal bands of red (top), yellow, and green, with a large black
 black star, golden eagle; national colors: red, yellow, green, black
 
 ### 國歌
-- `name`: "God Bless Our Homeland Ghana"
-- `lyrics/music`: unknown/Philip GBEHO
+- `名稱`: "God Bless Our Homeland Ghana"
+- `歌詞／音樂`: unknown/Philip GBEHO
 **note**:  music adopted 1957, lyrics adopted 1966; the lyrics were changed twice, in 1960 when a republic was declared and after a 1966 coup
 
 ### 國家級遺產
@@ -430,18 +430,18 @@ $76.37 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 21.1% (2023 est.)
-- `industry`: 29.5% (2023 est.)
-- `services`: 42.5% (2023 est.)
+- `農業`: 21.1% (2023 est.)
+- `產業`: 29.5% (2023 est.)
+- `服務`: 42.5% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 84.2% (2023 est.)
-- `government consumption`: 5.9% (2023 est.)
-- `investment in fixed capital`: 10.7% (2023 est.)
-- `investment in inventories`: 0.2% (2023 est.)
-- `exports of goods and services`: 34% (2023 est.)
-- `imports of goods and services`: -35% (2023 est.)
+- `家庭消費`: 84.2% (2023 est.)
+- `政府消費`: 5.9% (2023 est.)
+- `固定資本投資`: 10.7% (2023 est.)
+- `存貨投資`: 0.2% (2023 est.)
+- `商品和服務出口`: 34% (2023 est.)
+- `商品和服務進口`: -35% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -466,9 +466,9 @@ mining, lumbering, light manufacturing, aluminum smelting, food processing, ceme
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 5.5% (2023 est.)
-- `male`: 5.6% (2023 est.)
-- `female`: 5.4% (2023 est.)
+- `總計`: 5.5% (2023 est.)
+- `男性`: 5.6% (2023 est.)
+- `女性`: 5.4% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -480,12 +480,12 @@ mining, lumbering, light manufacturing, aluminum smelting, food processing, ceme
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 平均家庭支出
-- `on food`: 38.3% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 0.6% of household expenditures (2022 est.)
+- `餐食`: 38.3% of household expenditures (2022 est.)
+- `酒精和煙草`: 0.6% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 1.6% (2016 est.)
-- `highest 10%`: 32.2% (2016 est.)
+- `最低10%`: 1.6% (2016 est.)
+- `最高10%`: 32.2% (2016 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -495,8 +495,8 @@ mining, lumbering, light manufacturing, aluminum smelting, food processing, ceme
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $11.684 billion (2022 est.)
-- `expenditures`: $16.842 billion (2022 est.)
+- `收入`: $11.684 billion (2022 est.)
+- `支出`: $16.842 billion (2022 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -557,44 +557,44 @@ $9.917 billion (2021 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 85.1% (2022 est.)
-- `electrification - urban areas`: 95%
-- `electrification - rural areas`: 71.6%
+- `電氣化－總人口`: 85.1% (2022 est.)
+- `電氣化－城市地區`: 95%
+- `電氣化－農村地區`: 71.6%
 
 ### 電力
-- `installed generating capacity`: 5.444 million kW (2022 est.)
-- `consumption`: 19.142 billion kWh (2022 est.)
-- `exports`: 1.787 billion kWh (2022 est.)
-- `imports`: 48.461 million kWh (2022 est.)
-- `transmission/distribution losses`: 1.619 billion kWh (2022 est.)
+- `裝機容量`: 5.444 million kW (2022 est.)
+- `消費`: 19.142 billion kWh (2022 est.)
+- `出口`: 1.787 billion kWh (2022 est.)
+- `進口`: 48.461 million kWh (2022 est.)
+- `傳輸／分配損耗`: 1.619 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 66% of total installed capacity (2022 est.)
-- `solar`: 0.6% of total installed capacity (2022 est.)
-- `hydroelectricity`: 33.3% of total installed capacity (2022 est.)
-- `biomass and waste`: 0.1% of total installed capacity (2022 est.)
+- `石化燃料`: 66% of total installed capacity (2022 est.)
+- `太陽能`: 0.6% of total installed capacity (2022 est.)
+- `水力發電`: 33.3% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 0.1% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `consumption`: 85,000 metric tons (2022 est.)
-- `exports`: 9 metric tons (2022 est.)
-- `imports`: 85,000 metric tons (2022 est.)
+- `消費`: 85,000 metric tons (2022 est.)
+- `出口`: 9 metric tons (2022 est.)
+- `進口`: 85,000 metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 174,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 110,000 bbl/day (2022 est.)
-- `crude oil estimated reserves`: 660 million barrels (2021 est.)
+- `總石油產量`: 174,000 bbl/day (2023 est.)
+- `成品油消費量`: 110,000 bbl/day (2022 est.)
+- `原油儲備量估值`: 660 million barrels (2021 est.)
 
 ### 天然氣
-- `production`: 3.192 billion cubic meters (2022 est.)
-- `consumption`: 3.912 billion cubic meters (2022 est.)
-- `imports`: 539.629 million cubic meters (2022 est.)
-- `proven reserves`: 22.653 billion cubic meters (2021 est.)
+- `生產`: 3.192 billion cubic meters (2022 est.)
+- `消費`: 3.912 billion cubic meters (2022 est.)
+- `進口`: 539.629 million cubic meters (2022 est.)
+- `探明儲量`: 22.653 billion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 22.882 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 172,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 15.035 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 7.675 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 22.882 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 172,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 15.035 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 7.675 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 11.416 million Btu/person (2022 est.)
@@ -602,17 +602,17 @@ $9.917 billion (2021 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 330,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: (2022 est.) less than 1
+- `總訂閱數`: 330,000 (2022 est.)
+- `每100名居民訂閱數`: (2022 est.) less than 1
 
 ### 電話—移動電話
-- `total subscriptions`: 40.045 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 120 (2022 est.)
+- `總訂閱數`: 40.045 million (2022 est.)
+- `每100名居民訂閱數`: 120 (2022 est.)
 
 ### 電信系統
-- `general assessment`: challenged by unreliable electricity and shortage of skilled labor, Ghana seeks to extend telecom services nationally; investment in fiber infrastructure and off-grid solutions provide data coverage to over 23 million people; launch of LTE has improved mobile data services, including m-commerce and banking; moderately competitive Internet market, most through mobile networks; international submarine cables, and terrestrial cables have improved Internet capacity; LTE services are widely available; the relatively high cost of 5G-compatible devices also inhibits most subscribers from migrating from 3G and LTE platforms (2022)
-- `domestic`: fixed-line data less than 1 per 100 subscriptions; mobile-cellular subscriptions 123 per 100 persons (2021)
-- `international`: country code - 233; landing points for the SAT-3/WASC, MainOne, ACE, WACS and GLO-1 fiber-optic submarine cables that provide connectivity to South and West Africa, and Europe; satellite earth stations - 4 Intelsat (Atlantic Ocean); microwave radio relay link to Panaftel system connects Ghana to its neighbors; GhanaSat-1 nanosatellite launched in 2017 (2017)
+- `總體評估`: challenged by unreliable electricity and shortage of skilled labor, Ghana seeks to extend telecom services nationally; investment in fiber infrastructure and off-grid solutions provide data coverage to over 23 million people; launch of LTE has improved mobile data services, including m-commerce and banking; moderately competitive Internet market, most through mobile networks; international submarine cables, and terrestrial cables have improved Internet capacity; LTE services are widely available; the relatively high cost of 5G-compatible devices also inhibits most subscribers from migrating from 3G and LTE platforms (2022)
+- `國內`: fixed-line data less than 1 per 100 subscriptions; mobile-cellular subscriptions 123 per 100 persons (2021)
+- `國際的`: country code - 233; landing points for the SAT-3/WASC, MainOne, ACE, WACS and GLO-1 fiber-optic submarine cables that provide connectivity to South and West Africa, and Europe; satellite earth stations - 4 Intelsat (Atlantic Ocean); microwave radio relay link to Panaftel system connects Ghana to its neighbors; GhanaSat-1 nanosatellite launched in 2017 (2017)
 
 ### 廣播媒體
 state-owned TV station, 2 state-owned radio networks; several privately owned TV stations and a large number of privately owned radio stations; transmissions of multiple international broadcasters are accessible; several cable and satellite TV subscription services are obtainable
@@ -621,19 +621,19 @@ state-owned TV station, 2 state-owned radio networks; several privately owned TV
 .gh
 
 ### 網際網路使用者
-- `total`: 22.44 million (2021 est.)
-- `percent of population`: 68% (2021 est.)
+- `總計`: 22.44 million (2021 est.)
+- `佔人口比例`: 68% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 78,371 (2020 est.)
-- `subscriptions per 100 inhabitants`: 0.3 (2020 est.)
+- `總計`: 78,371 (2020 est.)
+- `每100名居民訂閱數`: 0.3 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 3 (2020)
-- `inventory of registered aircraft operated by air carriers`: 21
-- `annual passenger traffic on registered air carriers`: 467,438 (2018)
+- `註冊航空公司數量`: 3 (2020)
+- `註冊飛機庫存—航空承運商經營`: 21
+- `年度客運量－註冊航空公司`: 467,438 (2018)
 
 ### 註冊民用航空器國家代碼前綴
 9G
@@ -648,30 +648,30 @@ state-owned TV station, 2 state-owned radio networks; several privately owned TV
 681.3 km gas, 11.4 km oil, 435 km refined products (2022)
 
 ### 鐵路
-- `total`: 947 km (2022)
-- `narrow gauge`: 947 km (2022) 1.067-m gauge
+- `總計`: 947 km (2022)
+- `窄軌`: 947 km (2022) 1.067-m gauge
 
 ### 道路
-- `total`: 65,725 km
-- `paved`: 14,948 km
-- `unpaved`: 50,777 km (2021)
-- `urban`: 28,480 km 27% total paved 73% total unpaved
+- `總計`: 65,725 km
+- `已鋪砌`: 14,948 km
+- `未鋪砌`: 50,777 km (2021)
+- `城市`: 28,480 km 27% total paved 73% total unpaved
 
 ### 水道
 1,293 km (2011) (168 km for launches and lighters on Volta, Ankobra, and Tano Rivers; 1,125 km of arterial and feeder waterways on Lake Volta)
 
 ### 商船
-- `total`: 52 (2023)
-- `by type`: general cargo 8, oil tanker 3, other 41
+- `總計`: 52 (2023)
+- `依類型`: general cargo 8, oil tanker 3, other 41
 
 ### 港口
-- `total ports`: 4 (2024)
-- `large`: 0
-- `medium`: 1
-- `small`: 1
-- `very small`: 2
-- `ports with oil terminals`: 3
-- `key ports`: Saltpond, Sekondi, Takoradi, Tema
+- `總港口數`: 4 (2024)
+- `大`: 0
+- `中`: 1
+- `小`: 1
+- `非常小`: 2
+- `原油碼頭港口`: 3
+- `主要港口`: Saltpond, Sekondi, Takoradi, Tema
 
 ## 軍事和安全
 

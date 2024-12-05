@@ -19,16 +19,16 @@ Central Asia, north of Turkmenistan, south of Kazakhstan
 Asia
 
 ### 面積
-- `total `: 447,400 sq km
-- `land`: 425,400 sq km
-- `water`: 22,000 sq km
+- `總計`: 447,400 sq km
+- `土地`: 425,400 sq km
+- `水`: 22,000 sq km
 
 ### 面積—比較
 about four times the size of Virginia; slightly larger than California
 
 ### 陸地邊界
-- `total`: 6,893 km
-- `border countries`: Afghanistan 144 km; Kazakhstan 2,330 km; Kyrgyzstan 1,314 km; Tajikistan 1,312 km; Turkmenistan 1,793 km
+- `總計`: 6,893 km
+- `邊境國家`: Afghanistan 144 km; Kazakhstan 2,330 km; Kyrgyzstan 1,314 km; Tajikistan 1,312 km; Turkmenistan 1,793 km
 
 ### 海岸線
 0 km (doubly landlocked); note - Uzbekistan includes the southern portion of the Aral Sea with a 420 km shoreline
@@ -43,25 +43,25 @@ mostly mid-latitude desert, long, hot summers, mild winters; semiarid grassland 
 mostly flat-to-rolling sandy desert with dunes; broad, flat intensely irrigated river valleys along course of Amu Darya, Syr Darya (Sirdaryo), and Zaravshan; Fergana Valley in east surrounded by mountainous Tajikistan and Kyrgyzstan; shrinking Aral Sea in west
 
 ### 海拔
-- `highest point`: Xazrat Sulton Tog' 4,643 m
-- `lowest point`: Sariqamish Kuli -12 m
+- `最高點`: Xazrat Sulton Tog' 4,643 m
+- `最低點`: Sariqamish Kuli -12 m
 
 ### 自然資源
 natural gas, petroleum, coal, gold, uranium, silver, copper, lead and zinc, tungsten, molybdenum
 
 ### 土地利用
-- `agricultural land`: 62.6% (2018 est.)
-- `agricultural land: arable land`: arable land: 10.1% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.8% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 51.7% (2018 est.)
-- `forest`: 7.7% (2018 est.)
-- `other`: 29.7% (2018 est.)
+- `農地`: 62.6% (2018 est.)
+- `農地：耕地`: arable land: 10.1% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.8% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 51.7% (2018 est.)
+- `森林`: 7.7% (2018 est.)
+- `其它`: 29.7% (2018 est.)
 
 ### 灌溉土地
 37,320 sq km (2020)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Aral Sea (shared with Kazakhstan) - largely dried up
+- `淡水湖`: Aral Sea (shared with Kazakhstan) - largely dried up
 
 ### 主要河流（按公里長度）
 Syr Darya (shared with Kyrgyzstan [s], Tajikistan, and Kazakhstan [m]) - 3,078 km; Amu Darya river mouth (shared with Tajikistan [s], Afghanistan, and Turkmenistan) - 2,620 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -81,40 +81,40 @@ along with Liechtenstein, one of the only two doubly landlocked countries in the
 ## 人民和社會
 
 ### 人口
-- `total`: 36,520,593
-- `male`: 18,324,813
-- `female`: 18,195,780 (2024 est.)
+- `總計`: 36,520,593
+- `男性`: 18,324,813
+- `女性`: 18,195,780 (2024 est.)
 
 ### 國籍
-- `noun`: Uzbekistani
-- `adjective`: Uzbekistani
+- `名詞`: Uzbekistani
+- `形容詞`: Uzbekistani
 
 ### 族裔群體
 Uzbek 83.8%, Tajik 4.8%, Kazakh 2.5%, Russian 2.3%, Karakalpak 2.2%, Tatar 1.5%, other 2.9% (2017 est.)
 
 ### 語文
 Uzbek (official) 74.3%, Russian 14.2%, Tajik 4.4%, other 7.1%
-- `major-language sample(s)`: Jahon faktlari kitobi, asosiy ma'lumotlar uchun zaruriy manba. (Uzbek)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: Jahon faktlari kitobi, asosiy ma'lumotlar uchun zaruriy manba. (Uzbek)  The World Factbook, the indispensable source for basic information.
 **note**:  in the semi-autonomous Republic of Karakalpakstan, both the Karakalpak language and Uzbek have official status
 
 ### 宗教
 Muslim 88% (mostly Sunni), Eastern Orthodox 9%, other 3%
 
 ### 年齡結構
-- `0-14 years`: 29.6% (male 5,597,947/female 5,213,403)
-- `15-64 years`: 63.7% (male 11,649,017/female 11,617,411)
-- `65 years and over`: 6.7% (2024 est.) (male 1,077,849/female 1,364,966)
+- `0-14歲`: 29.6% (male 5,597,947/female 5,213,403)
+- `15-64歲`: 63.7% (male 11,649,017/female 11,617,411)
+- `65歲及以上`: 6.7% (2024 est.) (male 1,077,849/female 1,364,966)
 
 ### 撫養比率
-- `total dependency ratio`: 54
-- `youth dependency ratio`: 46.3
-- `elderly dependency ratio`: 7.2
-- `potential support ratio`: 13 (2021 est.)
+- `總受扶養人比率`: 54
+- `少年撫養比率`: 46.3
+- `老人撫養比率`: 7.2
+- `潛在支持率`: 13 (2021 est.)
 
 ### 年齡中位數
-- `total`: 28.9 years (2024 est.)
-- `male`: 28.1 years
-- `female`: 29.8 years
+- `總計`: 28.9 years (2024 est.)
+- `男性`: 28.1 years
+- `女性`: 29.8 years
 
 ### 人口成長率
 1.43% (2024 est.)
@@ -132,18 +132,18 @@ Muslim 88% (mostly Sunni), Eastern Orthodox 9%, other 3%
 most of the population is concentrated in the fertile Fergana Valley in the easternmost arm of the country; the south has significant clusters of people, while the central and western deserts are sparsely populated
 
 ### 都市化
-- `urban population`: 50.5% of total population (2023)
-- `rate of urbanization`: 1.25% annual rate of change (2020-25 est.)
+- `城市人口`: 50.5% of total population (2023)
+- `城鎮化率`: 1.25% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 2.603 million TASHKENT (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.08 male(s)/female
-- `0-14 years`: 1.07 male(s)/female
-- `15-64 years`: 1 male(s)/female
-- `65 years and over`: 0.79 male(s)/female
-- `total population`: 1.01 male(s)/female (2024 est.)
+- `出生時`: 1.08 male(s)/female
+- `0-14歲`: 1.07 male(s)/female
+- `15-64歲`: 1 male(s)/female
+- `65歲及以上`: 0.79 male(s)/female
+- `總人口數`: 1.01 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 23.7 years (2019 est.)
@@ -152,14 +152,14 @@ most of the population is concentrated in the fertile Fergana Valley in the east
 30 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 18.2 deaths/1,000 live births (2024 est.)
-- `male`: 21.1 deaths/1,000 live births
-- `female`: 15.1 deaths/1,000 live births
+- `總計`: 18.2 deaths/1,000 live births (2024 est.)
+- `男性`: 21.1 deaths/1,000 live births
+- `女性`: 15.1 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 76.2 years (2024 est.)
-- `male`: 73.6 years
-- `female`: 79 years
+- `總人口數`: 76.2 years (2024 est.)
+- `男性`: 73.6 years
+- `女性`: 79 years
 
 ### 總生育率
 2.76 children born/woman (2024 est.)
@@ -171,12 +171,12 @@ most of the population is concentrated in the fertile Fergana Valley in the east
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: 99.6% of population
-- `improved: rural`: rural: 96.1% of population
-- `improved: total`: total: 97.8% of population
-- `unimproved: urban`: urban: 0.4% of population
-- `unimproved: rural`: rural: 3.9% of population
-- `unimproved: total`: total: 2.2% of population (2020 est.)
+- `已改進－城市`: urban: 99.6% of population
+- `已改進－農村`: rural: 96.1% of population
+- `已改進－總計`: total: 97.8% of population
+- `未改進：都市`: urban: 0.4% of population
+- `未改進：鄉村`: rural: 3.9% of population
+- `未改善：總計`: total: 2.2% of population (2020 est.)
 
 ### 當前醫療支出
 6.8% of GDP (2020)
@@ -188,27 +188,27 @@ NA
 4 beds/1,000 population (2014)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 肥胖—成人流行率
 16.6% (2016)
 
 ### 人均酒精消費量
-- `total`: 2.45 liters of pure alcohol (2019 est.)
-- `beer`: 0.18 liters of pure alcohol (2019 est.)
-- `wine`: 0.09 liters of pure alcohol (2019 est.)
-- `spirits`: 2.19 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 2.45 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.18 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.09 liters of pure alcohol (2019 est.)
+- `烈酒`: 2.19 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 17.6% (2020 est.)
-- `male`: 34% (2020 est.)
-- `female`: 1.1% (2020 est.)
+- `總計`: 17.6% (2020 est.)
+- `男性`: 34% (2020 est.)
+- `女性`: 1.1% (2020 est.)
 
 ### 5歲以下體重不足兒童
 1.8% (2021)
@@ -217,22 +217,22 @@ NA
 68.6% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 0.2%
-- `women married by age 18`: 3.4% (2022 est.)
+- `15歲前結婚的女性`: 0.2%
+- `18歲前結婚的女性`: 3.4% (2022 est.)
 
 ### 教育支出
 4.9% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 100%
-- `male`: 100%
-- `female`: 100% (2019)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 100%
+- `男性`: 100%
+- `女性`: 100% (2019)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 12 years
-- `male`: 12 years
-- `female`: 12 years (2021)
+- `總計`: 12 years
+- `男性`: 12 years
+- `女性`: 12 years (2021)
 
 ## 環境
 
@@ -240,23 +240,23 @@ NA
 shrinkage of the Aral Sea has resulted in growing concentrations of chemical pesticides and natural salts; these substances are then blown from the increasingly exposed lake bed and contribute to desertification and respiratory health problems; water pollution from industrial wastes and the heavy use of fertilizers and pesticides is the cause of many human health disorders; increasing soil salination; soil contamination from buried nuclear processing and agricultural chemicals, including DDT
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Wetlands
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Wetlands
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 mostly mid-latitude desert, long, hot summers, mild winters; semiarid grassland in east
 
 ### 土地利用
-- `agricultural land`: 62.6% (2018 est.)
-- `agricultural land: arable land`: arable land: 10.1% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.8% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 51.7% (2018 est.)
-- `forest`: 7.7% (2018 est.)
-- `other`: 29.7% (2018 est.)
+- `農地`: 62.6% (2018 est.)
+- `農地：耕地`: arable land: 10.1% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.8% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 51.7% (2018 est.)
+- `森林`: 7.7% (2018 est.)
+- `其它`: 29.7% (2018 est.)
 
 ### 都市化
-- `urban population`: 50.5% of total population (2023)
-- `rate of urbanization`: 1.25% annual rate of change (2020-25 est.)
+- `城市人口`: 50.5% of total population (2023)
+- `城鎮化率`: 1.25% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0% of GDP (2018 est.)
@@ -265,15 +265,15 @@ mostly mid-latitude desert, long, hot summers, mild winters; semiarid grassland 
 0.06% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 40.98 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 91.81 megatons (2016 est.)
-- `methane emissions`: 96.16 megatons (2020 est.)
+- `顆粒物排放量`: 40.98 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 91.81 megatons (2016 est.)
+- `甲烷排放量`: 96.16 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 4 million tons (2016 est.)
+- `城市固體廢棄物－每年產生`: 4 million tons (2016 est.)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Aral Sea (shared with Kazakhstan) - largely dried up
+- `淡水湖`: Aral Sea (shared with Kazakhstan) - largely dried up
 
 ### 主要河流（按公里長度）
 Syr Darya (shared with Kyrgyzstan [s], Tajikistan, and Kazakhstan [m]) - 3,078 km; Amu Darya river mouth (shared with Tajikistan [s], Afghanistan, and Turkmenistan) - 2,620 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -282,9 +282,9 @@ Syr Darya (shared with Kyrgyzstan [s], Tajikistan, and Kazakhstan [m]) - 3,078 k
 Internal *(endorheic basin) *drainage: *(Aral Sea basin)* Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)
 
 ### 總取水量
-- `municipal`: 2.41 billion cubic meters (2020 est.)
-- `industrial`: 2.13 billion cubic meters (2020 est.)
-- `agricultural`: 54.36 billion cubic meters (2020 est.)
+- `市級`: 2.41 billion cubic meters (2020 est.)
+- `工業`: 2.13 billion cubic meters (2020 est.)
+- `農業`: 54.36 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 48.87 billion cubic meters (2020 est.)
@@ -292,21 +292,21 @@ Internal *(endorheic basin) *drainage: *(Aral Sea basin)* Amu Darya (534,739 sq 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Uzbekistan
-- `conventional short form`: Uzbekistan
-- `local long form`: O'zbekiston Respublikasi
-- `local short form`: O'zbekiston
-- `former`: Uzbek Soviet Socialist Republic
-- `etymology`: a combination of the Turkic words "uz" (self) and "bek" (master) with the Persian suffix "-stan" (country) to give the meaning "Land of the Free"
+- `常用長名`: Republic of Uzbekistan
+- `常用短名`: Uzbekistan
+- `當地語長名`: O'zbekiston Respublikasi
+- `當地語短名`: O'zbekiston
+- `前任`: Uzbek Soviet Socialist Republic
+- `语源学`: a combination of the Turkic words "uz" (self) and "bek" (master) with the Persian suffix "-stan" (country) to give the meaning "Land of the Free"
 
 ### 政府類型
 presidential republic; highly authoritarian
 
 ### 首都
-- `name`: Tashkent (Toshkent)
-- `geographic coordinates`: 41 19 N, 69 15 E
-- `time difference`: UTC+5 (10 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: *tash* means "stone" and *kent* means "city" in Turkic languages, so the name simply denotes "stone city"
+- `名稱`: Tashkent (Toshkent)
+- `地理坐標`: 41 19 N, 69 15 E
+- `時差`: UTC+5 (10 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: *tash* means "stone" and *kent* means "city" in Turkic languages, so the name simply denotes "stone city"
 
 ### 行政區劃
 12 provinces (viloyatlar, singular - viloyat), 1 autonomous republic* (avtonom respublikasi), and 3 cities** (shahar); Andijon Viloyati, Buxoro Viloyati [Bukhara Province], Farg'ona Viloyati [Fergana Province], Jizzax Viloyati, Namangan Shahri, Namangan Viloyati, Navoiy Viloyati, Qashqadaryo Viloyati (Qarshi), Qoraqalpog'iston Respublikasi [Karakalpakstan Republic]* (Nukus), Samarqand Shahri [Samarkand City], Samarqand Viloyati [Samarkand Province], Sirdaryo Viloyati (Guliston), Surxondaryo Viloyati (Termiz), Toshkent Shahri [Tashkent City]**, Toshkent Viloyati [Nurafshon], Xorazm Viloyati (Urganch)  
@@ -322,38 +322,38 @@ Independence Day, 1 September (1991)
 civil law system;** note**:  in early 2020, the president signed an amendment to the criminal code, criminal procedure code, and code of administrative responsibility; a constitutional referendum passed in April 2023 included criminal code reforms  
 
 ### 憲法
-- `history`: several previous; latest adopted 8 December 1992
-- `amendments`: proposed by the Supreme Assembly or by referendum; passage requires two-thirds majority vote of both houses of the Assembly or passage in a referendum; amended several times, last in 2023
+- `歷史`: several previous; latest adopted 8 December 1992
+- `修正`: proposed by the Supreme Assembly or by referendum; passage requires two-thirds majority vote of both houses of the Assembly or passage in a referendum; amended several times, last in 2023
 **note**:  in a public referendum passed in April 2023, among the changes were the extension of the presidential term to 7 years from 5 years, and modifications to the structure and powers of the Supreme Assembly and to the criminal code 
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Uzbekistan
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 5 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Uzbekistan
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 5 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Shavkat MIRZIYOYEV (since 14 December 2016)
-- `head of government`: Prime Minister Abdulla ARIPOV (since 14 December 2016)
-- `cabinet`: Cabinet of Ministers appointed by the president with most requiring approval of the Senate chamber of the Supreme Assembly (Oliy Majlis)
-- `elections/appointments`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term; previously a 5-year term, extended to 7 years by a 2023 constitutional amendment); election last held on 9 July 2023  (next to be held in 2030); prime minister nominated by majority party in legislature since 2011 but appointed along with the ministers and deputy ministers by the president
-- `election results`: 2023: Shavkat MIRZIYOYEV reelected president in snap election; percent of vote - Shavkat MIRZIYOYEV (LDPU) 87.71%, Robaxon Maxmudova (Adolat) 4.47%, Ulugbek Inoyatov (PDP) 4.05%, Abdushukur Xamzayev (Ecological Party) 3.77%  2021: Shavkat MIRZIYOYEV reelected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 80.3%, Maqsuda VORISOVA (PDP) 6.7%, Alisher QODIROV (National Revival Democratic Party) 5.5%, Narzullo OBLOMURODOV (Ecological Party) 4.1%, Bahrom ABDUHALIMOV (Adolat) 3.4%  *2016:* Shavkat MIRZIYOYEV elected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 88.6%, Hotamjon KETMONOV (PDP) 3.7%, Narimon UMAROV (Adolat) 3.5%, Sarvar OTAMURODOV (National Revival Democratic Party) 2.4%, other 1.8%
+- `國家元首`: President Shavkat MIRZIYOYEV (since 14 December 2016)
+- `政府首腦`: Prime Minister Abdulla ARIPOV (since 14 December 2016)
+- `内閣`: Cabinet of Ministers appointed by the president with most requiring approval of the Senate chamber of the Supreme Assembly (Oliy Majlis)
+- `選舉/任命`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term; previously a 5-year term, extended to 7 years by a 2023 constitutional amendment); election last held on 9 July 2023  (next to be held in 2030); prime minister nominated by majority party in legislature since 2011 but appointed along with the ministers and deputy ministers by the president
+- `選舉結果`: 2023: Shavkat MIRZIYOYEV reelected president in snap election; percent of vote - Shavkat MIRZIYOYEV (LDPU) 87.71%, Robaxon Maxmudova (Adolat) 4.47%, Ulugbek Inoyatov (PDP) 4.05%, Abdushukur Xamzayev (Ecological Party) 3.77%  2021: Shavkat MIRZIYOYEV reelected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 80.3%, Maqsuda VORISOVA (PDP) 6.7%, Alisher QODIROV (National Revival Democratic Party) 5.5%, Narzullo OBLOMURODOV (Ecological Party) 4.1%, Bahrom ABDUHALIMOV (Adolat) 3.4%  *2016:* Shavkat MIRZIYOYEV elected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 88.6%, Hotamjon KETMONOV (PDP) 3.7%, Narimon UMAROV (Adolat) 3.5%, Sarvar OTAMURODOV (National Revival Democratic Party) 2.4%, other 1.8%
 
 ### 立法部門
-- `description`: bicameral Supreme Assembly or Oliy Majlis consists of:Senate or Senat (100 seats); 84 members indirectly elected by regional governing councils and 16 appointed by the president; members serve 5-year terms); note - amendments to the constitution approved in April 2023 call for the reduction of Senate seats to 65 from 100Legislative Chamber or Qonunchilik Palatasi (150 seats statutory, 140 seats current; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)
-- `elections`: Senate - last held 16-17 January 2020 (next to be held in 2025)Legislative Chamber - last held on 27 October 2024
-- `election results`: Senate - percent of vote by party - NA; seats by party - NA; composition - men 68, women 22, percentage women 24.4%  Legislative Chamber - percent of vote by party - Liberal Democratic Party 34.8%, the National Revival Democratic Party 18.8%, the People's Democratic Party 17.1%, the Adolat (Justice) Social Democratic Party 16.2%, the Ecological Party 13.1%; seats by party - LDP 64, National Revival Democratic Party 29, PDP 20, Adolat 21, the Ecological Party 16
+- `描述`: bicameral Supreme Assembly or Oliy Majlis consists of:Senate or Senat (100 seats); 84 members indirectly elected by regional governing councils and 16 appointed by the president; members serve 5-year terms); note - amendments to the constitution approved in April 2023 call for the reduction of Senate seats to 65 from 100Legislative Chamber or Qonunchilik Palatasi (150 seats statutory, 140 seats current; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)
+- `選舉`: Senate - last held 16-17 January 2020 (next to be held in 2025)Legislative Chamber - last held on 27 October 2024
+- `選舉結果`: Senate - percent of vote by party - NA; seats by party - NA; composition - men 68, women 22, percentage women 24.4%  Legislative Chamber - percent of vote by party - Liberal Democratic Party 34.8%, the National Revival Democratic Party 18.8%, the People's Democratic Party 17.1%, the Adolat (Justice) Social Democratic Party 16.2%, the Ecological Party 13.1%; seats by party - LDP 64, National Revival Democratic Party 29, PDP 20, Adolat 21, the Ecological Party 16
 
 ### 司法部門
-- `highest court(s)`: Supreme Court (consists of 67 judges organized into administrative, civil, criminal, and economic sections); Constitutional Court (consists of 7 judges)
-- `judge selection and term of office`: judges of the highest courts nominated by the president and confirmed by the Senate of the Oliy Majlis; judges appointed for a single 10-year term; the court chairman and deputies appointed for 10-year terms without the right to reelection. (Article 132 of the constitution)
-- `subordinate courts`: regional, district, city, and town courts
+- `最高法院`: Supreme Court (consists of 67 judges organized into administrative, civil, criminal, and economic sections); Constitutional Court (consists of 7 judges)
+- `法官遴選和任期`: judges of the highest courts nominated by the president and confirmed by the Senate of the Oliy Majlis; judges appointed for a single 10-year term; the court chairman and deputies appointed for 10-year terms without the right to reelection. (Article 132 of the constitution)
+- `下級法院`: regional, district, city, and town courts
 
 ### 政黨
 Ecological Party of Uzbekistan (O'zbekiston Ekologik Partivasi)Justice (Adolat) Social Democratic Party of UzbekistanLiberal Democratic Party of Uzbekistan (O'zbekiston Liberal-Demokratik Partiyasi) or LDPUNational Revival Democratic Party of Uzbekistan (O'zbekiston Milliy Tiklanish Demokratik Partiyasi)People's Democratic Party of Uzbekistan (Xalq Demokratik Partiyas) or PDP (formerly Communist Party)
@@ -362,20 +362,20 @@ Ecological Party of Uzbekistan (O'zbekiston Ekologik Partivasi)Justice (Adolat) 
 ADB, CICA, CIS, EAEU (observer), EAPC, EBRD, ECO, EEU (observer), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Furqat SIDIKOV (since 19 April 2023)
-- `chancery`: 1746 Massachusetts Avenue NW, Washington, DC 20036
-- `telephone`: [1] (202) 887-5300
+- `外交代表負責人`: Ambassador Furqat SIDIKOV (since 19 April 2023)
+- `衡平法院（在美國）`: 1746 Massachusetts Avenue NW, Washington, DC 20036
+- `電話號碼`: [1] (202) 887-5300
 - `FAX`: [1] (202) 293-6804
-- `email address and website`: info.washington@mfa.uz  https://www.uzbekistan.org/
-- `consulate(s) general`: New York
+- `電子郵件地址和網站`: info.washington@mfa.uz  https://www.uzbekistan.org/
+- `總領事館`: New York
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Jonathan HENICK (since 14 October 2022)
-- `embassy`: 3 Moyqorghon, 5th Block, Yunusobod District, 100093 Tashkent
-- `mailing address`: 7110 Tashkent Place, Washington DC  20521-7110
-- `telephone`: [998] 78-120-5450
+- `外交代表負責人`: Ambassador Jonathan HENICK (since 14 October 2022)
+- `大使館`: 3 Moyqorghon, 5th Block, Yunusobod District, 100093 Tashkent
+- `郵寄地址`: 7110 Tashkent Place, Washington DC  20521-7110
+- `電話號碼`: [998] 78-120-5450
 - `FAX`: [998] 78-120-6335
-- `email address and website`: ACSTashkent@state.gov  https://uz.usembassy.gov/
+- `電子郵件地址和網站`: ACSTashkent@state.gov  https://uz.usembassy.gov/
 
 ### 旗幟說明
 three equal horizontal bands of blue (top), white, and green separated by red fimbriations with a vertical, white crescent moon (closed side to the hoist) and 12 white, five-pointed stars shifted to the hoist on the top band; blue is the color of the Turkic peoples and of the sky, white signifies peace and the striving for purity in thoughts and deeds, while green represents nature and is the color of Islam; the red stripes are the vital force of all living organisms that links good and pure ideas with the eternal sky and with deeds on earth; the crescent represents Islam and the 12 stars the months and constellations of the Uzbek calendar
@@ -384,8 +384,8 @@ three equal horizontal bands of blue (top), white, and green separated by red fi
 khumo (mythical bird); national colors: blue, white, red, green
 
 ### 國歌
-- `name`: "O'zbekiston Respublikasining Davlat Madhiyasi" (National Anthem of the Republic of Uzbekistan)
-- `lyrics/music`: Abdulla ARIPOV/Mutal BURHANOV
+- `名稱`: "O'zbekiston Respublikasining Davlat Madhiyasi" (National Anthem of the Republic of Uzbekistan)
+- `歌詞／音樂`: Abdulla ARIPOV/Mutal BURHANOV
 **note**:  adopted 1992; after the fall of the Soviet Union, Uzbekistan kept the music of the anthem from its time as a Soviet Republic but adopted new lyrics
 
 ### 國家級遺產
@@ -432,18 +432,18 @@ $90.889 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 23% (2023 est.)
-- `industry`: 30.5% (2023 est.)
-- `services`: 41% (2023 est.)
+- `農業`: 23% (2023 est.)
+- `產業`: 30.5% (2023 est.)
+- `服務`: 41% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 59.7% (2023 est.)
-- `government consumption`: 16.1% (2023 est.)
-- `investment in fixed capital`: 34.8% (2023 est.)
-- `investment in inventories`: 8.3% (2023 est.)
-- `exports of goods and services`: 26.5% (2023 est.)
-- `imports of goods and services`: -45.5% (2023 est.)
+- `家庭消費`: 59.7% (2023 est.)
+- `政府消費`: 16.1% (2023 est.)
+- `固定資本投資`: 34.8% (2023 est.)
+- `存貨投資`: 8.3% (2023 est.)
+- `商品和服務出口`: 26.5% (2023 est.)
+- `商品和服務進口`: -45.5% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -468,21 +468,21 @@ textiles, food processing, machine building, metallurgy, mining, hydrocarbon ext
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 11% (2023 est.)
-- `male`: 7.1% (2023 est.)
-- `female`: 18.3% (2023 est.)
+- `總計`: 11% (2023 est.)
+- `男性`: 7.1% (2023 est.)
+- `女性`: 18.3% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 基尼指數係數—家庭所得分配
 31.2 (2022 est.)
 
 ### 平均家庭支出
-- `on food`: 46.4% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 3.2% of household expenditures (2022 est.)
+- `餐食`: 46.4% of household expenditures (2022 est.)
+- `酒精和煙草`: 3.2% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 2.5% (2022 est.)
-- `highest 10%`: 23.2% (2022 est.)
+- `最低10%`: 2.5% (2022 est.)
+- `最高10%`: 23.2% (2022 est.)
 
 ### 匯款
 17.71% of GDP (2023 est.)
@@ -491,8 +491,8 @@ textiles, food processing, machine building, metallurgy, mining, hydrocarbon ext
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $20.578 billion (2022 est.)
-- `expenditures`: $20.79 billion (2022 est.)
+- `收入`: $20.578 billion (2022 est.)
+- `支出`: $20.79 billion (2022 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -557,43 +557,43 @@ $22.305 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 16.926 million kW (2022 est.)
-- `consumption`: 67.642 billion kWh (2022 est.)
-- `exports`: 2.644 billion kWh (2022 est.)
-- `imports`: 6.232 billion kWh (2022 est.)
-- `transmission/distribution losses`: 10.704 billion kWh (2022 est.)
+- `裝機容量`: 16.926 million kW (2022 est.)
+- `消費`: 67.642 billion kWh (2022 est.)
+- `出口`: 2.644 billion kWh (2022 est.)
+- `進口`: 6.232 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 10.704 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 93.3% of total installed capacity (2022 est.)
-- `hydroelectricity`: 6.7% of total installed capacity (2022 est.)
+- `石化燃料`: 93.3% of total installed capacity (2022 est.)
+- `水力發電`: 6.7% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `production`: 5.356 million metric tons (2022 est.)
-- `consumption`: 7.396 million metric tons (2022 est.)
-- `exports`: 9,000 metric tons (2022 est.)
-- `imports`: 2.194 million metric tons (2022 est.)
-- `proven reserves`: 1.375 billion metric tons (2022 est.)
+- `生產`: 5.356 million metric tons (2022 est.)
+- `消費`: 7.396 million metric tons (2022 est.)
+- `出口`: 9,000 metric tons (2022 est.)
+- `進口`: 2.194 million metric tons (2022 est.)
+- `探明儲量`: 1.375 billion metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 64,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 91,000 bbl/day (2022 est.)
-- `crude oil estimated reserves`: 594 million barrels (2021 est.)
+- `總石油產量`: 64,000 bbl/day (2023 est.)
+- `成品油消費量`: 91,000 bbl/day (2022 est.)
+- `原油儲備量估值`: 594 million barrels (2021 est.)
 
 ### 天然氣
-- `production`: 47.5 billion cubic meters (2022 est.)
-- `consumption`: 43.227 billion cubic meters (2022 est.)
-- `exports`: 5.595 billion cubic meters (2022 est.)
-- `imports`: 12,000 cubic meters (2022 est.)
-- `proven reserves`: 1.841 trillion cubic meters (2021 est.)
+- `生產`: 47.5 billion cubic meters (2022 est.)
+- `消費`: 43.227 billion cubic meters (2022 est.)
+- `出口`: 5.595 billion cubic meters (2022 est.)
+- `進口`: 12,000 cubic meters (2022 est.)
+- `探明儲量`: 1.841 trillion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 103.219 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 9.807 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 11.041 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 82.37 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 103.219 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 9.807 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 11.041 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 82.37 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 53.528 million Btu/person (2022 est.)
@@ -601,17 +601,17 @@ $22.305 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 5.686 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 16 (2022 est.)
+- `總訂閱數`: 5.686 million (2022 est.)
+- `每100名居民訂閱數`: 16 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 35.69 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 103 (2022 est.)
+- `總訂閱數`: 35.69 million (2022 est.)
+- `每100名居民訂閱數`: 103 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Uzbekistan’s telecom markets both wireline and wireless have been playing "catch up" in terms of their development following the country's independence from the former Soviet Union; the government has formally adopted the principles of operating as a market economy, many elements of the old centrally planned economic model remain; this has had the effect of reducing the level of interest from foreign companies and investors in building out the necessary underlying infrastructure, which in turn has constrained the rate of growth in the country’s telecoms sector; the last five years has seen an upswing in prospects for the sector as fiber network roll outs continue beyond the main urban centers, while the mobile market experiences some consolidation for stronger, more efficient competitors; growth is present in the fixed broadband segment with penetration projected to reach 24% by 2027 (a 5-year CAGR of 6.2%); despite the promising signs in the fixed markets, it is the mobile segment that continues to dominate Uzbekistan’s telecoms sector in terms of penetration, revenue, and growth;  there are four major operators providing a modicum of competition; three of the four are government owned entities (2024)
-- `domestic`: fixed-line nearly 16 per 100 persons and mobile-cellular teledensity of 103 per 100 persons (2022)
-- `international`: country code - 998; linked by fiber-optic cable or microwave radio relay with CIS member states and to other countries by leased connection via the Moscow international gateway switch; the country also has a link to the Trans-Asia-Europe (TAE) fiber-optic cable; Uzbekistan has supported the national fiber-optic backbone project of Afghanistan since 2008
+- `總體評估`: Uzbekistan’s telecom markets both wireline and wireless have been playing "catch up" in terms of their development following the country's independence from the former Soviet Union; the government has formally adopted the principles of operating as a market economy, many elements of the old centrally planned economic model remain; this has had the effect of reducing the level of interest from foreign companies and investors in building out the necessary underlying infrastructure, which in turn has constrained the rate of growth in the country’s telecoms sector; the last five years has seen an upswing in prospects for the sector as fiber network roll outs continue beyond the main urban centers, while the mobile market experiences some consolidation for stronger, more efficient competitors; growth is present in the fixed broadband segment with penetration projected to reach 24% by 2027 (a 5-year CAGR of 6.2%); despite the promising signs in the fixed markets, it is the mobile segment that continues to dominate Uzbekistan’s telecoms sector in terms of penetration, revenue, and growth;  there are four major operators providing a modicum of competition; three of the four are government owned entities (2024)
+- `國內`: fixed-line nearly 16 per 100 persons and mobile-cellular teledensity of 103 per 100 persons (2022)
+- `國際的`: country code - 998; linked by fiber-optic cable or microwave radio relay with CIS member states and to other countries by leased connection via the Moscow international gateway switch; the country also has a link to the Trans-Asia-Europe (TAE) fiber-optic cable; Uzbekistan has supported the national fiber-optic backbone project of Afghanistan since 2008
 
 ### 廣播媒體
 the government controls media; 17 state-owned broadcasters - 13 TV and 4 radio - provide service to virtually the entire country; about 20 privately owned TV stations, overseen by local officials, broadcast to local markets; privately owned TV stations are required to lease transmitters from the government-owned Republic TV and Radio Industry Corporation; in 2019, the Uzbek Agency for Press and Information was reorganized into the Agency of Information and Mass Communications and became part of the Uzbek Presidential Administration (2019)
@@ -620,20 +620,20 @@ the government controls media; 17 state-owned broadcasters - 13 TV and 4 radio -
 .uz
 
 ### 網際網路使用者
-- `total`: 26.18 million (2021 est.)
-- `percent of population`: 77% (2021 est.)
+- `總計`: 26.18 million (2021 est.)
+- `佔人口比例`: 77% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 4,820,009 (2020 est.)
-- `subscriptions per 100 inhabitants`: 14 (2020 est.)
+- `總計`: 4,820,009 (2020 est.)
+- `每100名居民訂閱數`: 14 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 2 (2020)
-- `inventory of registered aircraft operated by air carriers`: 34
-- `annual passenger traffic on registered air carriers`: 3,056,558 (2018)
-- `annual freight traffic on registered air carriers`: 89.43 million (2018) mt-km
+- `註冊航空公司數量`: 2 (2020)
+- `註冊飛機庫存—航空承運商經營`: 34
+- `年度客運量－註冊航空公司`: 3,056,558 (2018)
+- `年度貨運量－註冊航空公司`: 89.43 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 UK
@@ -648,11 +648,11 @@ UK
 13,700 km gas, 944 km oil (2016)
 
 ### 鐵路
-- `total`: 4,642 km (2018)
-- `broad gauge`: 4,642 km (2018) 1.520-m gauge (1,684 km electrified)
+- `總計`: 4,642 km (2018)
+- `寬軌`: 4,642 km (2018) 1.520-m gauge (1,684 km electrified)
 
 ### 道路
-- `total`: 225,500 km (2013)
+- `總計`: 225,500 km (2013)
 
 ### 水道
 1,100 km (2012)
@@ -701,8 +701,8 @@ Islamic Jihad Union; Islamic Movement of Uzbekistan; Islamic State of Iraq and a
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 13,031 (Afghanistan) (mid-year 2022)
-- `stateless persons`: 31,829 (2022)
+- `難民（原籍國）`: 13,031 (Afghanistan) (mid-year 2022)
+- `無國籍人士`: 31,829 (2022)
 
 ### 非法藥物
 a transit country for Afghan heroin, opium, and hashish destined to Kazakhstan, Russia, and Europe;  cannabis and opium poppy are grown domestically for personal use and sale

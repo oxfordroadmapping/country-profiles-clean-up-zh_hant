@@ -19,25 +19,25 @@ Northern Europe, islands between the Arctic Ocean, Barents Sea, Greenland Sea, a
 Arctic Region
 
 ### 面積
-- `total `: 62,045 sq km
-- `land`: 62,045 sq km
-- `water`: 0 sq km
+- `總計`: 62,045 sq km
+- `土地`: 62,045 sq km
+- `水`: 0 sq km
 **note**:  includes Spitsbergen and Bjornoya (Bear Island)
 
 ### 面積—比較
 slightly smaller than West Virginia
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 3,587 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `continental shelf`: extends to depth of exploitation
-- `exclusive fishing zone`: 200 nm
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `大陸架`: extends to depth of exploitation
+- `專屬捕魚區`: 200 nm
 
 ### 氣候
 arctic, tempered by warm North Atlantic Current; cool summers, cold winters; North Atlantic Current flows along west and north coasts of Spitsbergen, keeping water open and navigable most of the year
@@ -46,15 +46,15 @@ arctic, tempered by warm North Atlantic Current; cool summers, cold winters; Nor
 rugged mountains; much of the upland areas are ice covered; west coast clear of ice about half the year; fjords along west and north coasts
 
 ### 海拔
-- `highest point`: Newtontoppen 1,717 m
-- `lowest point`: Arctic Ocean 0 m
+- `最高點`: Newtontoppen 1,717 m
+- `最低點`: Arctic Ocean 0 m
 
 ### 自然資源
 coal, iron ore, copper, zinc, phosphate, wildlife, fish
 
 ### 土地利用
-- `agricultural land`: 0% (2018 est.)
-- `other`: 100% (2018 est.)
+- `農地`: 0% (2018 est.)
+- `其它`: 100% (2018 est.)
 
 ### 人口分布
 the small population is primarily concentrated on the island of Spitsbergen in a handful of settlements on the south side of the Isfjorden, with Longyearbyen being the largest
@@ -68,7 +68,7 @@ northernmost part of the Kingdom of Norway; consists of nine main islands; glaci
 ## 人民和社會
 
 ### 人口
-- `total`: 2,926 (2021 est.)
+- `總計`: 2,926 (2021 est.)
 
 ### 族裔群體
 Norwegian 61.1%, foreign population 38.9% (consists primarily of Russians, Thais, Swedes, Filipinos, and Ukrainians) (2021 est.)
@@ -76,7 +76,7 @@ Norwegian 61.1%, foreign population 38.9% (consists primarily of Russians, Thais
 
 ### 語文
 Norwegian, Russian
-- `major-language sample(s)`: Verdens Faktabok, den essensielle kilden for grunnleggende informasjon. (Norwegian)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: Verdens Faktabok, den essensielle kilden for grunnleggende informasjon. (Norwegian)  The World Factbook, the indispensable source for basic information.
 
 ### 人口成長率
 -0.03% (2019 est.)
@@ -96,15 +96,15 @@ ice floes are a maritime hazard; past exploitation of mammal species (whale, sea
 arctic, tempered by warm North Atlantic Current; cool summers, cold winters; North Atlantic Current flows along west and north coasts of Spitsbergen, keeping water open and navigable most of the year
 
 ### 土地利用
-- `agricultural land`: 0% (2018 est.)
-- `other`: 100% (2018 est.)
+- `農地`: 0% (2018 est.)
+- `其它`: 100% (2018 est.)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Svalbard (sometimes referred to as Spitsbergen, the largest island in the archipelago)
-- `etymology`: 12th century Norse accounts speak of the discovery of a "Svalbard" - literally "cold shores" - but they may have referred to Jan Mayen Island or eastern Greenland; the archipelago was traditionally known as Spitsbergen, but Norway renamed it Svalbard in the 1920s when it assumed sovereignty of the islands
+- `常用長名`: none
+- `常用短名`: Svalbard (sometimes referred to as Spitsbergen, the largest island in the archipelago)
+- `语源学`: 12th century Norse accounts speak of the discovery of a "Svalbard" - literally "cold shores" - but they may have referred to Jan Mayen Island or eastern Greenland; the archipelago was traditionally known as Spitsbergen, but Norway renamed it Svalbard in the 1920s when it assumed sovereignty of the islands
 
 ### 政府類型
 non-self-governing territory of Norway
@@ -113,11 +113,11 @@ non-self-governing territory of Norway
 territory of Norway; administered by the Polar Department of the Ministry of Justice, through a governor (sysselmann) residing in Longyearbyen, Spitsbergen; by treaty (9 February 1920), sovereignty was awarded to Norway
 
 ### 首都
-- `name`: Longyearbyen
-- `geographic coordinates`: 78 13 N, 15 38 E
-- `time difference`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
-- `daylight saving time`: +1hr, begins last Sunday in March; ends last Sunday in October
-- `etymology`: the name in Norwegian means Longyear Town; the site was established by and named after John LONGYEAR, whose Arctic Coal Company began mining operations there in 1906
+- `名稱`: Longyearbyen
+- `地理坐標`: 78 13 N, 15 38 E
+- `時差`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+- `日光節約時間`: +1hr, begins last Sunday in March; ends last Sunday in October
+- `语源学`: the name in Norwegian means Longyear Town; the site was established by and named after John LONGYEAR, whose Arctic Coal Company began mining operations there in 1906
 
 ### 獨立性
 none (territory of Norway)
@@ -129,18 +129,18 @@ only the laws of Norway made explicitly applicable to Svalbard have effect there
 see Norway
 
 ### 行政部門
-- `chief of state`: King HARALD V of Norway (since 17 January 1991)
-- `head of government`: Governor Lars FAUSE (since 24 June 2021)
-- `elections/appointments`: none; the monarchy is hereditary; governor and assistant governor responsible to the Polar Department of the Ministry of Justice
+- `國家元首`: King HARALD V of Norway (since 17 January 1991)
+- `政府首腦`: Governor Lars FAUSE (since 24 June 2021)
+- `選舉/任命`: none; the monarchy is hereditary; governor and assistant governor responsible to the Polar Department of the Ministry of Justice
 
 ### 立法部門
-- `description`: unicameral Longyearbyen Community Council (15 seats; members directly elected by majority vote to serve 4-year-terms)
-- `elections`: last held on 9 October 2023 (next to be held in October 2027)
-- `election results`: seats by party - Liberal 7, Labor 3, Social Liberal 3, Conservative 2
+- `描述`: unicameral Longyearbyen Community Council (15 seats; members directly elected by majority vote to serve 4-year-terms)
+- `選舉`: last held on 9 October 2023 (next to be held in October 2027)
+- `選舉結果`: seats by party - Liberal 7, Labor 3, Social Liberal 3, Conservative 2
 **note**:  the Council acts much like a Norwegian municipality, with responsibility for infrastructure and utilities (including power, land-use and community planning, education, and child welfare); however, the state provides healthcare services
 
 ### 司法部門
-- `highest court(s)`: none; note - Svalbard is subordinate to Norway's Nord-Troms District Court and Halogaland Court of Appeal, both located in Tromso
+- `最高法院`: none; note - Svalbard is subordinate to Norway's Nord-Troms District Court and Halogaland Court of Appeal, both located in Tromso
 
 ### 政黨
 Conservative Labor Liberal Progress Socialist Left
@@ -172,9 +172,9 @@ high-income Norwegian island economy; major coal mining, tourism, and research s
 ## 通訊
 
 ### 電信系統
-- `general assessment`: Svalbard Undersea Cable System is a twin submarine communications cable which connects Svalbard to the mainland of Norway (2022)
-- `domestic`: the Svalbard Satellite Station - connected to the mainland via the Svalbard Undersea Cable System - is the only Arctic ground station that can see low-altitude, polar-orbiting satellites; it provides ground services to more satellites than any other facility in the world (2022)
-- `international`: country code - 47-790; the Svalbard Undersea Cable System is a twin communications cable that connects Svalbard to mainland Norway; the system is the sole telecommunications link to the archipelago (2019)
+- `總體評估`: Svalbard Undersea Cable System is a twin submarine communications cable which connects Svalbard to the mainland of Norway (2022)
+- `國內`: the Svalbard Satellite Station - connected to the mainland via the Svalbard Undersea Cable System - is the only Arctic ground station that can see low-altitude, polar-orbiting satellites; it provides ground services to more satellites than any other facility in the world (2022)
+- `國際的`: country code - 47-790; the Svalbard Undersea Cable System is a twin communications cable that connects Svalbard to mainland Norway; the system is the sole telecommunications link to the archipelago (2019)
 
 ### 廣播媒體
 the Norwegian Broadcasting Corporation (NRK) began direct TV transmission to Svalbard via satellite in 1984; Longyearbyen households have access to 3 NRK radio and 2 TV stations
@@ -185,16 +185,16 @@ the Norwegian Broadcasting Corporation (NRK) began direct TV transmission to Sva
 ## 交通運輸
 
 ### 道路
-- `total`: 40 km (2020)
+- `總計`: 40 km (2020)
 
 ### 港口
-- `total ports`: 3 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 0
-- `very small`: 3
-- `ports with oil terminals`: 0
-- `key ports`: Barentsburg, Longyearbyen, Ny Alesund
+- `總港口數`: 3 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 0
+- `非常小`: 3
+- `原油碼頭港口`: 0
+- `主要港口`: Barentsburg, Longyearbyen, Ny Alesund
 
 ## 軍事和安全
 

@@ -19,24 +19,24 @@ Oceania, island group in the South Pacific Ocean, about two-thirds of the way fr
 Oceania
 
 ### 面積
-- `total `: 18,274 sq km
-- `land`: 18,274 sq km
-- `water`: 0 sq km
+- `總計`: 18,274 sq km
+- `土地`: 18,274 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 slightly smaller than New Jersey
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 1,129 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: 200-m depth or to the depth of exploitation
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: 200-m depth or to the depth of exploitation
 measured from claimed archipelagic straight baselines
 
 ### 氣候
@@ -46,19 +46,19 @@ tropical marine; only slight seasonal temperature variation
 mostly mountains of volcanic origin
 
 ### 海拔
-- `highest point`: Tomanivi 1,324 m
-- `lowest point`: Pacific Ocean 0 m
+- `最高點`: Tomanivi 1,324 m
+- `最低點`: Pacific Ocean 0 m
 
 ### 自然資源
 timber, fish, gold, copper, offshore oil potential, hydropower
 
 ### 土地利用
-- `agricultural land`: 23.3% (2018 est.)
-- `agricultural land: arable land`: arable land: 9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 4.7% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 9.6% (2018 est.)
-- `forest`: 55.7% (2018 est.)
-- `other`: 21% (2018 est.)
+- `農地`: 23.3% (2018 est.)
+- `農地：耕地`: arable land: 9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 4.7% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 9.6% (2018 est.)
+- `森林`: 55.7% (2018 est.)
+- `其它`: 21% (2018 est.)
 
 ### 灌溉土地
 40 sq km (2012)
@@ -75,13 +75,13 @@ consists of 332 islands, approximately 110 of which are inhabited, and more than
 ## 人民和社會
 
 ### 人口
-- `total`: 951,611
-- `male`: 482,304
-- `female`: 469,307 (2024 est.)
+- `總計`: 951,611
+- `男性`: 482,304
+- `女性`: 469,307 (2024 est.)
 
 ### 國籍
-- `noun`: Fijian(s)
-- `adjective`: Fijian
+- `名詞`: Fijian(s)
+- `形容詞`: Fijian
 
 ### 族裔群體
 iTaukei 56.8% (predominantly Melanesian with a Polynesian admixture), Indo-Fijian 37.5%, Rotuman 1.2%, other 4.5% (European, part European, other Pacific Islanders, Chinese) (2007 est.)
@@ -94,20 +94,20 @@ English (official), iTaukei (official), Fiji Hindi (official)
 Protestant 45% (Methodist 34.6%, Assembly of God 5.7%, Seventh Day Adventist 3.9%, and Anglican 0.8%), Hindu 27.9%, other Christian 10.4%, Roman Catholic 9.1%, Muslim 6.3%, Sikh 0.3%, other 0.3%, none 0.8% (2007 est.)
 
 ### 年齡結構
-- `0-14 years`: 24.7% (male 119,910/female 114,904)
-- `15-64 years`: 66.4% (male 323,339/female 308,921)
-- `65 years and over`: 8.9% (2024 est.) (male 39,055/female 45,482)
+- `0-14歲`: 24.7% (male 119,910/female 114,904)
+- `15-64歲`: 66.4% (male 323,339/female 308,921)
+- `65歲及以上`: 8.9% (2024 est.) (male 39,055/female 45,482)
 
 ### 撫養比率
-- `total dependency ratio`: 53
-- `youth dependency ratio`: 44.2
-- `elderly dependency ratio`: 8.7
-- `potential support ratio`: 11.4 (2021 est.)
+- `總受扶養人比率`: 53
+- `少年撫養比率`: 44.2
+- `老人撫養比率`: 8.7
+- `潛在支持率`: 11.4 (2021 est.)
 
 ### 年齡中位數
-- `total`: 31.6 years (2024 est.)
-- `male`: 31.4 years
-- `female`: 31.8 years
+- `總計`: 31.6 years (2024 est.)
+- `男性`: 31.4 years
+- `女性`: 31.8 years
 
 ### 人口成長率
 0.4% (2024 est.)
@@ -125,31 +125,31 @@ Protestant 45% (Methodist 34.6%, Assembly of God 5.7%, Seventh Day Adventist 3.9
 approximately 70% of the population lives on the island of Viti Levu; roughly half of the population lives in urban areas
 
 ### 都市化
-- `urban population`: 58.7% of total population (2023)
-- `rate of urbanization`: 1.37% annual rate of change (2020-25 est.)
+- `城市人口`: 58.7% of total population (2023)
+- `城鎮化率`: 1.37% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 178,000 SUVA (capital) (2018)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.04 male(s)/female
-- `15-64 years`: 1.05 male(s)/female
-- `65 years and over`: 0.86 male(s)/female
-- `total population`: 1.03 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.04 male(s)/female
+- `15-64歲`: 1.05 male(s)/female
+- `65歲及以上`: 0.86 male(s)/female
+- `總人口數`: 1.03 male(s)/female (2024 est.)
 
 ### 產婦死亡率
 38 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 9.7 deaths/1,000 live births (2024 est.)
-- `male`: 11.1 deaths/1,000 live births
-- `female`: 8.1 deaths/1,000 live births
+- `總計`: 9.7 deaths/1,000 live births (2024 est.)
+- `男性`: 11.1 deaths/1,000 live births
+- `女性`: 8.1 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 74.8 years (2024 est.)
-- `male`: 72.2 years
-- `female`: 77.6 years
+- `總人口數`: 74.8 years (2024 est.)
+- `男性`: 72.2 years
+- `女性`: 77.6 years
 
 ### 總生育率
 2.21 children born/woman (2024 est.)
@@ -161,12 +161,12 @@ approximately 70% of the population lives on the island of Viti Levu; roughly ha
 35.5% (2021)
 
 ### 飲用水來源
-- `improved: urban`: urban: 98.2% of population
-- `improved: rural`: rural: 89.1% of population
-- `improved: total`: total: 94.3% of population
-- `unimproved: urban`: urban: 1.8% of population
-- `unimproved: rural`: rural: 10.9% of population
-- `unimproved: total`: total: 5.7% of population (2020 est.)
+- `已改進－城市`: urban: 98.2% of population
+- `已改進－農村`: rural: 89.1% of population
+- `已改進－總計`: total: 94.3% of population
+- `未改進：都市`: urban: 1.8% of population
+- `未改進：鄉村`: rural: 10.9% of population
+- `未改善：總計`: total: 5.7% of population (2020 est.)
 
 ### 當前醫療支出
 3.8% of GDP (2020)
@@ -178,27 +178,27 @@ approximately 70% of the population lives on the island of Viti Levu; roughly ha
 2 beds/1,000 population (2016)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 肥胖—成人流行率
 30.2% (2016)
 
 ### 人均酒精消費量
-- `total`: 2.71 liters of pure alcohol (2019 est.)
-- `beer`: 1.64 liters of pure alcohol (2019 est.)
-- `wine`: 0.29 liters of pure alcohol (2019 est.)
-- `spirits`: 0.79 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 2.71 liters of pure alcohol (2019 est.)
+- `啤酒`: 1.64 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.29 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.79 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 23.1% (2020 est.)
-- `male`: 35.6% (2020 est.)
-- `female`: 10.5% (2020 est.)
+- `總計`: 23.1% (2020 est.)
+- `男性`: 35.6% (2020 est.)
+- `女性`: 10.5% (2020 est.)
 
 ### 5歲以下體重不足兒童
 4.6% (2021) NA
@@ -207,17 +207,17 @@ approximately 70% of the population lives on the island of Viti Levu; roughly ha
 58.8% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 0.2%
-- `women married by age 18`: 4%
-- `men married by age 18`: 1.7% (2021 est.)
+- `15歲前結婚的女性`: 0.2%
+- `18歲前結婚的女性`: 4%
+- `18歲前結婚的男性`: 1.7% (2021 est.)
 
 ### 教育支出
 5.7% of GDP (2020 est.)
 
 ### 識字程度
-- `total population`: 99.1%
-- `male`: 99.1%
-- `female`: 99.1% (2018)
+- `總人口數`: 99.1%
+- `男性`: 99.1%
+- `女性`: 99.1% (2018)
 
 ## 環境
 
@@ -225,23 +225,23 @@ approximately 70% of the population lives on the island of Viti Levu; roughly ha
 the widespread practice of waste incineration is a major contributor to air pollution in the country, as are vehicle emissions in urban areas; deforestation and soil erosion are significant problems; a contributory factor to erosion is clearing of land by bush burning, a widespread practice that threatens biodiversity
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Law of the Sea, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Law of the Sea, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 tropical marine; only slight seasonal temperature variation
 
 ### 土地利用
-- `agricultural land`: 23.3% (2018 est.)
-- `agricultural land: arable land`: arable land: 9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 4.7% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 9.6% (2018 est.)
-- `forest`: 55.7% (2018 est.)
-- `other`: 21% (2018 est.)
+- `農地`: 23.3% (2018 est.)
+- `農地：耕地`: arable land: 9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 4.7% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 9.6% (2018 est.)
+- `森林`: 55.7% (2018 est.)
+- `其它`: 21% (2018 est.)
 
 ### 都市化
-- `urban population`: 58.7% of total population (2023)
-- `rate of urbanization`: 1.37% annual rate of change (2020-25 est.)
+- `城市人口`: 58.7% of total population (2023)
+- `城鎮化率`: 1.37% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.59% of GDP (2018 est.)
@@ -250,19 +250,19 @@ tropical marine; only slight seasonal temperature variation
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 7.36 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 2.05 megatons (2016 est.)
-- `methane emissions`: 0.95 megatons (2020 est.)
+- `顆粒物排放量`: 7.36 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 2.05 megatons (2016 est.)
+- `甲烷排放量`: 0.95 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 189,390 tons (2011 est.)
-- `municipal solid waste recycled annually`: 10,322 tons (2013 est.)
-- `percent of municipal solid waste recycled`: 5.5% (2013 est.)
+- `城市固體廢棄物－每年產生`: 189,390 tons (2011 est.)
+- `城市固體廢棄物－每年回收`: 10,322 tons (2013 est.)
+- `城市固體廢棄物－回收百分比`: 5.5% (2013 est.)
 
 ### 總取水量
-- `municipal`: 30 million cubic meters (2020 est.)
-- `industrial`: 10 million cubic meters (2020 est.)
-- `agricultural`: 50 million cubic meters (2020 est.)
+- `市級`: 30 million cubic meters (2020 est.)
+- `工業`: 10 million cubic meters (2020 est.)
+- `農業`: 50 million cubic meters (2020 est.)
 
 ### 可再生水資源總量
 28.55 billion cubic meters (2020 est.)
@@ -270,20 +270,20 @@ tropical marine; only slight seasonal temperature variation
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Fiji
-- `conventional short form`: Fiji
-- `local long form`: Republic of Fiji (English)/ Matanitu ko Viti (Fijian)
-- `local short form`: Fiji (English)/ Viti (Fijian)
-- `etymology`: the Fijians called their home Viti, but the neighboring Tongans called it Fisi, and in the Anglicized spelling of the Tongan pronunciation - promulgated by explorer Captain James COOK - the designation became Fiji
+- `常用長名`: Republic of Fiji
+- `常用短名`: Fiji
+- `當地語長名`: Republic of Fiji (English)/ Matanitu ko Viti (Fijian)
+- `當地語短名`: Fiji (English)/ Viti (Fijian)
+- `语源学`: the Fijians called their home Viti, but the neighboring Tongans called it Fisi, and in the Anglicized spelling of the Tongan pronunciation - promulgated by explorer Captain James COOK - the designation became Fiji
 
 ### 政府類型
 parliamentary republic
 
 ### 首都
-- `name`: Suva (on Viti Levu)
-- `geographic coordinates`: 18 08 S, 178 25 E
-- `time difference`: UTC+12 (17 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: the name means "little hill" in the native Fijian (iTaukei) language and refers to a mound where a temple once stood
+- `名稱`: Suva (on Viti Levu)
+- `地理坐標`: 18 08 S, 178 25 E
+- `時差`: UTC+12 (17 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: the name means "little hill" in the native Fijian (iTaukei) language and refers to a mound where a temple once stood
 
 ### 行政區劃
 14 provinces and 1 dependency*; Ba, Bua, Cakaudrove, Kadavu, Lau, Lomaiviti, Macuata, Nadroga and Navosa, Naitasiri, Namosi, Ra, Rewa, Rotuma*, Serua, Tailevu
@@ -298,37 +298,37 @@ Fiji (Independence) Day, 10 October (1970)
 common law system based on the English model
 
 ### 憲法
-- `history`: several previous; latest signed into law 6 September 2013
-- `amendments`: proposed as a bill by Parliament and supported by at least three quarters of its members, followed by referral to the president and then to the Electoral Commission, which conducts a referendum; passage requires approval by at least three-quarters of registered voters and assent by the president
+- `歷史`: several previous; latest signed into law 6 September 2013
+- `修正`: proposed as a bill by Parliament and supported by at least three quarters of its members, followed by referral to the president and then to the Electoral Commission, which conducts a referendum; passage requires approval by at least three-quarters of registered voters and assent by the president
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Fiji
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: at least 5 years residency out of the 10 years preceding application
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Fiji
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: at least 5 years residency out of the 10 years preceding application
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Ratu Wiliame KATONIVERE (since 12 November 2021)
-- `head of government`: Prime Minister Sitiveni Ligamamada RABUKA (since 24 December 2022)
-- `cabinet`: Cabinet appointed by the prime minister from among members of Parliament and is responsible to Parliament
-- `elections/appointments`: president elected by Parliament for a 3-year term (eligible for a second term); election last held on 22 October 2021 (next to be held in 2024); prime minister endorsed by the president
-- `election results`: *2021:* Ratu Wiliame KATONIVERE elected president; Wiliame KATONIVERE (People's Alliance) 28 votes, Teimumu KEPA (SODELPA) 23 votes  *2018:* Jioji Konousi KONROTE reelected president (unopposed) 
+- `國家元首`: President Ratu Wiliame KATONIVERE (since 12 November 2021)
+- `政府首腦`: Prime Minister Sitiveni Ligamamada RABUKA (since 24 December 2022)
+- `内閣`: Cabinet appointed by the prime minister from among members of Parliament and is responsible to Parliament
+- `選舉/任命`: president elected by Parliament for a 3-year term (eligible for a second term); election last held on 22 October 2021 (next to be held in 2024); prime minister endorsed by the president
+- `選舉結果`: *2021:* Ratu Wiliame KATONIVERE elected president; Wiliame KATONIVERE (People's Alliance) 28 votes, Teimumu KEPA (SODELPA) 23 votes  *2018:* Jioji Konousi KONROTE reelected president (unopposed) 
 
 ### 立法部門
-- `description`: unicameral Parliament (55 seats; members directly elected in a nationwide, multi-seat constituency by open-list proportional representation vote with a 5% electoral threshold; members serve 4-year terms)
-- `elections`: last held on 14 December 2022 (next to be held in 2026)
-- `election results`: percent of vote by party - FijiFirst 42.5%, People's Alliance 35.8%, NFP 8.9%, SODELPA 5.1%, other 7.7%; seats by party - FijiFirst 26, People's Alliance 21, NFP 5, SODELPA 3; composition - men 50, women 5, percentage women 9.1%
+- `描述`: unicameral Parliament (55 seats; members directly elected in a nationwide, multi-seat constituency by open-list proportional representation vote with a 5% electoral threshold; members serve 4-year terms)
+- `選舉`: last held on 14 December 2022 (next to be held in 2026)
+- `選舉結果`: percent of vote by party - FijiFirst 42.5%, People's Alliance 35.8%, NFP 8.9%, SODELPA 5.1%, other 7.7%; seats by party - FijiFirst 26, People's Alliance 21, NFP 5, SODELPA 3; composition - men 50, women 5, percentage women 9.1%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court (consists of the chief justice, all justices of the Court of Appeal, and judges appointed specifically as Supreme Court judges); Court of Appeal (consists of the court president, all puisne judges of the High Court, and judges specifically appointed to the Court of Appeal); High Court (chaired by the chief justice and includes a minimum of 10 puisne judges; High Court organized into civil, criminal, family, employment, and tax divisions)
-- `judge selection and term of office`: chief justice appointed by the president of Fiji on the advice of the prime minister following consultation with the parliamentary leader of the opposition; judges of the Supreme Court, the president of the Court of Appeal, the justices of the Court of Appeal, and puisne judges of the High Court appointed by the president of Fiji upon the nomination of the Judicial Service Commission after consulting with the cabinet minister and the committee of the House of Representatives responsible for the administration of justice; the chief justice, Supreme Court judges and justices of Appeal generally required to retire at age 70, but this requirement may be waived for one or more sessions of the court; puisne judges appointed for not less than 4 years nor more than 7 years, with mandatory retirement at age 65
-- `subordinate courts`: Magistrates' Court (organized into civil, criminal, juvenile, and small claims divisions)
+- `最高法院`: Supreme Court (consists of the chief justice, all justices of the Court of Appeal, and judges appointed specifically as Supreme Court judges); Court of Appeal (consists of the court president, all puisne judges of the High Court, and judges specifically appointed to the Court of Appeal); High Court (chaired by the chief justice and includes a minimum of 10 puisne judges; High Court organized into civil, criminal, family, employment, and tax divisions)
+- `法官遴選和任期`: chief justice appointed by the president of Fiji on the advice of the prime minister following consultation with the parliamentary leader of the opposition; judges of the Supreme Court, the president of the Court of Appeal, the justices of the Court of Appeal, and puisne judges of the High Court appointed by the president of Fiji upon the nomination of the Judicial Service Commission after consulting with the cabinet minister and the committee of the House of Representatives responsible for the administration of justice; the chief justice, Supreme Court judges and justices of Appeal generally required to retire at age 70, but this requirement may be waived for one or more sessions of the court; puisne judges appointed for not less than 4 years nor more than 7 years, with mandatory retirement at age 65
+- `下級法院`: Magistrates' Court (organized into civil, criminal, juvenile, and small claims divisions)
 
 ### 政黨
 Fiji First Fiji Labor Party or FLP Freedom Alliance (formerly Fiji United Freedom Party or FUFP)National Federation Party or NFP People's Alliance Peoples Democratic Party or PDP Social Democratic Liberal Party or SODELPA Unity Fiji 
@@ -337,19 +337,19 @@ Fiji First Fiji Labor Party or FLP Freedom Alliance (formerly Fiji United Free
 ACP, ADB, AOSIS, C, CP, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OPCW, PCA, PIF, Sparteca (suspended), SPC, UN, UNCTAD, UNDOF, UNESCO, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Ilisoni VUIDREKETI (since 17 June 2024)
-- `chancery`: 1707 L Street NW, Suite 200, Washington, DC 20036
-- `telephone`: [1] (917) 208-4560
+- `外交代表負責人`: Ambassador Ilisoni VUIDREKETI (since 17 June 2024)
+- `衡平法院（在美國）`: 1707 L Street NW, Suite 200, Washington, DC 20036
+- `電話號碼`: [1] (917) 208-4560
 - `FAX`: [1] (202) 466-8325
-- `email address and website`: info@FijiEmbassyDC.com  https://www.fijiembassydc.com/
+- `電子郵件地址和網站`: info@FijiEmbassyDC.com  https://www.fijiembassydc.com/
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Marie DAMOUR (since 24 November 2022); note - also accredited to Kiribati, Nauru, Tonga, and Tuvalu
-- `embassy`: 158 Princes Road, Tamavua, Suva
-- `mailing address`: 4290 Suva Place, Washington DC  20521-4290
-- `telephone`: [679] 331-4466
+- `外交代表負責人`: Ambassador Marie DAMOUR (since 24 November 2022); note - also accredited to Kiribati, Nauru, Tonga, and Tuvalu
+- `大使館`: 158 Princes Road, Tamavua, Suva
+- `郵寄地址`: 4290 Suva Place, Washington DC  20521-4290
+- `電話號碼`: [679] 331-4466
 - `FAX`: [679] 330-2267
-- `email address and website`: SuvaACS@state.gov  https://fj.usembassy.gov/
+- `電子郵件地址和網站`: SuvaACS@state.gov  https://fj.usembassy.gov/
 
 ### 旗幟說明
 light blue with the flag of the UK in the upper hoist-side quadrant and the Fijian shield centered on the outer half of the flag; the blue symbolizes the Pacific Ocean and the Union Jack reflects the links with Great Britain; the shield - taken from Fiji's coat of arms - depicts a yellow lion, holding a coconut pod between its paws, above a white field quartered by the cross of Saint George; the four quarters depict stalks of sugarcane, a palm tree, a banana bunch, and a white dove of peace
@@ -358,8 +358,8 @@ light blue with the flag of the UK in the upper hoist-side quadrant and the Fiji
 Fijian canoe; national color: light blue
 
 ### 國歌
-- `name`: "God Bless Fiji"
-- `lyrics/music`: Michael Francis Alexander PRESCOTT/C. Austin MILES (adapted by Michael Francis Alexander PRESCOTT)
+- `名稱`: "God Bless Fiji"
+- `歌詞／音樂`: Michael Francis Alexander PRESCOTT/C. Austin MILES (adapted by Michael Francis Alexander PRESCOTT)
 **note**:  adopted 1970; known in Fijian as "Meda Dau Doka" (Let Us Show Pride); adapted from the hymn, "Dwelling in Beulah Land," the anthem's English lyrics are generally sung, although they differ in meaning from the official Fijian lyrics
 
 ### 國家級遺產
@@ -405,18 +405,18 @@ $5.495 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 8.3% (2023 est.)
-- `industry`: 16.1% (2023 est.)
-- `services`: 52.9% (2023 est.)
+- `農業`: 8.3% (2023 est.)
+- `產業`: 16.1% (2023 est.)
+- `服務`: 52.9% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 67.5% (2023 est.)
-- `government consumption`: 20.6% (2023 est.)
-- `investment in fixed capital`: 17.6% (2023 est.)
-- `investment in inventories`: -4.8% (2023 est.)
-- `exports of goods and services`: 55.2% (2023 est.)
-- `imports of goods and services`: -65.8% (2023 est.)
+- `家庭消費`: 67.5% (2023 est.)
+- `政府消費`: 20.6% (2023 est.)
+- `固定資本投資`: 17.6% (2023 est.)
+- `存貨投資`: -4.8% (2023 est.)
+- `商品和服務出口`: 55.2% (2023 est.)
+- `商品和服務進口`: -65.8% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -441,9 +441,9 @@ tourism, sugar processing, clothing, copra, gold, silver, lumber
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 15.2% (2023 est.)
-- `male`: 11.7% (2023 est.)
-- `female`: 22.1% (2023 est.)
+- `總計`: 15.2% (2023 est.)
+- `男性`: 11.7% (2023 est.)
+- `女性`: 22.1% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -455,8 +455,8 @@ tourism, sugar processing, clothing, copra, gold, silver, lumber
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 3.5% (2019 est.)
-- `highest 10%`: 24.2% (2019 est.)
+- `最低10%`: 3.5% (2019 est.)
+- `最高10%`: 24.2% (2019 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -466,8 +466,8 @@ tourism, sugar processing, clothing, copra, gold, silver, lumber
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $1.019 billion (2021 est.)
-- `expenditures`: $1.488 billion (2021 est.)
+- `收入`: $1.019 billion (2021 est.)
+- `支出`: $1.488 billion (2021 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -532,32 +532,32 @@ $1.235 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 92% (2022 est.)
-- `electrification - urban areas`: 97.6%
-- `electrification - rural areas`: 86.8%
+- `電氣化－總人口`: 92% (2022 est.)
+- `電氣化－城市地區`: 97.6%
+- `電氣化－農村地區`: 86.8%
 
 ### 電力
-- `installed generating capacity`: 413,000 kW (2022 est.)
-- `consumption`: 936.309 million kWh (2022 est.)
-- `transmission/distribution losses`: 101.775 million kWh (2022 est.)
+- `裝機容量`: 413,000 kW (2022 est.)
+- `消費`: 936.309 million kWh (2022 est.)
+- `傳輸／分配損耗`: 101.775 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 40.2% of total installed capacity (2022 est.)
-- `solar`: 1.3% of total installed capacity (2022 est.)
-- `wind`: 0.3% of total installed capacity (2022 est.)
-- `hydroelectricity`: 54.6% of total installed capacity (2022 est.)
-- `biomass and waste`: 3.6% of total installed capacity (2022 est.)
+- `石化燃料`: 40.2% of total installed capacity (2022 est.)
+- `太陽能`: 1.3% of total installed capacity (2022 est.)
+- `風能`: 0.3% of total installed capacity (2022 est.)
+- `水力發電`: 54.6% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 3.6% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `consumption`: 2.1 metric tons (2022 est.)
-- `imports`: 2.1 metric tons (2022 est.)
+- `消費`: 2.1 metric tons (2022 est.)
+- `進口`: 2.1 metric tons (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 9,000 bbl/day (2022 est.)
+- `成品油消費量`: 9,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 1.248 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 1.248 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 1.248 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 1.248 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 21.041 million Btu/person (2022 est.)
@@ -565,17 +565,17 @@ $1.235 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 49,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 5 (2021 est.)
+- `總訂閱數`: 49,000 (2021 est.)
+- `每100名居民訂閱數`: 5 (2021 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 992,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 107 (2021 est.)
+- `總訂閱數`: 992,000 (2021 est.)
+- `每100名居民訂閱數`: 107 (2021 est.)
 
 ### 電信系統
-- `general assessment`: Fiji is the leading market to watch in terms of both LTE and 5G development in the region; the market boasts relatively sophisticated, advanced digital infrastructure, with telcos’ heavy investment resulting in the country having the highest mobile and internet subscriptions in the Pacific Islands region; LTE, LTE-A, and fiber technologies have received the most investment by the Fijian mobile operators, LTE now accounts for the largest share of connections in the mobile segment; concentrating on the more highly populated areas, the operators are preparing for the next growth area of high-speed data; they also have 5G in mind, and are preparing their networks to be 5G-ready, anticipating an easier migration to the technology based on the relatively high LTE subscription rate; Fiji presents a challenging geographic environment for infrastructure development due to its population being spread across more than 100 islands; the majority of Fijians live on the two main islands of Viti Levu and Vanua Levu; in July 2018, the two islands were linked by the Savusavu submarine cable system, which provides a more secure link in times of emergency weather events such as the regular tropical cyclones that often cause massive destruction to the area, including destroying essential infrastructure such as electricity and telecommunications equipment; notably, the December 2021 eruption of the Hunga Tonga–Hunga Ha'apai submarine volcano in Tonga damaged the Tonga Cable which connects Fiji, and Tonga blocking the latter off from internet services; cable theft and damage of critical communications infrastructure has also become a concern in Fiji, prompting authorities to establish a joint task force to tackle the issue (2022)
-- `domestic`: fixed-line nearly 5 per 100 persons and mobile-cellular teledensity roughly 110 per 100 persons (2021)
-- `international`: country code - 679; landing points for the ICN1, SCCN, Southern Cross NEXT, Tonga Cable and Tui-Samoa submarine cable links to US, NZ, Australia and Pacific islands of Fiji, Vanuatu, Kiribati, Samoa, Tokelau, Tonga, Fallis & Futuna, and American Samoa; satellite earth stations - 2 Inmarsat (Pacific Ocean) (2019)
+- `總體評估`: Fiji is the leading market to watch in terms of both LTE and 5G development in the region; the market boasts relatively sophisticated, advanced digital infrastructure, with telcos’ heavy investment resulting in the country having the highest mobile and internet subscriptions in the Pacific Islands region; LTE, LTE-A, and fiber technologies have received the most investment by the Fijian mobile operators, LTE now accounts for the largest share of connections in the mobile segment; concentrating on the more highly populated areas, the operators are preparing for the next growth area of high-speed data; they also have 5G in mind, and are preparing their networks to be 5G-ready, anticipating an easier migration to the technology based on the relatively high LTE subscription rate; Fiji presents a challenging geographic environment for infrastructure development due to its population being spread across more than 100 islands; the majority of Fijians live on the two main islands of Viti Levu and Vanua Levu; in July 2018, the two islands were linked by the Savusavu submarine cable system, which provides a more secure link in times of emergency weather events such as the regular tropical cyclones that often cause massive destruction to the area, including destroying essential infrastructure such as electricity and telecommunications equipment; notably, the December 2021 eruption of the Hunga Tonga–Hunga Ha'apai submarine volcano in Tonga damaged the Tonga Cable which connects Fiji, and Tonga blocking the latter off from internet services; cable theft and damage of critical communications infrastructure has also become a concern in Fiji, prompting authorities to establish a joint task force to tackle the issue (2022)
+- `國內`: fixed-line nearly 5 per 100 persons and mobile-cellular teledensity roughly 110 per 100 persons (2021)
+- `國際的`: country code - 679; landing points for the ICN1, SCCN, Southern Cross NEXT, Tonga Cable and Tui-Samoa submarine cable links to US, NZ, Australia and Pacific islands of Fiji, Vanuatu, Kiribati, Samoa, Tokelau, Tonga, Fallis & Futuna, and American Samoa; satellite earth stations - 2 Inmarsat (Pacific Ocean) (2019)
 
 ### 廣播媒體
 Fiji TV, a publicly traded company, operates a free-to-air channel; Digicel Fiji operates the Sky Fiji and Sky Pacific multi-channel pay-TV services; state-owned commercial company, Fiji Broadcasting Corporation, Ltd, operates 6 radio stations - 2 public broadcasters and 4 commercial broadcasters with multiple repeaters; 5 radio stations with repeaters operated by Communications Fiji, Ltd; transmissions of multiple international broadcasters are available
@@ -584,20 +584,20 @@ Fiji TV, a publicly traded company, operates a free-to-air channel; Digicel Fiji
 .fj
 
 ### 網際網路使用者
-- `total`: 809,600 (2021 est.)
-- `percent of population`: 88% (2021 est.)
+- `總計`: 809,600 (2021 est.)
+- `佔人口比例`: 88% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 23,062 (2020 est.)
-- `subscriptions per 100 inhabitants`: 3 (2020 est.)
+- `總計`: 23,062 (2020 est.)
+- `每100名居民訂閱數`: 3 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 2 (2020)
-- `inventory of registered aircraft operated by air carriers`: 16
-- `annual passenger traffic on registered air carriers`: 1,670,216 (2018)
-- `annual freight traffic on registered air carriers`: 106.83 million (2018) mt-km
+- `註冊航空公司數量`: 2 (2020)
+- `註冊飛機庫存—航空承運商經營`: 16
+- `年度客運量－註冊航空公司`: 1,670,216 (2018)
+- `年度貨運量－註冊航空公司`: 106.83 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 DQ
@@ -609,28 +609,28 @@ DQ
 2 (2024)
 
 ### 鐵路
-- `total`: 597 km (2008)
-- `narrow gauge`: 597 km (2008) 0.600-m gauge
+- `總計`: 597 km (2008)
+- `窄軌`: 597 km (2008) 0.600-m gauge
 **note**:  belongs to the government-owned Fiji Sugar Corporation; used to haul sugarcane during the harvest season, which runs from May to December
 
 ### 道路
-- `total`: 7,500 km (2023)
+- `總計`: 7,500 km (2023)
 
 ### 水道
 203 km (2012) (122 km are navigable by motorized craft and 200-metric-ton barges)
 
 ### 商船
-- `total`: 74 (2023)
-- `by type`: general cargo 21, oil tanker 4, other 49
+- `總計`: 74 (2023)
+- `依類型`: general cargo 21, oil tanker 4, other 49
 
 ### 港口
-- `total ports`: 5 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 2
-- `very small`: 3
-- `ports with oil terminals`: 4
-- `key ports`: Lautoka Harbor, Levuka, Malai, Savusavu Bay, Suva Harbor
+- `總港口數`: 5 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 2
+- `非常小`: 3
+- `原油碼頭港口`: 4
+- `主要港口`: Lautoka Harbor, Levuka, Malai, Savusavu Bay, Suva Harbor
 
 ## 軍事和安全
 
@@ -663,5 +663,5 @@ established in 1920,*_issue_* *_issue_*the RFMF is a small and lightly-armed for
 ## 跨國議題
 
 ### 人口販運
-- `tier rating`: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Fiji was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/fiji/
+- `會級評分`: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Fiji was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/fiji/
 

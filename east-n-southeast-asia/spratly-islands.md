@@ -19,16 +19,16 @@ Southeastern Asia, group of reefs and islands in the South China Sea, about two-
 Southeast Asia
 
 ### 面積
-- `total `: 5 sq km less than
-- `land`: 5 sq km less than
-- `water`: 0 sq km
+- `總計`: 5 sq km less than
+- `土地`: 5 sq km less than
+- `水`: 0 sq km
 **note**:  includes 100 or so islets, coral reefs, and sea mounts scattered over an area of nearly 410,000 sq km (158,000 sq mi) of the central South China Sea
 
 ### 面積—比較
 land area is about seven times the size of the National Mall in Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 926 km
@@ -43,14 +43,14 @@ tropical
 small, flat islands, islets, cays, and reefs
 
 ### 海拔
-- `highest point`: unnamed location on Southwest Cay 6 m
-- `lowest point`: South China Sea 0 m
+- `最高點`: unnamed location on Southwest Cay 6 m
+- `最低點`: South China Sea 0 m
 
 ### 自然資源
 fish, guano, undetermined oil and natural gas potential
 
 ### 土地利用
-- `other`: 100% (2018 est.)
+- `其它`: 100% (2018 est.)
 
 ### 自然災害
 typhoons; numerous reefs and shoals pose a serious maritime hazard
@@ -61,7 +61,7 @@ strategically located near several primary shipping lanes in the central South C
 ## 人民和社會
 
 ### 人口
-- `total`: (July 2021 est.) no indigenous inhabitants
+- `總計`: (July 2021 est.) no indigenous inhabitants
 **note**:  scattered garrisons are occupied by military personnel of several claimant states
 
 ## 環境
@@ -73,14 +73,14 @@ China's use of dredged sand and coral to build artificial islands harms reef sys
 tropical
 
 ### 土地利用
-- `other`: 100% (2018 est.)
+- `其它`: 100% (2018 est.)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Spratly Islands
-- `etymology`: named after a British whaling captain Richard SPRATLY, who sighted Spratly Island in 1843; the name of the island eventually passed to the entire archipelago
+- `常用長名`: none
+- `常用短名`: Spratly Islands
+- `语源学`: named after a British whaling captain Richard SPRATLY, who sighted Spratly Island in 1843; the name of the island eventually passed to the entire archipelago
 
 ## 經濟
 

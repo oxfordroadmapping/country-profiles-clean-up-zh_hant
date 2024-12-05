@@ -19,26 +19,26 @@ Southwestern Europe, bordering the North Atlantic Ocean, west of Spain
 Europe
 
 ### 面積
-- `total `: 92,090 sq km
-- `land`: 91,470 sq km
-- `water`: 620 sq km
+- `總計`: 92,090 sq km
+- `土地`: 91,470 sq km
+- `水`: 620 sq km
 **note**:  includes Azores and Madeira Islands
 
 ### 面積—比較
 slightly smaller than Virginia
 
 ### 陸地邊界
-- `total`: 1,224 km
-- `border countries`: Spain 1,224 km
+- `總計`: 1,224 km
+- `邊境國家`: Spain 1,224 km
 
 ### 海岸線
 1,793 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: 200-m depth or to the depth of exploitation
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: 200-m depth or to the depth of exploitation
 
 ### 氣候
 maritime temperate; cool and rainy in north, warmer and drier in south
@@ -47,20 +47,20 @@ maritime temperate; cool and rainy in north, warmer and drier in south
 the west-flowing Tagus River divides the country: the north is mountainous toward the interior, while the south is characterized by rolling plains
 
 ### 海拔
-- `highest point`: Ponta do Pico (Pico or Pico Alto) on Ilha do Pico in the Azores 2,351 m
-- `lowest point`: Atlantic Ocean 0 m
-- `mean elevation`: 372 m
+- `最高點`: Ponta do Pico (Pico or Pico Alto) on Ilha do Pico in the Azores 2,351 m
+- `最低點`: Atlantic Ocean 0 m
+- `平均海拔`: 372 m
 
 ### 自然資源
 fish, forests (cork), iron ore, copper, zinc, tin, tungsten, silver, gold, uranium, marble, clay, gypsum, salt, arable land, hydropower
 
 ### 土地利用
-- `agricultural land`: 39.7% (2018 est.)
-- `agricultural land: arable land`: arable land: 11.9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 7.8% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 20% (2018 est.)
-- `forest`: 37.8% (2018 est.)
-- `other`: 22.5% (2018 est.)
+- `農地`: 39.7% (2018 est.)
+- `農地：耕地`: arable land: 11.9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 7.8% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 20% (2018 est.)
+- `森林`: 37.8% (2018 est.)
+- `其它`: 22.5% (2018 est.)
 
 ### 灌溉土地
 5,662 sq km (2019)
@@ -77,13 +77,13 @@ Azores and Madeira Islands occupy strategic locations along western sea approach
 ## 人民和社會
 
 ### 人口
-- `total`: 10,207,177
-- `male`: 4,835,763
-- `female`: 5,371,414 (2024 est.)
+- `總計`: 10,207,177
+- `男性`: 4,835,763
+- `女性`: 5,371,414 (2024 est.)
 
 ### 國籍
-- `noun`: Portuguese (singular and plural)
-- `adjective`: Portuguese
+- `名詞`: Portuguese (singular and plural)
+- `形容詞`: Portuguese
 
 ### 族裔群體
 Portuguese 95%; citizens from Portugal’s former colonies in Africa, Asia (Han Chinese), and South America (Brazilian) and other foreign born 5%
@@ -96,20 +96,20 @@ Roman Catholic 79.7%, Protestant 2.2%, other Christian 2.5%, other non-Christian
 **note**:  data represent population 15 years of age and older
 
 ### 年齡結構
-- `0-14 years`: 12.7% (male 662,419/female 631,284)
-- `15-64 years`: 65% (male 3,264,766/female 3,371,087)
-- `65 years and over`: 22.3% (2024 est.) (male 908,578/female 1,369,043)
+- `0-14歲`: 12.7% (male 662,419/female 631,284)
+- `15-64歲`: 65% (male 3,264,766/female 3,371,087)
+- `65歲及以上`: 22.3% (2024 est.) (male 908,578/female 1,369,043)
 
 ### 撫養比率
-- `total dependency ratio`: 56
-- `youth dependency ratio`: 20.8
-- `elderly dependency ratio`: 35.2
-- `potential support ratio`: 2.8 (2021 est.)
+- `總受扶養人比率`: 56
+- `少年撫養比率`: 20.8
+- `老人撫養比率`: 35.2
+- `潛在支持率`: 2.8 (2021 est.)
 
 ### 年齡中位數
-- `total`: 46.4 years (2024 est.)
-- `male`: 44.3 years
-- `female`: 48.3 years
+- `總計`: 46.4 years (2024 est.)
+- `男性`: 44.3 years
+- `女性`: 48.3 years
 
 ### 人口成長率
 -0.14% (2024 est.)
@@ -127,18 +127,18 @@ Roman Catholic 79.7%, Protestant 2.2%, other Christian 2.5%, other non-Christian
 concentrations are primarily along or near the Atlantic coast; both Lisbon and the second largest city, Porto, are coastal cities
 
 ### 都市化
-- `urban population`: 67.9% of total population (2023)
-- `rate of urbanization`: 0.44% annual rate of change (2020-25 est.)
+- `城市人口`: 67.9% of total population (2023)
+- `城鎮化率`: 0.44% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 3.001 million LISBON (capital), 1.325 million Porto (2023)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.05 male(s)/female
-- `15-64 years`: 0.97 male(s)/female
-- `65 years and over`: 0.66 male(s)/female
-- `total population`: 0.9 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.05 male(s)/female
+- `15-64歲`: 0.97 male(s)/female
+- `65歲及以上`: 0.66 male(s)/female
+- `總人口數`: 0.9 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 29.9 years (2020 est.)
@@ -147,14 +147,14 @@ concentrations are primarily along or near the Atlantic coast; both Lisbon and t
 12 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 2.4 deaths/1,000 live births (2024 est.)
-- `male`: 2.8 deaths/1,000 live births
-- `female`: 2.1 deaths/1,000 live births
+- `總計`: 2.4 deaths/1,000 live births (2024 est.)
+- `男性`: 2.8 deaths/1,000 live births
+- `女性`: 2.1 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 81.9 years (2024 est.)
-- `male`: 78.8 years
-- `female`: 85.2 years
+- `總人口數`: 81.9 years (2024 est.)
+- `男性`: 78.8 years
+- `女性`: 85.2 years
 
 ### 總生育率
 1.45 children born/woman (2024 est.)
@@ -166,12 +166,12 @@ concentrations are primarily along or near the Atlantic coast; both Lisbon and t
 73.9% (2014)
 
 ### 飲用水來源
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 99.7% of population
-- `improved: total`: total: 99.9% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0.3% of population
-- `unimproved: total`: total: 0.1% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 99.7% of population
+- `已改進－總計`: total: 99.9% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0.3% of population
+- `未改善：總計`: total: 0.1% of population (2020 est.)
 
 ### 當前醫療支出
 10.6% of GDP (2020)
@@ -183,27 +183,27 @@ concentrations are primarily along or near the Atlantic coast; both Lisbon and t
 3.5 beds/1,000 population (2018)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 99.9% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 99.9% of population
-- `unimproved: urban`: urban: 0.1% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0.1% of population (2020 est.)
+- `已改進－城市`: urban: 99.9% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 99.9% of population
+- `未改進：都市`: urban: 0.1% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0.1% of population (2020 est.)
 
 ### 肥胖—成人流行率
 20.8% (2016)
 
 ### 人均酒精消費量
-- `total`: 10.37 liters of pure alcohol (2019 est.)
-- `beer`: 2.62 liters of pure alcohol (2019 est.)
-- `wine`: 6.04 liters of pure alcohol (2019 est.)
-- `spirits`: 1.34 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.37 liters of pure alcohol (2019 est.)
+- `總計`: 10.37 liters of pure alcohol (2019 est.)
+- `啤酒`: 2.62 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 6.04 liters of pure alcohol (2019 est.)
+- `烈酒`: 1.34 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.37 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 25.4% (2020 est.)
-- `male`: 30.5% (2020 est.)
-- `female`: 20.2% (2020 est.)
+- `總計`: 25.4% (2020 est.)
+- `男性`: 30.5% (2020 est.)
+- `女性`: 20.2% (2020 est.)
 
 ### 5歲以下體重不足兒童
 0.4% (2015/16)
@@ -215,15 +215,15 @@ concentrations are primarily along or near the Atlantic coast; both Lisbon and t
 5% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 95.9%
-- `male`: 97.8%
-- `female`: 95.9% (2021)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 95.9%
+- `男性`: 97.8%
+- `女性`: 95.9% (2021)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 17 years
-- `male`: 17 years
-- `female`: 17 years (2020)
+- `總計`: 17 years
+- `男性`: 17 years
+- `女性`: 17 years (2020)
 
 ## 環境
 
@@ -231,23 +231,23 @@ concentrations are primarily along or near the Atlantic coast; both Lisbon and t
 soil erosion; air pollution caused by industrial and vehicle emissions; water pollution, especially in urban centers and coastal areas
 
 ### 環境—國際協定
-- `party to`: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
-- `signed, but not ratified`: Air Pollution-Persistent Organic Pollutants, Air Pollution-Volatile Organic Compounds, Environmental Modification, Nuclear Test Ban
+- `是以下議定書的締約國：`: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
+- `已簽署但未批準`: Air Pollution-Persistent Organic Pollutants, Air Pollution-Volatile Organic Compounds, Environmental Modification, Nuclear Test Ban
 
 ### 氣候
 maritime temperate; cool and rainy in north, warmer and drier in south
 
 ### 土地利用
-- `agricultural land`: 39.7% (2018 est.)
-- `agricultural land: arable land`: arable land: 11.9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 7.8% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 20% (2018 est.)
-- `forest`: 37.8% (2018 est.)
-- `other`: 22.5% (2018 est.)
+- `農地`: 39.7% (2018 est.)
+- `農地：耕地`: arable land: 11.9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 7.8% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 20% (2018 est.)
+- `森林`: 37.8% (2018 est.)
+- `其它`: 22.5% (2018 est.)
 
 ### 都市化
-- `urban population`: 67.9% of total population (2023)
-- `rate of urbanization`: 0.44% annual rate of change (2020-25 est.)
+- `城市人口`: 67.9% of total population (2023)
+- `城鎮化率`: 0.44% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.13% of GDP (2018 est.)
@@ -256,46 +256,46 @@ maritime temperate; cool and rainy in north, warmer and drier in south
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 7.34 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 48.74 megatons (2016 est.)
-- `methane emissions`: 10.93 megatons (2020 est.)
+- `顆粒物排放量`: 7.34 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 48.74 megatons (2016 est.)
+- `甲烷排放量`: 10.93 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 4.71 million tons (2014 est.)
-- `municipal solid waste recycled annually`: 764,433 tons (2014 est.)
-- `percent of municipal solid waste recycled`: 16.2% (2014 est.)
+- `城市固體廢棄物－每年產生`: 4.71 million tons (2014 est.)
+- `城市固體廢棄物－每年回收`: 764,433 tons (2014 est.)
+- `城市固體廢棄物－回收百分比`: 16.2% (2014 est.)
 
 ### 總取水量
-- `municipal`: 880 million cubic meters (2020 est.)
-- `industrial`: 1.83 billion cubic meters (2020 est.)
-- `agricultural`: 3.42 billion cubic meters (2020 est.)
+- `市級`: 880 million cubic meters (2020 est.)
+- `工業`: 1.83 billion cubic meters (2020 est.)
+- `農業`: 3.42 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 77.4 billion cubic meters (2020 est.)
 
 ### 地質公園
-- `total global geoparks and regional networks`: 6 (2024)
-- `global geoparks and regional networks`: Açores; Arouca; Estrela; Naturtejo da Meseta Meridional; Oeste; Terras de Cavaleiros (2024)
+- `全球地質公園和區域網絡總數`: 6 (2024)
+- `全球地質公園和區域網絡`: Açores; Arouca; Estrela; Naturtejo da Meseta Meridional; Oeste; Terras de Cavaleiros (2024)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Portuguese Republic
-- `conventional short form`: Portugal
-- `local long form`: Republica Portuguesa
-- `local short form`: Portugal
-- `etymology`: name derives from the Roman designation "Portus Cale" meaning "Port of Cale"; Cale was an ancient Celtic town and port in present-day northern Portugal
+- `常用長名`: Portuguese Republic
+- `常用短名`: Portugal
+- `當地語長名`: Republica Portuguesa
+- `當地語短名`: Portugal
+- `语源学`: name derives from the Roman designation "Portus Cale" meaning "Port of Cale"; Cale was an ancient Celtic town and port in present-day northern Portugal
 
 ### 政府類型
 semi-presidential republic
 
 ### 首都
-- `name`: Lisbon
-- `geographic coordinates`: 38 43 N, 9 08 W
-- `time difference`: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
-- `daylight saving time`: +1hr, begins last Sunday in March; ends last Sunday in October
-- `time zone note`: Portugal has two time zones, including the Azores (UTC-1)
-- `etymology`: Lisbon is one of Europe's oldest cities (the second oldest capital city after Athens) and the origin of the name is lost in time; it may have been founded as an ancient Celtic settlement that subsequently maintained close commercial relations with the Phoenicians (beginning about 1200 B.C.); the name of the settlement may have been derived from the pre-Roman appellation for the Tagus River that runs through the city, Lisso or Lucio; the Romans named the city "Olisippo" when they took it from the Carthaginians in 205 B.C.; under the Visigoths the city name became "Ulixbona," under the Arabs it was "al-Ushbuna"; the medieval version of "Lissabona" became today's Lisboa
+- `名稱`: Lisbon
+- `地理坐標`: 38 43 N, 9 08 W
+- `時差`: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
+- `日光節約時間`: +1hr, begins last Sunday in March; ends last Sunday in October
+- `時區備註`: Portugal has two time zones, including the Azores (UTC-1)
+- `语源学`: Lisbon is one of Europe's oldest cities (the second oldest capital city after Athens) and the origin of the name is lost in time; it may have been founded as an ancient Celtic settlement that subsequently maintained close commercial relations with the Phoenicians (beginning about 1200 B.C.); the name of the settlement may have been derived from the pre-Roman appellation for the Tagus River that runs through the city, Lisso or Lucio; the Romans named the city "Olisippo" when they took it from the Carthaginians in 205 B.C.; under the Visigoths the city name became "Ulixbona," under the Arabs it was "al-Ushbuna"; the medieval version of "Lissabona" became today's Lisboa
 
 ### 行政區劃
 18 districts (distritos, singular - distrito) and 2 autonomous regions* (regioes autonomas, singular - regiao autonoma); Aveiro, Acores (Azores)*, Beja, Braga, Braganca, Castelo Branco, Coimbra, Evora, Faro, Guarda, Leiria, Lisboa (Lisbon), Madeira*, Portalegre, Porto, Santarem, Setubal, Viana do Castelo, Vila Real, Viseu
@@ -310,38 +310,38 @@ Portugal Day (Dia de Portugal), 10 June (1580); note - also called Camoes Day, t
 civil law system; Constitutional Court review of legislative acts
 
 ### 憲法
-- `history`: several previous; latest adopted 2 April 1976, effective 25 April 1976
-- `amendments`: proposed by the Assembly of the Republic; adoption requires two-thirds majority vote of Assembly members; amended several times, last in 2005
+- `歷史`: several previous; latest adopted 2 April 1976, effective 25 April 1976
+- `修正`: proposed by the Assembly of the Republic; adoption requires two-thirds majority vote of Assembly members; amended several times, last in 2005
 
 ### 國際法組織參與
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Portugal
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: 10 years; 6 years if from a Portuguese-speaking country
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Portugal
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: 10 years; 6 years if from a Portuguese-speaking country
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Marcelo REBELO DE SOUSA (since 9 March 2016)
-- `head of government`: Prime Minister Antonio Luis MONTENEGRO (since 2 April 2024)
-- `cabinet`: Council of Ministers appointed by the president on the recommendation of the prime minister
-- `elections/appointments`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 January 2021 (next to be held in January 2026); following legislative elections the leader of the majority party or majority coalition is usually appointed prime minister by the president
-- `election results`: *2021:* Marcelo REBELO DE SOUSA reelected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 60.7%, Ana GOMES (ran as an independent but is a member of PS) 13%, Andre VENTURA (CH) 11.9%, João FERREIRA (PCP-PEV) 4.3%, other 10.1%  *2016:* Marcelo REBELO DE SOUSA elected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 52%, António SAMPAIO DA NOVOA (independent) 22.9%, Marisa MATIAS (BE) 10.1%, Maria DE BELEM ROSEIRA (PS) 4.2%, other 10.8% 
+- `國家元首`: President Marcelo REBELO DE SOUSA (since 9 March 2016)
+- `政府首腦`: Prime Minister Antonio Luis MONTENEGRO (since 2 April 2024)
+- `内閣`: Council of Ministers appointed by the president on the recommendation of the prime minister
+- `選舉/任命`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 January 2021 (next to be held in January 2026); following legislative elections the leader of the majority party or majority coalition is usually appointed prime minister by the president
+- `選舉結果`: *2021:* Marcelo REBELO DE SOUSA reelected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 60.7%, Ana GOMES (ran as an independent but is a member of PS) 13%, Andre VENTURA (CH) 11.9%, João FERREIRA (PCP-PEV) 4.3%, other 10.1%  *2016:* Marcelo REBELO DE SOUSA elected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 52%, António SAMPAIO DA NOVOA (independent) 22.9%, Marisa MATIAS (BE) 10.1%, Maria DE BELEM ROSEIRA (PS) 4.2%, other 10.8% 
 **note**:  there is also a Council of State that acts as a consultative body to the president
 
 ### 立法部門
-- `description`: unicameral Assembly of the Republic or Assembleia da Republica (230 seats; 226 members directly elected in multi-seat constituencies by closed-list proportional representation vote and 4 members - 2 each in 2 constituencies representing Portuguese living abroad - directly elected by proportional representation vote; members serve 4-year terms)
-- `elections`: last held on 10 March 2024 (next to be held on 30 September 2028); note - early elections were called after Prime Minister Antonio Luis Santos da COSTA resigned on 7 November 2023
-- `election results`: percent of vote by party - AD (PSD, CDS-PP, PPM) 28.8%, PS, 28%, Enough 18.1%, IL 4.9%, BE 4.4%, L 3.2%, CDU 3.2%, other 9.4%; seats by party - AD (PSD, CDS-PP, PPM) 80, PS 78, Enough 50, IL 8, BE 5, L 4, CDU 4, other 1; composition - men 155, women 75, percentage women 32.6%
+- `描述`: unicameral Assembly of the Republic or Assembleia da Republica (230 seats; 226 members directly elected in multi-seat constituencies by closed-list proportional representation vote and 4 members - 2 each in 2 constituencies representing Portuguese living abroad - directly elected by proportional representation vote; members serve 4-year terms)
+- `選舉`: last held on 10 March 2024 (next to be held on 30 September 2028); note - early elections were called after Prime Minister Antonio Luis Santos da COSTA resigned on 7 November 2023
+- `選舉結果`: percent of vote by party - AD (PSD, CDS-PP, PPM) 28.8%, PS, 28%, Enough 18.1%, IL 4.9%, BE 4.4%, L 3.2%, CDU 3.2%, other 9.4%; seats by party - AD (PSD, CDS-PP, PPM) 80, PS 78, Enough 50, IL 8, BE 5, L 4, CDU 4, other 1; composition - men 155, women 75, percentage women 32.6%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court or Supremo Tribunal de Justica (consists of 12 justices); Constitutional Court or Tribunal Constitucional (consists of 13 judges)
-- `judge selection and term of office`: Supreme Court justices nominated by the president and appointed by the Assembly of the Republic; judges can serve for life; Constitutional Court judges - 10 elected by the Assembly and 3 elected by the other Constitutional Court judges; judges elected for 6-year nonrenewable terms
-- `subordinate courts`: Supreme Administrative Court (Supremo Tribunal Administrativo); Audit Court (Tribunal de Contas); appellate, district, and municipal courts
+- `最高法院`: Supreme Court or Supremo Tribunal de Justica (consists of 12 justices); Constitutional Court or Tribunal Constitucional (consists of 13 judges)
+- `法官遴選和任期`: Supreme Court justices nominated by the president and appointed by the Assembly of the Republic; judges can serve for life; Constitutional Court judges - 10 elected by the Assembly and 3 elected by the other Constitutional Court judges; judges elected for 6-year nonrenewable terms
+- `下級法院`: Supreme Administrative Court (Supremo Tribunal Administrativo); Audit Court (Tribunal de Contas); appellate, district, and municipal courts
 
 ### 政黨
 Democratic Alliance or AD (2024 electoral alliance in the Azores, includes PSD, CDS-PP, PPM)Democratic and Social Center/People's Party (Partido do Centro Democratico Social-Partido Popular) or CDS-PPEcologist Party "The Greens" or "Os Verdes" (Partido Ecologista-Os Verdes) or PEVEnough (Chega)Liberal Initiative (Iniciativa Liberal) or ILLIVRE or LPeople-Animals-Nature Party (Pessoas-Animais-Natureza) or PANPeople's Monarchist Party or PPMPortuguese Communist Party (Partido Comunista Portugues) or PCPSocial Democratic Party (Partido Social Democrata) or PSD (formerly the Partido Popular Democratico or PPD)Socialist Party (Partido Socialista) or PSThe Left Bloc (Bloco de Esquerda) or BE or O BlocoUnitary Democratic Coalition (Coligacao Democratica Unitaria) or CDU (includes PCP and PEV) (2024)
@@ -350,22 +350,22 @@ Democratic Alliance or AD (2024 electoral alliance in the Azores, includes PSD, 
 ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, CPLP, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Francisco Antonio DUARTE LOPES (since 7 June 2022)
-- `chancery`: 2012 Massachusetts Avenue NW, Washington, DC 20036
-- `telephone`: [1] (202) 350-5400
+- `外交代表負責人`: Ambassador Francisco Antonio DUARTE LOPES (since 7 June 2022)
+- `衡平法院（在美國）`: 2012 Massachusetts Avenue NW, Washington, DC 20036
+- `電話號碼`: [1] (202) 350-5400
 - `FAX`: [1] (202) 462-3726
-- `email address and website`: info.washington@mne.pt  https://washingtondc.embaixadaportugal.mne.gov.pt/en/
-- `consulate(s) general`: Boston, Newark (NJ), New York, San Francisco
-- `consulate(s)`: New Bedford (MA), Providence (RI)
+- `電子郵件地址和網站`: info.washington@mne.pt  https://washingtondc.embaixadaportugal.mne.gov.pt/en/
+- `總領事館`: Boston, Newark (NJ), New York, San Francisco
+- `領事館`: New Bedford (MA), Providence (RI)
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Randi Charno LEVINE (since 22 April 2022)
-- `embassy`: Avenida das Forcas Armadas, 1600-081 Lisboa
-- `mailing address`: 5320 Lisbon Place, Washington DC  20521-5320
-- `telephone`: [351] (21) 727-3300
+- `外交代表負責人`: Ambassador Randi Charno LEVINE (since 22 April 2022)
+- `大使館`: Avenida das Forcas Armadas, 1600-081 Lisboa
+- `郵寄地址`: 5320 Lisbon Place, Washington DC  20521-5320
+- `電話號碼`: [351] (21) 727-3300
 - `FAX`: [351] (21) 726-9109
-- `email address and website`: conslisbon@state.gov  https://pt.usembassy.gov/
-- `consulate(s)`: Ponta Delgada (Azores)
+- `電子郵件地址和網站`: conslisbon@state.gov  https://pt.usembassy.gov/
+- `領事館`: Ponta Delgada (Azores)
 
 ### 旗幟說明
 two vertical bands of green (hoist side, two-fifths) and red (three-fifths) with the national coat of arms (armillary sphere and Portuguese shield) centered on the dividing line; explanations for the color meanings are ambiguous, but a popular interpretation has green symbolizing hope and red the blood of those defending the nation
@@ -374,8 +374,8 @@ two vertical bands of green (hoist side, two-fifths) and red (three-fifths) with
 armillary sphere (a spherical astrolabe modeling objects in the sky and representing the Republic); national colors: red, green
 
 ### 國歌
-- `name`: "A Portugesa" (The Song of the Portuguese)
-- `lyrics/music`: Henrique LOPES DE MENDOCA/Alfredo KEIL
+- `名稱`: "A Portugesa" (The Song of the Portuguese)
+- `歌詞／音樂`: Henrique LOPES DE MENDOCA/Alfredo KEIL
 **note**:  adopted 1910; "A Portuguesa" was originally written to protest the Portuguese monarchy's acquiescence to the 1890 British ultimatum forcing Portugal to give up areas of Africa; the lyrics refer to the "insult" that resulted from the event
 
 ### 國家級遺產
@@ -422,18 +422,18 @@ $287.08 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 2% (2023 est.)
-- `industry`: 18% (2023 est.)
-- `services`: 67% (2023 est.)
+- `農業`: 2% (2023 est.)
+- `產業`: 18% (2023 est.)
+- `服務`: 67% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 62.6% (2023 est.)
-- `government consumption`: 17% (2023 est.)
-- `investment in fixed capital`: 19.4% (2023 est.)
-- `investment in inventories`: 0.2% (2023 est.)
-- `exports of goods and services`: 47.4% (2023 est.)
-- `imports of goods and services`: -46.6% (2023 est.)
+- `家庭消費`: 62.6% (2023 est.)
+- `政府消費`: 17% (2023 est.)
+- `固定資本投資`: 19.4% (2023 est.)
+- `存貨投資`: 0.2% (2023 est.)
+- `商品和服務出口`: 47.4% (2023 est.)
+- `商品和服務進口`: -46.6% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -458,9 +458,9 @@ textiles, clothing, footwear, wood and cork, paper and pulp, chemicals, fuels an
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 20.2% (2023 est.)
-- `male`: 20.6% (2023 est.)
-- `female`: 19.9% (2023 est.)
+- `總計`: 20.2% (2023 est.)
+- `男性`: 20.6% (2023 est.)
+- `女性`: 19.9% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -472,12 +472,12 @@ textiles, clothing, footwear, wood and cork, paper and pulp, chemicals, fuels an
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 平均家庭支出
-- `on food`: 17.6% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 3.4% of household expenditures (2022 est.)
+- `餐食`: 17.6% of household expenditures (2022 est.)
+- `酒精和煙草`: 3.4% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 2.8% (2021 est.)
-- `highest 10%`: 27.6% (2021 est.)
+- `最低10%`: 2.8% (2021 est.)
+- `最高10%`: 27.6% (2021 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -487,8 +487,8 @@ textiles, clothing, footwear, wood and cork, paper and pulp, chemicals, fuels an
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $99.473 billion (2022 est.)
-- `expenditures`: $100.796 billion (2022 est.)
+- `收入`: $99.473 billion (2022 est.)
+- `支出`: $100.796 billion (2022 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -550,42 +550,42 @@ $32.535 billion (2021 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 23.316 million kW (2022 est.)
-- `consumption`: 50.255 billion kWh (2022 est.)
-- `exports`: 3.062 billion kWh (2022 est.)
-- `imports`: 12.314 billion kWh (2022 est.)
-- `transmission/distribution losses`: 4.54 billion kWh (2022 est.)
+- `裝機容量`: 23.316 million kW (2022 est.)
+- `消費`: 50.255 billion kWh (2022 est.)
+- `出口`: 3.062 billion kWh (2022 est.)
+- `進口`: 12.314 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 4.54 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 42.1% of total installed capacity (2022 est.)
-- `solar`: 7.4% of total installed capacity (2022 est.)
-- `wind`: 28.8% of total installed capacity (2022 est.)
-- `hydroelectricity`: 12.8% of total installed capacity (2022 est.)
-- `geothermal`: 0.4% of total installed capacity (2022 est.)
-- `biomass and waste`: 8.6% of total installed capacity (2022 est.)
+- `石化燃料`: 42.1% of total installed capacity (2022 est.)
+- `太陽能`: 7.4% of total installed capacity (2022 est.)
+- `風能`: 28.8% of total installed capacity (2022 est.)
+- `水力發電`: 12.8% of total installed capacity (2022 est.)
+- `地熱`: 0.4% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 8.6% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `consumption`: 9,000 metric tons (2022 est.)
-- `exports`: 200 metric tons (2022 est.)
-- `imports`: 23,000 metric tons (2022 est.)
-- `proven reserves`: 3 million metric tons (2022 est.)
+- `消費`: 9,000 metric tons (2022 est.)
+- `出口`: 200 metric tons (2022 est.)
+- `進口`: 23,000 metric tons (2022 est.)
+- `探明儲量`: 3 million metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 8,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 212,000 bbl/day (2023 est.)
+- `總石油產量`: 8,000 bbl/day (2023 est.)
+- `成品油消費量`: 212,000 bbl/day (2023 est.)
 
 ### 天然氣
-- `consumption`: 5.515 billion cubic meters (2022 est.)
-- `imports`: 5.97 billion cubic meters (2022 est.)
+- `消費`: 5.515 billion cubic meters (2022 est.)
+- `進口`: 5.97 billion cubic meters (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 42.562 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 40,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 31.394 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 11.128 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 42.562 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 40,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 31.394 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 11.128 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 80.316 million Btu/person (2022 est.)
@@ -593,17 +593,17 @@ $32.535 billion (2021 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 5.437 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 53 (2022 est.)
+- `總訂閱數`: 5.437 million (2022 est.)
+- `每100名居民訂閱數`: 53 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 12.792 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 125 (2022 est.)
+- `總訂閱數`: 12.792 million (2022 est.)
+- `每100名居民訂閱數`: 125 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Portugal has a medium-sized telecom market with a strong mobile sector and a growing broadband customer base; before the pandemic, the country had seen improving economic growth, following several years of austerity measures; revenue among some operators remains under pressure, though investments in network upgrades are continuing in an effort to attract customers to high-end services; Portugal’s broadband services have grown steadily in recent years, largely the result of joint efforts between the regulator and the key market operators which have invested in significant infrastructure upgrades; these operators are focused on fiber-based services, resulting in a migration of subscribers from digital subscriber line DSL infrastructure; the government has also supported open-access wholesale networks; the mobile virtual network operator (MVNO) market remains largely undeveloped, partly because network operators have their own low-cost brands; collectively, MVNOs have about 2.9% share of the market; population coverage by 3G infrastructure is universal, and most investment in the sector is being directed to LTE and 5G technologies; the MNOs have trialed 5G and are looking to launch commercial services (2021)
-- `domestic`: fixed-lineis 52 per 100 persons and mobile-cellular is 121 per 100 persons (2021)
-- `international`: country code - 351; landing points for the Ella Link, BUGIO, EIG, SAT-3/WASC, SeaMeWe-3, Equino, MainOne, Tat TGN-Western Europe, WACS, ACE, Atlantis2 and Columbus-III submarine cables provide connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia, Australia, South America and the US; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean), NA Eutelsat; tropospheric scatter to Azores (2019)
+- `總體評估`: Portugal has a medium-sized telecom market with a strong mobile sector and a growing broadband customer base; before the pandemic, the country had seen improving economic growth, following several years of austerity measures; revenue among some operators remains under pressure, though investments in network upgrades are continuing in an effort to attract customers to high-end services; Portugal’s broadband services have grown steadily in recent years, largely the result of joint efforts between the regulator and the key market operators which have invested in significant infrastructure upgrades; these operators are focused on fiber-based services, resulting in a migration of subscribers from digital subscriber line DSL infrastructure; the government has also supported open-access wholesale networks; the mobile virtual network operator (MVNO) market remains largely undeveloped, partly because network operators have their own low-cost brands; collectively, MVNOs have about 2.9% share of the market; population coverage by 3G infrastructure is universal, and most investment in the sector is being directed to LTE and 5G technologies; the MNOs have trialed 5G and are looking to launch commercial services (2021)
+- `國內`: fixed-lineis 52 per 100 persons and mobile-cellular is 121 per 100 persons (2021)
+- `國際的`: country code - 351; landing points for the Ella Link, BUGIO, EIG, SAT-3/WASC, SeaMeWe-3, Equino, MainOne, Tat TGN-Western Europe, WACS, ACE, Atlantis2 and Columbus-III submarine cables provide connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia, Australia, South America and the US; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean), NA Eutelsat; tropospheric scatter to Azores (2019)
 
 ### 廣播媒體
 Radio e Televisao de Portugal, the publicly owned TV broadcaster, operates 4 domestic channels and external service channels to Africa; overall, roughly 40 domestic TV stations; viewers have widespread access to international broadcasters with more than half of all households connected to multi-channel cable or satellite TV systems; publicly owned radio operates 3 national networks and provides regional and external services; several privately owned national radio stations and some 300 regional and local commercial radio stations
@@ -612,20 +612,20 @@ Radio e Televisao de Portugal, the publicly owned TV broadcaster, operates 4 dom
 .pt
 
 ### 網際網路使用者
-- `total`: 8.2 million (2021 est.)
-- `percent of population`: 82% (2021 est.)
+- `總計`: 8.2 million (2021 est.)
+- `佔人口比例`: 82% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 4,160,795 (2020 est.)
-- `subscriptions per 100 inhabitants`: 41 (2020 est.)
+- `總計`: 4,160,795 (2020 est.)
+- `每100名居民訂閱數`: 41 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 10 (2020)
-- `inventory of registered aircraft operated by air carriers`: 168
-- `annual passenger traffic on registered air carriers`: 17,367,956 (2018)
-- `annual freight traffic on registered air carriers`: 454.21 million (2018) mt-km
+- `註冊航空公司數量`: 10 (2020)
+- `註冊飛機庫存—航空承運商經營`: 168
+- `年度客運量－註冊航空公司`: 17,367,956 (2018)
+- `年度貨運量－註冊航空公司`: 454.21 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 CR, CS
@@ -640,26 +640,26 @@ CR, CS
 1,344 km gas, 11 km oil, 188 km refined products (2013)
 
 ### 鐵路
-- `total`: 2,526 km (2020) 1,696 km electrified
+- `總計`: 2,526 km (2020) 1,696 km electrified
 
 ### 道路
-- `total`: 11,217 km (2022)
+- `總計`: 11,217 km (2022)
 
 ### 水道
 210 km (2011) (on Douro River from Porto)
 
 ### 商船
-- `total`: 888 (2023)
-- `by type`: bulk carrier 110, container ship 299, general cargo 191, oil tanker 29, other 259
+- `總計`: 888 (2023)
+- `依類型`: bulk carrier 110, container ship 299, general cargo 191, oil tanker 29, other 259
 
 ### 港口
-- `total ports`: 18 (2024)
-- `large`: 3
-- `medium`: 2
-- `small`: 4
-- `very small`: 9
-- `ports with oil terminals`: 5
-- `key ports`: Aveiro, Funchal, Lagos, Lisboa, Sines
+- `總港口數`: 18 (2024)
+- `大`: 3
+- `中`: 2
+- `小`: 4
+- `非常小`: 9
+- `原油碼頭港口`: 5
+- `主要港口`: Aveiro, Funchal, Lagos, Lisboa, Sines
 
 ## 軍事和安全
 
@@ -712,8 +712,8 @@ Islamic State of Iraq and ash-Sham (ISIS)
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 59,920 (Ukraine) (as of 31 January 2024)
-- `stateless persons`: 55 (2022)
+- `難民（原籍國）`: 59,920 (Ukraine) (as of 31 January 2024)
+- `無國籍人士`: 55 (2022)
 
 ### 非法藥物
 a European gateway for Southwest Asian heroin; transshipment point for hashish from North Africa to Europe; consumer of Southwest Asian heroin

@@ -19,22 +19,22 @@ Eastern Europe, bordering the Baltic Sea, between Latvia and Russia, west of Bel
 Europe
 
 ### 面積
-- `total `: 65,300 sq km
-- `land`: 62,680 sq km
-- `water`: 2,620 sq km
+- `總計`: 65,300 sq km
+- `土地`: 62,680 sq km
+- `水`: 2,620 sq km
 
 ### 面積—比較
 slightly larger than West Virginia
 
 ### 陸地邊界
-- `total`: 1,545 km
-- `border countries`: Belarus 640 km; Latvia 544 km; Poland 100 km; Russia (Kaliningrad) 261 km
+- `總計`: 1,545 km
+- `邊境國家`: Belarus 640 km; Latvia 544 km; Poland 100 km; Russia (Kaliningrad) 261 km
 
 ### 海岸線
 90 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
+- `領海`: 12 nm
 
 ### 氣候
 transitional, between maritime and continental; wet, moderate winters and summers
@@ -43,26 +43,26 @@ transitional, between maritime and continental; wet, moderate winters and summer
 lowland, many scattered small lakes, fertile soil
 
 ### 海拔
-- `highest point`: Aukstojas 294 m
-- `lowest point`: Baltic Sea 0 m
-- `mean elevation`: 110 m
+- `最高點`: Aukstojas 294 m
+- `最低點`: Baltic Sea 0 m
+- `平均海拔`: 110 m
 
 ### 自然資源
 peat, arable land, amber
 
 ### 土地利用
-- `agricultural land`: 44.8% (2018 est.)
-- `agricultural land: arable land`: arable land: 34.9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.5% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 9.4% (2018 est.)
-- `forest`: 34.6% (2018 est.)
-- `other`: 20.6% (2018 est.)
+- `農地`: 44.8% (2018 est.)
+- `農地：耕地`: arable land: 34.9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.5% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 9.4% (2018 est.)
+- `森林`: 34.6% (2018 est.)
+- `其它`: 20.6% (2018 est.)
 
 ### 灌溉土地
 16 sq km (2013)
 
 ### 主要湖泊（按面積平方公里）
-- `salt water lake(s)`: Curonian Lagoon (shared with Russia) - 1,620 sq km
+- `鹽水湖`: Curonian Lagoon (shared with Russia) - 1,620 sq km
 
 ### 人口分布
 fairly even population distribution throughout the country, but somewhat greater concentrations in the southern cities of Vilnius and Kaunas, and the western port of Klaipeda
@@ -76,39 +76,39 @@ fertile central plains are separated by hilly uplands that are ancient glacial d
 ## 人民和社會
 
 ### 人口
-- `total`: 2,628,186
-- `male`: 1,214,994
-- `female`: 1,413,192 (2024 est.)
+- `總計`: 2,628,186
+- `男性`: 1,214,994
+- `女性`: 1,413,192 (2024 est.)
 
 ### 國籍
-- `noun`: Lithuanian(s)
-- `adjective`: Lithuanian
+- `名詞`: Lithuanian(s)
+- `形容詞`: Lithuanian
 
 ### 族裔群體
 Lithuanian 84.6%, Polish 6.5%, Russian 5%, Belarusian 1%, other 1.1%, unspecified 1.8% (2021 est.)
 
 ### 語文
 Lithuanian (official) 85.3%, Russian 6.8%, Polish 5.1%, other 1.1%, two mother tongues 1.7% (2021 est.)
-- `major-language sample(s)`: Pasaulio enciklopedija – naudingas bendrosios informacijos šaltinis. (Lithuanian)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: Pasaulio enciklopedija – naudingas bendrosios informacijos šaltinis. (Lithuanian)  The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Roman Catholic 74.2%, Russian Orthodox 3.7%, Old Believer 0.6%, Evangelical Lutheran 0.6%, Evangelical Reformist 0.2%, other (including Sunni Muslim, Jewish, Greek Catholic, and Karaite) 0.9%, none 6.1%, unspecified 13.7% (2021 est.)
 
 ### 年齡結構
-- `0-14 years`: 15.2% (male 205,154/female 194,386)
-- `15-64 years`: 62.6% (male 808,435/female 837,908)
-- `65 years and over`: 22.2% (2024 est.) (male 201,405/female 380,898)
+- `0-14歲`: 15.2% (male 205,154/female 194,386)
+- `15-64歲`: 62.6% (male 808,435/female 837,908)
+- `65歲及以上`: 22.2% (2024 est.) (male 201,405/female 380,898)
 
 ### 撫養比率
-- `total dependency ratio`: 55.7
-- `youth dependency ratio`: 23.6
-- `elderly dependency ratio`: 32.1
-- `potential support ratio`: 3.1 (2021 est.)
+- `總受扶養人比率`: 55.7
+- `少年撫養比率`: 23.6
+- `老人撫養比率`: 32.1
+- `潛在支持率`: 3.1 (2021 est.)
 
 ### 年齡中位數
-- `total`: 45.1 years (2024 est.)
-- `male`: 40.9 years
-- `female`: 49.2 years
+- `總計`: 45.1 years (2024 est.)
+- `男性`: 40.9 years
+- `女性`: 49.2 years
 
 ### 人口成長率
 -1.05% (2024 est.)
@@ -126,18 +126,18 @@ Roman Catholic 74.2%, Russian Orthodox 3.7%, Old Believer 0.6%, Evangelical Luth
 fairly even population distribution throughout the country, but somewhat greater concentrations in the southern cities of Vilnius and Kaunas, and the western port of Klaipeda
 
 ### 都市化
-- `urban population`: 68.7% of total population (2023)
-- `rate of urbanization`: -0.12% annual rate of change (2020-25 est.)
+- `城市人口`: 68.7% of total population (2023)
+- `城鎮化率`: -0.12% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 541,000 VILNIUS (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.06 male(s)/female
-- `0-14 years`: 1.06 male(s)/female
-- `15-64 years`: 0.96 male(s)/female
-- `65 years and over`: 0.53 male(s)/female
-- `total population`: 0.86 male(s)/female (2024 est.)
+- `出生時`: 1.06 male(s)/female
+- `0-14歲`: 1.06 male(s)/female
+- `15-64歲`: 0.96 male(s)/female
+- `65歲及以上`: 0.53 male(s)/female
+- `總人口數`: 0.86 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 28.2 years (2020 est.)
@@ -146,14 +146,14 @@ fairly even population distribution throughout the country, but somewhat greater
 9 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 3.6 deaths/1,000 live births (2024 est.)
-- `male`: 4 deaths/1,000 live births
-- `female`: 3.1 deaths/1,000 live births
+- `總計`: 3.6 deaths/1,000 live births (2024 est.)
+- `男性`: 4 deaths/1,000 live births
+- `女性`: 3.1 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 76.1 years (2024 est.)
-- `male`: 70.8 years
-- `female`: 81.7 years
+- `總人口數`: 76.1 years (2024 est.)
+- `男性`: 70.8 years
+- `女性`: 81.7 years
 
 ### 總生育率
 1.62 children born/woman (2024 est.)
@@ -165,12 +165,12 @@ fairly even population distribution throughout the country, but somewhat greater
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 93.8% of population
-- `improved: total`: total: 98% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 6.2% of population
-- `unimproved: total`: total: 2% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 93.8% of population
+- `已改進－總計`: total: 98% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 6.2% of population
+- `未改善：總計`: total: 2% of population (2020 est.)
 
 ### 當前醫療支出
 7.5% of GDP (2020)
@@ -182,27 +182,27 @@ NA
 6.4 beds/1,000 population (2018)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 99.5% of population
-- `improved: rural`: rural: 88.7% of population
-- `improved: total`: total: 96% of population
-- `unimproved: urban`: urban: 0.5% of population
-- `unimproved: rural`: rural: 11.3% of population
-- `unimproved: total`: total: 4% of population (2020 est.)
+- `已改進－城市`: urban: 99.5% of population
+- `已改進－農村`: rural: 88.7% of population
+- `已改進－總計`: total: 96% of population
+- `未改進：都市`: urban: 0.5% of population
+- `未改進：鄉村`: rural: 11.3% of population
+- `未改善：總計`: total: 4% of population (2020 est.)
 
 ### 肥胖—成人流行率
 26.3% (2016)
 
 ### 人均酒精消費量
-- `total`: 11.93 liters of pure alcohol (2019 est.)
-- `beer`: 4.61 liters of pure alcohol (2019 est.)
-- `wine`: 0.88 liters of pure alcohol (2019 est.)
-- `spirits`: 4.96 liters of pure alcohol (2019 est.)
-- `other alcohols`: 1.48 liters of pure alcohol (2019 est.)
+- `總計`: 11.93 liters of pure alcohol (2019 est.)
+- `啤酒`: 4.61 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.88 liters of pure alcohol (2019 est.)
+- `烈酒`: 4.96 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 1.48 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 32% (2020 est.)
-- `male`: 42.1% (2020 est.)
-- `female`: 21.8% (2020 est.)
+- `總計`: 32% (2020 est.)
+- `男性`: 42.1% (2020 est.)
+- `女性`: 21.8% (2020 est.)
 
 ### 5歲以下體重不足兒童
 2.5% (2021) NA
@@ -211,21 +211,21 @@ NA
 53.4% (2023 est.)
 
 ### 童婚
-- `women married by age 18`: 0.3% (2021 est.)
+- `18歲前結婚的女性`: 0.3% (2021 est.)
 
 ### 教育支出
 4% of GDP (2019 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 99.8%
-- `male`: 99.8%
-- `female`: 99.8% (2021)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 99.8%
+- `男性`: 99.8%
+- `女性`: 99.8% (2021)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 16 years
-- `male`: 16 years
-- `female`: 17 years (2020)
+- `總計`: 16 years
+- `男性`: 16 years
+- `女性`: 17 years (2020)
 
 ## 環境
 
@@ -233,23 +233,23 @@ NA
 water pollution; air pollution; deforestation; threatened animal and plant species; chemicals and waste materials released into the environment contaminate soil and groundwater; soil degradation and erosion
 
 ### 環境—國際協定
-- `party to`: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 transitional, between maritime and continental; wet, moderate winters and summers
 
 ### 土地利用
-- `agricultural land`: 44.8% (2018 est.)
-- `agricultural land: arable land`: arable land: 34.9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.5% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 9.4% (2018 est.)
-- `forest`: 34.6% (2018 est.)
-- `other`: 20.6% (2018 est.)
+- `農地`: 44.8% (2018 est.)
+- `農地：耕地`: arable land: 34.9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.5% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 9.4% (2018 est.)
+- `森林`: 34.6% (2018 est.)
+- `其它`: 20.6% (2018 est.)
 
 ### 都市化
-- `urban population`: 68.7% of total population (2023)
-- `rate of urbanization`: -0.12% annual rate of change (2020-25 est.)
+- `城市人口`: 68.7% of total population (2023)
+- `城鎮化率`: -0.12% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.31% of GDP (2018 est.)
@@ -258,22 +258,22 @@ transitional, between maritime and continental; wet, moderate winters and summer
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 10.37 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 12.96 megatons (2016 est.)
-- `methane emissions`: 3.15 megatons (2020 est.)
+- `顆粒物排放量`: 10.37 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 12.96 megatons (2016 est.)
+- `甲烷排放量`: 3.15 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 1.3 million tons (2015 est.)
-- `municipal solid waste recycled annually`: 297,960 tons (2015 est.)
-- `percent of municipal solid waste recycled`: 22.9% (2015 est.)
+- `城市固體廢棄物－每年產生`: 1.3 million tons (2015 est.)
+- `城市固體廢棄物－每年回收`: 297,960 tons (2015 est.)
+- `城市固體廢棄物－回收百分比`: 22.9% (2015 est.)
 
 ### 主要湖泊（按面積平方公里）
-- `salt water lake(s)`: Curonian Lagoon (shared with Russia) - 1,620 sq km
+- `鹽水湖`: Curonian Lagoon (shared with Russia) - 1,620 sq km
 
 ### 總取水量
-- `municipal`: 140 million cubic meters (2020 est.)
-- `industrial`: 60 million cubic meters (2020 est.)
-- `agricultural`: 60 million cubic meters (2020 est.)
+- `市級`: 140 million cubic meters (2020 est.)
+- `工業`: 60 million cubic meters (2020 est.)
+- `農業`: 60 million cubic meters (2020 est.)
 
 ### 可再生水資源總量
 24.5 billion cubic meters (2020 est.)
@@ -281,22 +281,22 @@ transitional, between maritime and continental; wet, moderate winters and summer
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Lithuania
-- `conventional short form`: Lithuania
-- `local long form`: Lietuvos Respublika
-- `local short form`: Lietuva
-- `former`: Lithuanian Soviet Socialist Republic (while occupied by the USSR)
-- `etymology`: meaning of the name "Lietuva" remains unclear and is debated by scholars; it may derive from the Lietava, a stream in east central Lithuania
+- `常用長名`: Republic of Lithuania
+- `常用短名`: Lithuania
+- `當地語長名`: Lietuvos Respublika
+- `當地語短名`: Lietuva
+- `前任`: Lithuanian Soviet Socialist Republic (while occupied by the USSR)
+- `语源学`: meaning of the name "Lietuva" remains unclear and is debated by scholars; it may derive from the Lietava, a stream in east central Lithuania
 
 ### 政府類型
 semi-presidential republic
 
 ### 首都
-- `name`: Vilnius
-- `geographic coordinates`: 54 41 N, 25 19 E
-- `time difference`: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
-- `daylight saving time`: +1hr, begins last Sunday in March; ends last Sunday in October
-- `etymology`: named after the Vilnia River, which flows into the Neris River at Vilnius; the river name derives from the Lithuanian word "vilnis" meaning "a surge"
+- `名稱`: Vilnius
+- `地理坐標`: 54 41 N, 25 19 E
+- `時差`: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
+- `日光節約時間`: +1hr, begins last Sunday in March; ends last Sunday in October
+- `语源学`: named after the Vilnia River, which flows into the Neris River at Vilnius; the river name derives from the Lithuanian word "vilnis" meaning "a surge"
 
 ### 行政區劃
 60 municipalities (savivaldybe, singular - savivaldybe); Akmene, Alytaus Miestas, Alytus, Anksciai, Birstonas, Birzai, Druskininkai, Elektrenai, Ignalina, Jonava, Joniskis, Jurbarkas, Kaisiadorys, Kalvarija, Kauno Miestas, Kaunas, Kazlu Rudos, Kedainiai, Kelme, Klaipedos Miestas, Klaipeda, Kretinga, Kupiskis, Lazdijai, Marijampole, Mazeikiai, Moletai, Neringa, Pagegiai, Pakruojis, Palangos Miestas, Panevezio Miestas, Panevezys, Pasvalys, Plunge, Prienai, Radviliskis, Raseiniai, Rietavas, Rokiskis, Sakiai, Salcininkai, Siauliu Miestas, Siauliai, Silale, Silute, Sirvintos, Skuodas, Svencionys, Taurage, Telsiai, Trakai, Ukmerge, Utena, Varena, Vilkaviskis, Vilniaus Miestas, Vilnius, Visaginas, Zarasai
@@ -311,37 +311,37 @@ Independence Day (or National Day), 16 February (1918); note - 16 February 1918 
 civil law system; legislative acts can be appealed to the Constitutional Court
 
 ### 憲法
-- `history`: several previous; latest adopted by referendum 25 October 1992, entered into force 2 November 1992
-- `amendments`: proposed by at least one fourth of all Parliament members or by petition of at least 300,000 voters; passage requires two-thirds majority vote of Parliament in each of two readings three months apart and a presidential signature; amendments to constitutional articles on national sovereignty and constitutional amendment procedure also require three-fourths voter approval in a referendum; amended many times, last in 2022
+- `歷史`: several previous; latest adopted by referendum 25 October 1992, entered into force 2 November 1992
+- `修正`: proposed by at least one fourth of all Parliament members or by petition of at least 300,000 voters; passage requires two-thirds majority vote of Parliament in each of two readings three months apart and a presidential signature; amendments to constitutional articles on national sovereignty and constitutional amendment procedure also require three-fourths voter approval in a referendum; amended many times, last in 2022
 
 ### 國際法組織參與
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Lithuania
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 10 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Lithuania
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 10 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Gitanas NAUSEDA (since 12 July 2019)
-- `head of government`: Prime Minister Ingrida SIMONYTE (since 24 November 2020)
-- `cabinet`: Council of Ministers nominated by the prime minister, appointed by the president, approved by Parliament
-- `elections/appointments`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); first round of the election held on 12 May 204 (runoff to be held on 12 May 2024); prime minister appointed by the president, approved by Parliament
-- `election results`: *2024: *Gitanas NAUSEDA elected president in the second round; percent of vote -Gitanas NAUSEDA (independent) 74.6%, Ingrida SIMONYTE (independent) 24.4%*2019:* Gitanas NAUSEDA elected president in second round; percent of vote - Gitanas NAUSEDA (independent) 66.7%, Ingrida SIMONYTE (independent) 33.3%
+- `國家元首`: President Gitanas NAUSEDA (since 12 July 2019)
+- `政府首腦`: Prime Minister Ingrida SIMONYTE (since 24 November 2020)
+- `内閣`: Council of Ministers nominated by the prime minister, appointed by the president, approved by Parliament
+- `選舉/任命`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); first round of the election held on 12 May 204 (runoff to be held on 12 May 2024); prime minister appointed by the president, approved by Parliament
+- `選舉結果`: *2024: *Gitanas NAUSEDA elected president in the second round; percent of vote -Gitanas NAUSEDA (independent) 74.6%, Ingrida SIMONYTE (independent) 24.4%*2019:* Gitanas NAUSEDA elected president in second round; percent of vote - Gitanas NAUSEDA (independent) 66.7%, Ingrida SIMONYTE (independent) 33.3%
 
 ### 立法部門
-- `description`: unicameral Parliament or Seimas (141 seats; 71 members directly elected in single-seat constituencies by absolute majority vote and 70 directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)
-- `elections`: last held on 13 October 2024 first round (next to be held on 27 October 2024 - second round)
-- `election results`: preliminary first-round results percent of vote by party - LSDP 19.4%, TS-LKD 18%, NA 15%, DSVL 9.2%, LRLS 7.7%, LVZS 7%, LLRA-KSS 6%; seats by party - LSDP 20, TS-LKD 18, NA 15, DSVL 8, LRLS 8, LVZS 6, LLRA-KSS 2, Independents 1
+- `描述`: unicameral Parliament or Seimas (141 seats; 71 members directly elected in single-seat constituencies by absolute majority vote and 70 directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)
+- `選舉`: last held on 13 October 2024 first round (next to be held on 27 October 2024 - second round)
+- `選舉結果`: preliminary first-round results percent of vote by party - LSDP 19.4%, TS-LKD 18%, NA 15%, DSVL 9.2%, LRLS 7.7%, LVZS 7%, LLRA-KSS 6%; seats by party - LSDP 20, TS-LKD 18, NA 15, DSVL 8, LRLS 8, LVZS 6, LLRA-KSS 2, Independents 1
 
 ### 司法部門
-- `highest court(s)`: Supreme Court (consists of 37 judges); Constitutional Court (consists of 9 judges)
-- `judge selection and term of office`: Supreme Court judges nominated by the president and appointed by the Seimas; judges serve 5-year renewable terms; Constitutional Court judges appointed by the Seimas from nominations - 3 each by the president of the republic, the Seimas speaker, and the Supreme Court president; judges serve 9-year, nonrenewable terms; one-third of membership reconstituted every 3 years
-- `subordinate courts`: Court of Appeals; district and local courts
+- `最高法院`: Supreme Court (consists of 37 judges); Constitutional Court (consists of 9 judges)
+- `法官遴選和任期`: Supreme Court judges nominated by the president and appointed by the Seimas; judges serve 5-year renewable terms; Constitutional Court judges appointed by the Seimas from nominations - 3 each by the president of the republic, the Seimas speaker, and the Supreme Court president; judges serve 9-year, nonrenewable terms; one-third of membership reconstituted every 3 years
+- `下級法院`: Court of Appeals; district and local courts
 
 ### 政黨
 Dawn of Nemunas or NAElectoral Action of Poles in Lithuania or LLRA–KŠSFreedom and Justice Party or LT (formerly Lithuanian Freedom Union (Liberals))Freedom Party or LPHomeland Union-Lithuanian Christian Democrats or TS-LKDLabour Party or DPLithuanian Center Party or LCPLithuanian Christian Democracy Party or LKDPLithuanian Farmers and Greens Union or LVZSLithuanian Green Party or LZPLiberals' Movement or LRLSLithuanian List or LLLithuanian Regions Party or LRPSocial Democratic Party of Lithuania or LSDPUnion of Democrats for Lithuania or DSVL
@@ -350,20 +350,20 @@ Dawn of Nemunas or NAElectoral Action of Poles in Lithuania or LLRA–KŠSFreedo
 Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Audra PLEPYTĖ (since 7 July 2021)
-- `chancery`: 2622 16th Street NW, Washington, DC 20009
-- `telephone`: [1] (202) 234-5860
+- `外交代表負責人`: Ambassador Audra PLEPYTĖ (since 7 July 2021)
+- `衡平法院（在美國）`: 2622 16th Street NW, Washington, DC 20009
+- `電話號碼`: [1] (202) 234-5860
 - `FAX`: [1] (202) 328-0466
-- `email address and website`: info@usa.mfa.lt  https://usa.mfa.lt/usa/en/
-- `consulate(s) general`: Chicago, Los Angeles, New York
+- `電子郵件地址和網站`: info@usa.mfa.lt  https://usa.mfa.lt/usa/en/
+- `總領事館`: Chicago, Los Angeles, New York
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Kara C. McDONALD (since 26 January 2024)
-- `embassy`: Akmenu gatve 6, Vilnius, LT-03106
-- `mailing address`: 4510 Vilnius Place, Washington DC  20521-4510
-- `telephone`: [370] (5) 266-5500
+- `外交代表負責人`: Ambassador Kara C. McDONALD (since 26 January 2024)
+- `大使館`: Akmenu gatve 6, Vilnius, LT-03106
+- `郵寄地址`: 4510 Vilnius Place, Washington DC  20521-4510
+- `電話號碼`: [370] (5) 266-5500
 - `FAX`: [370] (5) 266-5510
-- `email address and website`: consec@state.gov  https://lt.usembassy.gov/
+- `電子郵件地址和網站`: consec@state.gov  https://lt.usembassy.gov/
 
 ### 旗幟說明
 three equal horizontal bands of yellow (top), green, and red; yellow symbolizes golden fields, as well as the sun, light, and goodness; green represents the forests of the countryside, in addition to nature, freedom, and hope; red stands for courage and the blood spilled in defense of the homeland
@@ -372,8 +372,8 @@ three equal horizontal bands of yellow (top), green, and red; yellow symbolizes 
 mounted knight known as Vytis (the Chaser), white stork; national colors: yellow, green, red
 
 ### 國歌
-- `name`: "Tautiska giesme" (The National Song)
-- `lyrics/music`: Vincas KUDIRKA
+- `名稱`: "Tautiska giesme" (The National Song)
+- `歌詞／音樂`: Vincas KUDIRKA
 **note**:  adopted 1918, restored 1990; written in 1898 while Lithuania was a part of Russia; banned during the Soviet occupation from 1940 to 1990
 
 ### 國家級遺產
@@ -420,18 +420,18 @@ $77.836 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 3% (2023 est.)
-- `industry`: 24.1% (2023 est.)
-- `services`: 63.1% (2023 est.)
+- `農業`: 3% (2023 est.)
+- `產業`: 24.1% (2023 est.)
+- `服務`: 63.1% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 58.8% (2023 est.)
-- `government consumption`: 17.7% (2023 est.)
-- `investment in fixed capital`: 23.3% (2023 est.)
-- `investment in inventories`: -3.6% (2023 est.)
-- `exports of goods and services`: 78.5% (2023 est.)
-- `imports of goods and services`: -74.7% (2023 est.)
+- `家庭消費`: 58.8% (2023 est.)
+- `政府消費`: 17.7% (2023 est.)
+- `固定資本投資`: 23.3% (2023 est.)
+- `存貨投資`: -3.6% (2023 est.)
+- `商品和服務出口`: 78.5% (2023 est.)
+- `商品和服務進口`: -74.7% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -456,9 +456,9 @@ metal-cutting machine tools, electric motors, televisions, refrigerators and fre
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 13.9% (2023 est.)
-- `male`: 16.3% (2023 est.)
-- `female`: 11.3% (2023 est.)
+- `總計`: 13.9% (2023 est.)
+- `男性`: 16.3% (2023 est.)
+- `女性`: 11.3% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -470,12 +470,12 @@ metal-cutting machine tools, electric motors, televisions, refrigerators and fre
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 平均家庭支出
-- `on food`: 19.8% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 5.8% of household expenditures (2022 est.)
+- `餐食`: 19.8% of household expenditures (2022 est.)
+- `酒精和煙草`: 5.8% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 2.6% (2021 est.)
-- `highest 10%`: 29.1% (2021 est.)
+- `最低10%`: 2.6% (2021 est.)
+- `最高10%`: 29.1% (2021 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -485,8 +485,8 @@ metal-cutting machine tools, electric motors, televisions, refrigerators and fre
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $24.347 billion (2022 est.)
-- `expenditures`: $24.219 billion (2022 est.)
+- `收入`: $24.347 billion (2022 est.)
+- `支出`: $24.219 billion (2022 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -548,45 +548,45 @@ $5.58 billion (2021 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 4.258 million kW (2022 est.)
-- `consumption`: 11.227 billion kWh (2022 est.)
-- `exports`: 2.652 billion kWh (2022 est.)
-- `imports`: 11.22 billion kWh (2022 est.)
-- `transmission/distribution losses`: 855.476 million kWh (2022 est.)
+- `裝機容量`: 4.258 million kW (2022 est.)
+- `消費`: 11.227 billion kWh (2022 est.)
+- `出口`: 2.652 billion kWh (2022 est.)
+- `進口`: 11.22 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 855.476 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 28.1% of total installed capacity (2022 est.)
-- `solar`: 4.7% of total installed capacity (2022 est.)
-- `wind`: 42.8% of total installed capacity (2022 est.)
-- `hydroelectricity`: 6.6% of total installed capacity (2022 est.)
-- `biomass and waste`: 17.8% of total installed capacity (2022 est.)
+- `石化燃料`: 28.1% of total installed capacity (2022 est.)
+- `太陽能`: 4.7% of total installed capacity (2022 est.)
+- `風能`: 42.8% of total installed capacity (2022 est.)
+- `水力發電`: 6.6% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 17.8% of total installed capacity (2022 est.)
 
 ### 核能
 - `Number of nuclear reactors permanently shut down`: 2 (2023)
 
 ### 煤炭
-- `consumption`: 263,000 metric tons (2022 est.)
-- `exports`: 154,000 metric tons (2022 est.)
-- `imports`: 496,000 metric tons (2022 est.)
+- `消費`: 263,000 metric tons (2022 est.)
+- `出口`: 154,000 metric tons (2022 est.)
+- `進口`: 496,000 metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 4,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 68,000 bbl/day (2023 est.)
-- `crude oil estimated reserves`: 12 million barrels (2021 est.)
+- `總石油產量`: 4,000 bbl/day (2023 est.)
+- `成品油消費量`: 68,000 bbl/day (2023 est.)
+- `原油儲備量估值`: 12 million barrels (2021 est.)
 
 ### 天然氣
-- `consumption`: 1.601 billion cubic meters (2022 est.)
-- `exports`: 1.921 billion cubic meters (2022 est.)
-- `imports`: 3.53 billion cubic meters (2022 est.)
+- `消費`: 1.601 billion cubic meters (2022 est.)
+- `出口`: 1.921 billion cubic meters (2022 est.)
+- `進口`: 3.53 billion cubic meters (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 12.803 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 586,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 9.115 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 3.102 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 12.803 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 586,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 9.115 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 3.102 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 85.201 million Btu/person (2022 est.)
@@ -594,17 +594,17 @@ $5.58 billion (2021 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 250,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 9 (2022 est.)
+- `總訂閱數`: 250,000 (2022 est.)
+- `每100名居民訂閱數`: 9 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 3.826 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 139 (2022 est.)
+- `總訂閱數`: 3.826 million (2022 est.)
+- `每100名居民訂閱數`: 139 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Lithuania’s small telecoms market is among the more advanced in Europe, particularly given the universal access to long-term evolution (LTE) infrastructure and the extensive fiber footprint; Operator investment has been focused on fiber broadband and mobile network upgrades; Fiber is now by far the dominant fixed broadband platform, with the number of Digital Subscriber Line (DSL) and cable connections in steady decline; LTE services are available nationally, operators have made steady investments in 5G (2024)
-- `domestic`: nearly 9 per 100 for fixed-line subscriptions; mobile-cellular subscriptions at 139 per 100 persons (2022)
-- `international`: country code - 370; landing points for the BCS East, BCS East-West Interlink and NordBalt connecting Lithuania to Sweden, and Latvia ; further transmission by satellite; landline connections to Latvia and Poland (2019)
+- `總體評估`: Lithuania’s small telecoms market is among the more advanced in Europe, particularly given the universal access to long-term evolution (LTE) infrastructure and the extensive fiber footprint; Operator investment has been focused on fiber broadband and mobile network upgrades; Fiber is now by far the dominant fixed broadband platform, with the number of Digital Subscriber Line (DSL) and cable connections in steady decline; LTE services are available nationally, operators have made steady investments in 5G (2024)
+- `國內`: nearly 9 per 100 for fixed-line subscriptions; mobile-cellular subscriptions at 139 per 100 persons (2022)
+- `國際的`: country code - 370; landing points for the BCS East, BCS East-West Interlink and NordBalt connecting Lithuania to Sweden, and Latvia ; further transmission by satellite; landline connections to Latvia and Poland (2019)
 
 ### 廣播媒體
 public broadcaster operates 3 channels with the third channel - a satellite channel - introduced in 2007; various privately owned commercial TV broadcasters operate national and multiple regional channels; many privately owned local TV stations; multi-channel cable and satellite TV services available; publicly owned broadcaster operates 3 radio networks; many privately owned commercial broadcasters, with repeater stations in various regions throughout the country
@@ -613,19 +613,19 @@ public broadcaster operates 3 channels with the third channel - a satellite chan
 .lt
 
 ### 網際網路使用者
-- `total`: 2.436 million (2021 est.)
-- `percent of population`: 87% (2021 est.)
+- `總計`: 2.436 million (2021 est.)
+- `佔人口比例`: 87% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 796,814 (2020 est.)
-- `subscriptions per 100 inhabitants`: 29 (2020 est.)
+- `總計`: 796,814 (2020 est.)
+- `每100名居民訂閱數`: 29 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 3 (2020)
-- `inventory of registered aircraft operated by air carriers`: 50
-- `annual passenger traffic on registered air carriers`: 26,031 (2018)
+- `註冊航空公司數量`: 3 (2020)
+- `註冊飛機庫存—航空承運商經營`: 50
+- `年度客運量－註冊航空公司`: 26,031 (2018)
 
 ### 註冊民用航空器國家代碼前綴
 LY
@@ -640,26 +640,26 @@ LY
 1,921 km gas, 121 km refined products (2013)
 
 ### 鐵路
-- `total`: 1,911 km (2020) 152 km electrified
+- `總計`: 1,911 km (2020) 152 km electrified
 
 ### 道路
-- `total`: 83,821 km (2022)
+- `總計`: 83,821 km (2022)
 
 ### 水道
 441 km (2007) (navigable year-round)
 
 ### 商船
-- `total`: 59 (2023)
-- `by type`: container ship 3, general cargo 19, oil tanker 2, other 35
+- `總計`: 59 (2023)
+- `依類型`: container ship 3, general cargo 19, oil tanker 2, other 35
 
 ### 港口
-- `total ports`: 2 (2024)
-- `large`: 0
-- `medium`: 1
-- `small`: 0
-- `very small`: 1
-- `ports with oil terminals`: 2
-- `key ports`: Butinge Oil Terminal, Klaipeda
+- `總港口數`: 2 (2024)
+- `大`: 0
+- `中`: 1
+- `小`: 0
+- `非常小`: 1
+- `原油碼頭港口`: 2
+- `主要港口`: Butinge Oil Terminal, Klaipeda
 
 ## 軍事和安全
 
@@ -693,8 +693,8 @@ the Lithuanian Armed Forces are responsible for the defense of the country’s i
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 41,490 (Ukraine) (as of 11 March 2024)
-- `stateless persons`: 2,720 (2022)
+- `難民（原籍國）`: 41,490 (Ukraine) (as of 11 March 2024)
+- `無國籍人士`: 2,720 (2022)
 
 ### 非法藥物
 source country for amphetamine tablets

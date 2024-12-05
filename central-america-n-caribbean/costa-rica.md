@@ -19,25 +19,25 @@ Central America, bordering both the Caribbean Sea and the North Pacific Ocean, b
 Central America and the Caribbean
 
 ### 面積
-- `total `: 51,100 sq km
-- `land`: 51,060 sq km
-- `water`: 40 sq km
+- `總計`: 51,100 sq km
+- `土地`: 51,060 sq km
+- `水`: 40 sq km
 **note**:  includes Isla del Coco
 
 ### 面積—比較
 slightly smaller than West Virginia
 
 ### 陸地邊界
-- `total`: 661 km
-- `border countries`: Nicaragua 313 km; Panama 348 km
+- `總計`: 661 km
+- `邊境國家`: Nicaragua 313 km; Panama 348 km
 
 ### 海岸線
 1,290 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: 200 nm
+- `領海`: 12 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: 200 nm
 
 ### 氣候
 tropical and subtropical; dry season (December to April); rainy season (May to November); cooler in highlands
@@ -46,20 +46,20 @@ tropical and subtropical; dry season (December to April); rainy season (May to N
 coastal plains separated by rugged mountains including over 100 volcanic cones, of which several are major active volcanoes
 
 ### 海拔
-- `highest point`: Cerro Chirripo 3,819 m
-- `lowest point`: Pacific Ocean 0 m
-- `mean elevation`: 746 m
+- `最高點`: Cerro Chirripo 3,819 m
+- `最低點`: Pacific Ocean 0 m
+- `平均海拔`: 746 m
 
 ### 自然資源
 hydropower
 
 ### 土地利用
-- `agricultural land`: 37.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 4.9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 6.7% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 25.5% (2018 est.)
-- `forest`: 51.5% (2018 est.)
-- `other`: 11.4% (2018 est.)
+- `農地`: 37.1% (2018 est.)
+- `農地：耕地`: arable land: 4.9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 6.7% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 25.5% (2018 est.)
+- `森林`: 51.5% (2018 est.)
+- `其它`: 11.4% (2018 est.)
 
 ### 灌溉土地
 1,015 sq km (2012)
@@ -76,20 +76,20 @@ four volcanoes, two of them active, rise near the capital of San Jose in the cen
 ## 人民和社會
 
 ### 人口
-- `total`: 5,265,575
-- `male`: 2,635,481
-- `female`: 2,630,094 (2024 est.)
+- `總計`: 5,265,575
+- `男性`: 2,635,481
+- `女性`: 2,630,094 (2024 est.)
 
 ### 國籍
-- `noun`: Costa Rican(s)
-- `adjective`: Costa Rican
+- `名詞`: Costa Rican(s)
+- `形容詞`: Costa Rican
 
 ### 族裔群體
 White or Mestizo 83.6%, Mulatto 6.7%, Indigenous 2.4%, Black or African descent 1.1%, other 1.1%, none 2.9%, unspecified 2.2% (2011 est.)
 
 ### 語文
 Spanish (official), English
-- `major-language sample(s)`: La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)  The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Roman Catholic 47.5%, Evangelical and Pentecostal 19.8%, Jehovah's Witness 1.4%, other Protestant 1.2%, other 3.1%, none 27% (2021 est.)
@@ -98,20 +98,20 @@ Roman Catholic 47.5%, Evangelical and Pentecostal 19.8%, Jehovah's Witness 1.4%,
 Costa Rica's political stability, high standard of living, and well-developed social benefits system set it apart from its Central American neighbors. Through the government's sustained social spending - almost 20% of GDP annually - Costa Rica has made tremendous progress toward achieving its goal of providing universal access to education, healthcare, clean water, sanitation, and electricity. Since the 1970s, expansion of these services has led to a rapid decline in infant mortality, an increase in life expectancy at birth, and a sharp decrease in the birth rate. The average number of children born per women has fallen from about 7 in the 1960s to 3.5 in the early 1980s to below replacement level today. Costa Rica's poverty rate is lower than in most Latin American countries, but it has stalled at around 20% for almost two decades.Costa Rica is a popular regional immigration destination because of its job opportunities and social programs. Almost 9% of the population is foreign-born, with Nicaraguans comprising nearly three-quarters of the foreign population. Many Nicaraguans who perform unskilled seasonal labor enter Costa Rica illegally or overstay their visas, which continues to be a source of tension. Less than 3% of Costa Rica's population lives abroad. The overwhelming majority of expatriates have settled in the United States after completing a university degree or in order to work in a highly skilled field.
 
 ### 年齡結構
-- `0-14 years`: 18.8% (male 506,041/female 482,481)
-- `15-64 years`: 70.2% (male 1,862,872/female 1,832,024)
-- `65 years and over`: 11.1% (2024 est.) (male 266,568/female 315,589)
+- `0-14歲`: 18.8% (male 506,041/female 482,481)
+- `15-64歲`: 70.2% (male 1,862,872/female 1,832,024)
+- `65歲及以上`: 11.1% (2024 est.) (male 266,568/female 315,589)
 
 ### 撫養比率
-- `total dependency ratio`: 45.1
-- `youth dependency ratio`: 29.8
-- `elderly dependency ratio`: 15.3
-- `potential support ratio`: 6.5 (2021 est.)
+- `總受扶養人比率`: 45.1
+- `少年撫養比率`: 29.8
+- `老人撫養比率`: 15.3
+- `潛在支持率`: 6.5 (2021 est.)
 
 ### 年齡中位數
-- `total`: 35.5 years (2024 est.)
-- `male`: 34.9 years
-- `female`: 36.1 years
+- `總計`: 35.5 years (2024 est.)
+- `男性`: 34.9 years
+- `女性`: 36.1 years
 
 ### 人口成長率
 0.74% (2024 est.)
@@ -129,31 +129,31 @@ Costa Rica's political stability, high standard of living, and well-developed so
 roughly half of the nation's population resides in urban areas; the capital of San Jose is the largest city and home to approximately one-fifth of the population
 
 ### 都市化
-- `urban population`: 82.6% of total population (2023)
-- `rate of urbanization`: 1.5% annual rate of change (2020-25 est.)
+- `城市人口`: 82.6% of total population (2023)
+- `城鎮化率`: 1.5% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 1.462 million SAN JOSE (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.05 male(s)/female
-- `15-64 years`: 1.02 male(s)/female
-- `65 years and over`: 0.84 male(s)/female
-- `total population`: 1 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.05 male(s)/female
+- `15-64歲`: 1.02 male(s)/female
+- `65歲及以上`: 0.84 male(s)/female
+- `總人口數`: 1 male(s)/female (2024 est.)
 
 ### 產婦死亡率
 22 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 6.7 deaths/1,000 live births (2024 est.)
-- `male`: 7 deaths/1,000 live births
-- `female`: 6.3 deaths/1,000 live births
+- `總計`: 6.7 deaths/1,000 live births (2024 est.)
+- `男性`: 7 deaths/1,000 live births
+- `女性`: 6.3 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 80.3 years (2024 est.)
-- `male`: 77.7 years
-- `female`: 82.9 years
+- `總人口數`: 80.3 years (2024 est.)
+- `男性`: 77.7 years
+- `女性`: 82.9 years
 
 ### 總生育率
 1.43 children born/woman (2024 est.)
@@ -165,12 +165,12 @@ roughly half of the nation's population resides in urban areas; the capital of S
 70.9% (2018)
 
 ### 飲用水來源
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 當前醫療支出
 7.9% of GDP (2020)
@@ -182,27 +182,27 @@ roughly half of the nation's population resides in urban areas; the capital of S
 1.1 beds/1,000 population (2019)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 99% of population
-- `improved: rural`: rural: 97.1% of population
-- `improved: total`: total: 98.7% of population
-- `unimproved: urban`: urban: 1% of population
-- `unimproved: rural`: rural: 2.9% of population
-- `unimproved: total`: total: 1.3% of population (2020 est.)
+- `已改進－城市`: urban: 99% of population
+- `已改進－農村`: rural: 97.1% of population
+- `已改進－總計`: total: 98.7% of population
+- `未改進：都市`: urban: 1% of population
+- `未改進：鄉村`: rural: 2.9% of population
+- `未改善：總計`: total: 1.3% of population (2020 est.)
 
 ### 肥胖—成人流行率
 25.7% (2016)
 
 ### 人均酒精消費量
-- `total`: 3.07 liters of pure alcohol (2019 est.)
-- `beer`: 2.17 liters of pure alcohol (2019 est.)
-- `wine`: 0.15 liters of pure alcohol (2019 est.)
-- `spirits`: 0.36 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.39 liters of pure alcohol (2019 est.)
+- `總計`: 3.07 liters of pure alcohol (2019 est.)
+- `啤酒`: 2.17 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.15 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.36 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.39 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 8.8% (2020 est.)
-- `male`: 12.9% (2020 est.)
-- `female`: 4.6% (2020 est.)
+- `總計`: 8.8% (2020 est.)
+- `男性`: 12.9% (2020 est.)
+- `女性`: 4.6% (2020 est.)
 
 ### 5歲以下體重不足兒童
 2.9% (2018)
@@ -211,22 +211,22 @@ roughly half of the nation's population resides in urban areas; the capital of S
 48.4% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 2%
-- `women married by age 18`: 17.1% (2018 est.)
+- `15歲前結婚的女性`: 2%
+- `18歲前結婚的女性`: 17.1% (2018 est.)
 
 ### 教育支出
 6.7% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 98%
-- `male`: 98%
-- `female`: 98.1% (2021)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 98%
+- `男性`: 98%
+- `女性`: 98.1% (2021)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 17 years
-- `male`: 16 years
-- `female`: 17 years (2019)
+- `總計`: 17 years
+- `男性`: 16 years
+- `女性`: 17 years (2019)
 
 ## 環境
 
@@ -234,23 +234,23 @@ roughly half of the nation's population resides in urban areas; the capital of S
 deforestation and land use change, largely a result of the clearing of land for cattle ranching and agriculture; soil erosion; coastal marine pollution; fisheries protection; solid waste management; air pollution
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Tropical Timber 2006, Wetlands, Whaling
-- `signed, but not ratified`: Marine Life Conservation
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Tropical Timber 2006, Wetlands, Whaling
+- `已簽署但未批準`: Marine Life Conservation
 
 ### 氣候
 tropical and subtropical; dry season (December to April); rainy season (May to November); cooler in highlands
 
 ### 土地利用
-- `agricultural land`: 37.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 4.9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 6.7% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 25.5% (2018 est.)
-- `forest`: 51.5% (2018 est.)
-- `other`: 11.4% (2018 est.)
+- `農地`: 37.1% (2018 est.)
+- `農地：耕地`: arable land: 4.9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 6.7% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 25.5% (2018 est.)
+- `森林`: 51.5% (2018 est.)
+- `其它`: 11.4% (2018 est.)
 
 ### 都市化
-- `urban population`: 82.6% of total population (2023)
-- `rate of urbanization`: 1.5% annual rate of change (2020-25 est.)
+- `城市人口`: 82.6% of total population (2023)
+- `城鎮化率`: 1.5% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.82% of GDP (2018 est.)
@@ -259,19 +259,19 @@ tropical and subtropical; dry season (December to April); rainy season (May to N
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 14.7 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 8.02 megatons (2016 est.)
-- `methane emissions`: 5.61 megatons (2020 est.)
+- `顆粒物排放量`: 14.7 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 8.02 megatons (2016 est.)
+- `甲烷排放量`: 5.61 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 1.46 million tons (2014 est.)
-- `municipal solid waste recycled annually`: 18,396 tons (2014 est.)
-- `percent of municipal solid waste recycled`: 1.3% (2014 est.)
+- `城市固體廢棄物－每年產生`: 1.46 million tons (2014 est.)
+- `城市固體廢棄物－每年回收`: 18,396 tons (2014 est.)
+- `城市固體廢棄物－回收百分比`: 1.3% (2014 est.)
 
 ### 總取水量
-- `municipal`: 830 million cubic meters (2020 est.)
-- `industrial`: 230 million cubic meters (2020 est.)
-- `agricultural`: 2.08 billion cubic meters (2020 est.)
+- `市級`: 830 million cubic meters (2020 est.)
+- `工業`: 230 million cubic meters (2020 est.)
+- `農業`: 2.08 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 113 billion cubic meters (2020 est.)
@@ -279,20 +279,20 @@ tropical and subtropical; dry season (December to April); rainy season (May to N
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Costa Rica
-- `conventional short form`: Costa Rica
-- `local long form`: República de Costa Rica
-- `local short form`: Costa Rica
-- `etymology`: the name means "rich coast" in Spanish and was first applied in the early colonial period of the 16th century
+- `常用長名`: Republic of Costa Rica
+- `常用短名`: Costa Rica
+- `當地語長名`: República de Costa Rica
+- `當地語短名`: Costa Rica
+- `语源学`: the name means "rich coast" in Spanish and was first applied in the early colonial period of the 16th century
 
 ### 政府類型
 presidential republic
 
 ### 首都
-- `name`: San José
-- `geographic coordinates`: 9 56 N, 84 05 W
-- `time difference`: UTC-6 (1 hour behind Washington, DC, during Standard Time)
-- `etymology`: named in honor of Saint Joseph
+- `名稱`: San José
+- `地理坐標`: 9 56 N, 84 05 W
+- `時差`: UTC-6 (1 hour behind Washington, DC, during Standard Time)
+- `语源学`: named in honor of Saint Joseph
 
 ### 行政區劃
 7 provinces (provincias, singular - provincia); Alajuela, Cartago, Guanacaste, Heredia, Limon, Puntarenas, San Jose
@@ -307,38 +307,38 @@ Independence Day, 15 September (1821)
 civil law system based on Spanish civil code; judicial review of legislative acts in the Supreme Court
 
 ### 憲法
-- `history`: many previous; latest effective 8 November 1949
-- `amendments`: proposals require the signatures of at least 10 Legislative Assembly members or petition of at least 5% of qualified voters; consideration of proposals requires two-thirds majority approval in each of three readings by the Assembly, followed by preparation of the proposal as a legislative bill and its approval by simple majority of the Assembly; passage requires at least two-thirds majority vote of the Assembly membership; a referendum is required only if approved by at least two thirds of the Assembly; amended many times, last in 2020
+- `歷史`: many previous; latest effective 8 November 1949
+- `修正`: proposals require the signatures of at least 10 Legislative Assembly members or petition of at least 5% of qualified voters; consideration of proposals requires two-thirds majority approval in each of three readings by the Assembly, followed by preparation of the proposal as a legislative bill and its approval by simple majority of the Assembly; passage requires at least two-thirds majority vote of the Assembly membership; a referendum is required only if approved by at least two thirds of the Assembly; amended many times, last in 2020
 
 ### 國際法組織參與
 accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: yes
-- `citizenship by descent only`: yes
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: 7 years
+- `出生公民權`: yes
+- `血統公民身份`: yes
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: 7 years
 
 ### 選舉權
 18 years of age; universal and compulsory
 
 ### 行政部門
-- `chief of state`: President Rodrigo CHAVES Robles (since 8 May 2022) 
-- `head of government`: President Rodrigo CHAVES Robles (since 8 May 2022)
-- `cabinet`: Cabinet selected by the president
-- `elections/appointments`: president and vice presidents directly elected on the same ballot by modified majority popular vote (40% threshold) for a 4-year term (eligible for non-consecutive terms); election last held on 6 February 2022 with a runoff on 3 April 2022 (next to be held in February 2026 with a runoff in April 2026)
-- `election results`: *2022: *Rodrigo CHAVES Robles elected president in second round; percent of vote in first round - Jose Maria FIGUERES Olsen (PLN) 27.3%,Rodrigo CHAVES Robles (PPSD) 16.8%, Fabricio ALVARADO Munoz (PNR) 14.9%, Eliecer FEINZAIG Mintz (PLP) 12.4%, Lineth SABORIO Chaverri (PUSC) 12.4%, Jose Maria VILLALTA Florez-Estrada 8.7% (PFA), other 7.5%; percent of vote in second round - Rodrigo CHAVES Robles (PPSD) 52.8%, Jose Maria FIGUERES Olsen (PLN) 47.2%  *2018:* Carlos ALVARADO Quesada elected president in second round; percent of vote in first round - Fabricio ALVARADO Munoz (PRN) 25%; Carlos ALVARADO Quesada (PAC) 21.6%; Antonio ALVAREZ (PLN) 18.6%; Rodolfo PIZA (PUSC) 16%; Juan Diego CASTRO (PIN) 9.5%; Rodolfo HERNANDEZ (PRSC) 4.9%, other 4.4%; percent of vote in second round - Carlos ALVARADO Quesada (PAC) 60.7%; Fabricio ALVARADO Munoz (PRN) 39.3%
+- `國家元首`: President Rodrigo CHAVES Robles (since 8 May 2022) 
+- `政府首腦`: President Rodrigo CHAVES Robles (since 8 May 2022)
+- `内閣`: Cabinet selected by the president
+- `選舉/任命`: president and vice presidents directly elected on the same ballot by modified majority popular vote (40% threshold) for a 4-year term (eligible for non-consecutive terms); election last held on 6 February 2022 with a runoff on 3 April 2022 (next to be held in February 2026 with a runoff in April 2026)
+- `選舉結果`: *2022: *Rodrigo CHAVES Robles elected president in second round; percent of vote in first round - Jose Maria FIGUERES Olsen (PLN) 27.3%,Rodrigo CHAVES Robles (PPSD) 16.8%, Fabricio ALVARADO Munoz (PNR) 14.9%, Eliecer FEINZAIG Mintz (PLP) 12.4%, Lineth SABORIO Chaverri (PUSC) 12.4%, Jose Maria VILLALTA Florez-Estrada 8.7% (PFA), other 7.5%; percent of vote in second round - Rodrigo CHAVES Robles (PPSD) 52.8%, Jose Maria FIGUERES Olsen (PLN) 47.2%  *2018:* Carlos ALVARADO Quesada elected president in second round; percent of vote in first round - Fabricio ALVARADO Munoz (PRN) 25%; Carlos ALVARADO Quesada (PAC) 21.6%; Antonio ALVAREZ (PLN) 18.6%; Rodolfo PIZA (PUSC) 16%; Juan Diego CASTRO (PIN) 9.5%; Rodolfo HERNANDEZ (PRSC) 4.9%, other 4.4%; percent of vote in second round - Carlos ALVARADO Quesada (PAC) 60.7%; Fabricio ALVARADO Munoz (PRN) 39.3%
 **note**: the president is both chief of state and head of government
 
 ### 立法部門
-- `description`: unicameral Legislative Assembly or Asamblea Legislativa (57 seats; members directly elected in multi-seat constituencies - corresponding to the country's 7 provinces - by closed party-list proportional representation vote; members serve 4-year terms)
-- `elections`: last held on 6 February 2022 (next to be held in February 2026)
-- `election results`: percent of vote by party - PLN 24.8%, PPSD 15%, PUSC 11.4%, PNR 10.1%, PLP 9.1%, 8.3%, other 21.3%; seats by party - PLN 19, PPSD 10, PUSC 9, PNR 7, PLP 6, PFA 6; composition - men 30, women 27, percentage women 47.4%
+- `描述`: unicameral Legislative Assembly or Asamblea Legislativa (57 seats; members directly elected in multi-seat constituencies - corresponding to the country's 7 provinces - by closed party-list proportional representation vote; members serve 4-year terms)
+- `選舉`: last held on 6 February 2022 (next to be held in February 2026)
+- `選舉結果`: percent of vote by party - PLN 24.8%, PPSD 15%, PUSC 11.4%, PNR 10.1%, PLP 9.1%, 8.3%, other 21.3%; seats by party - PLN 19, PPSD 10, PUSC 9, PNR 7, PLP 6, PFA 6; composition - men 30, women 27, percentage women 47.4%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court of Justice (consists of 22 judges organized into 3 cassation chambers each with 5 judges and the Constitutional Chamber with 7 judges)
-- `judge selection and term of office`: Supreme Court of Justice judges elected by the National Assembly for 8-year terms with renewal decided by the National Assembly
-- `subordinate courts`: appellate courts; trial courts; first instance and justice of the peace courts; Superior Electoral Tribunal
+- `最高法院`: Supreme Court of Justice (consists of 22 judges organized into 3 cassation chambers each with 5 judges and the Constitutional Chamber with 7 judges)
+- `法官遴選和任期`: Supreme Court of Justice judges elected by the National Assembly for 8-year terms with renewal decided by the National Assembly
+- `下級法院`: appellate courts; trial courts; first instance and justice of the peace courts; Superior Electoral Tribunal
 
 ### 政黨
 Accessibility Without Exclusion or PASEBroad Front (Frente Amplio) or PFACitizen Action Party or PACCosta Rican Renewal Party or PRCHere Costa Rica Commands Party or ACRMLiberal Progressive Party or PLP Libertarian Movement Party or MLNational Integration Party or PINNational Liberation Party or PLNNational Restoration Party or PRNNew Generation or PNGNew Republic Party or PNRSocial Christian Republican Party or PRSCSocial Christian Unity Party or PUSC of UNIDADSocial Democratic Progress Party or PPSD
@@ -347,20 +347,20 @@ Accessibility Without Exclusion or PASEBroad Front (Frente Amplio) or PFACitizen
 ACS, BCIE, CACM, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, NAM (observer), OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Catalina CRESPO SANCHO (since 19 April 2023)
-- `chancery`: 2114 S Street NW, Washington, DC 20008
-- `telephone`: [1] (202) 499-2980
+- `外交代表負責人`: Ambassador Catalina CRESPO SANCHO (since 19 April 2023)
+- `衡平法院（在美國）`: 2114 S Street NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 499-2980
 - `FAX`: [1] (202) 265-4795
-- `email address and website`: embcr-us@rree.go.cr  http://www.costarica-embassy.org/index.php?q=node/21
-- `consulate(s) general`: Atlanta, Houston, Los Angeles, Miami, New York, Washington DC
+- `電子郵件地址和網站`: embcr-us@rree.go.cr  http://www.costarica-embassy.org/index.php?q=node/21
+- `總領事館`: Atlanta, Houston, Los Angeles, Miami, New York, Washington DC
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Cynthia A. TELLES (since 11 March 2022)
-- `embassy`: Calle 98 Via 104, Pavas, San Jose
-- `mailing address`: 3180 St. George's Place, Washington DC  20521-3180
-- `telephone`: [506] 2519-2000
+- `外交代表負責人`: Ambassador Cynthia A. TELLES (since 11 March 2022)
+- `大使館`: Calle 98 Via 104, Pavas, San Jose
+- `郵寄地址`: 3180 St. George's Place, Washington DC  20521-3180
+- `電話號碼`: [506] 2519-2000
 - `FAX`: [506] 2519-2305
-- `email address and website`: acssanjose@state.gov  https://cr.usembassy.gov/
+- `電子郵件地址和網站`: acssanjose@state.gov  https://cr.usembassy.gov/
 
 ### 旗幟說明
 five horizontal bands of blue (top), white, red (double width), white, and blue, with the coat of arms in a white elliptical disk placed toward the hoist side of the red band; Costa Rica retained the earlier blue-white-blue flag of Central America until 1848 when, in response to revolutionary activity in Europe, it was decided to incorporate the French colors into the national flag and a central red stripe was added; today the blue color is said to stand for the sky, opportunity, and perseverance, white denotes peace, happiness, and wisdom, while red represents the blood shed for freedom, as well as the generosity and vibrancy of the people
@@ -370,8 +370,8 @@ five horizontal bands of blue (top), white, red (double width), white, and blue,
 yiguirro (clay-colored robin); national colors: blue, white, red
 
 ### 國歌
-- `name`: "Himno Nacional de Costa Rica" (National Anthem of Costa Rica)
-- `lyrics/music`: Jose Maria ZELEDON Brenes/Manuel Maria GUTIERREZ
+- `名稱`: "Himno Nacional de Costa Rica" (National Anthem of Costa Rica)
+- `歌詞／音樂`: Jose Maria ZELEDON Brenes/Manuel Maria GUTIERREZ
 **note**:  adopted 1949; the anthem's music was originally written for an 1853 welcome ceremony for diplomatic missions from the US and UK; the lyrics were added in 1903
 
 ### 國家級遺產
@@ -418,18 +418,18 @@ $86.498 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 3.8% (2023 est.)
-- `industry`: 20.5% (2023 est.)
-- `services`: 68% (2023 est.)
+- `農業`: 3.8% (2023 est.)
+- `產業`: 20.5% (2023 est.)
+- `服務`: 68% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 65.4% (2023 est.)
-- `government consumption`: 14.9% (2023 est.)
-- `investment in fixed capital`: 16.2% (2023 est.)
-- `investment in inventories`: -0.8% (2023 est.)
-- `exports of goods and services`: 37.3% (2023 est.)
-- `imports of goods and services`: -33% (2023 est.)
+- `家庭消費`: 65.4% (2023 est.)
+- `政府消費`: 14.9% (2023 est.)
+- `固定資本投資`: 16.2% (2023 est.)
+- `存貨投資`: -0.8% (2023 est.)
+- `商品和服務出口`: 37.3% (2023 est.)
+- `商品和服務進口`: -33% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -454,9 +454,9 @@ medical equipment, food processing, textiles and clothing, construction material
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 24.1% (2023 est.)
-- `male`: 21% (2023 est.)
-- `female`: 28.3% (2023 est.)
+- `總計`: 24.1% (2023 est.)
+- `男性`: 21% (2023 est.)
+- `女性`: 28.3% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -468,12 +468,12 @@ medical equipment, food processing, textiles and clothing, construction material
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 平均家庭支出
-- `on food`: 31.1% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 0.7% of household expenditures (2022 est.)
+- `餐食`: 31.1% of household expenditures (2022 est.)
+- `酒精和煙草`: 0.7% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 1.7% (2022 est.)
-- `highest 10%`: 35.7% (2022 est.)
+- `最低10%`: 1.7% (2022 est.)
+- `最高10%`: 35.7% (2022 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -483,8 +483,8 @@ medical equipment, food processing, textiles and clothing, construction material
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $20.224 billion (2022 est.)
-- `expenditures`: $19.799 billion (2022 est.)
+- `收入`: $20.224 billion (2022 est.)
+- `支出`: $19.799 billion (2022 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -549,35 +549,35 @@ $12.877 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 3.692 million kW (2022 est.)
-- `consumption`: 10.619 billion kWh (2022 est.)
-- `exports`: 773.979 million kWh (2022 est.)
-- `imports`: 54.231 million kWh (2022 est.)
-- `transmission/distribution losses`: 1.14 billion kWh (2022 est.)
+- `裝機容量`: 3.692 million kW (2022 est.)
+- `消費`: 10.619 billion kWh (2022 est.)
+- `出口`: 773.979 million kWh (2022 est.)
+- `進口`: 54.231 million kWh (2022 est.)
+- `傳輸／分配損耗`: 1.14 billion kWh (2022 est.)
 
 ### 發電來源
-- `solar`: 0.6% of total installed capacity (2022 est.)
-- `wind`: 11% of total installed capacity (2022 est.)
-- `hydroelectricity`: 75% of total installed capacity (2022 est.)
-- `geothermal`: 11.9% of total installed capacity (2022 est.)
-- `biomass and waste`: 1.5% of total installed capacity (2022 est.)
+- `太陽能`: 0.6% of total installed capacity (2022 est.)
+- `風能`: 11% of total installed capacity (2022 est.)
+- `水力發電`: 75% of total installed capacity (2022 est.)
+- `地熱`: 11.9% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 1.5% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `consumption`: 30,000 metric tons (2022 est.)
-- `exports`: (2022 est.) less than 1 metric ton
-- `imports`: 500 metric tons (2022 est.)
+- `消費`: 30,000 metric tons (2022 est.)
+- `出口`: (2022 est.) less than 1 metric ton
+- `進口`: 500 metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 400 bbl/day (2023 est.)
-- `refined petroleum consumption`: 62,000 bbl/day (2022 est.)
+- `總石油產量`: 400 bbl/day (2023 est.)
+- `成品油消費量`: 62,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 7.966 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 74,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 7.892 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 7.966 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 74,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 7.892 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 31.43 million Btu/person (2022 est.)
@@ -585,17 +585,17 @@ $12.877 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 492,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 9 (2022 est.)
+- `總訂閱數`: 492,000 (2022 est.)
+- `每100名居民訂閱數`: 9 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 7.876 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 152 (2022 est.)
+- `總訂閱數`: 7.876 million (2022 est.)
+- `每100名居民訂閱數`: 152 (2022 est.)
 
 ### 電信系統
-- `general assessment`: the fixed broadband market is one of the few parts of Costa Rica’s telecom sector to experience solid growth in recent years, both in size and revenue; the country’s fiber network expanded by 56% in 2020, reaching about 176,200km; fixed-line broadband traffic volume also increased by more than 30%, year-on-year;  other areas of the market have proven relatively lack luster, with slow or even negative growth; some of this can be attributed to the economic and social impacts of the pandemic, but the fixed-line and mobile sectors have both been struggling to produce decent results since well before the start of the crisis; the rollout of 5G network infrastructure in Costa Rica is unlikely to occur to any scale before 2023, but this may be one of the few remaining areas of opportunity open to investors outside of fixed-line internet and pay TV services (2021)
-- `domestic`: roughly 11 per 100 fixed-line and 152 per 100 mobile-cellular (2021)
-- `international`: country code - 506; landing points for the ARCOS-1, MAYA-1, and the PAC submarine cables that provide links to South and Central America, parts of the Caribbean, and the US; connected to Central American Microwave System; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)
+- `總體評估`: the fixed broadband market is one of the few parts of Costa Rica’s telecom sector to experience solid growth in recent years, both in size and revenue; the country’s fiber network expanded by 56% in 2020, reaching about 176,200km; fixed-line broadband traffic volume also increased by more than 30%, year-on-year;  other areas of the market have proven relatively lack luster, with slow or even negative growth; some of this can be attributed to the economic and social impacts of the pandemic, but the fixed-line and mobile sectors have both been struggling to produce decent results since well before the start of the crisis; the rollout of 5G network infrastructure in Costa Rica is unlikely to occur to any scale before 2023, but this may be one of the few remaining areas of opportunity open to investors outside of fixed-line internet and pay TV services (2021)
+- `國內`: roughly 11 per 100 fixed-line and 152 per 100 mobile-cellular (2021)
+- `國際的`: country code - 506; landing points for the ARCOS-1, MAYA-1, and the PAC submarine cables that provide links to South and Central America, parts of the Caribbean, and the US; connected to Central American Microwave System; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)
 
 ### 廣播媒體
 over two dozen privately owned TV stations and 1 publicly owned TV station nationwide; cable network services are widely available; more than 100 privately owned radio stations and a public radio network (2022)
@@ -604,20 +604,20 @@ over two dozen privately owned TV stations and 1 publicly owned TV station natio
 .cr
 
 ### 網際網路使用者
-- `total`: 4.316 million (2021 est.)
-- `percent of population`: 83% (2021 est.)
+- `總計`: 4.316 million (2021 est.)
+- `佔人口比例`: 83% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 992,725 (2020 est.)
-- `subscriptions per 100 inhabitants`: 20 (2020 est.)
+- `總計`: 992,725 (2020 est.)
+- `每100名居民訂閱數`: 20 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 1 (2020)
-- `inventory of registered aircraft operated by air carriers`: 39
-- `annual passenger traffic on registered air carriers`: 1,948,546 (2018)
-- `annual freight traffic on registered air carriers`: 11.13 million (2018) mt-km
+- `註冊航空公司數量`: 1 (2020)
+- `註冊飛機庫存—航空承運商經營`: 39
+- `年度客運量－註冊航空公司`: 1,948,546 (2018)
+- `年度貨運量－註冊航空公司`: 11.13 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 TI
@@ -632,28 +632,28 @@ TI
 662 km refined products (2013)
 
 ### 鐵路
-- `total`: 278 km (2014)
-- `narrow gauge`: 278 km (2014) 1.067-m gauge
+- `總計`: 278 km (2014)
+- `窄軌`: 278 km (2014) 1.067-m gauge
 **note**:  the entire rail network fell into disrepair and out of use at the end of the 20th century; since 2005, certain sections of rail have been rehabilitated
 
 ### 道路
-- `total`: 5,035 km (2017)
+- `總計`: 5,035 km (2017)
 
 ### 水道
 730 km (2011) (seasonally navigable by small craft)
 
 ### 商船
-- `total`: 11 (2023)
-- `by type`: other 11
+- `總計`: 11 (2023)
+- `依類型`: other 11
 
 ### 港口
-- `total ports`: 6 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 1
-- `very small`: 5
-- `ports with oil terminals`: 4
-- `key ports`: Golfito, Puerto Caldera, Puerto Limon, Puerto Moin, Puerto Quepos, Puntarenas
+- `總港口數`: 6 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 1
+- `非常小`: 5
+- `原油碼頭港口`: 4
+- `主要港口`: Golfito, Puerto Caldera, Puerto Limon, Puerto Moin, Puerto Quepos, Puntarenas
 
 ## 軍事和安全
 
@@ -689,8 +689,8 @@ has a small, recently established program focused on promoting the use of space 
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 29,405 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2023)
-- `stateless persons`: 192 (2022)
+- `難民（原籍國）`: 29,405 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2023)
+- `無國籍人士`: 192 (2022)
 
 ### 非法藥物
    Costa Rica remains a significant transshipment point for cocaine enroute to the United States from South America; a key transit point in international narcotics trafficking; transit and warehousing hub for illicit drug trafficking; growing domestic drug consumption problem; a major source of precursor or essential chemicals used in the production of illicit narcotics

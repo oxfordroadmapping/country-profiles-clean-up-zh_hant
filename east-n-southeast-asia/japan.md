@@ -19,24 +19,24 @@ Eastern Asia, island chain between the North Pacific Ocean and the Sea of Japan,
 Asia
 
 ### 面積
-- `total `: 377,915 sq km
-- `land`: 364,485 sq km
-- `water`: 13,430 sq km
+- `總計`: 377,915 sq km
+- `土地`: 364,485 sq km
+- `水`: 13,430 sq km
 **note**:  includes Bonin Islands (Ogasawara-gunto), Daito-shoto, Minami-jima, Okino-tori-shima, Ryukyu Islands (Nansei-shoto), and Volcano Islands (Kazan-retto)
 
 ### 面積—比較
 slightly smaller than California
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 29,751 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm; between 3 nm and 12 nm in the international straits - La Perouse or Soya, Tsugaru, Osumi, and the Korea and Tsushima Straits
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
+- `領海`: 12 nm; between 3 nm and 12 nm in the international straits - La Perouse or Soya, Tsugaru, Osumi, and the Korea and Tsushima Straits
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
 
 ### 氣候
 varies from tropical in south to cool temperate in north
@@ -45,27 +45,27 @@ varies from tropical in south to cool temperate in north
 mostly rugged and mountainous
 
 ### 海拔
-- `highest point`: Mount Fuji 3,776 m
-- `lowest point`: Hachiro-gata -4 m
-- `mean elevation`: 438 m
+- `最高點`: Mount Fuji 3,776 m
+- `最低點`: Hachiro-gata -4 m
+- `平均海拔`: 438 m
 
 ### 自然資源
 negligible mineral resources, fish 
 **note**:  with virtually no natural energy resources, Japan is almost totally dependent on imported sources of energy
 
 ### 土地利用
-- `agricultural land`: 12.5% (2018 est.)
-- `agricultural land: arable land`: arable land: 11.7% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.8% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
-- `forest`: 68.5% (2018 est.)
-- `other`: 19% (2018 est.)
+- `農地`: 12.5% (2018 est.)
+- `農地：耕地`: arable land: 11.7% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.8% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0% (2018 est.)
+- `森林`: 68.5% (2018 est.)
+- `其它`: 19% (2018 est.)
 
 ### 灌溉土地
 15,730 sq km (2014)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Biwa-ko 688 sq km
+- `淡水湖`: Biwa-ko 688 sq km
 
 ### 人口分布
 all primary and secondary regions of high population density lie on the coast; one-third of the population resides in and around Tokyo on the central plain (Kanto Plain)
@@ -79,13 +79,13 @@ many dormant and some active volcanoes; about 1,500 seismic occurrences (mostly 
 ## 人民和社會
 
 ### 人口
-- `total`: 123,201,945
-- `male`: 59,875,269
-- `female`: 63,326,676 (2024 est.)
+- `總計`: 123,201,945
+- `男性`: 59,875,269
+- `女性`: 63,326,676 (2024 est.)
 
 ### 國籍
-- `noun`: Japanese (singular and plural)
-- `adjective`: Japanese
+- `名詞`: Japanese (singular and plural)
+- `形容詞`: Japanese
 
 ### 族裔群體
 Japanese 97.5%, Chinese 0.6%, Vietnam 0.4%, South Korean 0.3%, other 1.2% (includes Filipino, Brazilian, Nepalese, Indonesian, American, and Taiwanese) (2022 est.)
@@ -93,27 +93,27 @@ Japanese 97.5%, Chinese 0.6%, Vietnam 0.4%, South Korean 0.3%, other 1.2% (inclu
 
 ### 語文
 Japanese
-- `major-language sample(s)`: 必要不可欠な基本情報の源、ワールド・ファクトブック(Japanese)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: 必要不可欠な基本情報の源、ワールド・ファクトブック(Japanese)  The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Shintoism 48.6%, Buddhism 46.4%, Christianity 1.1%, other 4% (2021 est.)
 **note**:  total adherents among persons claiming a religious affiliation
 
 ### 年齡結構
-- `0-14 years`: 12.1% (male 7,701,196/female 7,239,389)
-- `15-64 years`: 58.4% (male 36,197,840/female 35,777,966)
-- `65 years and over`: 29.5% (2024 est.) (male 15,976,233/female 20,309,321)
+- `0-14歲`: 12.1% (male 7,701,196/female 7,239,389)
+- `15-64歲`: 58.4% (male 36,197,840/female 35,777,966)
+- `65歲及以上`: 29.5% (2024 est.) (male 15,976,233/female 20,309,321)
 
 ### 撫養比率
-- `total dependency ratio`: 71.1
-- `youth dependency ratio`: 20.1
-- `elderly dependency ratio`: 51
-- `potential support ratio`: 2 (2021 est.)
+- `總受扶養人比率`: 71.1
+- `少年撫養比率`: 20.1
+- `老人撫養比率`: 51
+- `潛在支持率`: 2 (2021 est.)
 
 ### 年齡中位數
-- `total`: 49.9 years (2024 est.)
-- `male`: 48.3 years
-- `female`: 51.3 years
+- `總計`: 49.9 years (2024 est.)
+- `男性`: 48.3 years
+- `女性`: 51.3 years
 
 ### 人口成長率
 -0.43% (2024 est.)
@@ -131,18 +131,18 @@ Shintoism 48.6%, Buddhism 46.4%, Christianity 1.1%, other 4% (2021 est.)
 all primary and secondary regions of high population density lie on the coast; one-third of the population resides in and around Tokyo on the central plain (Kanto Plain)
 
 ### 都市化
-- `urban population`: 92% of total population (2023)
-- `rate of urbanization`: -0.25% annual rate of change (2020-25 est.)
+- `城市人口`: 92% of total population (2023)
+- `城鎮化率`: -0.25% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 37.194 million TOKYO (capital), 19.013 million Osaka, 9.569 million Nagoya, 5.490 million Kitakyushu-Fukuoka, 2.937 million Shizuoka-Hamamatsu, 2.666 million Sapporo (2023)
 
 ### 性別比例
-- `at birth`: 1.06 male(s)/female
-- `0-14 years`: 1.06 male(s)/female
-- `15-64 years`: 1.01 male(s)/female
-- `65 years and over`: 0.79 male(s)/female
-- `total population`: 0.95 male(s)/female (2024 est.)
+- `出生時`: 1.06 male(s)/female
+- `0-14歲`: 1.06 male(s)/female
+- `15-64歲`: 1.01 male(s)/female
+- `65歲及以上`: 0.79 male(s)/female
+- `總人口數`: 0.95 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 30.7 years (2018 est.)
@@ -151,14 +151,14 @@ all primary and secondary regions of high population density lie on the coast; o
 4 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 1.9 deaths/1,000 live births (2024 est.)
-- `male`: 2 deaths/1,000 live births
-- `female`: 1.7 deaths/1,000 live births
+- `總計`: 1.9 deaths/1,000 live births (2024 est.)
+- `男性`: 2 deaths/1,000 live births
+- `女性`: 1.7 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 85.2 years (2024 est.)
-- `male`: 82.3 years
-- `female`: 88.2 years
+- `總人口數`: 85.2 years (2024 est.)
+- `男性`: 82.3 years
+- `女性`: 88.2 years
 
 ### 總生育率
 1.4 children born/woman (2024 est.)
@@ -171,12 +171,12 @@ all primary and secondary regions of high population density lie on the coast; o
 **note**:  percent of women aged 20-49
 
 ### 飲用水來源
-- `improved: urban`: urban: NA
-- `improved: rural`: rural: NA
-- `improved: total`: total: 99.1% of population
-- `unimproved: urban`: urban: NA
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: 0.1% of population (2020 est.)
+- `已改進－城市`: urban: NA
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: 99.1% of population
+- `未改進：都市`: urban: NA
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: 0.1% of population (2020 est.)
 
 ### 當前醫療支出
 10.9% of GDP (2020)
@@ -188,27 +188,27 @@ all primary and secondary regions of high population density lie on the coast; o
 13 beds/1,000 population (2018)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: NA
-- `improved: rural`: rural: NA
-- `improved: total`: total: 99.9% of population
-- `unimproved: urban`: urban: NA
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: 0.1% of population (2020 est.)
+- `已改進－城市`: urban: NA
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: 99.9% of population
+- `未改進：都市`: urban: NA
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: 0.1% of population (2020 est.)
 
 ### 肥胖—成人流行率
 4.3% (2016)
 
 ### 人均酒精消費量
-- `total`: 8.36 liters of pure alcohol (2019 est.)
-- `beer`: 1.35 liters of pure alcohol (2019 est.)
-- `wine`: 0.29 liters of pure alcohol (2019 est.)
-- `spirits`: 1.63 liters of pure alcohol (2019 est.)
-- `other alcohols`: 5.09 liters of pure alcohol (2019 est.)
+- `總計`: 8.36 liters of pure alcohol (2019 est.)
+- `啤酒`: 1.35 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.29 liters of pure alcohol (2019 est.)
+- `烈酒`: 1.63 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 5.09 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 20.1% (2020 est.)
-- `male`: 30.1% (2020 est.)
-- `female`: 10% (2020 est.)
+- `總計`: 20.1% (2020 est.)
+- `男性`: 30.1% (2020 est.)
+- `女性`: 10% (2020 est.)
 
 ### 5歲以下體重不足兒童
 NA
@@ -220,14 +220,14 @@ NA
 3.4% of GDP (2020 est.)
 
 ### 識字程度
-- `total population`: NA
-- `male`: NA
-- `female`: NA
+- `總人口數`: NA
+- `男性`: NA
+- `女性`: NA
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 15 years
-- `male`: 15 years
-- `female`: 15 years (2019)
+- `總計`: 15 years
+- `男性`: 15 years
+- `女性`: 15 years (2019)
 
 ## 環境
 
@@ -235,23 +235,23 @@ NA
 air pollution from power plant emissions results in acid rain; acidification of lakes and reservoirs degrading water quality and threatening aquatic life; Japan is one of the largest consumers of fish and tropical timber, contributing to the depletion of these resources in Asia and elsewhere; following the 2011 Fukushima nuclear disaster, Japan originally planned to phase out nuclear power, but it has now implemented a new policy of seeking to restart nuclear power plants that meet strict new safety standards; waste management is an ongoing issue; Japanese municipal facilities used to burn high volumes of trash, but air pollution issues forced the government to adopt an aggressive recycling policy
 
 ### 環境—國際協定
-- `party to`: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 varies from tropical in south to cool temperate in north
 
 ### 土地利用
-- `agricultural land`: 12.5% (2018 est.)
-- `agricultural land: arable land`: arable land: 11.7% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.8% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
-- `forest`: 68.5% (2018 est.)
-- `other`: 19% (2018 est.)
+- `農地`: 12.5% (2018 est.)
+- `農地：耕地`: arable land: 11.7% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.8% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0% (2018 est.)
+- `森林`: 68.5% (2018 est.)
+- `其它`: 19% (2018 est.)
 
 ### 都市化
-- `urban population`: 92% of total population (2023)
-- `rate of urbanization`: -0.25% annual rate of change (2020-25 est.)
+- `城市人口`: 92% of total population (2023)
+- `城鎮化率`: -0.25% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.02% of GDP (2018 est.)
@@ -260,47 +260,47 @@ varies from tropical in south to cool temperate in north
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 10.84 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 1,135.89 megatons (2016 est.)
-- `methane emissions`: 29.99 megatons (2020 est.)
+- `顆粒物排放量`: 10.84 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 1,135.89 megatons (2016 est.)
+- `甲烷排放量`: 29.99 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 43.981 million tons (2015 est.)
-- `municipal solid waste recycled annually`: 2,155,069 tons (2015 est.)
-- `percent of municipal solid waste recycled`: 4.9% (2015 est.)
+- `城市固體廢棄物－每年產生`: 43.981 million tons (2015 est.)
+- `城市固體廢棄物－每年回收`: 2,155,069 tons (2015 est.)
+- `城市固體廢棄物－回收百分比`: 4.9% (2015 est.)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Biwa-ko 688 sq km
+- `淡水湖`: Biwa-ko 688 sq km
 
 ### 總取水量
-- `municipal`: 14.8 billion cubic meters (2020 est.)
-- `industrial`: 10.3 billion cubic meters (2020 est.)
-- `agricultural`: 53.3 billion cubic meters (2020 est.)
+- `市級`: 14.8 billion cubic meters (2020 est.)
+- `工業`: 10.3 billion cubic meters (2020 est.)
+- `農業`: 53.3 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 430 billion cubic meters (2020 est.)
 
 ### 地質公園
-- `total global geoparks and regional networks`: 10
-- `global geoparks and regional networks`: Aso UNESCO; Hakusan Tedorigawa; Itoigawa; Izu Peninsula; Mt. Apoi; Muroto; Oki Islands; San'in Kaigan; Toya - Usu; Unzen (2023)
+- `全球地質公園和區域網絡總數`: 10
+- `全球地質公園和區域網絡`: Aso UNESCO; Hakusan Tedorigawa; Itoigawa; Izu Peninsula; Mt. Apoi; Muroto; Oki Islands; San'in Kaigan; Toya - Usu; Unzen (2023)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Japan
-- `local long form`: Nihon-koku/Nippon-koku
-- `local short form`: Nihon/Nippon
-- `etymology`: the English word for Japan comes via the Chinese name for the country "Cipangu"; both Nihon and Nippon mean "where the sun originates" and are frequently translated as "Land of the Rising Sun"
+- `常用長名`: none
+- `常用短名`: Japan
+- `當地語長名`: Nihon-koku/Nippon-koku
+- `當地語短名`: Nihon/Nippon
+- `语源学`: the English word for Japan comes via the Chinese name for the country "Cipangu"; both Nihon and Nippon mean "where the sun originates" and are frequently translated as "Land of the Rising Sun"
 
 ### 政府類型
 parliamentary constitutional monarchy
 
 ### 首都
-- `name`: Tokyo
-- `geographic coordinates`: 35 41 N, 139 45 E
-- `time difference`: UTC+9 (14 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: originally known as Edo, meaning "estuary" in Japanese, the name was changed to Tokyo, meaning "eastern capital," in 1868
+- `名稱`: Tokyo
+- `地理坐標`: 35 41 N, 139 45 E
+- `時差`: UTC+9 (14 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: originally known as Edo, meaning "estuary" in Japanese, the name was changed to Tokyo, meaning "eastern capital," in 1868
 
 ### 行政區劃
 47 prefectures; Aichi, Akita, Aomori, Chiba, Ehime, Fukui, Fukuoka, Fukushima, Gifu, Gunma, Hiroshima, Hokkaido, Hyogo, Ibaraki, Ishikawa, Iwate, Kagawa, Kagoshima, Kanagawa, Kochi, Kumamoto, Kyoto, Mie, Miyagi, Miyazaki, Nagano, Nagasaki, Nara, Niigata, Oita, Okayama, Okinawa, Osaka, Saga, Saitama, Shiga, Shimane, Shizuoka, Tochigi, Tokushima, Tokyo, Tottori, Toyama, Wakayama, Yamagata, Yamaguchi, Yamanashi
@@ -315,37 +315,37 @@ Birthday of Emperor NARUHITO, 23 February (1960); note - celebrates the birthday
 civil law system based on German model; system also reflects Anglo-American influence and Japanese traditions; judicial review of legislative acts in the Supreme Court
 
 ### 憲法
-- `history`: previous 1890; latest approved 6 October 1946, adopted 3 November 1946, effective 3 May 1947
-- `amendments`: proposed by the Diet; passage requires approval by at least two-thirds majority of both houses of the Diet and approval by majority in a referendum; note - the constitution has not been amended since its enactment in 1947
+- `歷史`: previous 1890; latest approved 6 October 1946, adopted 3 November 1946, effective 3 May 1947
+- `修正`: proposed by the Diet; passage requires approval by at least two-thirds majority of both houses of the Diet and approval by majority in a referendum; note - the constitution has not been amended since its enactment in 1947
 
 ### 國際法組織參與
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Japan
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 5 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Japan
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 5 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: Emperor NARUHITO (since 1 May 2019)
-- `head of government`: Prime Minister Shigeru ISHIBA (since 1 October 2024)
-- `cabinet`: Cabinet appointed by the prime minister
-- `elections/appointments`: the monarchy is hereditary; the leader of the majority party or majority coalition in the House of Representatives usually becomes prime minister
-- `election results`: *2024: *Shigeru ISHIBA (LDP) elected prime minister on 27 September 2024; upper house vote - 143 of 242 votes; lower house vote - 291 of 461 votes (note - ISHIBA resigned as prime minister on 11 November 2024 following parliamentary elections but was re-elected over Yoshihiko NODA (CDP) in the second round of voting in the lower house, 221-160)  *2021:* Fumio KISHIDA reelected prime minister on 10 November 2021; upper house vote - Fumio KISHIDA (LDP) 141, Yukio EDANO (CDP) 60; lower house vote - Fumio KISHIDA 297, Yukio EDANO 108
+- `國家元首`: Emperor NARUHITO (since 1 May 2019)
+- `政府首腦`: Prime Minister Shigeru ISHIBA (since 1 October 2024)
+- `内閣`: Cabinet appointed by the prime minister
+- `選舉/任命`: the monarchy is hereditary; the leader of the majority party or majority coalition in the House of Representatives usually becomes prime minister
+- `選舉結果`: *2024: *Shigeru ISHIBA (LDP) elected prime minister on 27 September 2024; upper house vote - 143 of 242 votes; lower house vote - 291 of 461 votes (note - ISHIBA resigned as prime minister on 11 November 2024 following parliamentary elections but was re-elected over Yoshihiko NODA (CDP) in the second round of voting in the lower house, 221-160)  *2021:* Fumio KISHIDA reelected prime minister on 10 November 2021; upper house vote - Fumio KISHIDA (LDP) 141, Yukio EDANO (CDP) 60; lower house vote - Fumio KISHIDA 297, Yukio EDANO 108
 
 ### 立法部門
-- `description`: bicameral National Diet or Kokkai consists of:House of Councilors or Sangi-in (248 seats; 148 members directly elected in multi-seat districts by simple majority vote and 100 directly elected in a single national constituency by proportional representation vote; members serve 6-year terms with half the membership renewed every 3 years)  House of Representatives or Shuugi-in (465 seats; 289 members directly elected in single-seat districts by simple majority vote and 176 directly elected in multi-seat districts by party-list proportional representation vote; members serve up to 4-year terms)
-- `elections`: House of Councillors - last held on 10 July 2022 (next to be held in July 2025)House of Representatives - last held on 27 October 2024 (next to be held by October 2025)
-- `election results`: House of Councillors - percent of vote by party - NA; seats by party/grouping as of January 2024 - LDP 116, CDP-SDP 40, Komeito 27, JCP 11, Ishin 21, DPP 11, Reiwa 5, OW 2, NHK 2, independent 12; composition - men 182, women 66; percentage women 26.6%  House of Representatives - percent of vote by party - LDP 26.7%, CDP 21.2%, Ishin 9.4%, DPP 11.3%, Komeito 10.9%, Reiwa 7%, JCP 6.2%, Sanseito Party 3.4%, CPJ 2.1%; seats by party as of October 2024 - LDP 191, CDP 148, Ishin 38, DPP 28, Komeito 24, Reiwa 9, JCP 8, Sanseito Party 3, CPJ 3, SDP 1, Independents 12 ; composition - men 392 men, women 73; percentage women 15.7%
+- `描述`: bicameral National Diet or Kokkai consists of:House of Councilors or Sangi-in (248 seats; 148 members directly elected in multi-seat districts by simple majority vote and 100 directly elected in a single national constituency by proportional representation vote; members serve 6-year terms with half the membership renewed every 3 years)  House of Representatives or Shuugi-in (465 seats; 289 members directly elected in single-seat districts by simple majority vote and 176 directly elected in multi-seat districts by party-list proportional representation vote; members serve up to 4-year terms)
+- `選舉`: House of Councillors - last held on 10 July 2022 (next to be held in July 2025)House of Representatives - last held on 27 October 2024 (next to be held by October 2025)
+- `選舉結果`: House of Councillors - percent of vote by party - NA; seats by party/grouping as of January 2024 - LDP 116, CDP-SDP 40, Komeito 27, JCP 11, Ishin 21, DPP 11, Reiwa 5, OW 2, NHK 2, independent 12; composition - men 182, women 66; percentage women 26.6%  House of Representatives - percent of vote by party - LDP 26.7%, CDP 21.2%, Ishin 9.4%, DPP 11.3%, Komeito 10.9%, Reiwa 7%, JCP 6.2%, Sanseito Party 3.4%, CPJ 2.1%; seats by party as of October 2024 - LDP 191, CDP 148, Ishin 38, DPP 28, Komeito 24, Reiwa 9, JCP 8, Sanseito Party 3, CPJ 3, SDP 1, Independents 12 ; composition - men 392 men, women 73; percentage women 15.7%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court or Saiko saibansho (consists of the chief justice and 14 associate justices); note - the Supreme Court has jurisdiction in constitutional issues
-- `judge selection and term of office`: Supreme Court chief justice designated by the Cabinet and appointed by the monarch; associate justices appointed by the Cabinet and confirmed by the monarch; all justices are reviewed in a popular referendum at the first general election of the House of Representatives following each judge's appointment and every 10 years afterward
-- `subordinate courts`: 8 High Courts (Koto-saiban-sho), each with a Family Court (Katei-saiban-sho); 50 District Courts (Chiho saibansho), with 203 additional branches; 438 Summary Courts (Kani saibansho)
+- `最高法院`: Supreme Court or Saiko saibansho (consists of the chief justice and 14 associate justices); note - the Supreme Court has jurisdiction in constitutional issues
+- `法官遴選和任期`: Supreme Court chief justice designated by the Cabinet and appointed by the monarch; associate justices appointed by the Cabinet and confirmed by the monarch; all justices are reviewed in a popular referendum at the first general election of the House of Representatives following each judge's appointment and every 10 years afterward
+- `下級法院`: 8 High Courts (Koto-saiban-sho), each with a Family Court (Katei-saiban-sho); 50 District Courts (Chiho saibansho), with 203 additional branches; 438 Summary Courts (Kani saibansho)
 
 ### 政黨
 Conservative Party of Japan or CPJConstitutional Democratic Party of Japan or CDP Democratic Party for the People or DPFP or DPP Japan Communist Party or JCP Japan Innovation Party or Nippon Ishin no kai or Ishin Komeito or KomeiLiberal Democratic Party or LDP Okinawa Social Mass Party or Okinawa Whirlwind or OWParty to Protect the People from NHK or NHKReiwa Shinsengumi Sanseito PartySocial Democratic Party or SDP
@@ -354,23 +354,23 @@ Conservative Party of Japan or CPJConstitutional Democratic Party of Japan or CD
 ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CD, CE (observer), CERN (observer), CICA (observer), CP, CPLP (associate), EAS, EBRD, EITI (implementing country), FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Quad, SAARC (observer), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMISS, UNOOSA, UNRWA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador YAMADA Shigeo (since 27 February 2024)
-- `chancery`: 2520 Massachusetts Avenue NW, Washington, DC 20008
-- `telephone`: [1] (202) 238-6700
+- `外交代表負責人`: Ambassador YAMADA Shigeo (since 27 February 2024)
+- `衡平法院（在美國）`: 2520 Massachusetts Avenue NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 238-6700
 - `FAX`: [1] (202) 328-2187
-- `email address and website`: emb-consulate.dc@ws.mofa.go.jp  https://www.us.emb-japan.go.jp/itprtop_en/index.html
-- `consulate(s) general`: Chicago
-- `consulate(s)`: Anchorage (AK), Atlanta, Boston, Denver (CO), Detroit (MI), Hagatna (Guam), Honolulu, Houston, Los Angeles, Miami, Nashville (TN), New York, Portland (OR), San Francisco, Saipan (Northern Mariana Islands), Seattle (WA)
+- `電子郵件地址和網站`: emb-consulate.dc@ws.mofa.go.jp  https://www.us.emb-japan.go.jp/itprtop_en/index.html
+- `總領事館`: Chicago
+- `領事館`: Anchorage (AK), Atlanta, Boston, Denver (CO), Detroit (MI), Hagatna (Guam), Honolulu, Houston, Los Angeles, Miami, Nashville (TN), New York, Portland (OR), San Francisco, Saipan (Northern Mariana Islands), Seattle (WA)
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Rahm EMANUEL (since 25 March 2022)
-- `embassy`: 1-10-5 Akasaka, Minato-ku, Tokyo 107-8420
-- `mailing address`: 9800 Tokyo Place, Washington DC  20521-9800
-- `telephone`: [81] (03) 3224-5000
+- `外交代表負責人`: Ambassador Rahm EMANUEL (since 25 March 2022)
+- `大使館`: 1-10-5 Akasaka, Minato-ku, Tokyo 107-8420
+- `郵寄地址`: 9800 Tokyo Place, Washington DC  20521-9800
+- `電話號碼`: [81] (03) 3224-5000
 - `FAX`: [81] (03) 3224-5856
-- `email address and website`: TokyoACS@state.gov  https://jp.usembassy.gov/
-- `consulate(s) general`: Naha (Okinawa), Osaka-Kobe, Sapporo
-- `consulate(s)`: Fukuoka, Nagoya
+- `電子郵件地址和網站`: TokyoACS@state.gov  https://jp.usembassy.gov/
+- `總領事館`: Naha (Okinawa), Osaka-Kobe, Sapporo
+- `領事館`: Fukuoka, Nagoya
 
 ### 旗幟說明
 white with a large red disk (representing the sun without rays) in the center
@@ -379,8 +379,8 @@ white with a large red disk (representing the sun without rays) in the center
 red sun disc, chrysanthemum; national colors: red, white
 
 ### 國歌
-- `name`: "Kimigayo" (The Emperor's Reign)
-- `lyrics/music`: unknown/Hiromori HAYASHI
+- `名稱`: "Kimigayo" (The Emperor's Reign)
+- `歌詞／音樂`: unknown/Hiromori HAYASHI
 **note**:  adopted 1999; unofficial national anthem since 1883; oldest anthem lyrics in the world, dating to the 10th century or earlier; there is some opposition to the anthem because of its association with militarism and worship of the emperor
 
 ### 國家級遺產
@@ -427,18 +427,18 @@ $4.213 trillion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 1% (2022 est.)
-- `industry`: 26.9% (2022 est.)
-- `services`: 71.4% (2022 est.)
+- `農業`: 1% (2022 est.)
+- `產業`: 26.9% (2022 est.)
+- `服務`: 71.4% (2022 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 55.6% (2022 est.)
-- `government consumption`: 21.6% (2022 est.)
-- `investment in fixed capital`: 26% (2022 est.)
-- `investment in inventories`: 0.6% (2022 est.)
-- `exports of goods and services`: 21.5% (2022 est.)
-- `imports of goods and services`: -25.3% (2022 est.)
+- `家庭消費`: 55.6% (2022 est.)
+- `政府消費`: 21.6% (2022 est.)
+- `固定資本投資`: 26% (2022 est.)
+- `存貨投資`: 0.6% (2022 est.)
+- `商品和服務出口`: 21.5% (2022 est.)
+- `商品和服務進口`: -25.3% (2022 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -463,14 +463,14 @@ motor vehicles, electronic equipment, machine tools, steel and nonferrous metals
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 4.1% (2023 est.)
-- `male`: 4.5% (2023 est.)
-- `female`: 3.7% (2023 est.)
+- `總計`: 4.1% (2023 est.)
+- `男性`: 4.5% (2023 est.)
+- `女性`: 3.7% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 平均家庭支出
-- `on food`: 16.3% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 2.7% of household expenditures (2022 est.)
+- `餐食`: 16.3% of household expenditures (2022 est.)
+- `酒精和煙草`: 2.7% of household expenditures (2022 est.)
 
 ### 匯款
 0.13% of GDP (2023 est.)
@@ -479,8 +479,8 @@ motor vehicles, electronic equipment, machine tools, steel and nonferrous metals
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $661.986 billion (2022 est.)
-- `expenditures`: $892.184 billion (2022 est.)
+- `收入`: $661.986 billion (2022 est.)
+- `支出`: $892.184 billion (2022 est.)
 **note**: central government revenues and expenses (excluding grants and social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -541,21 +541,21 @@ $1.406 trillion (2021 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 349.94 million kW (2022 est.)
-- `consumption`: 939.314 billion kWh (2022 est.)
-- `transmission/distribution losses`: 52.053 billion kWh (2022 est.)
+- `裝機容量`: 349.94 million kW (2022 est.)
+- `消費`: 939.314 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 52.053 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 71.7% of total installed capacity (2022 est.)
-- `nuclear`: 5.2% of total installed capacity (2022 est.)
-- `solar`: 9.4% of total installed capacity (2022 est.)
-- `wind`: 1% of total installed capacity (2022 est.)
-- `hydroelectricity`: 6.8% of total installed capacity (2022 est.)
-- `geothermal`: 0.3% of total installed capacity (2022 est.)
-- `biomass and waste`: 5.6% of total installed capacity (2022 est.)
+- `石化燃料`: 71.7% of total installed capacity (2022 est.)
+- `核能`: 5.2% of total installed capacity (2022 est.)
+- `太陽能`: 9.4% of total installed capacity (2022 est.)
+- `風能`: 1% of total installed capacity (2022 est.)
+- `水力發電`: 6.8% of total installed capacity (2022 est.)
+- `地熱`: 0.3% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 5.6% of total installed capacity (2022 est.)
 
 ### 核能
 - `Number of operational nuclear reactors`: 12 (2023)
@@ -565,29 +565,29 @@ $1.406 trillion (2021 est.)
 - `Number of nuclear reactors permanently shut down`: 27 (2023)
 
 ### 煤炭
-- `production`: 29.141 million metric tons (2022 est.)
-- `consumption`: 216.332 million metric tons (2022 est.)
-- `exports`: 917,000 metric tons (2022 est.)
-- `imports`: 191.092 million metric tons (2022 est.)
-- `proven reserves`: 350 million metric tons (2022 est.)
+- `生產`: 29.141 million metric tons (2022 est.)
+- `消費`: 216.332 million metric tons (2022 est.)
+- `出口`: 917,000 metric tons (2022 est.)
+- `進口`: 191.092 million metric tons (2022 est.)
+- `探明儲量`: 350 million metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 8,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 3.289 million bbl/day (2023 est.)
-- `crude oil estimated reserves`: 44.115 million barrels (2021 est.)
+- `總石油產量`: 8,000 bbl/day (2023 est.)
+- `成品油消費量`: 3.289 million bbl/day (2023 est.)
+- `原油儲備量估值`: 44.115 million barrels (2021 est.)
 
 ### 天然氣
-- `production`: 2.22 billion cubic meters (2022 est.)
-- `consumption`: 92.843 billion cubic meters (2022 est.)
-- `exports`: 271.607 million cubic meters (2022 est.)
-- `imports`: 92.567 billion cubic meters (2022 est.)
-- `proven reserves`: 20.898 billion cubic meters (2021 est.)
+- `生產`: 2.22 billion cubic meters (2022 est.)
+- `消費`: 92.843 billion cubic meters (2022 est.)
+- `出口`: 271.607 million cubic meters (2022 est.)
+- `進口`: 92.567 billion cubic meters (2022 est.)
+- `探明儲量`: 20.898 billion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 1.049 billion metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 442.647 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 406.998 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 199.783 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 1.049 billion metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 442.647 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 406.998 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 199.783 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 136.122 million Btu/person (2022 est.)
@@ -595,17 +595,17 @@ $1.406 trillion (2021 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 60.721 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 49 (2022 est.)
+- `總訂閱數`: 60.721 million (2022 est.)
+- `每100名居民訂閱數`: 49 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 207.648 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 168 (2022 est.)
+- `總訂閱數`: 207.648 million (2022 est.)
+- `每100名居民訂閱數`: 168 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Japan has one of the best developed telecom markets globally, the fixed-line segment remains stagnant and the focus for growth is in the mobile sector; the MNOs have shifted their investment from LTE to 5G, and growth in 5G showed early promise although there have been recent setbacks; these have partly been attributed to the economic difficulties, the impact of restrictions imposed during the pandemic, and unfavorable investment climate (not helped by the delay of the Tokyo Olympics from 2020 to 2021), and to restrictions in the supply of 5G-enabled devices; the fixed broadband market is dominated by fiber, with a strong cable platform also evident; fiber will continue to increase its share of the fixed broadband market, largely at the expense of DSL; the mobile market is dominated by three MNOs, mobile broadband subscriber growth is expected to be relatively low over the next five years, partly due to the high existing subscriptions though growth has been stimulated by measures which have encouraged people to school and work from home; there has also been a boost in accessing entertainment via mobile devices since 2020 (2021)
-- `domestic`: 49 per 100 for fixed-line and 161 per 100 for mobile-cellular subscriptions (2021)
-- `international`: country code - 81; numerous submarine cables with landing points for HSCS, JIH, RJCN, APCN-2, JUS, EAC-C2C, PC-1, Tata TGN-Pacific, FLAG North Asia Loop/REACH North Asia Loop, APCN-2, FASTER, SJC, SJC2, Unity/EAC-Pacific, JGA-N, APG, ASE, AJC, JUPITER, MOC, Okinawa Cellular Cable, KJCN, GOKI, KJCN, and SeaMeWE-3, submarine cables provide links throughout Asia, Australia, the Middle East, Europe, Southeast Asia, Africa and US; satellite earth stations - 7 Intelsat (Pacific and Indian Oceans), 1 Intersputnik (Indian Ocean region), 2 Inmarsat (Pacific and Indian Ocean regions), and 8 SkyPerfect JSAT (2019)
+- `總體評估`: Japan has one of the best developed telecom markets globally, the fixed-line segment remains stagnant and the focus for growth is in the mobile sector; the MNOs have shifted their investment from LTE to 5G, and growth in 5G showed early promise although there have been recent setbacks; these have partly been attributed to the economic difficulties, the impact of restrictions imposed during the pandemic, and unfavorable investment climate (not helped by the delay of the Tokyo Olympics from 2020 to 2021), and to restrictions in the supply of 5G-enabled devices; the fixed broadband market is dominated by fiber, with a strong cable platform also evident; fiber will continue to increase its share of the fixed broadband market, largely at the expense of DSL; the mobile market is dominated by three MNOs, mobile broadband subscriber growth is expected to be relatively low over the next five years, partly due to the high existing subscriptions though growth has been stimulated by measures which have encouraged people to school and work from home; there has also been a boost in accessing entertainment via mobile devices since 2020 (2021)
+- `國內`: 49 per 100 for fixed-line and 161 per 100 for mobile-cellular subscriptions (2021)
+- `國際的`: country code - 81; numerous submarine cables with landing points for HSCS, JIH, RJCN, APCN-2, JUS, EAC-C2C, PC-1, Tata TGN-Pacific, FLAG North Asia Loop/REACH North Asia Loop, APCN-2, FASTER, SJC, SJC2, Unity/EAC-Pacific, JGA-N, APG, ASE, AJC, JUPITER, MOC, Okinawa Cellular Cable, KJCN, GOKI, KJCN, and SeaMeWE-3, submarine cables provide links throughout Asia, Australia, the Middle East, Europe, Southeast Asia, Africa and US; satellite earth stations - 7 Intelsat (Pacific and Indian Oceans), 1 Intersputnik (Indian Ocean region), 2 Inmarsat (Pacific and Indian Ocean regions), and 8 SkyPerfect JSAT (2019)
 
 ### 廣播媒體
 a mixture of public and commercial broadcast TV and radio stations; 5 national terrestrial TV networks including 1 public broadcaster; the large number of radio and TV stations available provide a wide range of choices; satellite and cable services provide access to international channels (2023)
@@ -614,20 +614,20 @@ a mixture of public and commercial broadcast TV and radio stations; 5 national t
 .jp
 
 ### 網際網路使用者
-- `total`: 99.6 million (2021 est.)
-- `percent of population`: 83% (2021 est.)
+- `總計`: 99.6 million (2021 est.)
+- `佔人口比例`: 83% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 44,000,791 (2020 est.)
-- `subscriptions per 100 inhabitants`: 35 (2020 est.)
+- `總計`: 44,000,791 (2020 est.)
+- `每100名居民訂閱數`: 35 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 22 (2020)
-- `inventory of registered aircraft operated by air carriers`: 673
-- `annual passenger traffic on registered air carriers`: 126,387,527 (2018)
-- `annual freight traffic on registered air carriers`: 9,420,660,000 (2018) mt-km
+- `註冊航空公司數量`: 22 (2020)
+- `註冊飛機庫存—航空承運商經營`: 673
+- `年度客運量－註冊航空公司`: 126,387,527 (2018)
+- `年度貨運量－註冊航空公司`: 9,420,660,000 (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 JA
@@ -642,33 +642,33 @@ JA
 4,456 km gas, 174 km oil, 104 km oil/gas/water (2013)
 
 ### 鐵路
-- `total`: 27,311 km (2015)
-- `standard gauge`: 4,800 km (2015) 1.435-m gauge (4,800 km electrified)
-- `narrow gauge`: 124 km (2015) 1.372-m gauge (124 km electrified)
-- `dual gauge`: 132 km (2015) 1.435-1.067-m gauge (132 km electrified)
+- `總計`: 27,311 km (2015)
+- `標準鐵軌`: 4,800 km (2015) 1.435-m gauge (4,800 km electrified)
+- `窄軌`: 124 km (2015) 1.372-m gauge (124 km electrified)
+- `雙軌`: 132 km (2015) 1.435-1.067-m gauge (132 km electrified)
 22,207 km 1.067-mm gauge (15,430 km electrified)48 km 0.762-m gauge (48 km electrified)
 
 ### 道路
-- `total`: 1,218,772 km
-- `paved`: 992,835 km (includes 8,428 km of expressways)
-- `unpaved`: 225,937 km (2015)
+- `總計`: 1,218,772 km
+- `已鋪砌`: 992,835 km (includes 8,428 km of expressways)
+- `未鋪砌`: 225,937 km (2015)
 
 ### 水道
 1,770 km (2010) (seagoing vessels use inland seas)
 
 ### 商船
-- `total`: 5,229 (2023)
-- `by type`: bulk carrier 166, container ship 49, general cargo 1,893, oil tanker 666, other 2,455
+- `總計`: 5,229 (2023)
+- `依類型`: bulk carrier 166, container ship 49, general cargo 1,893, oil tanker 666, other 2,455
 
 ### 港口
-- `total ports`: 163 (2024)
-- `large`: 11
-- `medium`: 26
-- `small`: 54
-- `very small`: 71
-- `size unknown`: 1
-- `ports with oil terminals`: 99
-- `key ports`: Kawasaki Ko, Kobe, Mikawa, Nagasaki, Nagoya Ko, Onomichi-Itozaki, Osaka, Tokyo Ko, Wakamatsu Ko, Wakayama-Shimotsu Ko, Yokohama Ko
+- `總港口數`: 163 (2024)
+- `大`: 11
+- `中`: 26
+- `小`: 54
+- `非常小`: 71
+- `未知大小`: 1
+- `原油碼頭港口`: 99
+- `主要港口`: Kawasaki Ko, Kobe, Mikawa, Nagasaki, Nagoya Ko, Onomichi-Itozaki, Osaka, Tokyo Ko, Wakamatsu Ko, Wakayama-Shimotsu Ko, Yokohama Ko
 
 ## 軍事和安全
 
@@ -717,5 +717,5 @@ has one of the world’s largest and most advanced space programs with independe
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `stateless persons`: 531 (2022)
+- `無國籍人士`: 531 (2022)
 

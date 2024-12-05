@@ -19,24 +19,24 @@ Middle East, island in the Mediterranean Sea, south of Turkey; note - Cyprus vie
 Middle East
 
 ### 面積
-- `total `: 9,251 sq km (of which 3,355 sq km are in north Cyprus)
-- `land`: 9,241 sq km
-- `water`: 10 sq km
+- `總計`: 9,251 sq km (of which 3,355 sq km are in north Cyprus)
+- `土地`: 9,241 sq km
+- `水`: 10 sq km
 
 ### 面積—比較
 about 0.6 times the size of Connecticut
 
 ### 陸地邊界
-- `total`: 156 km
-- `border sovereign base areas`: Akrotiri 48 km; Dhekelia 108 km
+- `總計`: 156 km
+- `邊界主權基地區`: Akrotiri 48 km; Dhekelia 108 km
 
 ### 海岸線
 648 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `continental shelf`: 200-m depth or to the depth of exploitation
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `大陸架`: 200-m depth or to the depth of exploitation
 
 ### 氣候
 temperate; Mediterranean with hot, dry summers and cool winters
@@ -45,20 +45,20 @@ temperate; Mediterranean with hot, dry summers and cool winters
 central plain with mountains to north and south; scattered but significant plains along southern coast
 
 ### 海拔
-- `highest point`: Mount Olympus 1,951 m
-- `lowest point`: Mediterranean Sea 0 m
-- `mean elevation`: 91 m
+- `最高點`: Mount Olympus 1,951 m
+- `最低點`: Mediterranean Sea 0 m
+- `平均海拔`: 91 m
 
 ### 自然資源
 copper, pyrites, asbestos, gypsum, timber, salt, marble, clay earth pigment
 
 ### 土地利用
-- `agricultural land`: 13.4% (2018 est.)
-- `agricultural land: arable land`: arable land: 9.8% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 3.2% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0.4% (2018 est.)
-- `forest`: 18.8% (2018 est.)
-- `other`: 67.8% (2018 est.)
+- `農地`: 13.4% (2018 est.)
+- `農地：耕地`: arable land: 9.8% (2018 est.)
+- `農地：永久性作物`: permanent crops: 3.2% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0.4% (2018 est.)
+- `森林`: 18.8% (2018 est.)
+- `其它`: 67.8% (2018 est.)
 
 ### 灌溉土地
 268 sq km (2020)
@@ -75,13 +75,13 @@ the third largest island in the Mediterranean Sea (after Sicily and Sardinia); s
 ## 人民和社會
 
 ### 人口
-- `total`: 1,320,525
-- `male`: 675,196
-- `female`: 645,329 (2024 est.)
+- `總計`: 1,320,525
+- `男性`: 675,196
+- `女性`: 645,329 (2024 est.)
 
 ### 國籍
-- `noun`: Cypriot(s)
-- `adjective`: Cypriot
+- `名詞`: Cypriot(s)
+- `形容詞`: Cypriot
 
 ### 族裔群體
 Greek 98.8%, other 1% (includes Maronite, Armenian, Turkish-Cypriot), unspecified 0.2% (2011 est.)
@@ -89,7 +89,7 @@ Greek 98.8%, other 1% (includes Maronite, Armenian, Turkish-Cypriot), unspecifie
 
 ### 語文
 Greek (official) 80.9%, Turkish (official) 0.2%, English 4.1%, Romanian 2.9%, Russian 2.5%, Bulgarian 2.2%, Arabic 1.2%, Filipino 1.1%, other 4.3%, unspecified 0.6%  (2011 est.)
-- `major-language sample(s)`: Το Παγκόσμιο Βιβλίο Δεδομένων, η απαραίτητη πηγή βασικών πληροφοριών. (Greek)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: Το Παγκόσμιο Βιβλίο Δεδομένων, η απαραίτητη πηγή βασικών πληροφοριών. (Greek)  The World Factbook, the indispensable source for basic information.
 **note**:  data represent only the Republic of Cyprus
 
 ### 宗教
@@ -97,21 +97,21 @@ Eastern Orthodox Christian 89.1%, Roman Catholic 2.9%, Protestant/Anglican 2%, M
 **note**:  data represent only the government-controlled area of Cyprus
 
 ### 年齡結構
-- `0-14 years`: 15.6% (male 105,533/female 100,099)
-- `15-64 years`: 70% (male 486,569/female 437,651)
-- `65 years and over`: 14.4% (2024 est.) (male 83,094/female 107,579)
+- `0-14歲`: 15.6% (male 105,533/female 100,099)
+- `15-64歲`: 70% (male 486,569/female 437,651)
+- `65歲及以上`: 14.4% (2024 est.) (male 83,094/female 107,579)
 
 ### 撫養比率
-- `total dependency ratio`: 43.8
-- `youth dependency ratio`: 23
-- `elderly dependency ratio`: 20.8
-- `potential support ratio`: 4.8 (2021 est.)
+- `總受扶養人比率`: 43.8
+- `少年撫養比率`: 23
+- `老人撫養比率`: 20.8
+- `潛在支持率`: 4.8 (2021 est.)
 **note**:  data represent the whole country
 
 ### 年齡中位數
-- `total`: 39.5 years (2024 est.)
-- `male`: 38.2 years
-- `female`: 41 years
+- `總計`: 39.5 years (2024 est.)
+- `男性`: 38.2 years
+- `女性`: 41 years
 
 ### 人口成長率
 0.95% (2024 est.)
@@ -129,18 +129,18 @@ Eastern Orthodox Christian 89.1%, Roman Catholic 2.9%, Protestant/Anglican 2%, M
 population concentrated in central Nicosia and in the major cities of the south: Paphos, Limassol, and Larnaca
 
 ### 都市化
-- `urban population`: 67% of total population (2023)
-- `rate of urbanization`: 0.76% annual rate of change (2020-25 est.)
+- `城市人口`: 67% of total population (2023)
+- `城鎮化率`: 0.76% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 269,000 NICOSIA (capital) (2018)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.05 male(s)/female
-- `15-64 years`: 1.11 male(s)/female
-- `65 years and over`: 0.77 male(s)/female
-- `total population`: 1.05 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.05 male(s)/female
+- `15-64歲`: 1.11 male(s)/female
+- `65歲及以上`: 0.77 male(s)/female
+- `總人口數`: 1.05 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 30 years (2020 est.)
@@ -150,14 +150,14 @@ population concentrated in central Nicosia and in the major cities of the south:
 68 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 8.1 deaths/1,000 live births (2024 est.)
-- `male`: 9.7 deaths/1,000 live births
-- `female`: 6.4 deaths/1,000 live births
+- `總計`: 8.1 deaths/1,000 live births (2024 est.)
+- `男性`: 9.7 deaths/1,000 live births
+- `女性`: 6.4 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 80.2 years (2024 est.)
-- `male`: 77.4 years
-- `female`: 83.1 years
+- `總人口數`: 80.2 years (2024 est.)
+- `男性`: 77.4 years
+- `女性`: 83.1 years
 
 ### 總生育率
 1.49 children born/woman (2024 est.)
@@ -169,12 +169,12 @@ population concentrated in central Nicosia and in the major cities of the south:
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: 99.7% of population
-- `improved: rural`: rural: 99.8% of population
-- `improved: total`: total: 99.8% of population
-- `unimproved: urban`: urban: 0.3% of population
-- `unimproved: rural`: rural: 0.2% of population
-- `unimproved: total`: total: 0.2% of population (2020 est.)
+- `已改進－城市`: urban: 99.7% of population
+- `已改進－農村`: rural: 99.8% of population
+- `已改進－總計`: total: 99.8% of population
+- `未改進：都市`: urban: 0.3% of population
+- `未改進：鄉村`: rural: 0.2% of population
+- `未改善：總計`: total: 0.2% of population (2020 est.)
 
 ### 當前醫療支出
 8.1% of GDP (2020)
@@ -186,27 +186,27 @@ NA
 3.4 beds/1,000 population (2017)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 99.7% of population
-- `improved: rural`: rural: 98.8% of population
-- `improved: total`: total: 99.4% of population
-- `unimproved: urban`: urban: 0.3% of population
-- `unimproved: rural`: rural: 1.2% of population
-- `unimproved: total`: total: 0.6% of population (2020 est.)
+- `已改進－城市`: urban: 99.7% of population
+- `已改進－農村`: rural: 98.8% of population
+- `已改進－總計`: total: 99.4% of population
+- `未改進：都市`: urban: 0.3% of population
+- `未改進：鄉村`: rural: 1.2% of population
+- `未改善：總計`: total: 0.6% of population (2020 est.)
 
 ### 肥胖—成人流行率
 21.8% (2016)
 
 ### 人均酒精消費量
-- `total`: 9.59 liters of pure alcohol (2019 est.)
-- `beer`: 2.85 liters of pure alcohol (2019 est.)
-- `wine`: 2.72 liters of pure alcohol (2019 est.)
-- `spirits`: 4.02 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 9.59 liters of pure alcohol (2019 est.)
+- `啤酒`: 2.85 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 2.72 liters of pure alcohol (2019 est.)
+- `烈酒`: 4.02 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 35.1% (2020 est.)
-- `male`: 47% (2020 est.)
-- `female`: 23.2% (2020 est.)
+- `總計`: 35.1% (2020 est.)
+- `男性`: 47% (2020 est.)
+- `女性`: 23.2% (2020 est.)
 
 ### 5歲以下體重不足兒童
 NA
@@ -218,15 +218,15 @@ NA
 6.1% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 99.4%
-- `male`: 99.6%
-- `female`: 99.2% (2021)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 99.4%
+- `男性`: 99.6%
+- `女性`: 99.2% (2021)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 16 years
-- `male`: 16 years
-- `female`: 16 years (2020)
+- `總計`: 16 years
+- `男性`: 16 years
+- `女性`: 16 years (2020)
 
 ### 人民—註釋
 demographic data for Cyprus represent the population of the government-controlled area and the area administered by Turkish Cypriots, unless otherwise indicated
@@ -237,23 +237,23 @@ demographic data for Cyprus represent the population of the government-controlle
 water resource problems (no natural reservoir catchments, seasonal disparity in rainfall, sea water intrusion to island's largest aquifer, increased salination in the north); water pollution from sewage, industrial wastes, and pesticides; coastal degradation; erosion; loss of wildlife habitats from urbanization
 
 ### 環境—國際協定
-- `party to`: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 temperate; Mediterranean with hot, dry summers and cool winters
 
 ### 土地利用
-- `agricultural land`: 13.4% (2018 est.)
-- `agricultural land: arable land`: arable land: 9.8% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 3.2% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0.4% (2018 est.)
-- `forest`: 18.8% (2018 est.)
-- `other`: 67.8% (2018 est.)
+- `農地`: 13.4% (2018 est.)
+- `農地：耕地`: arable land: 9.8% (2018 est.)
+- `農地：永久性作物`: permanent crops: 3.2% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0.4% (2018 est.)
+- `森林`: 18.8% (2018 est.)
+- `其它`: 67.8% (2018 est.)
 
 ### 都市化
-- `urban population`: 67% of total population (2023)
-- `rate of urbanization`: 0.76% annual rate of change (2020-25 est.)
+- `城市人口`: 67% of total population (2023)
+- `城鎮化率`: 0.76% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0% of GDP (2018 est.)
@@ -262,35 +262,35 @@ temperate; Mediterranean with hot, dry summers and cool winters
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 14.52 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 6.63 megatons (2016 est.)
-- `methane emissions`: 0.86 megatons (2020 est.)
+- `顆粒物排放量`: 14.52 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 6.63 megatons (2016 est.)
+- `甲烷排放量`: 0.86 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 541,000 tons (2015 est.)
-- `municipal solid waste recycled annually`: 72,007 tons (2015 est.)
-- `percent of municipal solid waste recycled`: 13.3% (2015 est.)
+- `城市固體廢棄物－每年產生`: 541,000 tons (2015 est.)
+- `城市固體廢棄物－每年回收`: 72,007 tons (2015 est.)
+- `城市固體廢棄物－回收百分比`: 13.3% (2015 est.)
 
 ### 總取水量
-- `municipal`: 100 million cubic meters (2020 est.)
-- `industrial`: 20 million cubic meters (2020 est.)
-- `agricultural`: 170 million cubic meters (2020 est.)
+- `市級`: 100 million cubic meters (2020 est.)
+- `工業`: 20 million cubic meters (2020 est.)
+- `農業`: 170 million cubic meters (2020 est.)
 
 ### 可再生水資源總量
 780 million cubic meters (2020 est.)
 
 ### 地質公園
-- `total global geoparks and regional networks`: 1
-- `global geoparks and regional networks`: Troodos (2023)
+- `全球地質公園和區域網絡總數`: 1
+- `全球地質公園和區域網絡`: Troodos (2023)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Cyprus
-- `conventional short form`: Cyprus
-- `local long form`: Kypriaki Dimokratia (Greek)/ Kibris Cumhuriyeti (Turkish)
-- `local short form`: Kypros (Greek)/ Kibris (Turkish)
-- `etymology`: the derivation of the name "Cyprus" is unknown, but the extensive mining of copper metal on the island in antiquity gave rise to the Latin word "cuprum" for copper
+- `常用長名`: Republic of Cyprus
+- `常用短名`: Cyprus
+- `當地語長名`: Kypriaki Dimokratia (Greek)/ Kibris Cumhuriyeti (Turkish)
+- `當地語短名`: Kypros (Greek)/ Kibris (Turkish)
+- `语源学`: the derivation of the name "Cyprus" is unknown, but the extensive mining of copper metal on the island in antiquity gave rise to the Latin word "cuprum" for copper
 **note**:  the Turkish Cypriot community, which administers the northern part of the island, refers to itself as the "Turkish Republic of Northern Cyprus" or "TRNC" ("Kuzey Kibris Turk Cumhuriyeti" or "KKTC")
 
 ### 政府類型
@@ -298,11 +298,11 @@ Republic of Cyprus - presidential republic; self-declared "Turkish Republic of N
 **note**:  a separation of the two main ethnic communities inhabiting the island began following the outbreak of communal strife in 1963; this separation was further solidified when a Greek military-junta-supported coup attempt prompted the Turkish military intervention in July 1974 that gave the Turkish Cypriots de facto control in the north; Greek Cypriots control the only internationally recognized government on the island; on 15 November 1983, then Turkish Cypriot "President" Rauf DENKTAS declared independence and the formation of the "TRNC,” which is recognized only by Turkey
 
 ### 首都
-- `name`: Nicosia (Lefkosia/Lefkosa)
-- `geographic coordinates`: 35 10 N, 33 22 E
-- `time difference`: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
-- `daylight saving time`: +1hr, begins last Sunday in March; ends last Sunday in October
-- `etymology`: a mispronunciation of the city's Greek name Lefkosia and its Turkish name Lefkosa, both of which mean "White City"; the Greek name may derive from the Greek phrase "leuke ousia" ("white estate")
+- `名稱`: Nicosia (Lefkosia/Lefkosa)
+- `地理坐標`: 35 10 N, 33 22 E
+- `時差`: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
+- `日光節約時間`: +1hr, begins last Sunday in March; ends last Sunday in October
+- `语源学`: a mispronunciation of the city's Greek name Lefkosia and its Turkish name Lefkosa, both of which mean "White City"; the Greek name may derive from the Greek phrase "leuke ousia" ("white estate")
 
 ### 行政區劃
 6 districts; Ammochostos (Famagusta; all but a small part located in the Turkish Cypriot community), Keryneia (Kyrenia; the only district located entirely in the Turkish Cypriot community), Larnaka (Larnaca; with a small part located in the Turkish Cypriot community), Lefkosia (Nicosia; a small part administered by Turkish Cypriots), Lemesos (Limassol), Pafos (Paphos); note - the 5 "districts" of the "Turkish Republic of Northern Cyprus" are Gazimagusa (Famagusta), Girne (Kyrenia), Guzelyurt (Morphou), Iskele (Trikomo), Lefkosa (Nicosia)
@@ -317,39 +317,39 @@ Independence Day, 1 October (1960); note - Turkish Cypriots celebrate 15 Novembe
 mixed legal system of English common law and civil law with European law supremacy
 
 ### 憲法
-- `history`: ratified 16 August 1960; note - in 1963, the constitution was partly suspended as Turkish Cypriots withdrew from the government; Turkish-held territory in 1983 was declared the "Turkish Republic of Northern Cyprus" ("TRNC"); in 1985, the "TRNC" approved its own constitution
-- `amendments`: constitution of the Republic of Cyprus - proposed by the House of Representatives; passage requires at least two-thirds majority vote of the total membership of the "Greek Community" and the "Turkish Community"; however, all seats of Turkish Cypriot members have remained vacant since 1964; amended many times, last in 2020;constitution of the “Turkish Republic of Northern Cyprus” - proposed by at least 10 members of the "Assembly of the Republic"; passage requires at least two-thirds majority vote of the total Assembly membership and approval by referendum; amended 2014
+- `歷史`: ratified 16 August 1960; note - in 1963, the constitution was partly suspended as Turkish Cypriots withdrew from the government; Turkish-held territory in 1983 was declared the "Turkish Republic of Northern Cyprus" ("TRNC"); in 1985, the "TRNC" approved its own constitution
+- `修正`: constitution of the Republic of Cyprus - proposed by the House of Representatives; passage requires at least two-thirds majority vote of the total membership of the "Greek Community" and the "Turkish Community"; however, all seats of Turkish Cypriot members have remained vacant since 1964; amended many times, last in 2020;constitution of the “Turkish Republic of Northern Cyprus” - proposed by at least 10 members of the "Assembly of the Republic"; passage requires at least two-thirds majority vote of the total Assembly membership and approval by referendum; amended 2014
 
 ### 國際法組織參與
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Cyprus
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: 7 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Cyprus
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: 7 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Nikos CHRISTODOULIDIS (since 28 February 2023)
-- `head of government`: President Nikos CHRISTODOULIDIS (since 28 February 2023)
-- `cabinet`: Council of Ministers appointed by the president; note - under the 1960 constitution, 3 of the ministerial posts reserved for Turkish Cypriots, appointed by the vice president; positions currently filled by Greek Cypriots
-- `elections/appointments`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (limited to 2 consecutive terms); election last held on held 5 February 2023 with a runoff on 12 February 2023 (next to be held in 2028)
-- `election results`: *2023: *Nikos CHRISTODOULIDIS elected president in second round; percent of vote in first round - Nikos CHRISTODOULIDIS (independent) 32%, Andreas MAVROGIANNIS (independent) 29.6%, Averof NEOFYTOU (DISY) 26.1%, Christos CHRISTOU (ELAM) 6%, other 6.3%; percent of vote in second round - Nikos CHRISTODOULIDS 52%, Andreas MAVROGIANNIS 48%*  2018: *Nikos ANASTASIADIS reelected president in second round; percent of vote in first round - Nikos ANASTASIADIS (DISY) 35.5%, Stavros MALAS (AKEL) 30.2%, Nicolas PAPADOPOULOS (DIKO) 25.7%, other 8.6%; percent of vote in second round - Nikos ANASTASIADIS 56%, Stavros MALAS 44%
+- `國家元首`: President Nikos CHRISTODOULIDIS (since 28 February 2023)
+- `政府首腦`: President Nikos CHRISTODOULIDIS (since 28 February 2023)
+- `内閣`: Council of Ministers appointed by the president; note - under the 1960 constitution, 3 of the ministerial posts reserved for Turkish Cypriots, appointed by the vice president; positions currently filled by Greek Cypriots
+- `選舉/任命`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (limited to 2 consecutive terms); election last held on held 5 February 2023 with a runoff on 12 February 2023 (next to be held in 2028)
+- `選舉結果`: *2023: *Nikos CHRISTODOULIDIS elected president in second round; percent of vote in first round - Nikos CHRISTODOULIDIS (independent) 32%, Andreas MAVROGIANNIS (independent) 29.6%, Averof NEOFYTOU (DISY) 26.1%, Christos CHRISTOU (ELAM) 6%, other 6.3%; percent of vote in second round - Nikos CHRISTODOULIDS 52%, Andreas MAVROGIANNIS 48%*  2018: *Nikos ANASTASIADIS reelected president in second round; percent of vote in first round - Nikos ANASTASIADIS (DISY) 35.5%, Stavros MALAS (AKEL) 30.2%, Nicolas PAPADOPOULOS (DIKO) 25.7%, other 8.6%; percent of vote in second round - Nikos ANASTASIADIS 56%, Stavros MALAS 44%
 **note**:  vice presidency reserved for a Turkish Cypriot, but the post has been vacant since 1974 because Turkish Cypriots do not participate in the Republic of Cyprus Government
 
 ### 立法部門
-- `description`: area under government control: unicameral House of Representatives or Vouli Antiprosopon (80 seats; 56 assigned to Greek Cypriots, 24 to Turkish Cypriots, but only those assigned to Greek Cypriots are filled; members directly elected by both proportional representation and preferential vote; members serve 5-year terms; note - 3 seats each are reserved for the Latin, Maronite, and Armenian religious groups;area administered by Turkish Cypriots: unicameral "Assembly of the Republic" or Cumhuriyet Meclisi (50 seats; members directly elected in multi-seat constituencies by proportional representation vote using a hybrid d'Hondt method with voter preference for individual candidates
-- `elections`: area under government control; last held on 30 May 2021 (next to be held in 2026); area administered by Turkish Cypriots: last held on 23 January 2022 (next to be held in 2027)
-- `election results`: area under government control: House of Representatives - percent of vote by party/coalition - DISY 27.8%, AKEL 22.3%, DIKO 11.3%, ELAM 6.8%, EDEK-SP 6.7%, DIPA 6.1%, Movement of Ecologists - Citizens' Cooperation 4.4%, other 14.6%; seats by party/coalition - DISY 17, AKEL 15, DIKO 9, ELAM 4, EDEK-SP 4, DIPA 4, Movement of Ecologists - Citizens' Cooperation 3; composition - men 48, women 8, percent of women 14.3%  area administered by Turkish Cypriots - "Assembly of the Republic" - percent of vote by party - UBP 39.5%, CTP 32%, DP 7.4%, HP 6.7%, YDP 6.4%, other 8%; seats by party - UBP 24, CTP 18, DP 3, HP 3, YDP 2; composition NA
+- `描述`: area under government control: unicameral House of Representatives or Vouli Antiprosopon (80 seats; 56 assigned to Greek Cypriots, 24 to Turkish Cypriots, but only those assigned to Greek Cypriots are filled; members directly elected by both proportional representation and preferential vote; members serve 5-year terms; note - 3 seats each are reserved for the Latin, Maronite, and Armenian religious groups;area administered by Turkish Cypriots: unicameral "Assembly of the Republic" or Cumhuriyet Meclisi (50 seats; members directly elected in multi-seat constituencies by proportional representation vote using a hybrid d'Hondt method with voter preference for individual candidates
+- `選舉`: area under government control; last held on 30 May 2021 (next to be held in 2026); area administered by Turkish Cypriots: last held on 23 January 2022 (next to be held in 2027)
+- `選舉結果`: area under government control: House of Representatives - percent of vote by party/coalition - DISY 27.8%, AKEL 22.3%, DIKO 11.3%, ELAM 6.8%, EDEK-SP 6.7%, DIPA 6.1%, Movement of Ecologists - Citizens' Cooperation 4.4%, other 14.6%; seats by party/coalition - DISY 17, AKEL 15, DIKO 9, ELAM 4, EDEK-SP 4, DIPA 4, Movement of Ecologists - Citizens' Cooperation 3; composition - men 48, women 8, percent of women 14.3%  area administered by Turkish Cypriots - "Assembly of the Republic" - percent of vote by party - UBP 39.5%, CTP 32%, DP 7.4%, HP 6.7%, YDP 6.4%, other 8%; seats by party - UBP 24, CTP 18, DP 3, HP 3, YDP 2; composition NA
 **note**:  the area of Cyprus that Turkish Cypriots administer has a separate unicameral Assembly of the Republic, or Cumhuriyet Meclisi (50 seats); members are directly elected in multi-seat constituencies by proportional representation vote
 
 ### 司法部門
-- `highest court(s)`: Supreme Court of Cyprus (consists of 13 judges, including the court president); note - the highest court in the "TRNC" is the "Supreme Court" (consists of 8 "judges," including the "court president")
-- `judge selection and term of office`: Republic of Cyprus Supreme Court judges appointed by the president of the republic upon the recommendation of the Supreme Court judges; judges can serve until age 68; "TRNC Supreme Court" judges appointed by the "Supreme Council of Judicature," a 12-member body of judges, the attorney general, appointees by the president of the "TRNC," and by the "Legislative Assembly," and members elected by the bar association; judge tenure NA
-- `subordinate courts`: Republic of Cyprus district courts; Assize Courts; Administrative Court; specialized courts for issues relating to family, industrial disputes, the military, and rent control; "TRNC Assize Courts"; "district and family courts"
+- `最高法院`: Supreme Court of Cyprus (consists of 13 judges, including the court president); note - the highest court in the "TRNC" is the "Supreme Court" (consists of 8 "judges," including the "court president")
+- `法官遴選和任期`: Republic of Cyprus Supreme Court judges appointed by the president of the republic upon the recommendation of the Supreme Court judges; judges can serve until age 68; "TRNC Supreme Court" judges appointed by the "Supreme Council of Judicature," a 12-member body of judges, the attorney general, appointees by the president of the "TRNC," and by the "Legislative Assembly," and members elected by the bar association; judge tenure NA
+- `下級法院`: Republic of Cyprus district courts; Assize Courts; Administrative Court; specialized courts for issues relating to family, industrial disputes, the military, and rent control; "TRNC Assize Courts"; "district and family courts"
 
 ### 政黨
 **area under government control**:  Democratic Front or DIPA Democratic Party or DIKODemocratic Rally or DISY Movement of Ecologists - Citizens' Alliance Movement of Social Democrats EDEKNational Popular Front or ELAM Progressive Party of the Working People or AKEL (Communist Party) Solidarity Movement  **area administered by Turkish Cypriots**:  Communal Democracy Party or TDPCommunal Liberation Party - New Forces or TKP-YGCyprus Socialist Party or KSPDemocratic Party or DPNational Democratic Party or NDPNational Unity Party or UBP New Cyprus Party or YKPPeople's Party or HP Rebirth Party or YDPRepublican Turkish Party or CTPUnited Cyprus Party or BKP
@@ -358,21 +358,21 @@ accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction
 Australia Group, C, CD, CE, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Evangelos SAVVA (since 15 September 2023)
-- `chancery`: 2211 R Street NW, Washington, DC 20008
-- `telephone`: [1] (202) 462-5772
+- `外交代表負責人`: Ambassador Evangelos SAVVA (since 15 September 2023)
+- `衡平法院（在美國）`: 2211 R Street NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 462-5772
 - `FAX`: [1] (202) 483-6710
-- `email address and website`: info@cyprusembassy.net  https://www.cyprusembassy.net/
-- `consulate(s) general`: New York
-- `honorary consulate(s)`: Atlanta, Chicago, Houston, Kirkland (WA), Los Angeles, New Orleans, San Francisco
+- `電子郵件地址和網站`: info@cyprusembassy.net  https://www.cyprusembassy.net/
+- `總領事館`: New York
+- `名譽領事館`: Atlanta, Chicago, Houston, Kirkland (WA), Los Angeles, New Orleans, San Francisco
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Julie D. FISHER (since 21 February 2023)
-- `embassy`: Metochiou and Ploutarchou Street, 2407, Engomi, Nicosia
-- `mailing address`: 5450 Nicosia Place, Washington DC  20521-5450
-- `telephone`: [357] (22) 393939
+- `外交代表負責人`: Ambassador Julie D. FISHER (since 21 February 2023)
+- `大使館`: Metochiou and Ploutarchou Street, 2407, Engomi, Nicosia
+- `郵寄地址`: 5450 Nicosia Place, Washington DC  20521-5450
+- `電話號碼`: [357] (22) 393939
 - `FAX`: [357] (22) 780944
-- `email address and website`: ACSNicosia@state.gov  https://cy.usembassy.gov/
+- `電子郵件地址和網站`: ACSNicosia@state.gov  https://cy.usembassy.gov/
 
 ### 旗幟說明
 centered on a white field is a copper-colored silhouette of the island (the island has long been famous for its copper deposits) above two olive-green-colored, crossed olive branches; the branches symbolize the hope for peace and reconciliation between the Greek and Turkish communities
@@ -382,8 +382,8 @@ centered on a white field is a copper-colored silhouette of the island (the isla
 Cypriot mouflon (wild sheep), white dove; national colors: blue, white
 
 ### 國歌
-- `name`: "Ymnos eis tin Eleftherian" (Hymn to Liberty)
-- `lyrics/music`: Dionysios SOLOMOS/Nikolaos MANTZAROS
+- `名稱`: "Ymnos eis tin Eleftherian" (Hymn to Liberty)
+- `歌詞／音樂`: Dionysios SOLOMOS/Nikolaos MANTZAROS
 **note**:  adopted 1960; Cyprus adopted the Greek national anthem as its own; the Turkish Cypriot community in Cyprus uses the anthem of Turkey
 
 ### 國家級遺產
@@ -431,18 +431,18 @@ $32.23 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 1.6% (2023 est.)
-- `industry`: 12.2% (2023 est.)
-- `services`: 74% (2023 est.)
+- `農業`: 1.6% (2023 est.)
+- `產業`: 12.2% (2023 est.)
+- `服務`: 74% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 59.9% (2023 est.)
-- `government consumption`: 19.1% (2023 est.)
-- `investment in fixed capital`: 22.1% (2023 est.)
-- `investment in inventories`: -0.2% (2023 est.)
-- `exports of goods and services`: 89.4% (2023 est.)
-- `imports of goods and services`: -90.3% (2023 est.)
+- `家庭消費`: 59.9% (2023 est.)
+- `政府消費`: 19.1% (2023 est.)
+- `固定資本投資`: 22.1% (2023 est.)
+- `存貨投資`: -0.2% (2023 est.)
+- `商品和服務出口`: 89.4% (2023 est.)
+- `商品和服務進口`: -90.3% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -468,9 +468,9 @@ tourism, food and beverage processing, cement and gypsum, ship repair and refurb
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 17.5% (2023 est.)
-- `male`: 19.6% (2023 est.)
-- `female`: 15.1% (2023 est.)
+- `總計`: 17.5% (2023 est.)
+- `男性`: 19.6% (2023 est.)
+- `女性`: 15.1% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -482,8 +482,8 @@ tourism, food and beverage processing, cement and gypsum, ship repair and refurb
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 3.5% (2021 est.)
-- `highest 10%`: 25.7% (2021 est.)
+- `最低10%`: 3.5% (2021 est.)
+- `最高10%`: 25.7% (2021 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -493,8 +493,8 @@ tourism, food and beverage processing, cement and gypsum, ship repair and refurb
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $11.644 billion (2022 est.)
-- `expenditures`: $10.765 billion (2022 est.)
+- `收入`: $11.644 billion (2022 est.)
+- `支出`: $10.765 billion (2022 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -556,31 +556,31 @@ $1.611 billion (2021 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 2.145 million kW (2022 est.)
-- `consumption`: 5.024 billion kWh (2022 est.)
-- `transmission/distribution losses`: 236.617 million kWh (2022 est.)
+- `裝機容量`: 2.145 million kW (2022 est.)
+- `消費`: 5.024 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 236.617 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 83.3% of total installed capacity (2022 est.)
-- `solar`: 11.5% of total installed capacity (2022 est.)
-- `wind`: 4.3% of total installed capacity (2022 est.)
-- `biomass and waste`: 1% of total installed capacity (2022 est.)
+- `石化燃料`: 83.3% of total installed capacity (2022 est.)
+- `太陽能`: 11.5% of total installed capacity (2022 est.)
+- `風能`: 4.3% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 1% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `consumption`: 53,000 metric tons (2022 est.)
-- `exports`: 71.6 metric tons (2022 est.)
-- `imports`: 78,000 metric tons (2022 est.)
+- `消費`: 53,000 metric tons (2022 est.)
+- `出口`: 71.6 metric tons (2022 est.)
+- `進口`: 78,000 metric tons (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 45,000 bbl/day (2022 est.)
+- `成品油消費量`: 45,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 6.713 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 118,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 6.595 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 6.713 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 118,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 6.595 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 106.317 million Btu/person (2022 est.)
@@ -588,17 +588,17 @@ $1.611 billion (2021 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 297,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 34 (2021 est.)
+- `總訂閱數`: 297,000 (2022 est.)
+- `每100名居民訂閱數`: 34 (2021 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 1.392 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 149 (2021 est.)
+- `總訂閱數`: 1.392 million (2022 est.)
+- `每100名居民訂閱數`: 149 (2021 est.)
 
 ### 電信系統
-- `general assessment`: Cyprus suffered from the effects of the pandemic in 2020 and 2021, when the tourism sector was essentially closed; during 2022, there were adverse effects caused by Russia’s invasion of Ukraine, which has resulted in a dramatic drop in the number of Russian tourists entering the country; the mobile market is served by four mobile network operators; the number of mobile subscribers fell in 2020, largely the result of subscribers scaling back on multiple SIM cards as an economic measure; the broadband market continues to develop steadily, providing the country with one of the highest broadband penetration rates in the region; DSL remains the dominant access platform, accounting for about two-thirds of fixed broadband connections; although fiber infrastructure in Cyprus is minimal (supported by the government and regulator) to extend an FttP service to about 200,000 premises; as a result, the number of DSL subscribers is set to fall steadily in coming years as customers are migrated to the fiber platform (2023)
-- `domestic`: fixed-line about 34 per 100 and about 149 per 100 for mobile-cellular teledensity (2021)
-- `international`: country code - 357 (area administered by Turkish Cypriots uses the country code of Turkey - 90); a number of submarine cables, including the SEA-ME-WE-3, CADMOS, MedNautilus Submarine System, POSEIDON, TE North/TGN-Eurasia/SEACOM/Alexandros/Medes, UGARIT, Aphrodite2, Hawk, Lev Submarine System, and Tamares combine to provide connectivity to Europe, the Middle East, Africa, Asia, Australia, and Southeast Asia; Turcyos-1 and Turcyos-2 submarine cable in Turkish North Cyprus link to Turkey; tropospheric scatter; satellite earth stations - 8 (3 Intelsat - 1 Atlantic Ocean and 2 Indian Ocean, 2 Eutelsat, 2 Intersputnik, and 1 Arabsat) (2019)
+- `總體評估`: Cyprus suffered from the effects of the pandemic in 2020 and 2021, when the tourism sector was essentially closed; during 2022, there were adverse effects caused by Russia’s invasion of Ukraine, which has resulted in a dramatic drop in the number of Russian tourists entering the country; the mobile market is served by four mobile network operators; the number of mobile subscribers fell in 2020, largely the result of subscribers scaling back on multiple SIM cards as an economic measure; the broadband market continues to develop steadily, providing the country with one of the highest broadband penetration rates in the region; DSL remains the dominant access platform, accounting for about two-thirds of fixed broadband connections; although fiber infrastructure in Cyprus is minimal (supported by the government and regulator) to extend an FttP service to about 200,000 premises; as a result, the number of DSL subscribers is set to fall steadily in coming years as customers are migrated to the fiber platform (2023)
+- `國內`: fixed-line about 34 per 100 and about 149 per 100 for mobile-cellular teledensity (2021)
+- `國際的`: country code - 357 (area administered by Turkish Cypriots uses the country code of Turkey - 90); a number of submarine cables, including the SEA-ME-WE-3, CADMOS, MedNautilus Submarine System, POSEIDON, TE North/TGN-Eurasia/SEACOM/Alexandros/Medes, UGARIT, Aphrodite2, Hawk, Lev Submarine System, and Tamares combine to provide connectivity to Europe, the Middle East, Africa, Asia, Australia, and Southeast Asia; Turcyos-1 and Turcyos-2 submarine cable in Turkish North Cyprus link to Turkey; tropospheric scatter; satellite earth stations - 8 (3 Intelsat - 1 Atlantic Ocean and 2 Indian Ocean, 2 Eutelsat, 2 Intersputnik, and 1 Arabsat) (2019)
 
 ### 廣播媒體
 mixture of state and privately run TV and radio services; the public broadcaster operates 2 TV channels and 4 radio stations; 6 private TV broadcasters, satellite and cable TV services including telecasts from Greece and Turkey, and a number of private radio stations are available; in areas administered by Turkish Cypriots, there are 2 public TV stations, 4 public radio stations, and 7 privately owned TV and 21 radio broadcast stations plus 6 radio and 4 TV channels of local universities, plus 1 radio station of military, security forces and 1 radio station of civil defense cooperation, as well as relay stations from Turkey (2019)
@@ -607,20 +607,20 @@ mixture of state and privately run TV and radio services; the public broadcaster
 .cy
 
 ### 網際網路使用者
-- `total`: 809,900 (2021 est.)
-- `percent of population`: 91% (2021 est.)
+- `總計`: 809,900 (2021 est.)
+- `佔人口比例`: 91% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 332,080 (2020 est.)
-- `subscriptions per 100 inhabitants`: 37 (2020 est.)
+- `總計`: 332,080 (2020 est.)
+- `每100名居民訂閱數`: 37 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 2 (2020)
-- `inventory of registered aircraft operated by air carriers`: 6
-- `annual passenger traffic on registered air carriers`: 401,408 (2018)
-- `annual freight traffic on registered air carriers`: 20,000 (2018) mt-km
+- `註冊航空公司數量`: 2 (2020)
+- `註冊飛機庫存—航空承運商經營`: 6
+- `年度客運量－註冊航空公司`: 401,408 (2018)
+- `年度貨運量－註冊航空公司`: 20,000 (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 5B
@@ -632,21 +632,21 @@ mixture of state and privately run TV and radio services; the public broadcaster
 69 (2024)
 
 ### 道路
-- `total`: 13,027 km (2022)
+- `總計`: 13,027 km (2022)
 - `Turkish Cypriot control`: 7,000 km (2011)
 
 ### 商船
-- `total`: 1,005 (2023)
-- `by type`: bulk carrier 243, container ship 154, general cargo 211, oil tanker 47, other 350
+- `總計`: 1,005 (2023)
+- `依類型`: bulk carrier 243, container ship 154, general cargo 211, oil tanker 47, other 350
 
 ### 港口
-- `total ports`: 6 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 3
-- `very small`: 3
-- `ports with oil terminals`: 4
-- `key ports`: Dhekelia, Famagusta, Kyrenia, Larnaca, Limassol, Xeros
+- `總港口數`: 6 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 3
+- `非常小`: 3
+- `原油碼頭港口`: 4
+- `主要港口`: Dhekelia, Famagusta, Kyrenia, Larnaca, Limassol, Xeros
 
 ## 軍事和安全
 
@@ -682,9 +682,9 @@ Islamic State of Iraq and ash-Sham (ISIS)
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 10,869 (Syria) (mid-year 2022); 17,270 (Ukraine) (as of 11 February 2024)
+- `難民（原籍國）`: 10,869 (Syria) (mid-year 2022); 17,270 (Ukraine) (as of 11 February 2024)
 - `IDPs`: 246,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2022)
-- `stateless persons`: 74 (2022)
+- `無國籍人士`: 74 (2022)
 **note**:  55,098 estimated refugee and migrant arrivals (January 2015-August 2023)
 
 ### 非法藥物

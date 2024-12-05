@@ -19,22 +19,22 @@ Southeastern Asia, islands between Malaysia and Indonesia
 Southeast Asia
 
 ### 面積
-- `total `: 719 sq km
-- `land`: 709.2 sq km
-- `water`: 10 sq km
+- `總計`: 719 sq km
+- `土地`: 709.2 sq km
+- `水`: 10 sq km
 
 ### 面積—比較
 slightly more than 3.5 times the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 193 km
 
 ### 海洋主張
-- `territorial sea`: 3 nm
-- `exclusive fishing zone`: within and beyond territorial sea, as defined in treaties and practice
+- `領海`: 3 nm
+- `專屬捕魚區`: within and beyond territorial sea, as defined in treaties and practice
 
 ### 氣候
 tropical; hot, humid, rainy; two distinct monsoon seasons - northeastern monsoon (December to March) and southwestern monsoon (June to September); inter-monsoon - frequent afternoon and early evening thunderstorms
@@ -43,19 +43,19 @@ tropical; hot, humid, rainy; two distinct monsoon seasons - northeastern monsoon
 lowlying, gently undulating central plateau
 
 ### 海拔
-- `highest point`: Bukit Timah 166 m
-- `lowest point`: Singapore Strait 0 m
+- `最高點`: Bukit Timah 166 m
+- `最低點`: Singapore Strait 0 m
 
 ### 自然資源
 fish, deepwater ports
 
 ### 土地利用
-- `agricultural land`: 1% (2018 est.)
-- `agricultural land: arable land`: arable land: 0.9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.1% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
-- `forest`: 3.3% (2018 est.)
-- `other`: 95.7% (2018 est.)
+- `農地`: 1% (2018 est.)
+- `農地：耕地`: arable land: 0.9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.1% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0% (2018 est.)
+- `森林`: 3.3% (2018 est.)
+- `其它`: 95.7% (2018 est.)
 
 ### 灌溉土地
 0 sq km (2022)
@@ -72,13 +72,13 @@ focal point for Southeast Asian sea routes; consists of about 60 islands, the la
 ## 人民和社會
 
 ### 人口
-- `total`: 6,028,459
-- `male`: 3,013,630
-- `female`: 3,014,829 (2024 est.)
+- `總計`: 6,028,459
+- `男性`: 3,013,630
+- `女性`: 3,014,829 (2024 est.)
 
 ### 國籍
-- `noun`: Singaporean(s)
-- `adjective`: Singapore
+- `名詞`: Singaporean(s)
+- `形容詞`: Singapore
 
 ### 族裔群體
 Chinese 74.2%, Malay 13.7%, Indian 8.9%, other 3.2% (2021 est.)
@@ -86,7 +86,7 @@ Chinese 74.2%, Malay 13.7%, Indian 8.9%, other 3.2% (2021 est.)
 
 ### 語文
 English (official) 48.3%, Mandarin (official) 29.9%, other Chinese dialects (includes Hokkien, Cantonese, Teochew, Hakka) 8.7%, Malay (official) 9.2%, Tamil (official) 2.5%, other 1.4% (2020 est.)
-- `major-language sample(s)`: The World Factbook, the indispensable source for basic information. (English)  世界概況  –  不可缺少的基本消息來源 (Mandarin)
+- `主要語言樣本`: The World Factbook, the indispensable source for basic information. (English)  世界概況  –  不可缺少的基本消息來源 (Mandarin)
 **note**:  data represent language most frequently spoken at home
 
 ### 宗教
@@ -96,20 +96,20 @@ Buddhist 31.1%, Christian 18.9%, Muslim 15.6%, Taoist 8.8%, Hindu 5%, other 0.6%
 Singapore has one of the lowest total fertility rates (TFR) in the world – an average of 1.15 children born per woman – and a rapidly aging population.  Women’s expanded educations, widened aspirations, and a desire to establish careers has contributed to delayed marriage and smaller families. Most married couples have only one or two children in order to invest more in each child, including the high costs of education.  In addition, more and more Singaporeans, particularly women, are staying single.  Factors contributing to this trend are a focus on careers, long working hours, the high cost of living, and long waits for public housing.    With fertility at such a low rate and rising life expectancy, the proportion of the population aged 65 or over is growing and the youth population is shrinking.  Singapore is projected to experience one of the largest percentage point increases in the elderly share of the population at 21% between 2019 and 2050, according to the UN.  The working-age population (aged 15-64) will gradually decrease, leaving fewer workers to economically support the elderly population. Migration has played a key role in Singapore’s development.  As Singapore’s economy expanded during the 19th century, more and more Chinese, Indian, and Malay labor immigrants arrived.  Most of Singapore’s pre-World War II population growth was a result of immigration.  During World War II, immigration came to a halt when the Japanese occupied the island but revived in the postwar years.  Policy was restrictive during the 1950s and 1960s, aiming to protect jobs for residents by reducing the intake of low-skilled foreign workers and focusing instead on attracting professionals from abroad with specialist skills.  Consequently, the nonresident share of Singapore’s population plummeted to less than 3%.  As the country industrialized, however, it loosened restrictions on the immigration of manual workers.  From the 1980s through the 2000s, the foreign population continued to grow as a result of policies aimed at attracting foreign workers of all skill levels.  More recently, the government has instituted immigration policies that target highly skilled workers. Skilled workers are encouraged to stay and are given the opportunity to become permanent residents or citizens.  The country, however, imposes restrictions on unskilled and low-skilled workers to ensure they do not establish roots, including prohibiting them from bringing their families and requiring employers to pay a monthly foreign worker levy and security bond.  The country has also become increasingly attractive to international students. The growth of the foreign-born population has continued to be rapid; as of 2015, the foreign-born composed 46% of the total population.  At the same time, growing numbers of Singaporeans are emigrating for education and work experience in highly skilled sectors such finance, information technology, and medicine.  Increasingly, the moves abroad are permanent.
 
 ### 年齡結構
-- `0-14 years`: 14.6% (male 455,536/female 424,969)
-- `15-64 years`: 71.1% (male 2,157,441/female 2,126,799)
-- `65 years and over`: 14.3% (2024 est.) (male 400,653/female 463,061)
+- `0-14歲`: 14.6% (male 455,536/female 424,969)
+- `15-64歲`: 71.1% (male 2,157,441/female 2,126,799)
+- `65歲及以上`: 14.3% (2024 est.) (male 400,653/female 463,061)
 
 ### 撫養比率
-- `total dependency ratio`: 35.4
-- `youth dependency ratio`: 16.2
-- `elderly dependency ratio`: 19.1
-- `potential support ratio`: 5.2 (2021 est.)
+- `總受扶養人比率`: 35.4
+- `少年撫養比率`: 16.2
+- `老人撫養比率`: 19.1
+- `潛在支持率`: 5.2 (2021 est.)
 
 ### 年齡中位數
-- `total`: 39.4 years (2024 est.)
-- `male`: 38 years
-- `female`: 40.6 years
+- `總計`: 39.4 years (2024 est.)
+- `男性`: 38 years
+- `女性`: 40.6 years
 
 ### 人口成長率
 0.87% (2024 est.)
@@ -127,18 +127,18 @@ Singapore has one of the lowest total fertility rates (TFR) in the world – an 
 most of the urbanization is along the southern coast, with relatively dense population clusters found in the central areas
 
 ### 都市化
-- `urban population`: 100% of total population (2023)
-- `rate of urbanization`: 0.74% annual rate of change (2020-25 est.)
+- `城市人口`: 100% of total population (2023)
+- `城鎮化率`: 0.74% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 6.081 million SINGAPORE (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.07 male(s)/female
-- `15-64 years`: 1.01 male(s)/female
-- `65 years and over`: 0.87 male(s)/female
-- `total population`: 1 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.07 male(s)/female
+- `15-64歲`: 1.01 male(s)/female
+- `65歲及以上`: 0.87 male(s)/female
+- `總人口數`: 1 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 30.5 years (2015 est.)
@@ -148,14 +148,14 @@ most of the urbanization is along the southern coast, with relatively dense popu
 7 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 1.5 deaths/1,000 live births (2024 est.)
-- `male`: 1.7 deaths/1,000 live births
-- `female`: 1.4 deaths/1,000 live births
+- `總計`: 1.5 deaths/1,000 live births (2024 est.)
+- `男性`: 1.7 deaths/1,000 live births
+- `女性`: 1.4 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 86.7 years (2024 est.)
-- `male`: 84 years
-- `female`: 89.5 years
+- `總人口數`: 86.7 years (2024 est.)
+- `男性`: 84 years
+- `女性`: 89.5 years
 
 ### 總生育率
 1.17 children born/woman (2024 est.)
@@ -167,12 +167,12 @@ most of the urbanization is along the southern coast, with relatively dense popu
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: NA
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 當前醫療支出
 6.1% of GDP (2020)
@@ -184,27 +184,27 @@ NA
 2.5 beds/1,000 population (2017)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: NA
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 肥胖—成人流行率
 6.1% (2016)
 
 ### 人均酒精消費量
-- `total`: 1.81 liters of pure alcohol (2019 est.)
-- `beer`: 1.26 liters of pure alcohol (2019 est.)
-- `wine`: 0.27 liters of pure alcohol (2019 est.)
-- `spirits`: 0.24 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.04 liters of pure alcohol (2019 est.)
+- `總計`: 1.81 liters of pure alcohol (2019 est.)
+- `啤酒`: 1.26 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.27 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.24 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.04 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 16.5% (2020 est.)
-- `male`: 28% (2020 est.)
-- `female`: 5% (2020 est.)
+- `總計`: 16.5% (2020 est.)
+- `男性`: 28% (2020 est.)
+- `女性`: 5% (2020 est.)
 
 ### 5歲以下體重不足兒童
 NA
@@ -213,21 +213,21 @@ NA
 54.3% (2023 est.)
 
 ### 童婚
-- `women married by age 18`: 0.1% (2022 est.)
+- `18歲前結婚的女性`: 0.1% (2022 est.)
 
 ### 教育支出
 2.8% of GDP (2021 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 97.5%
-- `male`: 98.9%
-- `female`: 96.1% (2019)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 97.5%
+- `男性`: 98.9%
+- `女性`: 96.1% (2019)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 17 years
-- `male`: 16 years
-- `female`: 17 years (2020)
+- `總計`: 17 years
+- `男性`: 16 years
+- `女性`: 17 years (2020)
 
 ## 環境
 
@@ -235,23 +235,23 @@ NA
 water pollution; industrial pollution; limited natural freshwater resources; limited land availability presents waste disposal problems; air pollution; deforestation; seasonal smoke/haze resulting from forest fires in Indonesia
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 tropical; hot, humid, rainy; two distinct monsoon seasons - northeastern monsoon (December to March) and southwestern monsoon (June to September); inter-monsoon - frequent afternoon and early evening thunderstorms
 
 ### 土地利用
-- `agricultural land`: 1% (2018 est.)
-- `agricultural land: arable land`: arable land: 0.9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.1% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
-- `forest`: 3.3% (2018 est.)
-- `other`: 95.7% (2018 est.)
+- `農地`: 1% (2018 est.)
+- `農地：耕地`: arable land: 0.9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.1% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0% (2018 est.)
+- `森林`: 3.3% (2018 est.)
+- `其它`: 95.7% (2018 est.)
 
 ### 都市化
-- `urban population`: 100% of total population (2023)
-- `rate of urbanization`: 0.74% annual rate of change (2020-25 est.)
+- `城市人口`: 100% of total population (2023)
+- `城鎮化率`: 0.74% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0% of GDP (2018 est.)
@@ -260,19 +260,19 @@ tropical; hot, humid, rainy; two distinct monsoon seasons - northeastern monsoon
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 13.33 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 37.54 megatons (2016 est.)
-- `methane emissions`: 4.4 megatons (2020 est.)
+- `顆粒物排放量`: 13.33 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 37.54 megatons (2016 est.)
+- `甲烷排放量`: 4.4 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 7,704,300 tons (2017 est.)
-- `municipal solid waste recycled annually`: 4,699,623 tons (2015 est.)
-- `percent of municipal solid waste recycled`: 61% (2015 est.)
+- `城市固體廢棄物－每年產生`: 7,704,300 tons (2017 est.)
+- `城市固體廢棄物－每年回收`: 4,699,623 tons (2015 est.)
+- `城市固體廢棄物－回收百分比`: 61% (2015 est.)
 
 ### 總取水量
-- `municipal`: 300 million cubic meters (2020 est.)
-- `industrial`: 340 million cubic meters (2020 est.)
-- `agricultural`: 30 million cubic meters (2020 est.)
+- `市級`: 300 million cubic meters (2020 est.)
+- `工業`: 340 million cubic meters (2020 est.)
+- `農業`: 30 million cubic meters (2020 est.)
 
 ### 可再生水資源總量
 600 million cubic meters (2020 est.)
@@ -280,20 +280,20 @@ tropical; hot, humid, rainy; two distinct monsoon seasons - northeastern monsoon
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Singapore
-- `conventional short form`: Singapore
-- `local long form`: Republic of Singapore
-- `local short form`: Singapore
-- `etymology`: name derives from the Sanskrit words "simha" (lion) and "pura" (city) to describe the city-state's leonine symbol
+- `常用長名`: Republic of Singapore
+- `常用短名`: Singapore
+- `當地語長名`: Republic of Singapore
+- `當地語短名`: Singapore
+- `语源学`: name derives from the Sanskrit words "simha" (lion) and "pura" (city) to describe the city-state's leonine symbol
 
 ### 政府類型
 parliamentary republic
 
 ### 首都
-- `name`: Singapore
-- `geographic coordinates`: 1 17 N, 103 51 E
-- `time difference`: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: name derives from the Sanskrit words *simha* (lion) and *pura* (city), thus creating the city's epithet "lion city"
+- `名稱`: Singapore
+- `地理坐標`: 1 17 N, 103 51 E
+- `時差`: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: name derives from the Sanskrit words *simha* (lion) and *pura* (city), thus creating the city's epithet "lion city"
 
 ### 行政區劃
 no first order administrative divisions; there are five community development councils: Central Singapore Development Council, North East Development Council, North West Development Council, South East Development Council, South West Development Council (2019)
@@ -308,37 +308,37 @@ National Day, 9 August (1965)
 English common law
 
 ### 憲法
-- `history`: several previous; latest adopted 22 December 1965
-- `amendments`: proposed by Parliament; passage requires two-thirds majority vote in the second and third readings by the elected Parliament membership and assent of the president of the republic; passage of amendments affecting sovereignty or control of the Police Force or the Armed Forces requires at least two-thirds majority vote in a referendum; amended many times, last in 2020
+- `歷史`: several previous; latest adopted 22 December 1965
+- `修正`: proposed by Parliament; passage requires two-thirds majority vote in the second and third readings by the elected Parliament membership and assent of the president of the republic; passage of amendments affecting sovereignty or control of the Police Force or the Armed Forces requires at least two-thirds majority vote in a referendum; amended many times, last in 2020
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Singapore
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 10 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Singapore
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 10 years
 
 ### 選舉權
 21 years of age; universal and compulsory
 
 ### 行政部門
-- `chief of state`: President THARMAN Shanmugaratnam (since 14 September 2023)
-- `head of government`: Prime Minister Lawrence WONG (since 15 May 2024)
-- `cabinet`: Cabinet appointed by the president on the advice of the prime minister; Cabinet responsible to Parliament
-- `elections/appointments`: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 1 September 2023 (next to be held in 2029); following legislative elections, the leader of the majority party or majority coalition appointed prime minister by the president; deputy prime ministers appointed by the president
-- `election results`: *2023: *THARMAN Shanmugaratnam elected president; percent of vote - THARMAN Shanmugaratnam (independent) 70.4%, NG Kok Song (independent) 15.7%, TAN Kin Lian (independent) 13.9%*2017*: HALIMAH Yacob declared president on 13 September 2017, being the only eligible candidate
+- `國家元首`: President THARMAN Shanmugaratnam (since 14 September 2023)
+- `政府首腦`: Prime Minister Lawrence WONG (since 15 May 2024)
+- `内閣`: Cabinet appointed by the president on the advice of the prime minister; Cabinet responsible to Parliament
+- `選舉/任命`: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 1 September 2023 (next to be held in 2029); following legislative elections, the leader of the majority party or majority coalition appointed prime minister by the president; deputy prime ministers appointed by the president
+- `選舉結果`: *2023: *THARMAN Shanmugaratnam elected president; percent of vote - THARMAN Shanmugaratnam (independent) 70.4%, NG Kok Song (independent) 15.7%, TAN Kin Lian (independent) 13.9%*2017*: HALIMAH Yacob declared president on 13 September 2017, being the only eligible candidate
 
 ### 立法部門
-- `description`: unicameral Parliament (104 seats statutory; 93 members directly elected by simple majority popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to 12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms)
-- `elections`: last held on 10 July 2020 (next must be held by 24 November 2025)
-- `election results`: percent of vote by party - PAP 89.2%, WP 10.6%, other 0.2%; seats by party - PAP 79, WP 10, PSP 2, independent 9; composition - men 70, women 29, percentage women 29.3%
+- `描述`: unicameral Parliament (104 seats statutory; 93 members directly elected by simple majority popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to 12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms)
+- `選舉`: last held on 10 July 2020 (next must be held by 24 November 2025)
+- `選舉結果`: percent of vote by party - PAP 89.2%, WP 10.6%, other 0.2%; seats by party - PAP 79, WP 10, PSP 2, independent 9; composition - men 70, women 29, percentage women 29.3%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court (although the number of judges varies - as of April 2019, the court totaled 20 judges, 7 judicial commissioners, 4 judges of appeal, and 16 international judges); the court is organized into an upper tier Appeal Court and a lower tier High Court
-- `judge selection and term of office`: judges appointed by the president from candidates recommended by the prime minister after consultation with the chief justice; judges usually serve until retirement at age 65, but terms can be extended
-- `subordinate courts`: district, magistrates', juvenile, family, community, and coroners' courts; small claims tribunals; employment claims tribunals
+- `最高法院`: Supreme Court (although the number of judges varies - as of April 2019, the court totaled 20 judges, 7 judicial commissioners, 4 judges of appeal, and 16 international judges); the court is organized into an upper tier Appeal Court and a lower tier High Court
+- `法官遴選和任期`: judges appointed by the president from candidates recommended by the prime minister after consultation with the chief justice; judges usually serve until retirement at age 65, but terms can be extended
+- `下級法院`: district, magistrates', juvenile, family, community, and coroners' courts; small claims tribunals; employment claims tribunals
 
 ### 政黨
 People's Action Party or PAP Progress Singapore Party or PSP Workers' Party or WP 
@@ -348,21 +348,21 @@ People's Action Party or PAP Progress Singapore Party or PSP Workers' Party or
 ADB, AOSIS, APEC, Arctic Council (observer), ARF, ASEAN, BIS, C, CP, EAS, FAO, FATF, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, Pacific Alliance (observer), PCA, UN, UNCTAD, UNESCO, UNHCR, UNOOSA, UPU, WCO, WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador LUI Tuck Yew (since 30 June 2023)
-- `chancery`: 3501 International Place NW, Washington, DC 20008
-- `telephone`: [1] (202) 537-3100
+- `外交代表負責人`: Ambassador LUI Tuck Yew (since 30 June 2023)
+- `衡平法院（在美國）`: 3501 International Place NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 537-3100
 - `FAX`: [1] (202) 537-0876
-- `email address and website`: singemb_was@mfa.sg  https://www.mfa.gov.sg/washington/
-- `consulate(s) general`: San Francisco
-- `consulate(s)`: New York
+- `電子郵件地址和網站`: singemb_was@mfa.sg  https://www.mfa.gov.sg/washington/
+- `總領事館`: San Francisco
+- `領事館`: New York
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Jonathan KAPLAN (since December 2021)
-- `embassy`: 27 Napier Road, Singapore 258508
-- `mailing address`: 4280 Singapore Place, Washington DC  20521-4280
-- `telephone`: [65] 6476-9100
+- `外交代表負責人`: Ambassador Jonathan KAPLAN (since December 2021)
+- `大使館`: 27 Napier Road, Singapore 258508
+- `郵寄地址`: 4280 Singapore Place, Washington DC  20521-4280
+- `電話號碼`: [65] 6476-9100
 - `FAX`: [65] 6476-9340
-- `email address and website`: singaporeusembassy@state.gov  https://sg.usembassy.gov/
+- `電子郵件地址和網站`: singaporeusembassy@state.gov  https://sg.usembassy.gov/
 
 ### 旗幟說明
 two equal horizontal bands of red (top) and white; near the hoist side of the red band, there is a vertical, white crescent (closed portion is toward the hoist side) partially enclosing five white five-pointed stars arranged in a circle; red denotes brotherhood and equality; white signifies purity and virtue; the waxing crescent moon symbolizes a young nation on the ascendancy; the five stars represent the nation's ideals of democracy, peace, progress, justice, and equality
@@ -371,8 +371,8 @@ two equal horizontal bands of red (top) and white; near the hoist side of the re
 lion, merlion (mythical half lion-half fish creature), orchid; national colors: red, white
 
 ### 國歌
-- `name`: "Majulah Singapura" (Onward Singapore)
-- `lyrics/music`: ZUBIR Said
+- `名稱`: "Majulah Singapura" (Onward Singapore)
+- `歌詞／音樂`: ZUBIR Said
 **note**:  adopted 1965; first performed in 1958 at the Victoria Theatre, the anthem is sung only in Malay
 
 ### 國家級遺產
@@ -419,18 +419,18 @@ $501.428 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 0% (2023 est.)
-- `industry`: 22.4% (2023 est.)
-- `services`: 72.4% (2023 est.)
+- `農業`: 0% (2023 est.)
+- `產業`: 22.4% (2023 est.)
+- `服務`: 72.4% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 31.3% (2023 est.)
-- `government consumption`: 10.2% (2023 est.)
-- `investment in fixed capital`: 22.2% (2023 est.)
-- `investment in inventories`: -1.2% (2023 est.)
-- `exports of goods and services`: 174.3% (2023 est.)
-- `imports of goods and services`: -136.9% (2023 est.)
+- `家庭消費`: 31.3% (2023 est.)
+- `政府消費`: 10.2% (2023 est.)
+- `固定資本投資`: 22.2% (2023 est.)
+- `存貨投資`: -1.2% (2023 est.)
+- `商品和服務出口`: 174.3% (2023 est.)
+- `商品和服務進口`: -136.9% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -455,21 +455,21 @@ electronics, chemicals, financial services, oil drilling equipment, petroleum re
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 8.3% (2023 est.)
-- `male`: 6.5% (2023 est.)
-- `female`: 10.4% (2023 est.)
+- `總計`: 8.3% (2023 est.)
+- `男性`: 6.5% (2023 est.)
+- `女性`: 10.4% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 基尼指數係數—家庭所得分配
 45.9 (2017)
 
 ### 平均家庭支出
-- `on food`: 7% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 1.9% of household expenditures (2022 est.)
+- `餐食`: 7% of household expenditures (2022 est.)
+- `酒精和煙草`: 1.9% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 1.6%
-- `highest 10%`: 27.5% (2017)
+- `最低10%`: 1.6%
+- `最高10%`: 27.5% (2017)
 
 ### 匯款
 0% of GDP (2023 est.)
@@ -478,8 +478,8 @@ electronics, chemicals, financial services, oil drilling equipment, petroleum re
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $80.855 billion (2022 est.)
-- `expenditures`: $75.448 billion (2022 est.)
+- `收入`: $80.855 billion (2022 est.)
+- `支出`: $75.448 billion (2022 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -541,36 +541,36 @@ $425.098 billion (2021 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 12.538 million kW (2022 est.)
-- `consumption`: 57.029 billion kWh (2022 est.)
-- `transmission/distribution losses`: 656.085 million kWh (2022 est.)
+- `裝機容量`: 12.538 million kW (2022 est.)
+- `消費`: 57.029 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 656.085 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 94.7% of total installed capacity (2022 est.)
-- `solar`: 2.1% of total installed capacity (2022 est.)
-- `biomass and waste`: 3.2% of total installed capacity (2022 est.)
+- `石化燃料`: 94.7% of total installed capacity (2022 est.)
+- `太陽能`: 2.1% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 3.2% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `consumption`: 784,000 metric tons (2022 est.)
-- `exports`: 2,000 metric tons (2022 est.)
-- `imports`: 595,000 metric tons (2022 est.)
+- `消費`: 784,000 metric tons (2022 est.)
+- `出口`: 2,000 metric tons (2022 est.)
+- `進口`: 595,000 metric tons (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 1.47 million bbl/day (2022 est.)
+- `成品油消費量`: 1.47 million bbl/day (2022 est.)
 
 ### 天然氣
-- `consumption`: 13.724 billion cubic meters (2022 est.)
-- `exports`: 352.812 million cubic meters (2022 est.)
-- `imports`: 15.124 billion cubic meters (2022 est.)
+- `消費`: 13.724 billion cubic meters (2022 est.)
+- `出口`: 352.812 million cubic meters (2022 est.)
+- `進口`: 15.124 billion cubic meters (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 241.71 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 1.558 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 213.229 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 26.923 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 241.71 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 1.558 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 213.229 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 26.923 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 653.844 million Btu/person (2022 est.)
@@ -578,17 +578,17 @@ $425.098 billion (2021 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 1.906 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 32 (2022 est.)
+- `總訂閱數`: 1.906 million (2022 est.)
+- `每100名居民訂閱數`: 32 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 9.351 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 156 (2022 est.)
+- `總訂閱數`: 9.351 million (2022 est.)
+- `每100名居民訂閱數`: 156 (2022 est.)
 
 ### 電信系統
-- `general assessment`: a wealthy city-state, Singapore has a highly developed ICT infrastructure; government supported near universal home broadband penetration and free public access to wireless network; the government's telecommunication regulator, Infocomm Media Development Authority (IMDA), issued awards in mid-2020 to telecom operators with the goal of having at least 50% of the city-state covered with a standalone 5G network by the end of 2022; government actively promoting Smart Nation initiative supporting digital innovation; government oversees service providers and controls Internet content; well served by submarine cable and satellite connections (2021)
-- `domestic`: fixed-line is 32 per 100 and mobile-cellular 146 per 100 teledensity (2021)
-- `international`: country code - 65; landing points for INDIGO-West, SeaMeWe -3,-4,-5, SIGMAR, SJC, i2icn, PGASCOM, BSCS, IGG, B3JS, SAEx2, APCN-2, APG, ASC, SEAX-1, ASE, EAC-C2C, Matrix Cable System and SJC2 submarine cables providing links throughout Asia, Southeast Asia, Africa, Australia, the Middle East, and Europe; satellite earth stations - 3, Bukit Timah, Seletar, and Sentosa; supplemented by VSAT coverage (2019 )
+- `總體評估`: a wealthy city-state, Singapore has a highly developed ICT infrastructure; government supported near universal home broadband penetration and free public access to wireless network; the government's telecommunication regulator, Infocomm Media Development Authority (IMDA), issued awards in mid-2020 to telecom operators with the goal of having at least 50% of the city-state covered with a standalone 5G network by the end of 2022; government actively promoting Smart Nation initiative supporting digital innovation; government oversees service providers and controls Internet content; well served by submarine cable and satellite connections (2021)
+- `國內`: fixed-line is 32 per 100 and mobile-cellular 146 per 100 teledensity (2021)
+- `國際的`: country code - 65; landing points for INDIGO-West, SeaMeWe -3,-4,-5, SIGMAR, SJC, i2icn, PGASCOM, BSCS, IGG, B3JS, SAEx2, APCN-2, APG, ASC, SEAX-1, ASE, EAC-C2C, Matrix Cable System and SJC2 submarine cables providing links throughout Asia, Southeast Asia, Africa, Australia, the Middle East, and Europe; satellite earth stations - 3, Bukit Timah, Seletar, and Sentosa; supplemented by VSAT coverage (2019 )
 
 ### 廣播媒體
 state controls broadcast media; 6 domestic TV stations operated by MediaCorp which is wholly owned by a state investment company; broadcasts from Malaysian and Indonesian stations available; satellite dishes banned; multi-channel cable TV services available; a total of 19 domestic radio stations broadcasting, with MediaCorp operating 11, Singapore Press Holdings, also government-linked, another 5, 2 controlled by the Singapore Armed Forces Reservists Association and one owned by BBC Radio; Malaysian and Indonesian radio stations are available as is BBC; a number of Internet service radio stations are also available (2019)
@@ -597,20 +597,20 @@ state controls broadcast media; 6 domestic TV stations operated by MediaCorp wh
 .sg
 
 ### 網際網路使用者
-- `total`: 5.369 million (2021 est.)
-- `percent of population`: 91% (2021 est.)
+- `總計`: 5.369 million (2021 est.)
+- `佔人口比例`: 91% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 1,509,700 (2020 est.)
-- `subscriptions per 100 inhabitants`: 26 (2020 est.)
+- `總計`: 1,509,700 (2020 est.)
+- `每100名居民訂閱數`: 26 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 4 (2020)
-- `inventory of registered aircraft operated by air carriers`: 230
-- `annual passenger traffic on registered air carriers`: 40,401,515 (2018)
-- `annual freight traffic on registered air carriers`: 5,194,900,000 (2018) mt-km
+- `註冊航空公司數量`: 4 (2020)
+- `註冊飛機庫存—航空承運商經營`: 230
+- `年度客運量－註冊航空公司`: 40,401,515 (2018)
+- `年度貨運量－註冊航空公司`: 5,194,900,000 (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 9V
@@ -625,21 +625,21 @@ state controls broadcast media; 6 domestic TV stations operated by MediaCorp wh
 3,220 km domestic gas (2014), 1,122 km cross-border pipelines (2017), 8 km refined products (2013)
 
 ### 道路
-- `total`: 3,500 km
-- `paved`: 3,500 km (2017) (includes 164 km of expressways)
+- `總計`: 3,500 km
+- `已鋪砌`: 3,500 km (2017) (includes 164 km of expressways)
 
 ### 商船
-- `total`: 3,202 (2023)
-- `by type`: bulk carrier 591, container ship 604, general cargo 107, oil tanker 600, other 1,300
+- `總計`: 3,202 (2023)
+- `依類型`: bulk carrier 591, container ship 604, general cargo 107, oil tanker 600, other 1,300
 
 ### 港口
-- `total ports`: 5 (2024)
-- `large`: 2
-- `medium`: 1
-- `small`: 1
-- `very small`: 1
-- `ports with oil terminals`: 3
-- `key ports`: Jurong Island, Keppel - (East Singapore), Pulau Bukom, Pulau Sebarok
+- `總港口數`: 5 (2024)
+- `大`: 2
+- `中`: 1
+- `小`: 1
+- `非常小`: 1
+- `原油碼頭港口`: 3
+- `主要港口`: Jurong Island, Keppel - (East Singapore), Pulau Bukom, Pulau Sebarok
 
 ## 軍事和安全
 
@@ -675,7 +675,7 @@ the SAF’s primary responsibility is external defense, but it has trained for c
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `stateless persons`: 1,109 (2022)
+- `無國籍人士`: 1,109 (2022)
 
 ### 非法藥物
 drug abuse limited because of aggressive law enforcement efforts, including carrying out death sentences; as a transportation and financial services hub, Singapore is vulnerable, despite strict laws and enforcement, as a venue for money laundering

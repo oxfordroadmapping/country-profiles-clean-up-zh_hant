@@ -19,16 +19,16 @@ Southern Asia, between China and India
 Asia
 
 ### 面積
-- `total `: 38,394 sq km
-- `land`: 38,394 sq km
-- `water`: 0 sq km
+- `總計`: 38,394 sq km
+- `土地`: 38,394 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 slightly larger than Maryland; about one-half the size of Indiana
 
 ### 陸地邊界
-- `total`: 1,136 km
-- `border countries`: China 477 km; India 659 km
+- `總計`: 1,136 km
+- `邊境國家`: China 477 km; India 659 km
 
 ### 海岸線
 0 km (landlocked)
@@ -43,20 +43,20 @@ varies; tropical in southern plains; cool winters and hot summers in central val
 mostly mountainous with some fertile valleys and savanna
 
 ### 海拔
-- `highest point`: Gangkar Puensum 7,570 m
-- `lowest point`: Drangeme Chhu 97 m
-- `mean elevation`: 2,220 m
+- `最高點`: Gangkar Puensum 7,570 m
+- `最低點`: Drangeme Chhu 97 m
+- `平均海拔`: 2,220 m
 
 ### 自然資源
 timber, hydropower, gypsum, calcium carbonate
 
 ### 土地利用
-- `agricultural land`: 13.6% (2018 est.)
-- `agricultural land: arable land`: arable land: 2.6% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.3% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 10.7% (2018 est.)
-- `forest`: 85.5% (2018 est.)
-- `other`: 0.9% (2018 est.)
+- `農地`: 13.6% (2018 est.)
+- `農地：耕地`: arable land: 2.6% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.3% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 10.7% (2018 est.)
+- `森林`: 85.5% (2018 est.)
+- `其它`: 0.9% (2018 est.)
 
 ### 灌溉土地
 320 sq km (2012)
@@ -70,13 +70,13 @@ landlocked; strategic location between China and India; controls several key Him
 ## 人民和社會
 
 ### 人口
-- `total`: 884,546
-- `male`: 457,665
-- `female`: 426,881 (2024 est.)
+- `總計`: 884,546
+- `男性`: 457,665
+- `女性`: 426,881 (2024 est.)
 
 ### 國籍
-- `noun`: Bhutanese (singular and plural)
-- `adjective`: Bhutanese
+- `名詞`: Bhutanese (singular and plural)
+- `形容詞`: Bhutanese
 
 ### 族裔群體
 Ngalop (also known as Bhote) 50%, ethnic Nepali 35% (predominantly Lhotshampas), indigenous or migrant tribes 15%
@@ -88,20 +88,20 @@ Sharchopkha 28%, Dzongkha (official) 24%, Lhotshamkha 22%, other 26% (includes f
 Lamaistic Buddhist 75.3%, Indian- and Nepali-influenced Hinduism 22.1%, other 2.6% (2005 est.)
 
 ### 年齡結構
-- `0-14 years`: 23.1% (male 104,771/female 99,981)
-- `15-64 years`: 70.2% (male 322,497/female 298,324)
-- `65 years and over`: 6.7% (2024 est.) (male 30,397/female 28,576)
+- `0-14歲`: 23.1% (male 104,771/female 99,981)
+- `15-64歲`: 70.2% (male 322,497/female 298,324)
+- `65歲及以上`: 6.7% (2024 est.) (male 30,397/female 28,576)
 
 ### 撫養比率
-- `total dependency ratio`: 40.7
-- `youth dependency ratio`: 32.1
-- `elderly dependency ratio`: 8.6
-- `potential support ratio`: 11.1 (2021 est.)
+- `總受扶養人比率`: 40.7
+- `少年撫養比率`: 32.1
+- `老人撫養比率`: 8.6
+- `潛在支持率`: 11.1 (2021 est.)
 
 ### 年齡中位數
-- `total`: 30.7 years (2024 est.)
-- `male`: 31.1 years
-- `female`: 30.3 years
+- `總計`: 30.7 years (2024 est.)
+- `男性`: 31.1 years
+- `女性`: 30.3 years
 
 ### 人口成長率
 0.95% (2024 est.)
@@ -116,31 +116,31 @@ Lamaistic Buddhist 75.3%, Indian- and Nepali-influenced Hinduism 22.1%, other 2.
 0 migrant(s)/1,000 population (2024 est.)
 
 ### 都市化
-- `urban population`: 44.4% of total population (2023)
-- `rate of urbanization`: 2.52% annual rate of change (2020-25 est.)
+- `城市人口`: 44.4% of total population (2023)
+- `城鎮化率`: 2.52% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 203,000 THIMPHU (capital) (2018)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.05 male(s)/female
-- `15-64 years`: 1.08 male(s)/female
-- `65 years and over`: 1.06 male(s)/female
-- `total population`: 1.07 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.05 male(s)/female
+- `15-64歲`: 1.08 male(s)/female
+- `65歲及以上`: 1.06 male(s)/female
+- `總人口數`: 1.07 male(s)/female (2024 est.)
 
 ### 產婦死亡率
 60 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 24.3 deaths/1,000 live births (2024 est.)
-- `male`: 24.6 deaths/1,000 live births
-- `female`: 23.9 deaths/1,000 live births
+- `總計`: 24.3 deaths/1,000 live births (2024 est.)
+- `男性`: 24.6 deaths/1,000 live births
+- `女性`: 23.9 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 73.7 years (2024 est.)
-- `male`: 72.5 years
-- `female`: 75 years
+- `總人口數`: 73.7 years (2024 est.)
+- `男性`: 72.5 years
+- `女性`: 75 years
 
 ### 總生育率
 1.76 children born/woman (2024 est.)
@@ -152,12 +152,12 @@ Lamaistic Buddhist 75.3%, Indian- and Nepali-influenced Hinduism 22.1%, other 2.
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: 99.5% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 99.8% of population
-- `unimproved: urban`: urban: 0.5% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0.2% of population (2020 est.)
+- `已改進－城市`: urban: 99.5% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 99.8% of population
+- `未改進：都市`: urban: 0.5% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0.2% of population (2020 est.)
 
 ### 當前醫療支出
 4.4% of GDP (2020)
@@ -169,22 +169,22 @@ NA
 1.7 beds/1,000 population (2012)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 90.8% of population
-- `improved: rural`: rural: 83.1% of population
-- `improved: total`: total: 86.4% of population
-- `unimproved: urban`: urban: 9.2% of population
-- `unimproved: rural`: rural: 16.9% of population
-- `unimproved: total`: total: 13.6% of population (2020 est.)
+- `已改進－城市`: urban: 90.8% of population
+- `已改進－農村`: rural: 83.1% of population
+- `已改進－總計`: total: 86.4% of population
+- `未改進：都市`: urban: 9.2% of population
+- `未改進：鄉村`: rural: 16.9% of population
+- `未改善：總計`: total: 13.6% of population (2020 est.)
 
 ### 肥胖—成人流行率
 6.4% (2016)
 
 ### 人均酒精消費量
-- `total`: 0.07 liters of pure alcohol (2019 est.)
-- `beer`: 0.01 liters of pure alcohol (2019 est.)
-- `wine`: 0.05 liters of pure alcohol (2019 est.)
-- `spirits`: 0 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 0.07 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.01 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.05 liters of pure alcohol (2019 est.)
+- `烈酒`: 0 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 5歲以下體重不足兒童
 NA
@@ -196,15 +196,15 @@ NA
 7% of GDP (2021 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 70.9%
-- `male`: 77.9%
-- `female`: 62.8% (2021)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 70.9%
+- `男性`: 77.9%
+- `女性`: 62.8% (2021)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 13 years
-- `male`: 13 years
-- `female`: 13 years (2018)
+- `總計`: 13 years
+- `男性`: 13 years
+- `女性`: 13 years (2018)
 
 ## 環境
 
@@ -212,23 +212,23 @@ NA
 soil erosion; limited access to potable water; wildlife conservation; industrial pollution; waste disposal
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Nuclear Test Ban, Ozone Layer Protection, Wetlands
-- `signed, but not ratified`: Law of the Sea
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Nuclear Test Ban, Ozone Layer Protection, Wetlands
+- `已簽署但未批準`: Law of the Sea
 
 ### 氣候
 varies; tropical in southern plains; cool winters and hot summers in central valleys; severe winters and cool summers in Himalayas
 
 ### 土地利用
-- `agricultural land`: 13.6% (2018 est.)
-- `agricultural land: arable land`: arable land: 2.6% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.3% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 10.7% (2018 est.)
-- `forest`: 85.5% (2018 est.)
-- `other`: 0.9% (2018 est.)
+- `農地`: 13.6% (2018 est.)
+- `農地：耕地`: arable land: 2.6% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.3% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 10.7% (2018 est.)
+- `森林`: 85.5% (2018 est.)
+- `其它`: 0.9% (2018 est.)
 
 ### 都市化
-- `urban population`: 44.4% of total population (2023)
-- `rate of urbanization`: 2.52% annual rate of change (2020-25 est.)
+- `城市人口`: 44.4% of total population (2023)
+- `城鎮化率`: 2.52% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 1.89% of GDP (2018 est.)
@@ -237,19 +237,19 @@ varies; tropical in southern plains; cool winters and hot summers in central val
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 26.1 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 1.26 megatons (2016 est.)
-- `methane emissions`: 1.11 megatons (2020 est.)
+- `顆粒物排放量`: 26.1 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 1.26 megatons (2016 est.)
+- `甲烷排放量`: 1.11 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 111,314 tons (2007 est.)
-- `municipal solid waste recycled annually`: 957 tons (2016 est.)
-- `percent of municipal solid waste recycled`: 0.9% (2016 est.)
+- `城市固體廢棄物－每年產生`: 111,314 tons (2007 est.)
+- `城市固體廢棄物－每年回收`: 957 tons (2016 est.)
+- `城市固體廢棄物－回收百分比`: 0.9% (2016 est.)
 
 ### 總取水量
-- `municipal`: 20 million cubic meters (2020 est.)
-- `industrial`: 3 million cubic meters (2019 est.)
-- `agricultural`: 320 million cubic meters (2020 est.)
+- `市級`: 20 million cubic meters (2020 est.)
+- `工業`: 3 million cubic meters (2019 est.)
+- `農業`: 320 million cubic meters (2020 est.)
 
 ### 可再生水資源總量
 78 billion cubic meters (2020 est.)
@@ -257,20 +257,20 @@ varies; tropical in southern plains; cool winters and hot summers in central val
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Kingdom of Bhutan
-- `conventional short form`: Bhutan
-- `local long form`: Druk Gyalkhap
-- `local short form`: Druk Yul
-- `etymology`: named after the Bhotia, the ethnic Tibetans who migrated from Tibet to Bhutan; "Bod" is the Tibetan name for their land; the Bhutanese name "Druk Yul" means "Land of the Thunder Dragon"
+- `常用長名`: Kingdom of Bhutan
+- `常用短名`: Bhutan
+- `當地語長名`: Druk Gyalkhap
+- `當地語短名`: Druk Yul
+- `语源学`: named after the Bhotia, the ethnic Tibetans who migrated from Tibet to Bhutan; "Bod" is the Tibetan name for their land; the Bhutanese name "Druk Yul" means "Land of the Thunder Dragon"
 
 ### 政府類型
 constitutional monarchy
 
 ### 首都
-- `name`: Thimphu
-- `geographic coordinates`: 27 28 N, 89 38 E
-- `time difference`: UTC+6 (11 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: the origins of the name are unclear; the traditional explanation, dating to the 14th century, is that *thim *means "dissolve" and *phu* denotes "high ground" to express the meaning of "dissolving high ground," in reference to a local deity that dissolved before a traveler's eyes, becoming a part of the rock on which the present city stands
+- `名稱`: Thimphu
+- `地理坐標`: 27 28 N, 89 38 E
+- `時差`: UTC+6 (11 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: the origins of the name are unclear; the traditional explanation, dating to the 14th century, is that *thim *means "dissolve" and *phu* denotes "high ground" to express the meaning of "dissolving high ground," in reference to a local deity that dissolved before a traveler's eyes, becoming a part of the rock on which the present city stands
 
 ### 行政區劃
 20 districts (dzongkhag, singular and plural); Bumthang, Chhukha, Dagana, Gasa, Haa, Lhuentse, Mongar, Paro, Pemagatshel, Punakha, Samdrup Jongkhar, Samtse, Sarpang, Thimphu, Trashigang, Trashi Yangtse, Trongsa, Tsirang, Wangdue Phodrang, Zhemgang
@@ -285,36 +285,36 @@ National Day (Ugyen WANGCHUCK became first hereditary king), 17 December (1907)
 civil law based on Buddhist religious law
 
 ### 憲法
-- `history`: previous governing documents were various royal decrees; first constitution drafted November 2001 to March 2005, ratified 18 July 2008
-- `amendments`: proposed as a motion by simple majority vote in a joint session of Parliament; passage requires at least a three-fourths majority vote in a joint session of the next Parliament and assent by the king
+- `歷史`: previous governing documents were various royal decrees; first constitution drafted November 2001 to March 2005, ratified 18 July 2008
+- `修正`: proposed as a motion by simple majority vote in a joint session of Parliament; passage requires at least a three-fourths majority vote in a joint session of the next Parliament and assent by the king
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: the father must be a citizen of Bhutan
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 10 years
+- `出生公民權`: no
+- `血統公民身份`: the father must be a citizen of Bhutan
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 10 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: King Jigme Khesar Namgyel WANGCHUCK (since 14 December 2006)
-- `head of government`: Prime Minister Tshering TOBGAY (since 28 January 2024)
-- `cabinet`: Council of Ministers or Lhengye Zhungtshog members nominated by the monarch in consultation with the prime minister and approved by the National Assembly; members serve 5-year terms
-- `elections/appointments`: the monarchy is hereditary but can be removed by a two-thirds vote of Parliament; leader of the majority party in Parliament is nominated as the prime minister, appointed by the monarch
+- `國家元首`: King Jigme Khesar Namgyel WANGCHUCK (since 14 December 2006)
+- `政府首腦`: Prime Minister Tshering TOBGAY (since 28 January 2024)
+- `内閣`: Council of Ministers or Lhengye Zhungtshog members nominated by the monarch in consultation with the prime minister and approved by the National Assembly; members serve 5-year terms
+- `選舉/任命`: the monarchy is hereditary but can be removed by a two-thirds vote of Parliament; leader of the majority party in Parliament is nominated as the prime minister, appointed by the monarch
 
 ### 立法部門
-- `description`: bicameral Parliament or Chi Tshog consists of:non-partisan National Council or Gyelyong Tshogde (25 seats; 20 members directly elected in single-seat constituencies by simple majority vote and 5 members appointed by the king; members serve 5-year terms) National Assembly or Tshogdu (47 seats; members directly elected in single-seat constituencies in a two-round system; in the primary round, contesting political parties are directly selected by simple majority vote; in the main round, the two top parties in the primary round field candidates who are directly elected by simple majority vote; members serve 5-year terms)
-- `elections`: National Council - last held on 20 April 2023 (next to be held in 2028)National Assembly - first round held on 30 November 2023 with a runoff on 9 January 2024 (next to be held in 2028)
-- `election results`: National Council - seats by party - independent 20 (all candidates ran as independents) and 5 appointed by the king; composition - men 22, women 3, percentage women 12%  National Assembly - percent of vote by party in first round - PDP 42.5%, BTP 19.6%, DPT 14.9%, DNT 13.1% DTT 9.8%; percent of vote in second round - PDP 55%, BTP 45%; seats by party PDP 30, BTP 17; composition - men 45, women 2, percentage women 4.3%; total percentage women in Parliament 6.9%
+- `描述`: bicameral Parliament or Chi Tshog consists of:non-partisan National Council or Gyelyong Tshogde (25 seats; 20 members directly elected in single-seat constituencies by simple majority vote and 5 members appointed by the king; members serve 5-year terms) National Assembly or Tshogdu (47 seats; members directly elected in single-seat constituencies in a two-round system; in the primary round, contesting political parties are directly selected by simple majority vote; in the main round, the two top parties in the primary round field candidates who are directly elected by simple majority vote; members serve 5-year terms)
+- `選舉`: National Council - last held on 20 April 2023 (next to be held in 2028)National Assembly - first round held on 30 November 2023 with a runoff on 9 January 2024 (next to be held in 2028)
+- `選舉結果`: National Council - seats by party - independent 20 (all candidates ran as independents) and 5 appointed by the king; composition - men 22, women 3, percentage women 12%  National Assembly - percent of vote by party in first round - PDP 42.5%, BTP 19.6%, DPT 14.9%, DNT 13.1% DTT 9.8%; percent of vote in second round - PDP 55%, BTP 45%; seats by party PDP 30, BTP 17; composition - men 45, women 2, percentage women 4.3%; total percentage women in Parliament 6.9%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court (consists of the chief justice and 4 associate justices); note - the Supreme Court has sole jurisdiction in constitutional matters
-- `judge selection and term of office`: Supreme Court chief justice appointed by the monarch upon the advice of the National Judicial Commission, a 4-member body to include the Legislative Committee of the National Assembly, the attorney general, the Chief Justice of Bhutan and the senior Associate Justice of the Supreme Court; other judges (drangpons) appointed by the monarch from among the High Court judges selected by the National Judicial Commission; chief justice serves a 5-year term or until reaching age 65 years, whichever is earlier; the 4 other judges serve 10-year terms or until age 65, whichever is earlier
-- `subordinate courts`: High Court (first appellate court); District or Dzongkhag Courts; sub-district or Dungkhag Courts
+- `最高法院`: Supreme Court (consists of the chief justice and 4 associate justices); note - the Supreme Court has sole jurisdiction in constitutional matters
+- `法官遴選和任期`: Supreme Court chief justice appointed by the monarch upon the advice of the National Judicial Commission, a 4-member body to include the Legislative Committee of the National Assembly, the attorney general, the Chief Justice of Bhutan and the senior Associate Justice of the Supreme Court; other judges (drangpons) appointed by the monarch from among the High Court judges selected by the National Judicial Commission; chief justice serves a 5-year term or until reaching age 65 years, whichever is earlier; the 4 other judges serve 10-year terms or until age 65, whichever is earlier
+- `下級法院`: High Court (first appellate court); District or Dzongkhag Courts; sub-district or Dungkhag Courts
 
 ### 政黨
 Bhutan Peace and Prosperity Party (Druk Phuensum Tshogpa) or DPTBhutan Tendrel Party or BTPDruk Thuendrel Tshogpa or DTTPeople's Democratic Party or PDPUnited Party of Bhutan (Druk Nyamrup Tshogpa) or DNT
@@ -323,15 +323,15 @@ Bhutan Peace and Prosperity Party (Druk Phuensum Tshogpa) or DPTBhutan Tendrel P
 ADB, BIMSTEC, CP, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IMF, Interpol, IOC, IOM (observer), IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador/Permanent Representative to the United Nations (vacant); Chargé d'Affaires Phuntsho NORBU (since October 2022); note - also serving as the Deputy Permanent Representative to the UN
-- `telephone`: [1] (212) 682-2371
+- `外交代表負責人`: Ambassador/Permanent Representative to the United Nations (vacant); Chargé d'Affaires Phuntsho NORBU (since October 2022); note - also serving as the Deputy Permanent Representative to the UN
+- `電話號碼`: [1] (212) 682-2371
 - `FAX`: [1] (212) 661-0551
-- `email address and website`: consulate.pmbny@mfa.gov.bt  https://www.mfa.gov.bt/pmbny/
-- `consulate(s) general`: 343 East, 43rd Street, New York, NY 10017
+- `電子郵件地址和網站`: consulate.pmbny@mfa.gov.bt  https://www.mfa.gov.bt/pmbny/
+- `總領事館`: 343 East, 43rd Street, New York, NY 10017
 **note**:  although Bhutan and the United States do not have diplomatic relations, the two countries established consular relations on 23 July 1986; the Consulate General of the Kingdom of Bhutan was established in New York with an officer from the Permanent Mission of the Kingdom of Bhutan to the United Nations holding dual accreditation as the Consul General with consular jurisdiction in the US
 
 ### 駐該國的美國外交代表
-- `embassy`: none; frequent informal contact is maintained via the US embassy in New Delhi (India) and Bhutan's Permanent Mission to the UN
+- `大使館`: none; frequent informal contact is maintained via the US embassy in New Delhi (India) and Bhutan's Permanent Mission to the UN
 
 ### 旗幟說明
 divided diagonally from the lower hoist-side corner; the upper triangle is yellow and the lower triangle is orange; centered along the dividing line is a large black and white dragon facing away from the hoist side; the dragon, called the Druk (Thunder Dragon), is the emblem of the nation; its white color stands for purity and the jewels in its claws symbolize wealth; the background colors represent spiritual and secular powers within Bhutan: the orange is associated with Buddhism, while the yellow denotes the ruling dynasty
@@ -340,8 +340,8 @@ divided diagonally from the lower hoist-side corner; the upper triangle is yello
 thunder dragon known as Druk Gyalpo; national colors: orange, yellow
 
 ### 國歌
-- `name`: "Druk tsendhen" (The Thunder Dragon Kingdom)
-- `lyrics/music`: Gyaldun Dasho Thinley DORJI/Aku TONGMI
+- `名稱`: "Druk tsendhen" (The Thunder Dragon Kingdom)
+- `歌詞／音樂`: Gyaldun Dasho Thinley DORJI/Aku TONGMI
 **note**:  adopted 1953
 
 ## 經濟
@@ -378,18 +378,18 @@ $2.898 billion (2022 est.)
 **note**: annual % change based on consumer prices
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 14.7% (2022 est.)
-- `industry`: 31.8% (2022 est.)
-- `services`: 51.2% (2022 est.)
+- `農業`: 14.7% (2022 est.)
+- `產業`: 31.8% (2022 est.)
+- `服務`: 51.2% (2022 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 57.6% (2022 est.)
-- `government consumption`: 21% (2022 est.)
-- `investment in fixed capital`: 55.2% (2022 est.)
-- `investment in inventories`: 0.1% (2022 est.)
-- `exports of goods and services`: 25.8% (2022 est.)
-- `imports of goods and services`: -60.1% (2022 est.)
+- `家庭消費`: 57.6% (2022 est.)
+- `政府消費`: 21% (2022 est.)
+- `固定資本投資`: 55.2% (2022 est.)
+- `存貨投資`: 0.1% (2022 est.)
+- `商品和服務出口`: 25.8% (2022 est.)
+- `商品和服務進口`: -60.1% (2022 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -414,9 +414,9 @@ cement, wood products, processed fruits, alcoholic beverages, calcium carbide, t
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 29.2% (2023 est.)
-- `male`: 25.1% (2023 est.)
-- `female`: 33.1% (2023 est.)
+- `總計`: 29.2% (2023 est.)
+- `男性`: 25.1% (2023 est.)
+- `女性`: 33.1% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -428,8 +428,8 @@ cement, wood products, processed fruits, alcoholic beverages, calcium carbide, t
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 3.6% (2022 est.)
-- `highest 10%`: 22.7% (2022 est.)
+- `最低10%`: 3.6% (2022 est.)
+- `最高10%`: 22.7% (2022 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -439,8 +439,8 @@ cement, wood products, processed fruits, alcoholic beverages, calcium carbide, t
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $740.333 million (2020 est.)
-- `expenditures`: $591.697 million (2020 est.)
+- `收入`: $740.333 million (2020 est.)
+- `支出`: $591.697 million (2020 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -506,31 +506,31 @@ $2.514 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 2.342 million kW (2022 est.)
-- `consumption`: 9.752 billion kWh (2022 est.)
-- `exports`: 6 billion kWh (2020 est.)
-- `imports`: 834.7 million kWh (2022 est.)
-- `transmission/distribution losses`: 83.626 million kWh (2022 est.)
+- `裝機容量`: 2.342 million kW (2022 est.)
+- `消費`: 9.752 billion kWh (2022 est.)
+- `出口`: 6 billion kWh (2020 est.)
+- `進口`: 834.7 million kWh (2022 est.)
+- `傳輸／分配損耗`: 83.626 million kWh (2022 est.)
 
 ### 發電來源
-- `hydroelectricity`: 100% of total installed capacity (2022 est.)
+- `水力發電`: 100% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `production`: 177,000 metric tons (2022 est.)
-- `consumption`: 325,000 metric tons (2022 est.)
-- `exports`: 100 metric tons (2022 est.)
-- `imports`: 148,000 metric tons (2022 est.)
+- `生產`: 177,000 metric tons (2022 est.)
+- `消費`: 325,000 metric tons (2022 est.)
+- `出口`: 100 metric tons (2022 est.)
+- `進口`: 148,000 metric tons (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 3,000 bbl/day (2022 est.)
+- `成品油消費量`: 3,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 1.206 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 728,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 478,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 1.206 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 728,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 478,000 metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 60.788 million Btu/person (2022 est.)
@@ -538,17 +538,17 @@ $2.514 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 20,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 3 (2022 est.)
+- `總訂閱數`: 20,000 (2022 est.)
+- `每100名居民訂閱數`: 3 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 742,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 95 (2022 est.)
+- `總訂閱數`: 742,000 (2022 est.)
+- `每100名居民訂閱數`: 95 (2022 est.)
 
 ### 電信系統
-- `general assessment`: the small land-locked Kingdom of Bhutan has only recently emerged from decades of isolation from the modern world; that, and its mountainous terrain, left the country far back in the field in terms of teledensity as well as access to the Internet; over the last decade, the country has undergone a significant transformation due to the opening of its borders, liberalization of its telecom sector, and the active support from the government towards increased competition in the mobile, broadband, and ISP segments; the relatively widespread availability of the mobile platform has caused an explosion in mobile broadband subscriber numbers, growing from zero to over 100% penetration in just ten years (between 2010 and 2019).; the onset of the Covid-19 crisis in 2020 caused the subscription rates to drop back a little; growth is projected to return in 2022 (along with the broader mobile market) as the overall economy recovers; the government opens up more to foreign investment, trade, and tourism; and network expansion continues – the recent (December 2021) launch of 5G services by both of the country’s mobile operators being particularly noteworthy (2022)
-- `domestic`: approximately 3 to 100 fixed-line and 100 mobile cellular subscriptions per 100 people (2021)
-- `international`: country code - 975; international telephone and telegraph service via landline and microwave relay through India; satellite earth station - 1 Intelsat
+- `總體評估`: the small land-locked Kingdom of Bhutan has only recently emerged from decades of isolation from the modern world; that, and its mountainous terrain, left the country far back in the field in terms of teledensity as well as access to the Internet; over the last decade, the country has undergone a significant transformation due to the opening of its borders, liberalization of its telecom sector, and the active support from the government towards increased competition in the mobile, broadband, and ISP segments; the relatively widespread availability of the mobile platform has caused an explosion in mobile broadband subscriber numbers, growing from zero to over 100% penetration in just ten years (between 2010 and 2019).; the onset of the Covid-19 crisis in 2020 caused the subscription rates to drop back a little; growth is projected to return in 2022 (along with the broader mobile market) as the overall economy recovers; the government opens up more to foreign investment, trade, and tourism; and network expansion continues – the recent (December 2021) launch of 5G services by both of the country’s mobile operators being particularly noteworthy (2022)
+- `國內`: approximately 3 to 100 fixed-line and 100 mobile cellular subscriptions per 100 people (2021)
+- `國際的`: country code - 975; international telephone and telegraph service via landline and microwave relay through India; satellite earth station - 1 Intelsat
 
 ### 廣播媒體
 state-owned TV station established in 1999; cable TV service offers dozens of Indian and other international channels; first radio station, privately launched in 1973, is now state-owned; 5 private radio stations are currently broadcasting (2012)
@@ -557,20 +557,20 @@ state-owned TV station established in 1999; cable TV service offers dozens of In
 .bt
 
 ### 網際網路使用者
-- `total`: 670,800 (2021 est.)
-- `percent of population`: 86% (2021 est.)
+- `總計`: 670,800 (2021 est.)
+- `佔人口比例`: 86% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 3,189 (2020 est.)
-- `subscriptions per 100 inhabitants`: 0.4 (2020 est.)
+- `總計`: 3,189 (2020 est.)
+- `每100名居民訂閱數`: 0.4 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 2 (2020)
-- `inventory of registered aircraft operated by air carriers`: 6
-- `annual passenger traffic on registered air carriers`: 275,849 (2018)
-- `annual freight traffic on registered air carriers`: 690,000 (2018) mt-km
+- `註冊航空公司數量`: 2 (2020)
+- `註冊飛機庫存—航空承運商經營`: 6
+- `年度客運量－註冊航空公司`: 275,849 (2018)
+- `年度貨運量－註冊航空公司`: 690,000 (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 A5
@@ -582,8 +582,8 @@ A5
 8 (2024)
 
 ### 道路
-- `total`: 12,205 km (2017)
-- `urban`: 437 km
+- `總計`: 12,205 km (2017)
+- `城市`: 437 km
 
 ## 軍事和安全
 

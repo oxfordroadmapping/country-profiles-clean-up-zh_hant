@@ -19,25 +19,25 @@ Southern Asia, bordering the Bay of Bengal, between Burma and India
 Asia
 
 ### 面積
-- `total `: 148,460 sq km
-- `land`: 130,170 sq km
-- `water`: 18,290 sq km
+- `總計`: 148,460 sq km
+- `土地`: 130,170 sq km
+- `水`: 18,290 sq km
 
 ### 面積—比較
 slightly larger than Pennsylvania and New Jersey combined; slightly smaller than Iowa
 
 ### 陸地邊界
-- `total`: 4,413 km
-- `border countries`: Burma 271 km; India 4,142 km
+- `總計`: 4,413 km
+- `邊境國家`: Burma 271 km; India 4,142 km
 
 ### 海岸線
 580 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 18 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: to the outer limits of the continental margin
+- `領海`: 12 nm
+- `毗連區`: 18 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: to the outer limits of the continental margin
 
 ### 氣候
 tropical; mild winter (October to March); hot, humid summer (March to June); humid, warm rainy monsoon (June to October)
@@ -46,20 +46,20 @@ tropical; mild winter (October to March); hot, humid summer (March to June); hum
 mostly flat alluvial plain; hilly in southeast
 
 ### 海拔
-- `highest point`: Mowdok Taung 1,060 m
-- `lowest point`: Indian Ocean 0 m
-- `mean elevation`: 85 m
+- `最高點`: Mowdok Taung 1,060 m
+- `最低點`: Indian Ocean 0 m
+- `平均海拔`: 85 m
 
 ### 自然資源
 natural gas, arable land, timber, coal
 
 ### 土地利用
-- `agricultural land`: 70.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 59% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 6.5% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 4.6% (2018 est.)
-- `forest`: 11.1% (2018 est.)
-- `other`: 18.8% (2018 est.)
+- `農地`: 70.1% (2018 est.)
+- `農地：耕地`: arable land: 59% (2018 est.)
+- `農地：永久性作物`: permanent crops: 6.5% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 4.6% (2018 est.)
+- `森林`: 11.1% (2018 est.)
+- `其它`: 18.8% (2018 est.)
 
 ### 灌溉土地
 81,270 sq km (2020)
@@ -82,13 +82,13 @@ most of the country is situated on deltas of large rivers flowing from the Himal
 ## 人民和社會
 
 ### 人口
-- `total`: 168,697,184
-- `male`: 82,708,252
-- `female`: 85,988,932 (2024 est.)
+- `總計`: 168,697,184
+- `男性`: 82,708,252
+- `女性`: 85,988,932 (2024 est.)
 
 ### 國籍
-- `noun`: Bangladeshi(s)
-- `adjective`: Bangladeshi
+- `名詞`: Bangladeshi(s)
+- `形容詞`: Bangladeshi
 
 ### 族裔群體
 Bengali at least 99%, other indigenous ethnic groups 1% (2022 est.)
@@ -96,26 +96,26 @@ Bengali at least 99%, other indigenous ethnic groups 1% (2022 est.)
 
 ### 語文
 Bangla 98.8% (official, also known as Bengali), other 1.2% (2011 est.)
-- `major-language sample(s)`: বিশ্ব ফ্যাক্টবুক, মৌলিক তথ্যের অপরিহার্য উৎস (Bangla) The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: বিশ্ব ফ্যাক্টবুক, মৌলিক তথ্যের অপরিহার্য উৎস (Bangla) The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Muslim 91%, Hindu 8%, other 1% (2022 est.)
 
 ### 年齡結構
-- `0-14 years`: 25.1% (male 21,540,493/female 20,800,712)
-- `15-64 years`: 67.1% (male 55,071,592/female 58,180,322)
-- `65 years and over`: 7.8% (2024 est.) (male 6,096,167/female 7,007,898)
+- `0-14歲`: 25.1% (male 21,540,493/female 20,800,712)
+- `15-64歲`: 67.1% (male 55,071,592/female 58,180,322)
+- `65歲及以上`: 7.8% (2024 est.) (male 6,096,167/female 7,007,898)
 
 ### 撫養比率
-- `total dependency ratio`: 47.7
-- `youth dependency ratio`: 39.1
-- `elderly dependency ratio`: 8.6
-- `potential support ratio`: 11.6 (2021 est.)
+- `總受扶養人比率`: 47.7
+- `少年撫養比率`: 39.1
+- `老人撫養比率`: 8.6
+- `潛在支持率`: 11.6 (2021 est.)
 
 ### 年齡中位數
-- `total`: 29.6 years (2024 est.)
-- `male`: 28.7 years
-- `female`: 30.4 years
+- `總計`: 29.6 years (2024 est.)
+- `男性`: 28.7 years
+- `女性`: 30.4 years
 
 ### 人口成長率
 0.89% (2024 est.)
@@ -130,18 +130,18 @@ Muslim 91%, Hindu 8%, other 1% (2022 est.)
 -2.9 migrant(s)/1,000 population (2024 est.)
 
 ### 都市化
-- `urban population`: 40.5% of total population (2023)
-- `rate of urbanization`: 2.88% annual rate of change (2020-25 est.)
+- `城市人口`: 40.5% of total population (2023)
+- `城鎮化率`: 2.88% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 23.210 million DHAKA (capital), 5.380 million Chittagong, 955,000 Khulna, 962,000 Rajshahi, 964,000 Sylhet, 906,000 Bogra (2023)
 
 ### 性別比例
-- `at birth`: 1.04 male(s)/female
-- `0-14 years`: 1.04 male(s)/female
-- `15-64 years`: 0.95 male(s)/female
-- `65 years and over`: 0.87 male(s)/female
-- `total population`: 0.96 male(s)/female (2024 est.)
+- `出生時`: 1.04 male(s)/female
+- `0-14歲`: 1.04 male(s)/female
+- `15-64歲`: 0.95 male(s)/female
+- `65歲及以上`: 0.87 male(s)/female
+- `總人口數`: 0.96 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 18.6 years (2017/18 est.)
@@ -151,14 +151,14 @@ Muslim 91%, Hindu 8%, other 1% (2022 est.)
 123 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 28.8 deaths/1,000 live births (2024 est.)
-- `male`: 31.3 deaths/1,000 live births
-- `female`: 26.3 deaths/1,000 live births
+- `總計`: 28.8 deaths/1,000 live births (2024 est.)
+- `男性`: 31.3 deaths/1,000 live births
+- `女性`: 26.3 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 75.2 years (2024 est.)
-- `male`: 73.1 years
-- `female`: 77.5 years
+- `總人口數`: 75.2 years (2024 est.)
+- `男性`: 73.1 years
+- `女性`: 77.5 years
 
 ### 總生育率
 2.07 children born/woman (2024 est.)
@@ -170,12 +170,12 @@ Muslim 91%, Hindu 8%, other 1% (2022 est.)
 62.7% (2019)
 
 ### 飲用水來源
-- `improved: urban`: urban: 99% of population
-- `improved: rural`: rural: 98.7% of population
-- `improved: total`: total: 98.9% of population
-- `unimproved: urban`: urban: 1% of population
-- `unimproved: rural`: rural: 1.3% of population
-- `unimproved: total`: total: 1.1% of population (2020 est.)
+- `已改進－城市`: urban: 99% of population
+- `已改進－農村`: rural: 98.7% of population
+- `已改進－總計`: total: 98.9% of population
+- `未改進：都市`: urban: 1% of population
+- `未改進：鄉村`: rural: 1.3% of population
+- `未改善：總計`: total: 1.1% of population (2020 est.)
 
 ### 當前醫療支出
 2.6% of GDP (2020)
@@ -187,27 +187,27 @@ Muslim 91%, Hindu 8%, other 1% (2022 est.)
 0.8 beds/1,000 population (2016)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 85.3% of population
-- `improved: rural`: rural: 73.5% of population
-- `improved: total`: total: 78% of population
-- `unimproved: urban`: urban: 14.7% of population
-- `unimproved: rural`: rural: 26.5% of population
-- `unimproved: total`: total: 22% of population (2020 est.)
+- `已改進－城市`: urban: 85.3% of population
+- `已改進－農村`: rural: 73.5% of population
+- `已改進－總計`: total: 78% of population
+- `未改進：都市`: urban: 14.7% of population
+- `未改進：鄉村`: rural: 26.5% of population
+- `未改善：總計`: total: 22% of population (2020 est.)
 
 ### 肥胖—成人流行率
 3.6% (2016)
 
 ### 人均酒精消費量
-- `total`: 0 liters of pure alcohol (2019 est.)
-- `beer`: 0 liters of pure alcohol (2019 est.)
-- `wine`: 0 liters of pure alcohol (2019 est.)
-- `spirits`: 0 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 0 liters of pure alcohol (2019 est.)
+- `啤酒`: 0 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0 liters of pure alcohol (2019 est.)
+- `烈酒`: 0 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 34.7% (2020 est.)
-- `male`: 52.2% (2020 est.)
-- `female`: 17.1% (2020 est.)
+- `總計`: 34.7% (2020 est.)
+- `男性`: 52.2% (2020 est.)
+- `女性`: 17.1% (2020 est.)
 
 ### 5歲以下體重不足兒童
 22.6% (2019)
@@ -216,22 +216,22 @@ Muslim 91%, Hindu 8%, other 1% (2022 est.)
 80.1% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 15.5%
-- `women married by age 18`: 51.4% (2019 est.)
+- `15歲前結婚的女性`: 15.5%
+- `18歲前結婚的女性`: 51.4% (2019 est.)
 
 ### 教育支出
 2.1% of GDP (2021 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 74.9%
-- `male`: 77.8%
-- `female`: 72% (2020)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 74.9%
+- `男性`: 77.8%
+- `女性`: 72% (2020)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 12 years
-- `male`: 12 years
-- `female`: 13 years (2020)
+- `總計`: 12 years
+- `男性`: 12 years
+- `女性`: 13 years (2020)
 
 ## 環境
 
@@ -239,26 +239,26 @@ Muslim 91%, Hindu 8%, other 1% (2022 est.)
 many people are landless and forced to live on and cultivate flood-prone land; waterborne diseases prevalent in surface water; water pollution, especially of fishing areas, results from the use of commercial pesticides; ground water contaminated by naturally occurring arsenic; intermittent water shortages because of falling water tables in the northern and central parts of the country; soil degradation and erosion; deforestation; destruction of wetlands; severe overpopulation with noise pollution
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 tropical; mild winter (October to March); hot, humid summer (March to June); humid, warm rainy monsoon (June to October)
 
 ### 土地利用
-- `agricultural land`: 70.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 59% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 6.5% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 4.6% (2018 est.)
-- `forest`: 11.1% (2018 est.)
-- `other`: 18.8% (2018 est.)
+- `農地`: 70.1% (2018 est.)
+- `農地：耕地`: arable land: 59% (2018 est.)
+- `農地：永久性作物`: permanent crops: 6.5% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 4.6% (2018 est.)
+- `森林`: 11.1% (2018 est.)
+- `其它`: 18.8% (2018 est.)
 
 ### 都市化
-- `urban population`: 40.5% of total population (2023)
-- `rate of urbanization`: 2.88% annual rate of change (2020-25 est.)
+- `城市人口`: 40.5% of total population (2023)
+- `城鎮化率`: 2.88% annual rate of change (2020-25 est.)
 
 ### 糧食不安全
-- `severe localized food insecurity`: *due to economic constraints and high prices of important food items -* food insecurity is expected to remain fragile, given persisting economic constraints; domestic prices of wheat flour and palm oil, important food items, were at high levels in May 2023 (2023)
+- `嚴重的地區糧食不安全`: *due to economic constraints and high prices of important food items -* food insecurity is expected to remain fragile, given persisting economic constraints; domestic prices of wheat flour and palm oil, important food items, were at high levels in May 2023 (2023)
 
 ### 森林資源收入
 0.08% of GDP (2018 est.)
@@ -267,12 +267,12 @@ tropical; mild winter (October to March); hot, humid summer (March to June); hum
 0.02% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 45.99 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 84.25 megatons (2016 est.)
-- `methane emissions`: 59.3 megatons (2020 est.)
+- `顆粒物排放量`: 45.99 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 84.25 megatons (2016 est.)
+- `甲烷排放量`: 59.3 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 14,778,497 tons (2012 est.)
+- `城市固體廢棄物－每年產生`: 14,778,497 tons (2012 est.)
 
 ### 主要河流（按公里長度）
 Brahmaputra river mouth (shared with China [s] and India) - 3,969 km; Ganges river mouth (shared with India [s]) - 2,704 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -284,9 +284,9 @@ Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km)
 Indus-Ganges-Brahmaputra Basin
 
 ### 總取水量
-- `municipal`: 3.6 billion cubic meters (2020 est.)
-- `industrial`: 770 million cubic meters (2020 est.)
-- `agricultural`: 31.5 billion cubic meters (2020 est.)
+- `市級`: 3.6 billion cubic meters (2020 est.)
+- `工業`: 770 million cubic meters (2020 est.)
+- `農業`: 31.5 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 1.23 trillion cubic meters (2020 est.)
@@ -294,21 +294,21 @@ Indus-Ganges-Brahmaputra Basin
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: People's Republic of Bangladesh
-- `conventional short form`: Bangladesh
-- `local long form`: Gana Prajatantri Bangladesh
-- `local short form`: Bangladesh
-- `former`: East Bengal, East Pakistan
-- `etymology`: the name - a compound of the Bengali words "Bangla" (Bengal) and "desh" (country) - means "Country of Bengal"
+- `常用長名`: People's Republic of Bangladesh
+- `常用短名`: Bangladesh
+- `當地語長名`: Gana Prajatantri Bangladesh
+- `當地語短名`: Bangladesh
+- `前任`: East Bengal, East Pakistan
+- `语源学`: the name - a compound of the Bengali words "Bangla" (Bengal) and "desh" (country) - means "Country of Bengal"
 
 ### 政府類型
 parliamentary republic
 
 ### 首都
-- `name`: Dhaka
-- `geographic coordinates`: 23 43 N, 90 24 E
-- `time difference`: UTC+6 (11 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: the origins of the name are unclear, but some sources state that the city's site was originally called "dhakka," meaning "watchtower," and that the area served as a watch-station for Bengal rulers
+- `名稱`: Dhaka
+- `地理坐標`: 23 43 N, 90 24 E
+- `時差`: UTC+6 (11 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: the origins of the name are unclear, but some sources state that the city's site was originally called "dhakka," meaning "watchtower," and that the area served as a watch-station for Bengal rulers
 
 ### 行政區劃
 8 divisions; Barishal, Chattogram, Dhaka, Khulna, Mymensingh, Rajshahi, Rangpur, Sylhet
@@ -323,38 +323,38 @@ Independence Day, 26 March (1971); Victory Day, 16 December (1971); note - 26 Ma
 common law; since independence, statutory law enacted by the Parliament of Bangladesh has been the primary form of legislation; Bangladeshi law incorporates elements of English common law; Islamic law applies to Bangladeshi Muslims in family and inheritance laws, with Hindu personal law applying to Bangladeshi Hindus and Buddhists  
 
 ### 憲法
-- `history`: previous 1935, 1956, 1962 (preindependence); latest enacted 4 November 1972, effective 16 December 1972, suspended March 1982, restored November 1986
-- `amendments`: proposed by the House of the Nation; approval requires at least two-thirds majority vote of the House membership and assent of the president of the republic; amended many times, last in 2018
+- `歷史`: previous 1935, 1956, 1962 (preindependence); latest enacted 4 November 1972, effective 16 December 1972, suspended March 1982, restored November 1986
+- `修正`: proposed by the House of the Nation; approval requires at least two-thirds majority vote of the House membership and assent of the president of the republic; amended many times, last in 2018
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Bangladesh
-- `dual citizenship recognized`: yes, but limited to select countries
-- `residency requirement for naturalization`: 5 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Bangladesh
+- `承認雙重國籍`: yes, but limited to select countries
+- `入籍的居留要求`: 5 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Mohammad Shahabuddin CHUPPI (since 24 April 2023)
-- `head of government`: Interim Prime Minister Muhammad YUNUS (since 8 August 2024)
-- `cabinet`: Cabinet selected by the prime minister, appointed by the president
-- `elections/appointments`: president indirectly elected by the National Parliament for a 5-year term (eligible for a second term); election last held on 13 February 2023 (next to be held by 2028); the president appoints as prime minister the majority party leader in the National Parliament
-- `election results`: President Mohammad Shahabuddin CHUPPI (AL) elected unopposed by the National Parliament; Sheikh HASINA reappointed prime minister for a fifth term following the 7 January 2024 parliamentary election
+- `國家元首`: President Mohammad Shahabuddin CHUPPI (since 24 April 2023)
+- `政府首腦`: Interim Prime Minister Muhammad YUNUS (since 8 August 2024)
+- `内閣`: Cabinet selected by the prime minister, appointed by the president
+- `選舉/任命`: president indirectly elected by the National Parliament for a 5-year term (eligible for a second term); election last held on 13 February 2023 (next to be held by 2028); the president appoints as prime minister the majority party leader in the National Parliament
+- `選舉結果`: President Mohammad Shahabuddin CHUPPI (AL) elected unopposed by the National Parliament; Sheikh HASINA reappointed prime minister for a fifth term following the 7 January 2024 parliamentary election
 
 ### 立法部門
-- `description`: unicameral House of the Nation or Jatiya Sangsad (350 seats; 300 members in single-seat territorial constituencies directly elected by simple majority vote; all members serve 5-year terms)
-- `elections`: last held on 7 January 2024 (next to be held in 2026)
-- `election results`: percent of vote by party - NA; seats by party as of December 2023 - AL 306, JP 27, BNP 0, other 14, independent 3; composition - men 280, women 70, percentage women 20%
+- `描述`: unicameral House of the Nation or Jatiya Sangsad (350 seats; 300 members in single-seat territorial constituencies directly elected by simple majority vote; all members serve 5-year terms)
+- `選舉`: last held on 7 January 2024 (next to be held in 2026)
+- `選舉結果`: percent of vote by party - NA; seats by party as of December 2023 - AL 306, JP 27, BNP 0, other 14, independent 3; composition - men 280, women 70, percentage women 20%
 **note 1**:  50 seats are reserved for women only and are indirectly elected by the House of the Nation members using proportional representation  **note 2**:  on 5 August 2024, Prime Minister Sheikh HASINA Wazed resigned, and the following day, President Mohammad Shahabuddin CHUPPI dissolved House of the Nation
 
 ### 司法部門
-- `highest court(s)`: Supreme Court of Bangladesh (organized into the Appellate Division with 7 justices and the High Court Division with 99 justices)
-- `judge selection and term of office`: chief justice and justices appointed by the president; justices serve until retirement at age 67
-- `subordinate courts`: civil courts include: Assistant Judge's Court; Joint District Judge's Court; Additional District Judge's Court; District Judge's Court; criminal courts include: Court of Sessions; Court of Metropolitan Sessions; Metropolitan Magistrate Courts; Magistrate Court; special courts/tribunals
+- `最高法院`: Supreme Court of Bangladesh (organized into the Appellate Division with 7 justices and the High Court Division with 99 justices)
+- `法官遴選和任期`: chief justice and justices appointed by the president; justices serve until retirement at age 67
+- `下級法院`: civil courts include: Assistant Judge's Court; Joint District Judge's Court; Additional District Judge's Court; District Judge's Court; criminal courts include: Court of Sessions; Court of Metropolitan Sessions; Metropolitan Magistrate Courts; Magistrate Court; special courts/tribunals
 
 ### 政黨
 Awami League or ALBangladesh Jamaat-i-Islami or JIBBangladesh Nationalist Party or BNPIslami Andolan BangladeshJatiya Party or JP (Ershad faction)Jatiya Party or JP (Manju faction)National Socialist Party (Jatiya Samajtantrik Dal) or JSDWorkers Party or WP 
@@ -363,20 +363,20 @@ Awami League or ALBangladesh Jamaat-i-Islami or JIBBangladesh Nationalist Party 
 ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, D-8, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSCA, MONUSCO, NAM, OIC, OPCW, PCA, SAARC, SACEP, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNIFIL, UNMISS, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador (vacant); Chargé d'Affaires DM Salahuddin MAHMUD (since 12 September 2024)
-- `chancery`: 3510 International Drive NW, Washington, DC 20008
-- `telephone`: [1] (202) 244-0183
+- `外交代表負責人`: Ambassador (vacant); Chargé d'Affaires DM Salahuddin MAHMUD (since 12 September 2024)
+- `衡平法院（在美國）`: 3510 International Drive NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 244-0183
 - `FAX`: [1] (202) 244-2771
-- `email address and website`: mission.washington@mofa.gov.bd  Embassy of the People’s Republic of Bangladesh, Washington, DC (mofa.gov.bd)
-- `consulate(s) general`: Los Angeles, Miami, New York
+- `電子郵件地址和網站`: mission.washington@mofa.gov.bd  Embassy of the People’s Republic of Bangladesh, Washington, DC (mofa.gov.bd)
+- `總領事館`: Los Angeles, Miami, New York
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador (vacant); Chargé d’Affaires Helen LAFAVE (since July 2024)
-- `embassy`: Madani Avenue, Baridhara, Dhaka - 1212
-- `mailing address`: 6120 Dhaka Place, Washington DC  20521-6120
-- `telephone`: [880] (2) 5566-2000
+- `外交代表負責人`: Ambassador (vacant); Chargé d’Affaires Helen LAFAVE (since July 2024)
+- `大使館`: Madani Avenue, Baridhara, Dhaka - 1212
+- `郵寄地址`: 6120 Dhaka Place, Washington DC  20521-6120
+- `電話號碼`: [880] (2) 5566-2000
 - `FAX`: [880] (2) 5566-2907
-- `email address and website`: DhakaACS@state.gov  https://bd.usembassy.gov/
+- `電子郵件地址和網站`: DhakaACS@state.gov  https://bd.usembassy.gov/
 
 ### 旗幟說明
 green field with a large red disk shifted slightly to the hoist side of center; the red disk represents the rising sun and the sacrifice to achieve independence; the green field symbolizes the lush vegetation of Bangladesh
@@ -385,8 +385,8 @@ green field with a large red disk shifted slightly to the hoist side of center; 
 Bengal tiger, water lily; national colors: green, red
 
 ### 國歌
-- `name`: "Amar Shonar Bangla" (My Golden Bengal)
-- `lyrics/music`: Rabindranath TAGORE
+- `名稱`: "Amar Shonar Bangla" (My Golden Bengal)
+- `歌詞／音樂`: Rabindranath TAGORE
 **note**:  adopted 1971; Rabindranath TAGORE, a Nobel laureate, also wrote India's national anthem
 
 ### 國家級遺產
@@ -433,17 +433,17 @@ $437.415 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 11% (2023 est.)
-- `industry`: 34.6% (2023 est.)
-- `services`: 51.1% (2023 est.)
+- `農業`: 11% (2023 est.)
+- `產業`: 34.6% (2023 est.)
+- `服務`: 51.1% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 68.6% (2023 est.)
-- `government consumption`: 5.7% (2023 est.)
-- `investment in fixed capital`: 31% (2023 est.)
-- `exports of goods and services`: 13.2% (2023 est.)
-- `imports of goods and services`: -17.8% (2023 est.)
+- `家庭消費`: 68.6% (2023 est.)
+- `政府消費`: 5.7% (2023 est.)
+- `固定資本投資`: 31% (2023 est.)
+- `商品和服務出口`: 13.2% (2023 est.)
+- `商品和服務進口`: -17.8% (2023 est.)
 **note**:  figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -468,9 +468,9 @@ cotton, textiles and clothing, jute, tea, paper, cement, fertilizer, sugar, ligh
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 15.7% (2023 est.)
-- `male`: 13.5% (2023 est.)
-- `female`: 20.4% (2023 est.)
+- `總計`: 15.7% (2023 est.)
+- `男性`: 13.5% (2023 est.)
+- `女性`: 20.4% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -482,12 +482,12 @@ cotton, textiles and clothing, jute, tea, paper, cement, fertilizer, sugar, ligh
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 平均家庭支出
-- `on food`: 52.7% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 2.1% of household expenditures (2022 est.)
+- `餐食`: 52.7% of household expenditures (2022 est.)
+- `酒精和煙草`: 2.1% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 3.5% (2022 est.)
-- `highest 10%`: 27.4% (2022 est.)
+- `最低10%`: 3.5% (2022 est.)
+- `最高10%`: 27.4% (2022 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -497,8 +497,8 @@ cotton, textiles and clothing, jute, tea, paper, cement, fertilizer, sugar, ligh
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $39.849 billion (2021 est.)
-- `expenditures`: $34.538 billion (2021 est.)
+- `收入`: $39.849 billion (2021 est.)
+- `支出`: $34.538 billion (2021 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -563,46 +563,46 @@ $53.63 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 99.4% (2022 est.)
-- `electrification - urban areas`: 100%
-- `electrification - rural areas`: 99.3%
+- `電氣化－總人口`: 99.4% (2022 est.)
+- `電氣化－城市地區`: 100%
+- `電氣化－農村地區`: 99.3%
 
 ### 電力
-- `installed generating capacity`: 22.449 million kW (2022 est.)
-- `consumption`: 99.553 billion kWh (2022 est.)
-- `imports`: 8.643 billion kWh (2022 est.)
-- `transmission/distribution losses`: 11.09 billion kWh (2022 est.)
+- `裝機容量`: 22.449 million kW (2022 est.)
+- `消費`: 99.553 billion kWh (2022 est.)
+- `進口`: 8.643 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 11.09 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 98.7% of total installed capacity (2022 est.)
-- `solar`: 0.5% of total installed capacity (2022 est.)
-- `hydroelectricity`: 0.8% of total installed capacity (2022 est.)
+- `石化燃料`: 98.7% of total installed capacity (2022 est.)
+- `太陽能`: 0.5% of total installed capacity (2022 est.)
+- `水力發電`: 0.8% of total installed capacity (2022 est.)
 
 ### 核能
 - `Number of nuclear reactors under construction`: 2 (2023)
 
 ### 煤炭
-- `production`: 754,000 metric tons (2022 est.)
-- `consumption`: 7.514 million metric tons (2022 est.)
-- `imports`: 5.62 million metric tons (2022 est.)
-- `proven reserves`: 3.26 billion metric tons (2022 est.)
+- `生產`: 754,000 metric tons (2022 est.)
+- `消費`: 7.514 million metric tons (2022 est.)
+- `進口`: 5.62 million metric tons (2022 est.)
+- `探明儲量`: 3.26 billion metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 13,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 160,000 bbl/day (2022 est.)
-- `crude oil estimated reserves`: 28 million barrels (2021 est.)
+- `總石油產量`: 13,000 bbl/day (2023 est.)
+- `成品油消費量`: 160,000 bbl/day (2022 est.)
+- `原油儲備量估值`: 28 million barrels (2021 est.)
 
 ### 天然氣
-- `production`: 24.62 billion cubic meters (2022 est.)
-- `consumption`: 30.384 billion cubic meters (2022 est.)
-- `imports`: 5.765 billion cubic meters (2022 est.)
-- `proven reserves`: 126.293 billion cubic meters (2021 est.)
+- `生產`: 24.62 billion cubic meters (2022 est.)
+- `消費`: 30.384 billion cubic meters (2022 est.)
+- `進口`: 5.765 billion cubic meters (2022 est.)
+- `探明儲量`: 126.293 billion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 99.57 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 15.102 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 25.09 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 59.378 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 99.57 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 15.102 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 25.09 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 59.378 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 9.678 million Btu/person (2022 est.)
@@ -610,17 +610,17 @@ $53.63 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 274,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: (2022 est.) less than 1
+- `總訂閱數`: 274,000 (2022 est.)
+- `每100名居民訂閱數`: (2022 est.) less than 1
 
 ### 電話—移動電話
-- `total subscriptions`: 180.198 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 105 (2022 est.)
+- `總訂閱數`: 180.198 million (2022 est.)
+- `每100名居民訂閱數`: 105 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Bangladesh’s economic resurgence over the last decade took a battering in 2020 and 2021 as a result of the Covid-19 pandemic; the country had been on track to move off the United Nation’s Least Developed Countries list by 2026, however the crisis may have pushed that back a few years; the telecommunications sector experienced a set of challenges, with mobile data usage exploding at the same time as many consumers were being forced to curb their spending in other areas; the demand on data grew so large and so rapidly that Bangladesh came close to running out of bandwidth; at the start of 2020, Bangladesh was consuming around 900Gb/s on average, well below the 2,642GB/s capacity of its submarine cables; this ballooned to over 2,300Gb/s during the pandemic; Bangladesh was looking forward to adding 7,200Gb/s capacity when the SEA-ME-WE-6 submarine cable goes into service in mid-2024, but the sudden upsurge in downloads is forcing state-run company Bangladesh Submarine Cable Company Limited (BSCCL) to scramble to find alternatives before the country’s internet supply is maxed out; the increased demand during the Covid-19 crisis also put pressure on the country’s existing mobile networks, already under strain as a result of strong growth in the mobile broadband market coupled with significant untapped potential for mobile services in general across the country; this led to premium prices being paid at auction for spectrum in the 1800MHz and 2100MHz bands, most of which will be used to enhance and expand LTE services; a 5G spectrum auction had been anticipated for 2020, but low interest from the MNOs in going down that path when there are still so many areas waiting for LTE access means that 5G  will likely be deferred until 2023 (2021)
-- `domestic`: fixed-line teledensity remains less than 1 per 100 persons; mobile-cellular telephone subscribership has been increasing rapidly and now exceeds 107 per 100 persons; mobile subscriber growth is anticipated over the next five years to 2023 (2021)
-- `international`: country code - 880; landing points for the SeaMeWe-4 and SeaMeWe-5 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; satellite earth stations - 6; international radiotelephone communications and landline service to neighboring countries (2019)
+- `總體評估`: Bangladesh’s economic resurgence over the last decade took a battering in 2020 and 2021 as a result of the Covid-19 pandemic; the country had been on track to move off the United Nation’s Least Developed Countries list by 2026, however the crisis may have pushed that back a few years; the telecommunications sector experienced a set of challenges, with mobile data usage exploding at the same time as many consumers were being forced to curb their spending in other areas; the demand on data grew so large and so rapidly that Bangladesh came close to running out of bandwidth; at the start of 2020, Bangladesh was consuming around 900Gb/s on average, well below the 2,642GB/s capacity of its submarine cables; this ballooned to over 2,300Gb/s during the pandemic; Bangladesh was looking forward to adding 7,200Gb/s capacity when the SEA-ME-WE-6 submarine cable goes into service in mid-2024, but the sudden upsurge in downloads is forcing state-run company Bangladesh Submarine Cable Company Limited (BSCCL) to scramble to find alternatives before the country’s internet supply is maxed out; the increased demand during the Covid-19 crisis also put pressure on the country’s existing mobile networks, already under strain as a result of strong growth in the mobile broadband market coupled with significant untapped potential for mobile services in general across the country; this led to premium prices being paid at auction for spectrum in the 1800MHz and 2100MHz bands, most of which will be used to enhance and expand LTE services; a 5G spectrum auction had been anticipated for 2020, but low interest from the MNOs in going down that path when there are still so many areas waiting for LTE access means that 5G  will likely be deferred until 2023 (2021)
+- `國內`: fixed-line teledensity remains less than 1 per 100 persons; mobile-cellular telephone subscribership has been increasing rapidly and now exceeds 107 per 100 persons; mobile subscriber growth is anticipated over the next five years to 2023 (2021)
+- `國際的`: country code - 880; landing points for the SeaMeWe-4 and SeaMeWe-5 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; satellite earth stations - 6; international radiotelephone communications and landline service to neighboring countries (2019)
 
 ### 廣播媒體
 state-owned Bangladesh Television (BTV) broadcasts throughout the country. Some channels, such as BTV World, operate via satellite. The government also owns a medium wave radio channel and some private FM radio broadcast news channels. Of the 41 Bangladesh approved TV stations, 26 are currently being used to broadcast. Of those, 23 operate under private management via cable distribution. Collectively, TV channels can reach more than 50 million people across the country.
@@ -629,20 +629,20 @@ state-owned Bangladesh Television (BTV) broadcasts throughout the country. Some 
 .bd
 
 ### 網際網路使用者
-- `total`: 66.3 million (2021 est.)
-- `percent of population`: 39% (2021 est.)
+- `總計`: 66.3 million (2021 est.)
+- `佔人口比例`: 39% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 10,052,819 (2020 est.)
-- `subscriptions per 100 inhabitants`: 6 (2020 est.)
+- `總計`: 10,052,819 (2020 est.)
+- `每100名居民訂閱數`: 6 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 6 (2020)
-- `inventory of registered aircraft operated by air carriers`: 30
-- `annual passenger traffic on registered air carriers`: 5,984,155 (2018)
-- `annual freight traffic on registered air carriers`: 63.82 million (2018) mt-km
+- `註冊航空公司數量`: 6 (2020)
+- `註冊飛機庫存—航空承運商經營`: 30
+- `年度客運量－註冊航空公司`: 5,984,155 (2018)
+- `年度貨運量－註冊航空公司`: 63.82 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 S2
@@ -657,30 +657,30 @@ S2
 2,950 km gas (2013)
 
 ### 鐵路
-- `total`: 2,460 km (2014)
-- `narrow gauge`: 1,801 km (2014) 1.000-m gauge
-- `broad gauge`: 659 km (2014) 1.676-m gauge
+- `總計`: 2,460 km (2014)
+- `窄軌`: 1,801 km (2014) 1.000-m gauge
+- `寬軌`: 659 km (2014) 1.676-m gauge
 
 ### 道路
-- `total`: 369,105 km
-- `paved`: 110,311 km
-- `unpaved`: 258,794 km (2018)
+- `總計`: 369,105 km
+- `已鋪砌`: 110,311 km
+- `未鋪砌`: 258,794 km (2018)
 
 ### 水道
 8,370 km (2011) (includes up to 3,060 km of main cargo routes; network reduced to 5,200 km in the dry season)
 
 ### 商船
-- `total`: 558 (2023)
-- `by type`: bulk carrier 68, container ship 10, general cargo 170, oil tanker 162, other 148
+- `總計`: 558 (2023)
+- `依類型`: bulk carrier 68, container ship 10, general cargo 170, oil tanker 162, other 148
 
 ### 港口
-- `total ports`: 2 (2024)
-- `large`: 0
-- `medium`: 1
-- `small`: 1
-- `very small`: 0
-- `ports with oil terminals`: 0
-- `key ports`: Chittagong, Mongla
+- `總港口數`: 2 (2024)
+- `大`: 0
+- `中`: 1
+- `小`: 1
+- `非常小`: 0
+- `原油碼頭港口`: 0
+- `主要港口`: Chittagong, Mongla
 
 ## 軍事和安全
 
@@ -729,9 +729,9 @@ Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bang
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 976,507 (Burma) (2024)
+- `難民（原籍國）`: 976,507 (Burma) (2024)
 - `IDPs`: 427,000 (conflict, development, human rights violations, religious persecution, natural disasters) (2022)
-- `stateless persons`: 929,606 (2022)
+- `無國籍人士`: 929,606 (2022)
 
 ### 非法藥物
 transit country for illegal drugs produced in neighboring countries; does not manufacture precursor chemicals with the exception of sulphuric acid, hydrochloric acid, and toluene

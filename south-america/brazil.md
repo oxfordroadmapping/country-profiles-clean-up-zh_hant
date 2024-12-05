@@ -19,26 +19,26 @@ Eastern South America, bordering the Atlantic Ocean
 South America
 
 ### 面積
-- `total `: 8,515,770 sq km
-- `land`: 8,358,140 sq km
-- `water`: 157,630 sq km
+- `總計`: 8,515,770 sq km
+- `土地`: 8,358,140 sq km
+- `水`: 157,630 sq km
 **note**:  includes Arquipelago de Fernando de Noronha, Atol das Rocas, Ilha da Trindade, Ilhas Martin Vaz, and Penedos de Sao Pedro e Sao Paulo
 
 ### 面積—比較
 slightly smaller than the US
 
 ### 陸地邊界
-- `total`: 16,145 km
-- `border countries`: Argentina 1,263 km; Bolivia 3,403 km; Colombia 1,790 km; French Guiana 649 km; Guyana 1,308 km; Paraguay 1,371 km; Peru 2,659 km; Suriname 515 km; Uruguay 1,050 km; Venezuela 2,137 km
+- `總計`: 16,145 km
+- `邊境國家`: Argentina 1,263 km; Bolivia 3,403 km; Colombia 1,790 km; French Guiana 649 km; Guyana 1,308 km; Paraguay 1,371 km; Peru 2,659 km; Suriname 515 km; Uruguay 1,050 km; Venezuela 2,137 km
 
 ### 海岸線
 7,491 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: 200 nm or to edge of the continental margin
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: 200 nm or to edge of the continental margin
 
 ### 氣候
 mostly tropical, but temperate in south
@@ -47,27 +47,27 @@ mostly tropical, but temperate in south
 mostly flat to rolling lowlands in north; some plains, hills, mountains, and narrow coastal belt
 
 ### 海拔
-- `highest point`: Pico da Neblina 2,994 m
-- `lowest point`: Atlantic Ocean 0 m
-- `mean elevation`: 320 m
+- `最高點`: Pico da Neblina 2,994 m
+- `最低點`: Atlantic Ocean 0 m
+- `平均海拔`: 320 m
 
 ### 自然資源
 alumina, bauxite, beryllium, gold, iron ore, manganese, nickel, niobium, phosphates, platinum, tantalum, tin, rare earth elements, uranium, petroleum, hydropower, timber
 
 ### 土地利用
-- `agricultural land`: 32.9% (2018 est.)
-- `agricultural land: arable land`: arable land: 8.6% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.8% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 23.5% (2018 est.)
-- `forest`: 61.9% (2018 est.)
-- `other`: 5.2% (2018 est.)
+- `農地`: 32.9% (2018 est.)
+- `農地：耕地`: arable land: 8.6% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.8% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 23.5% (2018 est.)
+- `森林`: 61.9% (2018 est.)
+- `其它`: 5.2% (2018 est.)
 
 ### 灌溉土地
 69,029 sq km (2017)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lagoa dos Patos - 10,140 sq km
-- `salt water lake(s)`: Lagoa Mirim (shared with Uruguay) - 2,970 sq km
+- `淡水湖`: Lagoa dos Patos - 10,140 sq km
+- `鹽水湖`: Lagoa Mirim (shared with Uruguay) - 2,970 sq km
 
 ### 主要河流（按公里長度）
 Amazon river mouth (shared with Peru [s]) - 6,400 km; Río de la Plata/Paraná river source (shared with Paraguay, Argentina, and Uruguay [m]) - 4,880 km; Tocantins - 3,650 km; São Francisco - 3,180 km; Paraguay river source (shared with Argentina and Paraguay [m]) - 2,549 km; Rio Negro river mouth (shared with Colombia [s] and Venezuela) - 2,250 km; Uruguay river source (shared with Argentina and Uruguay [m]) - 1,610 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -90,20 +90,20 @@ recurring droughts in northeast; floods and occasional frost in south
 ## 人民和社會
 
 ### 人口
-- `total`: 220,051,512
-- `male`: 108,166,491
-- `female`: 111,885,021 (2024 est.)
+- `總計`: 220,051,512
+- `男性`: 108,166,491
+- `女性`: 111,885,021 (2024 est.)
 
 ### 國籍
-- `noun`: Brazilian(s)
-- `adjective`: Brazilian
+- `名詞`: Brazilian(s)
+- `形容詞`: Brazilian
 
 ### 族裔群體
 mixed 45.3%, White 43.5%, Black 10.2%, Indigenous 0.6%, Asian 0.4% (2022 est.)
 
 ### 語文
 Portuguese (official and most widely spoken language); less common languages include Spanish (border areas and schools), German, Italian, Japanese, English, and many minor Amerindian languages
-- `major-language sample(s)`: O Livro de Fatos Mundiais, a fonte indispensável para informação básica. (Brazilian Portuguese)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: O Livro de Fatos Mundiais, a fonte indispensável para informação básica. (Brazilian Portuguese)  The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Roman Catholic 52.8%, Protestant 26.7% (Evangelical 25.5%, other Protestant 1.2%), African-American cultist/Umbanda 1.8%, other 3%, agnostic/atheist 0.6%, none 13.6%, unspecified 1.4% (2023 est.)
@@ -112,20 +112,20 @@ Roman Catholic 52.8%, Protestant 26.7% (Evangelical 25.5%, other Protestant 1.2%
 Brazil’s rapid fertility decline since the 1960s is the main factor behind the country's slowing population growth rate, aging population, and fast-paced demographic transition.  As of 2023, Brazil’s total fertility rate – the average number of children born per woman – was 1.75, below the 2.1 replacement rate needed to prevent a population decrease.   The 2022 national census showed that population growth had slowed more than expected.  Factors behind the decrease include fewer births as couples marry later and more women work, an increase in the mortality rate as the population ages, the Zika epidemic, the COVID-19 pandemic, as well as economic troubles and the emigration of young people. The current window of opportunity to benefit from a demographic bonus – when the working-age population exceeds the number of children and the elderly combined – is expected to close around 2035, ten years earlier than expected.  Well-funded public pensions have nearly wiped out poverty among the elderly, and Bolsa Familia and other social programs have lifted tens of millions out of poverty. More than half of Brazil’s population is considered middle class, but poverty and income inequality levels remain high; the Northeast, North, and Center-West, women, and black, mixed race, and indigenous populations are disproportionately affected. Disparities in opportunities foster social exclusion and contribute to Brazil’s high crime rate, particularly violent crime in cities and favelas. Brazil has traditionally been a net recipient of immigrants, with its southeast being the prime destination. After abolishing slavery in 1888, the last country in the Americas to do so, Brazil sought Europeans (Italians, Portuguese, Spaniards, and Germans) and later Asians (Japanese) to work in agriculture, especially coffee cultivation.  Lebanese and Syrian immigrants arrived at the end of the 19th century and focused on trade and later commerce. Between 2011 and 2020, the largest immigrant groups came from Venezuela, Haiti, Bolivia, Colombia, and the US. Since Brazil’s economic downturn in the 1980s, emigration to the United States, Paraguay, Europe, and Japan has been rising but is negligible relative to Brazil’s total population. The majority of these emigrants are well-educated and middle-class. Fewer Brazilian peasants are emigrating to neighboring countries to take up agricultural work. 
 
 ### 年齡結構
-- `0-14 years`: 19.6% (male 22,025,593/female 21,088,398)
-- `15-64 years`: 69.5% (male 75,889,089/female 77,118,722)
-- `65 years and over`: 10.9% (2024 est.) (male 10,251,809/female 13,677,901)
+- `0-14歲`: 19.6% (male 22,025,593/female 21,088,398)
+- `15-64歲`: 69.5% (male 75,889,089/female 77,118,722)
+- `65歲及以上`: 10.9% (2024 est.) (male 10,251,809/female 13,677,901)
 
 ### 撫養比率
-- `total dependency ratio`: 43.1
-- `youth dependency ratio`: 29.4
-- `elderly dependency ratio`: 13.7
-- `potential support ratio`: 7.3 (2021 est.)
+- `總受扶養人比率`: 43.1
+- `少年撫養比率`: 29.4
+- `老人撫養比率`: 13.7
+- `潛在支持率`: 7.3 (2021 est.)
 
 ### 年齡中位數
-- `total`: 35.1 years (2024 est.)
-- `male`: 34 years
-- `female`: 36.1 years
+- `總計`: 35.1 years (2024 est.)
+- `男性`: 34 years
+- `女性`: 36.1 years
 
 ### 人口成長率
 0.61% (2024 est.)
@@ -143,31 +143,31 @@ Brazil’s rapid fertility decline since the 1960s is the main factor behind the
 the vast majority of people live along, or relatively near, the Atlantic coast in the east; the population core is in the southeast, anchored by the cities of São Paolo, Brasília, and Rio de Janeiro
 
 ### 都市化
-- `urban population`: 87.8% of total population (2023)
-- `rate of urbanization`: 0.87% annual rate of change (2020-25 est.)
+- `城市人口`: 87.8% of total population (2023)
+- `城鎮化率`: 0.87% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 22.620 million São Paulo, 13.728 million Rio de Janeiro, 6.248 million Belo Horizonte, 4.873 million BRASÍLIA (capital), 4.264 million Recife, 4.212 million Porto Alegre (2023)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.04 male(s)/female
-- `15-64 years`: 0.98 male(s)/female
-- `65 years and over`: 0.75 male(s)/female
-- `total population`: 0.97 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.04 male(s)/female
+- `15-64歲`: 0.98 male(s)/female
+- `65歲及以上`: 0.75 male(s)/female
+- `總人口數`: 0.97 male(s)/female (2024 est.)
 
 ### 產婦死亡率
 72 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 12.9 deaths/1,000 live births (2024 est.)
-- `male`: 14.6 deaths/1,000 live births
-- `female`: 11.1 deaths/1,000 live births
+- `總計`: 12.9 deaths/1,000 live births (2024 est.)
+- `男性`: 14.6 deaths/1,000 live births
+- `女性`: 11.1 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 76.3 years (2024 est.)
-- `male`: 72.6 years
-- `female`: 80.1 years
+- `總人口數`: 76.3 years (2024 est.)
+- `男性`: 72.6 years
+- `女性`: 80.1 years
 
 ### 總生育率
 1.74 children born/woman (2024 est.)
@@ -179,12 +179,12 @@ the vast majority of people live along, or relatively near, the Atlantic coast i
 80.5% (2019)
 
 ### 飲用水來源
-- `improved: urban`: urban: 99.8% of population
-- `improved: rural`: rural: 96.9% of population
-- `improved: total`: total: 99.4% of population
-- `unimproved: urban`: urban: 0.2% of population
-- `unimproved: rural`: rural: 3.1% of population
-- `unimproved: total`: total: 0.6% of population (2020 est.)
+- `已改進－城市`: urban: 99.8% of population
+- `已改進－農村`: rural: 96.9% of population
+- `已改進－總計`: total: 99.4% of population
+- `未改進：都市`: urban: 0.2% of population
+- `未改進：鄉村`: rural: 3.1% of population
+- `未改善：總計`: total: 0.6% of population (2020 est.)
 
 ### 當前醫療支出
 10.3% of GDP (2020)
@@ -196,33 +196,33 @@ the vast majority of people live along, or relatively near, the Atlantic coast i
 2.1 beds/1,000 population (2017)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 94.1% of population
-- `improved: rural`: rural: 63.6% of population
-- `improved: total`: total: 90.2% of population
-- `unimproved: urban`: urban: 5.9% of population
-- `unimproved: rural`: rural: 36.4% of population
-- `unimproved: total`: total: 9.8% of population (2020 est.)
+- `已改進－城市`: urban: 94.1% of population
+- `已改進－農村`: rural: 63.6% of population
+- `已改進－總計`: total: 90.2% of population
+- `未改進：都市`: urban: 5.9% of population
+- `未改進：鄉村`: rural: 36.4% of population
+- `未改善：總計`: total: 9.8% of population (2020 est.)
 
 ### 主要傳染病
-- `degree of risk`: very high (2023)
-- `food or waterborne diseases`: bacterial diarrhea and hepatitis A
-- `vectorborne diseases`: dengue fever, malaria, sexually transmitted diseases: hepatitis B (2024)
-- `water contact diseases`: schistosomiasis
+- `風險程度`: very high (2023)
+- `食物或水源性疾病`: bacterial diarrhea and hepatitis A
+- `媒介傳播疾病`: dengue fever, malaria, sexually transmitted diseases: hepatitis B (2024)
+- `水媒傳染病`: schistosomiasis
 
 ### 肥胖—成人流行率
 22.1% (2016)
 
 ### 人均酒精消費量
-- `total`: 6.12 liters of pure alcohol (2019 est.)
-- `beer`: 3.84 liters of pure alcohol (2019 est.)
-- `wine`: 0.24 liters of pure alcohol (2019 est.)
-- `spirits`: 2 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.04 liters of pure alcohol (2019 est.)
+- `總計`: 6.12 liters of pure alcohol (2019 est.)
+- `啤酒`: 3.84 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.24 liters of pure alcohol (2019 est.)
+- `烈酒`: 2 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.04 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 12.8% (2020 est.)
-- `male`: 16.2% (2020 est.)
-- `female`: 9.4% (2020 est.)
+- `總計`: 12.8% (2020 est.)
+- `男性`: 16.2% (2020 est.)
+- `女性`: 9.4% (2020 est.)
 
 ### 5歲以下體重不足兒童
 NA
@@ -234,15 +234,15 @@ NA
 6% of GDP (2019 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 94.7%
-- `male`: 94.4%
-- `female`: 94.9% (2022)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 94.7%
+- `男性`: 94.4%
+- `女性`: 94.9% (2022)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 16 years
-- `male`: 15 years
-- `female`: 16 years (2020)
+- `總計`: 16 years
+- `男性`: 15 years
+- `女性`: 16 years (2020)
 
 ## 環境
 
@@ -250,23 +250,23 @@ NA
 deforestation in Amazon Basin destroys the habitat and endangers a multitude of plant and animal species indigenous to the area; illegal wildlife trade; illegal poaching; air and water pollution in Rio de Janeiro, Sao Paulo, and several other large cities; land degradation and water pollution caused by improper mining activities; wetland degradation; severe oil spills
 
 ### 環境—國際協定
-- `party to`: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
-- `signed, but not ratified`: Marine Dumping-London Protocol
+- `是以下議定書的締約國：`: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
+- `已簽署但未批準`: Marine Dumping-London Protocol
 
 ### 氣候
 mostly tropical, but temperate in south
 
 ### 土地利用
-- `agricultural land`: 32.9% (2018 est.)
-- `agricultural land: arable land`: arable land: 8.6% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.8% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 23.5% (2018 est.)
-- `forest`: 61.9% (2018 est.)
-- `other`: 5.2% (2018 est.)
+- `農地`: 32.9% (2018 est.)
+- `農地：耕地`: arable land: 8.6% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.8% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 23.5% (2018 est.)
+- `森林`: 61.9% (2018 est.)
+- `其它`: 5.2% (2018 est.)
 
 ### 都市化
-- `urban population`: 87.8% of total population (2023)
-- `rate of urbanization`: 0.87% annual rate of change (2020-25 est.)
+- `城市人口`: 87.8% of total population (2023)
+- `城鎮化率`: 0.87% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.62% of GDP (2018 est.)
@@ -275,18 +275,18 @@ mostly tropical, but temperate in south
 0.01% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 10.94 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 462.3 megatons (2016 est.)
-- `methane emissions`: 401.83 megatons (2020 est.)
+- `顆粒物排放量`: 10.94 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 462.3 megatons (2016 est.)
+- `甲烷排放量`: 401.83 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 79,889,010 tons (2015 est.)
-- `municipal solid waste recycled annually`: 1,118,446 tons (2014 est.)
-- `percent of municipal solid waste recycled`: 1.4% (2014 est.)
+- `城市固體廢棄物－每年產生`: 79,889,010 tons (2015 est.)
+- `城市固體廢棄物－每年回收`: 1,118,446 tons (2014 est.)
+- `城市固體廢棄物－回收百分比`: 1.4% (2014 est.)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lagoa dos Patos - 10,140 sq km
-- `salt water lake(s)`: Lagoa Mirim (shared with Uruguay) - 2,970 sq km
+- `淡水湖`: Lagoa dos Patos - 10,140 sq km
+- `鹽水湖`: Lagoa Mirim (shared with Uruguay) - 2,970 sq km
 
 ### 主要河流（按公里長度）
 Amazon river mouth (shared with Peru [s]) - 6,400 km; Río de la Plata/Paraná river source (shared with Paraguay, Argentina, and Uruguay [m]) - 4,880 km; Tocantins - 3,650 km; São Francisco - 3,180 km; Paraguay river source (shared with Argentina and Paraguay [m]) - 2,549 km; Rio Negro river mouth (shared with Colombia [s] and Venezuela) - 2,250 km; Uruguay river source (shared with Argentina and Uruguay [m]) - 1,610 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -298,35 +298,35 @@ Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km), Para
 Amazon Basin, Guarani Aquifer System, Maranhao Basin
 
 ### 總取水量
-- `municipal`: 16.13 billion cubic meters (2020 est.)
-- `industrial`: 9.51 billion cubic meters (2020 est.)
-- `agricultural`: 41.42 billion cubic meters (2020 est.)
+- `市級`: 16.13 billion cubic meters (2020 est.)
+- `工業`: 9.51 billion cubic meters (2020 est.)
+- `農業`: 41.42 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 8.65 trillion cubic meters (2020 est.)
 
 ### 地質公園
-- `total global geoparks and regional networks`: 6
-- `global geoparks and regional networks`: Araripe; Cacapava; Quarta Colonia; Serido; Southern Canyons Pathways; Uberaba (2024)
+- `全球地質公園和區域網絡總數`: 6
+- `全球地質公園和區域網絡`: Araripe; Cacapava; Quarta Colonia; Serido; Southern Canyons Pathways; Uberaba (2024)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Federative Republic of Brazil
-- `conventional short form`: Brazil
-- `local long form`: República Federativa do Brasil
-- `local short form`: Brasil
-- `etymology`: the country name derives from the brazilwood tree that used to grow plentifully along the coast of Brazil and that was used to produce a deep red dye
+- `常用長名`: Federative Republic of Brazil
+- `常用短名`: Brazil
+- `當地語長名`: República Federativa do Brasil
+- `當地語短名`: Brasil
+- `语源学`: the country name derives from the brazilwood tree that used to grow plentifully along the coast of Brazil and that was used to produce a deep red dye
 
 ### 政府類型
 federal presidential republic
 
 ### 首都
-- `name`: Brasília
-- `geographic coordinates`: 15 47 S, 47 55 W
-- `time difference`: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)
-- `time zone note`: Brazil has four time zones, including one for the Fernando de Noronha Islands
-- `etymology`: name bestowed on the new capital of Brazil upon its inauguration in 1960; previous Brazilian capitals had been Salvador from 1549 to 1763 and Rio de Janeiro from 1763 to 1960
+- `名稱`: Brasília
+- `地理坐標`: 15 47 S, 47 55 W
+- `時差`: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)
+- `時區備註`: Brazil has four time zones, including one for the Fernando de Noronha Islands
+- `语源学`: name bestowed on the new capital of Brazil upon its inauguration in 1960; previous Brazilian capitals had been Salvador from 1549 to 1763 and Rio de Janeiro from 1763 to 1960
 
 ### 行政區劃
 26 states (estados, singular - estado) and 1 federal district* (distrito federal); Acre, Alagoas, Amapa, Amazonas, Bahia, Ceara, Distrito Federal*, Espirito Santo, Goias, Maranhao, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Para, Paraiba, Parana, Pernambuco, Piaui, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondonia, Roraima, Santa Catarina, Sao Paulo, Sergipe, Tocantins
@@ -341,38 +341,38 @@ Independence Day, 7 September (1822)
 civil law; note - a new civil law code was enacted in 2002 replacing the 1916 code
 
 ### 憲法
-- `history`: several previous; latest ratified 5 October 1988
-- `amendments`: proposed by at least one third of either house of the National Congress, by the president of the republic, or by simple majority vote by more than half of the state legislative assemblies; passage requires at least three-fifths majority vote by both houses in each of two readings; constitutional provisions affecting the federal form of government, separation of powers, suffrage, or individual rights and guarantees cannot be amended; amended many times, last in 2023
+- `歷史`: several previous; latest ratified 5 October 1988
+- `修正`: proposed by at least one third of either house of the National Congress, by the president of the republic, or by simple majority vote by more than half of the state legislative assemblies; passage requires at least three-fifths majority vote by both houses in each of two readings; constitutional provisions affecting the federal form of government, separation of powers, suffrage, or individual rights and guarantees cannot be amended; amended many times, last in 2023
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: yes
-- `citizenship by descent only`: yes
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: 4 years
+- `出生公民權`: yes
+- `血統公民身份`: yes
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: 4 years
 
 ### 選舉權
 voluntary between 16 to 18 years of age, over 70, and if illiterate; compulsory between 18 to 70 years of age; note - military conscripts by law cannot vote
 
 ### 行政部門
-- `chief of state`: President Luiz Inácio LULA da Silva (since 1 January 2023)
-- `head of government`: President Luiz Inácio LULA da Silva (since 1 January 2023)
-- `cabinet`: Cabinet appointed by the president
-- `elections/appointments`: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a single consecutive term and additional terms after at least one term has elapsed); election last held on 2 October 2022 with runoff on 30 October 2022 (next to be held on 4 October 2026)
-- `election results`: *2022: *Luiz Inácio LULA da Silva elected president in second round; percent of vote in first round - Luiz Inácio LULA da Silva (PT) 48.4%, Jair BOLSONARO (PSL) 43.2%, Simone Nassar TEBET (MDB) 4.2%, Ciro GOMES (PDT) 3%, other 1.2%; percent of vote in second round - Luiz Inácio LULA da Silva (PT) 50.9%, Jair BOLSONARO (PSL) 49.1%*  2018: *Jair BOLSONARO elected president in second round; percent of vote in first round - Jair BOLSONARO (PSL) 46%, Fernando HADDAD (PT) 29.3%, Ciro GOMEZ (PDT) 12.5%, Geraldo ALCKMIN (PSDB) 4.8%, other 7.4%; percent of vote in second round - Jair BOLSONARO (PSL) 55.1%, Fernando HADDAD (PT) 44.9%
+- `國家元首`: President Luiz Inácio LULA da Silva (since 1 January 2023)
+- `政府首腦`: President Luiz Inácio LULA da Silva (since 1 January 2023)
+- `内閣`: Cabinet appointed by the president
+- `選舉/任命`: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a single consecutive term and additional terms after at least one term has elapsed); election last held on 2 October 2022 with runoff on 30 October 2022 (next to be held on 4 October 2026)
+- `選舉結果`: *2022: *Luiz Inácio LULA da Silva elected president in second round; percent of vote in first round - Luiz Inácio LULA da Silva (PT) 48.4%, Jair BOLSONARO (PSL) 43.2%, Simone Nassar TEBET (MDB) 4.2%, Ciro GOMES (PDT) 3%, other 1.2%; percent of vote in second round - Luiz Inácio LULA da Silva (PT) 50.9%, Jair BOLSONARO (PSL) 49.1%*  2018: *Jair BOLSONARO elected president in second round; percent of vote in first round - Jair BOLSONARO (PSL) 46%, Fernando HADDAD (PT) 29.3%, Ciro GOMEZ (PDT) 12.5%, Geraldo ALCKMIN (PSDB) 4.8%, other 7.4%; percent of vote in second round - Jair BOLSONARO (PSL) 55.1%, Fernando HADDAD (PT) 44.9%
 **note **:  the president is both chief of state and head of government
 
 ### 立法部門
-- `description`: bicameral National Congress or Congresso Nacional consists of:Federal Senate or Senado Federal (81 seats; 3 members each from 26 states and 3 from the federal district directly elected in multi-seat constituencies by simple majority vote to serve 8-year terms, with one-third and two-thirds of the membership elected alternately every 4 years)  Chamber of Deputies or Camara dos Deputados (513 seats; members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 4-year terms)
-- `elections`: Federal Senate - last held on 2 October 2022 for one-third of the Senate (next to be held on 4 October 2026 for two-thirds of the seats)Chamber of Deputies - last held on 2 October 2022 (next to be held on 4 October 2026)
-- `election results`: Federal Senate - percent of vote by party - PL 25.4%, PSB 13.7%, PT 12.1%, PSD 11.4%, Progressistas 7.6%, Brazil Union 5.5%, PSC 4.3%, Republicans 4.3%, MDB 3.9%, other 11.8%; seats by party - PL 8, Brazil Union 5, PT 4, PP 3, Republicans 2, PSD 2, MDB 1, PSB 1, PSC 1note - composition of the Federal Senate as of March 2024 - seats by party - PL 13, Brazil Union 12, MDB 10, PSD 10, PT 9, Progressistas 7, Podemos 6, PSDB 4, Republicans 3, PDT 2, Cidadania 1, PSB 1, PSC 1, PROS 1, REDE 1; composition - men 67, women 14, percentage women 17.3%    Chamber of Deputies - percent of vote by party - PL 16.6%, PT 12.1%, Brazil Union 9.3%, PP 8%, PSD 7.6%, MDB 7.2%, Republicans 7%, PSB 3.8%, PDT 3.5%, PSOL 3.5%, Podemos 3.3%, PSDB 3%, Avante 2%, PSC 1.8%, SD 1.6%, Cidadania 1.5%, Patriota 1.4%, PTB 1.3%, NOVO 1.2%, PCdoB 1.1%, PV 0.9%, PROS 0.7%, REDE 0.7%, other 0.9%; seats by party - PL 99, PT 69, Brazil Union 59, PP 47, MDB 42, PSD 42, Republicans 40, PDT 17, PSB 14, PSDB 13, Podemos 12, PSOL 12, Avante 7, PCdoB 6, PSC 6, PV 6, Cidadania 5, Patriota 4, SD 4, NOVO 3, PROS 3, REDE 2, PTB 1; composition - men 423, women 90, percentage women 17.5%; total National Congress percentage women 17.5%
+- `描述`: bicameral National Congress or Congresso Nacional consists of:Federal Senate or Senado Federal (81 seats; 3 members each from 26 states and 3 from the federal district directly elected in multi-seat constituencies by simple majority vote to serve 8-year terms, with one-third and two-thirds of the membership elected alternately every 4 years)  Chamber of Deputies or Camara dos Deputados (513 seats; members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 4-year terms)
+- `選舉`: Federal Senate - last held on 2 October 2022 for one-third of the Senate (next to be held on 4 October 2026 for two-thirds of the seats)Chamber of Deputies - last held on 2 October 2022 (next to be held on 4 October 2026)
+- `選舉結果`: Federal Senate - percent of vote by party - PL 25.4%, PSB 13.7%, PT 12.1%, PSD 11.4%, Progressistas 7.6%, Brazil Union 5.5%, PSC 4.3%, Republicans 4.3%, MDB 3.9%, other 11.8%; seats by party - PL 8, Brazil Union 5, PT 4, PP 3, Republicans 2, PSD 2, MDB 1, PSB 1, PSC 1note - composition of the Federal Senate as of March 2024 - seats by party - PL 13, Brazil Union 12, MDB 10, PSD 10, PT 9, Progressistas 7, Podemos 6, PSDB 4, Republicans 3, PDT 2, Cidadania 1, PSB 1, PSC 1, PROS 1, REDE 1; composition - men 67, women 14, percentage women 17.3%    Chamber of Deputies - percent of vote by party - PL 16.6%, PT 12.1%, Brazil Union 9.3%, PP 8%, PSD 7.6%, MDB 7.2%, Republicans 7%, PSB 3.8%, PDT 3.5%, PSOL 3.5%, Podemos 3.3%, PSDB 3%, Avante 2%, PSC 1.8%, SD 1.6%, Cidadania 1.5%, Patriota 1.4%, PTB 1.3%, NOVO 1.2%, PCdoB 1.1%, PV 0.9%, PROS 0.7%, REDE 0.7%, other 0.9%; seats by party - PL 99, PT 69, Brazil Union 59, PP 47, MDB 42, PSD 42, Republicans 40, PDT 17, PSB 14, PSDB 13, Podemos 12, PSOL 12, Avante 7, PCdoB 6, PSC 6, PV 6, Cidadania 5, Patriota 4, SD 4, NOVO 3, PROS 3, REDE 2, PTB 1; composition - men 423, women 90, percentage women 17.5%; total National Congress percentage women 17.5%
 
 ### 司法部門
-- `highest court(s)`: Supreme Federal Court or Supremo Tribunal Federal (consists of 11 justices)
-- `judge selection and term of office`: justices appointed by the president and approved by absolute majority by the Federal Senate; justices appointed to serve until mandatory retirement at age 75
-- `subordinate courts`: Tribunal of the Union, Federal Appeals Court, Superior Court of Justice, Superior Electoral Court, regional federal courts; state court system
+- `最高法院`: Supreme Federal Court or Supremo Tribunal Federal (consists of 11 justices)
+- `法官遴選和任期`: justices appointed by the president and approved by absolute majority by the Federal Senate; justices appointed to serve until mandatory retirement at age 75
+- `下級法院`: Tribunal of the Union, Federal Appeals Court, Superior Court of Justice, Superior Electoral Court, regional federal courts; state court system
 
 ### 政黨
 Act (Agir) (formerly Christian Labor Party or PTC)Avante (formerly Labor Party of Brazil or PTdoB)Brazil Union (União Brasil); note - founded from a merger between the Democrats (DEM) and the Social Liberal Party (PSL)  Brazilian Communist Party or PCBBrazilian Democratic Movement or MDBBrazilian Labor Party or PTBBrazilian Renewal Labor Party or PRTBBrazilian Labor Party or PTBBrazilian Social Democracy Party or PSDBBrazilian Socialist Party or PSBChristian Democracy or DC (formerly Christian Social Democratic Party)Cidadania (formerly Popular Socialist Party or PPS)Communist Party of Brazil or PCdoBDemocratic Labor Party or PDTDemocratic Party or PSDCDemocrats or DEM (formerly Liberal Front Party or PFL); note - dissolved in February 2022Green Party or PVLiberal Party or PL [Valdemar Costa Neto] (formerly Party of the Republic or PR)National Mobilization Party or PMNNew Party or NOVOPatriota (formerly National Ecologic Party or PEN)Podemos (formerly National Labor Party or PTN) Progressive Party (Progressistas) or PPRepublican Social Order Party or PROSRepublicans (Republicanos) (formerly Brazilian Republican Party or PRB)Social Christian Party or PSCSocial Democratic Party or PSDSocial Liberal Party or PSLSocialism and Freedom Party or PSOLSolidarity or SDSustainability Network or REDEUnited Socialist Workers' Party or PSTUWorkers' Cause Party or PCOWorkers' Party or PT
@@ -381,22 +381,22 @@ Act (Agir) (formerly Christian Labor Party or PTC)Avante (formerly Labor Party o
 AfDB (nonregional member), BIS, BRICS, CAN (associate), CD, CELAC, CPLP, FAO, FATF, G-15, G-20, G-24, G-5, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, LAS (observer), Mercosur, MIGA, MINURSO, MINUSTAH, MONUSCO, NAM (observer), NSG, OAS, OECD (enhanced engagement), OPANAL, OPCW, Paris Club (associate), PCA, PROSUR, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, UNISFA, UNIFIL, Union Latina, UNISFA, UNITAR, UNMIL, UNMISS, UNOCI, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Maria Luiza Ribeiro VIOTTI (since 30 June 2023)
-- `chancery`: 3006 Massachusetts Avenue NW, Washington, DC 20008
-- `telephone`: [1] (202) 238-2700
+- `外交代表負責人`: Ambassador Maria Luiza Ribeiro VIOTTI (since 30 June 2023)
+- `衡平法院（在美國）`: 3006 Massachusetts Avenue NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 238-2700
 - `FAX`: [1] (202) 238-2827
-- `email address and website`: contact.washington@itamaraty.gov.br   https://www.gov.br/mre/pt-br/embaixada-washington
-- `consulate(s) general`: Atlanta, Boston, Chicago, Hartford (CT), Houston, Los Angeles, Miami, New York, Orlando, San Francisco
+- `電子郵件地址和網站`: contact.washington@itamaraty.gov.br   https://www.gov.br/mre/pt-br/embaixada-washington
+- `總領事館`: Atlanta, Boston, Chicago, Hartford (CT), Houston, Los Angeles, Miami, New York, Orlando, San Francisco
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Elizabeth Frawley BAGLEY (since 3 February 2023)
-- `embassy`: SES - Avenida das Nações, Quadra 801, Lote 03, 70403-900 - Brasília, DF
-- `mailing address`: 7500 Brasilia Place, Washington DC  20521-7500
-- `telephone`: [55] (61) 3312-7000
+- `外交代表負責人`: Ambassador Elizabeth Frawley BAGLEY (since 3 February 2023)
+- `大使館`: SES - Avenida das Nações, Quadra 801, Lote 03, 70403-900 - Brasília, DF
+- `郵寄地址`: 7500 Brasilia Place, Washington DC  20521-7500
+- `電話號碼`: [55] (61) 3312-7000
 - `FAX`: [55] (61) 3225-9136
-- `email address and website`: BrasilliaACS@state.gov  https://br.usembassy.gov/
-- `consulate(s) general`: Recife, Porto Alegre, Rio de Janeiro, São Paulo
-- `branch office(s)`: Belo Horizonte
+- `電子郵件地址和網站`: BrasilliaACS@state.gov  https://br.usembassy.gov/
+- `總領事館`: Recife, Porto Alegre, Rio de Janeiro, São Paulo
+- `分支機構`: Belo Horizonte
 
 ### 旗幟說明
 green with a large yellow diamond in the center bearing a blue celestial globe with 27 white five-pointed stars; the globe has a white equatorial band with the motto ORDEM E PROGRESSO (Order and Progress); the current flag was inspired by the banner of the former Empire of Brazil (1822-1889); on the imperial flag, the green represented the House of Braganza of Pedro I, the first Emperor of Brazil, while the yellow stood for the Habsburg Family of his wife; on the modern flag the green represents the forests of the country and the yellow rhombus its mineral wealth (the diamond shape roughly mirrors that of the country); the blue circle and stars, which replaced the coat of arms of the original flag, depict the sky over Rio de Janeiro on the morning of 15 November 1889 - the day the Republic of Brazil was declared; the number of stars has changed with the creation of new states and has risen from an original 21 to the current 27 (one for each state and the Federal District)
@@ -406,8 +406,8 @@ green with a large yellow diamond in the center bearing a blue celestial globe w
 Southern Cross constellation; national colors: green, yellow, blue
 
 ### 國歌
-- `name`: "Hino Nacional Brasileiro" (Brazilian National Anthem)
-- `lyrics/music`: Joaquim Osorio Duque ESTRADA/Francisco Manoel DA SILVA
+- `名稱`: "Hino Nacional Brasileiro" (Brazilian National Anthem)
+- `歌詞／音樂`: Joaquim Osorio Duque ESTRADA/Francisco Manoel DA SILVA
 **note**:  music adopted 1890, lyrics adopted 1922; the anthem's music, composed in 1822, was used unofficially for many years before it was adopted
 
 ### 國家級遺產
@@ -454,18 +454,18 @@ $2.174 trillion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 6.2% (2023 est.)
-- `industry`: 22.3% (2023 est.)
-- `services`: 58.9% (2023 est.)
+- `農業`: 6.2% (2023 est.)
+- `產業`: 22.3% (2023 est.)
+- `服務`: 58.9% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 63.3% (2023 est.)
-- `government consumption`: 18.2% (2023 est.)
-- `investment in fixed capital`: 16.5% (2023 est.)
-- `investment in inventories`: -0.5% (2023 est.)
-- `exports of goods and services`: 18.1% (2023 est.)
-- `imports of goods and services`: -15.7% (2023 est.)
+- `家庭消費`: 63.3% (2023 est.)
+- `政府消費`: 18.2% (2023 est.)
+- `固定資本投資`: 16.5% (2023 est.)
+- `存貨投資`: -0.5% (2023 est.)
+- `商品和服務出口`: 18.1% (2023 est.)
+- `商品和服務進口`: -15.7% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -490,9 +490,9 @@ textiles, shoes, chemicals, cement, lumber, iron ore, tin, steel, aircraft, moto
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 17.9% (2023 est.)
-- `male`: 15.6% (2023 est.)
-- `female`: 20.9% (2023 est.)
+- `總計`: 17.9% (2023 est.)
+- `男性`: 15.6% (2023 est.)
+- `女性`: 20.9% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -504,12 +504,12 @@ textiles, shoes, chemicals, cement, lumber, iron ore, tin, steel, aircraft, moto
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 平均家庭支出
-- `on food`: 16.2% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 1.7% of household expenditures (2022 est.)
+- `餐食`: 16.2% of household expenditures (2022 est.)
+- `酒精和煙草`: 1.7% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 1.2% (2022 est.)
-- `highest 10%`: 41% (2022 est.)
+- `最低10%`: 1.2% (2022 est.)
+- `最高10%`: 41% (2022 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -519,8 +519,8 @@ textiles, shoes, chemicals, cement, lumber, iron ore, tin, steel, aircraft, moto
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $578.267 billion (2022 est.)
-- `expenditures`: $666.279 billion (2022 est.)
+- `收入`: $578.267 billion (2022 est.)
+- `支出`: $666.279 billion (2022 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -586,24 +586,24 @@ $164.448 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
-- `electrification - urban areas`: 100%
-- `electrification - rural areas`: 97.3%
+- `電氣化－總人口`: 100% (2022 est.)
+- `電氣化－城市地區`: 100%
+- `電氣化－農村地區`: 97.3%
 
 ### 電力
-- `installed generating capacity`: 220.319 million kW (2022 est.)
-- `consumption`: 583.184 billion kWh (2022 est.)
-- `exports`: 4.979 billion kWh (2022 est.)
-- `imports`: 17.887 billion kWh (2022 est.)
-- `transmission/distribution losses`: 103.995 billion kWh (2022 est.)
+- `裝機容量`: 220.319 million kW (2022 est.)
+- `消費`: 583.184 billion kWh (2022 est.)
+- `出口`: 4.979 billion kWh (2022 est.)
+- `進口`: 17.887 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 103.995 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 9.9% of total installed capacity (2022 est.)
-- `nuclear`: 2.2% of total installed capacity (2022 est.)
-- `solar`: 4% of total installed capacity (2022 est.)
-- `wind`: 12.1% of total installed capacity (2022 est.)
-- `hydroelectricity`: 63.3% of total installed capacity (2022 est.)
-- `biomass and waste`: 8.4% of total installed capacity (2022 est.)
+- `石化燃料`: 9.9% of total installed capacity (2022 est.)
+- `核能`: 2.2% of total installed capacity (2022 est.)
+- `太陽能`: 4% of total installed capacity (2022 est.)
+- `風能`: 12.1% of total installed capacity (2022 est.)
+- `水力發電`: 63.3% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 8.4% of total installed capacity (2022 est.)
 
 ### 核能
 - `Number of operational nuclear reactors`: 2 (2023)
@@ -612,29 +612,29 @@ $164.448 billion (2022 est.)
 - `Percent of total electricity production`: 2.2% (2023 est.)
 
 ### 煤炭
-- `production`: 15.644 million metric tons (2022 est.)
-- `consumption`: 32.787 million metric tons (2022 est.)
-- `exports`: 7,000 metric tons (2022 est.)
-- `imports`: 20.389 million metric tons (2022 est.)
-- `proven reserves`: 6.596 billion metric tons (2022 est.)
+- `生產`: 15.644 million metric tons (2022 est.)
+- `消費`: 32.787 million metric tons (2022 est.)
+- `出口`: 7,000 metric tons (2022 est.)
+- `進口`: 20.389 million metric tons (2022 est.)
+- `探明儲量`: 6.596 billion metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 4.221 million bbl/day (2023 est.)
-- `refined petroleum consumption`: 3.027 million bbl/day (2022 est.)
-- `crude oil estimated reserves`: 12.715 billion barrels (2021 est.)
+- `總石油產量`: 4.221 million bbl/day (2023 est.)
+- `成品油消費量`: 3.027 million bbl/day (2022 est.)
+- `原油儲備量估值`: 12.715 billion barrels (2021 est.)
 
 ### 天然氣
-- `production`: 22.67 billion cubic meters (2022 est.)
-- `consumption`: 31.654 billion cubic meters (2022 est.)
-- `exports`: 75.122 million cubic meters (2021 est.)
-- `imports`: 8.812 billion cubic meters (2022 est.)
-- `proven reserves`: 363.985 billion cubic meters (2021 est.)
+- `生產`: 22.67 billion cubic meters (2022 est.)
+- `消費`: 31.654 billion cubic meters (2022 est.)
+- `出口`: 75.122 million cubic meters (2021 est.)
+- `進口`: 8.812 billion cubic meters (2022 est.)
+- `探明儲量`: 363.985 billion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 516.752 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 54.455 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 404.548 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 57.749 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 516.752 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 54.455 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 404.548 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 57.749 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 50.037 million Btu/person (2022 est.)
@@ -642,17 +642,17 @@ $164.448 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 27.258 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 13 (2022 est.)
+- `總訂閱數`: 27.258 million (2022 est.)
+- `每100名居民訂閱數`: 13 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 212.926 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 99 (2022 est.)
+- `總訂閱數`: 212.926 million (2022 est.)
+- `每100名居民訂閱數`: 99 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Brazil is one of the largest mobile and broadband markets in Latin America with healthy competition and pricing; 5G services was provided to all capital cities in July 2022, as well as about 35,500km of the national highway network; the country also has one of the largest fixed line broadband markets in Latin America, though broadband subscriptions is only slightly above the regional average, trailing behind Chile, Argentina, and Uruguay; amendments to the licensing regime adopted in October 2019 also require that ISPs which have switched to authorizations invest money saved from lighter regulations in the expansion of broadband services; the fixed line broadband market has seen rapid growth for a number of years, with a growing focus on fiber broadband; in 2019 the number of fiber accesses overtook DSL connections; the country is a key landing point for a number of important submarine cables connecting to the US, Central and South America, the Caribbean, Europe, and Africa; several new cable systems are due to come into service through to 2022, which will increase bandwidth and push down broadband prices for end-users; investments have also been made into terrestrial fiber cables between Brazil, Argentina, and Chile (2022)
-- `domestic`: fixed-line connections stand at roughly 13 per 100 persons;  mobile-cellular teledensity roughly 102 per 100 persons (2021)
-- `international`: country code - 55; landing points for a number of submarine cables, including Malbec, ARBR, Tamnat, SAC, SAm-1, Atlantis -2, Seabras-1, Monet, EllaLink, BRUSA, GlobeNet, AMX-1, Brazilian Festoon, Bicentenario, Unisur, Junior, Americas -II, SAE x1, SAIL, SACS and SABR that provide direct connectivity to South and Central America, the Caribbean, the US, Africa, and Europe; satellite earth stations - 3 Intelsat (Atlantic Ocean), 1 Inmarsat (Atlantic Ocean region east), connected by microwave relay system to Mercosur Brazilsat B3 satellite earth station; satellites is a major communication platform, as it is almost impossible to lay fiber optic cable in the thick vegetation (2019)
+- `總體評估`: Brazil is one of the largest mobile and broadband markets in Latin America with healthy competition and pricing; 5G services was provided to all capital cities in July 2022, as well as about 35,500km of the national highway network; the country also has one of the largest fixed line broadband markets in Latin America, though broadband subscriptions is only slightly above the regional average, trailing behind Chile, Argentina, and Uruguay; amendments to the licensing regime adopted in October 2019 also require that ISPs which have switched to authorizations invest money saved from lighter regulations in the expansion of broadband services; the fixed line broadband market has seen rapid growth for a number of years, with a growing focus on fiber broadband; in 2019 the number of fiber accesses overtook DSL connections; the country is a key landing point for a number of important submarine cables connecting to the US, Central and South America, the Caribbean, Europe, and Africa; several new cable systems are due to come into service through to 2022, which will increase bandwidth and push down broadband prices for end-users; investments have also been made into terrestrial fiber cables between Brazil, Argentina, and Chile (2022)
+- `國內`: fixed-line connections stand at roughly 13 per 100 persons;  mobile-cellular teledensity roughly 102 per 100 persons (2021)
+- `國際的`: country code - 55; landing points for a number of submarine cables, including Malbec, ARBR, Tamnat, SAC, SAm-1, Atlantis -2, Seabras-1, Monet, EllaLink, BRUSA, GlobeNet, AMX-1, Brazilian Festoon, Bicentenario, Unisur, Junior, Americas -II, SAE x1, SAIL, SACS and SABR that provide direct connectivity to South and Central America, the Caribbean, the US, Africa, and Europe; satellite earth stations - 3 Intelsat (Atlantic Ocean), 1 Inmarsat (Atlantic Ocean region east), connected by microwave relay system to Mercosur Brazilsat B3 satellite earth station; satellites is a major communication platform, as it is almost impossible to lay fiber optic cable in the thick vegetation (2019)
 
 ### 廣播媒體
 state-run Radiobras operates a radio and a TV network; more than 1,000 radio stations and more than 100 TV channels operating - mostly privately owned; private media ownership highly concentrated (2022)
@@ -661,20 +661,20 @@ state-run Radiobras operates a radio and a TV network; more than 1,000 radio sta
 .br
 
 ### 網際網路使用者
-- `total`: 170.1 million (2021 est.)
-- `percent of population`: 81% (2021 est.)
+- `總計`: 170.1 million (2021 est.)
+- `佔人口比例`: 81% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 36,344,670 (2020 est.)
-- `subscriptions per 100 inhabitants`: 17 (2020 est.)
+- `總計`: 36,344,670 (2020 est.)
+- `每100名居民訂閱數`: 17 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 9 (2020)
-- `inventory of registered aircraft operated by air carriers`: 443
-- `annual passenger traffic on registered air carriers`: 102,109,977 (2018)
-- `annual freight traffic on registered air carriers`: 1,845,650,000 (2018) mt-km
+- `註冊航空公司數量`: 9 (2020)
+- `註冊飛機庫存—航空承運商經營`: 443
+- `年度客運量－註冊航空公司`: 102,109,977 (2018)
+- `年度貨運量－註冊航空公司`: 1,845,650,000 (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 PP
@@ -689,32 +689,32 @@ PP
 5,959 km refined petroleum product (1,165 km distribution, 4,794 km transport), 11,696 km natural gas (2,274 km distribution, 9,422 km transport), 1,985 km crude oil (distribution), 77 km ethanol/petrochemical (37 km distribution, 40 km transport) (2016)
 
 ### 鐵路
-- `total`: 29,849.9 km (2014)
-- `standard gauge`: 194 km (2014) 1.435-m gauge
-- `narrow gauge`: 23,341.6 km (2014) 1.000-m gauge (24 km electrified)
-- `broad gauge`: 5,822.3 km (2014) 1.600-m gauge (498.3 km electrified)
-- `dual gauge`: 492 km (2014) 1.600-1.000-m gauge
+- `總計`: 29,849.9 km (2014)
+- `標準鐵軌`: 194 km (2014) 1.435-m gauge
+- `窄軌`: 23,341.6 km (2014) 1.000-m gauge (24 km electrified)
+- `寬軌`: 5,822.3 km (2014) 1.600-m gauge (498.3 km electrified)
+- `雙軌`: 492 km (2014) 1.600-1.000-m gauge
 
 ### 道路
-- `total`: 2 million km
-- `paved`: 246,000 km
-- `unpaved`: 1.754 million km (2018)
+- `總計`: 2 million km
+- `已鋪砌`: 246,000 km
+- `未鋪砌`: 1.754 million km (2018)
 
 ### 水道
 50,000 km (2012) (most in areas remote from industry and population)
 
 ### 商船
-- `total`: 888 (2023)
-- `by type`: bulk carrier 13, container ship 20, general cargo 38, oil tanker 27, other 790
+- `總計`: 888 (2023)
+- `依類型`: bulk carrier 13, container ship 20, general cargo 38, oil tanker 27, other 790
 
 ### 港口
-- `total ports`: 45 (2024)
-- `large`: 4
-- `medium`: 7
-- `small`: 19
-- `very small`: 15
-- `ports with oil terminals`: 31
-- `key ports`: Belem, DTSE/Gegua Oil Terminal, Itajai, Port de Salvador, Porto Alegre, Recife, Rio de Janeiro, Rio Grande, Santos, Tubarao, Vitoria
+- `總港口數`: 45 (2024)
+- `大`: 4
+- `中`: 7
+- `小`: 19
+- `非常小`: 15
+- `原油碼頭港口`: 31
+- `主要港口`: Belem, DTSE/Gegua Oil Terminal, Itajai, Port de Salvador, Porto Alegre, Recife, Rio de Janeiro, Rio Grande, Santos, Tubarao, Vitoria
 
 ## 軍事和安全
 
@@ -763,9 +763,9 @@ Hizballah
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 510,499 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2023)
+- `難民（原籍國）`: 510,499 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2023)
 - `IDPs`: 5,600 (2022)
-- `stateless persons`: 12 (2022)
+- `無國籍人士`: 12 (2022)
 
 ### 非法藥物
 a significant drug transit and destination country for cocaine bound for Europe and other destinations including the United States; domestic drug use and addiction is a significant problem and it is second only to the United States in cocaine consumption; a major source of precursor or essential chemicals used in the production of illicit narcotics

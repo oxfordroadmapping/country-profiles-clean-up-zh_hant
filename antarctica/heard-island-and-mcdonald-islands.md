@@ -19,22 +19,22 @@ islands in the Indian Ocean, about two-thirds of the way from Madagascar to Anta
 Antarctic Region
 
 ### 面積
-- `total `: 412 sq km
-- `land`: 412 sq km
-- `water`: 0 sq km
+- `總計`: 412 sq km
+- `土地`: 412 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 slightly more than two times the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 101.9 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive fishing zone`: 200 nm
+- `領海`: 12 nm
+- `專屬捕魚區`: 200 nm
 
 ### 氣候
 antarctic
@@ -43,15 +43,15 @@ antarctic
 Heard Island - 80% ice-covered, bleak and mountainous, dominated by a large massif (Big Ben) and an active volcano (Mawson Peak); McDonald Islands - small and rocky
 
 ### 海拔
-- `highest point`: Mawson Peak on Big Ben volcano 2,745 m
-- `lowest point`: Indian Ocean 0 m
+- `最高點`: Mawson Peak on Big Ben volcano 2,745 m
+- `最低點`: Indian Ocean 0 m
 
 ### 自然資源
 fish
 
 ### 土地利用
-- `agricultural land`: 0% (2011 est.)
-- `other`: 100% (2018 est.)
+- `農地`: 0% (2011 est.)
+- `其它`: 100% (2018 est.)
 
 ### 自然災害
 Mawson Peak, an active volcano, is on Heard Island
@@ -62,7 +62,7 @@ Mawson Peak on Heard Island is the highest Australian mountain (at 2,745 meters,
 ## 人民和社會
 
 ### 人口
-- `total`: uninhabited
+- `總計`: uninhabited
 
 ## 環境
 
@@ -73,16 +73,16 @@ none; uninhabited and mostly ice covered
 antarctic
 
 ### 土地利用
-- `agricultural land`: 0% (2011 est.)
-- `other`: 100% (2018 est.)
+- `農地`: 0% (2011 est.)
+- `其它`: 100% (2018 est.)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Territory of Heard Island and McDonald Islands
-- `conventional short form`: Heard Island and McDonald Islands
-- `abbreviation`: HIMI
-- `etymology`: named after American Captain John HEARD, who sighted the island on 25 November 1853, and American Captain William McDONALD, who discovered the islands on 4 January 1854
+- `常用長名`: Territory of Heard Island and McDonald Islands
+- `常用短名`: Heard Island and McDonald Islands
+- `縮寫`: HIMI
+- `语源学`: named after American Captain John HEARD, who sighted the island on 25 November 1853, and American Captain William McDONALD, who discovered the islands on 4 January 1854
 
 ### 附屬狀況
 territory of Australia; administered from Canberra by the Department of Agriculture, Water and the Environment (Australian Antarctic Division)
@@ -94,7 +94,7 @@ the laws of Australia apply where applicable
 none (territory of Australia)
 
 ### 駐該國的美國外交代表
-- `embassy`: none (territory of Australia)
+- `大使館`: none (territory of Australia)
 
 ### 旗幟說明
 the flag of Australia is used

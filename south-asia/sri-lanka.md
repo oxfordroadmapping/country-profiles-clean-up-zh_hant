@@ -19,24 +19,24 @@ Southern Asia, island in the Indian Ocean, south of India
 Asia
 
 ### 面積
-- `total `: 65,610 sq km
-- `land`: 64,630 sq km
-- `water`: 980 sq km
+- `總計`: 65,610 sq km
+- `土地`: 64,630 sq km
+- `水`: 980 sq km
 
 ### 面積—比較
 slightly larger than West Virginia
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 1,340 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: 200 nm or to the edge of the continental margin
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: 200 nm or to the edge of the continental margin
 
 ### 氣候
 tropical monsoon; northeast monsoon (December to March); southwest monsoon (June to October)
@@ -45,20 +45,20 @@ tropical monsoon; northeast monsoon (December to March); southwest monsoon (June
 mostly low, flat to rolling plain; mountains in south-central interior
 
 ### 海拔
-- `highest point`: Pidurutalagala 2,524 m
-- `lowest point`: Indian Ocean 0 m
-- `mean elevation`: 228 m
+- `最高點`: Pidurutalagala 2,524 m
+- `最低點`: Indian Ocean 0 m
+- `平均海拔`: 228 m
 
 ### 自然資源
 limestone, graphite, mineral sands, gems, phosphates, clay, hydropower, arable land
 
 ### 土地利用
-- `agricultural land`: 43.5% (2018 est.)
-- `agricultural land: arable land`: arable land: 20.7% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 15.8% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 7% (2018 est.)
-- `forest`: 29.4% (2018 est.)
-- `other`: 27.1% (2018 est.)
+- `農地`: 43.5% (2018 est.)
+- `農地：耕地`: arable land: 20.7% (2018 est.)
+- `農地：永久性作物`: permanent crops: 15.8% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 7% (2018 est.)
+- `森林`: 29.4% (2018 est.)
+- `其它`: 27.1% (2018 est.)
 
 ### 灌溉土地
 5,700 sq km (2012)
@@ -75,13 +75,13 @@ strategic location near major Indian Ocean sea lanes; Adam's Bridge is a chain o
 ## 人民和社會
 
 ### 人口
-- `total`: 21,982,608
-- `male`: 10,642,043
-- `female`: 11,340,565 (2024 est.)
+- `總計`: 21,982,608
+- `男性`: 10,642,043
+- `女性`: 11,340,565 (2024 est.)
 
 ### 國籍
-- `noun`: Sri Lankan(s)
-- `adjective`: Sri Lankan
+- `名詞`: Sri Lankan(s)
+- `形容詞`: Sri Lankan
 
 ### 族裔群體
 Sinhalese 74.9%, Sri Lankan Tamil 11.2%, Sri Lankan Moors 9.2%, Indian Tamil 4.2%, other 0.5% (2012 est.)
@@ -94,20 +94,20 @@ Sinhala (official) 87%, Tamil (official) 28.5%, English 23.8% (2012 est.)
 Buddhist (official) 70.2%, Hindu 12.6%, Muslim 9.7%, Roman Catholic 6.1%, other Christian 1.3%, other 0.05% (2012 est.)
 
 ### 年齡結構
-- `0-14 years`: 22.6% (male 2,537,918/female 2,423,615)
-- `15-64 years`: 65% (male 6,954,869/female 7,336,897)
-- `65 years and over`: 12.4% (2024 est.) (male 1,149,256/female 1,580,053)
+- `0-14歲`: 22.6% (male 2,537,918/female 2,423,615)
+- `15-64歲`: 65% (male 6,954,869/female 7,336,897)
+- `65歲及以上`: 12.4% (2024 est.) (male 1,149,256/female 1,580,053)
 
 ### 撫養比率
-- `total dependency ratio`: 53.7
-- `youth dependency ratio`: 35.4
-- `elderly dependency ratio`: 17
-- `potential support ratio`: 5.9 (2021 est.)
+- `總受扶養人比率`: 53.7
+- `少年撫養比率`: 35.4
+- `老人撫養比率`: 17
+- `潛在支持率`: 5.9 (2021 est.)
 
 ### 年齡中位數
-- `total`: 34.1 years (2024 est.)
-- `male`: 32.2 years
-- `female`: 35.8 years
+- `總計`: 34.1 years (2024 est.)
+- `男性`: 32.2 years
+- `女性`: 35.8 years
 
 ### 人口成長率
 0.39% (2024 est.)
@@ -125,18 +125,18 @@ Buddhist (official) 70.2%, Hindu 12.6%, Muslim 9.7%, Roman Catholic 6.1%, other 
 the population is primarily concentrated within a broad wet zone in the southwest, urban centers along the eastern coast, and on the Jaffna Peninsula in the north
 
 ### 都市化
-- `urban population`: 19.2% of total population (2023)
-- `rate of urbanization`: 1.22% annual rate of change (2020-25 est.)
+- `城市人口`: 19.2% of total population (2023)
+- `城鎮化率`: 1.22% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 103,000 Sri Jayewardenepura Kotte (legislative capital) (2018), 633,000 COLOMBO (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.05 male(s)/female
-- `15-64 years`: 0.95 male(s)/female
-- `65 years and over`: 0.73 male(s)/female
-- `total population`: 0.94 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.05 male(s)/female
+- `15-64歲`: 0.95 male(s)/female
+- `65歲及以上`: 0.73 male(s)/female
+- `總人口數`: 0.94 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 25.6 years (2016 est.)
@@ -146,14 +146,14 @@ the population is primarily concentrated within a broad wet zone in the southwes
 29 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 6.8 deaths/1,000 live births (2024 est.)
-- `male`: 7.5 deaths/1,000 live births
-- `female`: 6.1 deaths/1,000 live births
+- `總計`: 6.8 deaths/1,000 live births (2024 est.)
+- `男性`: 7.5 deaths/1,000 live births
+- `女性`: 6.1 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 76.8 years (2024 est.)
-- `male`: 73.7 years
-- `female`: 79.9 years
+- `總人口數`: 76.8 years (2024 est.)
+- `男性`: 73.7 years
+- `女性`: 79.9 years
 
 ### 總生育率
 2.13 children born/woman (2024 est.)
@@ -165,12 +165,12 @@ the population is primarily concentrated within a broad wet zone in the southwes
 64.6% (2016)
 
 ### 飲用水來源
-- `improved: urban`: urban: 99.7% of population
-- `improved: rural`: rural: 91.2% of population
-- `improved: total`: total: 92.8% of population
-- `unimproved: urban`: urban: 0.3% of population
-- `unimproved: rural`: rural: 8.8% of population
-- `unimproved: total`: total: 7.2% of population (2020 est.)
+- `已改進－城市`: urban: 99.7% of population
+- `已改進－農村`: rural: 91.2% of population
+- `已改進－總計`: total: 92.8% of population
+- `未改進：都市`: urban: 0.3% of population
+- `未改進：鄉村`: rural: 8.8% of population
+- `未改善：總計`: total: 7.2% of population (2020 est.)
 
 ### 當前醫療支出
 4.1% of GDP (2020)
@@ -182,27 +182,27 @@ the population is primarily concentrated within a broad wet zone in the southwes
 4.2 beds/1,000 population (2017)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 96.6% of population
-- `improved: rural`: rural: 97.9% of population
-- `improved: total`: total: 97.6% of population
-- `unimproved: urban`: urban: 3.4% of population
-- `unimproved: rural`: rural: 2.1% of population
-- `unimproved: total`: total: 2.4% of population (2020 est.)
+- `已改進－城市`: urban: 96.6% of population
+- `已改進－農村`: rural: 97.9% of population
+- `已改進－總計`: total: 97.6% of population
+- `未改進：都市`: urban: 3.4% of population
+- `未改進：鄉村`: rural: 2.1% of population
+- `未改善：總計`: total: 2.4% of population (2020 est.)
 
 ### 肥胖—成人流行率
 5.2% (2016)
 
 ### 人均酒精消費量
-- `total`: 2.58 liters of pure alcohol (2019 est.)
-- `beer`: 0.22 liters of pure alcohol (2019 est.)
-- `wine`: 0.01 liters of pure alcohol (2019 est.)
-- `spirits`: 2.32 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.03 liters of pure alcohol (2019 est.)
+- `總計`: 2.58 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.22 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.01 liters of pure alcohol (2019 est.)
+- `烈酒`: 2.32 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.03 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 22% (2020 est.)
-- `male`: 41.4% (2020 est.)
-- `female`: 2.6% (2020 est.)
+- `總計`: 22% (2020 est.)
+- `男性`: 41.4% (2020 est.)
+- `女性`: 2.6% (2020 est.)
 
 ### 5歲以下體重不足兒童
 20.5% (2016)
@@ -211,22 +211,22 @@ the population is primarily concentrated within a broad wet zone in the southwes
 65.1% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 0.9%
-- `women married by age 18`: 9.8% (2016 est.)
+- `15歲前結婚的女性`: 0.9%
+- `18歲前結婚的女性`: 9.8% (2016 est.)
 
 ### 教育支出
 1.9% of GDP (2019 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 92.3%
-- `male`: 93%
-- `female`: 91.6% (2019)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 92.3%
+- `男性`: 93%
+- `女性`: 91.6% (2019)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 14 years
-- `male`: 14 years
-- `female`: 14 years (2018)
+- `總計`: 14 years
+- `男性`: 14 years
+- `女性`: 14 years (2018)
 
 ## 環境
 
@@ -234,26 +234,26 @@ the population is primarily concentrated within a broad wet zone in the southwes
 deforestation; soil erosion; wildlife populations threatened by poaching and urbanization; coastal degradation from mining activities and increased pollution; coral reef destruction; freshwater resources being polluted by industrial wastes and sewage runoff; waste disposal; air pollution in Colombo
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands
-- `signed, but not ratified`: Comprehensive Nuclear Test Ban, Marine Life Conservation
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands
+- `已簽署但未批準`: Comprehensive Nuclear Test Ban, Marine Life Conservation
 
 ### 氣候
 tropical monsoon; northeast monsoon (December to March); southwest monsoon (June to October)
 
 ### 土地利用
-- `agricultural land`: 43.5% (2018 est.)
-- `agricultural land: arable land`: arable land: 20.7% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 15.8% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 7% (2018 est.)
-- `forest`: 29.4% (2018 est.)
-- `other`: 27.1% (2018 est.)
+- `農地`: 43.5% (2018 est.)
+- `農地：耕地`: arable land: 20.7% (2018 est.)
+- `農地：永久性作物`: permanent crops: 15.8% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 7% (2018 est.)
+- `森林`: 29.4% (2018 est.)
+- `其它`: 27.1% (2018 est.)
 
 ### 都市化
-- `urban population`: 19.2% of total population (2023)
-- `rate of urbanization`: 1.22% annual rate of change (2020-25 est.)
+- `城市人口`: 19.2% of total population (2023)
+- `城鎮化率`: 1.22% annual rate of change (2020-25 est.)
 
 ### 糧食不安全
-- `widespread lack of access`: *due to unfavorable prospects for 2023 agricultural output and high prices of key food items - *the 2023 cereal production is forecast below the five-year average, mostly reflecting constraints on farmers’ access to agricultural inputs; elevated prices of key food items are also constraining economic access to food for a large number of households (2023)
+- `普遍缺乏訪問權限`: *due to unfavorable prospects for 2023 agricultural output and high prices of key food items - *the 2023 cereal production is forecast below the five-year average, mostly reflecting constraints on farmers’ access to agricultural inputs; elevated prices of key food items are also constraining economic access to food for a large number of households (2023)
 
 ### 森林資源收入
 0.06% of GDP (2018 est.)
@@ -262,19 +262,19 @@ tropical monsoon; northeast monsoon (December to March); southwest monsoon (June
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 23.88 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 23.36 megatons (2016 est.)
-- `methane emissions`: 10.95 megatons (2020 est.)
+- `顆粒物排放量`: 23.88 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 23.36 megatons (2016 est.)
+- `甲烷排放量`: 10.95 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 2,631,650 tons (2016 est.)
-- `municipal solid waste recycled annually`: 336,588 tons (2016 est.)
-- `percent of municipal solid waste recycled`: 12.8% (2016 est.)
+- `城市固體廢棄物－每年產生`: 2,631,650 tons (2016 est.)
+- `城市固體廢棄物－每年回收`: 336,588 tons (2016 est.)
+- `城市固體廢棄物－回收百分比`: 12.8% (2016 est.)
 
 ### 總取水量
-- `municipal`: 810 million cubic meters (2020 est.)
-- `industrial`: 830 million cubic meters (2020 est.)
-- `agricultural`: 11.31 billion cubic meters (2020 est.)
+- `市級`: 810 million cubic meters (2020 est.)
+- `工業`: 830 million cubic meters (2020 est.)
+- `農業`: 11.31 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 52.8 billion cubic meters (2020 est.)
@@ -282,21 +282,21 @@ tropical monsoon; northeast monsoon (December to March); southwest monsoon (June
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Democratic Socialist Republic of Sri Lanka
-- `conventional short form`: Sri Lanka
-- `local long form`: Shri Lanka Prajatantrika Samajavadi Janarajaya (Sinhala)/ Ilankai Jananayaka Choshalichak Kutiyarachu (Tamil)
-- `local short form`: Shri Lanka (Sinhala)/ Ilankai (Tamil)
-- `former`: Serendib, Ceylon
-- `etymology`: the name means "resplendent island" in Sanskrit
+- `常用長名`: Democratic Socialist Republic of Sri Lanka
+- `常用短名`: Sri Lanka
+- `當地語長名`: Shri Lanka Prajatantrika Samajavadi Janarajaya (Sinhala)/ Ilankai Jananayaka Choshalichak Kutiyarachu (Tamil)
+- `當地語短名`: Shri Lanka (Sinhala)/ Ilankai (Tamil)
+- `前任`: Serendib, Ceylon
+- `语源学`: the name means "resplendent island" in Sanskrit
 
 ### 政府類型
 presidential republic
 
 ### 首都
-- `name`: Colombo (commercial capital); Sri Jayewardenepura Kotte (legislative capital)
-- `geographic coordinates`: 6 55 N, 79 50 E
-- `time difference`: UTC+5.5 (10.5 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: Colombo may derive from the Sinhala "kolon thota," meaning "port on the river" (referring to the Kelani River that empties into the Indian Ocean at Colombo); alternatively, the name may derive from the Sinhala "kola amba thota" meaning "harbor with mango trees"; it is also possible that the Portuguese named the city after Christopher COLUMBUS, who lived in Portugal for many years (as Cristovao COLOMBO) before discovering the Americas for the Spanish crown in 1492 - not long before the Portuguese made their way to Sri Lanka in 1505; Sri Jayewardenepura Kotte translates as "Resplendent City of Growing Victory" in Sinhala
+- `名稱`: Colombo (commercial capital); Sri Jayewardenepura Kotte (legislative capital)
+- `地理坐標`: 6 55 N, 79 50 E
+- `時差`: UTC+5.5 (10.5 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: Colombo may derive from the Sinhala "kolon thota," meaning "port on the river" (referring to the Kelani River that empties into the Indian Ocean at Colombo); alternatively, the name may derive from the Sinhala "kola amba thota" meaning "harbor with mango trees"; it is also possible that the Portuguese named the city after Christopher COLUMBUS, who lived in Portugal for many years (as Cristovao COLOMBO) before discovering the Americas for the Spanish crown in 1492 - not long before the Portuguese made their way to Sri Lanka in 1505; Sri Jayewardenepura Kotte translates as "Resplendent City of Growing Victory" in Sinhala
 
 ### 行政區劃
 9 provinces; Central, Eastern, North Central, Northern, North Western, Sabaragamuwa, Southern, Uva, Western
@@ -311,37 +311,37 @@ Independence Day (National Day), 4 February (1948)
 mixed legal system of Roman-Dutch civil law, English common law, Jaffna Tamil customary law, and Muslim personal law
 
 ### 憲法
-- `history`: several previous; latest adopted 16 August 1978, certified 31 August 1978
-- `amendments`: proposed by Parliament; passage requires at least two-thirds majority vote of its total membership, certification by the president of the republic or the Parliament speaker, and in some cases approval in a referendum by absolute majority of valid votes; amended many times, last in 2020
+- `歷史`: several previous; latest adopted 16 August 1978, certified 31 August 1978
+- `修正`: proposed by Parliament; passage requires at least two-thirds majority vote of its total membership, certification by the president of the republic or the Parliament speaker, and in some cases approval in a referendum by absolute majority of valid votes; amended many times, last in 2020
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Sri Lanka
-- `dual citizenship recognized`: no, except in cases where the government rules it is to the benefit of Sri Lanka
-- `residency requirement for naturalization`: 7 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Sri Lanka
+- `承認雙重國籍`: no, except in cases where the government rules it is to the benefit of Sri Lanka
+- `入籍的居留要求`: 7 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Anura Kumara DISSANAYAKE (since 23 September 2024)
-- `head of government`: Prime Minister Harini AMARASURIYA  (since 24 September 2024)
-- `cabinet`: Cabinet appointed by the president in consultation with the prime minister
-- `elections/appointments`: president directly elected by preferential majority popular vote for a 5-year term (eligible for a second term); election last held on 21 September 2024 (next to be held in 2029)
-- `election results`: *2024: *Anura Kumara DISSANAYAKE elected president; percent of vote after reallocation - Anura Kumara DISSANAYAKE (JVP) 55.9%, Sajith PREMADASA (SJB) 44.1%*2022: *Ranil WICKREMESINGHE elected president by Parliament on 20 July 2022; Parliament vote - WICKREMESINGHE (UNP) 134, Dullas ALAHAPPERUMA (SLPP) 82   
+- `國家元首`: President Anura Kumara DISSANAYAKE (since 23 September 2024)
+- `政府首腦`: Prime Minister Harini AMARASURIYA  (since 24 September 2024)
+- `内閣`: Cabinet appointed by the president in consultation with the prime minister
+- `選舉/任命`: president directly elected by preferential majority popular vote for a 5-year term (eligible for a second term); election last held on 21 September 2024 (next to be held in 2029)
+- `選舉結果`: *2024: *Anura Kumara DISSANAYAKE elected president; percent of vote after reallocation - Anura Kumara DISSANAYAKE (JVP) 55.9%, Sajith PREMADASA (SJB) 44.1%*2022: *Ranil WICKREMESINGHE elected president by Parliament on 20 July 2022; Parliament vote - WICKREMESINGHE (UNP) 134, Dullas ALAHAPPERUMA (SLPP) 82   
 
 ### 立法部門
-- `description`: unicameral Parliament (225 seats; 196 members directly elected in multi-seat district constituencies by proportional representation vote using a preferential method in which voters select 3 candidates in order of preference; remaining 29 seats, referred to as the "national list" are allocated by each party secretary according to the island wide proportional vote the party obtains; members serve 5-year terms)
-- `elections`: last held on 5 August 2020 (next to be held on 14 November 2024)
-- `election results`: percent of vote by party/coalition - SLFPA 59.1%, SJB 23.9%, JVP 3.8%, TNA 2.8%, UNP 2.2%, TNPF 0.6%, EPDP 0.5%, other 7.1%; seats by party/coalition - SLFPA 145, SJB 54, TNA 10, JVP 3, other 13; composition- men 213, women 12, percentage women 5.3%
+- `描述`: unicameral Parliament (225 seats; 196 members directly elected in multi-seat district constituencies by proportional representation vote using a preferential method in which voters select 3 candidates in order of preference; remaining 29 seats, referred to as the "national list" are allocated by each party secretary according to the island wide proportional vote the party obtains; members serve 5-year terms)
+- `選舉`: last held on 5 August 2020 (next to be held on 14 November 2024)
+- `選舉結果`: percent of vote by party/coalition - SLFPA 59.1%, SJB 23.9%, JVP 3.8%, TNA 2.8%, UNP 2.2%, TNPF 0.6%, EPDP 0.5%, other 7.1%; seats by party/coalition - SLFPA 145, SJB 54, TNA 10, JVP 3, other 13; composition- men 213, women 12, percentage women 5.3%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court of the Republic (consists of the chief justice and 9 justices); note - the court has exclusive jurisdiction to review legislation
-- `judge selection and term of office`: chief justice nominated by the Constitutional Council (CC), a 9-member high-level advisory body, and appointed by the president; other justices nominated by the CC and appointed by the president on the advice of the chief justice; all justices can serve until age 65
-- `subordinate courts`: Court of Appeals; High Courts; Magistrates' Courts; municipal and primary courts
+- `最高法院`: Supreme Court of the Republic (consists of the chief justice and 9 justices); note - the court has exclusive jurisdiction to review legislation
+- `法官遴選和任期`: chief justice nominated by the Constitutional Council (CC), a 9-member high-level advisory body, and appointed by the president; other justices nominated by the CC and appointed by the president on the advice of the chief justice; all justices can serve until age 65
+- `下級法院`: Court of Appeals; High Courts; Magistrates' Courts; municipal and primary courts
 
 ### 政黨
 Crusaders for Democracy or CFDEelam People's Democratic Party or EPDPEelam People's Revolutionary Liberation Front or EPRLFIllankai Tamil Arasu Kachchi or ITAKJanatha Vimukthi Peramuna or JVPJathika Hela Urumaya or JHUNational People's Power or NPP (also known as Jathika Jana Balawegaya or JJB)People's Liberation Organisation of Tamil Eelam or PLOTESamagi Jana Balawegaya or SJBSri Lanka Freedom Party or SLFPSri Lanka Muslim Congress or SLMCSri Lanka People's Freedom Alliance or SLPFA (includes SLPFP, SLPP, and several smaller parties)Sri Lanka Podujana Peramuna (Sri Lanka's People's Front) or SLPPTamil Eelam Liberation Organization or TELOTamil National Alliance or TNA (includes ITAK, PLOTE, TELO)Tamil National People's Front or TNPFTamil People's National Alliance or TPNAUnited National Front for Good Governance or UNFGG (coalition includes JHU, UNP)United National Party or UNP
@@ -350,21 +350,21 @@ Crusaders for Democracy or CFDEelam People's Democratic Party or EPDPEelam Peopl
 ABEDA, ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, FAO, G-11, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, NAM, OAS (observer), OPCW, PCA, SAARC, SACEP, SCO (dialogue member), UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMISS, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Mahinda SAMARASINGHE (since 13 January 2022)
-- `chancery`: 3025 Whitehaven Street NW, Washington, DC 20008
-- `telephone`: [1] (202) 483-4025
+- `外交代表負責人`: Ambassador Mahinda SAMARASINGHE (since 13 January 2022)
+- `衡平法院（在美國）`: 3025 Whitehaven Street NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 483-4025
 - `FAX`: [1] 202-232-2329
-- `email address and website`: slemb.washington@mfa.gov.lk  https://slembassyusa.org/new/
-- `consulate(s) general`: Los Angeles
-- `consulate(s)`: New York
+- `電子郵件地址和網站`: slemb.washington@mfa.gov.lk  https://slembassyusa.org/new/
+- `總領事館`: Los Angeles
+- `領事館`: New York
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Julie J. CHUNG (since 17 February 2022)
-- `embassy`: 210 Galle Road, Colombo 03
-- `mailing address`: 6100 Colombo Place, Washington DC  20521-6100
-- `telephone`: [94] (11) 249-8500
+- `外交代表負責人`: Ambassador Julie J. CHUNG (since 17 February 2022)
+- `大使館`: 210 Galle Road, Colombo 03
+- `郵寄地址`: 6100 Colombo Place, Washington DC  20521-6100
+- `電話號碼`: [94] (11) 249-8500
 - `FAX`: [94] (11) 243-7345
-- `email address and website`: colomboacs@state.gov  https://lk.usembassy.gov/
+- `電子郵件地址和網站`: colomboacs@state.gov  https://lk.usembassy.gov/
 
 ### 旗幟說明
 yellow with two panels; the smaller hoist-side panel has two equal vertical bands of green (hoist side) and orange; the other larger panel depicts a yellow lion holding a sword on a maroon rectangular field that also displays a yellow bo leaf in each corner; the yellow field appears as a border around the entire flag and extends between the two panels; the lion represents Sinhalese ethnicity, the strength of the nation, and bravery; the sword demonstrates the sovereignty of the nation; the four bo leaves - symbolizing Buddhism and its influence on the country - stand for the four virtues of kindness, friendliness, happiness, and equanimity; orange signifies Sri Lankan Tamils, green Sri Lankan Moors, and maroon the Sinhalese majority; yellow denotes other ethnic groups; also referred to as the Lion Flag
@@ -373,8 +373,8 @@ yellow with two panels; the smaller hoist-side panel has two equal vertical band
 lion, water lily; national colors: maroon, yellow
 
 ### 國歌
-- `name`: "Sri Lanka Matha" (Mother Sri Lanka)
-- `lyrics/music`: Ananda SAMARKONE
+- `名稱`: "Sri Lanka Matha" (Mother Sri Lanka)
+- `歌詞／音樂`: Ananda SAMARKONE
 **note**:  adopted 1951
 
 ### 國家級遺產
@@ -421,18 +421,18 @@ $84.357 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 8.3% (2023 est.)
-- `industry`: 25.6% (2023 est.)
-- `services`: 59.9% (2023 est.)
+- `農業`: 8.3% (2023 est.)
+- `產業`: 25.6% (2023 est.)
+- `服務`: 59.9% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 69.3% (2023 est.)
-- `government consumption`: 6.9% (2023 est.)
-- `investment in fixed capital`: 17.6% (2023 est.)
-- `investment in inventories`: 7.7% (2023 est.)
-- `exports of goods and services`: 20.4% (2023 est.)
-- `imports of goods and services`: -21.9% (2023 est.)
+- `家庭消費`: 69.3% (2023 est.)
+- `政府消費`: 6.9% (2023 est.)
+- `固定資本投資`: 17.6% (2023 est.)
+- `存貨投資`: 7.7% (2023 est.)
+- `商品和服務出口`: 20.4% (2023 est.)
+- `商品和服務進口`: -21.9% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -457,9 +457,9 @@ processing of rubber, tea, coconuts, tobacco and other agricultural commodities;
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 25.3% (2023 est.)
-- `male`: 20.9% (2023 est.)
-- `female`: 33.9% (2023 est.)
+- `總計`: 25.3% (2023 est.)
+- `男性`: 20.9% (2023 est.)
+- `女性`: 33.9% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -471,12 +471,12 @@ processing of rubber, tea, coconuts, tobacco and other agricultural commodities;
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 平均家庭支出
-- `on food`: 26.8% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 3.4% of household expenditures (2022 est.)
+- `餐食`: 26.8% of household expenditures (2022 est.)
+- `酒精和煙草`: 3.4% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 3.1% (2019 est.)
-- `highest 10%`: 30.8% (2019 est.)
+- `最低10%`: 3.1% (2019 est.)
+- `最高10%`: 30.8% (2019 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -486,8 +486,8 @@ processing of rubber, tea, coconuts, tobacco and other agricultural commodities;
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $7.365 billion (2021 est.)
-- `expenditures`: $15.477 billion (2021 est.)
+- `收入`: $7.365 billion (2021 est.)
+- `支出`: $15.477 billion (2021 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -553,32 +553,32 @@ $37.487 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 5.04 million kW (2022 est.)
-- `consumption`: 10.401 billion kWh (2022 est.)
-- `transmission/distribution losses`: 1.62 billion kWh (2022 est.)
+- `裝機容量`: 5.04 million kW (2022 est.)
+- `消費`: 10.401 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 1.62 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 47.4% of total installed capacity (2022 est.)
-- `solar`: 5.3% of total installed capacity (2022 est.)
-- `wind`: 5.8% of total installed capacity (2022 est.)
-- `hydroelectricity`: 40.6% of total installed capacity (2022 est.)
-- `biomass and waste`: 0.8% of total installed capacity (2022 est.)
+- `石化燃料`: 47.4% of total installed capacity (2022 est.)
+- `太陽能`: 5.3% of total installed capacity (2022 est.)
+- `風能`: 5.8% of total installed capacity (2022 est.)
+- `水力發電`: 40.6% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 0.8% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `consumption`: 2.084 million metric tons (2022 est.)
-- `exports`: (2022 est.) less than 1 metric ton
-- `imports`: 2.205 million metric tons (2022 est.)
+- `消費`: 2.084 million metric tons (2022 est.)
+- `出口`: (2022 est.) less than 1 metric ton
+- `進口`: 2.205 million metric tons (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 121,000 bbl/day (2022 est.)
+- `成品油消費量`: 121,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 21.766 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 4.663 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 17.103 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 21.766 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 4.663 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 17.103 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 14.449 million Btu/person (2022 est.)
@@ -586,17 +586,17 @@ $37.487 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 2.582 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 12 (2022 est.)
+- `總訂閱數`: 2.582 million (2022 est.)
+- `每100名居民訂閱數`: 12 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 31.237 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 143 (2022 est.)
+- `總訂閱數`: 31.237 million (2022 est.)
+- `每100名居民訂閱數`: 143 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Sri Lanka’s fixed-line telephony market was one of the very few in the world to experience a significant upsurge in subscriptions in 2020; while the country suffers from a relatively poor fixed-line infrastructure and a correspondingly strong mobile sector, demand for traditional phone services increased 14% in 2020; preliminary results suggest a further jump of up to 13% can also be expected in 2021; this will take Sri Lanka’s fixed-line penetration to levels not seen since 2013; the most reason behind the market’s reversal of fortunes is the Covid-19 crisis and Sri Lanka’s ensuring lock downs; these forced much of the population back inside and reverting to ‘traditional’ methods of communication for both voice and data services; the fixed broadband market was equally robust, growing 20% in 2020 alone; Sri Lanka possesses a relatively low number of computers per household so the fixed broadband market’s success comes off a small base; the one area of the telecommunications market that experienced a fall was the mobile segment; up until the start of the pandemic, Sri Lanka had a very high mobile penetration rate of 155%; this near-saturation level reflected the preponderance for subscribers to carry multiple SIM cards to take advantage of cheaper on-net call rates; the reduction in demand and traffic because of the pandemic led to a sharp drop in the number of active subscriptions, down to just 135% – a 17% decline in just one year; the market is expected to bounce back quickly, as soon as the country eases back on its lock down measures and reduces travel restrictions; it will also be boosted, come 2022, by the anticipated launch of commercial 5G mobile services (2021)
-- `domestic`: fixed-line is 12 per 100 and mobile-cellular is 143 per 100 (2022)
-- `international`: country code - 94; landing points for the SeaMeWe -3,-5,  Dhiraagu-SLT Submarine Cable Network, WARF Submarine Cable, Bharat Lanka Cable System and the Bay of Bengal Gateway submarine cables providing connectivity to Asia, Africa, Southeast Asia, Australia, the Middle East, and Europe; satellite earth stations - 2 Intelsat (Indian Ocean) (2019)
+- `總體評估`: Sri Lanka’s fixed-line telephony market was one of the very few in the world to experience a significant upsurge in subscriptions in 2020; while the country suffers from a relatively poor fixed-line infrastructure and a correspondingly strong mobile sector, demand for traditional phone services increased 14% in 2020; preliminary results suggest a further jump of up to 13% can also be expected in 2021; this will take Sri Lanka’s fixed-line penetration to levels not seen since 2013; the most reason behind the market’s reversal of fortunes is the Covid-19 crisis and Sri Lanka’s ensuring lock downs; these forced much of the population back inside and reverting to ‘traditional’ methods of communication for both voice and data services; the fixed broadband market was equally robust, growing 20% in 2020 alone; Sri Lanka possesses a relatively low number of computers per household so the fixed broadband market’s success comes off a small base; the one area of the telecommunications market that experienced a fall was the mobile segment; up until the start of the pandemic, Sri Lanka had a very high mobile penetration rate of 155%; this near-saturation level reflected the preponderance for subscribers to carry multiple SIM cards to take advantage of cheaper on-net call rates; the reduction in demand and traffic because of the pandemic led to a sharp drop in the number of active subscriptions, down to just 135% – a 17% decline in just one year; the market is expected to bounce back quickly, as soon as the country eases back on its lock down measures and reduces travel restrictions; it will also be boosted, come 2022, by the anticipated launch of commercial 5G mobile services (2021)
+- `國內`: fixed-line is 12 per 100 and mobile-cellular is 143 per 100 (2022)
+- `國際的`: country code - 94; landing points for the SeaMeWe -3,-5,  Dhiraagu-SLT Submarine Cable Network, WARF Submarine Cable, Bharat Lanka Cable System and the Bay of Bengal Gateway submarine cables providing connectivity to Asia, Africa, Southeast Asia, Australia, the Middle East, and Europe; satellite earth stations - 2 Intelsat (Indian Ocean) (2019)
 
 ### 廣播媒體
 government operates 5 TV channels and 19 radio channels; multi-channel satellite and cable TV subscription services available; 25 private TV stations and about 43 radio stations; 6 non-profit TV stations and 4 radio stations
@@ -605,20 +605,20 @@ government operates 5 TV channels and 19 radio channels; multi-channel satellite
 .lk
 
 ### 網際網路使用者
-- `total`: 14.74 million (2021 est.)
-- `percent of population`: 67% (2021 est.)
+- `總計`: 14.74 million (2021 est.)
+- `佔人口比例`: 67% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 1,781,530 (2020 est.)
-- `subscriptions per 100 inhabitants`: 8 (2020 est.)
+- `總計`: 1,781,530 (2020 est.)
+- `每100名居民訂閱數`: 8 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 3 (2020)
-- `inventory of registered aircraft operated by air carriers`: 34
-- `annual passenger traffic on registered air carriers`: 5,882,376 (2018)
-- `annual freight traffic on registered air carriers`: 436.2 million (2018) mt-km
+- `註冊航空公司數量`: 3 (2020)
+- `註冊飛機庫存—航空承運商經營`: 34
+- `年度客運量－註冊航空公司`: 5,882,376 (2018)
+- `年度貨運量－註冊航空公司`: 436.2 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 4R
@@ -633,30 +633,30 @@ government operates 5 TV channels and 19 radio channels; multi-channel satellite
 7 km refined products
 
 ### 鐵路
-- `total`: 1,562 km (2016)
-- `broad gauge`: 1,562 km (2016) 1.676-m gauge
+- `總計`: 1,562 km (2016)
+- `寬軌`: 1,562 km (2016) 1.676-m gauge
 
 ### 道路
-- `total`: 114,093 km
-- `paved`: 16,977 km
-- `unpaved`: 97,116 km (2010)
+- `總計`: 114,093 km
+- `已鋪砌`: 16,977 km
+- `未鋪砌`: 97,116 km (2010)
 
 ### 水道
 160 km (2012) (primarily on rivers in southwest)
 
 ### 商船
-- `total`: 96 (2023)
-- `by type`: bulk carrier 5, general cargo 15, oil tanker 11, other 65
+- `總計`: 96 (2023)
+- `依類型`: bulk carrier 5, general cargo 15, oil tanker 11, other 65
 
 ### 港口
-- `total ports`: 6 (2024)
-- `large`: 0
-- `medium`: 2
-- `small`: 1
-- `very small`: 1
-- `size unknown`: 2
-- `ports with oil terminals`: 2
-- `key ports`: Batticaloa Roads, Colombo, Galle Harbor, Hambantota, Kankesanturai, Trincomalee Harbor
+- `總港口數`: 6 (2024)
+- `大`: 0
+- `中`: 2
+- `小`: 1
+- `非常小`: 1
+- `未知大小`: 2
+- `原油碼頭港口`: 2
+- `主要港口`: Batticaloa Roads, Colombo, Galle Harbor, Hambantota, Kankesanturai, Trincomalee Harbor
 
 ## 軍事和安全
 
@@ -697,5 +697,5 @@ Islamic State of Iraq and ash-Sham (ISIS); Liberation Tigers of Tamil Eelam (LTT
 
 ### 難民和境內流離失所者
 - `IDPs`: 12,000 (civil war; more than half displaced prior to 2008; many of the more than 480,000 IDPs registered as returnees have not reached durable solutions) (2022)
-- `stateless persons`: 35 (2022)
+- `無國籍人士`: 35 (2022)
 

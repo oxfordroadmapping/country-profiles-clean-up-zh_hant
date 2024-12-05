@@ -19,16 +19,16 @@ Central Africa, south of Libya
 Africa
 
 ### 面積
-- `total `: 1.284 million sq km
-- `land`: 1,259,200 sq km
-- `water`: 24,800 sq km
+- `總計`: 1.284 million sq km
+- `土地`: 1,259,200 sq km
+- `水`: 24,800 sq km
 
 ### 面積—比較
 almost nine times the size of New York state; slightly more than three times the size of California
 
 ### 陸地邊界
-- `total`: 6,406 km
-- `border countries`: Cameroon 1,116 km; Central African Republic 1,556 km; Libya 1,050 km; Niger 1,196 km; Nigeria 85 km; Sudan 1,403 km
+- `總計`: 6,406 km
+- `邊境國家`: Cameroon 1,116 km; Central African Republic 1,556 km; Libya 1,050 km; Niger 1,196 km; Nigeria 85 km; Sudan 1,403 km
 
 ### 海岸線
 0 km (landlocked)
@@ -43,26 +43,26 @@ tropical in south, desert in north
 broad, arid plains in center, desert in north, mountains in northwest, lowlands in south
 
 ### 海拔
-- `highest point`: Emi Koussi 3,445 m
-- `lowest point`: Djourab 160 m
-- `mean elevation`: 543 m
+- `最高點`: Emi Koussi 3,445 m
+- `最低點`: Djourab 160 m
+- `平均海拔`: 543 m
 
 ### 自然資源
 petroleum, uranium, natron, kaolin, fish (Lake Chad), gold, limestone, sand and gravel, salt
 
 ### 土地利用
-- `agricultural land`: 39.6% (2018 est.)
-- `agricultural land: arable land`: arable land: 3.9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 35.7% (2018 est.)
-- `forest`: 9.1% (2018 est.)
-- `other`: 51.3% (2018 est.)
+- `農地`: 39.6% (2018 est.)
+- `農地：耕地`: arable land: 3.9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 35.7% (2018 est.)
+- `森林`: 9.1% (2018 est.)
+- `其它`: 51.3% (2018 est.)
 
 ### 灌溉土地
 300 sq km (2012)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lake Chad (endorheic lake shared with Niger, Nigeria, and Cameroon) - 10,360-25,900 sq kmnote - area varies by season and year to year
+- `淡水湖`: Lake Chad (endorheic lake shared with Niger, Nigeria, and Cameroon) - 10,360-25,900 sq kmnote - area varies by season and year to year
 
 ### 主要流域（按面積平方公里）
 Atlantic Ocean drainage: Niger (2,261,741 sq km)Internal *(endorheic basin) *drainage: Lake Chad (2,497,738 sq km)
@@ -82,20 +82,20 @@ hot, dry, dusty harmattan winds occur in north; periodic droughts; locust plague
 ## 人民和社會
 
 ### 人口
-- `total`: 19,093,595
-- `male`: 9,464,699
-- `female`: 9,628,896 (2024 est.)
+- `總計`: 19,093,595
+- `男性`: 9,464,699
+- `女性`: 9,628,896 (2024 est.)
 
 ### 國籍
-- `noun`: Chadian(s)
-- `adjective`: Chadian
+- `名詞`: Chadian(s)
+- `形容詞`: Chadian
 
 ### 族裔群體
 Sara (Ngambaye/Sara/Madjingaye/Mbaye) 30.5%, Kanembu/Bornu/Buduma 9.8%, Arab 9.7%, Wadai/Maba/Masalit/Mimi 7%, Gorane 5.8%, Masa/Musseye/Musgum 4.9%, Bulala/Medogo/Kuka 3.7%, Marba/Lele/Mesme 3.5%, Mundang 2.7%, Bidiyo/Migaama/Kenga/Dangleat 2.5%, Dadjo/Kibet/Muro 2.4%, Tupuri/Kera 2%, Gabri/Kabalaye/Nanchere/Somrai 2%, Fulani/Fulbe/Bodore 1.8%, Karo/Zime/Peve 1.3%, Baguirmi/Barma 1.2%, Zaghawa/Bideyat/Kobe 1.1%, Tama/Assongori/Mararit 1.1%, Mesmedje/Massalat/Kadjakse 0.8%, other  4.6%, unspecified 1.7% (2014-15 est.)
 
 ### 語文
 French (official), Arabic (official), Sara (in south), more than 120 languages and dialects
-- `major-language sample(s)`: The World Factbook, une source indispensable d'informations de base. (French)  كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: The World Factbook, une source indispensable d'informations de base. (French)  كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)  The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Muslim 52.1%, Protestant 23.9%, Roman Catholic 20%, animist 0.3%, other Christian 0.2%, none 2.8%, unspecified 0.7% (2014-15 est.)
@@ -104,20 +104,20 @@ Muslim 52.1%, Protestant 23.9%, Roman Catholic 20%, animist 0.3%, other Christia
 Despite the start of oil production in 2003, around 40% of Chad’s population lived below the poverty line as of 2018. The population will continue to grow rapidly because of the country’s very high fertility rate and large youth cohort – more than 65% of the populace is under the age of 25 as of 2022 – although the mortality rate is high and life expectancy is low. Chad has the world’s second highest maternal mortality rate as of 2017. Among the primary risk factors are poverty, anemia, rural habitation, high fertility, poor education, and a lack of access to family planning and obstetric care. Impoverished, uneducated adolescents living in rural areas are most affected. To improve women’s reproductive health and reduce fertility, Chad will need to increase women’s educational attainment, job participation, and knowledge of and access to family planning. Less than a quarter of women are literate, less than 10% use contraceptives, and more than 40% undergo genital cutting. As of December 2022, more than 403,000 refugees from Sudan and more than 120,000 from the Central African Republic strain Chad’s limited resources and create tensions in host communities. Thousands of new refugees fled to Chad in 2013 to escape worsening violence in the Darfur region of Sudan. The large refugee populations are hesitant to return to their home countries because of continued instability. Chad was relatively stable in 2012 in comparison to other states in the region, but past fighting between government forces and opposition groups and inter-communal violence have left more than 380,000 of its citizens displaced in the eastern part of the country as of 2022.
 
 ### 年齡結構
-- `0-14 years`: 45.8% (male 4,428,132/female 4,323,398)
-- `15-64 years`: 51.7% (male 4,831,744/female 5,031,383)
-- `65 years and over`: 2.5% (2024 est.) (male 204,823/female 274,115)
+- `0-14歲`: 45.8% (male 4,428,132/female 4,323,398)
+- `15-64歲`: 51.7% (male 4,831,744/female 5,031,383)
+- `65歲及以上`: 2.5% (2024 est.) (male 204,823/female 274,115)
 
 ### 撫養比率
-- `total dependency ratio`: 98.7
-- `youth dependency ratio`: 94.7
-- `elderly dependency ratio`: 4
-- `potential support ratio`: 24.9 (2021 est.)
+- `總受扶養人比率`: 98.7
+- `少年撫養比率`: 94.7
+- `老人撫養比率`: 4
+- `潛在支持率`: 24.9 (2021 est.)
 
 ### 年齡中位數
-- `total`: 16.7 years (2024 est.)
-- `male`: 16.3 years
-- `female`: 17.2 years
+- `總計`: 16.7 years (2024 est.)
+- `男性`: 16.3 years
+- `女性`: 17.2 years
 
 ### 人口成長率
 3.01% (2024 est.)
@@ -135,18 +135,18 @@ Despite the start of oil production in 2003, around 40% of Chad’s population l
 the population is unevenly distributed due to contrasts in climate and physical geography; the highest density is found in the southwest, particularly around Lake Chad and points south; the dry Saharan zone to the north is the least densely populated as shown in this population distribution map
 
 ### 都市化
-- `urban population`: 24.4% of total population (2023)
-- `rate of urbanization`: 4.1% annual rate of change (2020-25 est.)
+- `城市人口`: 24.4% of total population (2023)
+- `城鎮化率`: 4.1% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 1.592 million N'DJAMENA (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.04 male(s)/female
-- `0-14 years`: 1.02 male(s)/female
-- `15-64 years`: 0.96 male(s)/female
-- `65 years and over`: 0.75 male(s)/female
-- `total population`: 0.98 male(s)/female (2024 est.)
+- `出生時`: 1.04 male(s)/female
+- `0-14歲`: 1.02 male(s)/female
+- `15-64歲`: 0.96 male(s)/female
+- `65歲及以上`: 0.75 male(s)/female
+- `總人口數`: 0.98 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 18.1 years (2014/15 est.)
@@ -156,14 +156,14 @@ the population is unevenly distributed due to contrasts in climate and physical 
 1,063 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 62.5 deaths/1,000 live births (2024 est.)
-- `male`: 68.1 deaths/1,000 live births
-- `female`: 56.7 deaths/1,000 live births
+- `總計`: 62.5 deaths/1,000 live births (2024 est.)
+- `男性`: 68.1 deaths/1,000 live births
+- `女性`: 56.7 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 60 years (2024 est.)
-- `male`: 58.1 years
-- `female`: 62 years
+- `總人口數`: 60 years (2024 est.)
+- `男性`: 58.1 years
+- `女性`: 62 years
 
 ### 總生育率
 5.24 children born/woman (2024 est.)
@@ -175,12 +175,12 @@ the population is unevenly distributed due to contrasts in climate and physical 
 8.1% (2019)
 
 ### 飲用水來源
-- `improved: urban`: urban: 90.2% of population
-- `improved: rural`: rural: 51.9% of population
-- `improved: total`: total: 60.9% of population
-- `unimproved: urban`: urban: 9.8% of population
-- `unimproved: rural`: rural: 48.1% of population
-- `unimproved: total`: total: 39.1% of population (2020 est.)
+- `已改進－城市`: urban: 90.2% of population
+- `已改進－農村`: rural: 51.9% of population
+- `已改進－總計`: total: 60.9% of population
+- `未改進：都市`: urban: 9.8% of population
+- `未改進：鄉村`: rural: 48.1% of population
+- `未改善：總計`: total: 39.1% of population (2020 est.)
 
 ### 當前醫療支出
 5.4% of GDP (2020)
@@ -189,27 +189,27 @@ the population is unevenly distributed due to contrasts in climate and physical 
 0.06 physicians/1,000 population (2020)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 57.5% of population
-- `improved: rural`: rural: 4.9% of population
-- `improved: total`: total: 17.3% of population
-- `unimproved: urban`: urban: 42.5% of population
-- `unimproved: rural`: rural: 95.1% of population
-- `unimproved: total`: total: 82.7% of population (2020 est.)
+- `已改進－城市`: urban: 57.5% of population
+- `已改進－農村`: rural: 4.9% of population
+- `已改進－總計`: total: 17.3% of population
+- `未改進：都市`: urban: 42.5% of population
+- `未改進：鄉村`: rural: 95.1% of population
+- `未改善：總計`: total: 82.7% of population (2020 est.)
 
 ### 肥胖—成人流行率
 6.1% (2016)
 
 ### 人均酒精消費量
-- `total`: 0.55 liters of pure alcohol (2019 est.)
-- `beer`: 0.37 liters of pure alcohol (2019 est.)
-- `wine`: 0.01 liters of pure alcohol (2019 est.)
-- `spirits`: 0.01 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.16 liters of pure alcohol (2019 est.)
+- `總計`: 0.55 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.37 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.01 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.01 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.16 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 8.3% (2020 est.)
-- `male`: 13.8% (2020 est.)
-- `female`: 2.7% (2020 est.)
+- `總計`: 8.3% (2020 est.)
+- `男性`: 13.8% (2020 est.)
+- `女性`: 2.7% (2020 est.)
 
 ### 5歲以下體重不足兒童
 18.9% (2022)
@@ -218,23 +218,23 @@ the population is unevenly distributed due to contrasts in climate and physical 
 70.6% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 24.2%
-- `women married by age 18`: 60.6%
-- `men married by age 18`: 8.1% (2019 est.)
+- `15歲前結婚的女性`: 24.2%
+- `18歲前結婚的女性`: 60.6%
+- `18歲前結婚的男性`: 8.1% (2019 est.)
 
 ### 教育支出
 2.9% of GDP (2021 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write French or Arabic
-- `total population`: 26.8%
-- `male`: 35.4%
-- `female`: 18.2% (2021)
+- `定義`: age 15 and over can read and write French or Arabic
+- `總人口數`: 26.8%
+- `男性`: 35.4%
+- `女性`: 18.2% (2021)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 7 years
-- `male`: 9 years
-- `female`: 6 years (2015)
+- `總計`: 7 years
+- `男性`: 9 years
+- `女性`: 6 years (2015)
 
 ## 環境
 
@@ -242,26 +242,26 @@ the population is unevenly distributed due to contrasts in climate and physical 
 inadequate supplies of potable water; improper waste disposal in rural areas and poor farming practices contribute to soil and water pollution; desertification
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands
-- `signed, but not ratified`: Marine Dumping-London Convention
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands
+- `已簽署但未批準`: Marine Dumping-London Convention
 
 ### 氣候
 tropical in south, desert in north
 
 ### 土地利用
-- `agricultural land`: 39.6% (2018 est.)
-- `agricultural land: arable land`: arable land: 3.9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 35.7% (2018 est.)
-- `forest`: 9.1% (2018 est.)
-- `other`: 51.3% (2018 est.)
+- `農地`: 39.6% (2018 est.)
+- `農地：耕地`: arable land: 3.9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 35.7% (2018 est.)
+- `森林`: 9.1% (2018 est.)
+- `其它`: 51.3% (2018 est.)
 
 ### 都市化
-- `urban population`: 24.4% of total population (2023)
-- `rate of urbanization`: 4.1% annual rate of change (2020-25 est.)
+- `城市人口`: 24.4% of total population (2023)
+- `城鎮化率`: 4.1% annual rate of change (2020-25 est.)
 
 ### 糧食不安全
-- `widespread lack of access`: *due to civil insecurity and high food prices - *according to the latest analysis, about 1.86 million people are projected to experience acute food insecurity during the June to August 2023 lean season period; this would be an improvement compared to the previous year, mostly due to the higher year-on-year cereal output in 2022 after the below average 2021 production; acute food insecurity is underpinned by persisting insecurity in the Lac and Tibesti regions, which had displaced over 380 000 people by April 2023; furthermore, elevated food prices due to high fuel costs and localized crop losses during the 2022 floods are aggravating food insecurity (2023)
+- `普遍缺乏訪問權限`: *due to civil insecurity and high food prices - *according to the latest analysis, about 1.86 million people are projected to experience acute food insecurity during the June to August 2023 lean season period; this would be an improvement compared to the previous year, mostly due to the higher year-on-year cereal output in 2022 after the below average 2021 production; acute food insecurity is underpinned by persisting insecurity in the Lac and Tibesti regions, which had displaced over 380 000 people by April 2023; furthermore, elevated food prices due to high fuel costs and localized crop losses during the 2022 floods are aggravating food insecurity (2023)
 
 ### 森林資源收入
 3.81% of GDP (2018 est.)
@@ -270,15 +270,15 @@ tropical in south, desert in north
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 41.15 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 1.02 megatons (2016 est.)
-- `methane emissions`: 30.69 megatons (2020 est.)
+- `顆粒物排放量`: 41.15 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 1.02 megatons (2016 est.)
+- `甲烷排放量`: 30.69 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 1,358,851 tons (2010 est.)
+- `城市固體廢棄物－每年產生`: 1,358,851 tons (2010 est.)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lake Chad (endorheic lake shared with Niger, Nigeria, and Cameroon) - 10,360-25,900 sq kmnote - area varies by season and year to year
+- `淡水湖`: Lake Chad (endorheic lake shared with Niger, Nigeria, and Cameroon) - 10,360-25,900 sq kmnote - area varies by season and year to year
 
 ### 主要流域（按面積平方公里）
 Atlantic Ocean drainage: Niger (2,261,741 sq km)Internal *(endorheic basin) *drainage: Lake Chad (2,497,738 sq km)
@@ -287,9 +287,9 @@ Atlantic Ocean drainage: Niger (2,261,741 sq km)Internal *(endorheic basin) *dra
 Lake Chad Basin, Nubian Aquifer System
 
 ### 總取水量
-- `municipal`: 100 million cubic meters (2020 est.)
-- `industrial`: 100 million cubic meters (2020 est.)
-- `agricultural`: 670 million cubic meters (2020 est.)
+- `市級`: 100 million cubic meters (2020 est.)
+- `工業`: 100 million cubic meters (2020 est.)
+- `農業`: 670 million cubic meters (2020 est.)
 
 ### 可再生水資源總量
 45.7 billion cubic meters (2020 est.)
@@ -297,21 +297,21 @@ Lake Chad Basin, Nubian Aquifer System
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Chad
-- `conventional short form`: Chad
-- `local long form`: République du Tchad/Jumhuriyat Tshad
-- `local short form`: Tchad/Tshad
-- `etymology`: named for Lake Chad, which lies along the country's western border; the word "tsade" means "large body of water" or "lake" in several local native languages
+- `常用長名`: Republic of Chad
+- `常用短名`: Chad
+- `當地語長名`: République du Tchad/Jumhuriyat Tshad
+- `當地語短名`: Tchad/Tshad
+- `语源学`: named for Lake Chad, which lies along the country's western border; the word "tsade" means "large body of water" or "lake" in several local native languages
 **note**:  the only country whose name is composed of a single syllable with a single vowel
 
 ### 政府類型
 presidential republic
 
 ### 首都
-- `name`: N'Djamena
-- `geographic coordinates`: 12 06 N, 15 02 E
-- `time difference`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: name taken from the Arab name of a nearby village, Nijamina, meaning "place of rest"
+- `名稱`: N'Djamena
+- `地理坐標`: 12 06 N, 15 02 E
+- `時差`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: name taken from the Arab name of a nearby village, Nijamina, meaning "place of rest"
 
 ### 行政區劃
 23 provinces (provinces, singular - province); Barh-El-Gazel, Batha, Borkou, Chari-Baguirmi, Ennedi-Est, Ennedi-Ouest, Guera, Hadjer-Lamis, Kanem, Lac, Logone Occidental, Logone Oriental, Mandoul, Mayo-Kebbi-Est, Mayo-Kebbi-Ouest, Moyen-Chari, N'Djamena, Ouaddai, Salamat, Sila, Tandjile, Tibesti, Wadi-Fira
@@ -326,39 +326,39 @@ Independence Day, 11 August (1960)
 mixed legal system of civil and customary law
 
 ### 憲法
-- `history`: several previous; latest adopted by National Transitional Council 27 June 2023, approved by referendum 17 December, verified by Chad Supreme Court 28 December, promulgated 1 January 2024
-- `amendments`: previous process: proposed as a revision by the president of the republic after a Council of Ministers (cabinet) decision or by the National Assembly; approval for consideration of a revision requires at least three-fifths majority vote by the Assembly; passage requires approval by referendum or at least two-thirds majority vote by the Assembly
+- `歷史`: several previous; latest adopted by National Transitional Council 27 June 2023, approved by referendum 17 December, verified by Chad Supreme Court 28 December, promulgated 1 January 2024
+- `修正`: previous process: proposed as a revision by the president of the republic after a Council of Ministers (cabinet) decision or by the National Assembly; approval for consideration of a revision requires at least three-fifths majority vote by the Assembly; passage requires approval by referendum or at least two-thirds majority vote by the Assembly
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: both parents must be citizens of Chad
-- `dual citizenship recognized`: Chadian law does not address dual citizenship
-- `residency requirement for naturalization`: 15 years
+- `出生公民權`: no
+- `血統公民身份`: both parents must be citizens of Chad
+- `承認雙重國籍`: Chadian law does not address dual citizenship
+- `入籍的居留要求`: 15 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Mahamat Idriss DÉBY (since 6 May 2024)
-- `head of government`: Prime Minister Allamaye HALINA (since 23 May 2024)
-- `cabinet`: Council of Ministers
-- `elections/appointments`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 6 May 2024 (next to be held NA)
-- `election results`: *2024: *Mahamat Idriss DÉBY elected president; percent of vote - Mahamat Idriss DÉBY (MPS) 61%, Succes MASRA (Transformers) 18.5%, Albert PADACKE 16.9%, other 3.6%*2021:* Lt. Gen. Idriss DÉBY reelected transitional president; percent of vote - Lt. Gen. Idriss DÉBY (MPS) 79.3%, Pahimi PADACKET Albert (RNDT) 10.3%, Lydie BEASSEMDA (Party for Democracy and Independence) 3.2%, other 7.2%**
+- `國家元首`: President Mahamat Idriss DÉBY (since 6 May 2024)
+- `政府首腦`: Prime Minister Allamaye HALINA (since 23 May 2024)
+- `内閣`: Council of Ministers
+- `選舉/任命`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 6 May 2024 (next to be held NA)
+- `選舉結果`: *2024: *Mahamat Idriss DÉBY elected president; percent of vote - Mahamat Idriss DÉBY (MPS) 61%, Succes MASRA (Transformers) 18.5%, Albert PADACKE 16.9%, other 3.6%*2021:* Lt. Gen. Idriss DÉBY reelected transitional president; percent of vote - Lt. Gen. Idriss DÉBY (MPS) 79.3%, Pahimi PADACKET Albert (RNDT) 10.3%, Lydie BEASSEMDA (Party for Democracy and Independence) 3.2%, other 7.2%**
 **note**:  on 20 April 2021; President Idriss DÉBY died of injuries sustained following clashes between government forces and insurgents in northern Chad; following his death, Mahamat Idriss DÉBY , his son, took control of the country, established a Transitional Military Council which was dissolved in October 2022, and was elected president by popular vote in May 2024
 
 ### 立法部門
-- `description`: bicameral Parliament to replace unicameral National Assembly and to consist of:Senate - representing the Autonomous Communities - NA seats (members indirectly elected by electoral college of provincial and communal councilors for 6-year renewable terms)National Assembly NA seats (members directly elected by popular vote to serve 5-year renewable terms)
-- `elections`: last held for National Assembly on 6 May 2011 (first elections for new Parliament expected in late 2024)
-- `election results`: 6 May 2011:  percent of vote by party - NA; seats by party - NA; composition - men 64, women 29, percent of women 31.2%
+- `描述`: bicameral Parliament to replace unicameral National Assembly and to consist of:Senate - representing the Autonomous Communities - NA seats (members indirectly elected by electoral college of provincial and communal councilors for 6-year renewable terms)National Assembly NA seats (members directly elected by popular vote to serve 5-year renewable terms)
+- `選舉`: last held for National Assembly on 6 May 2011 (first elections for new Parliament expected in late 2024)
+- `選舉結果`: 6 May 2011:  percent of vote by party - NA; seats by party - NA; composition - men 64, women 29, percent of women 31.2%
 **note**:  the Transitional Military Council dissolved the National Assembly in September 2021 and replaced it with the National Transitional Council (CNT) in October 2022; the CNT serves as an interim parliament for the country and is tasked with preparations for elections in late 2024
 
 ### 司法部門
-- `highest court(s)`: Supreme Court (consists of the chief justice, 3 chamber presidents, and 12 judges or councilors and divided into 3 chambers); Supreme Council of the Judiciary (consists of the Judiciary president, vice president and 13 members)
-- `judge selection and term of office`: Supreme Court chief justice selected by the president; councilors - 8 designated by the president and 7 by the speaker of the National Assembly; chief justice and councilors appointed for life; Supreme Council of the Judiciary - with the exception of the Judiciary president and vice president, members are elected for single renewable 4-year terms
-- `subordinate courts`: High Court of Justice; Courts of Appeal; tribunals; justices of the peace
+- `最高法院`: Supreme Court (consists of the chief justice, 3 chamber presidents, and 12 judges or councilors and divided into 3 chambers); Supreme Council of the Judiciary (consists of the Judiciary president, vice president and 13 members)
+- `法官遴選和任期`: Supreme Court chief justice selected by the president; councilors - 8 designated by the president and 7 by the speaker of the National Assembly; chief justice and councilors appointed for life; Supreme Council of the Judiciary - with the exception of the Judiciary president and vice president, members are elected for single renewable 4-year terms
+- `下級法院`: High Court of Justice; Courts of Appeal; tribunals; justices of the peace
 
 ### 政黨
 Chadian Convention for Peace and Development or CTPDFederation Action for the Republic or FARNational Rally for Development and Progress or Viva-RNDPNational Union for Democracy and Renewal or UNDRParty for Unity and Reconstruction or PURPatriotic Salvation Movement or MPS Rally for Democracy and Progress or RDPRally of Chadian Nationalists/Awakening or RNDT/Le ReveilSocial Democratic Party for a Change-over of Power or PDSAUnion for Democracy and the Republic or UDRUnion for Renewal and Democracy or URDTransformers*_issue_**_issue_*
@@ -368,19 +368,19 @@ Chadian Convention for Peace and Development or CTPDFederation Action for the Re
 ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MNJTF, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOCI, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador KITOKO GATA Ngoulou (since 30 June 2023)
-- `chancery`: 2401 Massachusetts Avenue NW, Washington, DC 20008
-- `telephone`: [1] (202) 652-1312
+- `外交代表負責人`: Ambassador KITOKO GATA Ngoulou (since 30 June 2023)
+- `衡平法院（在美國）`: 2401 Massachusetts Avenue NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 652-1312
 - `FAX`: [1] (202) 578-0431
-- `email address and website`: info@chadembassy.us  https://chadembassy.us/
+- `電子郵件地址和網站`: info@chadembassy.us  https://chadembassy.us/
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Alexander LASKARIS (since 19 August 2022)
-- `embassy`: Rond-Point Chagoua, B.P. 413, N’Djamena
-- `mailing address`: 2410 N'Djamena Place, Washington DC  20521-2410
-- `telephone`: [235] 6885-1065
+- `外交代表負責人`: Ambassador Alexander LASKARIS (since 19 August 2022)
+- `大使館`: Rond-Point Chagoua, B.P. 413, N’Djamena
+- `郵寄地址`: 2410 N'Djamena Place, Washington DC  20521-2410
+- `電話號碼`: [235] 6885-1065
 - `FAX`: [235] 2253-9102
-- `email address and website`: NdjamenaACS@state.gov  https://td.usembassy.gov/
+- `電子郵件地址和網站`: NdjamenaACS@state.gov  https://td.usembassy.gov/
 
 ### 旗幟說明
 three equal vertical bands of blue (hoist side), gold, and red; the flag combines the blue and red French (former colonial) colors with the red and yellow (gold) of the Pan-African colors; blue symbolizes the sky, hope, and the south of the country, which is relatively well-watered; gold represents the sun, as well as the desert in the north of the country; red stands for progress, unity, and sacrifice
@@ -390,8 +390,8 @@ three equal vertical bands of blue (hoist side), gold, and red; the flag combine
 goat (north), lion (south); national colors: blue, yellow, red
 
 ### 國歌
-- `name`: "La Tchadienne" (The Chadian)
-- `lyrics/music`: Louis GIDROL and his students/Paul VILLARD
+- `名稱`: "La Tchadienne" (The Chadian)
+- `歌詞／音樂`: Louis GIDROL and his students/Paul VILLARD
 **note**:  adopted 1960
 
 ### 國家級遺產
@@ -432,17 +432,17 @@ $13.149 billion (2023 est.)
 **note**: annual % change based on consumer prices
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 25.1% (2023 est.)
-- `industry`: 44.4% (2023 est.)
-- `services`: 28.7% (2023 est.)
+- `農業`: 25.1% (2023 est.)
+- `產業`: 44.4% (2023 est.)
+- `服務`: 28.7% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 74.6% (2023 est.)
-- `government consumption`: 4.2% (2023 est.)
-- `investment in fixed capital`: 25.8% (2023 est.)
-- `exports of goods and services`: 43.5% (2023 est.)
-- `imports of goods and services`: -48.1% (2023 est.)
+- `家庭消費`: 74.6% (2023 est.)
+- `政府消費`: 4.2% (2023 est.)
+- `固定資本投資`: 25.8% (2023 est.)
+- `商品和服務出口`: 43.5% (2023 est.)
+- `商品和服務進口`: -48.1% (2023 est.)
 **note**:  figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -467,9 +467,9 @@ oil, cotton textiles, brewing, natron (sodium carbonate), soap, cigarettes, cons
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 1.5% (2023 est.)
-- `male`: 2.1% (2023 est.)
-- `female`: 0.7% (2023 est.)
+- `總計`: 1.5% (2023 est.)
+- `男性`: 2.1% (2023 est.)
+- `女性`: 0.7% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -481,8 +481,8 @@ oil, cotton textiles, brewing, natron (sodium carbonate), soap, cigarettes, cons
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 2.8% (2022 est.)
-- `highest 10%`: 29.6% (2022 est.)
+- `最低10%`: 2.8% (2022 est.)
+- `最高10%`: 29.6% (2022 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -491,8 +491,8 @@ oil, cotton textiles, brewing, natron (sodium carbonate), soap, cigarettes, cons
 0% of GDP (2021 est.)
 
 ### 預算
-- `revenues`: $2.29 billion (2020 est.)
-- `expenditures`: $2.12 billion (2020 est.)
+- `收入`: $2.29 billion (2020 est.)
+- `支出`: $2.12 billion (2020 est.)
 
 ### 公共債務
 52.5% of GDP (2017 est.)
@@ -553,28 +553,28 @@ $2.352 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 11.7% (2022 est.)
-- `electrification - urban areas`: 46.3%
-- `electrification - rural areas`: 1.3%
+- `電氣化－總人口`: 11.7% (2022 est.)
+- `電氣化－城市地區`: 46.3%
+- `電氣化－農村地區`: 1.3%
 
 ### 電力
-- `installed generating capacity`: 90,000 kW (2022 est.)
-- `consumption`: 301.523 million kWh (2022 est.)
-- `transmission/distribution losses`: 48.261 million kWh (2022 est.)
+- `裝機容量`: 90,000 kW (2022 est.)
+- `消費`: 301.523 million kWh (2022 est.)
+- `傳輸／分配損耗`: 48.261 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 94.5% of total installed capacity (2022 est.)
-- `wind`: 2.6% of total installed capacity (2022 est.)
-- `biomass and waste`: 2.9% of total installed capacity (2022 est.)
+- `石化燃料`: 94.5% of total installed capacity (2022 est.)
+- `風能`: 2.6% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 2.9% of total installed capacity (2022 est.)
 
 ### 石油
-- `total petroleum production`: 124,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 15,000 bbl/day (2022 est.)
-- `crude oil estimated reserves`: 1.5 billion barrels (2021 est.)
+- `總石油產量`: 124,000 bbl/day (2023 est.)
+- `成品油消費量`: 15,000 bbl/day (2022 est.)
+- `原油儲備量估值`: 1.5 billion barrels (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 2.064 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 2.064 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 2.064 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 2.064 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 1.649 million Btu/person (2022 est.)
@@ -582,17 +582,17 @@ $2.352 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 5,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: (2022 est.) less than 1
+- `總訂閱數`: 5,000 (2022 est.)
+- `每100名居民訂閱數`: (2022 est.) less than 1
 
 ### 電話—移動電話
-- `total subscriptions`: 12.087 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 68 (2022 est.)
+- `總訂閱數`: 12.087 million (2022 est.)
+- `每100名居民訂閱數`: 68 (2022 est.)
 
 ### 電信系統
-- `general assessment`: the telecom infrastructure is particularly poor; fixed, mobile and internet is well below African averages; Chad’s telecom market offers some potential for investors to develop services given the low starting base; the country’s first 3G/LTE mobile license was awarded in April 2014; Chad finally gained access to international fiber bandwidth in 2012 its national backbone infrastructure remains underdeveloped; the World Bank-funded Central African Backbone (CAB) project takes in Chad, while the country is also party to a Trans-Saharan Backbone project which will link a fiber cable to Nigeria and Algeria (2022)
-- `domestic`: fixed-line connections less than 1 per 100 persons; mobile-cellular subscribership base of about 60 per 100 persons (2021)
-- `international`: country code - 235; satellite earth station - 1 Intelsat (Atlantic Ocean)
+- `總體評估`: the telecom infrastructure is particularly poor; fixed, mobile and internet is well below African averages; Chad’s telecom market offers some potential for investors to develop services given the low starting base; the country’s first 3G/LTE mobile license was awarded in April 2014; Chad finally gained access to international fiber bandwidth in 2012 its national backbone infrastructure remains underdeveloped; the World Bank-funded Central African Backbone (CAB) project takes in Chad, while the country is also party to a Trans-Saharan Backbone project which will link a fiber cable to Nigeria and Algeria (2022)
+- `國內`: fixed-line connections less than 1 per 100 persons; mobile-cellular subscribership base of about 60 per 100 persons (2021)
+- `國際的`: country code - 235; satellite earth station - 1 Intelsat (Atlantic Ocean)
 
 ### 廣播媒體
 1 state-owned TV station; 2 privately-owned TV stations; state-owned radio network, Radiodiffusion Nationale Tchadienne (RNT), operates national and regional stations; over 10 private radio stations; some stations rebroadcast programs from international broadcasters (2017)
@@ -601,14 +601,14 @@ $2.352 billion (2022 est.)
 .td
 
 ### 網際網路使用者
-- `total`: 3.06 million (2021 est.)
-- `percent of population`: 18% (2021 est.)
+- `總計`: 3.06 million (2021 est.)
+- `佔人口比例`: 18% (2021 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 2 (2020)
-- `inventory of registered aircraft operated by air carriers`: 3
+- `註冊航空公司數量`: 2 (2020)
+- `註冊飛機庫存—航空承運商經營`: 3
 
 ### 註冊民用航空器國家代碼前綴
 TT
@@ -620,7 +620,7 @@ TT
 582 km oil (2013)
 
 ### 道路
-- `total`: 40,000 km (2018)
+- `總計`: 40,000 km (2018)
 **note**:  consists of 25,000 km of national and regional roads and 15,000 km of local roads; 206 km of urban roads are paved
 
 ### 水道
@@ -663,11 +663,11 @@ Boko Haram; Islamic State of Iraq and ash-Sham - West Africa (ISIS-WA)
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 694,569 (Sudan) (includes refugees since 15 April 2023), 26,692 (Cameroon) (2023); 134,015 (Central African Republic), 21,381 (Nigeria) (2024)
+- `難民（原籍國）`: 694,569 (Sudan) (includes refugees since 15 April 2023), 26,692 (Cameroon) (2023); 134,015 (Central African Republic), 21,381 (Nigeria) (2024)
 - `IDPs`: 215,918 (majority are in the east) (2023)
 
 ### 人口販運
-- `tier rating`: Tier 2 Watch List — Chad does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so, therefore Chad was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/chad/
+- `會級評分`: Tier 2 Watch List — Chad does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so, therefore Chad was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/chad/
 
 ### 非法藥物
 NA

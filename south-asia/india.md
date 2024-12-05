@@ -19,25 +19,25 @@ Southern Asia, bordering the Arabian Sea and the Bay of Bengal, between Burma an
 Asia
 
 ### 面積
-- `total `: 3,287,263 sq km
-- `land`: 2,973,193 sq km
-- `water`: 314,070 sq km
+- `總計`: 3,287,263 sq km
+- `土地`: 2,973,193 sq km
+- `水`: 314,070 sq km
 
 ### 面積—比較
 slightly more than one-third the size of the US
 
 ### 陸地邊界
-- `total`: 13,888 km
-- `border countries`: Bangladesh 4,142 km; Bhutan 659 km; Burma 1,468 km; China 2,659 km; Nepal 1,770 km; Pakistan 3,190 km
+- `總計`: 13,888 km
+- `邊境國家`: Bangladesh 4,142 km; Bhutan 659 km; Burma 1,468 km; China 2,659 km; Nepal 1,770 km; Pakistan 3,190 km
 
 ### 海岸線
 7,000 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: 200 nm or to the edge of the continental margin
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: 200 nm or to the edge of the continental margin
 
 ### 氣候
 varies from tropical monsoon in south to temperate in north
@@ -46,26 +46,26 @@ varies from tropical monsoon in south to temperate in north
 upland plain (Deccan Plateau) in south, flat to rolling plain along the Ganges, deserts in west, Himalayas in north
 
 ### 海拔
-- `highest point`: Kanchenjunga 8,586 m
-- `lowest point`: Indian Ocean 0 m
-- `mean elevation`: 160 m
+- `最高點`: Kanchenjunga 8,586 m
+- `最低點`: Indian Ocean 0 m
+- `平均海拔`: 160 m
 
 ### 自然資源
 coal (fourth-largest reserves in the world), antimony, iron ore, lead, manganese, mica, bauxite, rare earth elements, titanium ore, chromite, natural gas, diamonds, petroleum, limestone, arable land
 
 ### 土地利用
-- `agricultural land`: 60.5% (2018 est.)
-- `agricultural land: arable land`: arable land: 52.8% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 4.2% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 3.5% (2018 est.)
-- `forest`: 23.1% (2018 est.)
-- `other`: 16.4% (2018 est.)
+- `農地`: 60.5% (2018 est.)
+- `農地：耕地`: arable land: 52.8% (2018 est.)
+- `農地：永久性作物`: permanent crops: 4.2% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 3.5% (2018 est.)
+- `森林`: 23.1% (2018 est.)
+- `其它`: 16.4% (2018 est.)
 
 ### 灌溉土地
 715,539 sq km (2020)
 
 ### 主要湖泊（按面積平方公里）
-- `salt water lake(s)`: Chilika Lake - 1,170 sq km
+- `鹽水湖`: Chilika Lake - 1,170 sq km
 
 ### 主要河流（按公里長度）
 Brahmaputra (shared with China [s] and Bangladesh [m]) - 3,969 km; Indus (shared with China [s] and Pakistan [m]) - 3,610 km; Ganges river source (shared with Bangladesh [m]) - 2,704 km; Godavari - 1,465 km; Sutlej (shared with China [s] and Pakistan [m]) - 1,372 km; Yamuna - 1,370 km; Narmada - 1,289 km; Chenab river source (shared with Pakistan [m]) - 1,086 km; Ghaghara river mouth (shared with China [s] and Nepal) - 1,080 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -88,40 +88,40 @@ dominates South Asian subcontinent; near important Indian Ocean trade routes; Ka
 ## 人民和社會
 
 ### 人口
-- `total`: 1,409,128,296
-- `male`: 725,784,825
-- `female`: 683,343,471 (2024 est.)
+- `總計`: 1,409,128,296
+- `男性`: 725,784,825
+- `女性`: 683,343,471 (2024 est.)
 
 ### 國籍
-- `noun`: Indian(s)
-- `adjective`: Indian
+- `名詞`: Indian(s)
+- `形容詞`: Indian
 
 ### 族裔群體
 Indo-Aryan 72%, Dravidian 25%, and other 3% (2000)
 
 ### 語文
 Hindi 43.6%, Bengali 8%, Marathi 6.9%, Telugu 6.7%, Tamil 5.7%, Gujarati 4.6%, Urdu 4.2%, Kannada 3.6%, Odia 3.1%, Malayalam 2.9%, Punjabi 2.7%, Assamese 1.3%, Maithili 1.1%, other 5.6%;  English is the subsidiary official language but is the most important one for national, political, and commercial communication (2011 est.)
-- `major-language sample(s)`: विश्व फ़ैक्टबुक, आधारभूत जानकारी का एक अनिवार्य स्रोत (Hindi) The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: विश्व फ़ैक्टबुक, आधारभूत जानकारी का एक अनिवार्य स्रोत (Hindi) The World Factbook, the indispensable source for basic information.
 **note 1**: there are 22 other recognized languages -- Assamese, Bengali, Bodo, Dogri, Gujarati, Hindi, Kannada, Kashmiri, Konkani, Maithili, Malayalam, Manipuri, Marathi, Nepali, Odia, Punjabi, Sanskrit, Santali, Sindhi, Tamil, Telugu, Urdu **note 2**: Hindustani is a popular variant of Hindi/Urdu spoken widely throughout northern India but is not an official language
 
 ### 宗教
 Hindu 79.8%, Muslim 14.2%, Christian 2.3%, Sikh 1.7%, other and unspecified 2% (2011 est.)
 
 ### 年齡結構
-- `0-14 years`: 24.5% (male 181,115,052/female 163,647,028)
-- `15-64 years`: 68.7% (male 500,568,593/female 467,593,781)
-- `65 years and over`: 6.8% (2024 est.) (male 44,101,180/female 52,102,662)
+- `0-14歲`: 24.5% (male 181,115,052/female 163,647,028)
+- `15-64歲`: 68.7% (male 500,568,593/female 467,593,781)
+- `65歲及以上`: 6.8% (2024 est.) (male 44,101,180/female 52,102,662)
 
 ### 撫養比率
-- `total dependency ratio`: 48.1
-- `youth dependency ratio`: 38.1
-- `elderly dependency ratio`: 10.1
-- `potential support ratio`: 9.9 (2021 est.)
+- `總受扶養人比率`: 48.1
+- `少年撫養比率`: 38.1
+- `老人撫養比率`: 10.1
+- `潛在支持率`: 9.9 (2021 est.)
 
 ### 年齡中位數
-- `total`: 29.8 years (2024 est.)
-- `male`: 29.1 years
-- `female`: 30.5 years
+- `總計`: 29.8 years (2024 est.)
+- `男性`: 29.1 years
+- `女性`: 30.5 years
 
 ### 人口成長率
 0.72% (2024 est.)
@@ -139,18 +139,18 @@ Hindu 79.8%, Muslim 14.2%, Christian 2.3%, Sikh 1.7%, other and unspecified 2% (
 with the notable exception of the deserts in the northwest, including the Thar Desert, and the mountain fringe in the north, a very high population density exists throughout most of the country; the core of the population is in the north along the banks of the Ganges, with other river valleys and southern coastal areas also having large population concentrations
 
 ### 都市化
-- `urban population`: 36.4% of total population (2023)
-- `rate of urbanization`: 2.33% annual rate of change (2020-25 est.)
+- `城市人口`: 36.4% of total population (2023)
+- `城鎮化率`: 2.33% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 32.941 million NEW DELHI (capital), 21.297 million Mumbai, 15.333 million Kolkata, 13.608 million Bangalore, 11.776 million Chennai, 10.801 million Hyderabad (2023)
 
 ### 性別比例
-- `at birth`: 1.1 male(s)/female
-- `0-14 years`: 1.11 male(s)/female
-- `15-64 years`: 1.07 male(s)/female
-- `65 years and over`: 0.85 male(s)/female
-- `total population`: 1.06 male(s)/female (2024 est.)
+- `出生時`: 1.1 male(s)/female
+- `0-14歲`: 1.11 male(s)/female
+- `15-64歲`: 1.07 male(s)/female
+- `65歲及以上`: 0.85 male(s)/female
+- `總人口數`: 1.06 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 21.2 years (2019/21)
@@ -160,14 +160,14 @@ with the notable exception of the deserts in the northwest, including the Thar D
 103 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 30.4 deaths/1,000 live births (2024 est.)
-- `male`: 30 deaths/1,000 live births
-- `female`: 30.8 deaths/1,000 live births
+- `總計`: 30.4 deaths/1,000 live births (2024 est.)
+- `男性`: 30 deaths/1,000 live births
+- `女性`: 30.8 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 68.2 years (2024 est.)
-- `male`: 66.5 years
-- `female`: 70.1 years
+- `總人口數`: 68.2 years (2024 est.)
+- `男性`: 66.5 years
+- `女性`: 70.1 years
 
 ### 總生育率
 2.03 children born/woman (2024 est.)
@@ -179,12 +179,12 @@ with the notable exception of the deserts in the northwest, including the Thar D
 66.7% (2019/20)
 
 ### 飲用水來源
-- `improved: urban`: urban: 96.9% of population
-- `improved: rural`: rural: 94.7% of population
-- `improved: total`: total: 95.5% of population
-- `unimproved: urban`: urban: 3.1% of population
-- `unimproved: rural`: rural: 5.3% of population
-- `unimproved: total`: total: 4.5% of population (2020 est.)
+- `已改進－城市`: urban: 96.9% of population
+- `已改進－農村`: rural: 94.7% of population
+- `已改進－總計`: total: 95.5% of population
+- `未改進：都市`: urban: 3.1% of population
+- `未改進：鄉村`: rural: 5.3% of population
+- `未改善：總計`: total: 4.5% of population (2020 est.)
 
 ### 當前醫療支出
 3% of GDP (2020)
@@ -196,27 +196,27 @@ with the notable exception of the deserts in the northwest, including the Thar D
 0.5 beds/1,000 population (2017)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 98.6% of population
-- `improved: rural`: rural: 75.2% of population
-- `improved: total`: total: 83.4% of population
-- `unimproved: urban`: urban: 1.4% of population
-- `unimproved: rural`: rural: 24.8% of population
-- `unimproved: total`: total: 16.6% of population (2020 est.)
+- `已改進－城市`: urban: 98.6% of population
+- `已改進－農村`: rural: 75.2% of population
+- `已改進－總計`: total: 83.4% of population
+- `未改進：都市`: urban: 1.4% of population
+- `未改進：鄉村`: rural: 24.8% of population
+- `未改善：總計`: total: 16.6% of population (2020 est.)
 
 ### 肥胖—成人流行率
 3.9% (2016)
 
 ### 人均酒精消費量
-- `total`: 3.09 liters of pure alcohol (2019 est.)
-- `beer`: 0.23 liters of pure alcohol (2019 est.)
-- `wine`: 0 liters of pure alcohol (2019 est.)
-- `spirits`: 2.85 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 3.09 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.23 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0 liters of pure alcohol (2019 est.)
+- `烈酒`: 2.85 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 27.2% (2020 est.)
-- `male`: 41.3% (2020 est.)
-- `female`: 13% (2020 est.)
+- `總計`: 27.2% (2020 est.)
+- `男性`: 41.3% (2020 est.)
+- `女性`: 13% (2020 est.)
 
 ### 5歲以下體重不足兒童
 31.5% (2019/21)
@@ -225,23 +225,23 @@ with the notable exception of the deserts in the northwest, including the Thar D
 72.6% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 4.8%
-- `women married by age 18`: 23.3%
-- `men married by age 18`: 2.6% (2021 est.)
+- `15歲前結婚的女性`: 4.8%
+- `18歲前結婚的女性`: 23.3%
+- `18歲前結婚的男性`: 2.6% (2021 est.)
 
 ### 教育支出
 4.5% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 74.4%
-- `male`: 82.4%
-- `female`: 65.8% (2018)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 74.4%
+- `男性`: 82.4%
+- `女性`: 65.8% (2018)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 12 years
-- `male`: 12 years
-- `female`: 12 years (2020)
+- `總計`: 12 years
+- `男性`: 12 years
+- `女性`: 12 years (2020)
 
 ## 環境
 
@@ -249,23 +249,23 @@ with the notable exception of the deserts in the northwest, including the Thar D
 deforestation; soil erosion; overgrazing; desertification; air pollution from industrial effluents and vehicle emissions; water pollution from raw sewage and runoff of agricultural pesticides; tap water is not potable throughout the country; huge and growing population is overstraining natural resources; preservation and quality of forests; biodiversity loss
 
 ### 環境—國際協定
-- `party to`: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 varies from tropical monsoon in south to temperate in north
 
 ### 土地利用
-- `agricultural land`: 60.5% (2018 est.)
-- `agricultural land: arable land`: arable land: 52.8% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 4.2% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 3.5% (2018 est.)
-- `forest`: 23.1% (2018 est.)
-- `other`: 16.4% (2018 est.)
+- `農地`: 60.5% (2018 est.)
+- `農地：耕地`: arable land: 52.8% (2018 est.)
+- `農地：永久性作物`: permanent crops: 4.2% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 3.5% (2018 est.)
+- `森林`: 23.1% (2018 est.)
+- `其它`: 16.4% (2018 est.)
 
 ### 都市化
-- `urban population`: 36.4% of total population (2023)
-- `rate of urbanization`: 2.33% annual rate of change (2020-25 est.)
+- `城市人口`: 36.4% of total population (2023)
+- `城鎮化率`: 2.33% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.14% of GDP (2018 est.)
@@ -274,17 +274,17 @@ varies from tropical monsoon in south to temperate in north
 1.15% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 50.17 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 2,407.67 megatons (2016 est.)
-- `methane emissions`: 559.11 megatons (2020 est.)
+- `顆粒物排放量`: 50.17 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 2,407.67 megatons (2016 est.)
+- `甲烷排放量`: 559.11 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 168,403,240 tons (2001 est.)
-- `municipal solid waste recycled annually`: 8,420,162 tons (2013 est.)
-- `percent of municipal solid waste recycled`: 5% (2013 est.)
+- `城市固體廢棄物－每年產生`: 168,403,240 tons (2001 est.)
+- `城市固體廢棄物－每年回收`: 8,420,162 tons (2013 est.)
+- `城市固體廢棄物－回收百分比`: 5% (2013 est.)
 
 ### 主要湖泊（按面積平方公里）
-- `salt water lake(s)`: Chilika Lake - 1,170 sq km
+- `鹽水湖`: Chilika Lake - 1,170 sq km
 
 ### 主要河流（按公里長度）
 Brahmaputra (shared with China [s] and Bangladesh [m]) - 3,969 km; Indus (shared with China [s] and Pakistan [m]) - 3,610 km; Ganges river source (shared with Bangladesh [m]) - 2,704 km; Godavari - 1,465 km; Sutlej (shared with China [s] and Pakistan [m]) - 1,372 km; Yamuna - 1,370 km; Narmada - 1,289 km; Chenab river source (shared with Pakistan [m]) - 1,086 km; Ghaghara river mouth (shared with China [s] and Nepal) - 1,080 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -296,9 +296,9 @@ Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), In
 Indus-Ganges-Brahmaputra Basin
 
 ### 總取水量
-- `municipal`: 56 billion cubic meters (2020 est.)
-- `industrial`: 17 billion cubic meters (2020 est.)
-- `agricultural`: 688 billion cubic meters (2020 est.)
+- `市級`: 56 billion cubic meters (2020 est.)
+- `工業`: 17 billion cubic meters (2020 est.)
+- `農業`: 688 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 1.91 trillion cubic meters (2019 est.)
@@ -306,20 +306,20 @@ Indus-Ganges-Brahmaputra Basin
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of India
-- `conventional short form`: India
-- `local long form`: Republic of India (English)/ Bharatiya Ganarajya (Hindi)
-- `local short form`: India (English)/ Bharat (Hindi)
-- `etymology`: the English name derives from the Indus River; the Indian name "Bharat" may derive from the "Bharatas" tribe mentioned in the Vedas of the second millennium B.C.; the name is also associated with Emperor Bharata, the legendary conqueror of all of India
+- `常用長名`: Republic of India
+- `常用短名`: India
+- `當地語長名`: Republic of India (English)/ Bharatiya Ganarajya (Hindi)
+- `當地語短名`: India (English)/ Bharat (Hindi)
+- `语源学`: the English name derives from the Indus River; the Indian name "Bharat" may derive from the "Bharatas" tribe mentioned in the Vedas of the second millennium B.C.; the name is also associated with Emperor Bharata, the legendary conqueror of all of India
 
 ### 政府類型
 federal parliamentary republic
 
 ### 首都
-- `name`: New Delhi
-- `geographic coordinates`: 28 36 N, 77 12 E
-- `time difference`: UTC+5.5 (10.5 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: the city's name is associated with various myths and legends; the original name for the city may have been Dhilli or Dhillika; alternatively, the name could be a corruption of the Hindustani words "dehleez" or "dehali" - both terms meaning "threshold" or "gateway" - and indicative of the city as a gateway to the Gangetic Plain; after the British decided to move the capital of their Indian Empire from Calcutta to Delhi in 1911, they created a new governmental district south of the latter designated as New Delhi; the new capital was not formally inaugurated until 1931
+- `名稱`: New Delhi
+- `地理坐標`: 28 36 N, 77 12 E
+- `時差`: UTC+5.5 (10.5 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: the city's name is associated with various myths and legends; the original name for the city may have been Dhilli or Dhillika; alternatively, the name could be a corruption of the Hindustani words "dehleez" or "dehali" - both terms meaning "threshold" or "gateway" - and indicative of the city as a gateway to the Gangetic Plain; after the British decided to move the capital of their Indian Empire from Calcutta to Delhi in 1911, they created a new governmental district south of the latter designated as New Delhi; the new capital was not formally inaugurated until 1931
 
 ### 行政區劃
 28 states and 8 union territories*; Andaman and Nicobar Islands*, Andhra Pradesh, Arunachal Pradesh, Assam, Bihar, Chandigarh*, Chhattisgarh, Dadra and Nagar Haveli and Daman and Diu*, Delhi*, Goa, Gujarat, Haryana, Himachal Pradesh, Jammu and Kashmir*, Jharkhand, Karnataka, Kerala, Ladakh*, Lakshadweep*, Madhya Pradesh, Maharashtra, Manipur, Meghalaya, Mizoram, Nagaland, Odisha, Puducherry*, Punjab, Rajasthan, Sikkim, Tamil Nadu, Telangana, Tripura, Uttar Pradesh, Uttarakhand, West Bengal
@@ -335,38 +335,38 @@ Republic Day, 26 January (1950)
 common law system based on the English model; separate personal law codes apply to Muslims, Christians, and Hindus; judicial review of legislative acts
 
 ### 憲法
-- `history`: previous 1935 (preindependence); latest draft completed 4 November 1949, adopted 26 November 1949, effective 26 January 1950
-- `amendments`: proposed by either the Council of States or the House of the People; passage requires majority participation of the total membership in each house and at least two-thirds majority of voting members of each house, followed by assent of the president of India; proposed amendments to the constitutional amendment procedures also must be ratified by at least one half of the India state legislatures before presidential assent; amended many times, last in 2023
+- `歷史`: previous 1935 (preindependence); latest draft completed 4 November 1949, adopted 26 November 1949, effective 26 January 1950
+- `修正`: proposed by either the Council of States or the House of the People; passage requires majority participation of the total membership in each house and at least two-thirds majority of voting members of each house, followed by assent of the president of India; proposed amendments to the constitutional amendment procedures also must be ratified by at least one half of the India state legislatures before presidential assent; amended many times, last in 2023
 
 ### 國際法組織參與
 accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of India
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 5 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of India
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 5 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Droupadi MURMU (since 25 July 2022)
-- `head of government`: Prime Minister Narendra MODI (since 26 May 2014)
-- `cabinet`: Union Council of Ministers recommended by the prime minister, appointed by the president
-- `elections/appointments`: president indirectly elected by an electoral college consisting of elected members of both houses of Parliament for a 5-year term (no term limits); election last held on 18 July 2022 (next to be held in July 2027); vice president indirectly elected by an electoral college consisting of elected members of both houses of Parliament for a 5-year term (no term limits); election last held on 5 August 2022 (next to be held in August 2027); following legislative elections, the prime minister is elected by Lok Sabha members of the majority party
-- `election results`: *2022:* Droupadi MURMU elected president; percent of electoral college vote - Droupadi MURMU (BJP) 64%, Yashwant SINHA (AITC) 35.9%; Jagdeep DHANKHAR elected vice president; percent of electoral college vote - Jagdeep DHANKHAR (BJP) 74.4%, Margaret ALVA (INC) 25.6%  *2017:* Ram Nath KOVIND elected president; percent of electoral college vote - Ram Nath KOVIND (BJP) 65.6%, Meira KUMAR (INC) 34.4%; Venkaiah NAIDU elected vice president; percent of electoral college vote - Venkaiah NAIDU (BJP) 67.9%, Gopal-krishna GANDHI 32.1%
+- `國家元首`: President Droupadi MURMU (since 25 July 2022)
+- `政府首腦`: Prime Minister Narendra MODI (since 26 May 2014)
+- `内閣`: Union Council of Ministers recommended by the prime minister, appointed by the president
+- `選舉/任命`: president indirectly elected by an electoral college consisting of elected members of both houses of Parliament for a 5-year term (no term limits); election last held on 18 July 2022 (next to be held in July 2027); vice president indirectly elected by an electoral college consisting of elected members of both houses of Parliament for a 5-year term (no term limits); election last held on 5 August 2022 (next to be held in August 2027); following legislative elections, the prime minister is elected by Lok Sabha members of the majority party
+- `選舉結果`: *2022:* Droupadi MURMU elected president; percent of electoral college vote - Droupadi MURMU (BJP) 64%, Yashwant SINHA (AITC) 35.9%; Jagdeep DHANKHAR elected vice president; percent of electoral college vote - Jagdeep DHANKHAR (BJP) 74.4%, Margaret ALVA (INC) 25.6%  *2017:* Ram Nath KOVIND elected president; percent of electoral college vote - Ram Nath KOVIND (BJP) 65.6%, Meira KUMAR (INC) 34.4%; Venkaiah NAIDU elected vice president; percent of electoral college vote - Venkaiah NAIDU (BJP) 67.9%, Gopal-krishna GANDHI 32.1%
 
 ### 立法部門
-- `description`: bicameral Parliament or Sansad consists of:Council of States or Rajya Sabha (245 seats; 233 members indirectly elected by state and territorial assemblies by proportional representation vote and 12 members appointed by the president; members serve 6-year terms with one-third of the membership renewed every 2 years at various dates)House of the People or Lok Sabha (545 seats; 543 members directly elected in single-seat constituencies by simple majority vote and 2 appointed by the president; members serve 5-year terms)
-- `elections`: Council of States - held by state and territorial assemblies being held from 12 January to 30 June 2024 for expiry of 68 seats  House of the People - last held in 7 phases from 19 April to 1 June 2024 (next to be held in 2027)
-- `election results`: Council of States (2022) - percent of vote by party - NA; seats by party - BJP 97, INC 34, AITC 13, DMK 10, other 2, independent 2; composition as of March 2024 - men 206, women 32, percentage women 13.8%  House of the People - percent of vote by party - NA; seats by party - BJP 240, INC 99, SP 37, AITC 29, DMK 22, BJD 12, RJD 4, AAP 3, other 93  seats by party - BJP 303, INC 52, DMK 24, AITC 22, YSRCP 22, SS 18, JDU 16, BJD 12, BSP 10, TRS 9, LJP 6, NCP 5, SP 5, other 35, independent 4, vacant 2; composition as of March 2024 - men 446, women 77, percentage women 14.7%; total Parliament percentage women 14.3%
+- `描述`: bicameral Parliament or Sansad consists of:Council of States or Rajya Sabha (245 seats; 233 members indirectly elected by state and territorial assemblies by proportional representation vote and 12 members appointed by the president; members serve 6-year terms with one-third of the membership renewed every 2 years at various dates)House of the People or Lok Sabha (545 seats; 543 members directly elected in single-seat constituencies by simple majority vote and 2 appointed by the president; members serve 5-year terms)
+- `選舉`: Council of States - held by state and territorial assemblies being held from 12 January to 30 June 2024 for expiry of 68 seats  House of the People - last held in 7 phases from 19 April to 1 June 2024 (next to be held in 2027)
+- `選舉結果`: Council of States (2022) - percent of vote by party - NA; seats by party - BJP 97, INC 34, AITC 13, DMK 10, other 2, independent 2; composition as of March 2024 - men 206, women 32, percentage women 13.8%  House of the People - percent of vote by party - NA; seats by party - BJP 240, INC 99, SP 37, AITC 29, DMK 22, BJD 12, RJD 4, AAP 3, other 93  seats by party - BJP 303, INC 52, DMK 24, AITC 22, YSRCP 22, SS 18, JDU 16, BJD 12, BSP 10, TRS 9, LJP 6, NCP 5, SP 5, other 35, independent 4, vacant 2; composition as of March 2024 - men 446, women 77, percentage women 14.7%; total Parliament percentage women 14.3%
 **note**:  in September 2023, both Rajya Sabha and Lok Sabha passed a bill that reserves one third of the House seats for women; implementation could begin for the House election in 2029
 
 ### 司法部門
-- `highest court(s)`: Supreme Court (consists of 28 judges, including the chief justice)
-- `judge selection and term of office`: justices appointed by the president to serve until age 65
-- `subordinate courts`: High Courts; District Courts; Labour Court
+- `最高法院`: Supreme Court (consists of 28 judges, including the chief justice)
+- `法官遴選和任期`: justices appointed by the president to serve until age 65
+- `下級法院`: High Courts; District Courts; Labour Court
 
 ### 政黨
 Aam Aadmi Party or AAPAll India Trinamool Congress or AITCBahujan Samaj Party or BSPBharatiya Janata Party or BJPBiju Janata Dal or BJDCommunist Party of India-Marxist or CPI(M)Dravida Munnetra KhazhagamIndian National Congress or INCNationalist Congress Party or NCPRashtriya Janata Dal or RJDSamajwadi Party or SPShiromani Akali Dal or SADShiv Sena or SSTelegana Rashtra Samithi or TRSTelugu Desam Party or TDPYSR Congress or YSRCP or YCP
@@ -375,21 +375,21 @@ Aam Aadmi Party or AAPAll India Trinamool Congress or AITCBahujan Samaj Party or
 ADB, AfDB (nonregional member), Arctic Council (observer), ARF, ASEAN (dialogue partner), BIMSTEC, BIS, BRICS, C, CD, CERN (observer), CICA, CP, EAS, FAO, FATF, G-15, G-20, G-24, G-5, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS (observer), MIGA, MINURSO, MONUSCO, NAM, OAS (observer), OECD, OPCW, Pacific Alliance (observer), PCA, PIF (partner), Quad, SAARC, SACEP, SCO (observer), UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNISFA, UNITAR, UNMISS, UNOCI, UNOOSA, UNSOM, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Vinay Mohan KWATRA (since 18 September 2024)
-- `chancery`: 2107 Massachusetts Avenue NW, Washington, DC 20008
-- `telephone`: [1] (202) 939-7000
+- `外交代表負責人`: Ambassador Vinay Mohan KWATRA (since 18 September 2024)
+- `衡平法院（在美國）`: 2107 Massachusetts Avenue NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 939-7000
 - `FAX`: [1] (202) 265-4351
-- `email address and website`: hoc.washington@mea.gov.in  https://www.indianembassyusa.gov.in/
-- `consulate(s) general`: Atlanta, Chicago, Houston, New York, San Francisco, Seattle
+- `電子郵件地址和網站`: hoc.washington@mea.gov.in  https://www.indianembassyusa.gov.in/
+- `總領事館`: Atlanta, Chicago, Houston, New York, San Francisco, Seattle
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Eric M. GARCETTI (since 11 May 2023)
-- `embassy`: Shantipath, Chanakyapuri, New Delhi - 110021
-- `mailing address`: 9000 New Delhi Place, Washington DC  20521-9000
-- `telephone`: [91] (11) 2419-8000
+- `外交代表負責人`: Ambassador Eric M. GARCETTI (since 11 May 2023)
+- `大使館`: Shantipath, Chanakyapuri, New Delhi - 110021
+- `郵寄地址`: 9000 New Delhi Place, Washington DC  20521-9000
+- `電話號碼`: [91] (11) 2419-8000
 - `FAX`: [91] (11) 2419-0017
-- `email address and website`: acsnd@state.gov  https://in.usembassy.gov/
-- `consulate(s) general`: Chennai (Madras), Hyderabad, Kolkata (Calcutta), Mumbai (Bombay)
+- `電子郵件地址和網站`: acsnd@state.gov  https://in.usembassy.gov/
+- `總領事館`: Chennai (Madras), Hyderabad, Kolkata (Calcutta), Mumbai (Bombay)
 
 ### 旗幟說明
 three equal horizontal bands of saffron (subdued orange) (top), white, and green, with a blue chakra (24-spoked wheel) centered in the white band; saffron represents courage, sacrifice, and the spirit of renunciation; white signifies purity and truth; green stands for faith and fertility; the blue chakra symbolizes the wheel of life in movement and death in stagnation
@@ -399,8 +399,8 @@ three equal horizontal bands of saffron (subdued orange) (top), white, and green
 the Lion Capital of Ashoka, which depicts four Asiatic lions standing back to back mounted on a circular abacus, is the official emblem; Bengal tiger; lotus flower; national colors: saffron, white, green
 
 ### 國歌
-- `name`: "Jana-Gana-Mana" (Thou Art the Ruler of the Minds of All People)
-- `lyrics/music`: Rabindranath TAGORE
+- `名稱`: "Jana-Gana-Mana" (Thou Art the Ruler of the Minds of All People)
+- `歌詞／音樂`: Rabindranath TAGORE
 **note**:  adopted 1950; Rabindranath TAGORE, a Nobel laureate, also wrote Bangladesh's national anthem
 
 ### 國家級遺產
@@ -447,18 +447,18 @@ $3.55 trillion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 16% (2023 est.)
-- `industry`: 25% (2023 est.)
-- `services`: 49.8% (2023 est.)
+- `農業`: 16% (2023 est.)
+- `產業`: 25% (2023 est.)
+- `服務`: 49.8% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 60.3% (2023 est.)
-- `government consumption`: 10.5% (2023 est.)
-- `investment in fixed capital`: 31.3% (2023 est.)
-- `investment in inventories`: 2.4% (2023 est.)
-- `exports of goods and services`: 21.9% (2023 est.)
-- `imports of goods and services`: -24% (2023 est.)
+- `家庭消費`: 60.3% (2023 est.)
+- `政府消費`: 10.5% (2023 est.)
+- `固定資本投資`: 31.3% (2023 est.)
+- `存貨投資`: 2.4% (2023 est.)
+- `商品和服務出口`: 21.9% (2023 est.)
+- `商品和服務進口`: -24% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -483,9 +483,9 @@ textiles, chemicals, food processing, steel, transportation equipment, cement, m
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 15.8% (2023 est.)
-- `male`: 15.8% (2023 est.)
-- `female`: 15.7% (2023 est.)
+- `總計`: 15.8% (2023 est.)
+- `男性`: 15.8% (2023 est.)
+- `女性`: 15.7% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 基尼指數係數—家庭所得分配
@@ -493,12 +493,12 @@ textiles, chemicals, food processing, steel, transportation equipment, cement, m
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 平均家庭支出
-- `on food`: 32% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 2.1% of household expenditures (2022 est.)
+- `餐食`: 32% of household expenditures (2022 est.)
+- `酒精和煙草`: 2.1% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 3.3% (2021 est.)
-- `highest 10%`: 25.6% (2021 est.)
+- `最低10%`: 3.3% (2021 est.)
+- `最高10%`: 25.6% (2021 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -508,8 +508,8 @@ textiles, chemicals, food processing, steel, transportation equipment, cement, m
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $364.86 billion (2018 est.)
-- `expenditures`: $432.856 billion (2018 est.)
+- `收入`: $364.86 billion (2018 est.)
+- `支出`: $432.856 billion (2018 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -575,24 +575,24 @@ $186.653 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 99.2% (2022 est.)
-- `electrification - urban areas`: 100%
-- `electrification - rural areas`: 99.3%
+- `電氣化－總人口`: 99.2% (2022 est.)
+- `電氣化－城市地區`: 100%
+- `電氣化－農村地區`: 99.3%
 
 ### 電力
-- `installed generating capacity`: 487.407 million kW (2022 est.)
-- `consumption`: 1.463 trillion kWh (2022 est.)
-- `exports`: 9.574 billion kWh (2022 est.)
-- `imports`: 9.127 billion kWh (2022 est.)
-- `transmission/distribution losses`: 296.958 billion kWh (2022 est.)
+- `裝機容量`: 487.407 million kW (2022 est.)
+- `消費`: 1.463 trillion kWh (2022 est.)
+- `出口`: 9.574 billion kWh (2022 est.)
+- `進口`: 9.127 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 296.958 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 76.1% of total installed capacity (2022 est.)
-- `nuclear`: 2.6% of total installed capacity (2022 est.)
-- `solar`: 5.2% of total installed capacity (2022 est.)
-- `wind`: 4.3% of total installed capacity (2022 est.)
-- `hydroelectricity`: 9.9% of total installed capacity (2022 est.)
-- `biomass and waste`: 1.9% of total installed capacity (2022 est.)
+- `石化燃料`: 76.1% of total installed capacity (2022 est.)
+- `核能`: 2.6% of total installed capacity (2022 est.)
+- `太陽能`: 5.2% of total installed capacity (2022 est.)
+- `風能`: 4.3% of total installed capacity (2022 est.)
+- `水力發電`: 9.9% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 1.9% of total installed capacity (2022 est.)
 
 ### 核能
 - `Number of operational nuclear reactors`: 20 (2023)
@@ -601,29 +601,29 @@ $186.653 billion (2022 est.)
 - `Percent of total electricity production`: 3.1% (2023 est.)
 
 ### 煤炭
-- `production`: 985.671 million metric tons (2022 est.)
-- `consumption`: 1.2 billion metric tons (2022 est.)
-- `exports`: 1.775 million metric tons (2022 est.)
-- `imports`: 215.649 million metric tons (2022 est.)
-- `proven reserves`: 111.052 billion metric tons (2022 est.)
+- `生產`: 985.671 million metric tons (2022 est.)
+- `消費`: 1.2 billion metric tons (2022 est.)
+- `出口`: 1.775 million metric tons (2022 est.)
+- `進口`: 215.649 million metric tons (2022 est.)
+- `探明儲量`: 111.052 billion metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 795,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 5.049 million bbl/day (2022 est.)
-- `crude oil estimated reserves`: 4.605 billion barrels (2021 est.)
+- `總石油產量`: 795,000 bbl/day (2023 est.)
+- `成品油消費量`: 5.049 million bbl/day (2022 est.)
+- `原油儲備量估值`: 4.605 billion barrels (2021 est.)
 
 ### 天然氣
-- `production`: 33.17 billion cubic meters (2022 est.)
-- `consumption`: 58.867 billion cubic meters (2022 est.)
-- `exports`: 91.921 million cubic meters (2019 est.)
-- `imports`: 27.446 billion cubic meters (2022 est.)
-- `proven reserves`: 1.381 trillion cubic meters (2021 est.)
+- `生產`: 33.17 billion cubic meters (2022 est.)
+- `消費`: 58.867 billion cubic meters (2022 est.)
+- `出口`: 91.921 million cubic meters (2019 est.)
+- `進口`: 27.446 billion cubic meters (2022 est.)
+- `探明儲量`: 1.381 trillion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 2.805 billion metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 2.067 billion metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 620.731 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 117.577 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 2.805 billion metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 2.067 billion metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 620.731 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 117.577 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 24.793 million Btu/person (2022 est.)
@@ -631,17 +631,17 @@ $186.653 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 27.45 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 2 (2022 est.)
+- `總訂閱數`: 27.45 million (2022 est.)
+- `每100名居民訂閱數`: 2 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 1.143 billion (2022 est.)
-- `subscriptions per 100 inhabitants`: 81 (2022 est.)
+- `總訂閱數`: 1.143 billion (2022 est.)
+- `每100名居民訂閱數`: 81 (2022 est.)
 
 ### 電信系統
-- `general assessment`: India’s telecommunications sector has struggled for growth over the last five years; the sector’s lackluster performance has been in spite of concerted efforts by the government to bolster the underlying infrastructure in a bid to achieve universal coverage; instead, the country’s relatively liberal regulatory environment has encouraged fierce competition and price wars among the operators; State-owned as well as private operators have been forced to seek redress from the government in order to avoid bankruptcy; one particular area of contention has been the billions owed by the operators to the government in the form of Adjusted Gross Revenue (AGR) dues – usage and licensing fees charged by the Department of Telecommunications (DoT) – that have been the subject of long-standing court battles over what should be counted as revenue; the government won that battle in the Supreme Court in 2019, but the financial impairment of that decision has pushed a number of telcos to the brink; add the impact of the Covid-19 crisis in 2020 and 2021 to the mix, and the government had to come to the industry’s rescue by introducing a major reform package in September 2021; along with changes to the definition of AGR with regard to non-telecom revenue, the package includes a four-year moratorium on AGR dues and spectrum instalments; the government has also deferred the spectrum auctions for 5G until later in 2022; mobile spectrum in India is already in short supply in terms of providing the necessary capacity to reach universal coverage, but the cash-strapped MNOs may not yet be in a sufficiently strong financial position for which to make the 5G spectrum auction viable (2022)
-- `domestic`: fixed-line subscriptions 2 per 100 and mobile-cellular at nearly 82 per 100 (2021)
-- `international`: country code - 91; a number of major international submarine cable systems, including SEA-ME-WE-3 & 4, AAE-1, BBG, EIG, FALCON, FEA, GBICS, MENA, IMEWE, SEACOM/ Tata TGN-Eurasia, SAFE, WARF, Bharat Lanka Cable System, IOX, Chennai-Andaman & Nicobar Island Cable, SAEx2, Tata TGN-Tata Indicom and i2icn that provide connectivity to Europe, Africa, Asia, the Middle East, South East Asia, numerous Indian Ocean islands including Australia ; satellite earth stations - 8 Intelsat (Indian Ocean) and 1 Inmarsat; Indian Ocean region (2022)
+- `總體評估`: India’s telecommunications sector has struggled for growth over the last five years; the sector’s lackluster performance has been in spite of concerted efforts by the government to bolster the underlying infrastructure in a bid to achieve universal coverage; instead, the country’s relatively liberal regulatory environment has encouraged fierce competition and price wars among the operators; State-owned as well as private operators have been forced to seek redress from the government in order to avoid bankruptcy; one particular area of contention has been the billions owed by the operators to the government in the form of Adjusted Gross Revenue (AGR) dues – usage and licensing fees charged by the Department of Telecommunications (DoT) – that have been the subject of long-standing court battles over what should be counted as revenue; the government won that battle in the Supreme Court in 2019, but the financial impairment of that decision has pushed a number of telcos to the brink; add the impact of the Covid-19 crisis in 2020 and 2021 to the mix, and the government had to come to the industry’s rescue by introducing a major reform package in September 2021; along with changes to the definition of AGR with regard to non-telecom revenue, the package includes a four-year moratorium on AGR dues and spectrum instalments; the government has also deferred the spectrum auctions for 5G until later in 2022; mobile spectrum in India is already in short supply in terms of providing the necessary capacity to reach universal coverage, but the cash-strapped MNOs may not yet be in a sufficiently strong financial position for which to make the 5G spectrum auction viable (2022)
+- `國內`: fixed-line subscriptions 2 per 100 and mobile-cellular at nearly 82 per 100 (2021)
+- `國際的`: country code - 91; a number of major international submarine cable systems, including SEA-ME-WE-3 & 4, AAE-1, BBG, EIG, FALCON, FEA, GBICS, MENA, IMEWE, SEACOM/ Tata TGN-Eurasia, SAFE, WARF, Bharat Lanka Cable System, IOX, Chennai-Andaman & Nicobar Island Cable, SAEx2, Tata TGN-Tata Indicom and i2icn that provide connectivity to Europe, Africa, Asia, the Middle East, South East Asia, numerous Indian Ocean islands including Australia ; satellite earth stations - 8 Intelsat (Indian Ocean) and 1 Inmarsat; Indian Ocean region (2022)
 
 ### 廣播媒體
 Doordarshan, India's public TV network, has a monopoly on terrestrial broadcasting and operates about 20 national, regional, and local services; a large and increasing number of privately owned TV stations are distributed by cable and satellite service providers; in 2020, 130 million households paid for cable and satellite television across India and as of 2018, cable and satellite TV offered over 850 TV channels; government controls AM radio with All India Radio operating domestic and external networks; news broadcasts via radio are limited to the All India Radio Network; since 2000, privately owned FM stations have been permitted and their numbers have increased rapidly (2020)
@@ -650,20 +650,20 @@ Doordarshan, India's public TV network, has a monopoly on terrestrial broadcasti
 .in
 
 ### 網際網路使用者
-- `total`: 644 million (2021 est.)
-- `percent of population`: 46% (2021 est.)
+- `總計`: 644 million (2021 est.)
+- `佔人口比例`: 46% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 22.95 million (2020 est.)
-- `subscriptions per 100 inhabitants`: 2 (2020 est.)
+- `總計`: 22.95 million (2020 est.)
+- `每100名居民訂閱數`: 2 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 14 (2020)
-- `inventory of registered aircraft operated by air carriers`: 485
-- `annual passenger traffic on registered air carriers`: 164,035,637 (2018)
-- `annual freight traffic on registered air carriers`: 2,703,960,000 (2018) mt-km
+- `註冊航空公司數量`: 14 (2020)
+- `註冊飛機庫存—航空承運商經營`: 485
+- `年度客運量－註冊航空公司`: 164,035,637 (2018)
+- `年度貨運量－註冊航空公司`: 2,703,960,000 (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 VT
@@ -678,30 +678,30 @@ VT
 17,389 km natural gas, 10, 419 km crude oil, 3,544 liquid petroleum gas, 14,729 km refined products (2020) 9 km condensate/gas, 20 km oil/gas/water (2013) (2020)
 
 ### 鐵路
-- `total`: 65,554 km (2014)
-- `narrow gauge`: 1,604 km (2014) 1.000-m gauge
-- `broad gauge`: 63,950 km (2014) (39, 329 km electrified)
+- `總計`: 65,554 km (2014)
+- `窄軌`: 1,604 km (2014) 1.000-m gauge
+- `寬軌`: 63,950 km (2014) (39, 329 km electrified)
 
 ### 道路
-- `total`: 6,371,847 km (2021) note: includes 140,995 km of national highways and expressways, 171.039 km of state highways , and 6,059,813 km of other roads
+- `總計`: 6,371,847 km (2021) note: includes 140,995 km of national highways and expressways, 171.039 km of state highways , and 6,059,813 km of other roads
 **note**:  includes 96,214 km of national highways and expressways, 147,800 km of state highways, and 4,455,010 km of other roads
 
 ### 水道
 14,500 km (2012) (5,200 km on major rivers and 485 km on canals suitable for mechanized vessels)
 
 ### 商船
-- `total`: 1,859 (2023)
-- `by type`: bulk carrier 66, container ship 22, general cargo 607, oil tanker 144, other 1020
+- `總計`: 1,859 (2023)
+- `依類型`: bulk carrier 66, container ship 22, general cargo 607, oil tanker 144, other 1020
 
 ### 港口
-- `total ports`: 56 (2024)
-- `large`: 4
-- `medium`: 4
-- `small`: 13
-- `very small`: 30
-- `size unknown`: 5
-- `ports with oil terminals`: 18
-- `key ports`: Calcutta, Chennai (Madras), Jawaharlal Nehru Port (Nhava Shiva), Kattupalli Port, Kochi (Cochin), Mumbai (Bombay), New Mangalore, Vishakhapatnam
+- `總港口數`: 56 (2024)
+- `大`: 4
+- `中`: 4
+- `小`: 13
+- `非常小`: 30
+- `未知大小`: 5
+- `原油碼頭港口`: 18
+- `主要港口`: Calcutta, Chennai (Madras), Jawaharlal Nehru Port (Nhava Shiva), Kattupalli Port, Kochi (Cochin), Mumbai (Bombay), New Mangalore, Vishakhapatnam
 
 ## 軍事和安全
 
@@ -754,9 +754,9 @@ Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Hizbul Mujahideen; Indian Mujah
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 92,131 (Sri Lanka), 72,315 (Tibet/China), 10,064 (Afghanistan) (mid-year 2022); 78,731 (Burma) (refugees and asylum seekers) (2023)
+- `難民（原籍國）`: 92,131 (Sri Lanka), 72,315 (Tibet/China), 10,064 (Afghanistan) (mid-year 2022); 78,731 (Burma) (refugees and asylum seekers) (2023)
 - `IDPs`: 631,000 (armed conflict and intercommunal violence) (2022)
-- `stateless persons`: 20,330 (2022)
+- `無國籍人士`: 20,330 (2022)
 
 ### 非法藥物
 India is a source, transit, and destination for illicit narcotics and precursor chemicals; drug abuse in India growing, facilitated by illicit narcotics and the availability of over-the-counter medicines; commonly abused substances in India include heroin, cannabis, and cocaine, with growing use of pharmaceutical drugs in recent years including tramadol, opioids, and MDMA (ecstasy) analogues; largest producer of generic drugs in the world which is also used to produce illicit synthetic drugs such as pharmaceutical opioids, methamphetamine, heroin, MDMA, and ketamine

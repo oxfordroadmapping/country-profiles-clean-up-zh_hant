@@ -19,22 +19,22 @@ Caribbean, island in the Caribbean Sea, southeast of Puerto Rico
 Central America and the Caribbean
 
 ### 面積
-- `total `: 102 sq km
-- `land`: 102 sq km
-- `water`: 0 sq km
+- `總計`: 102 sq km
+- `土地`: 102 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 about 0.6 times the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 40 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive fishing zone`: 200 nm
+- `領海`: 12 nm
+- `專屬捕魚區`: 200 nm
 
 ### 氣候
 tropical; little daily or seasonal temperature variation
@@ -43,19 +43,19 @@ tropical; little daily or seasonal temperature variation
 volcanic island, mostly mountainous, with small coastal lowland
 
 ### 海拔
-- `highest point`: Soufriere Hills volcano pre-eruption height was 915 m; current lava dome is subject to periodic build up and collapse; estimated dome height was 1,050 m in 2015
-- `lowest point`: Caribbean Sea 0 m
+- `最高點`: Soufriere Hills volcano pre-eruption height was 915 m; current lava dome is subject to periodic build up and collapse; estimated dome height was 1,050 m in 2015
+- `最低點`: Caribbean Sea 0 m
 
 ### 自然資源
 NEGL
 
 ### 土地利用
-- `agricultural land`: 30% (2018 est.)
-- `agricultural land: arable land`: arable land: 20% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 10% (2018 est.)
-- `forest`: 25% (2018 est.)
-- `other`: 45% (2018 est.)
+- `農地`: 30% (2018 est.)
+- `農地：耕地`: arable land: 20% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 10% (2018 est.)
+- `森林`: 25% (2018 est.)
+- `其它`: 45% (2018 est.)
 
 ### 灌溉土地
 0 sq km (2022)
@@ -72,14 +72,14 @@ the island is entirely volcanic in origin and composed of three major volcanic c
 ## 人民和社會
 
 ### 人口
-- `total`: 5,468
-- `male`: 2,728
-- `female`: 2,740 (2024 est.)
+- `總計`: 5,468
+- `男性`: 2,728
+- `女性`: 2,740 (2024 est.)
 **note**:  an estimated 8,000 refugees left the island following the resumption of volcanic activity in July 1995; some have returned
 
 ### 國籍
-- `noun`: Montserratian(s)
-- `adjective`: Montserratian
+- `名詞`: Montserratian(s)
+- `形容詞`: Montserratian
 
 ### 族裔群體
 African/Black 86.2%, mixed 4.8%, Hispanic/Spanish 3%, Caucasian/White 2.7%, East Indian/Indian 1.6%, other 1.8% (2018 est.)
@@ -91,20 +91,20 @@ English
 Protestant 71.4% (includes Anglican 17.7%, Pentecostal/Full Gospel 16.1%, Seventh Day Adventist 15%, Methodist 13.9%, Church of God 6.7%, other Protestant 2%), Roman Catholic 11.4%, Rastafarian 1.4%, Hindu 1.2%, Jehovah's Witness 1%, Muslim 0.4%, other/not stated 5.1%, none 7.9% (2018 est.)
 
 ### 年齡結構
-- `0-14 years`: 15.8% (male 446/female 420)
-- `15-64 years`: 76.1% (male 2,062/female 2,101)
-- `65 years and over`: 8% (2024 est.) (male 220/female 219)
+- `0-14歲`: 15.8% (male 446/female 420)
+- `15-64歲`: 76.1% (male 2,062/female 2,101)
+- `65歲及以上`: 8% (2024 est.) (male 220/female 219)
 
 ### 撫養比率
-- `total dependency ratio`: 43.9
-- `youth dependency ratio`: 19.2
-- `elderly dependency ratio`: 24.7
-- `potential support ratio`: 4 (2021)
+- `總受扶養人比率`: 43.9
+- `少年撫養比率`: 19.2
+- `老人撫養比率`: 24.7
+- `潛在支持率`: 4 (2021)
 
 ### 年齡中位數
-- `total`: 36.8 years (2024 est.)
-- `male`: 35.4 years
-- `female`: 37.8 years
+- `總計`: 36.8 years (2024 est.)
+- `男性`: 35.4 years
+- `女性`: 37.8 years
 
 ### 人口成長率
 0.59% (2024 est.)
@@ -122,25 +122,25 @@ Protestant 71.4% (includes Anglican 17.7%, Pentecostal/Full Gospel 16.1%, Sevent
 only the northern half of the island is populated, the southern portion is uninhabitable due to volcanic activity
 
 ### 都市化
-- `urban population`: 9.3% of total population (2023)
-- `rate of urbanization`: 0.94% annual rate of change (2020-25 est.)
+- `城市人口`: 9.3% of total population (2023)
+- `城鎮化率`: 0.94% annual rate of change (2020-25 est.)
 
 ### 性別比例
-- `at birth`: 1.03 male(s)/female
-- `0-14 years`: 1.06 male(s)/female
-- `15-64 years`: 0.98 male(s)/female
-- `65 years and over`: 1 male(s)/female
-- `total population`: 1 male(s)/female (2024 est.)
+- `出生時`: 1.03 male(s)/female
+- `0-14歲`: 1.06 male(s)/female
+- `15-64歲`: 0.98 male(s)/female
+- `65歲及以上`: 1 male(s)/female
+- `總人口數`: 1 male(s)/female (2024 est.)
 
 ### 嬰兒死亡率
-- `total`: 9.7 deaths/1,000 live births (2024 est.)
-- `male`: 8 deaths/1,000 live births
-- `female`: 11.6 deaths/1,000 live births
+- `總計`: 9.7 deaths/1,000 live births (2024 est.)
+- `男性`: 8 deaths/1,000 live births
+- `女性`: 11.6 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 76.1 years (2024 est.)
-- `male`: 76.9 years
-- `female`: 75.3 years
+- `總人口數`: 76.1 years (2024 est.)
+- `男性`: 76.9 years
+- `女性`: 75.3 years
 
 ### 總生育率
 1.33 children born/woman (2024 est.)
@@ -152,12 +152,12 @@ only the northern half of the island is populated, the southern portion is uninh
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: NA
-- `improved: rural`: rural: NA
-- `improved: total`: total: 98.1% of population
-- `unimproved: urban`: urban: NA
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: 1.9% of population (2020 est.)
+- `已改進－城市`: urban: NA
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: 98.1% of population
+- `未改進：都市`: urban: NA
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: 1.9% of population (2020 est.)
 
 ### 當前醫療支出
 NA
@@ -166,12 +166,12 @@ NA
 NA
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: NA
-- `improved: rural`: rural: NA
-- `improved: total`: total: NA
-- `unimproved: urban`: urban: NA
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: NA
+- `已改進－城市`: urban: NA
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: NA
+- `未改進：都市`: urban: NA
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: NA
 
 ### 5歲以下體重不足兒童
 NA
@@ -183,14 +183,14 @@ NA
 5.4% of GDP (2020 est.)
 
 ### 識字程度
-- `total population`: NA
-- `male`: NA
-- `female`: NA
+- `總人口數`: NA
+- `男性`: NA
+- `女性`: NA
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 14 years
-- `male`: 13 years
-- `female`: 15 years (2019)
+- `總計`: 14 years
+- `男性`: 13 years
+- `女性`: 15 years (2019)
 
 ## 環境
 
@@ -201,23 +201,23 @@ land erosion occurs on slopes that have been cleared for cultivation
 tropical; little daily or seasonal temperature variation
 
 ### 土地利用
-- `agricultural land`: 30% (2018 est.)
-- `agricultural land: arable land`: arable land: 20% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 10% (2018 est.)
-- `forest`: 25% (2018 est.)
-- `other`: 45% (2018 est.)
+- `農地`: 30% (2018 est.)
+- `農地：耕地`: arable land: 20% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 10% (2018 est.)
+- `森林`: 25% (2018 est.)
+- `其它`: 45% (2018 est.)
 
 ### 都市化
-- `urban population`: 9.3% of total population (2023)
-- `rate of urbanization`: 0.94% annual rate of change (2020-25 est.)
+- `城市人口`: 9.3% of total population (2023)
+- `城鎮化率`: 0.94% annual rate of change (2020-25 est.)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Montserrat
-- `etymology`: island named by explorer Christopher COLUMBUS in 1493 after the Benedictine abbey Santa Maria de Montserrat, near Barcelona, Spain
+- `常用長名`: none
+- `常用短名`: Montserrat
+- `语源学`: island named by explorer Christopher COLUMBUS in 1493 after the Benedictine abbey Santa Maria de Montserrat, near Barcelona, Spain
 
 ### 政府類型
 parliamentary democracy; self-governing overseas territory of the UK
@@ -226,10 +226,10 @@ parliamentary democracy; self-governing overseas territory of the UK
 overseas territory of the UK
 
 ### 首都
-- `name`: Plymouth; note - Plymouth was abandoned in 1997 because of volcanic activity; interim government buildings have been built at Brades Estate, the de facto capital, in the Carr's Bay/Little Bay vicinity at the northwest end of Montserrat
-- `geographic coordinates`: 16 42 N, 62 13 W
-- `time difference`: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
-- `etymology`: now entirely deserted because of volcanic activity, the city was originally named after Plymouth, England; *de jure*, Plymouth remains the capital city of Montserrat; it is therefore the only ghost town that serves as the capital of a political entity
+- `名稱`: Plymouth; note - Plymouth was abandoned in 1997 because of volcanic activity; interim government buildings have been built at Brades Estate, the de facto capital, in the Carr's Bay/Little Bay vicinity at the northwest end of Montserrat
+- `地理坐標`: 16 42 N, 62 13 W
+- `時差`: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+- `语源学`: now entirely deserted because of volcanic activity, the city was originally named after Plymouth, England; *de jure*, Plymouth remains the capital city of Montserrat; it is therefore the only ghost town that serves as the capital of a political entity
 
 ### 行政區劃
 3 parishes; Saint Anthony, Saint Georges, Saint Peter
@@ -244,8 +244,8 @@ Birthday of Queen ELIZABETH II, usually celebrated the Monday after the second S
 English common law
 
 ### 憲法
-- `history`: previous 1960; latest put into force 20 October 2010 (The Montserrat Constitution Order 2010)
-- `amendments`: amended 2011, 2020
+- `歷史`: previous 1960; latest put into force 20 October 2010 (The Montserrat Constitution Order 2010)
+- `修正`: amended 2011, 2020
 
 ### 公民身份
 see United Kingdom
@@ -254,22 +254,22 @@ see United Kingdom
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: King CHARLES III (since 8 September 2022); represented by Governor Sarah TUCKER (since 6 April 2023)
-- `head of government`: Premier Easton TAYLOR-FARRELL (since 19 November 2019)
-- `cabinet`: Executive Council consists of the governor, the premier, 3 other ministers, the attorney general, and the finance secretary
-- `elections/appointments`: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party usually becomes premier
+- `國家元首`: King CHARLES III (since 8 September 2022); represented by Governor Sarah TUCKER (since 6 April 2023)
+- `政府首腦`: Premier Easton TAYLOR-FARRELL (since 19 November 2019)
+- `内閣`: Executive Council consists of the governor, the premier, 3 other ministers, the attorney general, and the finance secretary
+- `選舉/任命`: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party usually becomes premier
 **note**:  effective with Constitution Order 2010, October 2010, the office of premier replaced the office of chief minister
 
 ### 立法部門
-- `description`: unicameral Legislative Assembly (12 seats; 9 members directly elected in a single constituency by absolute majority vote in 2 rounds to serve 5-year terms)
-- `elections`: last held on 18 November 2019 (next to be held in 2024)
-- `election results`: percent of vote by party - MCAP 42.7%, PDM 29.9%, other 17.1%; seats by party - MCAP 5, PDM 3, independent 1; composition - men 8, women 4, percentage women 33.3%
+- `描述`: unicameral Legislative Assembly (12 seats; 9 members directly elected in a single constituency by absolute majority vote in 2 rounds to serve 5-year terms)
+- `選舉`: last held on 18 November 2019 (next to be held in 2024)
+- `選舉結果`: percent of vote by party - MCAP 42.7%, PDM 29.9%, other 17.1%; seats by party - MCAP 5, PDM 3, independent 1; composition - men 8, women 4, percentage women 33.3%
 **note**:  the Assembly elects the speaker from the outside for a 5-year term; the Assembly includes 2 ex-officio members, the attorney general and the financial secretary
 
 ### 司法部門
-- `highest court(s)`: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 1 assigned to Montserrat; Montserrat is also a member of the Caribbean Court of Justice
-- `judge selection and term of office`: chief justice of Eastern Caribbean Supreme Court appointed by the Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, and independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62
-- `subordinate courts`: magistrate's court
+- `最高法院`: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 1 assigned to Montserrat; Montserrat is also a member of the Caribbean Court of Justice
+- `法官遴選和任期`: chief justice of Eastern Caribbean Supreme Court appointed by the Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, and independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62
+- `下級法院`: magistrate's court
 
 ### 政黨
 Movement for Change and Prosperity or MCAP People's Democratic Movement or PDM
@@ -281,7 +281,7 @@ Caricom, CDB, Interpol (subbureau), OECS, UPU
 none (overseas territory of the UK)
 
 ### 駐該國的美國外交代表
-- `embassy`: none (overseas territory of the UK); alternate contact is the US Embassy in Barbados [1] (246) 227-4000; US Embassy Bridgetown, Wildey Business Park, St. Michael BB 14006, Barbados, WI
+- `大使館`: none (overseas territory of the UK); alternate contact is the US Embassy in Barbados [1] (246) 227-4000; US Embassy Bridgetown, Wildey Business Park, St. Michael BB 14006, Barbados, WI
 
 ### 旗幟說明
 blue with the flag of the UK in the upper hoist-side quadrant and the Montserratian coat of arms centered in the outer half of the flag; the arms feature a woman in green dress, Erin, the female personification of Ireland, standing beside a yellow harp and embracing a large dark cross with her right arm; Erin and the harp are symbols of Ireland reflecting the territory's Irish ancestry; blue represents awareness, trustworthiness, determination, and righteousness
@@ -303,17 +303,17 @@ formerly high-income economy; volcanic activity destroyed much of original infra
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 1.9% (2017 est.)
-- `industry`: 7.8% (2017 est.)
-- `services`: 90.3% (2017 est.)
+- `農業`: 1.9% (2017 est.)
+- `產業`: 7.8% (2017 est.)
+- `服務`: 90.3% (2017 est.)
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 90.8% (2017 est.)
-- `government consumption`: 50.4% (2017 est.)
-- `investment in fixed capital`: 17.9% (2017 est.)
-- `investment in inventories`: -0.1% (2017 est.)
-- `exports of goods and services`: 29.5% (2017 est.)
-- `imports of goods and services`: -88.6% (2017 est.)
+- `家庭消費`: 90.8% (2017 est.)
+- `政府消費`: 50.4% (2017 est.)
+- `固定資本投資`: 17.9% (2017 est.)
+- `存貨投資`: -0.1% (2017 est.)
+- `商品和服務出口`: 29.5% (2017 est.)
+- `商品和服務進口`: -88.6% (2017 est.)
 
 ### 農產品
 cabbages, carrots, cucumbers, tomatoes, onions, peppers; livestock products
@@ -328,8 +328,8 @@ tourism, rum, textiles, electronic appliances
 5.6% (2017 est.)
 
 ### 預算
-- `revenues`: $55.651 million (2014 est.)
-- `expenditures`: $43.652 million (2014 est.)
+- `收入`: $55.651 million (2014 est.)
+- `支出`: $43.652 million (2014 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 經常賬戶餘額
@@ -377,40 +377,40 @@ $51.47 million (31 December 2015 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2020)
+- `電氣化－總人口`: 100% (2020)
 
 ### 電力
-- `installed generating capacity`: 6,000 kW (2022 est.)
-- `consumption`: 13.968 million kWh (2022 est.)
-- `transmission/distribution losses`: 370,000 kWh (2022 est.)
+- `裝機容量`: 6,000 kW (2022 est.)
+- `消費`: 13.968 million kWh (2022 est.)
+- `傳輸／分配損耗`: 370,000 kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 100% of total installed capacity (2022 est.)
+- `石化燃料`: 100% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `imports`: (2022 est.) less than 1 metric ton
+- `進口`: (2022 est.) less than 1 metric ton
 
 ### 石油
-- `refined petroleum consumption`: 200 bbl/day (2022 est.)
+- `成品油消費量`: 200 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 26,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 26,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 26,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 26,000 metric tonnes of CO2 (2022 est.)
 
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 3,000 (2020 est.)
-- `subscriptions per 100 inhabitants`: 67 (2020 est.)
+- `總訂閱數`: 3,000 (2020 est.)
+- `每100名居民訂閱數`: 67 (2020 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 5,000 (2020 est.)
-- `subscriptions per 100 inhabitants`: 110 (2020 est.)
+- `總訂閱數`: 5,000 (2020 est.)
+- `每100名居民訂閱數`: 110 (2020 est.)
 
 ### 電信系統
-- `general assessment`: telecom market one of growth in Caribbean and fully digitalized; high dependency on tourism and offshore financial services; operators expand FttP (Fiber to Home) services; LTE launches and operators invest in mobile networks; effective competition in all sectors (2020)
-- `domestic`: fixed-line is 67 per 100 and mobile-cellular teledensity is 110 per 100 persons (2020)
-- `international`: country code - 1-664; landing point for the ECFS optic submarine cable with links to 14 other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad (2019)
+- `總體評估`: telecom market one of growth in Caribbean and fully digitalized; high dependency on tourism and offshore financial services; operators expand FttP (Fiber to Home) services; LTE launches and operators invest in mobile networks; effective competition in all sectors (2020)
+- `國內`: fixed-line is 67 per 100 and mobile-cellular teledensity is 110 per 100 persons (2020)
+- `國際的`: country code - 1-664; landing point for the ECFS optic submarine cable with links to 14 other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad (2019)
 
 ### 廣播媒體
 Radio Montserrat, a public radio broadcaster, transmits on 1 station and has a repeater transmission to a second station; repeater transmissions from the GEM Radio Network of Trinidad and Tobago provide another 2 radio stations; cable and satellite TV available (2007)
@@ -419,18 +419,18 @@ Radio Montserrat, a public radio broadcaster, transmits on 1 station and has a r
 .ms
 
 ### 網際網路使用者
-- `total`: 2,473 (2021 est.)
-- `percent of population`: 56.2% (2021 est.)
+- `總計`: 2,473 (2021 est.)
+- `佔人口比例`: 56.2% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 2,700 (2018 est.)
-- `subscriptions per 100 inhabitants`: 55 (2018 est.)
+- `總計`: 2,700 (2018 est.)
+- `每100名居民訂閱數`: 55 (2018 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 1 (2020)
-- `inventory of registered aircraft operated by air carriers`: 3
+- `註冊航空公司數量`: 1 (2020)
+- `註冊飛機庫存—航空承運商經營`: 3
 
 ### 註冊民用航空器國家代碼前綴
 VP-M

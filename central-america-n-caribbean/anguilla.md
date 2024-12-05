@@ -19,23 +19,23 @@ Caribbean, islands between the Caribbean Sea and North Atlantic Ocean, east of P
 Central America and the Caribbean
 
 ### 面積
-- `total `: 91 sq km
-- `land`: 91 sq km
-- `water`: 0 sq km
+- `總計`: 91 sq km
+- `土地`: 91 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 about one-half the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 61 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive economic zone`: 200 nm
-- `exclusive fishing zone`: 200 nm
+- `領海`: 12 nm
+- `專屬經濟區`: 200 nm
+- `專屬捕魚區`: 200 nm
 
 ### 氣候
 tropical; moderated by northeast trade winds
@@ -44,19 +44,19 @@ tropical; moderated by northeast trade winds
 flat and low-lying island of coral and limestone
 
 ### 海拔
-- `highest point`: Crocus Hill 73 m
-- `lowest point`: Caribbean Sea 0 m
+- `最高點`: Crocus Hill 73 m
+- `最低點`: Caribbean Sea 0 m
 
 ### 自然資源
 salt, fish, lobster
 
 ### 土地利用
-- `agricultural land`: 0% (2018 est.)
-- `agricultural land: arable land`: arable land: 0% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
-- `forest`: 61.1% (2018 est.)
-- `other`: 38.9% (2018 est.)
+- `農地`: 0% (2018 est.)
+- `農地：耕地`: arable land: 0% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0% (2018 est.)
+- `森林`: 61.1% (2018 est.)
+- `其它`: 38.9% (2018 est.)
 
 ### 灌溉土地
 0 sq km (2020)
@@ -73,13 +73,13 @@ the most northerly of the Leeward Islands in the Lesser Antilles
 ## 人民和社會
 
 ### 人口
-- `total`: 19,416
-- `male`: 9,107
-- `female`: 10,309 (2024 est.)
+- `總計`: 19,416
+- `男性`: 9,107
+- `女性`: 10,309 (2024 est.)
 
 ### 國籍
-- `noun`: Anguillan(s)
-- `adjective`: Anguillan
+- `名詞`: Anguillan(s)
+- `形容詞`: Anguillan
 
 ### 族裔群體
 African/Black 85.3%, Hispanic 4.9%, mixed 3.8%, White 3.2%, East Indian/Indian 1%, other 1.6%, unspecified 0.3% (2011 est.)
@@ -92,20 +92,20 @@ English (official)
 Protestant 73.2% (includes Anglican 22.7%, Methodist 19.4%, Pentecostal 10.5%, Seventh Day Adventist 8.3%, Baptist 7.1%, Church of God 4.9%, Presbyterian 0.2%, Brethren 0.1%), Roman Catholic 6.8%, Jehovah's Witness 1.1%, other Christian 10.9%, other 3.2%, unspecified 0.3%, none 4.5% (2011 est.)
 
 ### 年齡結構
-- `0-14 years`: 20.8% (male 2,056/female 1,992)
-- `15-64 years`: 67.5% (male 5,958/female 7,147)
-- `65 years and over`: 11.7% (2024 est.) (male 1,093/female 1,170)
+- `0-14歲`: 20.8% (male 2,056/female 1,992)
+- `15-64歲`: 67.5% (male 5,958/female 7,147)
+- `65歲及以上`: 11.7% (2024 est.) (male 1,093/female 1,170)
 
 ### 撫養比率
-- `total dependency ratio`: 38.6
-- `youth dependency ratio`: 24.4
-- `elderly dependency ratio`: 14.1
-- `potential support ratio`: 7.1 (2021)
+- `總受扶養人比率`: 38.6
+- `少年撫養比率`: 24.4
+- `老人撫養比率`: 14.1
+- `潛在支持率`: 7.1 (2021)
 
 ### 年齡中位數
-- `total`: 37.1 years (2024 est.)
-- `male`: 34.8 years
-- `female`: 39 years
+- `總計`: 37.1 years (2024 est.)
+- `男性`: 34.8 years
+- `女性`: 39 years
 
 ### 人口成長率
 1.74% (2024 est.)
@@ -123,28 +123,28 @@ Protestant 73.2% (includes Anglican 22.7%, Methodist 19.4%, Pentecostal 10.5%, S
 most of the population is concentrated in The Valley in the center of the island; settlmement is fairly uniform in the southwest, but rather sparce in the northeast
 
 ### 都市化
-- `urban population`: 100% of total population (2023)
-- `rate of urbanization`: 0.47% annual rate of change (2020-25 est.)
+- `城市人口`: 100% of total population (2023)
+- `城鎮化率`: 0.47% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 1,000 THE VALLEY (capital) (2018)
 
 ### 性別比例
-- `at birth`: 1.03 male(s)/female
-- `0-14 years`: 1.03 male(s)/female
-- `15-64 years`: 0.83 male(s)/female
-- `65 years and over`: 0.93 male(s)/female
-- `total population`: 0.88 male(s)/female (2024 est.)
+- `出生時`: 1.03 male(s)/female
+- `0-14歲`: 1.03 male(s)/female
+- `15-64歲`: 0.83 male(s)/female
+- `65歲及以上`: 0.93 male(s)/female
+- `總人口數`: 0.88 male(s)/female (2024 est.)
 
 ### 嬰兒死亡率
-- `total`: 3 deaths/1,000 live births (2024 est.)
-- `male`: 3.9 deaths/1,000 live births
-- `female`: 2.1 deaths/1,000 live births
+- `總計`: 3 deaths/1,000 live births (2024 est.)
+- `男性`: 3.9 deaths/1,000 live births
+- `女性`: 2.1 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 82.6 years (2024 est.)
-- `male`: 80 years
-- `female`: 85.3 years
+- `總人口數`: 82.6 years (2024 est.)
+- `男性`: 80 years
+- `女性`: 85.3 years
 
 ### 總生育率
 1.72 children born/woman (2024 est.)
@@ -156,10 +156,10 @@ most of the population is concentrated in The Valley in the center of the island
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: 97.5% of population
-- `improved: total`: total: 97.5% of population
-- `unimproved: urban`: urban: 2.5% of population
-- `unimproved: total`: total: 2.5% of population (2017 est.)
+- `已改進－城市`: urban: 97.5% of population
+- `已改進－總計`: total: 97.5% of population
+- `未改進：都市`: urban: 2.5% of population
+- `未改善：總計`: total: 2.5% of population (2017 est.)
 
 ### 當前醫療支出
 NA
@@ -168,10 +168,10 @@ NA
 NA
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 99.1% of population
-- `improved: total`: total: 99.1% of population
-- `unimproved: urban`: urban: 0.9% of population
-- `unimproved: total`: total: 0.9% of population (2017 est.)
+- `已改進－城市`: urban: 99.1% of population
+- `已改進－總計`: total: 99.1% of population
+- `未改進：都市`: urban: 0.9% of population
+- `未改善：總計`: total: 0.9% of population (2017 est.)
 
 ### 5歲以下體重不足兒童
 NA
@@ -183,9 +183,9 @@ NA
 4% of GDP (2020 est.)
 
 ### 識字程度
-- `total population`: NA
-- `male`: NA
-- `female`: NA
+- `總人口數`: NA
+- `男性`: NA
+- `女性`: NA
 
 ## 環境
 
@@ -196,23 +196,23 @@ supplies of potable water sometimes cannot meet increasing demand largely becaus
 tropical; moderated by northeast trade winds
 
 ### 土地利用
-- `agricultural land`: 0% (2018 est.)
-- `agricultural land: arable land`: arable land: 0% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
-- `forest`: 61.1% (2018 est.)
-- `other`: 38.9% (2018 est.)
+- `農地`: 0% (2018 est.)
+- `農地：耕地`: arable land: 0% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0% (2018 est.)
+- `森林`: 61.1% (2018 est.)
+- `其它`: 38.9% (2018 est.)
 
 ### 都市化
-- `urban population`: 100% of total population (2023)
-- `rate of urbanization`: 0.47% annual rate of change (2020-25 est.)
+- `城市人口`: 100% of total population (2023)
+- `城鎮化率`: 0.47% annual rate of change (2020-25 est.)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Anguilla
-- `etymology`: the name Anguilla means "eel" in various Romance languages (Spanish, Italian, Portuguese, French) and likely derives from the island's lengthy shape
+- `常用長名`: none
+- `常用短名`: Anguilla
+- `语源学`: the name Anguilla means "eel" in various Romance languages (Spanish, Italian, Portuguese, French) and likely derives from the island's lengthy shape
 
 ### 政府類型
 parliamentary democracy (House of Assembly); self-governing overseas territory of the UK
@@ -221,10 +221,10 @@ parliamentary democracy (House of Assembly); self-governing overseas territory o
 overseas territory of the UK
 
 ### 首都
-- `name`: The Valley
-- `geographic coordinates`: 18 13 N, 63 03 W
-- `time difference`: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
-- `etymology`: name derives from the capital's location between several hills
+- `名稱`: The Valley
+- `地理坐標`: 18 13 N, 63 03 W
+- `時差`: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+- `语源学`: name derives from the capital's location between several hills
 
 ### 行政區劃
 none (overseas territory of the UK)
@@ -239,8 +239,8 @@ Anguilla Day, 30 May (1967)
 common law based on the English model
 
 ### 憲法
-- `history`: several previous; latest 1 April 1982
-- `amendments`: amended 1990, 2012, 2017, 2019
+- `歷史`: several previous; latest 1 April 1982
+- `修正`: amended 1990, 2012, 2017, 2019
 
 ### 公民身份
 see United Kingdom
@@ -249,20 +249,20 @@ see United Kingdom
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: King CHARLES III (since 8 September 2022); represented by Governor Julia CROUCH (since 11 September 2023)
-- `head of government`: Premier Dr. Ellis WEBSTER (since 30 June 2020) 
-- `cabinet`: Executive Council appointed by the governor from among elected members of the House of Assembly
-- `elections/appointments`: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor
+- `國家元首`: King CHARLES III (since 8 September 2022); represented by Governor Julia CROUCH (since 11 September 2023)
+- `政府首腦`: Premier Dr. Ellis WEBSTER (since 30 June 2020) 
+- `内閣`: Executive Council appointed by the governor from among elected members of the House of Assembly
+- `選舉/任命`: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor
 
 ### 立法部門
-- `description`: unicameral House of Assembly (11 seats; 7 members directly elected in single-seat constituencies by simple majority vote, 2 appointed by the governor, and 2 ex-officio members - the attorney general and deputy governor; members serve five-year terms)
-- `elections`: last held on 29 June 2020 (next to be held in 2025)
-- `election results`: percent of vote by party - NA; seats by party - APM 7, AUF 4; composition - men 8, women 3, percentage women 27.3%
+- `描述`: unicameral House of Assembly (11 seats; 7 members directly elected in single-seat constituencies by simple majority vote, 2 appointed by the governor, and 2 ex-officio members - the attorney general and deputy governor; members serve five-year terms)
+- `選舉`: last held on 29 June 2020 (next to be held in 2025)
+- `選舉結果`: percent of vote by party - NA; seats by party - APM 7, AUF 4; composition - men 8, women 3, percentage women 27.3%
 
 ### 司法部門
-- `highest court(s)`: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, though none on Anguilla
-- `judge selection and term of office`: Eastern Caribbean Supreme Court chief justice appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62
-- `subordinate courts`: Magistrate's Court; Juvenile Court
+- `最高法院`: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, though none on Anguilla
+- `法官遴選和任期`: Eastern Caribbean Supreme Court chief justice appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62
+- `下級法院`: Magistrate's Court; Juvenile Court
 
 ### 政黨
 Anguilla Progressive Movement or APM; (formerly Anguilla United Movement or AUM)Anguilla United Front or AUF
@@ -274,7 +274,7 @@ Caricom (associate), CDB, Interpol (subbureau), OECS, UNESCO (associate), UPU
 none (overseas territory of the UK)
 
 ### 駐該國的美國外交代表
-- `embassy`: none (overseas territory of the UK); alternate contact is the US Embassy in Barbados [1] (246) 227-4000
+- `大使館`: none (overseas territory of the UK); alternate contact is the US Embassy in Barbados [1] (246) 227-4000
 
 ### 旗幟說明
 blue, with the flag of the UK in the upper hoist-side quadrant and the Anguillan coat of arms centered in the outer half of the flag; the coat of arms depicts three orange dolphins in an interlocking circular design on a white background with a turquoise-blue field below; the white in the background represents peace; the blue base symbolizes the surrounding sea, as well as faith, youth, and hope; the three dolphins stand for endurance, unity, and strength
@@ -283,8 +283,8 @@ blue, with the flag of the UK in the upper hoist-side quadrant and the Anguillan
 dolphin
 
 ### 國歌
-- `name`: "God Bless Anguilla"
-- `lyrics/music`: Alex RICHARDSON
+- `名稱`: "God Bless Anguilla"
+- `歌詞／音樂`: Alex RICHARDSON
 **note**:  local anthem adopted 1981; as an overseas territory of the United Kingdom, "God Save the King" is official (see United Kingdom)
 
 ## 經濟
@@ -297,16 +297,16 @@ small, tourism-dependent, territorial-island economy; very high public debt; COV
 -0.6% (2016 est.)
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 3% (2017 est.)
-- `industry`: 10.5% (2017 est.)
-- `services`: 86.4% (2017 est.)
+- `農業`: 3% (2017 est.)
+- `產業`: 10.5% (2017 est.)
+- `服務`: 86.4% (2017 est.)
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 74.1% (2017 est.)
-- `government consumption`: 18.3% (2017 est.)
-- `investment in fixed capital`: 26.8% (2017 est.)
-- `exports of goods and services`: 48.2% (2017 est.)
-- `imports of goods and services`: -67.4% (2017 est.)
+- `家庭消費`: 74.1% (2017 est.)
+- `政府消費`: 18.3% (2017 est.)
+- `固定資本投資`: 26.8% (2017 est.)
+- `商品和服務出口`: 48.2% (2017 est.)
+- `商品和服務進口`: -67.4% (2017 est.)
 
 ### 農產品
 small quantities of tobacco, vegetables; cattle raising
@@ -318,8 +318,8 @@ tourism, boat building, offshore financial services
 4% (2017 est.)
 
 ### 預算
-- `revenues`: $81.925 million (2017 est.)
-- `expenditures`: $72.352 million (2017 est.)
+- `收入`: $81.925 million (2017 est.)
+- `支出`: $72.352 million (2017 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -372,22 +372,22 @@ $48.14 million (31 December 2015 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2020)
+- `電氣化－總人口`: 100% (2020)
 
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 6,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 38 (2021 est.)
+- `總訂閱數`: 6,000 (2021 est.)
+- `每100名居民訂閱數`: 38 (2021 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 26,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 170 (2021 est.)
+- `總訂閱數`: 26,000 (2021 est.)
+- `每100名居民訂閱數`: 170 (2021 est.)
 
 ### 電信系統
-- `general assessment`: in the telecom sector, with declines seen in subscriber numbers (particularly for prepaid mobile services — the mainstay of short-term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis to a small extent as employees and students have resorted to working from home, but their contribution to the sector has been insufficient to offset steep falls in other areas of the market; one area of the telecom market that does not yet appear poised for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have little appetite for investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage; until the economies and markets stabilize, and overseas visitors return there is unlikely to be much momentum towards implementing 5G capabilities anywhere in the region (2021)
-- `domestic`: fixed-line teledensity is about 38 per 100 persons; mobile-cellular teledensity is roughly 170 per 100 persons (2021)
-- `international`: country code - 1-264; landing points for the SSCS, ECFS, GCN and Southern Caribbean Fiber with submarine cable links to Caribbean islands and to the US; microwave radio relay to island of Saint Martin/Sint Maarten (2019)
+- `總體評估`: in the telecom sector, with declines seen in subscriber numbers (particularly for prepaid mobile services — the mainstay of short-term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis to a small extent as employees and students have resorted to working from home, but their contribution to the sector has been insufficient to offset steep falls in other areas of the market; one area of the telecom market that does not yet appear poised for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have little appetite for investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage; until the economies and markets stabilize, and overseas visitors return there is unlikely to be much momentum towards implementing 5G capabilities anywhere in the region (2021)
+- `國內`: fixed-line teledensity is about 38 per 100 persons; mobile-cellular teledensity is roughly 170 per 100 persons (2021)
+- `國際的`: country code - 1-264; landing points for the SSCS, ECFS, GCN and Southern Caribbean Fiber with submarine cable links to Caribbean islands and to the US; microwave radio relay to island of Saint Martin/Sint Maarten (2019)
 
 ### 廣播媒體
 1 private TV station; multi-channel cable TV subscription services are available; about 10 radio stations, one of which is government-owned
@@ -396,18 +396,18 @@ $48.14 million (31 December 2015 est.)
 .ai
 
 ### 網際網路使用者
-- `total`: 13,056 (2021 est.)
-- `percent of population`: 81.6% (2021 est.)
+- `總計`: 13,056 (2021 est.)
+- `佔人口比例`: 81.6% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 5,000 (2018 est.)
-- `subscriptions per 100 inhabitants`: 35 (2018 est.)
+- `總計`: 5,000 (2018 est.)
+- `每100名居民訂閱數`: 35 (2018 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 2 (2020)
-- `inventory of registered aircraft operated by air carriers`: 4
+- `註冊航空公司數量`: 2 (2020)
+- `註冊飛機庫存—航空承運商經營`: 4
 
 ### 註冊民用航空器國家代碼前綴
 VP-A
@@ -416,13 +416,13 @@ VP-A
 1 (2024)
 
 ### 道路
-- `total`: 175 km
-- `paved`: 82 km
-- `unpaved`: 93 km (2004)
+- `總計`: 175 km
+- `已鋪砌`: 82 km
+- `未鋪砌`: 93 km (2004)
 
 ### 商船
-- `total`: 2 (2023)
-- `by type`: other 2
+- `總計`: 2 (2023)
+- `依類型`: other 2
 
 ## 軍事和安全
 

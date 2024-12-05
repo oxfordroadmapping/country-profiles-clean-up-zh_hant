@@ -19,22 +19,22 @@ Middle America, atoll in the North Pacific Ocean, 1,120 km southwest of Mexico
 Political Map of the World
 
 ### 面積
-- `total `: 6 sq km
-- `land`: 6 sq km
-- `water`: 0 sq km
+- `總計`: 6 sq km
+- `土地`: 6 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 about 12 times the size of The Mall in Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 11.1 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive economic zone`: 200 nm
+- `領海`: 12 nm
+- `專屬經濟區`: 200 nm
 
 ### 氣候
 tropical; humid, average temperature 20-32 degrees Celsius, wet season (May to October)
@@ -43,16 +43,16 @@ tropical; humid, average temperature 20-32 degrees Celsius, wet season (May to O
 coral atoll
 
 ### 海拔
-- `highest point`: Rocher Clipperton 29 m
-- `lowest point`: Pacific Ocean 0 m
+- `最高點`: Rocher Clipperton 29 m
+- `最低點`: Pacific Ocean 0 m
 
 ### 自然資源
 fish
 
 ### 土地利用
-- `agricultural land`: 0% (2018 est.)
-- `forest`: 0% (2018 est.)
-- `other`: 100% (2018 est.)
+- `農地`: 0% (2018 est.)
+- `森林`: 0% (2018 est.)
+- `其它`: 100% (2018 est.)
 
 ### 自然災害
 subject to tropical storms and hurricanes from May to October
@@ -63,7 +63,7 @@ the atoll reef is approximately 12 km (7.5 mi) in circumference; an attempt to c
 ## 人民和社會
 
 ### 人口
-- `total`: uninhabited
+- `總計`: uninhabited
 
 ## 環境
 
@@ -74,19 +74,19 @@ no natural resources, guano deposits depleted; the ring-shaped atoll encloses a 
 tropical; humid, average temperature 20-32 degrees Celsius, wet season (May to October)
 
 ### 土地利用
-- `agricultural land`: 0% (2018 est.)
-- `forest`: 0% (2018 est.)
-- `other`: 100% (2018 est.)
+- `農地`: 0% (2018 est.)
+- `森林`: 0% (2018 est.)
+- `其它`: 100% (2018 est.)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Clipperton Island
-- `local long form`: none
-- `local short form`: Ile Clipperton
-- `former`: sometimes referred to as Ile de la Passion or Atoll Clipperton
-- `etymology`: named after an 18th-century English pirate who supposedly used the island as a base
+- `常用長名`: none
+- `常用短名`: Clipperton Island
+- `當地語長名`: none
+- `當地語短名`: Ile Clipperton
+- `前任`: sometimes referred to as Ile de la Passion or Atoll Clipperton
+- `语源学`: named after an 18th-century English pirate who supposedly used the island as a base
 
 ### 附屬狀況
 possession of France; administered directly by the Minister of Overseas France

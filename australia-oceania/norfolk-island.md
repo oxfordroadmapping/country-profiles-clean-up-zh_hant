@@ -19,23 +19,23 @@ Oceania, island in the South Pacific Ocean, east of Australia
 Oceania
 
 ### 面積
-- `total `: 36 sq km
-- `land`: 36 sq km
-- `water`: 0 sq km
+- `總計`: 36 sq km
+- `土地`: 36 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 about 0.2 times the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 32 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive fishing zone`: 200 nm
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬捕魚區`: 200 nm
 
 ### 氣候
 subtropical; mild, little seasonal temperature variation
@@ -44,19 +44,19 @@ subtropical; mild, little seasonal temperature variation
 volcanic island with mostly rolling plains
 
 ### 海拔
-- `highest point`: Mount Bates 319 m
-- `lowest point`: Pacific Ocean 0 m
+- `最高點`: Mount Bates 319 m
+- `最低點`: Pacific Ocean 0 m
 
 ### 自然資源
 fish
 
 ### 土地利用
-- `agricultural land`: 25% (2018 est.)
-- `agricultural land: arable land`: arable land: 0% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 25% (2018 est.)
-- `forest`: 11.5% (2018 est.)
-- `other`: 63.5% (2018 est.)
+- `農地`: 25% (2018 est.)
+- `農地：耕地`: arable land: 0% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 25% (2018 est.)
+- `森林`: 11.5% (2018 est.)
+- `其它`: 63.5% (2018 est.)
 
 ### 灌溉土地
 0 sq km (2022)
@@ -73,11 +73,11 @@ most of the 32 km coastline consists of almost inaccessible cliffs, but the land
 ## 人民和社會
 
 ### 人口
-- `total`: 1,748 (2016 est.)
+- `總計`: 1,748 (2016 est.)
 
 ### 國籍
-- `noun`: Norfolk Islander(s)
-- `adjective`: Norfolk Islander(s)
+- `名詞`: Norfolk Islander(s)
+- `形容詞`: Norfolk Islander(s)
 
 ### 族裔群體
 Australian 22.8%, English 22.4%, Pitcairn Islander 20%, Scottish 6%, Irish 5.2% (2011 est.)
@@ -105,19 +105,19 @@ inadequate solid waste management; most freshwater obtained through rainwater ca
 subtropical; mild, little seasonal temperature variation
 
 ### 土地利用
-- `agricultural land`: 25% (2018 est.)
-- `agricultural land: arable land`: arable land: 0% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 25% (2018 est.)
-- `forest`: 11.5% (2018 est.)
-- `other`: 63.5% (2018 est.)
+- `農地`: 25% (2018 est.)
+- `農地：耕地`: arable land: 0% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 25% (2018 est.)
+- `森林`: 11.5% (2018 est.)
+- `其它`: 63.5% (2018 est.)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Territory of Norfolk Island
-- `conventional short form`: Norfolk Island
-- `etymology`: named by British explorer Captain James COOK after Mary HOWARD, Duchess of Norfolk, in 1774
+- `常用長名`: Territory of Norfolk Island
+- `常用短名`: Norfolk Island
+- `语源学`: named by British explorer Captain James COOK after Mary HOWARD, Duchess of Norfolk, in 1774
 
 ### 政府類型
 non-self-governing overseas territory of Australia; note - the Norfolk Island Regional Council, which began operations 1 July 2016, is responsible for planning and managing a variety of public services, including those funded by the Government of Australia
@@ -126,11 +126,11 @@ non-self-governing overseas territory of Australia; note - the Norfolk Island Re
 self-governing territory of Australia; administered from Canberra by the Department of Infrastructure, Transport, Cities & Regional Development
 
 ### 首都
-- `name`: Kingston
-- `geographic coordinates`: 29 03 S, 167 58 E
-- `time difference`: UTC+11 (16 hours ahead of Washington, DC, during Standard Time)
-- `daylight saving time`: +1hr, begins first Sunday in October; ends first Sunday in April
-- `etymology`: the name is a blending of the words "king's" and "town"; the British king at the time of the town's settlement in the late 18th century was GEORGE III
+- `名稱`: Kingston
+- `地理坐標`: 29 03 S, 167 58 E
+- `時差`: UTC+11 (16 hours ahead of Washington, DC, during Standard Time)
+- `日光節約時間`: +1hr, begins first Sunday in October; ends first Sunday in April
+- `语源学`: the name is a blending of the words "king's" and "town"; the British king at the time of the town's settlement in the late 18th century was GEORGE III
 
 ### 行政區劃
 none (territory of Australia)
@@ -145,8 +145,8 @@ Bounty Day (commemorates the arrival of Pitcairn Islanders), 8 June (1856)
 English common law and the laws of Australia
 
 ### 憲法
-- `history`: previous 1913, 1957; latest effective 7 August 1979
-- `amendments`: amended many times, last in 2020
+- `歷史`: previous 1913, 1957; latest effective 7 August 1979
+- `修正`: amended many times, last in 2020
 
 ### 公民身份
 see Australia
@@ -155,20 +155,20 @@ see Australia
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: King CHARLES III (since 8 September 2022); represented by Governor General of the Commonwealth of Australia General David HURLEY (since 1 July 2019)
-- `head of government`: Administrator Eric HUTCHINSON (since 1 April 2017)
-- `cabinet`: Executive Council consists of 4 Legislative Assembly members
-- `elections/appointments`: the monarchy is hereditary; governor general appointed by the monarch; administrator appointed by the governor general of Australia for a 2-year term and represents the monarch and Australia
+- `國家元首`: King CHARLES III (since 8 September 2022); represented by Governor General of the Commonwealth of Australia General David HURLEY (since 1 July 2019)
+- `政府首腦`: Administrator Eric HUTCHINSON (since 1 April 2017)
+- `内閣`: Executive Council consists of 4 Legislative Assembly members
+- `選舉/任命`: the monarchy is hereditary; governor general appointed by the monarch; administrator appointed by the governor general of Australia for a 2-year term and represents the monarch and Australia
 
 ### 立法部門
-- `description`: unicameral Norfolk Island Regional Council (5 seats; councillors directly elected by simple majority vote to serve 4-year terms); mayor elected annually by the councillors
-- `elections`: last held on 28 May 2016 (next originally scheduled for 13 March 2021 but was postponed)
-- `election results`: seats by party - independent 5; composition - men 4, women 1, percentage women 20%
+- `描述`: unicameral Norfolk Island Regional Council (5 seats; councillors directly elected by simple majority vote to serve 4-year terms); mayor elected annually by the councillors
+- `選舉`: last held on 28 May 2016 (next originally scheduled for 13 March 2021 but was postponed)
+- `選舉結果`: seats by party - independent 5; composition - men 4, women 1, percentage women 20%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court of Norfolk Island (consists of the chief justice and several justices); note - appeals beyond the Supreme Court of Norfolk Island are heard by the Federal Court and the High Court of Australia
-- `judge selection and term of office`: justices appointed by the governor general of Australia from among justices of the Federal Court of Australia; justices serve until mandatory retirement at age 70
-- `subordinate courts`: Petty Court of Sessions; specialized courts, including a Coroner's Court and the Employment Tribunal
+- `最高法院`: Supreme Court of Norfolk Island (consists of the chief justice and several justices); note - appeals beyond the Supreme Court of Norfolk Island are heard by the Federal Court and the High Court of Australia
+- `法官遴選和任期`: justices appointed by the governor general of Australia from among justices of the Federal Court of Australia; justices serve until mandatory retirement at age 70
+- `下級法院`: Petty Court of Sessions; specialized courts, including a Coroner's Court and the Employment Tribunal
 
 ### 政黨
 Norfolk Island Labor Party Norfolk Liberals 
@@ -180,7 +180,7 @@ UPU
 none (territory of Australia)
 
 ### 駐該國的美國外交代表
-- `embassy`: none (territory of Australia)
+- `大使館`: none (territory of Australia)
 
 ### 旗幟說明
 three vertical bands of green (hoist side), white, and green with a large green Norfolk Island pine tree centered in the slightly wider white band; green stands for the rich vegetation on the island, and the pine tree - endemic to the island - is a symbol of Norfolk Island
@@ -190,8 +190,8 @@ three vertical bands of green (hoist side), white, and green with a large green 
 Norfolk Island pine
 
 ### 國歌
-- `name`: "Come Ye Blessed"
-- `lyrics/music`: New Testament/John Prindle SCOTT
+- `名稱`: "Come Ye Blessed"
+- `歌詞／音樂`: New Testament/John Prindle SCOTT
 **note**:  the local anthem, whose lyrics consist of the words from Matthew 25:34-36, 40, is also known as "The Pitcairn Anthem;" the island does not recognize "Advance Australia Fair" (which other Australian territories use); instead "God Save the King" is official (see United Kingdom)
 
 ## 經濟
@@ -230,9 +230,9 @@ clothing and apparel, chemical analysis instruments, refined petroleum, cars, ki
 ## 通訊
 
 ### 電信系統
-- `general assessment`: the current infrastructure consists of fixed line telephone utilizing copper twisted pair cable and optic fiber, two Satellite Earth Station, GSM Mobile switch with five remote base stations and 2 micro cells, central public exchange which switches international as well as national calls, ADSL Broadband internet connection (Asynchronous Digital Subscriber Line), and an ISP (Internet Service Provider); 3G/4G telecommunications network went live on Tuesday 12 January, 2021 (2021)
-- `domestic`: free local calls
-- `international`: country code - 672; submarine cable links with Australia and New Zealand; satellite earth station - 1
+- `總體評估`: the current infrastructure consists of fixed line telephone utilizing copper twisted pair cable and optic fiber, two Satellite Earth Station, GSM Mobile switch with five remote base stations and 2 micro cells, central public exchange which switches international as well as national calls, ADSL Broadband internet connection (Asynchronous Digital Subscriber Line), and an ISP (Internet Service Provider); 3G/4G telecommunications network went live on Tuesday 12 January, 2021 (2021)
+- `國內`: free local calls
+- `國際的`: country code - 672; submarine cable links with Australia and New Zealand; satellite earth station - 1
 
 ### 廣播媒體
 1 local radio station; broadcasts of several Australian radio and TV stations available via satellite (2009)
@@ -241,8 +241,8 @@ clothing and apparel, chemical analysis instruments, refined petroleum, cars, ki
 .nf
 
 ### 網際網路使用者
-- `total`: 806 (2021 est.)
-- `percent of population`: 46.1% (2021 est.)
+- `總計`: 806 (2021 est.)
+- `佔人口比例`: 46.1% (2021 est.)
 
 ## 交通運輸
 
@@ -250,18 +250,18 @@ clothing and apparel, chemical analysis instruments, refined petroleum, cars, ki
 1 (2024)
 
 ### 道路
-- `total`: 80 km
-- `paved`: 53 km
-- `unpaved`: 27 km (2008)
+- `總計`: 80 km
+- `已鋪砌`: 53 km
+- `未鋪砌`: 27 km (2008)
 
 ### 港口
-- `total ports`: 1 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 0
-- `very small`: 1
-- `ports with oil terminals`: 1
-- `key ports`: Kingston
+- `總港口數`: 1 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 0
+- `非常小`: 1
+- `原油碼頭港口`: 1
+- `主要港口`: Kingston
 
 ## 軍事和安全
 

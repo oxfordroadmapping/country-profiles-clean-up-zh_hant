@@ -19,24 +19,24 @@ Southern Africa, bordering the South Atlantic Ocean, between Namibia and Democra
 Africa
 
 ### 面積
-- `total `: 1,246,700 sq km
-- `land`: 1,246,700 sq km
-- `water`: 0 sq km
+- `總計`: 1,246,700 sq km
+- `土地`: 1,246,700 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 about eight times the size of Georgia; slightly less than twice the size of Texas
 
 ### 陸地邊界
-- `total`: 5,369 km
-- `border countries`: Democratic Republic of the Congo 2,646 km (of which 225 km is the boundary of discontiguous Cabinda Province); Republic of the Congo 231 km; Namibia 1,427 km; Zambia 1,065 km
+- `總計`: 5,369 km
+- `邊境國家`: Democratic Republic of the Congo 2,646 km (of which 225 km is the boundary of discontiguous Cabinda Province); Republic of the Congo 231 km; Namibia 1,427 km; Zambia 1,065 km
 
 ### 海岸線
 1,600 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
 
 ### 氣候
 semiarid in south and along coast to Luanda; north has cool, dry season (May to October) and hot, rainy season (November to April)
@@ -45,19 +45,19 @@ semiarid in south and along coast to Luanda; north has cool, dry season (May to 
 narrow coastal plain rises abruptly to vast interior plateau
 
 ### 海拔
-- `highest point`: Moco 2,620 m
-- `lowest point`: Atlantic Ocean 0 m
-- `mean elevation`: 1,112 m
+- `最高點`: Moco 2,620 m
+- `最低點`: Atlantic Ocean 0 m
+- `平均海拔`: 1,112 m
 
 ### 自然資源
 petroleum, diamonds, iron ore, phosphates, copper, feldspar, gold, bauxite, uranium
 
 ### 土地利用
-- `agricultural land`: 45.7% (2018 est.)
-- `agricultural land: arable land`: arable land: 3.9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.3% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 41.5% (2018 est.)
-- `forest`: 54.3% (2018 est.)
+- `農地`: 45.7% (2018 est.)
+- `農地：耕地`: arable land: 3.9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.3% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 41.5% (2018 est.)
+- `森林`: 54.3% (2018 est.)
 
 ### 灌溉土地
 860 sq km (2014)
@@ -83,13 +83,13 @@ the province of Cabinda is an exclave, separated from the rest of the country by
 ## 人民和社會
 
 ### 人口
-- `total`: 37,202,061
-- `male`: 18,196,058
-- `female`: 19,006,003 (2024 est.)
+- `總計`: 37,202,061
+- `男性`: 18,196,058
+- `女性`: 19,006,003 (2024 est.)
 
 ### 國籍
-- `noun`: Angolan(s)
-- `adjective`: Angolan
+- `名詞`: Angolan(s)
+- `形容詞`: Angolan
 
 ### 族裔群體
 Ovimbundu 37%, Kimbundu 25%, Bakongo 13%, Mestico (mixed European and native African) 2%, European 1%, other 22%
@@ -105,20 +105,20 @@ Roman Catholic 41.1%, Protestant 38.1%, other 8.6%, none 12.3% (2014 est.)
 More than two decades after the end of Angola's 27-year civil war, the country still faces a variety of socioeconomic problems, including poverty, high maternal and child mortality, and illiteracy. Despite the country's rapid post-war economic growth based on oil production, about 30 percent of Angolans live below the poverty line and unemployment is widespread, especially among the large young-adult population. Only about 70% of the population is literate, and the rate drops to around 60% for women. The youthful population - about 48% are under the age of 15 as of 2022 - is expected to continue growing rapidly with a fertility rate of more than 5 children per woman and a low rate of contraceptive use. Fewer than half of women deliver their babies with the assistance of trained health care personnel, which contributes to Angola's high maternal mortality rate. Of the estimated 550,000 Angolans who fled their homeland during its civil war, most have returned home since 2002. In 2012, the UN assessed that conditions in Angola had been stable for several years and invoked a cessation of refugee status for Angolans. Following the cessation clause, some of those still in exile returned home voluntarily through UN repatriation programs, and others integrated into host countries.
 
 ### 年齡結構
-- `0-14 years`: 46.9% (male 8,752,419/female 8,701,422)
-- `15-64 years`: 50.7% (male 9,076,080/female 9,795,035)
-- `65 years and over`: 2.4% (2024 est.) (male 367,559/female 509,546)
+- `0-14歲`: 46.9% (male 8,752,419/female 8,701,422)
+- `15-64歲`: 50.7% (male 9,076,080/female 9,795,035)
+- `65歲及以上`: 2.4% (2024 est.) (male 367,559/female 509,546)
 
 ### 撫養比率
-- `total dependency ratio`: 91.5
-- `youth dependency ratio`: 86.5
-- `elderly dependency ratio`: 5
-- `potential support ratio`: 20.1 (2021 est.)
+- `總受扶養人比率`: 91.5
+- `少年撫養比率`: 86.5
+- `老人撫養比率`: 5
+- `潛在支持率`: 20.1 (2021 est.)
 
 ### 年齡中位數
-- `total`: 16.3 years (2024 est.)
-- `male`: 15.8 years
-- `female`: 16.8 years
+- `總計`: 16.3 years (2024 est.)
+- `男性`: 15.8 years
+- `女性`: 16.8 years
 
 ### 人口成長率
 3.33% (2024 est.)
@@ -136,18 +136,18 @@ More than two decades after the end of Angola's 27-year civil war, the country s
 most people live in the western half of the country; urban areas account for the highest concentrations of people, particularly the capital of Luanda as shown in this population distribution map
 
 ### 都市化
-- `urban population`: 68.7% of total population (2023)
-- `rate of urbanization`: 4.04% annual rate of change (2020-25 est.)
+- `城市人口`: 68.7% of total population (2023)
+- `城鎮化率`: 4.04% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 9.292 million LUANDA (capital), 959,000 Lubango, 905,000 Cabinda, 809,000 Benguela, 783,000 Malanje  (2023)
 
 ### 性別比例
-- `at birth`: 1.03 male(s)/female
-- `0-14 years`: 1.01 male(s)/female
-- `15-64 years`: 0.93 male(s)/female
-- `65 years and over`: 0.72 male(s)/female
-- `total population`: 0.96 male(s)/female (2024 est.)
+- `出生時`: 1.03 male(s)/female
+- `0-14歲`: 1.01 male(s)/female
+- `15-64歲`: 0.93 male(s)/female
+- `65歲及以上`: 0.72 male(s)/female
+- `總人口數`: 0.96 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 19.4 years (2015/16 est.)
@@ -157,14 +157,14 @@ most people live in the western half of the country; urban areas account for the
 222 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 55.6 deaths/1,000 live births (2024 est.)
-- `male`: 60.7 deaths/1,000 live births
-- `female`: 50.3 deaths/1,000 live births
+- `總計`: 55.6 deaths/1,000 live births (2024 est.)
+- `男性`: 60.7 deaths/1,000 live births
+- `女性`: 50.3 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 62.9 years (2024 est.)
-- `male`: 60.8 years
-- `female`: 65.1 years
+- `總人口數`: 62.9 years (2024 est.)
+- `男性`: 60.8 years
+- `女性`: 65.1 years
 
 ### 總生育率
 5.7 children born/woman (2024 est.)
@@ -176,12 +176,12 @@ most people live in the western half of the country; urban areas account for the
 13.7% (2015/16)
 
 ### 飲用水來源
-- `improved: urban`: urban: 81.3% of population
-- `improved: rural`: rural: 36.5% of population
-- `improved: total`: total: 66.5% of population
-- `unimproved: urban`: urban: 18.7% of population
-- `unimproved: rural`: rural: 63.5% of population
-- `unimproved: total`: total: 33.5% of population (2020 est.)
+- `已改進－城市`: urban: 81.3% of population
+- `已改進－農村`: rural: 36.5% of population
+- `已改進－總計`: total: 66.5% of population
+- `未改進：都市`: urban: 18.7% of population
+- `未改進：鄉村`: rural: 63.5% of population
+- `未改善：總計`: total: 33.5% of population (2020 est.)
 
 ### 當前醫療支出
 2.9% of GDP (2020)
@@ -190,22 +190,22 @@ most people live in the western half of the country; urban areas account for the
 0.21 physicians/1,000 population (2018)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 93.7% of population
-- `improved: rural`: rural: 30.3% of population
-- `improved: total`: total: 72.7% of population
-- `unimproved: urban`: urban: 6.3% of population
-- `unimproved: rural`: rural: 69.7% of population
-- `unimproved: total`: total: 27.3% of population (2020 est.)
+- `已改進－城市`: urban: 93.7% of population
+- `已改進－農村`: rural: 30.3% of population
+- `已改進－總計`: total: 72.7% of population
+- `未改進：都市`: urban: 6.3% of population
+- `未改進：鄉村`: rural: 69.7% of population
+- `未改善：總計`: total: 27.3% of population (2020 est.)
 
 ### 肥胖—成人流行率
 8.2% (2016)
 
 ### 人均酒精消費量
-- `total`: 5.84 liters of pure alcohol (2019 est.)
-- `beer`: 3.78 liters of pure alcohol (2019 est.)
-- `wine`: 0.72 liters of pure alcohol (2019 est.)
-- `spirits`: 1.27 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.08 liters of pure alcohol (2019 est.)
+- `總計`: 5.84 liters of pure alcohol (2019 est.)
+- `啤酒`: 3.78 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.72 liters of pure alcohol (2019 est.)
+- `烈酒`: 1.27 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.08 liters of pure alcohol (2019 est.)
 
 ### 5歲以下體重不足兒童
 19% (2015/16)
@@ -214,18 +214,18 @@ most people live in the western half of the country; urban areas account for the
 55.7% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 7.9%
-- `women married by age 18`: 30.3%
-- `men married by age 18`: 6% (2016 est.)
+- `15歲前結婚的女性`: 7.9%
+- `18歲前結婚的女性`: 30.3%
+- `18歲前結婚的男性`: 6% (2016 est.)
 
 ### 教育支出
 2.4% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 71.1%
-- `male`: 82.6%
-- `female`: 62.4% (2015)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 71.1%
+- `男性`: 82.6%
+- `女性`: 62.4% (2015)
 
 ## 環境
 
@@ -233,22 +233,22 @@ most people live in the western half of the country; urban areas account for the
 overuse of pastures and subsequent soil erosion attributable to population pressures; desertification; deforestation of tropical rain forest, in response to both international demand for tropical timber and to domestic use as fuel, resulting in loss of biodiversity; soil erosion contributing to water pollution and siltation of rivers and dams; inadequate supplies of potable water
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 semiarid in south and along coast to Luanda; north has cool, dry season (May to October) and hot, rainy season (November to April)
 
 ### 土地利用
-- `agricultural land`: 45.7% (2018 est.)
-- `agricultural land: arable land`: arable land: 3.9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.3% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 41.5% (2018 est.)
-- `forest`: 54.3% (2018 est.)
+- `農地`: 45.7% (2018 est.)
+- `農地：耕地`: arable land: 3.9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.3% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 41.5% (2018 est.)
+- `森林`: 54.3% (2018 est.)
 
 ### 都市化
-- `urban population`: 68.7% of total population (2023)
-- `rate of urbanization`: 4.04% annual rate of change (2020-25 est.)
+- `城市人口`: 68.7% of total population (2023)
+- `城鎮化率`: 4.04% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.36% of GDP (2018 est.)
@@ -257,12 +257,12 @@ semiarid in south and along coast to Luanda; north has cool, dry season (May to 
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 27.16 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 34.69 megatons (2016 est.)
-- `methane emissions`: 23.28 megatons (2020 est.)
+- `顆粒物排放量`: 27.16 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 34.69 megatons (2016 est.)
+- `甲烷排放量`: 23.28 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 4,213,644 tons (2012 est.)
+- `城市固體廢棄物－每年產生`: 4,213,644 tons (2012 est.)
 
 ### 主要河流（按公里長度）
 Rio Zambeze (Zambezi) (shared with Zambia [s], Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km; Rio Cubango (Okavango) river source (shared with Namibia and Botswana [m]) - 1,600 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -274,9 +274,9 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km)Indian Ocean drainage: Zambezi (
 Congo Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin
 
 ### 總取水量
-- `municipal`: 320 million cubic meters (2020 est.)
-- `industrial`: 240 million cubic meters (2020 est.)
-- `agricultural`: 150 million cubic meters (2020 est.)
+- `市級`: 320 million cubic meters (2020 est.)
+- `工業`: 240 million cubic meters (2020 est.)
+- `農業`: 150 million cubic meters (2020 est.)
 
 ### 可再生水資源總量
 148.4 billion cubic meters (2020 est.)
@@ -284,22 +284,22 @@ Congo Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Angola
-- `conventional short form`: Angola
-- `local long form`: Republica de Angola
-- `local short form`: Angola
-- `former`: People's Republic of Angola
-- `etymology`: name derived by the Portuguese from the title "ngola" held by kings of the Ndongo (Ndongo was a kingdom in what is now Angola)
+- `常用長名`: Republic of Angola
+- `常用短名`: Angola
+- `當地語長名`: Republica de Angola
+- `當地語短名`: Angola
+- `前任`: People's Republic of Angola
+- `语源学`: name derived by the Portuguese from the title "ngola" held by kings of the Ndongo (Ndongo was a kingdom in what is now Angola)
 
 ### 政府類型
 presidential republic
 
 ### 首都
-- `name`: Luanda
-- `geographic coordinates`: 8 50 S, 13 13 E
-- `time difference`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
-- `daylight saving time`: does not observe daylight savings time
-- `etymology`: originally named "Sao Paulo da Assuncao de Loanda" (Saint Paul of the Assumption of Loanda), which over time was shortened and corrupted to just Luanda
+- `名稱`: Luanda
+- `地理坐標`: 8 50 S, 13 13 E
+- `時差`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+- `日光節約時間`: does not observe daylight savings time
+- `语源学`: originally named "Sao Paulo da Assuncao de Loanda" (Saint Paul of the Assumption of Loanda), which over time was shortened and corrupted to just Luanda
  
 
 ### 行政區劃
@@ -315,37 +315,37 @@ Independence Day, 11 November (1975)
 civil legal system based on Portuguese civil law; no judicial review of legislation
 
 ### 憲法
-- `history`: previous 1975, 1992; latest passed by National Assembly 21 January 2010, adopted 5 February 2010
-- `amendments`: proposed by the president of the republic or supported by at least one third of the National Assembly membership; passage requires at least two-thirds majority vote of the Assembly subject to prior Constitutional Court review if requested by the president of the republic
+- `歷史`: previous 1975, 1992; latest passed by National Assembly 21 January 2010, adopted 5 February 2010
+- `修正`: proposed by the president of the republic or supported by at least one third of the National Assembly membership; passage requires at least two-thirds majority vote of the Assembly subject to prior Constitutional Court review if requested by the president of the republic
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Angola
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 10 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Angola
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 10 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Joao Manuel Goncalves LOURENCO (since 26 September 2017)
-- `head of government`: President Joao Manuel Goncalves LOURENCO 
-- `cabinet`: Council of Ministers appointed by the president
-- `elections/appointments`: the candidate of the winning party or coalition in the last legislative election becomes the president; president serves a 5-year term (eligible for a second consecutive or discontinuous term); last held on 24 August 2022 (next to be held in 2027)
-- `election results`: Joao Manuel Goncalves LOURENCO (MPLA) elected president by then winning party following the 24 August 2022 general election
+- `國家元首`: President Joao Manuel Goncalves LOURENCO (since 26 September 2017)
+- `政府首腦`: President Joao Manuel Goncalves LOURENCO 
+- `内閣`: Council of Ministers appointed by the president
+- `選舉/任命`: the candidate of the winning party or coalition in the last legislative election becomes the president; president serves a 5-year term (eligible for a second consecutive or discontinuous term); last held on 24 August 2022 (next to be held in 2027)
+- `選舉結果`: Joao Manuel Goncalves LOURENCO (MPLA) elected president by then winning party following the 24 August 2022 general election
 
 ### 立法部門
-- `description`: unicameral National Assembly or Assembleia Nacional (220 seats; members directly elected in a single national constituency and in multi-seat constituencies by closed list proportional representation vote; members serve 5-year terms)
-- `elections`: last held on 24 August 2022 (next to be held in 2027)
-- `election results`: percent of vote by party - MPLA 51.1%, UNITA 43.9%, FNLA 1.1%, PHA 1%, PRS 1.1%, other 1.7%; seats by party - MPLA 124, UNITA 90, FNLA 2, PHA 2, PRS 2; composition- men 135, women 85, percentage women 38.6%
+- `描述`: unicameral National Assembly or Assembleia Nacional (220 seats; members directly elected in a single national constituency and in multi-seat constituencies by closed list proportional representation vote; members serve 5-year terms)
+- `選舉`: last held on 24 August 2022 (next to be held in 2027)
+- `選舉結果`: percent of vote by party - MPLA 51.1%, UNITA 43.9%, FNLA 1.1%, PHA 1%, PRS 1.1%, other 1.7%; seats by party - MPLA 124, UNITA 90, FNLA 2, PHA 2, PRS 2; composition- men 135, women 85, percentage women 38.6%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court or Tribunal Supremo (consists of the court president, vice president, and a minimum of 16 judges); Constitutional Court or Tribunal Constitucional (consists of 11 judges)
-- `judge selection and term of office`: Supreme Court judges appointed by the president upon recommendation of the Supreme Judicial Council, an 18-member body chaired by the president; judge tenure NA; Constitutional Court judges - 4 nominated by the president, 4 elected by National Assembly, 2 elected by Supreme National Council, 1 elected by competitive submission of curricula; judges serve single 7-year terms
-- `subordinate courts`: provincial and municipal courts
+- `最高法院`: Supreme Court or Tribunal Supremo (consists of the court president, vice president, and a minimum of 16 judges); Constitutional Court or Tribunal Constitucional (consists of 11 judges)
+- `法官遴選和任期`: Supreme Court judges appointed by the president upon recommendation of the Supreme Judicial Council, an 18-member body chaired by the president; judge tenure NA; Constitutional Court judges - 4 nominated by the president, 4 elected by National Assembly, 2 elected by Supreme National Council, 1 elected by competitive submission of curricula; judges serve single 7-year terms
+- `下級法院`: provincial and municipal courts
 
 ### 政黨
 Broad Convergence for the Salvation of Angola Electoral Coalition or CASA-CE Humanist Party of Angola or PHI National Front for the Liberation of Angola or FNLA; note - party has two factionsNational Union for the Total Independence of Angola or UNITA (largest opposition party)Popular Movement for the Liberation of Angola or MPLA; note- ruling party in power since 1975Social Renewal Party or PRS 
@@ -354,20 +354,20 @@ Broad Convergence for the Salvation of Angola Electoral Coalition or CASA-CE Hu
 ACP, AfDB, AU, CEMAC, CPLP, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Agostinho de Carvalho dos Santos VAN-DÚNEM (since 30 June 2023)
-- `chancery`: 2108 16th Street NW, Washington, DC 20009
-- `telephone`: [1] (202) 785-1156
+- `外交代表負責人`: Ambassador Agostinho de Carvalho dos Santos VAN-DÚNEM (since 30 June 2023)
+- `衡平法院（在美國）`: 2108 16th Street NW, Washington, DC 20009
+- `電話號碼`: [1] (202) 785-1156
 - `FAX`: [1] (202) 822-9049
-- `email address and website`: info@angola.org  https://angola.org/
-- `consulate(s) general`: Houston, New York
+- `電子郵件地址和網站`: info@angola.org  https://angola.org/
+- `總領事館`: Houston, New York
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador (vacant); Chargé d’Affaires Ambassador James Story (since 23 October 2024)
-- `embassy`: Rua Houari Boumedienne, #32, Luanda
-- `mailing address`: 2550 Luanda Place, Washington, DC 20521-2550
-- `telephone`: [244] (222) 64-1000
+- `外交代表負責人`: Ambassador (vacant); Chargé d’Affaires Ambassador James Story (since 23 October 2024)
+- `大使館`: Rua Houari Boumedienne, #32, Luanda
+- `郵寄地址`: 2550 Luanda Place, Washington, DC 20521-2550
+- `電話號碼`: [244] (222) 64-1000
 - `FAX`: [244] (222) 64-1000
-- `email address and website`: Consularluanda@state.gov  https://ao.usembassy.gov/
+- `電子郵件地址和網站`: Consularluanda@state.gov  https://ao.usembassy.gov/
 
 ### 旗幟說明
 two equal horizontal bands of red (top) and black with a centered yellow emblem consisting of a five-pointed star within half a cogwheel crossed by a machete (in the style of a hammer and sickle); red represents liberty and black the African continent; the symbols characterize workers and peasants
@@ -376,8 +376,8 @@ two equal horizontal bands of red (top) and black with a centered yellow emblem 
 Palanca Negra Gigante (giant black sable antelope); national colors: red, black, yellow
 
 ### 國歌
-- `name`: "Angola Avante" (Forward Angola)
-- `lyrics/music`: Manuel Rui Alves MONTEIRO/Rui Alberto Vieira Dias MINGAO
+- `名稱`: "Angola Avante" (Forward Angola)
+- `歌詞／音樂`: Manuel Rui Alves MONTEIRO/Rui Alberto Vieira Dias MINGAO
 **note**:  adopted 1975
 
 ### 國家級遺產
@@ -424,17 +424,17 @@ $84.723 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 14.9% (2023 est.)
-- `industry`: 45.3% (2023 est.)
-- `services`: 39.7% (2023 est.)
+- `農業`: 14.9% (2023 est.)
+- `產業`: 45.3% (2023 est.)
+- `服務`: 39.7% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 53.8% (2023 est.)
-- `government consumption`: 6.4% (2023 est.)
-- `investment in fixed capital`: 26.6% (2023 est.)
-- `exports of goods and services`: 39.9% (2023 est.)
-- `imports of goods and services`: -26.7% (2023 est.)
+- `家庭消費`: 53.8% (2023 est.)
+- `政府消費`: 6.4% (2023 est.)
+- `固定資本投資`: 26.6% (2023 est.)
+- `商品和服務出口`: 39.9% (2023 est.)
+- `商品和服務進口`: -26.7% (2023 est.)
 **note**:  figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -459,9 +459,9 @@ petroleum; diamonds, iron ore, phosphates, feldspar, bauxite, uranium, and gold;
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 28.2% (2023 est.)
-- `male`: 30.7% (2023 est.)
-- `female`: 25.8% (2023 est.)
+- `總計`: 28.2% (2023 est.)
+- `男性`: 30.7% (2023 est.)
+- `女性`: 25.8% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -473,12 +473,12 @@ petroleum; diamonds, iron ore, phosphates, feldspar, bauxite, uranium, and gold;
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 平均家庭支出
-- `on food`: 49.6% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 1.5% of household expenditures (2022 est.)
+- `餐食`: 49.6% of household expenditures (2022 est.)
+- `酒精和煙草`: 1.5% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 1.3% (2018 est.)
-- `highest 10%`: 39.6% (2018 est.)
+- `最低10%`: 1.3% (2018 est.)
+- `最高10%`: 39.6% (2018 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -488,8 +488,8 @@ petroleum; diamonds, iron ore, phosphates, feldspar, bauxite, uranium, and gold;
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $18.117 billion (2019 est.)
-- `expenditures`: $13.871 billion (2019 est.)
+- `收入`: $18.117 billion (2019 est.)
+- `支出`: $13.871 billion (2019 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -554,40 +554,40 @@ $46.549 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 48.5% (2022 est.)
-- `electrification - urban areas`: 76.2%
-- `electrification - rural areas`: 7.3% (2018 est.)
+- `電氣化－總人口`: 48.5% (2022 est.)
+- `電氣化－城市地區`: 76.2%
+- `電氣化－農村地區`: 7.3% (2018 est.)
 
 ### 電力
-- `installed generating capacity`: 7.588 million kW (2022 est.)
-- `consumption`: 14.986 billion kWh (2022 est.)
-- `transmission/distribution losses`: 1.954 billion kWh (2022 est.)
+- `裝機容量`: 7.588 million kW (2022 est.)
+- `消費`: 14.986 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 1.954 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 25% of total installed capacity (2022 est.)
-- `solar`: 0.1% of total installed capacity (2022 est.)
-- `hydroelectricity`: 74.6% of total installed capacity (2022 est.)
-- `biomass and waste`: 0.3% of total installed capacity (2022 est.)
+- `石化燃料`: 25% of total installed capacity (2022 est.)
+- `太陽能`: 0.1% of total installed capacity (2022 est.)
+- `水力發電`: 74.6% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 0.3% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `imports`: 3,000 metric tons (2022 est.)
+- `進口`: 3,000 metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 1.175 million bbl/day (2023 est.)
-- `refined petroleum consumption`: 127,000 bbl/day (2022 est.)
-- `crude oil estimated reserves`: 7.783 billion barrels (2021 est.)
+- `總石油產量`: 1.175 million bbl/day (2023 est.)
+- `成品油消費量`: 127,000 bbl/day (2022 est.)
+- `原油儲備量估值`: 7.783 billion barrels (2021 est.)
 
 ### 天然氣
-- `production`: 5.514 billion cubic meters (2022 est.)
-- `consumption`: 1.397 billion cubic meters (2022 est.)
-- `exports`: 4.116 billion cubic meters (2022 est.)
-- `proven reserves`: 343.002 billion cubic meters (2021 est.)
+- `生產`: 5.514 billion cubic meters (2022 est.)
+- `消費`: 1.397 billion cubic meters (2022 est.)
+- `出口`: 4.116 billion cubic meters (2022 est.)
+- `探明儲量`: 343.002 billion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 19.818 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 8,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 17.069 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 2.741 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 19.818 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 8,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 17.069 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 2.741 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 9.61 million Btu/person (2022 est.)
@@ -595,17 +595,17 @@ $46.549 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 94,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: (2022 est.) less than 1
+- `總訂閱數`: 94,000 (2022 est.)
+- `每100名居民訂閱數`: (2022 est.) less than 1
 
 ### 電話—移動電話
-- `total subscriptions`: 23.978 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 67 (2022 est.)
+- `總訂閱數`: 23.978 million (2022 est.)
+- `每100名居民訂閱數`: 67 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Angola’s telecom sector in recent years has benefited from political stability, which has encouraged foreign investment in the sector; the government and regulator have also set in train mechanisms to open up the telecom sector to new competitors, mobile services were launched in April 2022; the MNOs were slow to develop LTE services, instead relying on their GSM and 3G network capabilities; there has been slow progress in LTE network development, with only a small proportion of the country covered by network infrastructure; the Ministry of Telecommunications in early 2021 set up a 5G hub to assess 5G user cases; the regulator in November 2021 granted licenses to various companies offering 5G services, with spectrum in the 3.3-3.7GHz range having been set aside for such services (2022)
-- `domestic`: less than one fixed-line per 100 persons; mobile-cellular teledensity about 44 telephones per 100 persons (2021)
-- `international`: country code - 244; landing points for the SAT-3/WASC, WACS, ACE and SACS fiber-optic submarine cable that provides connectivity to other countries in west Africa, Brazil, Europe and Asia; satellite earth stations - 29, Angosat-2 satellite expected by 2021 (2019)
+- `總體評估`: Angola’s telecom sector in recent years has benefited from political stability, which has encouraged foreign investment in the sector; the government and regulator have also set in train mechanisms to open up the telecom sector to new competitors, mobile services were launched in April 2022; the MNOs were slow to develop LTE services, instead relying on their GSM and 3G network capabilities; there has been slow progress in LTE network development, with only a small proportion of the country covered by network infrastructure; the Ministry of Telecommunications in early 2021 set up a 5G hub to assess 5G user cases; the regulator in November 2021 granted licenses to various companies offering 5G services, with spectrum in the 3.3-3.7GHz range having been set aside for such services (2022)
+- `國內`: less than one fixed-line per 100 persons; mobile-cellular teledensity about 44 telephones per 100 persons (2021)
+- `國際的`: country code - 244; landing points for the SAT-3/WASC, WACS, ACE and SACS fiber-optic submarine cable that provides connectivity to other countries in west Africa, Brazil, Europe and Asia; satellite earth stations - 29, Angosat-2 satellite expected by 2021 (2019)
 
 ### 廣播媒體
 state controls all broadcast media with nationwide reach; state-owned Televisao Popular de Angola (TPA) provides terrestrial TV service on 2 channels; a third TPA channel is available via cable and satellite; TV subscription services are available; state-owned Radio Nacional de Angola (RNA) broadcasts on 26 stations; approximately20 private radio stations broadcast locally
@@ -614,20 +614,20 @@ state controls all broadcast media with nationwide reach; state-owned Televisao 
 .ao
 
 ### 網際網路使用者
-- `total`: 11.55 million (2021 est.)
-- `percent of population`: 33% (2021 est.)
+- `總計`: 11.55 million (2021 est.)
+- `佔人口比例`: 33% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 230,610 (2020 est.)
-- `subscriptions per 100 inhabitants`: 0.7 (2020 est.)
+- `總計`: 230,610 (2020 est.)
+- `每100名居民訂閱數`: 0.7 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 10 (2020)
-- `inventory of registered aircraft operated by air carriers`: 55
-- `annual passenger traffic on registered air carriers`: 1,516,628 (2018)
-- `annual freight traffic on registered air carriers`: 78.16 million (2018) mt-km
+- `註冊航空公司數量`: 10 (2020)
+- `註冊飛機庫存—航空承運商經營`: 55
+- `年度客運量－註冊航空公司`: 1,516,628 (2018)
+- `年度貨運量－註冊航空公司`: 78.16 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 D2
@@ -642,29 +642,29 @@ D2
 352 km gas, 85 km liquid petroleum gas, 1,065 km oil, 5 km oil/gas/water (2013)
 
 ### 鐵路
-- `total`: 2,761 km (2022)
-- `narrow gauge`: 2,638 km (2022) 1.067-m gauge
+- `總計`: 2,761 km (2022)
+- `窄軌`: 2,638 km (2022) 1.067-m gauge
 123 km 0.600-mm gauge
 
 ### 道路
-- `total`: 76,000 km
-- `paved`: 13,680 km (2020)
+- `總計`: 76,000 km
+- `已鋪砌`: 13,680 km (2020)
 
 ### 水道
 1,300 km (2011)
 
 ### 商船
-- `total`: 64 (2023)
-- `by type`: general cargo 13, oil tanker 8, other 43
+- `總計`: 64 (2023)
+- `依類型`: general cargo 13, oil tanker 8, other 43
 
 ### 港口
-- `total ports`: 21 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 8
-- `very small`: 13
-- `ports with oil terminals`: 17
-- `key ports`: Cabinda, Estrela Oil Field, Lobito, Luanda, Malongo Oil Terminal, Namibe, Palanca Terminal, Takula Terminal
+- `總港口數`: 21 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 8
+- `非常小`: 13
+- `原油碼頭港口`: 17
+- `主要港口`: Cabinda, Estrela Oil Field, Lobito, Luanda, Malongo Oil Terminal, Namibe, Palanca Terminal, Takula Terminal
 
 ## 軍事和安全
 
@@ -705,7 +705,7 @@ has a national space strategy with a focus on capacity building, developing spac
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2023); 22,841 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)
+- `難民（原籍國）`: 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2023); 22,841 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)
 
 ### 非法藥物
 used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa

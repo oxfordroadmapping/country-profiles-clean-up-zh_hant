@@ -19,22 +19,22 @@ Caribbean, island in the Caribbean Sea, 30 nm west of Tiburon Peninsula of Haiti
 Central America and the Caribbean
 
 ### 面積
-- `total `: 5 sq km
-- `land`: 5.4 sq km
-- `water`: 0 sq km
+- `總計`: 5 sq km
+- `土地`: 5.4 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 about nine times the size of the National Mall in Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 8 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive economic zone`: 200 nm
+- `領海`: 12 nm
+- `專屬經濟區`: 200 nm
 
 ### 氣候
 marine, tropical
@@ -43,14 +43,14 @@ marine, tropical
 raised flat to undulating coral and limestone plateau; ringed by vertical white cliffs (9 to 15 m high)
 
 ### 海拔
-- `highest point`: 200 m NNW of lighthouse 85 m
-- `lowest point`: Caribbean Sea 0 m
+- `最高點`: 200 m NNW of lighthouse 85 m
+- `最低點`: Caribbean Sea 0 m
 
 ### 自然資源
 guano (mining discontinued in 1898)
 
 ### 土地利用
-- `other`: 100% (2018 est.)
+- `其它`: 100% (2018 est.)
 
 ### 自然災害
 hurricanes
@@ -61,7 +61,7 @@ strategic location 160 km south of the US Naval Base at Guantanamo Bay, Cuba; mo
 ## 人民和社會
 
 ### 人口
-- `total`: uninhabited; transient Haitian fishermen and others camp on the island
+- `總計`: uninhabited; transient Haitian fishermen and others camp on the island
 
 ## 環境
 
@@ -72,14 +72,14 @@ some coral bleaching
 marine, tropical
 
 ### 土地利用
-- `other`: 100% (2018 est.)
+- `其它`: 100% (2018 est.)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Navassa Island
-- `etymology`: the flat island was named "Navaza" by some of Christopher COLUMBUS' sailors in 1504; the name derives from the Spanish term "nava" meaning "flat land, plain, or field"
+- `常用長名`: none
+- `常用短名`: Navassa Island
+- `语源学`: the flat island was named "Navaza" by some of Christopher COLUMBUS' sailors in 1504; the name derives from the Spanish term "nava" meaning "flat land, plain, or field"
 
 ### 附屬狀況
 unorganized, unincorporated territory of the US; administered by the Fish and Wildlife Service, US Department of the Interior from the Caribbean Islands National Wildlife Refuge in Boqueron, Puerto Rico; in September 1996, the Coast Guard ceased operations and maintenance of the Navassa Island Light, a 46-meter-tall lighthouse on the southern side of the island; Haiti has claimed the island since the 19th century
@@ -88,7 +88,7 @@ unorganized, unincorporated territory of the US; administered by the Fish and Wi
 the laws of the US apply where applicable
 
 ### 駐該國的美國外交代表
-- `embassy`: none (territory of the US)
+- `大使館`: none (territory of the US)
 
 ### 旗幟說明
 the flag of the US is used

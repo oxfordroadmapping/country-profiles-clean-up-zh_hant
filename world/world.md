@@ -13,9 +13,9 @@ Globally, the 20th century was marked by: (a) two devastating World Wars; (b) th
 The surface of the Earth is approximately 70.9% water and 29.1% land. The former portion constitutes the World Ocean, the single largest feature of the planet and one that connects all places on the globe. The World Ocean is divided by the intervening continental landmasses into five major ocean basins, which are (in decreasing order of size) the Pacific, Atlantic, Indian, Southern, and Arctic. *The World Factbook* describes each of these five as oceans. Given the significant differences in direction and temperature of major ocean currents, as well as the effects of the major air masses above them, the Pacific and Atlantic Oceans are generally divided at the equator into the North and South Pacific Oceans and the North and South Atlantic Oceans, thus creating seven major water bodies -- the so-called "Seven Seas." About 97.5% of the Earth's water is saltwater. Of the 2.5% that is fresh, about two-thirds is frozen, mostly locked up in the Antarctic ice sheets and mountain glaciers worldwide. If all the surface ice on earth fully melted, the sea level would rise about 70 m (230 ft).  In a 100-year period, a water molecule spends 98 years in the ocean, 20 months as ice, about two weeks in lakes and rivers, and less than a week in the atmosphere. Groundwater can take 50 years to just traverse 1 km (0.6 mi). Earth's land portion is divided into several large, discrete landmasses called continents. Depending on the convention used, the number of continents can vary from five to seven. The most common classification recognizes seven, which are (from largest to smallest) Asia, Africa, North America, South America, Antarctica, Europe, and Australia. Asia and Europe are sometimes lumped together into a Eurasian continent, resulting in six continents. Alternately, North and South America are sometimes grouped as simply the Americas, resulting in a continent total of six (or five, if the Eurasia designation is used). North America is commonly understood to include Greenland and the Caribbean islands and to extend south to the Isthmus of Panama. The Ural Mountains and the Ural River are usually considered the easternmost part of Europe, the Caspian Sea is the limit to the southeast, and the Caucasus Mountains, the Black Sea, and the Mediterranean to the south. Portions of five countries -- Azerbaijan, Georgia, Kazakhstan, Russia, and Turkey -- fall within both Europe and Asia, but in every instance the larger section is in Asia. These countries are considered part of both continents. Armenia and Cyprus, which lie completely in Western Asia, are geopolitically European countries. Asia usually incorporates all the islands of the Philippines, Malaysia, and Indonesia. The Pacific islands are often lumped with Australia into a "land mass" termed Oceania or Australasia. Africa's northeast extremity is frequently delimited at the Isthmus of Suez, but for geopolitical purposes, the Egyptian Sinai Peninsula is often included as part of Africa. Although the above groupings are the most common, different continental dispositions are recognized or taught in certain parts of the world, with some more heavily based on cultural spheres than physical geographic considerations. Based on the seven-continent model, and grouping islands with adjacent continents, Africa has the most countries with 54. Europe contains 49 countries and Asia 48, but these two continents share five countries: Azerbaijan, Georgia, Kazakhstan, Russia, and Turkey. North America consists of 23 sovereign states, Oceania has 16, and South America 12. In total, the United States recognizes 197 countries. **countries by continent**:  *Africa *(54): Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Democratic Republic of the Congo, Republic of the Congo, Cote d'Ivoire, Djibouti, Egypt, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, The Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mauritius, Morocco, Mozambique, Namibia, Niger, Nigeria, Rwanda, Sao Tome and Principe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, Togo, Tunisia, Uganda, Zambia, Zimbabwe *Europe *(49): Albania, Andorra, Austria, Azerbaijan*, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Georgia*, Germany, Greece, Holy See (Vatican City), Hungary, Iceland, Ireland, Italy, Kazakhstan*, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, Russia*, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey*, Ukraine, United Kingdom (* indicates part of the country is also in Asia) *Asia *(48): Afghanistan, Armenia, Azerbaijan*, Bahrain, Bangladesh, Bhutan, Brunei, Burma, Cambodia, China, Cyprus, Georgia*, India, Indonesia, Iran, Iraq, Israel, Japan, Jordan, Kazakhstan*, North Korea, South Korea, Kuwait, Kyrgyzstan, Laos, Lebanon, Malaysia, Maldives, Mongolia, Nepal, Oman, Pakistan, Philippines, Qatar, Russia*, Saudi Arabia, Singapore, Sri Lanka, Syria, Tajikistan, Thailand, Timor-Leste, Turkey*, Turkmenistan, United Arab Emirates, Uzbekistan, Vietnam, Yemen (* indicates part of the country is also in Europe) *North America* (23): Antigua and Barbuda, The Bahamas, Barbados, Belize, Canada, Costa Rica, Cuba, Dominica, Dominican Republic, El Salvador, Grenada, Guatemala, Haiti, Honduras, Jamaica, Mexico, Nicaragua, Panama, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago, United States *Oceania *(16): Australia, Cook Islands, Fiji, Kiribati, Marshall Islands, Federated States of Micronesia, Nauru, New Zealand, Niue, Palau, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, Vanuatu *South America *(12): Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela  Three of the states described above – France, Netherlands, and the United Kingdom – consist of smaller political entities that are referred to as countries. France considers French Polynesia an overseas country; the Kingdom of the Netherlands refers to all four of its constituent parts (Netherlands [proper], and the islands of Aruba, Curacao, and Sint Maarten) as countries; and the United Kingdom is composed of the countries of England, Wales, Scotland, and Northern Ireland. While not recognized as sovereign states, *The World Factbook* does include descriptive entries for the French and Dutch island "countries."  **the World from space**:  Earth is the only planet in the solar system to have water in its three states of matter: liquid (oceans, lakes, and rivers), solid (ice), and gas (water vapor in clouds). From a distance, Earth would be the brightest of the eight planets in the solar system; this luminous effect would be because of the sunlight reflected by the planet's water.  Earth is also the only planet in the solar system known to be active with earthquakes and volcanoes due to plate tectonics; these events form the landscape, replenish carbon dioxide into the atmosphere, and erase impact craters caused by meteors.  Earth has a slight equatorial bulge -- a difference between its equatorial and polar diameters -- because of the centrifugal force from the planet rotating on its axis. The equatorial diameter is 12,756 km, but the polar diameter is 12,714 km; this results in the Earth's circumference at the equator being 40,075 km, while the polar circumference is 40,008 km.**  the physical World**:  the Earth is composed of three layers: the outer lithosphere (with its crust and uppermost solid mantle), the mantle (the thickest layer, with distinct upper and lower layers), and the core (with an outer liquid core and inner solid core). Researchers have discovered that a transition zone (at a depth of 410-660 km, or 255-410 mi) between the upper and lower mantle may well be hydrous (water-bearing). But this hydrous rock would neither feel wet nor drip water. At that depth, high temperatures and pressures structurally transform a mineral called olivine into another mineral, ringwoodite, which can incorporate water, but not in a liquid, solid, or gas form. The high temperatures and pressures cause: 1) water molecules to split, creating hydroxide ions (hydrogen and oxygen atoms bound together), and 2) create structural changes in ringwoodite so that it is able to contain hydroxide ions. Ringwoodite can hold 1 to 3% of its weight in hydroxide ions. Considering that the 250 km-transition zone is about 7% of the Earth's mass (the crust is only about 1%), it could include at least as much (if not several times more) water than all the Earth's oceans.  
 
 ### 面積
-- `total `: 510.072 million sq km
-- `land`: 148.94 million sq km
-- `water`: 361,899,999 sq km
+- `總計`: 510.072 million sq km
+- `土地`: 148.94 million sq km
+- `水`: 361,899,999 sq km
 **note**:  70.9% of the world's surface is water, 29.1% is land
 
 ### 面積—比較
@@ -46,9 +46,9 @@ a variety of situations exist, but in general, most countries make the following
 - `Top ten world caves`: compiled from "Geography - note(s)" under various country entries where more details may be found  *largest cave:* Son Doong in Phong Nha-Ke Bang National Park, Vietnam, is the world's largest cave (greatest cross sectional area) and is the largest known cave passage by volume; it currently measures a total of 38.5 million cu m (about 1.35 billion cu ft); it connects to Thung cave, but not yet officially -- when recognized, it will add an additional 1.6 million cu m in volume*_issue_*  *_issue_**largest ice cave:* the Eisriesenwelt (Ice Giants World) inside the Hochkogel mountain near Werfen, Austria, is the world's largest and longest ice cave system at 42 km (26 mi) *_issue_**_issue_**longest cave:* Mammoth Cave in west-central Kentucky is the world's longest known cave system with more than 650 km (405 mi) of surveyed passageways  *longest salt cave:* the Malham Cave in Mount Sodom in Israel is the world's longest salt cave at 10 km (6 mi); its survey is not complete, so its recorded length will eventually increase  *longest underwater cave:* the Sac Actun cave system in Mexico is the longest underwater cave in the world at 348 km (216 mi),  and the second longest cave worldwide  *longest lava tube cave:* Kazumura Cave on the island of Hawaii is the world's longest and deepest lava tube cave; it has been surveyed at 66 km (41 mi) long and 1,102 m (3,614 ft) deep   *deepest cave:* Veryovkina Cave in the country of Georgia is the world's deepest cave, plunging down 2,212 m (7,257 ft)  *deepest underwater cave:* the Hranice Abyss in Czechia is the world's deepest surveyed underwater cave at 404 m (1,325 ft); its survey is not complete, and it could be 800-1,200 m deep  *largest cave chamber:* the Miao Room in the Gebihe cave system in China's Ziyun Getu He Chuandong National Park has about 10.78 million cu m (380.7 million cu ft) of volume  *largest bat cave:* Bracken Cave outside San Antonio, Texas, is the world's largest bat cave; an estimated 20 million Mexican free-tailed bats roost in the cave from March to October, making it the world's largest known concentration of mammals  *bonus "cave" - the world's largest sinkhole:* the Xiaoxhai Tiankeng sinkhole in Chongqing Municipality, China is 660 m deep, with a volume of 130 million cu m
 
 ### 海拔
-- `highest point`: Mount Everest 8,849 m
-- `lowest point`: Denman Glacier (Antarctica) more than -3,500 m (in the oceanic realm, Challenger Deep in the Mariana Trench is the lowest point, lying -10,924 m below the surface of the Pacific Ocean)
-- `mean elevation`: 840 m
+- `最高點`: Mount Everest 8,849 m
+- `最低點`: Denman Glacier (Antarctica) more than -3,500 m (in the oceanic realm, Challenger Deep in the Mariana Trench is the lowest point, lying -10,924 m below the surface of the Pacific Ocean)
+- `平均海拔`: 840 m
 **top ten highest mountains (measured from sea level)**:  Mount Everest (China-Nepal) 8,849 m; K2 (Pakistan) 8,611 m; Kanchenjunga (India-Nepal) 8,598 m; Lhotse (Nepal) 8,516 m; Makalu (China-Nepal) 8,463 m; Cho Oyu (China-Nepal) 8,201 m; Dhaulagiri (Nepal) 8,167 m; Manaslu (Nepal) 8,163 m; Nanga Parbat (Pakistan) 8,125 m; Anapurna (Nepal) 8,091 m; **note **:  Mauna Kea (United States) is the world's tallest mountain as measured from base to summit; the peak of this volcanic colossus lies on the island of Hawaii, but its base begins more than 70 km offshore and at a depth of about 6,000 m; total height estimates range from 9,966 m to 10,203 m   **top ten highest island peaks**:  Puncak Jaya (New Guinea) 4,884 m (Indonesia)*; Mauna Kea (Hawaii) 4,207 m (United States); Gunung Kinabalu (Borneo) 4,095 m (Malaysia)*; Yu Shan (Taiwan) 3,952 (Taiwan)*; Mount Kerinci (Sumatra) 3,805 m (Indonesia); Mount Erebus (Ross Island) 3,794 (Antarctica); Mount Fuji (Honshu) 3,776 m (Japan)*; Mount Rinjani (Lombok) 3,726 m (Indonesia); Aoraki-Mount Cook (South Island) 3,724 m (New Zealand)*; Pico de Teide (Tenerife) 3,718 m (Spain)*; **note **:  * indicates the highest peak for that Factbook entry   **highest point on each continent**:  Asia - Mount Everest (China-Nepal) 8,849 m; South America - Cerro Aconcagua (Argentina) 6,960 m; North America - Denali (Mount McKinley) (United States) 6,190 m; Africa - Kilimanjaro (Tanzania) 5,895 m; Europe - El'brus (Russia) 5,633 m; Antarctica - Vinson Massif 4,897 m; Australia - Mount Kosciuszko 2,229 m   **highest capital on each continent**:  South America - La Paz (Bolivia) 3,640 m; Africa - Addis Ababa (Ethiopia) 2,355 m; Asia - Thimphu (Bhutan) 2,334 m; North America - Mexico City (Mexico) 2,240 m; Europe - Andorra la Vella (Andorra) 1,023 m; Australia - Canberra (Australia) 605 m   **lowest point on each continent**:  Antarctica - Denman Glacier more than -3,500 m; Asia - Dead Sea (Israel-Jordan) -431 m; Africa - Lac Assal (Djibouti) -155 m; South America - Laguna del Carbon (Argentina) -105 m; North America - Death Valley (United States) -86 m; Europe - Caspian Sea (Azerbaijan-Kazakhstan-Russia) -28 m; Australia - Lake Eyre -15   **lowest capital on each continent**:  Asia - Baku (Azerbaijan) -28 m; Europe - Amsterdam (Netherlands) -2 m; Africa - Banjul (Gambia); Bissau (Guinea-Bissau), Conakry (Guinea), Djibouti (Djibouti), Libreville (Gabon), Male (Maldives), Monrovia (Liberia), Tunis (Tunisia), Victoria (Seychelles) 0 m; North America - Basseterre (Saint Kitts and Nevis), Kingstown (Saint Vincent and the Grenadines), Panama City (Panama), Port of Spain (Trinidad and Tobago), Roseau (Dominica), Saint John's (Antigua and Barbuda), Santo Domingo (Dominican Republic) 0 m; South America - Georgetown (Guyana) 0 m; Australia - Canberra (Australia) 605 m
 
 ### 灌溉土地
@@ -83,9 +83,9 @@ large areas of the world are subject to severe weather (tropical cyclones) and n
 ## 人民和社會
 
 ### 人口
-- `total`: 8,057,236,243
-- `male`: 4,046,854,454
-- `female`: 4,010,381,789 (2024 est.)
+- `總計`: 8,057,236,243
+- `男性`: 4,046,854,454
+- `女性`: 4,010,381,789 (2024 est.)
 
 ### 語文
 **most-spoken language**: English 18.8%, Mandarin Chinese 13.8%, Hindi 7.5%, Spanish 6.9%, French 3.4%, Arabic 3.4%, Bengali 3.4%, Russian 3.2%, Portuguese 3.2%, Urdu 2.9% (2022 est.)   **most-spoken first language**:  Mandarin Chinese 12.3%, Spanish 6%, English 5.1%, Arabic 5.1%, Hindi 3.5%, Bengali 3.3%, Portuguese 3%, Russian 2.1%, Japanese 1.7%, Punjabi, Western 1.3%, Javanese 1.1% (2018 est.) **note 1**:  the six UN languages - Arabic, Chinese (Mandarin), English, French, Russian, and Spanish (Castilian) - are the mother tongue or second language of about 49.6% of the world's population (2022), and are the official languages in more than half the states in the world; some 400 languages have more than a million first-language speakers (2018) **note 2**:  all told, there are estimated to be 7,168 living languages spoken in the world (2023); approximately 80% of these languages are spoken by less than 100,000 people; about 150 languages are spoken by fewer than 10 people; communities that are isolated from each other in mountainous regions often develop multiple languages; Papua New Guinea, for example, boasts about 840 separate languages (2018) **note 3**:  approximately 2,300 languages are spoken in Asia, 2,140, in Africa, 1,310 in the Pacific, 1,060 in the Americas, and 290 in Europe (2020)
@@ -94,20 +94,20 @@ large areas of the world are subject to severe weather (tropical cyclones) and n
 Christian 31.1%, Muslim 24.9%, Hindu 15.2%, Buddhist 6.6%, folk religions 5.6%, Jewish <1%, other <1%, unaffiliated 15.6% (2020 est.)
 
 ### 年齡結構
-- `0-14 years`: 24.5% (male 1,018,005,046/female 958,406,907)
-- `15-64 years`: 65.2% (male 2,658,595,672/female 2,592,930,538)
-- `65 years and over`: 10.3% (2024 est.) (male 370,253,736/female 459,044,344)
+- `0-14歲`: 24.5% (male 1,018,005,046/female 958,406,907)
+- `15-64歲`: 65.2% (male 2,658,595,672/female 2,592,930,538)
+- `65歲及以上`: 10.3% (2024 est.) (male 370,253,736/female 459,044,344)
 
 ### 撫養比率
-- `total dependency ratio`: 54.1
-- `youth dependency ratio`: 39.3
-- `elderly dependency ratio`: 14.8
-- `potential support ratio`: 7 (2021 est.)
+- `總受扶養人比率`: 54.1
+- `少年撫養比率`: 39.3
+- `老人撫養比率`: 14.8
+- `潛在支持率`: 7 (2021 est.)
 
 ### 年齡中位數
-- `total`: 31 years (2020 est.)
-- `male`: 30.3 years
-- `female`: 31.8 years
+- `總計`: 31 years (2020 est.)
+- `男性`: 30.3 years
+- `女性`: 31.8 years
 
 ### 人口成長率
 1.03% (2021 est.)
@@ -125,69 +125,69 @@ Christian 31.1%, Muslim 24.9%, Hindu 15.2%, Buddhist 6.6%, folk religions 5.6%, 
 six of the world's seven continents are widely and permanently inhabited; Asia is the most populous continent with about 60% of the world's population (China and India together account for over 35%); Africa comes in second with over 15%, Europe has about 10%, North America 8%, South America almost 6%, and Oceania less than 1%; the harsh conditions on Antarctica prevent any permanent habitation
 
 ### 都市化
-- `urban population`: 57.5% of total population (2023)
-- `rate of urbanization`: 1.73% annual rate of change (2020-25 est.)
+- `城市人口`: 57.5% of total population (2023)
+- `城鎮化率`: 1.73% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 **ten largest urban agglomerations**:  Tokyo (Japan) - 37,393,000; New Delhi (India) - 30,291,000; Shanghai (China) - 27,058,000; Sao Paulo (Brazil) - 22,043,000; Mexico City (Mexico) - 21,782,000; Dhaka (Bangladesh) - 21,006,000; Cairo (Egypt) - 20,901,000; Beijing (China) - 20,463,000; Mumbai (India) - 20,411,000; Osaka (Japan) - 19,165,000 (2020)
 **ten largest urban agglomerations, by continent:Africa **: Cairo (Egypt) - 20,901,000; Lagos (Nigeria) - 134,368,000; Kinshasha (DRC) - 14,342,000; Luanda (Angola) - 8,330,000; Dar Es Salaam (Tanzania) - 6,702,000; Khartoum (Sudan) - 5,829,000; Johannesburg (South Africa) - 5,783,000; Alexandria (Egypt) - 5,281,000; Abidjan (Cote d'Ivoire) - 5,203,000; Addis Ababa (Ethiopia) - 4,794,000  **Asia **:  Tokyo (Japan) - 37,393,000; New Delhi (India) - 30,291,000; Shanghai (China) - 27,058,000; Dhaka (Bangladesh) - 21,006,000; Beijing (China) - 20,463,000; Mumbai (India) - 20,411,000; Osaka (Japan) - 19,165,000; Karachi (Pakistan) - 16,094,000; Chongqing (China) - 15,872,000; Istanbul (Turkey) - 15,190,000  **Europe **:  Moscow (Russia) - 12,538,000; Paris (France) - 11,017,000; London (United Kingdom) - 9,304,000; Madrid (Spain) - 6,618,000; Barcelona (Spain) - 5,586,000, Saint Petersburg (Russia) -  5,468,000; Rome (Italy) - 4,257,000; Berlin (Germany) - 3,562,000; Athens (Greece) - 3,153,000; Milan (Italy) - 3,140,000  **North America **:  Mexico City (Mexico) - 21,782,000; New York-Newark (United States) - 18,804,000; Los Angeles-Long Beach-Santa Ana (United States) - 12,447,000; Chicago (United States) - 8,865,000; Houston (United States) - 6,371,000; Dallas-Fort Worth (United States) - 6,301,000; Toronto (Canada) - 6,197,000; Miami (United States) - 6,122,000; Atlanta (United States) - 5,803,000; Philadelphia (United States) - 5,717,000  **Oceania **:  Melbourne (Australia) - 4,968,000, Sydney (Australia) - 4,926,000; Brisbane (Australia) - 2,406,000; Perth (Australia) - 2,042,000; Auckland (New Zealand) - 1,607,000; Adelaide (Australia) - 1,336,000; Gold Coast-Tweed Head (Australia) - 699,000; Canberra (Australia) - 457,000; Newcastle-Maitland (Australia) - 450,000; Wellington (New Zealand) - 415,000  **South America **:  Sao Paulo (Brazil) - 22,043,000; Buenos Aires (Argentina) - 15,154,000; Rio de Janeiro (Brazil) - 13,458,000; Bogota (Colombia) - 10,978,000; Lima (Peru) - 10,719,000; Santiago (Chile) - 6,767,000; Belo Horizonte (Brazil) - 6,084,000; Brasilia (Brazil) - 4,646,000; Porto Alegre (Brazil) - 4,137,000; Recife (Brazil) - 4,127,000 (2020)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.05 male(s)/female
-- `15-64 years`: 1.03 male(s)/female
-- `65 years and over`: 0.81 male(s)/female
-- `total population`: 1.01 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.05 male(s)/female
+- `15-64歲`: 1.03 male(s)/female
+- `65歲及以上`: 0.81 male(s)/female
+- `總人口數`: 1.01 male(s)/female (2024 est.)
 
 ### 產婦死亡率
 211 deaths/100,000 live births (2017 est.)
 
 ### 嬰兒死亡率
-- `total`: 28.3 deaths/1,000 live births (2024 est.)
+- `總計`: 28.3 deaths/1,000 live births (2024 est.)
 
 ### 出生時預期壽命
-- `total population`: 70.5 years (2020)
-- `male`: 68.4 years
-- `female`: 72.6 years
+- `總人口數`: 70.5 years (2020)
+- `男性`: 68.4 years
+- `女性`: 72.6 years
 
 ### 總生育率
 2.42 children born/woman (2020 est.)
 
 ### 飲用水來源
-- `improved: urban`: urban: 96.5% of population
-- `improved: rural`: rural: 84.7% of population
-- `improved: total`: total: 91.1% of population
-- `unimproved: urban`: urban: 3.5% of population
-- `unimproved: rural`: rural: 15.3% of population
-- `unimproved: total`: total: 8.9% of population (2015 est.)
+- `已改進－城市`: urban: 96.5% of population
+- `已改進－農村`: rural: 84.7% of population
+- `已改進－總計`: total: 91.1% of population
+- `未改進：都市`: urban: 3.5% of population
+- `未改進：鄉村`: rural: 15.3% of population
+- `未改善：總計`: total: 8.9% of population (2015 est.)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 82.3% of population
-- `improved: rural`: rural: 50.5% of population
-- `improved: total`: total: 67.7% of population
-- `unimproved: urban`: urban: 17.7% of population
-- `unimproved: rural`: rural: 49.5% of population
-- `unimproved: total`: total: 32.3% of population (2015 est.)
+- `已改進－城市`: urban: 82.3% of population
+- `已改進－農村`: rural: 50.5% of population
+- `已改進－總計`: total: 67.7% of population
+- `未改進：都市`: urban: 17.7% of population
+- `未改進：鄉村`: rural: 49.5% of population
+- `未改善：總計`: total: 32.3% of population (2015 est.)
 
 ### 目前已婚婦女（15-49歲）
 66.2% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 5%
-- `women married by age 18`: 18.7% (2022 est.)
-- `men married by age 18`: 2.8% (2021 est.)
+- `15歲前結婚的女性`: 5%
+- `18歲前結婚的女性`: 18.7% (2022 est.)
+- `18歲前結婚的男性`: 2.8% (2021 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 86.7%
-- `male`: 90.1%
-- `female`: 83.3% (2020)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 86.7%
+- `男性`: 90.1%
+- `女性`: 83.3% (2020)
 **note**:  more than three quarters of the world's 750 million illiterate adults are found in South Asia and sub-Saharan Africa; of all the illiterate adults in the world, almost two thirds are women (2016)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 13 years
-- `male`: 13 years
-- `female`: 13 years (2020)
+- `總計`: 13 years
+- `男性`: 13 years
+- `女性`: 13 years (2020)
 
 ## 環境
 
@@ -212,8 +212,8 @@ large areas of the world are subject to overpopulation, industrial disasters, po
 - `ten hottest places on Earth (highest average monthly temperature)`: Death Valley, US (California) 39°C (101°F) JulyIranshahr, Iran 38.3°C (100.9°F) June Ouallene, Algeria 38°C (100.4°F) JulyKuwait City, Kuwait 37.7°C (100°F) JulyMedina, Saudi Arabia 36°C (97°F) JulyBuckeye, US (Arizona) 34°C (93°F) JulyJazan, Saudi Arabia 33°C (91°F) JuneAl Kufrah, Libya 31°C (87°F) JulyAlice Springs, Australia 29°C (84°F) JanuaryTamanrasset, Algeria 29°C (84°F) June
 
 ### 都市化
-- `urban population`: 57.5% of total population (2023)
-- `rate of urbanization`: 1.73% annual rate of change (2020-25 est.)
+- `城市人口`: 57.5% of total population (2023)
+- `城鎮化率`: 1.73% annual rate of change (2020-25 est.)
 
 ### 主要湖泊（按面積平方公里）
 **top ten largest natural lakes**: Caspian Sea (Azerbaijan, Iran, Kazakhstan, Russia, Turkmenistan) 374,000 sq km; Lake Superior (Canada, United States) 82,100 sq km; Lake Victoria (Kenya, Tanzania, Uganda) 62,940 sq km; Lake Huron (Canada, United States) 59,600 sq km; Lake Michigan (United States) 57,750 sq km; Lake Tanganyika (Burundi, Democratic Republic of the Congo, Tanzania, Zambia) 32,000 sq km; Great Bear Lake (Canada) 31,328 sq km; Lake Baikal (Russia) 31,500 sq km; Lake Malawi (Malawi, Mozambique, Tanzania) 22,490 sq km; Great Slave Lake (Canada) 28,568 sq km  **note 1**:  the areas of the lakes are subject to seasonal variation; only the Caspian Sea is saline, the rest are fresh water  **note 2**:  Lakes Huron and Michigan are technically a single lake because the flow of water between the Straits of Mackinac that connects the two lakes keeps their water levels at near-equilibrium; combined, Lake Huron-Michigan is the largest freshwater lake by surface area in the world  **note 3**:  if ranked by water volume, the Caspian Sea would still be first, but it would be followed Lakes Baikal, Tanganyika, Superior, and Malawi; Lake Superior contains more water than the other four North American Great Lakes (Erie, Huron, Michigan, Ontario) combined
@@ -233,8 +233,8 @@ aquifers are underground layers of water-bearing permeable rock formations; they
 ## 政府
 
 ### 首都
-- `time difference`: there are 21 world entities (20 countries and 1 dependency) with multiple time zones: Australia, Brazil, Canada, Chile, Democratic Republic of Congo, Ecuador, France, Greenland (part of the Danish Kingdom), Indonesia, Kazakhstan, Kiribati, Mexico, Micronesia, Mongolia, Netherlands, New Zealand, Papua New Guinea, Portugal, Russia, Spain, United States  **note 1**: in some instances, the time zones pertain to portions of a country that lie overseas  **note 2**:  in 1851, the British set their prime meridian (0° longitude) through the Royal Observatory at Greenwich, England; this meridian became the international standard in 1884 and thus the basis for the standard time zones of the world; today, GMT is officially known as Coordinated Universal Time (UTC) and is also referred to as "Zulu time"; UTC is the basis for all civil time, with the world divided into time zones expressed as positive or negative differences from UTC  **note 3**:  each time zone is based on 15° starting from the prime meridian; in theory, there are 24 time zones based on the solar day, but there are now upward of 40 because of fractional hour offsets that adjust for various political and physical geographic realities; see the Standard Time Zones of the World map included with the World and Regional Maps
-- `daylight saving time`: some 67 countries -- including most of the world's leading industrialized nations -- use daylight savings time (DST) in at least a portion of the country; China, Japan, India, and Russia are major industrialized countries that do not use DST; Asia and Africa generally do not observe DST, and it is generally not observed near the equator, where sunrise and sunset times do not vary enough to justify it; some countries observe DST only in certain regions; only a minority of the world's population -- about 20% -- uses DST
+- `時差`: there are 21 world entities (20 countries and 1 dependency) with multiple time zones: Australia, Brazil, Canada, Chile, Democratic Republic of Congo, Ecuador, France, Greenland (part of the Danish Kingdom), Indonesia, Kazakhstan, Kiribati, Mexico, Micronesia, Mongolia, Netherlands, New Zealand, Papua New Guinea, Portugal, Russia, Spain, United States  **note 1**: in some instances, the time zones pertain to portions of a country that lie overseas  **note 2**:  in 1851, the British set their prime meridian (0° longitude) through the Royal Observatory at Greenwich, England; this meridian became the international standard in 1884 and thus the basis for the standard time zones of the world; today, GMT is officially known as Coordinated Universal Time (UTC) and is also referred to as "Zulu time"; UTC is the basis for all civil time, with the world divided into time zones expressed as positive or negative differences from UTC  **note 3**:  each time zone is based on 15° starting from the prime meridian; in theory, there are 24 time zones based on the solar day, but there are now upward of 40 because of fractional hour offsets that adjust for various political and physical geographic realities; see the Standard Time Zones of the World map included with the World and Regional Maps
+- `日光節約時間`: some 67 countries -- including most of the world's leading industrialized nations -- use daylight savings time (DST) in at least a portion of the country; China, Japan, India, and Russia are major industrialized countries that do not use DST; Asia and Africa generally do not observe DST, and it is generally not observed near the equator, where sunrise and sunset times do not vary enough to justify it; some countries observe DST only in certain regions; only a minority of the world's population -- about 20% -- uses DST
 
 ### 行政區劃
 197 countries, 69 dependent areas and other entities
@@ -249,7 +249,7 @@ the legal systems of nearly all countries are modeled on elements of five main t
 all members of the UN are parties to the statute that established the International Court of Justice (ICJ) or World Court; states parties to the Rome Statute of the International Criminal Court (ICCt) are those countries that have ratified or acceded to the Rome Statute, the treaty that established the Court; as of May 2019, a total of 122 countries have accepted jurisdiction of the ICCt (see the reference guide on International Organizations and Groups for clarification on the differing mandates of the ICJ and ICCt)
 
 ### 行政部門
-- `chief of state`: there are 27 countries with royal families in the world: most are in Asia (13) and Europe (10), three are in Africa, and one in Oceania; monarchies by continent are as follows: Asia (Bahrain, Bhutan, Brunei, Cambodia, Japan, Jordan, Kuwait, Malaysia, Oman, Qatar, Saudi Arabia, Thailand, United Arab Emirates); Europe (Belgium, Denmark, Liechtenstein, Luxembourg, Monaco, Netherlands, Norway, Spain, Sweden, United Kingdom); Africa (Eswatini, Lesotho, Morocco); Oceania (Tonga)
+- `國家元首`: there are 27 countries with royal families in the world: most are in Asia (13) and Europe (10), three are in Africa, and one in Oceania; monarchies by continent are as follows: Asia (Bahrain, Bhutan, Brunei, Cambodia, Japan, Jordan, Kuwait, Malaysia, Oman, Qatar, Saudi Arabia, Thailand, United Arab Emirates); Europe (Belgium, Denmark, Liechtenstein, Luxembourg, Monaco, Netherlands, Norway, Spain, Sweden, United Kingdom); Africa (Eswatini, Lesotho, Morocco); Oceania (Tonga)
 **note 1**:  Andorra and the Holy See (Vatican) are also monarchies of a sort, but they are not ruled by royal houses; Andorra has two co-princes (the president of France and the bishop of Urgell) and the Holy See is ruled by an elected pope  **note 2**:  the sovereign of Great Britain is also the monarch for 14 of the countries (including Australia, Canada, Jamaica, New Zealand) that make up the Commonwealth; that brings to 43 the total number of countries with some type of monarchies
 
 ### 立法部門
@@ -260,7 +260,7 @@ while a "World" flag does not exist, the flag of the United Nations (UN) -- adop
 **note 1**:  the flags of 12 nations -- Austria, Botswana, Georgia, Jamaica, Japan, Laos, Latvia, Micronesia, Nigeria, North Macedonia, Switzerland, and Thailand -- have no top or bottom and may be flown with either long edge on top without any notice being taken  **note 2**:  the most common colors found on national flags are as follows: red (including deep red; ~75%), white (~70%), and blue (including light blue; ~50%); these three colors are so prevalent that there are only two countries, Jamaica and Sri Lanka, that do not include one of them on their flag; the next three most popular colors are yellow/gold and green (both ~45%) and black (~30%)  **note 3**:  flags composed of three colors are by far the most common type and, of those, the red-white-blue combination is the most widespread
 
 ### 國歌
-- `name`: virtually every country has a national anthem; most (but not all) anthems have lyrics, which are usually in the national or most common language of the country; states with more than one national language may offer several versions of their anthem
+- `名稱`: virtually every country has a national anthem; most (but not all) anthems have lyrics, which are usually in the national or most common language of the country; states with more than one national language may offer several versions of their anthem
 **note**: the world's oldest national anthem is the "Het Wilhelmus" (The William) of the Netherlands, which dates to the 17th century; the first national anthem to be officially adopted (1795) was "La Marseillaise" (The Song of Marseille) of France; Japan claims to have the world's shortest national anthem, entitled "Kimigayo" (The Emperor's Reign), it consists of 11 measures of music (the lyrics are also the world's oldest, dating to the 10th century or earlier); the world's longest national anthem in terms of lyrics is that of Greece, "Ymnos eis tin Eleftherian" (Hymn to Liberty) with 158 stanzas -- only two of which are used; the world's longest national anthem in terms of music is that of Uruguay, "Himno Nacional" (National Anthem of Uruguay) with 105 bars (almost five minutes) -- generally only the first verse and chorus are sung; both Denmark and New Zealand have two official national anthems
 
 ### 國家級遺產
@@ -298,18 +298,18 @@ $105.435 trillion (2023 est.)
 **note**: annual % change based on consumer prices
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 4.1% (2023 est.)
-- `industry`: 26.4% (2023 est.)
-- `services`: 61.8% (2022 est.)
+- `農業`: 4.1% (2023 est.)
+- `產業`: 26.4% (2023 est.)
+- `服務`: 61.8% (2022 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 55.3% (2022 est.)
-- `government consumption`: 16.5% (2022 est.)
-- `investment in fixed capital`: 26.1% (2022 est.)
-- `investment in inventories`: 1.4% (2022 est.)
-- `exports of goods and services`: 29.3% (2023 est.)
-- `imports of goods and services`: -28.7% (2023 est.)
+- `家庭消費`: 55.3% (2022 est.)
+- `政府消費`: 16.5% (2022 est.)
+- `固定資本投資`: 26.1% (2022 est.)
+- `存貨投資`: 1.4% (2022 est.)
+- `商品和服務出口`: 29.3% (2023 est.)
+- `商品和服務進口`: -28.7% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -333,9 +333,9 @@ dominated by the onrush of technology, especially in computers, robotics, teleco
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 13.8% (2023 est.)
-- `male`: 13.4% (2023 est.)
-- `female`: 15.4% (2023 est.)
+- `總計`: 13.8% (2023 est.)
+- `男性`: 13.4% (2023 est.)
+- `女性`: 15.4% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 匯款
@@ -345,8 +345,8 @@ dominated by the onrush of technology, especially in computers, robotics, teleco
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $21.68 trillion (2017 est.)
-- `expenditures`: $23.81 trillion (2017 est.)
+- `收入`: $21.68 trillion (2017 est.)
+- `支出`: $23.81 trillion (2017 est.)
 
 ### 公共債務
 67.2% of GDP (2017 est.)
@@ -376,25 +376,25 @@ the whole range of industrial and agricultural goods and services **top ten - sh
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 91.4% (2022 est.)
-- `electrification - urban areas`: 97.7%
-- `electrification - rural areas`: 84%
+- `電氣化－總人口`: 91.4% (2022 est.)
+- `電氣化－城市地區`: 97.7%
+- `電氣化－農村地區`: 84%
 
 ### 電力
-- `installed generating capacity`: 8.483 billion kW (2022 est.)
-- `consumption`: 26.587 trillion kWh (2022 est.)
-- `exports`: 805.371 billion kWh (2022 est.)
-- `imports`: 811.992 billion kWh (2022 est.)
-- `transmission/distribution losses`: 2.064 trillion kWh (2022 est.)
+- `裝機容量`: 8.483 billion kW (2022 est.)
+- `消費`: 26.587 trillion kWh (2022 est.)
+- `出口`: 805.371 billion kWh (2022 est.)
+- `進口`: 811.992 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 2.064 trillion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 61.2% of total installed capacity (2022 est.)
-- `nuclear`: 9% of total installed capacity (2022 est.)
-- `solar`: 4.5% of total installed capacity (2022 est.)
-- `wind`: 7.3% of total installed capacity (2022 est.)
-- `hydroelectricity`: 15% of total installed capacity (2022 est.)
-- `geothermal`: 0.3% of total installed capacity (2022 est.)
-- `biomass and waste`: 2.6% of total installed capacity (2022 est.)
+- `石化燃料`: 61.2% of total installed capacity (2022 est.)
+- `核能`: 9% of total installed capacity (2022 est.)
+- `太陽能`: 4.5% of total installed capacity (2022 est.)
+- `風能`: 7.3% of total installed capacity (2022 est.)
+- `水力發電`: 15% of total installed capacity (2022 est.)
+- `地熱`: 0.3% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 2.6% of total installed capacity (2022 est.)
 
 ### 核能
 - `Number of operational nuclear reactors`: 416 (2023)
@@ -402,29 +402,29 @@ the whole range of industrial and agricultural goods and services **top ten - sh
 - `Net capacity of operational nuclear reactors`: 374.67GW (2023)
 
 ### 煤炭
-- `production`: 9.279 billion metric tons (2022 est.)
-- `consumption`: 9.456 billion metric tons (2022 est.)
-- `exports`: 1.445 billion metric tons (2022 est.)
-- `imports`: 1.416 billion metric tons (2022 est.)
-- `proven reserves`: 1.141 trillion metric tons (2022 est.)
+- `生產`: 9.279 billion metric tons (2022 est.)
+- `消費`: 9.456 billion metric tons (2022 est.)
+- `出口`: 1.445 billion metric tons (2022 est.)
+- `進口`: 1.416 billion metric tons (2022 est.)
+- `探明儲量`: 1.141 trillion metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 99.478 million bbl/day (2023 est.)
-- `refined petroleum consumption`: 99.845 million bbl/day (2022 est.)
-- `crude oil estimated reserves`: 1.697 trillion barrels (2021 est.)
+- `總石油產量`: 99.478 million bbl/day (2023 est.)
+- `成品油消費量`: 99.845 million bbl/day (2022 est.)
+- `原油儲備量估值`: 1.697 trillion barrels (2021 est.)
 
 ### 天然氣
-- `production`: 4.108 trillion cubic meters (2022 est.)
-- `consumption`: 4.052 trillion cubic meters (2022 est.)
-- `exports`: 1.288 trillion cubic meters (2022 est.)
-- `imports`: 1.274 trillion cubic meters (2022 est.)
-- `proven reserves`: 206.683 trillion cubic meters (2021 est.)
+- `生產`: 4.108 trillion cubic meters (2022 est.)
+- `消費`: 4.052 trillion cubic meters (2022 est.)
+- `出口`: 1.288 trillion cubic meters (2022 est.)
+- `進口`: 1.274 trillion cubic meters (2022 est.)
+- `探明儲量`: 206.683 trillion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 38.502 billion metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 18.399 billion metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 12.242 billion metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 7.862 billion metric tonnes of CO2 (2022 est.)
+- `總排放量`: 38.502 billion metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 18.399 billion metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 12.242 billion metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 7.862 billion metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 75.306 million Btu/person (2022 est.)
@@ -432,25 +432,25 @@ the whole range of industrial and agricultural goods and services **top ten - sh
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 840.736 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 11 (2022 est.)
+- `總訂閱數`: 840.736 million (2022 est.)
+- `每100名居民訂閱數`: 11 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 8.361 billion (2022 est.)
-- `subscriptions per 100 inhabitants`: 108 (2022 est.)
+- `總訂閱數`: 8.361 billion (2022 est.)
+- `每100名居民訂閱數`: 108 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Information, Communications, and Technology (ICT) is tied to economic growth; business, trade, and foreign direct investment are all based on effective sources of ICT, and development of ICT flourishes with a vigorous economy, open trade, and sound regulation; some 2020 estimates point to a digital economy worth $11.5 trillion globally, equivalent to 15.5% of global GDP (with ICT growing 2.5 times faster than global GDP over the past 15 years); 2020 reports indicate about 7.7 billion global mobile broadband subscriptions, rising from 3.3 billion in five years, and over 1.1 billion fixed broadband subscribers, up from 830 million in 2015
-- `international`: *economic impact* - telecommunications has been and continues to be one of the world’s fastest growing markets; countries and firms are transitioning from analog to digital broadcasting, increasing automation capabilities and applications, adopting more high-definition technologies, and converting to digital channels  broadcasting typically refers to transmission of information to all devices in a network without any acknowledgment by the receivers; data-processing parts and accessories includes many supporting elements to broadcasting equipment, such as monitors, keyboards, printers, etc.
+- `總體評估`: Information, Communications, and Technology (ICT) is tied to economic growth; business, trade, and foreign direct investment are all based on effective sources of ICT, and development of ICT flourishes with a vigorous economy, open trade, and sound regulation; some 2020 estimates point to a digital economy worth $11.5 trillion globally, equivalent to 15.5% of global GDP (with ICT growing 2.5 times faster than global GDP over the past 15 years); 2020 reports indicate about 7.7 billion global mobile broadband subscriptions, rising from 3.3 billion in five years, and over 1.1 billion fixed broadband subscribers, up from 830 million in 2015
+- `國際的`: *economic impact* - telecommunications has been and continues to be one of the world’s fastest growing markets; countries and firms are transitioning from analog to digital broadcasting, increasing automation capabilities and applications, adopting more high-definition technologies, and converting to digital channels  broadcasting typically refers to transmission of information to all devices in a network without any acknowledgment by the receivers; data-processing parts and accessories includes many supporting elements to broadcasting equipment, such as monitors, keyboards, printers, etc.
 
 ### 網際網路使用者
-- `total`: 5.3 billion (2022 est.)
-- `percent of population`: 66% (2022 est.)
+- `總計`: 5.3 billion (2022 est.)
+- `佔人口比例`: 66% (2022 est.)
 **top ten countries by Internet usage (in millions)**:  854 China; 560 India; 293 United States; 171 Indonesia; 149 Brazil; 123 Nigeria; 119 Japan; 116 Russia; 96 Bangladesh; 88 Mexico (2023)
 
 ### 寬頻網路—固定訂閱
-- `total`: 1.33 billion (2021 est.) note - the number of fixed broadband subscriptions has been higher than that of fixed telephony since 2017
-- `subscriptions per 100 inhabitants`: 18 (2022 est.)
+- `總計`: 1.33 billion (2021 est.) note - the number of fixed broadband subscriptions has been higher than that of fixed telephony since 2017
+- `每100名居民訂閱數`: 18 (2022 est.)
 
 ### 來文—註釋
 **note 1**:  the development of formal postal systems may be traced back thousands of years; the earliest documented organized courier service for the dissemination of written dispatches was set up by the pharaohs of Ancient Egypt (ca. 2400 B.C.); the invention of a true postal system organized for delivery of post to citizens is credited to Ancient Persia (6th century B.C.); other credible early postal services are those of Ancient India (Mauryan Empire, 4th century B.C.) and Ancient China (Han Dynasty, 3rd century B.C.)   **note 2**: data centers consist of a dedicated space within a building or a group of buildings used to house computing resources and other components, such as telecommunications and storage systems; the ongoing worldwide boom in data generation is responsible for the mushrooming of data centers; the three largest data center facilities by area as of the first half of 2022 are:  1. the China Telecom data center located in the Inner Mongolia Information Park, Hohhot, China, reportedly covers 1 million sq m (10.7 million sq ft); the largest Internet data center in the world, it has over 50% market share in China, with an extensive network of over 400 data centers located in prime regions in mainland China and overseas markets  2. the China Mobile data center located in the Inner Mongolia Information Park, Hohhot, China, covers 720,000 sq m (7.7 million sq ft); it is one of the world's biggest cloud-computing data centers  3. the Citadel data center owned by US-based Switch, in Reno, Nevada, covers 670,000 sq m (7.2 million sq ft); called the world’s largest technology ecosystem, the facility runs on 100% renewable (solar and wind) energy (2021)
@@ -464,15 +464,15 @@ the whole range of industrial and agricultural goods and services **top ten - sh
 20,316 (2024)
 
 ### 鐵路
-- `total`: 1,148,186 km (2013)
+- `總計`: 1,148,186 km (2013)
 
 ### 水道
 2,293,412 km (2017)
 **top ten longest rivers**:  Nile (Africa) 6,693 km; Amazon (South America) 6,436 km; Mississippi-Missouri (North America) 6,238 km; Yenisey-Angara (Asia) 5,981 km; Ob-Irtysh (Asia) 5,569 km; Yangtze (Asia) 5,525 km; Yellow (Asia) 4,671 km; Amur (Asia) 4,352 km; Lena (Asia) 4,345 km; Congo (Africa) 4,344 km  **note 1**:  rivers are not necessarily navigable along the entire length; if measured by volume, the Amazon is the largest river in the world, responsible for about 20% of the Earth's freshwater entering the ocean  **note 2**:  there are 20 countries without rivers: 3 in Africa (Comoros, Djibouti, Libya); 1 in the Americas (Bahamas); 8 in Asia (Bahrain, Kuwait, Maldives, Oman, Qatar, Saudi Arabia, United Arab Emirates, Yemen); 3 in Europe (Malta, Monaco, Holy See), 5 in Oceania (Kiribati, Marshall Islands, Nauru, Tonga, Tuvalu); these countries also do not have natural lakes  **top ten largest natural lakes (by surface area)**: Caspian Sea (Azerbaijan, Iran, Kazakhstan, Russia, Turkmenistan) 372,960 sq km; Lake Superior (Canada, United States) 82,414 sq km; Lake Victoria (Kenya, Tanzania, Uganda) 69,490 sq km; Lake Huron (Canada, United States) 59,596 sq km; Lake Michigan (United States) 57,441 sq km; Lake Tanganyika (Burundi, Democratic Republic of the Congo, Tanzania, Zambia) 32,890 sq km; Great Bear Lake (Canada) 31,800 sq km; Lake Baikal (Russia) 31,494 sq km; Lake Nyasa (Malawi, Mozambique, Tanzania) 30,044 sq km; Great Slave Lake (Canada) 28,400 sq km  **note 1**:  the areas of the lakes are subject to seasonal variation; only the Caspian Sea is saline, the rest are fresh water  **note 2**:  Lakes Huron and Michigan are technically a single lake because the flow of water between the Straits of Mackinac that connects the two lakes keeps their water levels at near-equilibrium; combined, Lake Huron-Michigan is the largest freshwater lake by surface area in the world  **note 3**: the deepest lake in the world (1,620 m), and also the largest freshwater lake by volume (23,600 cu km), is Lake Baikal in Russia
 
 ### 商船
-- `total`: 103,577 (2023)
-- `by type`: bulk carrier 13,141, container ship 5,815, general cargo 19,918, oil tanker 11,604, other 53,099
+- `總計`: 103,577 (2023)
+- `依類型`: bulk carrier 13,141, container ship 5,815, general cargo 19,918, oil tanker 11,604, other 53,099
 
 ## 軍事和安全
 
@@ -508,7 +508,7 @@ more than 30 countries have existing or planned commercial or government space l
 the UN High Commissioner for Refugees (UNHCR) estimated that as of mid-year 2023 there were 110 million people forcibly displaced worldwide; this includes 62.5 million IDPs, 36.4 million refugees, 6.1 million asylum seekers, 5.3 million others in need of international protection; the UNHCR estimates there are currently more than 4.4 million stateless persons as of year-end 2022 (the true number is estimated to be significantly higher)
 
 ### 人口販運
-- `tier rating`: **  Tier 2 Watch List**:  (32 countries) Algeria, Benin, Burkina Faso, Central African Republic, Chad, Republic of Congo, Curaçao, Dominican Republic, Equatorial Guinea, Fiji, Gabon, Guinea-Bissau, Hong Kong, Kuwait, Kyrgyzstan, Laos, Lebanon, Liberia, Madagascar, Maldives, Mali, Malta, Marshall Islands, Nepal, Niger, Rwanda, Serbia, Solomon Islands, Tajikistan, Uruguay, Vanuatu, Zimbabwe (2024)  **Tier 3**:  (21 countries) Afghanistan, Belarus, Brunei, Burma, Cambodia, People's Republic of China, Cuba, Djibouti, Eritrea, Iran, Democratic People's Republic of Korea, Macau, Nicaragua, Papua New Guinea, Russia, Sint Maarten, South Sudan, Sudan, Syria, Turkmenistan, Venezuela (2024)
+- `會級評分`: **  Tier 2 Watch List**:  (32 countries) Algeria, Benin, Burkina Faso, Central African Republic, Chad, Republic of Congo, Curaçao, Dominican Republic, Equatorial Guinea, Fiji, Gabon, Guinea-Bissau, Hong Kong, Kuwait, Kyrgyzstan, Laos, Lebanon, Liberia, Madagascar, Maldives, Mali, Malta, Marshall Islands, Nepal, Niger, Rwanda, Serbia, Solomon Islands, Tajikistan, Uruguay, Vanuatu, Zimbabwe (2024)  **Tier 3**:  (21 countries) Afghanistan, Belarus, Brunei, Burma, Cambodia, People's Republic of China, Cuba, Djibouti, Eritrea, Iran, Democratic People's Republic of Korea, Macau, Nicaragua, Papua New Guinea, Russia, Sint Maarten, South Sudan, Sudan, Syria, Turkmenistan, Venezuela (2024)
 
 ### 非法藥物
 **cocaine**:  worldwide coca cultivation in 2020 likely amounted to 373,000 hectares, potential pure cocaine production reached 2,100 metric tons in 2020**opiates**:  worldwide illicit opium poppy cultivation probably reached about 265,000 hectares in 2020, with potential opium production reaching 7,300 metric tons; Afghanistan is world's primary opium producer, accounting for 85% of the global supply; Southeast Asia was responsible for 7% of global opium; Latin America opium in 2020 was sufficient to produce about 61 metric tons of pure heroin (2015)

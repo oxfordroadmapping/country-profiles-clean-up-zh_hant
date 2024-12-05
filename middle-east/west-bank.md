@@ -19,17 +19,17 @@ Middle East, west of Jordan, east of Israel
 Middle East
 
 ### 面積
-- `total `: 5,860 sq km
-- `land`: 5,640 sq km
-- `water`: 220 sq km
+- `總計`: 5,860 sq km
+- `土地`: 5,640 sq km
+- `水`: 220 sq km
 **note**:  includes West Bank, Latrun Salient, and the northwest quarter of the Dead Sea, but excludes Mt. Scopus; East Jerusalem and Jerusalem No Man's Land are also included only as a means of depicting the entire area occupied by Israel in 1967
 
 ### 面積—比較
 slightly smaller than Delaware
 
 ### 陸地邊界
-- `total`: 478 km
-- `border countries`: Israel 330 km; Jordan 148 km
+- `總計`: 478 km
+- `邊境國家`: Israel 330 km; Jordan 148 km
 
 ### 海岸線
 0 km (landlocked)
@@ -44,26 +44,26 @@ temperate; temperature and precipitation vary with altitude, warm to hot summers
 mostly rugged, dissected upland in west, flat plains descending to Jordan River Valley to the east
 
 ### 海拔
-- `highest point`: Khallat al Batrakh 1,020 m
-- `lowest point`: Dead Sea -431 m
+- `最高點`: Khallat al Batrakh 1,020 m
+- `最低點`: Dead Sea -431 m
 
 ### 自然資源
 arable land
 
 ### 土地利用
-- `agricultural land`: 43.3% (2018 est.)
-- `agricultural land: arable land`: arable land: 7.4% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 11% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 24.9% (2018 est.)
-- `forest`: 1.5% (2018 est.)
-- `other`: 55.2% (2018 est.)
+- `農地`: 43.3% (2018 est.)
+- `農地：耕地`: arable land: 7.4% (2018 est.)
+- `農地：永久性作物`: permanent crops: 11% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 24.9% (2018 est.)
+- `森林`: 1.5% (2018 est.)
+- `其它`: 55.2% (2018 est.)
 **note**:  includes Gaza Strip
 
 ### 灌溉土地
 (2013) 151 sq km; note - includes Gaza Strip
 
 ### 主要湖泊（按面積平方公里）
-- `salt water lake(s)`: Dead Sea (shared with Jordan and Israel) - 1,020 sq kmnote - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level
+- `鹽水湖`: Dead Sea (shared with Jordan and Israel) - 1,020 sq kmnote - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level
 
 ### 人口分布
 the most populous Palestinian communities in the West Bank are located in the central ridge and western half of its territory; Jewish settlements are located throughout the West Bank, the most populous in the Seam Zone--between the 1949 Armistice Line and the separation barrier--and around Jerusalem
@@ -77,41 +77,41 @@ landlocked; highlands are main recharge area for Israel's coastal aquifers; ther
 ## 人民和社會
 
 ### 人口
-- `total`: 3,243,369
-- `male`: 1,648,450
-- `female`: 1,594,919 (2024 est.)
+- `總計`: 3,243,369
+- `男性`: 1,648,450
+- `女性`: 1,594,919 (2024 est.)
 **note**:  approximately 468,300 Israeli settlers live in the West Bank (2022); approximately 236,600 Israeli settlers live in East Jerusalem (2021)
 
 ### 國籍
-- `noun`: NA
-- `adjective`: NA
+- `名詞`: NA
+- `形容詞`: NA
 
 ### 族裔群體
 Palestinian Arab, Jewish, other
 
 ### 語文
 Arabic, Hebrew (spoken by Israeli settlers and many Palestinians), English (widely understood)
-- `major-language sample(s)`: كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)  The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Muslim 80-85% (predominantly Sunni), Jewish 12-14%, Christian 1-2.5% (mainly Greek Orthodox), other, unaffiliated, unspecified <1% (2012 est.)
 
 ### 年齡結構
-- `0-14 years`: 36.7% (male 609,497/female 579,227)
-- `15-64 years`: 59.5% (male 979,719/female 949,746)
-- `65 years and over`: 3.9% (2024 est.) (male 59,234/female 65,946)
+- `0-14歲`: 36.7% (male 609,497/female 579,227)
+- `15-64歲`: 59.5% (male 979,719/female 949,746)
+- `65歲及以上`: 3.9% (2024 est.) (male 59,234/female 65,946)
 
 ### 撫養比率
-- `total dependency ratio`: 74.3
-- `youth dependency ratio`: 68.2
-- `elderly dependency ratio`: 6.1
-- `potential support ratio`: 16.5 (2021 est.)
+- `總受扶養人比率`: 74.3
+- `少年撫養比率`: 68.2
+- `老人撫養比率`: 6.1
+- `潛在支持率`: 16.5 (2021 est.)
 **note**:  data represent Gaza Strip and the West Bank
 
 ### 年齡中位數
-- `total`: 21.9 years (2024 est.)
-- `male`: 21.6 years
-- `female`: 22.1 years
+- `總計`: 21.9 years (2024 est.)
+- `男性`: 21.6 years
+- `女性`: 22.1 years
 
 ### 人口成長率
 2.07% (2024 est.)
@@ -129,30 +129,30 @@ Muslim 80-85% (predominantly Sunni), Jewish 12-14%, Christian 1-2.5% (mainly Gre
 the most populous Palestinian communities in the West Bank are located in the central ridge and western half of its territory; Jewish settlements are located throughout the West Bank, the most populous in the Seam Zone--between the 1949 Armistice Line and the separation barrier--and around Jerusalem
 
 ### 都市化
-- `urban population`: 77.6% of total population (2023)
-- `rate of urbanization`: 2.85% annual rate of change (2020-25 est.)
+- `城市人口`: 77.6% of total population (2023)
+- `城鎮化率`: 2.85% annual rate of change (2020-25 est.)
 **note**:  data represent Gaza Strip and the West Bank
 
 ### 性別比例
-- `at birth`: 1.06 male(s)/female
-- `0-14 years`: 1.05 male(s)/female
-- `15-64 years`: 1.03 male(s)/female
-- `65 years and over`: 0.9 male(s)/female
-- `total population`: 1.03 male(s)/female (2024 est.)
+- `出生時`: 1.06 male(s)/female
+- `0-14歲`: 1.05 male(s)/female
+- `15-64歲`: 1.03 male(s)/female
+- `65歲及以上`: 0.9 male(s)/female
+- `總人口數`: 1.03 male(s)/female (2024 est.)
 
 ### 產婦死亡率
 20 deaths/100,000 live births (2020 est.)
 **note**:  data represent Gaza Strip and the West Bank
 
 ### 嬰兒死亡率
-- `total`: 15.1 deaths/1,000 live births (2024 est.)
-- `male`: 17.5 deaths/1,000 live births
-- `female`: 12.6 deaths/1,000 live births
+- `總計`: 15.1 deaths/1,000 live births (2024 est.)
+- `男性`: 17.5 deaths/1,000 live births
+- `女性`: 12.6 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 76.5 years (2024 est.)
-- `male`: 74.4 years
-- `female`: 78.8 years
+- `總人口數`: 76.5 years (2024 est.)
+- `男性`: 74.4 years
+- `女性`: 78.8 years
 
 ### 總生育率
 3.49 children born/woman (2024 est.)
@@ -165,12 +165,12 @@ the most populous Palestinian communities in the West Bank are located in the ce
 **note**:  includes Gaza Strip and the West Bank
 
 ### 飲用水來源
-- `improved: urban`: urban: 98.9% of population
-- `improved: rural`: rural: 99% of population
-- `improved: total`: total: 98.9% of population
-- `unimproved: urban`: urban: 1.1% of population
-- `unimproved: rural`: rural: 1% of population
-- `unimproved: total`: total: 1.1% of population (2020 est.)
+- `已改進－城市`: urban: 98.9% of population
+- `已改進－農村`: rural: 99% of population
+- `已改進－總計`: total: 98.9% of population
+- `未改進：都市`: urban: 1.1% of population
+- `未改進：鄉村`: rural: 1% of population
+- `未改善：總計`: total: 1.1% of population (2020 est.)
 **note**:  includes Gaza Strip and the West Bank
 
 ### 當前醫療支出
@@ -183,12 +183,12 @@ NA
 1.3 beds/1,000 population (2019)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 99.9% of population
-- `improved: rural`: rural: 98.6% of population
-- `improved: total`: total: 99.6% of population
-- `unimproved: urban`: urban: 0.1% of population
-- `unimproved: rural`: rural: 1.4% of population
-- `unimproved: total`: total: 0.4% of population (2020 est.)
+- `已改進－城市`: urban: 99.9% of population
+- `已改進－農村`: rural: 98.6% of population
+- `已改進－總計`: total: 99.6% of population
+- `未改進：都市`: urban: 0.1% of population
+- `未改進：鄉村`: rural: 1.4% of population
+- `未改善：總計`: total: 0.4% of population (2020 est.)
 **note**:  note includes Gaza Strip and the West Bank
 
 ### 5歲以下體重不足兒童
@@ -200,8 +200,8 @@ NA
 **note**:  data includes Gaza and the West Bank
 
 ### 童婚
-- `women married by age 15`: 0.7%
-- `women married by age 18`: 13.4% (2020 est.)
+- `15歲前結婚的女性`: 0.7%
+- `18歲前結婚的女性`: 13.4% (2020 est.)
 **note**:  includes both the Gaza Strip and the West Bank
 
 ### 教育支出
@@ -209,16 +209,16 @@ NA
 **note**:  includes Gaza Strip and the West Bank
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 97.5%
-- `male`: 98.8%
-- `female`: 96.2% (2020)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 97.5%
+- `男性`: 98.8%
+- `女性`: 96.2% (2020)
 **note**:  estimates are for Gaza and the West Bank
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 13 years
-- `male`: 12 years
-- `female`: 14 years (2021)
+- `總計`: 13 years
+- `男性`: 12 years
+- `女性`: 14 years (2021)
 **note**:  data represent Gaza Strip and the West Bank
 
 ## 環境
@@ -230,40 +230,40 @@ adequacy of freshwater supply; sewage treatment
 temperate; temperature and precipitation vary with altitude, warm to hot summers, cool to mild winters
 
 ### 土地利用
-- `agricultural land`: 43.3% (2018 est.)
-- `agricultural land: arable land`: arable land: 7.4% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 11% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 24.9% (2018 est.)
-- `forest`: 1.5% (2018 est.)
-- `other`: 55.2% (2018 est.)
+- `農地`: 43.3% (2018 est.)
+- `農地：耕地`: arable land: 7.4% (2018 est.)
+- `農地：永久性作物`: permanent crops: 11% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 24.9% (2018 est.)
+- `森林`: 1.5% (2018 est.)
+- `其它`: 55.2% (2018 est.)
 **note**:  includes Gaza Strip
 
 ### 都市化
-- `urban population`: 77.6% of total population (2023)
-- `rate of urbanization`: 2.85% annual rate of change (2020-25 est.)
+- `城市人口`: 77.6% of total population (2023)
+- `城鎮化率`: 2.85% annual rate of change (2020-25 est.)
 **note**:  data represent Gaza Strip and the West Bank
 
 ### 森林資源收入
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 30.82 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 3.23 megatons (2016 est.)
+- `顆粒物排放量`: 30.82 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 3.23 megatons (2016 est.)
 **note**:  data represent combined total from the Gaza Strip and the West Bank.
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 1.387 million tons (2016 est.)
-- `municipal solid waste recycled annually`: 6,935 tons (2013 est.)
-- `percent of municipal solid waste recycled`: 0.5% (2013 est.)
+- `城市固體廢棄物－每年產生`: 1.387 million tons (2016 est.)
+- `城市固體廢棄物－每年回收`: 6,935 tons (2013 est.)
+- `城市固體廢棄物－回收百分比`: 0.5% (2013 est.)
 **note**:  data represent combined total from the Gaza Strip and the West Bank.
 
 ### 主要湖泊（按面積平方公里）
-- `salt water lake(s)`: Dead Sea (shared with Jordan and Israel) - 1,020 sq kmnote - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level
+- `鹽水湖`: Dead Sea (shared with Jordan and Israel) - 1,020 sq kmnote - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level
 
 ### 總取水量
-- `municipal`: 200 million cubic meters (2020 est.)
-- `industrial`: 30 million cubic meters (2020 est.)
-- `agricultural`: 220 million cubic meters (2020 est.)
+- `市級`: 200 million cubic meters (2020 est.)
+- `工業`: 30 million cubic meters (2020 est.)
+- `農業`: 220 million cubic meters (2020 est.)
 **note**:  data represent combined total from the Gaza Strip and the West Bank.
 
 ### 可再生水資源總量
@@ -273,9 +273,9 @@ temperate; temperature and precipitation vary with altitude, warm to hot summers
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: West Bank
-- `etymology`: name refers to the location of the region of the British Mandate of Palestine that was occupied and administered by Jordan in 1948, as it is located on the far side (west bank) of the Jordan River in relation to Jordan proper; the designation was retained following the 1967 Six-Day War and the subsequent changes in administration
+- `常用長名`: none
+- `常用短名`: West Bank
+- `语源学`: name refers to the location of the region of the British Mandate of Palestine that was occupied and administered by Jordan in 1948, as it is located on the far side (west bank) of the Jordan River in relation to Jordan proper; the designation was retained following the 1967 Six-Day War and the subsequent changes in administration
 
 ### 國家級遺產
 - `total World Heritage Sites`: 4 (all cultural)
@@ -312,18 +312,18 @@ $17.396 billion (2023 est.)
 **note**: annual % change based on consumer prices; entry includes West Bank and Gaza Strip
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 5.7% (2022 est.)
-- `industry`: 17.4% (2022 est.)
-- `services`: 58.3% (2022 est.)
+- `農業`: 5.7% (2022 est.)
+- `產業`: 17.4% (2022 est.)
+- `服務`: 58.3% (2022 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 101.6% (2023 est.)
-- `government consumption`: 20.2% (2023 est.)
-- `investment in fixed capital`: 24.8% (2023 est.)
-- `investment in inventories`: 1.5% (2023 est.)
-- `exports of goods and services`: 19.6% (2023 est.)
-- `imports of goods and services`: -66.9% (2023 est.)
+- `家庭消費`: 101.6% (2023 est.)
+- `政府消費`: 20.2% (2023 est.)
+- `固定資本投資`: 24.8% (2023 est.)
+- `存貨投資`: 1.5% (2023 est.)
+- `商品和服務出口`: 19.6% (2023 est.)
+- `商品和服務進口`: -66.9% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -347,9 +347,9 @@ small-scale manufacturing, quarrying, textiles, soap, olive-wood carvings, and m
 **note**: % of labor force seeking employment; entry includes West Bank and Gaza Strip
 
 ### 青年失業率（15-24歲）
-- `total`: 36% (2022 est.)
-- `male`: 31.6% (2022 est.)
-- `female`: 56.7% (2022 est.)
+- `總計`: 36% (2022 est.)
+- `男性`: 31.6% (2022 est.)
+- `女性`: 56.7% (2022 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -361,8 +361,8 @@ small-scale manufacturing, quarrying, textiles, soap, olive-wood carvings, and m
 **note**: index (0-100) of income distribution; higher values represent greater inequality; entry includes West Bank and Gaza Strip
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 2.9% (2016 est.)
-- `highest 10%`: 25.2% (2016 est.)
+- `最低10%`: 2.9% (2016 est.)
+- `最高10%`: 25.2% (2016 est.)
 **note**: % share of income accruing to lowest and highest 10% of population; entry includes West Bank and Gaza Strip
 
 ### 匯款
@@ -372,8 +372,8 @@ small-scale manufacturing, quarrying, textiles, soap, olive-wood carvings, and m
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities; entry includes West Bank and Gaza Strip
 
 ### 預算
-- `revenues`: $3.803 billion (2020 est.)
-- `expenditures`: $5.002 billion (2020 est.)
+- `收入`: $3.803 billion (2020 est.)
+- `支出`: $5.002 billion (2020 est.)
 **note**:  includes Palestinian Authority expenditures in the Gaza Strip
 
 ### 公共債務
@@ -434,32 +434,32 @@ $872.541 million (2021 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 **note**:  includes the West Bank and the Gaza Strip
 
 ### 電力
-- `installed generating capacity`: 352,000 kW (2022 est.)
-- `consumption`: 6.746 billion kWh (2022 est.)
-- `imports`: 6.7 billion kWh (2022 est.)
-- `transmission/distribution losses`: 880.312 million kWh (2022 est.)
+- `裝機容量`: 352,000 kW (2022 est.)
+- `消費`: 6.746 billion kWh (2022 est.)
+- `進口`: 6.7 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 880.312 million kWh (2022 est.)
 **note**:  includes the West Bank and the Gaza Strip
 
 ### 發電來源
-- `fossil fuels`: 77.5% of total installed capacity (2022 est.)
-- `solar`: 22.4% of total installed capacity (2022 est.)
+- `石化燃料`: 77.5% of total installed capacity (2022 est.)
+- `太陽能`: 22.4% of total installed capacity (2022 est.)
 **note**:  includes the West Bank and the Gaza Strip
 
 ### 煤炭
-- `exports`: (2022 est.) less than 1 metric ton
+- `出口`: (2022 est.) less than 1 metric ton
 **note**:  includes the West Bank and the Gaza Strip
 
 ### 石油
-- `refined petroleum consumption`: 29,000 bbl/day (2022 est.)
+- `成品油消費量`: 29,000 bbl/day (2022 est.)
 **note**:  includes the West Bank and the Gaza Strip
 
 ### 二氧化碳排放量
-- `total emissions`: 3.942 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 3.942 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 3.942 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 3.942 million metric tonnes of CO2 (2022 est.)
 **note**:  includes the West Bank and the Gaza Strip
 
 ### 人均能源消耗
@@ -469,19 +469,19 @@ $872.541 million (2021 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 458,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 9 (2021 est.)
+- `總訂閱數`: 458,000 (2022 est.)
+- `每100名居民訂閱數`: 9 (2021 est.)
 **note**: entry includes the West Bank and the Gaza Strip
 
 ### 電話—移動電話
-- `total subscriptions`: 4.388 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 78 (2021 est.)
+- `總訂閱數`: 4.388 million (2022 est.)
+- `每100名居民訂閱數`: 78 (2021 est.)
 **note**: entry includes the West Bank and the Gaza Strip
 
 ### 電信系統
-- `general assessment`: most telecommunications companies in the West Bank and Gaza import directly from international vendors; the major challenge they face are Israeli restrictions on telecommunication imports that are listed as “Dual Use” products; during a visit to the West Bank in July 2022, U.S. President Joe Biden announced that Israeli and Palestinian teams will work together to roll out an advanced infrastructure for 4G; currently, only 2G service is available in Gaza (2024)
-- `domestic`: fixed-line 9 per 100 and mobile-cellular subscriptions 78 per 100 (includes Gaza Strip) (2021)
-- `international`: country code 970 or 972; 1 international switch in Ramallah
+- `總體評估`: most telecommunications companies in the West Bank and Gaza import directly from international vendors; the major challenge they face are Israeli restrictions on telecommunication imports that are listed as “Dual Use” products; during a visit to the West Bank in July 2022, U.S. President Joe Biden announced that Israeli and Palestinian teams will work together to roll out an advanced infrastructure for 4G; currently, only 2G service is available in Gaza (2024)
+- `國內`: fixed-line 9 per 100 and mobile-cellular subscriptions 78 per 100 (includes Gaza Strip) (2021)
+- `國際的`: country code 970 or 972; 1 international switch in Ramallah
 
 ### 廣播媒體
 the Palestinian Authority operates 1 TV and 1 radio station; about 20 private TV and 40 radio stations; both Jordanian TV and satellite TV are accessible
@@ -490,13 +490,13 @@ the Palestinian Authority operates 1 TV and 1 radio station; about 20 private TV
 .ps; note - IANA has designated .ps for the West Bank, same as Gaza Strip
 
 ### 網際網路使用者
-- `total`: 3,938,199 (2021 est.)
-- `percent of population`: 80% (2021 est.)
+- `總計`: 3,938,199 (2021 est.)
+- `佔人口比例`: 80% (2021 est.)
 **note**:  includes the Gaza Strip
 
 ### 寬頻網路—固定訂閱
-- `total`: 373,050 (2020 est.)
-- `subscriptions per 100 inhabitants`: 7 (2020 est.)
+- `總計`: 373,050 (2020 est.)
+- `每100名居民訂閱數`: 7 (2020 est.)
 **note**:  includes the Gaza Strip
 
 ## 交通運輸
@@ -508,8 +508,8 @@ the Palestinian Authority operates 1 TV and 1 radio station; about 20 private TV
 2 (2024)
 
 ### 道路
-- `total`: 4,686 km (2010)
-- `paved`: 4,686 km (2010)
+- `總計`: 4,686 km (2010)
+- `已鋪砌`: 4,686 km (2010)
 **note**:  includes Gaza Strip
 
 ## 軍事和安全
@@ -539,6 +539,6 @@ Al-Aqsa Martyrs Brigade; HAMAS; Kahane Chai; Palestine Islamic Jihad; Palestine 
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 901,000 (Palestinian refugees) (2022)
+- `難民（原籍國）`: 901,000 (Palestinian refugees) (2022)
 - `IDPs`: 12,000 (includes persons displaced within the Gaza strip due to the intensification of the Israeli-Palestinian conflict since June 2014 and other Palestinian IDPs in the Gaza Strip and West Bank who fled as long ago as 1967, although confirmed cumulative data do not go back beyond 2006) (2022); note - data represent Gaza Strip and West Bank
 

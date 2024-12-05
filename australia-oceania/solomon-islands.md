@@ -19,23 +19,23 @@ Oceania, group of islands in the South Pacific Ocean, east of Papua New Guinea
 Oceania
 
 ### 面積
-- `total `: 28,896 sq km
-- `land`: 27,986 sq km
-- `water`: 910 sq km
+- `總計`: 28,896 sq km
+- `土地`: 27,986 sq km
+- `水`: 910 sq km
 
 ### 面積—比較
 slightly smaller than Maryland
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 5,313 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: 200 nm
+- `領海`: 12 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: 200 nm
 measured from claimed archipelagic baselines
 
 ### 氣候
@@ -45,19 +45,19 @@ tropical monsoon; few temperature and weather extremes
 mostly rugged mountains with some low coral atolls
 
 ### 海拔
-- `highest point`: Mount Popomanaseu 2,335 m
-- `lowest point`: Pacific Ocean 0 m
+- `最高點`: Mount Popomanaseu 2,335 m
+- `最低點`: Pacific Ocean 0 m
 
 ### 自然資源
 fish, forests, gold, bauxite, phosphates, lead, zinc, nickel
 
 ### 土地利用
-- `agricultural land`: 3.9% (2018 est.)
-- `agricultural land: arable land`: arable land: 0.7% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 2.9% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0.3% (2018 est.)
-- `forest`: 78.9% (2018 est.)
-- `other`: 17.2% (2018 est.)
+- `農地`: 3.9% (2018 est.)
+- `農地：耕地`: arable land: 0.7% (2018 est.)
+- `農地：永久性作物`: permanent crops: 2.9% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0.3% (2018 est.)
+- `森林`: 78.9% (2018 est.)
+- `其它`: 17.2% (2018 est.)
 
 ### 灌溉土地
 0 sq km (2022)
@@ -74,13 +74,13 @@ strategic location on sea routes between the South Pacific Ocean, the Solomon Se
 ## 人民和社會
 
 ### 人口
-- `total`: 726,799
-- `male`: 370,970
-- `female`: 355,829 (2024 est.)
+- `總計`: 726,799
+- `男性`: 370,970
+- `女性`: 355,829 (2024 est.)
 
 ### 國籍
-- `noun`: Solomon Islander(s)
-- `adjective`: Solomon Islander
+- `名詞`: Solomon Islander(s)
+- `形容詞`: Solomon Islander
 
 ### 族裔群體
 Melanesian 95.3%, Polynesian 3.1%, Micronesian 1.2%, other 0.3% (2009 est.)
@@ -92,20 +92,20 @@ Melanesian pidgin (lingua franca in much of the country), English (official but 
 Protestant 73.4% (Church of Melanesia 31.9%, South Sea Evangelical 17.1%, Seventh Day Adventist 11.7%, United Church 10.1%, Christian Fellowship Church 2.5%), Roman Catholic 19.6%, other Christian 2.9%, other 4%, unspecified 0.1% (2009 est.)
 
 ### 年齡結構
-- `0-14 years`: 30.6% (male 114,246/female 108,020)
-- `15-64 years`: 64.2% (male 238,708/female 227,636)
-- `65 years and over`: 5.3% (2024 est.) (male 18,016/female 20,173)
+- `0-14歲`: 30.6% (male 114,246/female 108,020)
+- `15-64歲`: 64.2% (male 238,708/female 227,636)
+- `65歲及以上`: 5.3% (2024 est.) (male 18,016/female 20,173)
 
 ### 撫養比率
-- `total dependency ratio`: 74.8
-- `youth dependency ratio`: 68.8
-- `elderly dependency ratio`: 6
-- `potential support ratio`: 16.5 (2021 est.)
+- `總受扶養人比率`: 74.8
+- `少年撫養比率`: 68.8
+- `老人撫養比率`: 6
+- `潛在支持率`: 16.5 (2021 est.)
 
 ### 年齡中位數
-- `total`: 25.2 years (2024 est.)
-- `male`: 25 years
-- `female`: 25.4 years
+- `總計`: 25.2 years (2024 est.)
+- `男性`: 25 years
+- `女性`: 25.4 years
 
 ### 人口成長率
 1.65% (2024 est.)
@@ -123,18 +123,18 @@ Protestant 73.4% (Church of Melanesia 31.9%, South Sea Evangelical 17.1%, Sevent
 most of the population lives along the coastal regions; about one in five live in urban areas, and of these some two-thirds reside in Honiara, the largest town and chief port
 
 ### 都市化
-- `urban population`: 26% of total population (2023)
-- `rate of urbanization`: 3.57% annual rate of change (2020-25 est.)
+- `城市人口`: 26% of total population (2023)
+- `城鎮化率`: 3.57% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 82,000 HONIARA (capital) (2018)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.06 male(s)/female
-- `15-64 years`: 1.05 male(s)/female
-- `65 years and over`: 0.89 male(s)/female
-- `total population`: 1.04 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.06 male(s)/female
+- `15-64歲`: 1.05 male(s)/female
+- `65歲及以上`: 0.89 male(s)/female
+- `總人口數`: 1.04 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 22.6 years (2015 est.)
@@ -144,14 +144,14 @@ most of the population lives along the coastal regions; about one in five live i
 122 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 19.1 deaths/1,000 live births (2024 est.)
-- `male`: 22.7 deaths/1,000 live births
-- `female`: 15.2 deaths/1,000 live births
+- `總計`: 19.1 deaths/1,000 live births (2024 est.)
+- `男性`: 22.7 deaths/1,000 live births
+- `女性`: 15.2 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 77.2 years (2024 est.)
-- `male`: 74.6 years
-- `female`: 80 years
+- `總人口數`: 77.2 years (2024 est.)
+- `男性`: 74.6 years
+- `女性`: 80 years
 
 ### 總生育率
 2.77 children born/woman (2024 est.)
@@ -163,12 +163,12 @@ most of the population lives along the coastal regions; about one in five live i
 29.3% (2015)
 
 ### 飲用水來源
-- `improved: urban`: urban: 95% of population
-- `improved: rural`: rural: 65.9% of population
-- `improved: total`: total: 73.1% of population
-- `unimproved: urban`: urban: 5% of population
-- `unimproved: rural`: rural: 34.1% of population
-- `unimproved: total`: total: 26.9% of population (2020 est.)
+- `已改進－城市`: urban: 95% of population
+- `已改進－農村`: rural: 65.9% of population
+- `已改進－總計`: total: 73.1% of population
+- `未改進：都市`: urban: 5% of population
+- `未改進：鄉村`: rural: 34.1% of population
+- `未改善：總計`: total: 26.9% of population (2020 est.)
 
 ### 當前醫療支出
 4.4% of GDP (2020)
@@ -180,27 +180,27 @@ most of the population lives along the coastal regions; about one in five live i
 1.4 beds/1,000 population (2012)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 95.6% of population
-- `improved: rural`: rural: 22.6% of population
-- `improved: total`: total: 40.6% of population
-- `unimproved: urban`: urban: 4.4% of population
-- `unimproved: rural`: rural: 77.4% of population
-- `unimproved: total`: total: 59.4% of population (2020 est.)
+- `已改進－城市`: urban: 95.6% of population
+- `已改進－農村`: rural: 22.6% of population
+- `已改進－總計`: total: 40.6% of population
+- `未改進：都市`: urban: 4.4% of population
+- `未改進：鄉村`: rural: 77.4% of population
+- `未改善：總計`: total: 59.4% of population (2020 est.)
 
 ### 肥胖—成人流行率
 22.5% (2016)
 
 ### 人均酒精消費量
-- `total`: 1.19 liters of pure alcohol (2019 est.)
-- `beer`: 1.1 liters of pure alcohol (2019 est.)
-- `wine`: 0.06 liters of pure alcohol (2019 est.)
-- `spirits`: 0.02 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 1.19 liters of pure alcohol (2019 est.)
+- `啤酒`: 1.1 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.06 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.02 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 36.5% (2020 est.)
-- `male`: 53.8% (2020 est.)
-- `female`: 19.2% (2020 est.)
+- `總計`: 36.5% (2020 est.)
+- `男性`: 53.8% (2020 est.)
+- `女性`: 19.2% (2020 est.)
 
 ### 5歲以下體重不足兒童
 16.2% (2015)
@@ -212,9 +212,9 @@ most of the population lives along the coastal regions; about one in five live i
 12.8% of GDP (2020 est.)
 
 ### 識字程度
-- `total population`: NA
-- `male`: NA
-- `female`: NA
+- `總人口數`: NA
+- `男性`: NA
+- `女性`: NA
 
 ## 環境
 
@@ -222,23 +222,23 @@ most of the population lives along the coastal regions; about one in five live i
 deforestation; soil erosion; many of the surrounding coral reefs are dead or dying, exhibiting the effects of climate change and rising sea levels
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Whaling
-- `signed, but not ratified`: Comprehensive Nuclear Test Ban
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Whaling
+- `已簽署但未批準`: Comprehensive Nuclear Test Ban
 
 ### 氣候
 tropical monsoon; few temperature and weather extremes
 
 ### 土地利用
-- `agricultural land`: 3.9% (2018 est.)
-- `agricultural land: arable land`: arable land: 0.7% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 2.9% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0.3% (2018 est.)
-- `forest`: 78.9% (2018 est.)
-- `other`: 17.2% (2018 est.)
+- `農地`: 3.9% (2018 est.)
+- `農地：耕地`: arable land: 0.7% (2018 est.)
+- `農地：永久性作物`: permanent crops: 2.9% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0.3% (2018 est.)
+- `森林`: 78.9% (2018 est.)
+- `其它`: 17.2% (2018 est.)
 
 ### 都市化
-- `urban population`: 26% of total population (2023)
-- `rate of urbanization`: 3.57% annual rate of change (2020-25 est.)
+- `城市人口`: 26% of total population (2023)
+- `城鎮化率`: 3.57% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 20.27% of GDP (2018 est.)
@@ -247,12 +247,12 @@ tropical monsoon; few temperature and weather extremes
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 7.83 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 0.17 megatons (2016 est.)
-- `methane emissions`: 0.43 megatons (2020 est.)
+- `顆粒物排放量`: 7.83 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 0.17 megatons (2016 est.)
+- `甲烷排放量`: 0.43 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 179,972 tons (2013 est.)
+- `城市固體廢棄物－每年產生`: 179,972 tons (2013 est.)
 
 ### 可再生水資源總量
 44.7 billion cubic meters (2020 est.)
@@ -260,21 +260,21 @@ tropical monsoon; few temperature and weather extremes
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Solomon Islands
-- `local long form`: none
-- `local short form`: Solomon Islands
-- `former`: British Solomon Islands
-- `etymology`: Spanish explorer Alvaro de MENDANA named the isles in 1568 after the wealthy biblical King SOLOMON in the mistaken belief that the islands contained great riches
+- `常用長名`: none
+- `常用短名`: Solomon Islands
+- `當地語長名`: none
+- `當地語短名`: Solomon Islands
+- `前任`: British Solomon Islands
+- `语源学`: Spanish explorer Alvaro de MENDANA named the isles in 1568 after the wealthy biblical King SOLOMON in the mistaken belief that the islands contained great riches
 
 ### 政府類型
 parliamentary democracy under a constitutional monarchy; a Commonwealth realm
 
 ### 首都
-- `name`: Honiara
-- `geographic coordinates`: 9 26 S, 159 57 E
-- `time difference`: UTC+11 (16 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: the name derives from "nagho ni ara," which in one of the Guadalcanal languages roughly translates as "facing the eastern wind"
+- `名稱`: Honiara
+- `地理坐標`: 9 26 S, 159 57 E
+- `時差`: UTC+11 (16 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: the name derives from "nagho ni ara," which in one of the Guadalcanal languages roughly translates as "facing the eastern wind"
 
 ### 行政區劃
 9 provinces and 1 city*; Central, Choiseul, Guadalcanal, Honiara*, Isabel, Makira and Ulawa, Malaita, Rennell and Bellona, Temotu, Western
@@ -289,36 +289,36 @@ Independence Day, 7 July (1978)
 mixed legal system of English common law and customary law
 
 ### 憲法
-- `history`: adopted 31 May 1978, effective 7 July 1978; note - in late 2017, provincial leaders agreed to adopt a new federal constitution; progress has been stalled, but as of February 2023, the draft constitution was with the Constitutional Review Unit in the prime minister's office 
-- `amendments`: proposed by the National Parliament; passage of constitutional sections, including those on fundamental rights and freedoms, the legal system, Parliament, alteration of the constitution and the ombudsman, requires three-fourths majority vote by Parliament and assent of the governor general; passage of other amendments requires two-thirds majority vote and assent of the governor general; amended several times, last in 2018
+- `歷史`: adopted 31 May 1978, effective 7 July 1978; note - in late 2017, provincial leaders agreed to adopt a new federal constitution; progress has been stalled, but as of February 2023, the draft constitution was with the Constitutional Review Unit in the prime minister's office 
+- `修正`: proposed by the National Parliament; passage of constitutional sections, including those on fundamental rights and freedoms, the legal system, Parliament, alteration of the constitution and the ombudsman, requires three-fourths majority vote by Parliament and assent of the governor general; passage of other amendments requires two-thirds majority vote and assent of the governor general; amended several times, last in 2018
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of the Solomon Islands
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 7 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of the Solomon Islands
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 7 years
 
 ### 選舉權
 21 years of age; universal
 
 ### 行政部門
-- `chief of state`: King CHARLES III (since 8 September 2022); represented by Governor General David Tiva KAPU (since 7 July 2024)
-- `head of government`: Prime Minister Jeremiah MANELE (since 2 May 2024)
-- `cabinet`: Cabinet appointed by the governor general on the advice of the prime minister
-- `elections/appointments`: the monarchy is hereditary; governor general appointed by the monarch on the advice of the National Parliament for up to 5 years (eligible for a second term); following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by the National Parliament; deputy prime minister appointed by the governor general on the advice of the prime minister from among members of the National Parliament
+- `國家元首`: King CHARLES III (since 8 September 2022); represented by Governor General David Tiva KAPU (since 7 July 2024)
+- `政府首腦`: Prime Minister Jeremiah MANELE (since 2 May 2024)
+- `内閣`: Cabinet appointed by the governor general on the advice of the prime minister
+- `選舉/任命`: the monarchy is hereditary; governor general appointed by the monarch on the advice of the National Parliament for up to 5 years (eligible for a second term); following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by the National Parliament; deputy prime minister appointed by the governor general on the advice of the prime minister from among members of the National Parliament
 
 ### 立法部門
-- `description`: unicameral National Parliament (50 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)
-- `elections`: last held on 17 April 2024 (next to be held in 2028)
-- `election results`: percent of vote by party - OUR: 24.1%, independent 21.9%, SIDP 19.3%, SIUP 13.5%, KAD 4.5%, SIPRA 4.5%, PFP 3.2%, U4C 3.0%, DAP 1.6%, others 4.0%; seats by party - OUR Party 15, SIDP 8, SIUP 6, DAP 4, KAD 1, SIPRA 1, PFP 3, U4C 1, independents 11; composition - men 46, women 4, percentage women 8%
+- `描述`: unicameral National Parliament (50 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)
+- `選舉`: last held on 17 April 2024 (next to be held in 2028)
+- `選舉結果`: percent of vote by party - OUR: 24.1%, independent 21.9%, SIDP 19.3%, SIUP 13.5%, KAD 4.5%, SIPRA 4.5%, PFP 3.2%, U4C 3.0%, DAP 1.6%, others 4.0%; seats by party - OUR Party 15, SIDP 8, SIUP 6, DAP 4, KAD 1, SIPRA 1, PFP 3, U4C 1, independents 11; composition - men 46, women 4, percentage women 8%
 
 ### 司法部門
-- `highest court(s)`: Court of Appeal (consists of the court president and ex officio members including the High Court chief justice and its puisne judges); High Court (consists of the chief justice and puisne judges, as prescribed by the National Parliament)
-- `judge selection and term of office`: Court of Appeal and High Court president, chief justices, and puisne judges appointed by the governor general upon recommendation of the Judicial and Legal Service Commission, chaired by the chief justice and includes 5 members, mostly judicial officials and legal professionals; all judges serve until retirement at age 60
-- `subordinate courts`: Magistrates' Courts; Customary Land Appeal Court; local courts
+- `最高法院`: Court of Appeal (consists of the court president and ex officio members including the High Court chief justice and its puisne judges); High Court (consists of the chief justice and puisne judges, as prescribed by the National Parliament)
+- `法官遴選和任期`: Court of Appeal and High Court president, chief justices, and puisne judges appointed by the governor general upon recommendation of the Judicial and Legal Service Commission, chaired by the chief justice and includes 5 members, mostly judicial officials and legal professionals; all judges serve until retirement at age 60
+- `下級法院`: Magistrates' Courts; Customary Land Appeal Court; local courts
 
 ### 政黨
 Democratic Alliance Party or DAP Kadere Party of Solomon Islands or KAD Ownership, Unity, and Responsibility Party (OUR Party) People First Party or PFP Solomon Islands Democratic Party or SIDP Solomon Islands Party for Rural Advancement or SIPRA Solomon Islands United Party or SIUP United for Change Party or U4C  Coalition for Accountability Reform and Empowerment (CARE) is comprised of DAP, SIDP, and U4C
@@ -328,16 +328,16 @@ Democratic Alliance Party or DAP Kadere Party of Solomon Islands or KAD Owners
 ACP, ADB, AOSIS, C, EITI (candidate country), ESCAP, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IOC, ITU, MIGA, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UPU, WFTU, WHO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Jane Mugafalu Kabui WAETARA (since 16 September 2022); note - also Permanent Representative to the UN
-- `chancery`: 685 Third Avenue, 11th Floor, Suite 1102, New York, NY 10017
-- `telephone`: [1] (212) 599-6192
+- `外交代表負責人`: Ambassador Jane Mugafalu Kabui WAETARA (since 16 September 2022); note - also Permanent Representative to the UN
+- `衡平法院（在美國）`: 685 Third Avenue, 11th Floor, Suite 1102, New York, NY 10017
+- `電話號碼`: [1] (212) 599-6192
 - `FAX`: [1] (212) 661-8925
-- `email address and website`: simun@solomons.com
+- `電子郵件地址和網站`: simun@solomons.com
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Ann Marie YASTISHOCK (since 14 March 2024); note - also accredited to the Papua New Guinea and Vanuatu, based in Port Moresby, Papua New Guinea
-- `embassy`: BJS BuildingCommonwealth AvenueHoniara, Solomon Islands
-- `telephone`: [677] 23426
+- `外交代表負責人`: Ambassador Ann Marie YASTISHOCK (since 14 March 2024); note - also accredited to the Papua New Guinea and Vanuatu, based in Port Moresby, Papua New Guinea
+- `大使館`: BJS BuildingCommonwealth AvenueHoniara, Solomon Islands
+- `電話號碼`: [677] 23426
 - `FAX`: [677] 27429
 
 ### 旗幟說明
@@ -347,8 +347,8 @@ divided diagonally by a thin yellow stripe from the lower hoist-side corner; the
 national colors: blue, yellow, green, white
 
 ### 國歌
-- `name`: "God Save Our Solomon Islands"
-- `lyrics/music`: Panapasa BALEKANA and Matila BALEKANA/Panapasa BALEKANA
+- `名稱`: "God Save Our Solomon Islands"
+- `歌詞／音樂`: Panapasa BALEKANA and Matila BALEKANA/Panapasa BALEKANA
 **note**:  adopted 1978
 
 ### 國家級遺產
@@ -393,18 +393,18 @@ $1.631 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 33.8% (2022 est.)
-- `industry`: 18.7% (2022 est.)
-- `services`: 47.3% (2022 est.)
+- `農業`: 33.8% (2022 est.)
+- `產業`: 18.7% (2022 est.)
+- `服務`: 47.3% (2022 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 61.7% (2022 est.)
-- `government consumption`: 29.2% (2022 est.)
-- `investment in fixed capital`: 24.4% (2022 est.)
-- `investment in inventories`: -1% (2022 est.) NA
-- `exports of goods and services`: 26.3% (2022 est.)
-- `imports of goods and services`: -51.7% (2022 est.)
+- `家庭消費`: 61.7% (2022 est.)
+- `政府消費`: 29.2% (2022 est.)
+- `固定資本投資`: 24.4% (2022 est.)
+- `存貨投資`: -1% (2022 est.) NA
+- `商品和服務出口`: 26.3% (2022 est.)
+- `商品和服務進口`: -51.7% (2022 est.)
 **note**:  figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -429,9 +429,9 @@ fish (tuna), mining, timber
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 3% (2023 est.)
-- `male`: 2.6% (2023 est.)
-- `female`: 3.5% (2023 est.)
+- `總計`: 3% (2023 est.)
+- `男性`: 2.6% (2023 est.)
+- `女性`: 3.5% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 匯款
@@ -441,8 +441,8 @@ fish (tuna), mining, timber
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $436.2 million (2022 est.)
-- `expenditures`: $423.726 million (2022 est.)
+- `收入`: $436.2 million (2022 est.)
+- `支出`: $423.726 million (2022 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -508,26 +508,26 @@ $117.742 million (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 76% (2022 est.)
-- `electrification - urban areas`: 79%
-- `electrification - rural areas`: 75.4%
+- `電氣化－總人口`: 76% (2022 est.)
+- `電氣化－城市地區`: 79%
+- `電氣化－農村地區`: 75.4%
 
 ### 電力
-- `installed generating capacity`: 37,000 kW (2022 est.)
-- `consumption`: 89.565 million kWh (2022 est.)
-- `transmission/distribution losses`: 19.55 million kWh (2022 est.)
+- `裝機容量`: 37,000 kW (2022 est.)
+- `消費`: 89.565 million kWh (2022 est.)
+- `傳輸／分配損耗`: 19.55 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 93.8% of total installed capacity (2022 est.)
-- `solar`: 2.7% of total installed capacity (2022 est.)
-- `biomass and waste`: 3.5% of total installed capacity (2022 est.)
+- `石化燃料`: 93.8% of total installed capacity (2022 est.)
+- `太陽能`: 2.7% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 3.5% of total installed capacity (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 2,000 bbl/day (2022 est.)
+- `成品油消費量`: 2,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 322,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 322,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 322,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 322,000 metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 6.172 million Btu/person (2022 est.)
@@ -535,17 +535,17 @@ $117.742 million (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 7,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: (2021 est.) less than 1
+- `總訂閱數`: 7,000 (2021 est.)
+- `每100名居民訂閱數`: (2021 est.) less than 1
 
 ### 電話—移動電話
-- `total subscriptions`: 474,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 67 (2021 est.)
+- `總訂閱數`: 474,000 (2021 est.)
+- `每100名居民訂閱數`: 67 (2021 est.)
 
 ### 電信系統
-- `general assessment`: mobile services have continually expanded in the Solomon Islands; 3G services became available in 2010, leading to an increase in mobile broadband uptake; Solomon Islands currently host three ISPs; fixed broadband services are largely limited to government, corporations, and educational organizations in the Solomon Islands; telecommunication infrastructure in the Solomon Islands requires significant investment due to the geographical make-up of the islands; this presents a great challenge to rural connectivity in the country; although various international organizations such as the World Bank and the Asian Development Bank have taken a special interest in having communication services improved in both the Solomon Islands and the Pacific region in general, internet and broadband penetration remain low; the provision of broadband infrastructure, particularly to rural areas, is also hindered by land disputes; internet services have, improved with the build-out of the Coral Sea Cable System linking Papua New Guinea to the Solomon Islands, as also with a connecting cable to a landing station at Sydney; the Australian government provided most of the funding for the Coral Sea Cable System, with contributions and support from the Solomon Islands and Papua New Guinea governments; the launch of the Kacific-1 satellite in late 2019 also improved broadband satellite capacity for the region, though for telcos in Solomon Islands satellite services are now largely used as backup for international traffic; in recent years, the country has stabilized both politically and economically and this, along with improvements to mobile infrastructure, has led to a rise in mobile services and the slow uptake of broadband services; while the first LTE services were launched in late 2017 in the capital Honiara, the main platform for mobile voice and data services remains 3G, while in outlying areas GSM is still an important technology for the provision of services (2022)
-- `domestic`: fixed-line is less than 1 per 100 persons and mobile-cellular telephone density 67 per 100 persons (2021)
-- `international`: country code - 677; landing points for the CSCS and ICNS2 submarine cables providing connectivity from Solomon Islands, to PNG, Vanuatu and Australia; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)
+- `總體評估`: mobile services have continually expanded in the Solomon Islands; 3G services became available in 2010, leading to an increase in mobile broadband uptake; Solomon Islands currently host three ISPs; fixed broadband services are largely limited to government, corporations, and educational organizations in the Solomon Islands; telecommunication infrastructure in the Solomon Islands requires significant investment due to the geographical make-up of the islands; this presents a great challenge to rural connectivity in the country; although various international organizations such as the World Bank and the Asian Development Bank have taken a special interest in having communication services improved in both the Solomon Islands and the Pacific region in general, internet and broadband penetration remain low; the provision of broadband infrastructure, particularly to rural areas, is also hindered by land disputes; internet services have, improved with the build-out of the Coral Sea Cable System linking Papua New Guinea to the Solomon Islands, as also with a connecting cable to a landing station at Sydney; the Australian government provided most of the funding for the Coral Sea Cable System, with contributions and support from the Solomon Islands and Papua New Guinea governments; the launch of the Kacific-1 satellite in late 2019 also improved broadband satellite capacity for the region, though for telcos in Solomon Islands satellite services are now largely used as backup for international traffic; in recent years, the country has stabilized both politically and economically and this, along with improvements to mobile infrastructure, has led to a rise in mobile services and the slow uptake of broadband services; while the first LTE services were launched in late 2017 in the capital Honiara, the main platform for mobile voice and data services remains 3G, while in outlying areas GSM is still an important technology for the provision of services (2022)
+- `國內`: fixed-line is less than 1 per 100 persons and mobile-cellular telephone density 67 per 100 persons (2021)
+- `國際的`: country code - 677; landing points for the CSCS and ICNS2 submarine cables providing connectivity from Solomon Islands, to PNG, Vanuatu and Australia; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)
 
 ### 廣播媒體
 Solomon Islands Broadcasting Corporation (SIBC) does not broadcast television; multi-channel pay-TV is available; SIBC operates 2 national radio stations and 2 provincial stations; there are 2 local commercial radio stations; Radio Australia is available via satellite feed (since 2009) (2019)
@@ -554,20 +554,20 @@ Solomon Islands Broadcasting Corporation (SIBC) does not broadcast television; m
 .sb
 
 ### 網際網路使用者
-- `total`: 255,600 (2021 est.)
-- `percent of population`: 36% (2021 est.)
+- `總計`: 255,600 (2021 est.)
+- `佔人口比例`: 36% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 1,000 (2020 est.)
-- `subscriptions per 100 inhabitants`: 0.2 (2020 est.)
+- `總計`: 1,000 (2020 est.)
+- `每100名居民訂閱數`: 0.2 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 1 (2020)
-- `inventory of registered aircraft operated by air carriers`: 6
-- `annual passenger traffic on registered air carriers`: 427,806 (2018)
-- `annual freight traffic on registered air carriers`: 3.84 million (2018) mt-km
+- `註冊航空公司數量`: 1 (2020)
+- `註冊飛機庫存—航空承運商經營`: 6
+- `年度客運量－註冊航空公司`: 427,806 (2018)
+- `年度貨運量－註冊航空公司`: 3.84 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 H4
@@ -579,23 +579,23 @@ H4
 1 (2024)
 
 ### 道路
-- `total`: 1,390 km
-- `paved`: 34 km
-- `unpaved`: 1,356 km (2011)
+- `總計`: 1,390 km
+- `已鋪砌`: 34 km
+- `未鋪砌`: 1,356 km (2011)
 **note**:  includes 920 km of private plantation roads
 
 ### 商船
-- `total`: 25 (2023)
-- `by type`: general cargo 8, oil tanker 1, other 16
+- `總計`: 25 (2023)
+- `依類型`: general cargo 8, oil tanker 1, other 16
 
 ### 港口
-- `total ports`: 6 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 2
-- `very small`: 4
-- `ports with oil terminals`: 1
-- `key ports`: Gizo Harbor, Honiara, Port Noro, Ringgi Cove, Tulaghi, Yandina
+- `總港口數`: 6 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 2
+- `非常小`: 4
+- `原油碼頭港口`: 1
+- `主要港口`: Gizo Harbor, Honiara, Port Noro, Ringgi Cove, Tulaghi, Yandina
 
 ## 軍事和安全
 
@@ -608,5 +608,5 @@ from 2003 to 2017, at the request of the Solomon Islands Governor-General, the R
 ## 跨國議題
 
 ### 人口販運
-- `tier rating`: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Solomon Islands remained on Tier 2 Watch List for the second consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/solomon-islands/
+- `會級評分`: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Solomon Islands remained on Tier 2 Watch List for the second consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/solomon-islands/
 

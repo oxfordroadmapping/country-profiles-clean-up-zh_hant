@@ -19,23 +19,23 @@ Middle East, bordering the Persian Gulf, between Iran and Kuwait
 Middle East
 
 ### 面積
-- `total `: 438,317 sq km
-- `land`: 437,367 sq km
-- `water`: 950 sq km
+- `總計`: 438,317 sq km
+- `土地`: 437,367 sq km
+- `水`: 950 sq km
 
 ### 面積—比較
 slightly more than three times the size of New York state
 
 ### 陸地邊界
-- `total`: 3,809 km
-- `border countries`: Iran 1,599 km; Jordan 179 km; Kuwait 254 km; Saudi Arabia 811 km; Syria 599 km; Turkey 367 km
+- `總計`: 3,809 km
+- `邊境國家`: Iran 1,599 km; Jordan 179 km; Kuwait 254 km; Saudi Arabia 811 km; Syria 599 km; Turkey 367 km
 
 ### 海岸線
 58 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `continental shelf`: not specified
+- `領海`: 12 nm
+- `大陸架`: not specified
 
 ### 氣候
 mostly desert; mild to cool winters with dry, hot, cloudless summers; northern mountainous regions along Iranian and Turkish borders experience cold winters with occasionally heavy snows that melt in early spring, sometimes causing extensive flooding in central and southern Iraq
@@ -44,26 +44,26 @@ mostly desert; mild to cool winters with dry, hot, cloudless summers; northern m
 mostly broad plains; reedy marshes along Iranian border in south with large flooded areas; mountains along borders with Iran and Turkey
 
 ### 海拔
-- `highest point`: Cheekha Dar (Kurdish for "Black Tent") 3,611 m
-- `lowest point`: Persian Gulf 0 m
-- `mean elevation`: 312 m
+- `最高點`: Cheekha Dar (Kurdish for "Black Tent") 3,611 m
+- `最低點`: Persian Gulf 0 m
+- `平均海拔`: 312 m
 
 ### 自然資源
 petroleum, natural gas, phosphates, sulfur
 
 ### 土地利用
-- `agricultural land`: 18.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 8.4% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.5% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 9.2% (2018 est.)
-- `forest`: 1.9% (2018 est.)
-- `other`: 80% (2018 est.)
+- `農地`: 18.1% (2018 est.)
+- `農地：耕地`: arable land: 8.4% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.5% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 9.2% (2018 est.)
+- `森林`: 1.9% (2018 est.)
+- `其它`: 80% (2018 est.)
 
 ### 灌溉土地
 35,250 sq km (2012)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lake Hammar - 1,940 sq km
+- `淡水湖`: Lake Hammar - 1,940 sq km
 
 ### 主要河流（按公里長度）
 Euphrates river mouth (shared with Turkey[s], Syria, and Iran) - 3,596 km; Tigris river mouth (shared with Turkey[s], Syria, and Iran) - 1,950 km; the Tigris and Euphrates join to form the Shatt al Arab*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -86,13 +86,13 @@ strategic location on Shatt al Arab waterway and at the head of the Persian Gulf
 ## 人民和社會
 
 ### 人口
-- `total`: 42,083,436
-- `male`: 21,193,356
-- `female`: 20,890,080 (2024 est.)
+- `總計`: 42,083,436
+- `男性`: 21,193,356
+- `女性`: 20,890,080 (2024 est.)
 
 ### 國籍
-- `noun`: Iraqi(s)
-- `adjective`: Iraqi
+- `名詞`: Iraqi(s)
+- `形容詞`: Iraqi
 
 ### 族裔群體
 Arab 75-80%, Kurdish 15-20%, other 5% (includes Turkmen, Yezidi, Shabak, Kaka'i, Bedouin, Romani, Assyrian, Circassian, Sabaean-Mandaean, Persian)
@@ -100,27 +100,27 @@ Arab 75-80%, Kurdish 15-20%, other 5% (includes Turkmen, Yezidi, Shabak, Kaka'i,
 
 ### 語文
 Arabic (official), Kurdish (official); Turkmen (a Turkish dialect) and Syriac (Neo-Aramaic) are recognized as official languages where native speakers of these languages are present
-- `major-language sample(s)`: كتاب حقائق العالم، أحسن مصدر للمعلومات الأساسية (Arabic)  ڕاستییەکانی جیهان، باشترین سەرچاوەیە بۆ زانیارییە بنەڕەتییەکان (Kurdish) The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: كتاب حقائق العالم، أحسن مصدر للمعلومات الأساسية (Arabic)  ڕاستییەکانی جیهان، باشترین سەرچاوەیە بۆ زانیارییە بنەڕەتییەکان (Kurdish) The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Muslim (official) 95-98% (Shia 61-64%, Sunni 29-34%), Christian 1% (includes Catholic, Orthodox, Protestant, Assyrian Church of the East), other 1-4% (2015 est.)
 **note**:  the last census in Iraq was in 1997; while there has been voluntary relocation of many Christian families to northern Iraq, the overall Christian population has decreased at least 50% and perhaps as much as 90% since 2003, according to US Embassy estimates, with many fleeing to Syria, Jordan, and Lebanon
 
 ### 年齡結構
-- `0-14 years`: 34.6% (male 7,447,266/female 7,130,883)
-- `15-64 years`: 61.7% (male 13,064,516/female 12,907,702)
-- `65 years and over`: 3.6% (2024 est.) (male 681,574/female 851,495)
+- `0-14歲`: 34.6% (male 7,447,266/female 7,130,883)
+- `15-64歲`: 61.7% (male 13,064,516/female 12,907,702)
+- `65歲及以上`: 3.6% (2024 est.) (male 681,574/female 851,495)
 
 ### 撫養比率
-- `total dependency ratio`: 71
-- `youth dependency ratio`: 65.2
-- `elderly dependency ratio`: 5.8
-- `potential support ratio`: 17.1 (2021 est.)
+- `總受扶養人比率`: 71
+- `少年撫養比率`: 65.2
+- `老人撫養比率`: 5.8
+- `潛在支持率`: 17.1 (2021 est.)
 
 ### 年齡中位數
-- `total`: 22.4 years (2024 est.)
-- `male`: 22 years
-- `female`: 22.7 years
+- `總計`: 22.4 years (2024 est.)
+- `男性`: 22 years
+- `女性`: 22.7 years
 
 ### 人口成長率
 1.99% (2024 est.)
@@ -138,31 +138,31 @@ Muslim (official) 95-98% (Shia 61-64%, Sunni 29-34%), Christian 1% (includes Cat
 population is concentrated in the north, center, and eastern parts of the country, with many of the larger urban agglomerations found along extensive parts of the Tigris and Euphrates Rivers; much of the western and southern areas are either lightly populated or uninhabited
 
 ### 都市化
-- `urban population`: 71.6% of total population (2023)
-- `rate of urbanization`: 2.91% annual rate of change (2020-25 est.)
+- `城市人口`: 71.6% of total population (2023)
+- `城鎮化率`: 2.91% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 7.711 million BAGHDAD (capital), 1.792 million Mosul, 1.448 million Basra, 1.075 million Kirkuk, 958,000 Najaf, 897,000 Erbil (2023)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.04 male(s)/female
-- `15-64 years`: 1.01 male(s)/female
-- `65 years and over`: 0.8 male(s)/female
-- `total population`: 1.02 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.04 male(s)/female
+- `15-64歲`: 1.01 male(s)/female
+- `65歲及以上`: 0.8 male(s)/female
+- `總人口數`: 1.02 male(s)/female (2024 est.)
 
 ### 產婦死亡率
 76 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 18.7 deaths/1,000 live births (2024 est.)
-- `male`: 20.4 deaths/1,000 live births
-- `female`: 17 deaths/1,000 live births
+- `總計`: 18.7 deaths/1,000 live births (2024 est.)
+- `男性`: 20.4 deaths/1,000 live births
+- `女性`: 17 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 73.7 years (2024 est.)
-- `male`: 71.9 years
-- `female`: 75.7 years
+- `總人口數`: 73.7 years (2024 est.)
+- `男性`: 71.9 years
+- `女性`: 75.7 years
 
 ### 總生育率
 3.1 children born/woman (2024 est.)
@@ -174,12 +174,12 @@ population is concentrated in the north, center, and eastern parts of the countr
 52.8% (2018)
 
 ### 飲用水來源
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 97.4% of population
-- `improved: total`: total: 99.3% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 2.6% of population
-- `unimproved: total`: total: 0.7% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 97.4% of population
+- `已改進－總計`: total: 99.3% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 2.6% of population
+- `未改善：總計`: total: 0.7% of population (2020 est.)
 
 ### 當前醫療支出
 5.1% of GDP (2020)
@@ -191,27 +191,27 @@ population is concentrated in the north, center, and eastern parts of the countr
 1.3 beds/1,000 population (2017)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 肥胖—成人流行率
 30.4% (2016)
 
 ### 人均酒精消費量
-- `total`: 0.16 liters of pure alcohol (2019 est.)
-- `beer`: 0.11 liters of pure alcohol (2019 est.)
-- `wine`: 0 liters of pure alcohol (2019 est.)
-- `spirits`: 0.04 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 0.16 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.11 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.04 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 18.5% (2020 est.)
-- `male`: 35.1% (2020 est.)
-- `female`: 1.8% (2020 est.)
+- `總計`: 18.5% (2020 est.)
+- `男性`: 35.1% (2020 est.)
+- `女性`: 1.8% (2020 est.)
 
 ### 5歲以下體重不足兒童
 3.9% (2018)
@@ -220,17 +220,17 @@ population is concentrated in the north, center, and eastern parts of the countr
 65.5% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 7.2%
-- `women married by age 18`: 27.9% (2018 est.)
+- `15歲前結婚的女性`: 7.2%
+- `18歲前結婚的女性`: 27.9% (2018 est.)
 
 ### 教育支出
 4.7% of GDP (2016)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 85.6%
-- `male`: 91.2%
-- `female`: 79.9% (2017)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 85.6%
+- `男性`: 91.2%
+- `女性`: 79.9% (2017)
 
 ## 環境
 
@@ -238,26 +238,26 @@ population is concentrated in the north, center, and eastern parts of the countr
 government water control projects drained most of the inhabited marsh areas east of An Nasiriyah by drying up or diverting the feeder streams and rivers; a once sizable population of Marsh Arabs, who inhabited these areas for thousands of years, has been displaced; furthermore, the destruction of the natural habitat poses serious threats to the area's wildlife populations; inadequate supplies of potable water; soil degradation (salination) and erosion; desertification; military and industrial infrastructure has released heavy metals and other hazardous substances into the air, soil, and groundwater; major sources of environmental damage are effluents from oil refineries, factory and sewage discharges into rivers, fertilizer and chemical contamination of the soil, and industrial air pollution in urban areas
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands
-- `signed, but not ratified`: Climate Change-Paris Agreement, Environmental Modification
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands
+- `已簽署但未批準`: Climate Change-Paris Agreement, Environmental Modification
 
 ### 氣候
 mostly desert; mild to cool winters with dry, hot, cloudless summers; northern mountainous regions along Iranian and Turkish borders experience cold winters with occasionally heavy snows that melt in early spring, sometimes causing extensive flooding in central and southern Iraq
 
 ### 土地利用
-- `agricultural land`: 18.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 8.4% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.5% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 9.2% (2018 est.)
-- `forest`: 1.9% (2018 est.)
-- `other`: 80% (2018 est.)
+- `農地`: 18.1% (2018 est.)
+- `農地：耕地`: arable land: 8.4% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.5% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 9.2% (2018 est.)
+- `森林`: 1.9% (2018 est.)
+- `其它`: 80% (2018 est.)
 
 ### 都市化
-- `urban population`: 71.6% of total population (2023)
-- `rate of urbanization`: 2.91% annual rate of change (2020-25 est.)
+- `城市人口`: 71.6% of total population (2023)
+- `城鎮化率`: 2.91% annual rate of change (2020-25 est.)
 
 ### 糧食不安全
-- `severe localized food insecurity`: *due to civil conflict and economic slowdown -* the 2022 Humanitarian Needs Overview identified 2.5 million people in need of humanitarian assistance, of which 960,000 have acute humanitarian needs; while the number of people in need remained similar to the previous year, the severity of those needs increased, largely due to the impact of the COVID‑19 pandemic on top of an existing humanitarian crisis, leading to a 35% increase in the number of people in acute need; more than half of these are concentrated in the governorates of Nineveh and Anbar; the number of severely food insecure people is estimated at about 435,000, while 731,000 are vulnerable to food insecurity (2022)
+- `嚴重的地區糧食不安全`: *due to civil conflict and economic slowdown -* the 2022 Humanitarian Needs Overview identified 2.5 million people in need of humanitarian assistance, of which 960,000 have acute humanitarian needs; while the number of people in need remained similar to the previous year, the severity of those needs increased, largely due to the impact of the COVID‑19 pandemic on top of an existing humanitarian crisis, leading to a 35% increase in the number of people in acute need; more than half of these are concentrated in the governorates of Nineveh and Anbar; the number of severely food insecure people is estimated at about 435,000, while 731,000 are vulnerable to food insecurity (2022)
 
 ### 森林資源收入
 0% of GDP (2018 est.)
@@ -266,15 +266,15 @@ mostly desert; mild to cool winters with dry, hot, cloudless summers; northern m
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 39.29 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 190.06 megatons (2016 est.)
-- `methane emissions`: 17.44 megatons (2020 est.)
+- `顆粒物排放量`: 39.29 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 190.06 megatons (2016 est.)
+- `甲烷排放量`: 17.44 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 13.14 million tons (2015 est.)
+- `城市固體廢棄物－每年產生`: 13.14 million tons (2015 est.)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lake Hammar - 1,940 sq km
+- `淡水湖`: Lake Hammar - 1,940 sq km
 
 ### 主要河流（按公里長度）
 Euphrates river mouth (shared with Turkey[s], Syria, and Iran) - 3,596 km; Tigris river mouth (shared with Turkey[s], Syria, and Iran) - 1,950 km; the Tigris and Euphrates join to form the Shatt al Arab*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -286,9 +286,9 @@ Indian Ocean drainage: *(Persian Gulf)* Tigris and Euphrates (918,044 sq km)
 Arabian Aquifer System
 
 ### 總取水量
-- `municipal`: 6.9 billion cubic meters (2020 est.)
-- `industrial`: 5.49 billion cubic meters (2020 est.)
-- `agricultural`: 44.23 billion cubic meters (2020 est.)
+- `市級`: 6.9 billion cubic meters (2020 est.)
+- `工業`: 5.49 billion cubic meters (2020 est.)
+- `農業`: 44.23 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 89.86 billion cubic meters (2020 est.)
@@ -296,21 +296,21 @@ Arabian Aquifer System
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Iraq
-- `conventional short form`: Iraq
-- `local long form`: Jumhuriyat al-Iraq/Komar-i Eraq
-- `local short form`: Al Iraq/Eraq
-- `former`: Mesopotamia, Mandatory Iraq, Hashemite Kingdom of Iraq
-- `etymology`: the name probably derives from "Uruk" (Biblical "Erech"), the ancient Sumerian and Babylonian city on the Euphrates River
+- `常用長名`: Republic of Iraq
+- `常用短名`: Iraq
+- `當地語長名`: Jumhuriyat al-Iraq/Komar-i Eraq
+- `當地語短名`: Al Iraq/Eraq
+- `前任`: Mesopotamia, Mandatory Iraq, Hashemite Kingdom of Iraq
+- `语源学`: the name probably derives from "Uruk" (Biblical "Erech"), the ancient Sumerian and Babylonian city on the Euphrates River
 
 ### 政府類型
 federal parliamentary republic
 
 ### 首都
-- `name`: Baghdad
-- `geographic coordinates`: 33 20 N, 44 24 E
-- `time difference`: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: although the origin of the name is disputed, it likely has compound Persian roots with *bagh* and *dad* meaning "god" and "given" respectively to create the meaning of "bestowed by God"
+- `名稱`: Baghdad
+- `地理坐標`: 33 20 N, 44 24 E
+- `時差`: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: although the origin of the name is disputed, it likely has compound Persian roots with *bagh* and *dad* meaning "god" and "given" respectively to create the meaning of "bestowed by God"
 
 ### 行政區劃
 18 governorates (muhafazat, singular - muhafazah (Arabic); parezgakan, singular - parezga (Kurdish)); 'Al Anbar; Al Basrah; Al Muthanna; Al Qadisiyah (Ad Diwaniyah); An Najaf; Arbil (Erbil) (Arabic), Hewler (Kurdish); As Sulaymaniyah (Arabic), Slemani (Kurdish); Babil; Baghdad; Dahuk (Arabic), Dihok (Kurdish); Dhi Qar; Diyala; Karbala'; Kirkuk; Maysan; Ninawa; Salah ad Din; Wasit
@@ -326,38 +326,38 @@ Independence Day, 3 October (1932); Republic Day, 14 July (1958)
 mixed legal system of civil and Islamic law
 
 ### 憲法
-- `history`: several previous; latest adopted by referendum 15 October 2005
-- `amendments`: proposed by the president of the republic and the Council of Minsters collectively, or by one fifth of the Council of Representatives members; passage requires at least two-thirds majority vote by the Council of Representatives, approval by referendum, and ratification by the president; passage of amendments to articles on citizen rights and liberties requires two-thirds majority vote of Council of Representatives members after two successive electoral terms, approval in a referendum, and ratification by the president
+- `歷史`: several previous; latest adopted by referendum 15 October 2005
+- `修正`: proposed by the president of the republic and the Council of Minsters collectively, or by one fifth of the Council of Representatives members; passage requires at least two-thirds majority vote by the Council of Representatives, approval by referendum, and ratification by the president; passage of amendments to articles on citizen rights and liberties requires two-thirds majority vote of Council of Representatives members after two successive electoral terms, approval in a referendum, and ratification by the president
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Iraq
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: 10 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Iraq
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: 10 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Latif RASHID (since 13 October 2022)
-- `head of government`: Prime Minister Mohammed Shia al-SUDANI (since 27 October 2022)
-- `cabinet`: Council of Ministers proposed by the prime minister, approved by Council of Representatives (COR)
-- `elections/appointments`: president indirectly elected by COR to serve a 4-year term (eligible for a second term); COR parliamentary election for president last held on 13 October 2022 (next to be held NA)
-- `election results`: *2022: *Latif RASHID elected president in second round; COR vote in first round - Latif RASHID (PUK) 157, Barham SALIH (PUK) 99; COR vote in second round - Latif RASHID 167, Barham SALIH 99; Mohammed Shia' al-SUDANI approved as prime minister*  2018:* Barham SALIH elected president in second round; COR vote in first round - Barham SALIH (PUK) 165, Fuad HUSAYN (KDP) 90; COR vote in second round - Barham SALIH 219, Fuad HUSAYN 22; Adil ABD AL-MAHDI approved as prime minister
+- `國家元首`: President Latif RASHID (since 13 October 2022)
+- `政府首腦`: Prime Minister Mohammed Shia al-SUDANI (since 27 October 2022)
+- `内閣`: Council of Ministers proposed by the prime minister, approved by Council of Representatives (COR)
+- `選舉/任命`: president indirectly elected by COR to serve a 4-year term (eligible for a second term); COR parliamentary election for president last held on 13 October 2022 (next to be held NA)
+- `選舉結果`: *2022: *Latif RASHID elected president in second round; COR vote in first round - Latif RASHID (PUK) 157, Barham SALIH (PUK) 99; COR vote in second round - Latif RASHID 167, Barham SALIH 99; Mohammed Shia' al-SUDANI approved as prime minister*  2018:* Barham SALIH elected president in second round; COR vote in first round - Barham SALIH (PUK) 165, Fuad HUSAYN (KDP) 90; COR vote in second round - Barham SALIH 219, Fuad HUSAYN 22; Adil ABD AL-MAHDI approved as prime minister
 
 ### 立法部門
-- `description`: unicameral Council of Representatives of Iraq (COR) or Majlis an-Nuwwab al-Iraqiyy (329 seats; 320 members directly elected in 83 multi-seat constituencies by single nontransferable vote, 9 seats elected by religious minorities - 5 by Christians, 1 each by Sabaean-Mandaeans, Yazidis, Shabaks andFayli Kurds, and 25% of seats allocated to women; members serve 4-year terms)
-- `elections`: last held on 10 October 2021 (next to be held in 2025)
-- `election results`: percent of vote by party/coalition - NA; seats by party/coalition - Taqadum 47, State of Law Coalition 43, Al Fatah Alliance 37, Kurdistan Democratic Party 31, Kurdistan Coalition 18, Azm Alliance 16, Imtidad 16, State Forces Alliance 11, Ishraqat Kanun 10, New Generation Movement 9, National Contract Party 8, Tasmim Alliance 7, Babiliyun Movement 3, other 73; composition - men 234, women 95, percentage women 29.2%
+- `描述`: unicameral Council of Representatives of Iraq (COR) or Majlis an-Nuwwab al-Iraqiyy (329 seats; 320 members directly elected in 83 multi-seat constituencies by single nontransferable vote, 9 seats elected by religious minorities - 5 by Christians, 1 each by Sabaean-Mandaeans, Yazidis, Shabaks andFayli Kurds, and 25% of seats allocated to women; members serve 4-year terms)
+- `選舉`: last held on 10 October 2021 (next to be held in 2025)
+- `選舉結果`: percent of vote by party/coalition - NA; seats by party/coalition - Taqadum 47, State of Law Coalition 43, Al Fatah Alliance 37, Kurdistan Democratic Party 31, Kurdistan Coalition 18, Azm Alliance 16, Imtidad 16, State Forces Alliance 11, Ishraqat Kanun 10, New Generation Movement 9, National Contract Party 8, Tasmim Alliance 7, Babiliyun Movement 3, other 73; composition - men 234, women 95, percentage women 29.2%
 **note**:  seat counts reflect updated numbers following the 12 June 2022 Sadrist Trend withdrawal from government formation; its 73 seats were reallocated to other parties
 
 ### 司法部門
-- `highest court(s)`: Federal Supreme Court or FSC (consists of 9 judges); note - court jurisdiction limited to constitutional issues, application of federal laws, ratification of election results for the COR, judicial competency disputes, and disputes between regions or governorates and the central government; Court of Cassation (consists of a court president, 5 vice presidents, and at least 24 judges)
-- `judge selection and term of office`: Federal Supreme Court (FSC) judges nominated by the High Judicial Council (HJC) president, the FSC chief justice, the public prosecutor's office chief, and the head of the Judicial Oversight Commission; FSC members required to retire at age 72; Court of Cassation judges appointed by the HJC and confirmed by the Council of Representatives to serve until retirement, nominally at age 63, but can be extended to age 66 by the HJC
-- `subordinate courts`: Courts of Appeal (governorate level); civil courts, including first instance, personal status, labor, and customs; criminal courts including felony, misdemeanor, investigative, major crimes, juvenile, and traffic courts
+- `最高法院`: Federal Supreme Court or FSC (consists of 9 judges); note - court jurisdiction limited to constitutional issues, application of federal laws, ratification of election results for the COR, judicial competency disputes, and disputes between regions or governorates and the central government; Court of Cassation (consists of a court president, 5 vice presidents, and at least 24 judges)
+- `法官遴選和任期`: Federal Supreme Court (FSC) judges nominated by the High Judicial Council (HJC) president, the FSC chief justice, the public prosecutor's office chief, and the head of the Judicial Oversight Commission; FSC members required to retire at age 72; Court of Cassation judges appointed by the HJC and confirmed by the Council of Representatives to serve until retirement, nominally at age 63, but can be extended to age 66 by the HJC
+- `下級法院`: Courts of Appeal (governorate level); civil courts, including first instance, personal status, labor, and customs; criminal courts including felony, misdemeanor, investigative, major crimes, juvenile, and traffic courts
 
 ### 政黨
 Al Fatah AllianceAzm AllianceBabiliyun MovementImtidadIshraqat KonunKurdistan Democratic PartyNational Contract PartyNew Generation MovementPatriotic Union of KurdistanSadrist BlocState Forces AllianceState of Law CoalitionTaqadumTasmim Alliance
@@ -366,19 +366,19 @@ Al Fatah AllianceAzm AllianceBabiliyun MovementImtidadIshraqat KonunKurdistan De
 ABEDA, AFESD, AIIB, AMF, CAEU, CICA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Nazar Issa Abdulhadi AL-KHIRULLAH (since 30 June 2023)
-- `chancery`: 1801 P Street NW, Washington, DC 20036
-- `telephone`: [1] (202) 483-7500
+- `外交代表負責人`: Ambassador Nazar Issa Abdulhadi AL-KHIRULLAH (since 30 June 2023)
+- `衡平法院（在美國）`: 1801 P Street NW, Washington, DC 20036
+- `電話號碼`: [1] (202) 483-7500
 - `FAX`: [1] (202) 462-8815
-- `email address and website`: washington@scrdiraq.gov.iq  https://www.iraqiembassy.us/
-- `consulate(s) general`: Detroit, Los Angeles
+- `電子郵件地址和網站`: washington@scrdiraq.gov.iq  https://www.iraqiembassy.us/
+- `總領事館`: Detroit, Los Angeles
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Alina L. ROMANOWSKI (since 2 June 2022)
-- `embassy`: Al-Kindi Street, International Zone, Baghdad; note - consulate in Al Basrah closed as of 28 September 2018
-- `mailing address`: 6060 Baghdad Place, Washington DC  20521-6060
-- `telephone`: 0760-030-3000
-- `email address and website`: BaghdadACS@state.gov  https://iq.usembassy.gov/
+- `外交代表負責人`: Ambassador Alina L. ROMANOWSKI (since 2 June 2022)
+- `大使館`: Al-Kindi Street, International Zone, Baghdad; note - consulate in Al Basrah closed as of 28 September 2018
+- `郵寄地址`: 6060 Baghdad Place, Washington DC  20521-6060
+- `電話號碼`: 0760-030-3000
+- `電子郵件地址和網站`: BaghdadACS@state.gov  https://iq.usembassy.gov/
 
 ### 旗幟說明
 three equal horizontal bands of red (top), white, and black; the Takbir (Arabic expression meaning "God is great") in green Arabic script is centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white); the Council of Representatives approved this flag in 2008 as a compromise replacement for the Ba'thist SADDAM-era flag
@@ -388,8 +388,8 @@ three equal horizontal bands of red (top), white, and black; the Takbir (Arabic 
 golden eagle; national colors: red, white, black
 
 ### 國歌
-- `name`: "Mawtini" (My Homeland)
-- `lyrics/music`: Ibrahim TOUQAN/Mohammad FLAYFEL
+- `名稱`: "Mawtini" (My Homeland)
+- `歌詞／音樂`: Ibrahim TOUQAN/Mohammad FLAYFEL
 **note**:  adopted 2004; following the ouster of SADDAM Husayn, Iraq adopted "Mawtini," a popular folk song throughout the Arab world; also serves as an unofficial anthem of the Palestinian people
 
 ### 國家級遺產
@@ -436,18 +436,18 @@ $250.843 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 2.8% (2023 est.)
-- `industry`: 55.6% (2023 est.)
-- `services`: 42.3% (2023 est.)
+- `農業`: 2.8% (2023 est.)
+- `產業`: 55.6% (2023 est.)
+- `服務`: 42.3% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 40.3% (2021 est.)
-- `government consumption`: 17.7% (2021 est.)
-- `investment in fixed capital`: 10.1% (2021 est.)
-- `investment in inventories`: 11.3% (2021 est.)
-- `exports of goods and services`: 37.3% (2021 est.)
-- `imports of goods and services`: -24.2% (2021 est.)
+- `家庭消費`: 40.3% (2021 est.)
+- `政府消費`: 17.7% (2021 est.)
+- `固定資本投資`: 10.1% (2021 est.)
+- `存貨投資`: 11.3% (2021 est.)
+- `商品和服務出口`: 37.3% (2021 est.)
+- `商品和服務進口`: -24.2% (2021 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -472,17 +472,17 @@ petroleum, chemicals, textiles, leather, construction materials, food processing
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 32.2% (2023 est.)
-- `male`: 27.8% (2023 est.)
-- `female`: 62% (2023 est.)
+- `總計`: 32.2% (2023 est.)
+- `男性`: 27.8% (2023 est.)
+- `女性`: 62% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
 23% (2014 est.)
 
 ### 平均家庭支出
-- `on food`: 28.8% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 4.3% of household expenditures (2022 est.)
+- `餐食`: 28.8% of household expenditures (2022 est.)
+- `酒精和煙草`: 4.3% of household expenditures (2022 est.)
 
 ### 匯款
 0.35% of GDP (2023 est.)
@@ -491,8 +491,8 @@ petroleum, chemicals, textiles, leather, construction materials, food processing
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $90.204 billion (2019 est.)
-- `expenditures`: $64.512 billion (2019 est.)
+- `收入`: $90.204 billion (2019 est.)
+- `支出`: $64.512 billion (2019 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -558,37 +558,37 @@ $15.065 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 31.339 million kW (2022 est.)
-- `consumption`: 65.908 billion kWh (2022 est.)
-- `imports`: 3.534 billion kWh (2022 est.)
-- `transmission/distribution losses`: 71.17 billion kWh (2022 est.)
+- `裝機容量`: 31.339 million kW (2022 est.)
+- `消費`: 65.908 billion kWh (2022 est.)
+- `進口`: 3.534 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 71.17 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 98% of total installed capacity (2022 est.)
-- `hydroelectricity`: 2% of total installed capacity (2022 est.)
+- `石化燃料`: 98% of total installed capacity (2022 est.)
+- `水力發電`: 2% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `imports`: 3,000 metric tons (2022 est.)
+- `進口`: 3,000 metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 4.437 million bbl/day (2023 est.)
-- `refined petroleum consumption`: 918,000 bbl/day (2022 est.)
-- `crude oil estimated reserves`: 145.019 billion barrels (2021 est.)
+- `總石油產量`: 4.437 million bbl/day (2023 est.)
+- `成品油消費量`: 918,000 bbl/day (2022 est.)
+- `原油儲備量估值`: 145.019 billion barrels (2021 est.)
 
 ### 天然氣
-- `production`: 9.86 billion cubic meters (2022 est.)
-- `consumption`: 19.298 billion cubic meters (2022 est.)
-- `imports`: 9.438 billion cubic meters (2022 est.)
-- `proven reserves`: 3.729 trillion cubic meters (2021 est.)
+- `生產`: 9.86 billion cubic meters (2022 est.)
+- `消費`: 19.298 billion cubic meters (2022 est.)
+- `進口`: 9.438 billion cubic meters (2022 est.)
+- `探明儲量`: 3.729 trillion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 156.892 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 6,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 119.027 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 37.858 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 156.892 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 6,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 119.027 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 37.858 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 57.702 million Btu/person (2022 est.)
@@ -596,17 +596,17 @@ $15.065 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 2.392 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 5 (2022 est.)
+- `總訂閱數`: 2.392 million (2022 est.)
+- `每100名居民訂閱數`: 5 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 43.688 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 98 (2022 est.)
+- `總訂閱數`: 43.688 million (2022 est.)
+- `每100名居民訂閱數`: 98 (2022 est.)
 
 ### 電信系統
-- `general assessment`: civil stability has made it easier for mobile and fixed-line operators to rebuild telecom services and infrastructure damaged during previous periods of violence; the government extended the licenses held by the MNOs for an additional three years to compensate for the chaos and destruction caused between 2014 and 2017 when Islamic State controlled many areas of the country; the companies have struggled to develop LTE services; most services are still based on GSM and 3G, except in Iraq's Kurdistan region where LTE is more widely available (2022)
-- `domestic`: about 7 per 100 for fixed-line and 86 per 100 for mobile-cellular subscriptions (2021)
-- `international`: country code - 964; landing points for FALCON, and GBICS/MENA submarine cables providing connections to the Middle East, Africa and India; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Intersputnik - Atlantic Ocean region, and 1 Arabsat (inoperative)); local microwave radio relay connects border regions to Jordan, Kuwait, Syria, and Turkey (2019)
+- `總體評估`: civil stability has made it easier for mobile and fixed-line operators to rebuild telecom services and infrastructure damaged during previous periods of violence; the government extended the licenses held by the MNOs for an additional three years to compensate for the chaos and destruction caused between 2014 and 2017 when Islamic State controlled many areas of the country; the companies have struggled to develop LTE services; most services are still based on GSM and 3G, except in Iraq's Kurdistan region where LTE is more widely available (2022)
+- `國內`: about 7 per 100 for fixed-line and 86 per 100 for mobile-cellular subscriptions (2021)
+- `國際的`: country code - 964; landing points for FALCON, and GBICS/MENA submarine cables providing connections to the Middle East, Africa and India; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Intersputnik - Atlantic Ocean region, and 1 Arabsat (inoperative)); local microwave radio relay connects border regions to Jordan, Kuwait, Syria, and Turkey (2019)
 
 ### 廣播媒體
 the number of private radio and TV stations has increased rapidly since 2003; government-owned TV and radio stations are operated by the publicly funded Iraqi Media Network; private broadcast media are mostly linked to political, ethnic, or religious groups; satellite TV is available to an estimated 70% of viewers and many of the broadcasters are based abroad; transmissions of multiple international radio broadcasters are accessible (2019)
@@ -615,20 +615,20 @@ the number of private radio and TV stations has increased rapidly since 2003; go
 .iq
 
 ### 網際網路使用者
-- `total`: 21.56 million (2021 est.)
-- `percent of population`: 49% (2021 est.)
+- `總計`: 21.56 million (2021 est.)
+- `佔人口比例`: 49% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 6,254,099 (2020 est.)
-- `subscriptions per 100 inhabitants`: 16 (2020 est.)
+- `總計`: 6,254,099 (2020 est.)
+- `每100名居民訂閱數`: 16 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 4 (2020)
-- `inventory of registered aircraft operated by air carriers`: 34
-- `annual passenger traffic on registered air carriers`: 2,075,065 (2018)
-- `annual freight traffic on registered air carriers`: 16.2 million (2018) mt-km
+- `註冊航空公司數量`: 4 (2020)
+- `註冊飛機庫存—航空承運商經營`: 34
+- `年度客運量－註冊航空公司`: 2,075,065 (2018)
+- `年度貨運量－註冊航空公司`: 16.2 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 YI
@@ -643,27 +643,27 @@ YI
 2,455 km gas, 913 km liquid petroleum gas, 5,432 km oil, 1,637 km refined products (2013)
 
 ### 鐵路
-- `total`: 2,272 km (2014)
-- `standard gauge`: 2,272 km (2014) 1.435-m gauge
+- `總計`: 2,272 km (2014)
+- `標準鐵軌`: 2,272 km (2014) 1.435-m gauge
 
 ### 道路
-- `total`: 58,592 km (2021)
+- `總計`: 58,592 km (2021)
 
 ### 水道
 5,279 km (2012) (the Euphrates River (2,815 km), Tigris River (1,899 km), and Third River (565 km) are the principal waterways)
 
 ### 商船
-- `total`: 74 (2023)
-- `by type`: general cargo 1, oil tanker 6, other 67
+- `總計`: 74 (2023)
+- `依類型`: general cargo 1, oil tanker 6, other 67
 
 ### 港口
-- `total ports`: 6 (2024)
-- `large`: 0
-- `medium`: 1
-- `small`: 1
-- `very small`: 4
-- `ports with oil terminals`: 3
-- `key ports`: Al Basrah, Al-Basra Oil Terminal, Khawr Al Amaya, Khawr Al Zubair, Umm Qasr
+- `總港口數`: 6 (2024)
+- `大`: 0
+- `中`: 1
+- `小`: 1
+- `非常小`: 4
+- `原油碼頭港口`: 3
+- `主要港口`: Al Basrah, Al-Basra Oil Terminal, Khawr Al Amaya, Khawr Al Zubair, Umm Qasr
 
 ## 軍事和安全
 
@@ -700,7 +700,7 @@ Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps (IRGC)/Qods
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 7,864 (West Bank and Gaza Strip) (mid-year 2022); 273,258 (Syria), 8,575 (Iran), 8,091 (Turkey) (2023)
+- `難民（原籍國）`: 7,864 (West Bank and Gaza Strip) (mid-year 2022); 273,258 (Syria), 8,575 (Iran), 8,091 (Turkey) (2023)
 - `IDPs`: 1.142 million (displacement in central and northern Iraq since January 2014) (2023)
-- `stateless persons`: 47,253 (2022); note - in the 1970s and 1980s under SADDAM Husayn's regime, thousands of Iraq's Faili Kurds, followers of Shia Islam, were stripped of their Iraqi citizenship, had their property seized by the government, and many were deported; some Faili Kurds had their citizenship reinstated under the 2006 Iraqi Nationality Law, but others lack the documentation to prove their Iraqi origins; some Palestinian refugees persecuted by the SADDAM regime remain stateless
+- `無國籍人士`: 47,253 (2022); note - in the 1970s and 1980s under SADDAM Husayn's regime, thousands of Iraq's Faili Kurds, followers of Shia Islam, were stripped of their Iraqi citizenship, had their property seized by the government, and many were deported; some Faili Kurds had their citizenship reinstated under the 2006 Iraqi Nationality Law, but others lack the documentation to prove their Iraqi origins; some Palestinian refugees persecuted by the SADDAM regime remain stateless
 

@@ -19,25 +19,25 @@ Southern South America, bordering the South Atlantic Ocean, between Chile and Ur
 South America
 
 ### 面積
-- `total `: 2,780,400 sq km
-- `land`: 2,736,690 sq km
-- `water`: 43,710 sq km
+- `總計`: 2,780,400 sq km
+- `土地`: 2,736,690 sq km
+- `水`: 43,710 sq km
 
 ### 面積—比較
 slightly less than three-tenths the size of the US
 
 ### 陸地邊界
-- `total`: 11,968 km
-- `border countries`: Bolivia 942 km; Brazil 1,263 km; Chile 6,691 km; Paraguay 2,531 km; Uruguay 541 km
+- `總計`: 11,968 km
+- `邊境國家`: Bolivia 942 km; Brazil 1,263 km; Chile 6,691 km; Paraguay 2,531 km; Uruguay 541 km
 
 ### 海岸線
 4,989 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: 200 nm or to the edge of the continental margin
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: 200 nm or to the edge of the continental margin
 
 ### 氣候
 mostly temperate; arid in southeast; subantarctic in southwest
@@ -46,27 +46,27 @@ mostly temperate; arid in southeast; subantarctic in southwest
 rich plains of the Pampas in northern half, flat to rolling plateau of Patagonia in south, rugged Andes along western border
 
 ### 海拔
-- `highest point`: Cerro Aconcagua (located in the northwestern corner of the province of Mendoza; highest point in South America) 6,962 m
-- `lowest point`: Laguna del Carbón (located between Puerto San Julián and Comandante Luis Piedra Buena in the province of Santa Cruz) -105 m
-- `mean elevation`: 595 m
+- `最高點`: Cerro Aconcagua (located in the northwestern corner of the province of Mendoza; highest point in South America) 6,962 m
+- `最低點`: Laguna del Carbón (located between Puerto San Julián and Comandante Luis Piedra Buena in the province of Santa Cruz) -105 m
+- `平均海拔`: 595 m
 
 ### 自然資源
 fertile plains of the pampas, lead, zinc, tin, copper, iron ore, manganese, petroleum, uranium, arable land
 
 ### 土地利用
-- `agricultural land`: 53.9% (2018 est.)
-- `agricultural land: arable land`: arable land: 13.9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.4% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 39.6% (2018 est.)
-- `forest`: 10.7% (2018 est.)
-- `other`: 35.4% (2018 est.)
+- `農地`: 53.9% (2018 est.)
+- `農地：耕地`: arable land: 13.9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.4% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 39.6% (2018 est.)
+- `森林`: 10.7% (2018 est.)
+- `其它`: 35.4% (2018 est.)
 
 ### 灌溉土地
 23,600 sq km (2012)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lago Buenos Aires (shared with Chile) - 2,240 sq km; Lago Argentino - 1,410 sq km; Lago Viedma - 1,090 sq km; Lago San Martín (shared with Chile) - 1,010 sq km; Lago Colhué Huapi - 800 sq km; Lago Fagnano (shared with Chile) - 590 sq km; Lago Nahuel Huapi - 550 sq km
-- `salt water lake(s)`: Laguna Mar Chiquita - 1,850 sq km;
+- `淡水湖`: Lago Buenos Aires (shared with Chile) - 2,240 sq km; Lago Argentino - 1,410 sq km; Lago Viedma - 1,090 sq km; Lago San Martín (shared with Chile) - 1,010 sq km; Lago Colhué Huapi - 800 sq km; Lago Fagnano (shared with Chile) - 590 sq km; Lago Nahuel Huapi - 550 sq km
+- `鹽水湖`: Laguna Mar Chiquita - 1,850 sq km;
 
 ### 主要河流（按公里長度）
 Río de la Plata/Paraná river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -89,20 +89,20 @@ San Miguel de Tucumán and Mendoza areas in the Andes subject to earthquakes; pa
 ## 人民和社會
 
 ### 人口
-- `total`: 46,994,384
-- `male`: 23,274,794
-- `female`: 23,719,590 (2024 est.)
+- `總計`: 46,994,384
+- `男性`: 23,274,794
+- `女性`: 23,719,590 (2024 est.)
 
 ### 國籍
-- `noun`: Argentine(s)
-- `adjective`: Argentine
+- `名詞`: Argentine(s)
+- `形容詞`: Argentine
 
 ### 族裔群體
 European (mostly Spanish and Italian descent) and Mestizo (mixed European and Indigenous ancestry) 97.2%, Indigenous 2.4%, African descent 0.4% (2010 est.)
 
 ### 語文
 Spanish (official), Italian, English, German, French, indigenous (Quechua, Guarani, Mapudungun)
-- `major-language sample(s)`: La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)  The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Roman Catholic 62.9%, Evangelical 15.3% (Pentecostal 13%, other Evangelical 2.3%), Jehovah's Witness and Church of Jesus Christ 1.4%, other 1.2% (includes Muslim, Jewish), none 18.9% (includes agnostic and atheist), unspecified 0.3% (2019 est.)
@@ -111,20 +111,20 @@ Roman Catholic 62.9%, Evangelical 15.3% (Pentecostal 13%, other Evangelical 2.3%
 Argentina’s population continues to grow but at a slower rate because of its steadily declining birth rate. Argentina’s fertility decline began earlier than in the rest of Latin America, occurring most rapidly between the early 20th century and the 1950s and then becoming more gradual in the 1990s.  Life expectancy has been improving, most notably among the young and the poor. While the population under age 15 is shrinking, the youth cohort – ages 15 – 24 – is the largest in Argentina’s history and will continue to bolster the working-age population. If this large working-age population is well-educated and gainfully employed, Argentina is likely to experience an economic boost and possibly higher per capita savings and investment. Although literacy and primary school enrollment are nearly universal, grade repetition is problematic and secondary school completion is low. Both of these issues vary widely by region and socioeconomic group. Only 24% of Argentinians complete tertiary education.  With wages failing to keep pace with soaring inflation – one of the highest in the world – the poverty rate has climbed to over 4]0% in the first half of 2023. Argentina has been primarily a country of immigration for most of its history, welcoming European immigrants (often providing needed low-skilled labor) after its independence in the 19th century and attracting especially large numbers from Spain and Italy. More than 7 million European immigrants are estimated to have arrived in Argentina between 1880 and 1930 (composing 30% of the total population by 1914), when it adopted a more restrictive immigration policy.  European immigration also began to wane in the 1930s because of the global depression.  The inflow rebounded temporarily following WWII and resumed its decline in the 1950s when Argentina’s military dictators tightened immigration rules and European economies rebounded. Regional migration increased, however, supplying low-skilled workers escaping economic and political instability in their home countries. As of 2022, immigrants make up 3.1% of the population, with over half coming from Paraguay and Bolivia.  Despite runaway inflation, hundreds of thousands immigrants arrive each year. The first waves of highly skilled Argentine emigrant workers headed mainly to the United States and Spain in the 1960s and 1970s, driven by economic decline and repressive military dictatorships. The 2008 European economic crisis drove the return migration of some Argentinean and other Latin American nationals, as well as the immigration of Europeans to South America, where Argentina was a key recipient. 
 
 ### 年齡結構
-- `0-14 years`: 23.3% (male 5,632,983/female 5,301,778)
-- `15-64 years`: 63.9% (male 15,071,215/female 14,956,069)
-- `65 years and over`: 12.8% (2024 est.) (male 2,570,596/female 3,461,743)
+- `0-14歲`: 23.3% (male 5,632,983/female 5,301,778)
+- `15-64歲`: 63.9% (male 15,071,215/female 14,956,069)
+- `65歲及以上`: 12.8% (2024 est.) (male 2,570,596/female 3,461,743)
 
 ### 撫養比率
-- `total dependency ratio`: 54.3
-- `youth dependency ratio`: 36
-- `elderly dependency ratio`: 18.2
-- `potential support ratio`: 5.5 (2021 est.)
+- `總受扶養人比率`: 54.3
+- `少年撫養比率`: 36
+- `老人撫養比率`: 18.2
+- `潛在支持率`: 5.5 (2021 est.)
 
 ### 年齡中位數
-- `total`: 33.3 years (2024 est.)
-- `male`: 32.1 years
-- `female`: 34.6 years
+- `總計`: 33.3 years (2024 est.)
+- `男性`: 32.1 years
+- `女性`: 34.6 years
 
 ### 人口成長率
 0.79% (2024 est.)
@@ -142,31 +142,31 @@ Argentina’s population continues to grow but at a slower rate because of its s
 one-third of the population lives in Buenos Aires; pockets of agglomeration occur throughout the northern and central parts of the country; Patagonia to the south remains sparsely populated
 
 ### 都市化
-- `urban population`: 92.5% of total population (2023)
-- `rate of urbanization`: 0.97% annual rate of change (2020-25 est.)
+- `城市人口`: 92.5% of total population (2023)
+- `城鎮化率`: 0.97% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 15.490 million BUENOS AIRES (capital), 1.612 million Córdoba, 1.594 million Rosario, 1.226 million Mendoza, 1.027 million San Miguel de Tucumán, 914,000 La Plata (2023)
 
 ### 性別比例
-- `at birth`: 1.07 male(s)/female
-- `0-14 years`: 1.06 male(s)/female
-- `15-64 years`: 1.01 male(s)/female
-- `65 years and over`: 0.74 male(s)/female
-- `total population`: 0.98 male(s)/female (2024 est.)
+- `出生時`: 1.07 male(s)/female
+- `0-14歲`: 1.06 male(s)/female
+- `15-64歲`: 1.01 male(s)/female
+- `65歲及以上`: 0.74 male(s)/female
+- `總人口數`: 0.98 male(s)/female (2024 est.)
 
 ### 產婦死亡率
 45 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 9 deaths/1,000 live births (2024 est.)
-- `male`: 9.9 deaths/1,000 live births
-- `female`: 7.9 deaths/1,000 live births
+- `總計`: 9 deaths/1,000 live births (2024 est.)
+- `男性`: 9.9 deaths/1,000 live births
+- `女性`: 7.9 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 78.8 years (2024 est.)
-- `male`: 75.8 years
-- `female`: 82 years
+- `總人口數`: 78.8 years (2024 est.)
+- `男性`: 75.8 years
+- `女性`: 82 years
 
 ### 總生育率
 2.15 children born/woman (2024 est.)
@@ -178,12 +178,12 @@ one-third of the population lives in Buenos Aires; pockets of agglomeration occu
 70.1% (2019/20)
 
 ### 飲用水來源
-- `improved: urban`: urban: 99.8% of population
-- `improved: rural`: rural: NA
-- `improved: total`: total: NA
-- `unimproved: urban`: urban: 0.2% of population
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: (2020 est.) NA
+- `已改進－城市`: urban: 99.8% of population
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: NA
+- `未改進：都市`: urban: 0.2% of population
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: (2020 est.) NA
 
 ### 當前醫療支出
 10% of GDP (2020)
@@ -195,26 +195,26 @@ one-third of the population lives in Buenos Aires; pockets of agglomeration occu
 5 beds/1,000 population (2017)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: NA
-- `improved: total`: total: NA
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: (2020 est.) NA
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: NA
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: (2020 est.) NA
 
 ### 肥胖—成人流行率
 28.3% (2016)
 
 ### 人均酒精消費量
-- `total`: 7.95 liters of pure alcohol (2019 est.)
-- `beer`: 3.62 liters of pure alcohol (2019 est.)
-- `wine`: 2.88 liters of pure alcohol (2019 est.)
-- `spirits`: 0.72 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.72 liters of pure alcohol (2019 est.)
+- `總計`: 7.95 liters of pure alcohol (2019 est.)
+- `啤酒`: 3.62 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 2.88 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.72 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.72 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 24.5% (2020 est.)
-- `male`: 29.4% (2020 est.)
-- `female`: 19.6% (2020 est.)
+- `總計`: 24.5% (2020 est.)
+- `男性`: 29.4% (2020 est.)
+- `女性`: 19.6% (2020 est.)
 
 ### 5歲以下體重不足兒童
 1.7% (2018/19)
@@ -223,22 +223,22 @@ one-third of the population lives in Buenos Aires; pockets of agglomeration occu
 48.9% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 2.4%
-- `women married by age 18`: 15.5% (2020 est.)
+- `15歲前結婚的女性`: 2.4%
+- `18歲前結婚的女性`: 15.5% (2020 est.)
 
 ### 教育支出
 5% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 99%
-- `male`: 98.9%
-- `female`: 99.1% (2018)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 99%
+- `男性`: 98.9%
+- `女性`: 99.1% (2018)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 18 years
-- `male`: 17 years
-- `female`: 20 years (2020)
+- `總計`: 18 years
+- `男性`: 17 years
+- `女性`: 20 years (2020)
 
 ## 環境
 
@@ -246,23 +246,23 @@ one-third of the population lives in Buenos Aires; pockets of agglomeration occu
 environmental problems (urban and rural) typical of an industrializing economy such as deforestation, soil degradation (erosion, salinization), desertification, air pollution, and water pollution
 
 ### 環境—國際協定
-- `party to`: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling
-- `signed, but not ratified`: Marine Dumping-London Protocol, Marine Life Conservation
+- `是以下議定書的締約國：`: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling
+- `已簽署但未批準`: Marine Dumping-London Protocol, Marine Life Conservation
 
 ### 氣候
 mostly temperate; arid in southeast; subantarctic in southwest
 
 ### 土地利用
-- `agricultural land`: 53.9% (2018 est.)
-- `agricultural land: arable land`: arable land: 13.9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.4% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 39.6% (2018 est.)
-- `forest`: 10.7% (2018 est.)
-- `other`: 35.4% (2018 est.)
+- `農地`: 53.9% (2018 est.)
+- `農地：耕地`: arable land: 13.9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.4% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 39.6% (2018 est.)
+- `森林`: 10.7% (2018 est.)
+- `其它`: 35.4% (2018 est.)
 
 ### 都市化
-- `urban population`: 92.5% of total population (2023)
-- `rate of urbanization`: 0.97% annual rate of change (2020-25 est.)
+- `城市人口`: 92.5% of total population (2023)
+- `城鎮化率`: 0.97% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.09% of GDP (2018 est.)
@@ -271,18 +271,18 @@ mostly temperate; arid in southeast; subantarctic in southwest
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 12.04 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 201.35 megatons (2016 est.)
-- `methane emissions`: 120.66 megatons (2020 est.)
+- `顆粒物排放量`: 12.04 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 201.35 megatons (2016 est.)
+- `甲烷排放量`: 120.66 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 17,910,550 tons (2014 est.)
-- `municipal solid waste recycled annually`: 1,074,633 tons (2010 est.)
-- `percent of municipal solid waste recycled`: 6% (2010 est.)
+- `城市固體廢棄物－每年產生`: 17,910,550 tons (2014 est.)
+- `城市固體廢棄物－每年回收`: 1,074,633 tons (2010 est.)
+- `城市固體廢棄物－回收百分比`: 6% (2010 est.)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lago Buenos Aires (shared with Chile) - 2,240 sq km; Lago Argentino - 1,410 sq km; Lago Viedma - 1,090 sq km; Lago San Martín (shared with Chile) - 1,010 sq km; Lago Colhué Huapi - 800 sq km; Lago Fagnano (shared with Chile) - 590 sq km; Lago Nahuel Huapi - 550 sq km
-- `salt water lake(s)`: Laguna Mar Chiquita - 1,850 sq km;
+- `淡水湖`: Lago Buenos Aires (shared with Chile) - 2,240 sq km; Lago Argentino - 1,410 sq km; Lago Viedma - 1,090 sq km; Lago San Martín (shared with Chile) - 1,010 sq km; Lago Colhué Huapi - 800 sq km; Lago Fagnano (shared with Chile) - 590 sq km; Lago Nahuel Huapi - 550 sq km
+- `鹽水湖`: Laguna Mar Chiquita - 1,850 sq km;
 
 ### 主要河流（按公里長度）
 Río de la Plata/Paraná river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -294,9 +294,9 @@ Atlantic Ocean drainage: Paraná (2,582,704 sq km)
 Guaraní Aquifer System
 
 ### 總取水量
-- `municipal`: 5.85 billion cubic meters (2020 est.)
-- `industrial`: 4 billion cubic meters (2020 est.)
-- `agricultural`: 27.93 billion cubic meters (2020 est.)
+- `市級`: 5.85 billion cubic meters (2020 est.)
+- `工業`: 4 billion cubic meters (2020 est.)
+- `農業`: 27.93 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 876.24 billion cubic meters (2020 est.)
@@ -304,20 +304,20 @@ Guaraní Aquifer System
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Argentine Republic
-- `conventional short form`: Argentina
-- `local long form`: República Argentina
-- `local short form`: Argentina
-- `etymology`: originally the area was referred to as Tierra Argentina, i.e., "Land beside the Silvery River" or "silvery land," which referred to the massive estuary in the east of the country, the Río de la Plata (River of Silver); over time the name shortened to simply Argentina or "silvery"
+- `常用長名`: Argentine Republic
+- `常用短名`: Argentina
+- `當地語長名`: República Argentina
+- `當地語短名`: Argentina
+- `语源学`: originally the area was referred to as Tierra Argentina, i.e., "Land beside the Silvery River" or "silvery land," which referred to the massive estuary in the east of the country, the Río de la Plata (River of Silver); over time the name shortened to simply Argentina or "silvery"
 
 ### 政府類型
 presidential republic
 
 ### 首都
-- `name`: Buenos Aires
-- `geographic coordinates`: 34 36 S, 58 22 W
-- `time difference`: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: the name translates as "fair winds" in Spanish and derives from the original designation of the settlement that would become the present-day city, "Santa Maria del Buen Aire" (Saint Mary of the Fair Winds)
+- `名稱`: Buenos Aires
+- `地理坐標`: 34 36 S, 58 22 W
+- `時差`: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: the name translates as "fair winds" in Spanish and derives from the original designation of the settlement that would become the present-day city, "Santa Maria del Buen Aire" (Saint Mary of the Fair Winds)
 
 ### 行政區劃
 23 provinces (provincias, singular - provincia) and 1 autonomous city*; Buenos Aires, Catamarca, Chaco, Chubut, Ciudad Autonoma de Buenos Aires*, Cordoba, Corrientes, Entre Rios, Formosa, Jujuy, La Pampa, La Rioja, Mendoza, Misiones, Neuquen, Rio Negro, Salta, San Juan, San Luis, Santa Cruz, Santa Fe, Santiago del Estero, Tierra del Fuego - Antartida e Islas del Atlantico Sur (Tierra del Fuego - Antarctica and the South Atlantic Islands), Tucuman
@@ -333,37 +333,37 @@ Revolution Day (May Revolution Day), 25 May (1810)
 civil law system based on West European legal systems; note - in mid-2015, Argentina adopted a new civil code, replacing the old one in force since 1871
 
 ### 憲法
-- `history`: several previous; latest effective 11 May 1853
-- `amendments`: a declaration of proposed amendments requires two-thirds majority vote by both houses of the National Congress followed by approval by an ad hoc, multi-member constitutional convention; amended several times, last significant amendment in 1994
+- `歷史`: several previous; latest effective 11 May 1853
+- `修正`: a declaration of proposed amendments requires two-thirds majority vote by both houses of the National Congress followed by approval by an ad hoc, multi-member constitutional convention; amended several times, last significant amendment in 1994
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: yes
-- `citizenship by descent only`: yes
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: 2 years
+- `出生公民權`: yes
+- `血統公民身份`: yes
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: 2 years
 
 ### 選舉權
 18-70 years of age; universal and compulsory; 16-17 years of age - optional for national elections
 
 ### 行政部門
-- `chief of state`: President Javier Gerardo MILEI (since 10 December 2023)
-- `head of government`: President Javier Gerardo MILEI (since 10 December 2023)
-- `cabinet`: Cabinet appointed by the president
-- `elections/appointments`: president and vice president directly elected on the same ballot by qualified majority vote (to win, a candidate must receive at least 45% of votes or 40% of votes and a 10-point lead over the second place candidate; if neither occurs, a second round is held ); the president serves a 4-year term (eligible for a second consecutive term); election last held on 22 October 2023 with a runoff held 19 November 2023 (next to be held in October 2027)
-- `election results`: 2023: Javier Gerardo MILEI elected president in second round; percent vote in first round - Sergio Tomás MASSA (FR) 36.7%, Javier Gerardo MILEI (PL) 30%, Patricia BULLRICH 23.8% (JxC/PRO), Juan SCHIARETTI (PJ) 6.8%, Myriam BREGMAN (PTS)2.7%; percent of vote in second round - Javier Gerardo MILEI 55.7%, Sergio Tomás MASSA 44.3%*  2019:* Alberto Ángel FERNÁNDEZ elected president; percent of vote - Alberto Angel FERNÁNDEZ (TODOS) 48.1%, Mauricio MACRI (PRO) 40.4%, Roberto LAVAGNA (independent) 6.2%, other 5.3%
+- `國家元首`: President Javier Gerardo MILEI (since 10 December 2023)
+- `政府首腦`: President Javier Gerardo MILEI (since 10 December 2023)
+- `内閣`: Cabinet appointed by the president
+- `選舉/任命`: president and vice president directly elected on the same ballot by qualified majority vote (to win, a candidate must receive at least 45% of votes or 40% of votes and a 10-point lead over the second place candidate; if neither occurs, a second round is held ); the president serves a 4-year term (eligible for a second consecutive term); election last held on 22 October 2023 with a runoff held 19 November 2023 (next to be held in October 2027)
+- `選舉結果`: 2023: Javier Gerardo MILEI elected president in second round; percent vote in first round - Sergio Tomás MASSA (FR) 36.7%, Javier Gerardo MILEI (PL) 30%, Patricia BULLRICH 23.8% (JxC/PRO), Juan SCHIARETTI (PJ) 6.8%, Myriam BREGMAN (PTS)2.7%; percent of vote in second round - Javier Gerardo MILEI 55.7%, Sergio Tomás MASSA 44.3%*  2019:* Alberto Ángel FERNÁNDEZ elected president; percent of vote - Alberto Angel FERNÁNDEZ (TODOS) 48.1%, Mauricio MACRI (PRO) 40.4%, Roberto LAVAGNA (independent) 6.2%, other 5.3%
 
 ### 立法部門
-- `description`: bicameral National Congress or Congreso Nacional consists of:Senate or Senado (72 seats; members directly elected from 24 provincial districts by closed-list proportional representation vote; 2 seats per district awarded to the party with the most votes and 1 seat per district to the party with the second highest votes; members serve 6-year terms with one-third of the membership renewed every 2 years)Chamber of Deputies or Cámara de Diputados (257 seats; members directly elected in multi-seat constituencies by closed-list proportional representation vote; members serve 4-year terms with one-half of the membership renewed every 2 years)
-- `elections`: Senate - last held on 22 October 2023 (next to be held in October 2025)Chamber of Deputies - last held on 22 October 2023 (next to be held in October 2025)
-- `election results`: Senate - percent of vote by party/coalition - NA; seats by party/coalition - UP 12, LLA 8, JxC 2, other 2; composition - men 39, women 33, percentage women 45.8%   Chamber of Deputies - percent of vote by party/coalition - NA; seats by party/coalition - UP 58, LLA 35, JxC 31, NHP  4, other 2; composition - men 148, women 109, percentage women 42.4%; total National Congress percentage women 43.2%
+- `描述`: bicameral National Congress or Congreso Nacional consists of:Senate or Senado (72 seats; members directly elected from 24 provincial districts by closed-list proportional representation vote; 2 seats per district awarded to the party with the most votes and 1 seat per district to the party with the second highest votes; members serve 6-year terms with one-third of the membership renewed every 2 years)Chamber of Deputies or Cámara de Diputados (257 seats; members directly elected in multi-seat constituencies by closed-list proportional representation vote; members serve 4-year terms with one-half of the membership renewed every 2 years)
+- `選舉`: Senate - last held on 22 October 2023 (next to be held in October 2025)Chamber of Deputies - last held on 22 October 2023 (next to be held in October 2025)
+- `選舉結果`: Senate - percent of vote by party/coalition - NA; seats by party/coalition - UP 12, LLA 8, JxC 2, other 2; composition - men 39, women 33, percentage women 45.8%   Chamber of Deputies - percent of vote by party/coalition - NA; seats by party/coalition - UP 58, LLA 35, JxC 31, NHP  4, other 2; composition - men 148, women 109, percentage women 42.4%; total National Congress percentage women 43.2%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court or Corte Suprema (consists of the court president, vice president, 2 judges, 1 vacancy)
-- `judge selection and term of office`: judges nominated by the president and approved by the Senate; ministers can serve until mandatory retirement at age 75; extensions beyond 75 require renomination by the president and approval by the Senate
-- `subordinate courts`: federal level appellate, district, and territorial courts; provincial level supreme, appellate, and first instance courts
+- `最高法院`: Supreme Court or Corte Suprema (consists of the court president, vice president, 2 judges, 1 vacancy)
+- `法官遴選和任期`: judges nominated by the president and approved by the Senate; ministers can serve until mandatory retirement at age 75; extensions beyond 75 require renomination by the president and approval by the Senate
+- `下級法院`: federal level appellate, district, and territorial courts; provincial level supreme, appellate, and first instance courts
 
 ### 政黨
 Avanza Libertad or ALCivic Coalition ARI or CC-ARIConsenso Federal (Federal Consensus) or CFFrente Cívico por Santiago (Civic Front for Santiago)Frente de Izquierda y de los Trabajadores – Unidad (Workers' Left Front) or FIT-U (coalition of leftist parties in lower house; includes PTS, PO, and MST) Frente de la Concordia Misionero (Front for the Renewal of Social Concord) or FRCSFrente Renovador (Renewal Front) or FRGeneración por un Encuentro Nacional (Generation for a National Encounter) or GENHacemos por Córdoba (We do for Cordoba) or HCHacemos por Nuestro Pais (We Do For Our Country) or NHPJuntos por el Cambio (Together for Change) or JxC (includes CC-ARI, PRO, and UCR); note - primary opposition coalition since 2019Juntos Somos Río Negro (Together We Are Rio Negro) or JSRN  Partido Justicialista (Justicialist Party) or PJLa CámporaLa Libertad Avanza (The Liberty Advances) or LLAMovimiento Popular Neuquino (Neuquén People's Movement) or MPNMovimiento Socialista de los Trabajadores (Workers' Socialist Movement) or MST Partido de los Trabajadores Socialistas (Socialist Workers' Party) or PTSPartido Demócrata (Democratic Party) or PDNPartido Libertario (Libertarian Party) or PL; note - party is also a founding member of the coalition La Libertad AvanzaPartido Obrero (Workers' Party) or POPartido Socialista or PSPropuesta Republicana (Republican Proposal) or PROUnidad Federal (coalition of provencial parties in the lower house; includes FRCS and JSRN)Unión Cívica Radical (Radical Civic Union) or UCRUnión por la Patria (Union for the Homeland) or UP *(formerly Frente de Todos (Everyone's Front) or FdT) *(includes FR, La Cámpora, and PJ); note - ruling coalition since 2019; includes several national and provincial Peronist political partiesVamos con Vos (Let's Go with You) or VcV 
@@ -372,20 +372,20 @@ Avanza Libertad or ALCivic Coalition ARI or CC-ARIConsenso Federal (Federal Cons
 AfDB (nonregional member), Australia Group, BCIE, BIS, CAN (associate), CD, CABEI, CELAC, FAO, FATF, G-15, G-20, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, NAM (observer), NSG, OAS, OPANAL, OPCW, Paris Club (associate), PCA, PROSUR, SICA (observer), UN, UNASUR, UNCTAD, UNDOF, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, Union Latina (observer), UNOOSA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Gerardo WERTHEIN (since 17 June 2024)
-- `chancery`: 1600 New Hampshire Avenue NW, Washington, DC 20009
-- `telephone`: [1] (202) 238-6400
+- `外交代表負責人`: Ambassador Gerardo WERTHEIN (since 17 June 2024)
+- `衡平法院（在美國）`: 1600 New Hampshire Avenue NW, Washington, DC 20009
+- `電話號碼`: [1] (202) 238-6400
 - `FAX`: [1] (202) 332-3171
-- `email address and website`: eeeuu@mrecic.gov.ar  https://eeeuu.cancilleria.gob.ar/en
-- `consulate(s) general`: Atlanta, Chicago, Houston, Los Angeles, Miami, New York
+- `電子郵件地址和網站`: eeeuu@mrecic.gov.ar  https://eeeuu.cancilleria.gob.ar/en
+- `總領事館`: Atlanta, Chicago, Houston, Los Angeles, Miami, New York
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Marc Robert STANLEY (since 24 January 2022)
-- `embassy`: Avenida Colombia 4300, (C1425GMN) Buenos Aires
-- `mailing address`: 3130 Buenos Aires Place, Washington DC  20521-3130
-- `telephone`: [54] (11) 5777-4533
+- `外交代表負責人`: Ambassador Marc Robert STANLEY (since 24 January 2022)
+- `大使館`: Avenida Colombia 4300, (C1425GMN) Buenos Aires
+- `郵寄地址`: 3130 Buenos Aires Place, Washington DC  20521-3130
+- `電話號碼`: [54] (11) 5777-4533
 - `FAX`: [54] (11) 5777-4240
-- `email address and website`: Buenosairespublicaffairs@state.gov  https://ar.usembassy.gov/
+- `電子郵件地址和網站`: Buenosairespublicaffairs@state.gov  https://ar.usembassy.gov/
 
 ### 旗幟說明
 three equal horizontal bands of sky blue (top), white, and sky blue; centered in the white band is a radiant yellow sun with a human face (delineated in brown) known as the Sun of May; the colors represent the clear skies and snow of the Andes; the sun symbol commemorates the appearance of the sun through cloudy skies on 25 May 1810 during the first mass demonstration in favor of independence; the sun features are those of Inti, the Inca god of the sun
@@ -394,8 +394,8 @@ three equal horizontal bands of sky blue (top), white, and sky blue; centered in
 Sun of May (a sun-with-face symbol); national colors: sky blue, white
 
 ### 國歌
-- `name`: "Himno Nacional Argentino" (Argentine National Anthem)
-- `lyrics/music`: Vicente LOPEZ y PLANES/Jose Blas PARERA
+- `名稱`: "Himno Nacional Argentino" (Argentine National Anthem)
+- `歌詞／音樂`: Vicente LOPEZ y PLANES/Jose Blas PARERA
 **note**:  adopted 1813; Vicente LOPEZ was inspired to write the anthem after watching a play about the 1810 May Revolution against Spain
 
 ### 國家級遺產
@@ -441,18 +441,18 @@ note: data are derived from private estimates
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 6.1% (2023 est.)
-- `industry`: 25.1% (2023 est.)
-- `services`: 52.8% (2023 est.)
+- `農業`: 6.1% (2023 est.)
+- `產業`: 25.1% (2023 est.)
+- `服務`: 52.8% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 67.2% (2023 est.)
-- `government consumption`: 15.8% (2023 est.)
-- `investment in fixed capital`: 19.1% (2023 est.)
-- `investment in inventories`: 0.4% (2023 est.)
-- `exports of goods and services`: 12.9% (2023 est.)
-- `imports of goods and services`: -14.1% (2023 est.)
+- `家庭消費`: 67.2% (2023 est.)
+- `政府消費`: 15.8% (2023 est.)
+- `固定資本投資`: 19.1% (2023 est.)
+- `存貨投資`: 0.4% (2023 est.)
+- `商品和服務出口`: 12.9% (2023 est.)
+- `商品和服務進口`: -14.1% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -477,9 +477,9 @@ food processing, motor vehicles, consumer durables, textiles, chemicals and petr
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 18% (2023 est.)
-- `male`: 16.9% (2023 est.)
-- `female`: 19.5% (2023 est.)
+- `總計`: 18% (2023 est.)
+- `男性`: 16.9% (2023 est.)
+- `女性`: 19.5% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -491,12 +491,12 @@ food processing, motor vehicles, consumer durables, textiles, chemicals and petr
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 平均家庭支出
-- `on food`: 23.1% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 1.9% of household expenditures (2022 est.)
+- `餐食`: 23.1% of household expenditures (2022 est.)
+- `酒精和煙草`: 1.9% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 2% (2022 est.)
-- `highest 10%`: 29.8% (2022 est.)
+- `最低10%`: 2% (2022 est.)
+- `最高10%`: 29.8% (2022 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -506,8 +506,8 @@ food processing, motor vehicles, consumer durables, textiles, chemicals and petr
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $113.553 billion (2022 est.)
-- `expenditures`: $138.622 billion (2022 est.)
+- `收入`: $113.553 billion (2022 est.)
+- `支出`: $138.622 billion (2022 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -572,22 +572,22 @@ $77.88 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 46.82 million kW (2022 est.)
-- `consumption`: 127.98 billion kWh (2022 est.)
-- `exports`: 31 million kWh (2022 est.)
-- `imports`: 12.909 billion kWh (2022 est.)
-- `transmission/distribution losses`: 29.877 billion kWh (2022 est.)
+- `裝機容量`: 46.82 million kW (2022 est.)
+- `消費`: 127.98 billion kWh (2022 est.)
+- `出口`: 31 million kWh (2022 est.)
+- `進口`: 12.909 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 29.877 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 65.3% of total installed capacity (2022 est.)
-- `nuclear`: 5.2% of total installed capacity (2022 est.)
-- `solar`: 2% of total installed capacity (2022 est.)
-- `wind`: 9.7% of total installed capacity (2022 est.)
-- `hydroelectricity`: 16.4% of total installed capacity (2022 est.)
-- `biomass and waste`: 1.5% of total installed capacity (2022 est.)
+- `石化燃料`: 65.3% of total installed capacity (2022 est.)
+- `核能`: 5.2% of total installed capacity (2022 est.)
+- `太陽能`: 2% of total installed capacity (2022 est.)
+- `風能`: 9.7% of total installed capacity (2022 est.)
+- `水力發電`: 16.4% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 1.5% of total installed capacity (2022 est.)
 
 ### 核能
 - `Number of operational nuclear reactors`: 3 (2023)
@@ -596,29 +596,29 @@ $77.88 billion (2022 est.)
 - `Percent of total electricity production`: 6.3% (2023 est.)
 
 ### 煤炭
-- `production`: 1.318 million metric tons (2022 est.)
-- `consumption`: 3.391 million metric tons (2022 est.)
-- `exports`: 8,000 metric tons (2022 est.)
-- `imports`: 2.196 million metric tons (2022 est.)
-- `proven reserves`: 799.999 million metric tons (2022 est.)
+- `生產`: 1.318 million metric tons (2022 est.)
+- `消費`: 3.391 million metric tons (2022 est.)
+- `出口`: 8,000 metric tons (2022 est.)
+- `進口`: 2.196 million metric tons (2022 est.)
+- `探明儲量`: 799.999 million metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 807,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 706,000 bbl/day (2022 est.)
-- `crude oil estimated reserves`: 2.483 billion barrels (2021 est.)
+- `總石油產量`: 807,000 bbl/day (2023 est.)
+- `成品油消費量`: 706,000 bbl/day (2022 est.)
+- `原油儲備量估值`: 2.483 billion barrels (2021 est.)
 
 ### 天然氣
-- `production`: 43.28 billion cubic meters (2022 est.)
-- `consumption`: 46.228 billion cubic meters (2022 est.)
-- `exports`: 3.422 billion cubic meters (2022 est.)
-- `imports`: 6.229 billion cubic meters (2022 est.)
-- `proven reserves`: 396.464 billion cubic meters (2021 est.)
+- `生產`: 43.28 billion cubic meters (2022 est.)
+- `消費`: 46.228 billion cubic meters (2022 est.)
+- `出口`: 3.422 billion cubic meters (2022 est.)
+- `進口`: 6.229 billion cubic meters (2022 est.)
+- `探明儲量`: 396.464 billion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 185.37 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 5.392 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 89.464 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 90.515 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 185.37 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 5.392 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 89.464 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 90.515 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 75.735 million Btu/person (2022 est.)
@@ -626,17 +626,17 @@ $77.88 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 7.615 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 17 (2022 est.)
+- `總訂閱數`: 7.615 million (2022 est.)
+- `每100名居民訂閱數`: 17 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 60.236 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 132 (2022 est.)
+- `總訂閱數`: 60.236 million (2022 est.)
+- `每100名居民訂閱數`: 132 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Argentina’s ongoing problem with hyperinflation continues to distort the telecom market’s performance, which shows strong growth in revenue but only modest gains in subscriber numbers each year; the fixed broadband segment has penetration levels only slightly higher than the fixed-line teledensity; nearly a quarter of the country’s broadband connections are via DSL, although fiber is starting claim an increasing share of that market as networks expand across most of the main cities; mobile broadband continues to be the preferred platform for internet access, supported by high mobile penetration levels and nationwide LTE coverage; the first 5G service was launched in February 2021 using refarmed LTE frequencies; the anticipated 5G spectrum auctions should drive even stronger uptake in mobile broadband services; while the various fixed, mobile, and cable operators push to expand and enhance their services, the government is also making an active contribution towards boosting broadband connectivity around the country; its national connectivity plan ‘Plan Conectar’, launched in September 2020, provides funding for a range of programs to increase coverage; in August 2021, the telecom regulator announced the release funding to help operators accelerate the rollout of their broadband infrastructure and services (2021)
-- `domestic`: roughly 15 per 100 fixed-line and 130 per 100 mobile-cellular; microwave radio relay, fiber-optic cable, and a domestic satellite system with 40 earth stations serve the trunk network (2021)
-- `international`: country code - 54; landing points for the UNISUR, Bicentenario, Atlantis-2, SAm-1, and SAC, Tannat, Malbec and ARBR submarine cable systems that provide links to Europe, Africa, South and Central America, and US; satellite earth stations - 112 (2019)
+- `總體評估`: Argentina’s ongoing problem with hyperinflation continues to distort the telecom market’s performance, which shows strong growth in revenue but only modest gains in subscriber numbers each year; the fixed broadband segment has penetration levels only slightly higher than the fixed-line teledensity; nearly a quarter of the country’s broadband connections are via DSL, although fiber is starting claim an increasing share of that market as networks expand across most of the main cities; mobile broadband continues to be the preferred platform for internet access, supported by high mobile penetration levels and nationwide LTE coverage; the first 5G service was launched in February 2021 using refarmed LTE frequencies; the anticipated 5G spectrum auctions should drive even stronger uptake in mobile broadband services; while the various fixed, mobile, and cable operators push to expand and enhance their services, the government is also making an active contribution towards boosting broadband connectivity around the country; its national connectivity plan ‘Plan Conectar’, launched in September 2020, provides funding for a range of programs to increase coverage; in August 2021, the telecom regulator announced the release funding to help operators accelerate the rollout of their broadband infrastructure and services (2021)
+- `國內`: roughly 15 per 100 fixed-line and 130 per 100 mobile-cellular; microwave radio relay, fiber-optic cable, and a domestic satellite system with 40 earth stations serve the trunk network (2021)
+- `國際的`: country code - 54; landing points for the UNISUR, Bicentenario, Atlantis-2, SAm-1, and SAC, Tannat, Malbec and ARBR submarine cable systems that provide links to Europe, Africa, South and Central America, and US; satellite earth stations - 112 (2019)
 
 ### 廣播媒體
 government owns a TV station and radio network; more than two dozen TV stations and hundreds of privately owned radio stations; high rate of cable TV subscription usage (2022)
@@ -645,20 +645,20 @@ government owns a TV station and radio network; more than two dozen TV stations 
 .ar
 
 ### 網際網路使用者
-- `total`: 39.15 million (2021 est.)
-- `percent of population`: 87% (2021 est.)
+- `總計`: 39.15 million (2021 est.)
+- `佔人口比例`: 87% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 9,571,562 (2020 est.)
-- `subscriptions per 100 inhabitants`: 21 (2020 est.)
+- `總計`: 9,571,562 (2020 est.)
+- `每100名居民訂閱數`: 21 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 6 (2020)
-- `inventory of registered aircraft operated by air carriers`: 107
-- `annual passenger traffic on registered air carriers`: 18,081,937 (2018)
-- `annual freight traffic on registered air carriers`: 311.57 million (2018) mt-km
+- `註冊航空公司數量`: 6 (2020)
+- `註冊飛機庫存—航空承運商經營`: 107
+- `年度客運量－註冊航空公司`: 18,081,937 (2018)
+- `年度貨運量－註冊航空公司`: 311.57 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 LV
@@ -673,28 +673,28 @@ LV
 29,930 km gas, 41 km liquid petroleum gas, 6,248 km oil, 3,631 km refined products (2013)
 
 ### 鐵路
-- `total`: 17,866 km (2018)
+- `總計`: 17,866 km (2018)
 
 ### 道路
-- `total`: 240,000 km
-- `paved`: 81,355 km
-- `unpaved`: 158,645 km (2017)
+- `總計`: 240,000 km
+- `已鋪砌`: 81,355 km
+- `未鋪砌`: 158,645 km (2017)
 
 ### 水道
 11,000 km (2012)
 
 ### 商船
-- `total`: 201 (2023)
-- `by type`: container ship 1, bulk carrier 1 general cargo 8, oil tanker 33, other 158
+- `總計`: 201 (2023)
+- `依類型`: container ship 1, bulk carrier 1 general cargo 8, oil tanker 33, other 158
 
 ### 港口
-- `total ports`: 37 (2024)
-- `large`: 1
-- `medium`: 2
-- `small`: 10
-- `very small`: 24
-- `ports with oil terminals`: 19
-- `key ports`: Buenos Aires, Campana, Concepcion del Uruguay, La Plata, Mar del Plata, Puerto Belgrano, Puerto Ingeniero White, Puerto Madryn, Rosario, San Sebastian Bay, Santa Fe, Ushuaia, Zarate
+- `總港口數`: 37 (2024)
+- `大`: 1
+- `中`: 2
+- `小`: 10
+- `非常小`: 24
+- `原油碼頭港口`: 19
+- `主要港口`: Buenos Aires, Campana, Concepcion del Uruguay, La Plata, Mar del Plata, Puerto Belgrano, Puerto Ingeniero White, Puerto Madryn, Rosario, San Sebastian Bay, Santa Fe, Ushuaia, Zarate
 
 ## 軍事和安全
 
@@ -746,7 +746,7 @@ Hizballah
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 217,742 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2023)
+- `難民（原籍國）`: 217,742 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2023)
 
 ### 非法藥物
 counterfeiting, drug trafficking, and other smuggling offenses in the Tri-Border area; some money laundering organizations in the TBA have may have links to the terrorist organization Hizballah; a large producer of chemical precursors

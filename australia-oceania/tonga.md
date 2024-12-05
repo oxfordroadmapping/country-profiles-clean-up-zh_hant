@@ -19,23 +19,23 @@ Oceania, archipelago in the South Pacific Ocean, about two-thirds of the way fro
 Oceania
 
 ### 面積
-- `total `: 747 sq km
-- `land`: 717 sq km
-- `water`: 30 sq km
+- `總計`: 747 sq km
+- `土地`: 717 sq km
+- `水`: 30 sq km
 
 ### 面積—比較
 four times the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 419 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: 200-m depth or to the depth of exploitation
+- `領海`: 12 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: 200-m depth or to the depth of exploitation
 
 ### 氣候
 tropical; modified by trade winds; warm season (December to May), cool season (May to December)
@@ -44,19 +44,19 @@ tropical; modified by trade winds; warm season (December to May), cool season (M
 mostly flat islands with limestone bedrock formed from uplifted coral formation; others have limestone overlying volcanic rock
 
 ### 海拔
-- `highest point`: Kao Volcano on Kao Island 1,046 m
-- `lowest point`: Pacific Ocean 0 m
+- `最高點`: Kao Volcano on Kao Island 1,046 m
+- `最低點`: Pacific Ocean 0 m
 
 ### 自然資源
 arable land, fish
 
 ### 土地利用
-- `agricultural land`: 43.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 22.2% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 15.3% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 5.6% (2018 est.)
-- `forest`: 12.5% (2018 est.)
-- `other`: 44.4% (2018 est.)
+- `農地`: 43.1% (2018 est.)
+- `農地：耕地`: arable land: 22.2% (2018 est.)
+- `農地：永久性作物`: permanent crops: 15.3% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 5.6% (2018 est.)
+- `森林`: 12.5% (2018 est.)
+- `其它`: 44.4% (2018 est.)
 
 ### 灌溉土地
 0 sq km (2022)
@@ -73,13 +73,13 @@ the western islands (making up the Tongan Volcanic Arch) are all of volcanic ori
 ## 人民和社會
 
 ### 人口
-- `total`: 104,889
-- `male`: 52,606
-- `female`: 52,283 (2024 est.)
+- `總計`: 104,889
+- `男性`: 52,606
+- `女性`: 52,283 (2024 est.)
 
 ### 國籍
-- `noun`: Tongan(s)
-- `adjective`: Tongan
+- `名詞`: Tongan(s)
+- `形容詞`: Tongan
 
 ### 族裔群體
 Tongan 96.5%, other (European, Fijian, Samoan, Indian, Chinese, other Pacific Islander, other Asian, other) 3.5% (2021 est.)
@@ -92,20 +92,20 @@ Tongan only 85%, Tongan and other language 13.9%, Tongan not used at home 1.1% (
 Protestant 63.9% (Free Wesleyan Church 34.2%, Free Church of Tonga 11.3%, Church of Tonga 6.8%, Seventh Day Adventist 2.5%, Assembly of God 2.5%, Tokaikolo/Maamafo'ou 1.5%, Constitutional Church of Tonga 1.2%, other Protestant 4%), Church of Jesus Christ 19.7%, Roman Catholic 13.7%, other 2.1%, none 0.6%, no answer 0.1% (2021 est.)
 
 ### 年齡結構
-- `0-14 years`: 29.3% (male 15,627/female 15,142)
-- `15-64 years`: 63.2% (male 33,445/female 32,867)
-- `65 years and over`: 7.4% (2024 est.) (male 3,534/female 4,274)
+- `0-14歲`: 29.3% (male 15,627/female 15,142)
+- `15-64歲`: 63.2% (male 33,445/female 32,867)
+- `65歲及以上`: 7.4% (2024 est.) (male 3,534/female 4,274)
 
 ### 撫養比率
-- `total dependency ratio`: 68.6
-- `youth dependency ratio`: 58.5
-- `elderly dependency ratio`: 10.5
-- `potential support ratio`: 9.5 (2021 est.)
+- `總受扶養人比率`: 68.6
+- `少年撫養比率`: 58.5
+- `老人撫養比率`: 10.5
+- `潛在支持率`: 9.5 (2021 est.)
 
 ### 年齡中位數
-- `total`: 25.9 years (2024 est.)
-- `male`: 25.4 years
-- `female`: 26.4 years
+- `總計`: 25.9 years (2024 est.)
+- `男性`: 25.4 years
+- `女性`: 26.4 years
 
 ### 人口成長率
 -0.34% (2024 est.)
@@ -123,18 +123,18 @@ Protestant 63.9% (Free Wesleyan Church 34.2%, Free Church of Tonga 11.3%, Church
 over two-thirds of the population lives on the island of Tongatapu; only 45 of the nation's 171 islands are occupied
 
 ### 都市化
-- `urban population`: 23.2% of total population (2023)
-- `rate of urbanization`: 0.99% annual rate of change (2020-25 est.)
+- `城市人口`: 23.2% of total population (2023)
+- `城鎮化率`: 0.99% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 23,000 NUKU'ALOFA (2018)
 
 ### 性別比例
-- `at birth`: 1.03 male(s)/female
-- `0-14 years`: 1.03 male(s)/female
-- `15-64 years`: 1.02 male(s)/female
-- `65 years and over`: 0.83 male(s)/female
-- `total population`: 1.01 male(s)/female (2024 est.)
+- `出生時`: 1.03 male(s)/female
+- `0-14歲`: 1.03 male(s)/female
+- `15-64歲`: 1.02 male(s)/female
+- `65歲及以上`: 0.83 male(s)/female
+- `總人口數`: 1.01 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 24.9 years (2012 est.)
@@ -144,14 +144,14 @@ over two-thirds of the population lives on the island of Tongatapu; only 45 of t
 126 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 11.8 deaths/1,000 live births (2024 est.)
-- `male`: 12.8 deaths/1,000 live births
-- `female`: 10.8 deaths/1,000 live births
+- `總計`: 11.8 deaths/1,000 live births (2024 est.)
+- `男性`: 12.8 deaths/1,000 live births
+- `女性`: 10.8 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 78 years (2024 est.)
-- `male`: 76.4 years
-- `female`: 79.7 years
+- `總人口數`: 78 years (2024 est.)
+- `男性`: 76.4 years
+- `女性`: 79.7 years
 
 ### 總生育率
 2.65 children born/woman (2024 est.)
@@ -163,12 +163,12 @@ over two-thirds of the population lives on the island of Tongatapu; only 45 of t
 29.3% (2019)
 
 ### 飲用水來源
-- `improved: urban`: urban: 99.8% of population
-- `improved: rural`: rural: 99.6% of population
-- `improved: total`: total: 99.6% of population
-- `unimproved: urban`: urban: 0.2% of population
-- `unimproved: rural`: rural: 0.4% of population
-- `unimproved: total`: total: 0.4% of population (2020 est.)
+- `已改進－城市`: urban: 99.8% of population
+- `已改進－農村`: rural: 99.6% of population
+- `已改進－總計`: total: 99.6% of population
+- `未改進：都市`: urban: 0.2% of population
+- `未改進：鄉村`: rural: 0.4% of population
+- `未改善：總計`: total: 0.4% of population (2020 est.)
 
 ### 當前醫療支出
 5.3% of GDP (2020)
@@ -177,27 +177,27 @@ over two-thirds of the population lives on the island of Tongatapu; only 45 of t
 0.95 physicians/1,000 population (2020)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 99.4% of population
-- `improved: rural`: rural: 98.8% of population
-- `improved: total`: total: 98.9% of population
-- `unimproved: urban`: urban: 0.6% of population
-- `unimproved: rural`: rural: 1.2% of population
-- `unimproved: total`: total: 1.1% of population (2020 est.)
+- `已改進－城市`: urban: 99.4% of population
+- `已改進－農村`: rural: 98.8% of population
+- `已改進－總計`: total: 98.9% of population
+- `未改進：都市`: urban: 0.6% of population
+- `未改進：鄉村`: rural: 1.2% of population
+- `未改善：總計`: total: 1.1% of population (2020 est.)
 
 ### 肥胖—成人流行率
 48.2% (2016)
 
 ### 人均酒精消費量
-- `total`: 0.31 liters of pure alcohol (2019 est.)
-- `beer`: 0.03 liters of pure alcohol (2019 est.)
-- `wine`: 0.17 liters of pure alcohol (2019 est.)
-- `spirits`: 0.11 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 0.31 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.03 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.17 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.11 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 31% (2020 est.)
-- `male`: 46.7% (2020 est.)
-- `female`: 15.3% (2020 est.)
+- `總計`: 31% (2020 est.)
+- `男性`: 46.7% (2020 est.)
+- `女性`: 15.3% (2020 est.)
 
 ### 5歲以下體重不足兒童
 0.8% (2019)
@@ -206,23 +206,23 @@ over two-thirds of the population lives on the island of Tongatapu; only 45 of t
 54.9% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 0.4%
-- `women married by age 18`: 10.1%
-- `men married by age 18`: 2.8% (2019 est.)
+- `15歲前結婚的女性`: 0.4%
+- `18歲前結婚的女性`: 10.1%
+- `18歲前結婚的男性`: 2.8% (2019 est.)
 
 ### 教育支出
 6.6% of GDP (2021 est.)
 
 ### 識字程度
-- `definition`: can read and write Tongan and/or English
-- `total population`: 99.4%
-- `male`: 99.4%
-- `female`: 99.5% (2021)
+- `定義`: can read and write Tongan and/or English
+- `總人口數`: 99.4%
+- `男性`: 99.4%
+- `女性`: 99.5% (2021)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 16 years
-- `male`: 15 years
-- `female`: 17 years (2020)
+- `總計`: 16 years
+- `男性`: 15 years
+- `女性`: 17 years (2020)
 
 ## 環境
 
@@ -230,23 +230,23 @@ over two-thirds of the population lives on the island of Tongatapu; only 45 of t
 deforestation from land being cleared for agriculture and settlement; soil exhaustion; water pollution due to salinization, sewage, and toxic chemicals from farming activities; coral reefs and marine populations threatened
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 tropical; modified by trade winds; warm season (December to May), cool season (May to December)
 
 ### 土地利用
-- `agricultural land`: 43.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 22.2% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 15.3% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 5.6% (2018 est.)
-- `forest`: 12.5% (2018 est.)
-- `other`: 44.4% (2018 est.)
+- `農地`: 43.1% (2018 est.)
+- `農地：耕地`: arable land: 22.2% (2018 est.)
+- `農地：永久性作物`: permanent crops: 15.3% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 5.6% (2018 est.)
+- `森林`: 12.5% (2018 est.)
+- `其它`: 44.4% (2018 est.)
 
 ### 都市化
-- `urban population`: 23.2% of total population (2023)
-- `rate of urbanization`: 0.99% annual rate of change (2020-25 est.)
+- `城市人口`: 23.2% of total population (2023)
+- `城鎮化率`: 0.99% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.03% of GDP (2018 est.)
@@ -255,12 +255,12 @@ tropical; modified by trade winds; warm season (December to May), cool season (M
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 7.52 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 0.13 megatons (2016 est.)
-- `methane emissions`: 0.12 megatons (2020 est.)
+- `顆粒物排放量`: 7.52 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 0.13 megatons (2016 est.)
+- `甲烷排放量`: 0.12 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 17,238 tons (2012 est.)
+- `城市固體廢棄物－每年產生`: 17,238 tons (2012 est.)
 
 ### 可再生水資源總量
 0 cubic meters (2017 est.)
@@ -268,22 +268,22 @@ tropical; modified by trade winds; warm season (December to May), cool season (M
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Kingdom of Tonga
-- `conventional short form`: Tonga
-- `local long form`: Pule'anga Fakatu'i 'o Tonga
-- `local short form`: Tonga
-- `former`: Friendly Islands
-- `etymology`: "tonga" means "south" in the Tongan language and refers to the country's geographic position in relation to central Polynesia
+- `常用長名`: Kingdom of Tonga
+- `常用短名`: Tonga
+- `當地語長名`: Pule'anga Fakatu'i 'o Tonga
+- `當地語短名`: Tonga
+- `前任`: Friendly Islands
+- `语源学`: "tonga" means "south" in the Tongan language and refers to the country's geographic position in relation to central Polynesia
 
 ### 政府類型
 constitutional monarchy
 
 ### 首都
-- `name`: Nuku'alofa
-- `geographic coordinates`: 21 08 S, 175 12 W
-- `time difference`: UTC+13 (18 hours ahead of Washington, DC, during Standard Time)
-- `daylight saving time`: +1hr, begins first Sunday in November; ends second Sunday in January
-- `etymology`: composed of the words *nuku*, meaning "residence or abode," and *alof*a, meaning "love," to signify "abode of love"
+- `名稱`: Nuku'alofa
+- `地理坐標`: 21 08 S, 175 12 W
+- `時差`: UTC+13 (18 hours ahead of Washington, DC, during Standard Time)
+- `日光節約時間`: +1hr, begins first Sunday in November; ends second Sunday in January
+- `语源学`: composed of the words *nuku*, meaning "residence or abode," and *alof*a, meaning "love," to signify "abode of love"
 
 ### 行政區劃
 5 island divisions; 'Eua, Ha'apai, Ongo Niua, Tongatapu, Vava'u
@@ -298,38 +298,38 @@ Official Birthday of King TUPOU VI, 4 July (1959); note - actual birthday of the
 English common law
 
 ### 憲法
-- `history`: adopted 4 November 1875, revised 1988, 2016
-- `amendments`: proposed by the Legislative Assembly; passage requires approval by the Assembly in each of three readings, the unanimous approval of the Privy Council (a high-level advisory body to the monarch), the Cabinet, and assent to by the monarch; revised 1988; amended many times, last in 2013
+- `歷史`: adopted 4 November 1875, revised 1988, 2016
+- `修正`: proposed by the Legislative Assembly; passage requires approval by the Assembly in each of three readings, the unanimous approval of the Privy Council (a high-level advisory body to the monarch), the Cabinet, and assent to by the monarch; revised 1988; amended many times, last in 2013
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: the father must be a citizen of Tonga; if a child is born out of wedlock, the mother must be a citizen of Tonga
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: 5 years
+- `出生公民權`: no
+- `血統公民身份`: the father must be a citizen of Tonga; if a child is born out of wedlock, the mother must be a citizen of Tonga
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: 5 years
 
 ### 選舉權
 21 years of age; universal
 
 ### 行政部門
-- `chief of state`: King TUPOU VI (since 18 March 2012)
-- `head of government`: Prime Minister Siaosi SOVALENI (since 27 December 2021)
-- `cabinet`: Cabinet nominated by the prime minister and appointed by the monarch
-- `elections/appointments`: the monarchy is hereditary; prime minister and deputy prime minister indirectly elected by the Legislative Assembly and appointed by the monarch; election last held on 18 November 2021 (next to be held in November 2025)
-- `election results`: *2021:* Siaosi SOVALENI elected prime minister by the Legislative Assembly; Siaosi SOVALENI 16 votes, Aisake EKE 10  *2019:* Pohiva TU'I'ONETOA (Peoples Party) elected prime minister by parliament receiving 15 of 23 votes cast
+- `國家元首`: King TUPOU VI (since 18 March 2012)
+- `政府首腦`: Prime Minister Siaosi SOVALENI (since 27 December 2021)
+- `内閣`: Cabinet nominated by the prime minister and appointed by the monarch
+- `選舉/任命`: the monarchy is hereditary; prime minister and deputy prime minister indirectly elected by the Legislative Assembly and appointed by the monarch; election last held on 18 November 2021 (next to be held in November 2025)
+- `選舉結果`: *2021:* Siaosi SOVALENI elected prime minister by the Legislative Assembly; Siaosi SOVALENI 16 votes, Aisake EKE 10  *2019:* Pohiva TU'I'ONETOA (Peoples Party) elected prime minister by parliament receiving 15 of 23 votes cast
 **note**:  a Privy Council advises the monarch
 
 ### 立法部門
-- `description`: unicameral Legislative Assembly or Fale Alea (30 seats statutory, 28 current); 17 people's representatives directly elected in single-seat constituencies by simple majority vote, and 9 indirectly elected by hereditary leaders; members serve 4-year terms)
-- `elections`: last held on 18 November 2021 (next to be held in November 2025)
-- `election results`: percent of vote - NA; seats by party - independent 12, nobles' representatives 9, DPFI 3, TPPI 3; composition - men 26, women 2, percentage women 7.1%
+- `描述`: unicameral Legislative Assembly or Fale Alea (30 seats statutory, 28 current); 17 people's representatives directly elected in single-seat constituencies by simple majority vote, and 9 indirectly elected by hereditary leaders; members serve 4-year terms)
+- `選舉`: last held on 18 November 2021 (next to be held in November 2025)
+- `選舉結果`: percent of vote - NA; seats by party - independent 12, nobles' representatives 9, DPFI 3, TPPI 3; composition - men 26, women 2, percentage women 7.1%
 
 ### 司法部門
-- `highest court(s)`: Court of Appeal (consists of the court president and a number of judges determined by the monarch); note - appeals beyond the Court of Appeal are brought before the King in Privy Council, the monarch's advisory organ that has both judicial and legislative powers
-- `judge selection and term of office`: judge appointments and tenures made by the King in Privy Council and subject to consent of the Legislative Assembly
-- `subordinate courts`: Supreme Court; Magistrates' Courts; Land Courts
+- `最高法院`: Court of Appeal (consists of the court president and a number of judges determined by the monarch); note - appeals beyond the Court of Appeal are brought before the King in Privy Council, the monarch's advisory organ that has both judicial and legislative powers
+- `法官遴選和任期`: judge appointments and tenures made by the King in Privy Council and subject to consent of the Legislative Assembly
+- `下級法院`: Supreme Court; Magistrates' Courts; Land Courts
 
 ### 政黨
 Democratic Party of the Friendly Islands or DPFI or PTOA Tonga People's Party (Paati ʻa e Kakai ʻo Tonga) or PAK or TPPI
@@ -338,16 +338,16 @@ Democratic Party of the Friendly Islands or DPFI or PTOA Tonga People's Party (
 ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, IMF, IMO, IMSO, Interpol, IOC, IPU, ITU, ITUC (NGOs), OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Viliana Va’inga TONE (since 20 April 2021)
-- `chancery`: 250 East 51st Street, New York, NY 10022
-- `telephone`: [1] (917) 369-1025
+- `外交代表負責人`: Ambassador Viliana Va’inga TONE (since 20 April 2021)
+- `衡平法院（在美國）`: 250 East 51st Street, New York, NY 10022
+- `電話號碼`: [1] (917) 369-1025
 - `FAX`: [1] (917) 369-1024
-- `email address and website`: tongaconsnot@gmail.com
-- `consulate(s) general`: San Francisco
+- `電子郵件地址和網站`: tongaconsnot@gmail.com
+- `總領事館`: San Francisco
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Marie DAMOUR (since 6 December 2022); note - Ambassador DAMOUR is based in the US Embassy in the Republic of Fiji and is accredited to Tonga as well as Kiribati, Nauru, and Tuvalu
-- `embassy`: although the US opened an embassy in Tonga on 9 May 2023, the US Ambassador to Fiji is accredited to Tonga while the Embassy is being staffed
+- `外交代表負責人`: Ambassador Marie DAMOUR (since 6 December 2022); note - Ambassador DAMOUR is based in the US Embassy in the Republic of Fiji and is accredited to Tonga as well as Kiribati, Nauru, and Tuvalu
+- `大使館`: although the US opened an embassy in Tonga on 9 May 2023, the US Ambassador to Fiji is accredited to Tonga while the Embassy is being staffed
 
 ### 旗幟說明
 red with a bold red cross on a white rectangle in the upper hoist-side corner; the cross reflects the deep-rooted Christianity in Tonga, red represents the blood of Christ and his sacrifice, and white signifies purity
@@ -356,8 +356,8 @@ red with a bold red cross on a white rectangle in the upper hoist-side corner; t
 red cross on white field, arms equal length; national colors: red, white
 
 ### 國歌
-- `name`: "Ko e fasi `o e tu"i `o e `Otu Tonga" (Song of the King of the Tonga Islands)
-- `lyrics/music`: Uelingatoni Ngu TUPOUMALOHI/Karl Gustavus SCHMITT
+- `名稱`: "Ko e fasi `o e tu "i`o e `Otu Tonga" (Song of the King of the Tonga Islands)
+- `歌詞／音樂`: Uelingatoni Ngu TUPOUMALOHI/Karl Gustavus SCHMITT
 **note**:  in use since 1875; more commonly known as "Fasi Fakafonua" (National Song)
 
 ## 經濟
@@ -394,18 +394,18 @@ $500.275 million (2022 est.)
 **note**: annual % change based on consumer prices
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 16.3% (2021 est.)
-- `industry`: 15.9% (2021 est.)
-- `services`: 49.7% (2021 est.)
+- `農業`: 16.3% (2021 est.)
+- `產業`: 15.9% (2021 est.)
+- `服務`: 49.7% (2021 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 109% (2021 est.)
-- `government consumption`: 30.7% (2021 est.)
-- `investment in fixed capital`: 23.2% (2021 est.)
-- `investment in inventories`: -1.3% (2021 est.)
-- `exports of goods and services`: 12.5% (2021 est.)
-- `imports of goods and services`: -60.8% (2021 est.)
+- `家庭消費`: 109% (2021 est.)
+- `政府消費`: 30.7% (2021 est.)
+- `固定資本投資`: 23.2% (2021 est.)
+- `存貨投資`: -1.3% (2021 est.)
+- `商品和服務出口`: 12.5% (2021 est.)
+- `商品和服務進口`: -60.8% (2021 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -430,9 +430,9 @@ tourism, construction, fishing
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 6.7% (2023 est.)
-- `male`: 4.4% (2023 est.)
-- `female`: 10.5% (2023 est.)
+- `總計`: 6.7% (2023 est.)
+- `男性`: 4.4% (2023 est.)
+- `女性`: 10.5% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -443,8 +443,8 @@ tourism, construction, fishing
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 4% (2021 est.)
-- `highest 10%`: 22% (2021 est.)
+- `最低10%`: 4% (2021 est.)
+- `最高10%`: 22% (2021 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -454,8 +454,8 @@ tourism, construction, fishing
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $215.007 million (2020 est.)
-- `expenditures`: $160.257 million (2020 est.)
+- `收入`: $215.007 million (2020 est.)
+- `支出`: $160.257 million (2020 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -520,24 +520,24 @@ $152.877 million (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 33,000 kW (2022 est.)
-- `consumption`: 69.136 million kWh (2022 est.)
-- `transmission/distribution losses`: 6 million kWh (2022 est.)
+- `裝機容量`: 33,000 kW (2022 est.)
+- `消費`: 69.136 million kWh (2022 est.)
+- `傳輸／分配損耗`: 6 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 86.7% of total installed capacity (2022 est.)
-- `solar`: 9.3% of total installed capacity (2022 est.)
-- `wind`: 4% of total installed capacity (2022 est.)
+- `石化燃料`: 86.7% of total installed capacity (2022 est.)
+- `太陽能`: 9.3% of total installed capacity (2022 est.)
+- `風能`: 4% of total installed capacity (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 900 bbl/day (2022 est.)
+- `成品油消費量`: 900 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 131,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 131,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 131,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 131,000 metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 17.949 million Btu/person (2022 est.)
@@ -545,17 +545,17 @@ $152.877 million (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 11,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 10 (2021 est.)
+- `總訂閱數`: 11,000 (2021 est.)
+- `每100名居民訂閱數`: 10 (2021 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 64,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 61 (2021 est.)
+- `總訂閱數`: 64,000 (2021 est.)
+- `每100名居民訂閱數`: 61 (2021 est.)
 
 ### 電信系統
-- `general assessment`: Tonga was only connected to the global submarine telecommunication network in the last decade; though this system is more stable than other technologies such as satellite and fixed infrastructure; the January 2022 eruption of Hunga Tonga-Hunga Ha’apai severed Tonga’s connection to the submarine telecommunication network (2023)
-- `domestic`: fixed-line 10 per 100 persons and mobile-cellular teledensity 61 telephones per 100 (2021)
-- `international`: country code - 676; landing point for the Tonga Cable and the TDCE connecting to Fiji and 3 separate Tonga islands; satellite earth station - 1 Intelsat (Pacific Ocean) (2020)
+- `總體評估`: Tonga was only connected to the global submarine telecommunication network in the last decade; though this system is more stable than other technologies such as satellite and fixed infrastructure; the January 2022 eruption of Hunga Tonga-Hunga Ha’apai severed Tonga’s connection to the submarine telecommunication network (2023)
+- `國內`: fixed-line 10 per 100 persons and mobile-cellular teledensity 61 telephones per 100 (2021)
+- `國際的`: country code - 676; landing point for the Tonga Cable and the TDCE connecting to Fiji and 3 separate Tonga islands; satellite earth station - 1 Intelsat (Pacific Ocean) (2020)
 
 ### 廣播媒體
 1 state-owned TV station and 3 privately owned TV stations; satellite and cable TV services are available; 1 state-owned and 5 privately owned radio stations; Radio Australia broadcasts available via satellite (2019)
@@ -564,18 +564,18 @@ $152.877 million (2022 est.)
 .to
 
 ### 網際網路使用者
-- `total`: 73,700 (2021 est.)
-- `percent of population`: 67% (2021 est.)
+- `總計`: 73,700 (2021 est.)
+- `佔人口比例`: 67% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 5,000 (2020 est.)
-- `subscriptions per 100 inhabitants`: 5 (2020 est.)
+- `總計`: 5,000 (2020 est.)
+- `每100名居民訂閱數`: 5 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 1 (2020)
-- `inventory of registered aircraft operated by air carriers`: 1
+- `註冊航空公司數量`: 1 (2020)
+- `註冊飛機庫存—航空承運商經營`: 1
 
 ### 註冊民用航空器國家代碼前綴
 A3
@@ -584,22 +584,22 @@ A3
 6 (2024)
 
 ### 道路
-- `total`: 680 km
-- `paved`: 184 km
-- `unpaved`: 496 km (2011)
+- `總計`: 680 km
+- `已鋪砌`: 184 km
+- `未鋪砌`: 496 km (2011)
 
 ### 商船
-- `total`: 29 (2023)
-- `by type`: container ship 1, general cargo 13, oil tanker 1, other 14
+- `總計`: 29 (2023)
+- `依類型`: container ship 1, general cargo 13, oil tanker 1, other 14
 
 ### 港口
-- `total ports`: 3 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 0
-- `very small`: 3
-- `ports with oil terminals`: 0
-- `key ports`: Neiafu, Nuku Alofa, Pangai
+- `總港口數`: 3 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 0
+- `非常小`: 3
+- `原油碼頭港口`: 0
+- `主要港口`: Neiafu, Nuku Alofa, Pangai
 
 ## 軍事和安全
 

@@ -19,24 +19,24 @@ Eastern Africa, bordering the Gulf of Aden and the Red Sea, between Eritrea and 
 Africa
 
 ### 面積
-- `total `: 23,200 sq km
-- `land`: 23,180 sq km
-- `water`: 20 sq km
+- `總計`: 23,200 sq km
+- `土地`: 23,180 sq km
+- `水`: 20 sq km
 
 ### 面積—比較
 slightly smaller than New Jersey
 
 ### 陸地邊界
-- `total`: 528 km
-- `border countries`: Eritrea 125 km; Ethiopia 342 km; Somalia 61 km
+- `總計`: 528 km
+- `邊境國家`: Eritrea 125 km; Ethiopia 342 km; Somalia 61 km
 
 ### 海岸線
 314 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
 
 ### 氣候
 desert; torrid, dry
@@ -45,26 +45,26 @@ desert; torrid, dry
 coastal plain and plateau separated by central mountains
 
 ### 海拔
-- `highest point`: Moussa Ali 2,021 m
-- `lowest point`: Lac Assal -155 m
-- `mean elevation`: 430 m
+- `最高點`: Moussa Ali 2,021 m
+- `最低點`: Lac Assal -155 m
+- `平均海拔`: 430 m
 
 ### 自然資源
 potential geothermal power, gold, clay, granite, limestone, marble, salt, diatomite, gypsum, pumice, petroleum
 
 ### 土地利用
-- `agricultural land`: 73.4% (2018 est.)
-- `agricultural land: arable land`: arable land: 0.1% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 73.3% (2018 est.)
-- `forest`: 0.2% (2018 est.)
-- `other`: 26.4% (2018 est.)
+- `農地`: 73.4% (2018 est.)
+- `農地：耕地`: arable land: 0.1% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 73.3% (2018 est.)
+- `森林`: 0.2% (2018 est.)
+- `其它`: 26.4% (2018 est.)
 
 ### 灌溉土地
 10 sq km (2012)
 
 ### 主要湖泊（按面積平方公里）
-- `salt water lake(s)`: Abhe Bad/Abhe Bid Hayk (shared with Ethiopia) - 780 sq km
+- `鹽水湖`: Abhe Bad/Abhe Bid Hayk (shared with Ethiopia) - 780 sq km
 
 ### 人口分布
 most densely populated areas are in the east; the largest city is Djibouti, with a population over 600,000; no other city in the country has a total population over 50,000 as shown in this population distribution map
@@ -78,13 +78,13 @@ strategic location near world's busiest shipping lanes and close to Arabian oilf
 ## 人民和社會
 
 ### 人口
-- `total`: 994,974
-- `male`: 450,796
-- `female`: 544,178 (2024 est.)
+- `總計`: 994,974
+- `男性`: 450,796
+- `女性`: 544,178 (2024 est.)
 
 ### 國籍
-- `noun`: Djiboutian(s)
-- `adjective`: Djiboutian
+- `名詞`: Djiboutian(s)
+- `形容詞`: Djiboutian
 
 ### 族裔群體
 Somali 60%, Afar 35%, other 5% (mostly Yemeni Arab, also French, Ethiopian, and Italian)
@@ -99,20 +99,20 @@ Sunni Muslim 94% (nearly all Djiboutians), other 6% (mainly foreign-born residen
 Djibouti is a poor, predominantly urban country, characterized by high rates of illiteracy, unemployment, and childhood malnutrition. Approximately 70% of the population lives in cities and towns (predominantly in the capital, Djibouti). The rural population subsists primarily on nomadic herding. Prone to droughts and floods, the country has few natural resources and must import more than 80% of its food from neighboring countries or Europe. Health care, particularly outside the capital, is limited by poor infrastructure, shortages of equipment and supplies, and a lack of qualified personnel. More than a third of health care recipients are migrants because the services are still better than those available in their neighboring home countries. The nearly universal practice of female genital cutting reflects Djibouti’s lack of gender equality and is a major contributor to obstetrical complications and its high rates of maternal and infant mortality. A 1995 law prohibiting the practice has never been enforced. Because of its political stability and its strategic location at the confluence of East Africa and the Gulf States along the Gulf of Aden and the Red Sea, Djibouti is a key transit point for migrants and asylum seekers heading for the Gulf States and beyond. Each year some 100,000 people, mainly Ethiopians and some Somalis, journey through Djibouti, usually to the port of Obock, to attempt a dangerous sea crossing to Yemen. However, with the escalation of the ongoing Yemen conflict, Yemenis began fleeing to Djibouti in March 2015, with almost 20,000 arriving by August 2017. Most Yemenis remain unregistered and head for Djibouti City rather than seeking asylum at one of Djibouti’s three spartan refugee camps. Djibouti has been hosting refugees and asylum seekers, predominantly Somalis and lesser numbers of Ethiopians and Eritreans, at camps for 20 years, despite lacking potable water, food shortages, and unemployment.
 
 ### 年齡結構
-- `0-14 years`: 28.4% (male 141,829/female 140,696)
-- `15-64 years`: 67.4% (male 290,654/female 379,778)
-- `65 years and over`: 4.2% (2024 est.) (male 18,313/female 23,704)
+- `0-14歲`: 28.4% (male 141,829/female 140,696)
+- `15-64歲`: 67.4% (male 290,654/female 379,778)
+- `65歲及以上`: 4.2% (2024 est.) (male 18,313/female 23,704)
 
 ### 撫養比率
-- `total dependency ratio`: 50.6
-- `youth dependency ratio`: 47.5
-- `elderly dependency ratio`: 6.9
-- `potential support ratio`: 14.4 (2021 est.)
+- `總受扶養人比率`: 50.6
+- `少年撫養比率`: 47.5
+- `老人撫養比率`: 6.9
+- `潛在支持率`: 14.4 (2021 est.)
 
 ### 年齡中位數
-- `total`: 26.3 years (2024 est.)
-- `male`: 24.4 years
-- `female`: 27.9 years
+- `總計`: 26.3 years (2024 est.)
+- `男性`: 24.4 years
+- `女性`: 27.9 years
 
 ### 人口成長率
 1.89% (2024 est.)
@@ -130,31 +130,31 @@ Djibouti is a poor, predominantly urban country, characterized by high rates of 
 most densely populated areas are in the east; the largest city is Djibouti, with a population over 600,000; no other city in the country has a total population over 50,000 as shown in this population distribution map
 
 ### 都市化
-- `urban population`: 78.6% of total population (2023)
-- `rate of urbanization`: 1.56% annual rate of change (2020-25 est.)
+- `城市人口`: 78.6% of total population (2023)
+- `城鎮化率`: 1.56% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 600,000 DJIBOUTI (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.03 male(s)/female
-- `0-14 years`: 1.01 male(s)/female
-- `15-64 years`: 0.77 male(s)/female
-- `65 years and over`: 0.77 male(s)/female
-- `total population`: 0.83 male(s)/female (2024 est.)
+- `出生時`: 1.03 male(s)/female
+- `0-14歲`: 1.01 male(s)/female
+- `15-64歲`: 0.77 male(s)/female
+- `65歲及以上`: 0.77 male(s)/female
+- `總人口數`: 0.83 male(s)/female (2024 est.)
 
 ### 產婦死亡率
 234 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 45.2 deaths/1,000 live births (2024 est.)
-- `male`: 52.1 deaths/1,000 live births
-- `female`: 38 deaths/1,000 live births
+- `總計`: 45.2 deaths/1,000 live births (2024 est.)
+- `男性`: 52.1 deaths/1,000 live births
+- `女性`: 38 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 65.9 years (2024 est.)
-- `male`: 63.4 years
-- `female`: 68.5 years
+- `總人口數`: 65.9 years (2024 est.)
+- `男性`: 63.4 years
+- `女性`: 68.5 years
 
 ### 總生育率
 2.11 children born/woman (2024 est.)
@@ -166,12 +166,12 @@ most densely populated areas are in the east; the largest city is Djibouti, with
 19% (2012)
 
 ### 飲用水來源
-- `improved: urban`: urban: 99.7% of population
-- `improved: rural`: rural: 59.3% of population
-- `improved: total`: total: 90.8% of population
-- `unimproved: urban`: urban: 0.3% of population
-- `unimproved: rural`: rural: 40.7% of population
-- `unimproved: total`: total: 9.2% of population (2020 est.)
+- `已改進－城市`: urban: 99.7% of population
+- `已改進－農村`: rural: 59.3% of population
+- `已改進－總計`: total: 90.8% of population
+- `未改進：都市`: urban: 0.3% of population
+- `未改進：鄉村`: rural: 40.7% of population
+- `未改善：總計`: total: 9.2% of population (2020 est.)
 
 ### 當前醫療支出
 2% of GDP (2020)
@@ -183,22 +183,22 @@ most densely populated areas are in the east; the largest city is Djibouti, with
 1.4 beds/1,000 population (2017)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 87.7% of population
-- `improved: rural`: rural: 24.2% of population
-- `improved: total`: total: 73.8% of population
-- `unimproved: urban`: urban: 12.3% of population
-- `unimproved: rural`: rural: 75.8% of population
-- `unimproved: total`: total: 26.2% of population (2020 est.)
+- `已改進－城市`: urban: 87.7% of population
+- `已改進－農村`: rural: 24.2% of population
+- `已改進－總計`: total: 73.8% of population
+- `未改進：都市`: urban: 12.3% of population
+- `未改進：鄉村`: rural: 75.8% of population
+- `未改善：總計`: total: 26.2% of population (2020 est.)
 
 ### 肥胖—成人流行率
 13.5% (2016)
 
 ### 人均酒精消費量
-- `total`: 0.21 liters of pure alcohol (2019 est.)
-- `beer`: 0.05 liters of pure alcohol (2019 est.)
-- `wine`: 0.02 liters of pure alcohol (2019 est.)
-- `spirits`: 0.14 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 0.21 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.05 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.02 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.14 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 5歲以下體重不足兒童
 16.2% (2019)
@@ -207,21 +207,21 @@ most densely populated areas are in the east; the largest city is Djibouti, with
 50.6% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 1.4%
-- `women married by age 18`: 6.5% (2019 est.)
+- `15歲前結婚的女性`: 1.4%
+- `18歲前結婚的女性`: 6.5% (2019 est.)
 
 ### 教育支出
 3.6% of GDP (2018 est.)
 
 ### 識字程度
-- `total population`: NA
-- `male`: NA
-- `female`: NA
+- `總人口數`: NA
+- `男性`: NA
+- `女性`: NA
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 7 years
-- `male`: 7 years
-- `female`: 7 years (2011)
+- `總計`: 7 years
+- `男性`: 7 years
+- `女性`: 7 years (2011)
 
 ## 環境
 
@@ -229,26 +229,26 @@ most densely populated areas are in the east; the largest city is Djibouti, with
 inadequate supplies of potable water; water pollution; limited arable land; deforestation (forests threatened by agriculture and the use of wood for fuel); desertification; endangered species
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 desert; torrid, dry
 
 ### 土地利用
-- `agricultural land`: 73.4% (2018 est.)
-- `agricultural land: arable land`: arable land: 0.1% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 73.3% (2018 est.)
-- `forest`: 0.2% (2018 est.)
-- `other`: 26.4% (2018 est.)
+- `農地`: 73.4% (2018 est.)
+- `農地：耕地`: arable land: 0.1% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 73.3% (2018 est.)
+- `森林`: 0.2% (2018 est.)
+- `其它`: 26.4% (2018 est.)
 
 ### 都市化
-- `urban population`: 78.6% of total population (2023)
-- `rate of urbanization`: 1.56% annual rate of change (2020-25 est.)
+- `城市人口`: 78.6% of total population (2023)
+- `城鎮化率`: 1.56% annual rate of change (2020-25 est.)
 
 ### 糧食不安全
-- `widespread lack of access`: *due to unfavorable weather and high food prices - *about 250,000 people were estimated to have faced acute food insecurity between March and June 2023, mainly due to the lingering impact of a prolonged and severe drought between late 2020 and early 2023, and high food prices (2023)
+- `普遍缺乏訪問權限`: *due to unfavorable weather and high food prices - *about 250,000 people were estimated to have faced acute food insecurity between March and June 2023, mainly due to the lingering impact of a prolonged and severe drought between late 2020 and early 2023, and high food prices (2023)
 
 ### 森林資源收入
 0.26% of GDP (2018 est.)
@@ -257,20 +257,20 @@ desert; torrid, dry
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 19.98 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 0.62 megatons (2016 est.)
-- `methane emissions`: 0.52 megatons (2020 est.)
+- `顆粒物排放量`: 19.98 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 0.62 megatons (2016 est.)
+- `甲烷排放量`: 0.52 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 114,997 tons (2002 est.)
+- `城市固體廢棄物－每年產生`: 114,997 tons (2002 est.)
 
 ### 主要湖泊（按面積平方公里）
-- `salt water lake(s)`: Abhe Bad/Abhe Bid Hayk (shared with Ethiopia) - 780 sq km
+- `鹽水湖`: Abhe Bad/Abhe Bid Hayk (shared with Ethiopia) - 780 sq km
 
 ### 總取水量
-- `municipal`: 20 million cubic meters (2020 est.)
-- `industrial`: 0 cubic meters (2017 est.)
-- `agricultural`: 3 million cubic meters (2017 est.)
+- `市級`: 20 million cubic meters (2020 est.)
+- `工業`: 0 cubic meters (2017 est.)
+- `農業`: 3 million cubic meters (2017 est.)
 
 ### 可再生水資源總量
 300 million cubic meters (2020 est.)
@@ -278,21 +278,21 @@ desert; torrid, dry
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Djibouti
-- `conventional short form`: Djibouti
-- `local long form`: République de Djibouti (French)/ Jumhuriyat Jibuti (Arabic)
-- `local short form`: Djibouti (French)/ Jibuti (Arabic)
-- `former`: French Somaliland, French Territory of the Afars and Issas
-- `etymology`: the country name derives from the capital city of Djibouti
+- `常用長名`: Republic of Djibouti
+- `常用短名`: Djibouti
+- `當地語長名`: République de Djibouti (French)/ Jumhuriyat Jibuti (Arabic)
+- `當地語短名`: Djibouti (French)/ Jibuti (Arabic)
+- `前任`: French Somaliland, French Territory of the Afars and Issas
+- `语源学`: the country name derives from the capital city of Djibouti
 
 ### 政府類型
 presidential republic
 
 ### 首都
-- `name`: Djibouti
-- `geographic coordinates`: 11 35 N, 43 09 E
-- `time difference`: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: the origin of the name is disputed; multiple descriptions, possibilities, and theories have been proposed
+- `名稱`: Djibouti
+- `地理坐標`: 11 35 N, 43 09 E
+- `時差`: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: the origin of the name is disputed; multiple descriptions, possibilities, and theories have been proposed
 
 ### 行政區劃
 6 districts (cercles, singular - cercle); Ali Sabieh, Arta, Dikhil, Djibouti, Obock, Tadjourah
@@ -307,38 +307,38 @@ Independence Day, 27 June (1977)
 mixed legal system based primarily on the French civil code (as it existed in 1997), Islamic religious law (in matters of family law and successions), and customary law
 
 ### 憲法
-- `history`: approved by referendum 4 September 1992
-- `amendments`: proposed by the president of the republic or by the National Assembly; Assembly consideration of proposals requires assent of at least one third of the membership; passage requires a simple majority vote by the Assembly and approval by simple majority vote in a referendum; the president can opt to bypass a referendum if adopted by at least two-thirds majority vote of the Assembly; constitutional articles on the sovereignty of Djibouti, its republican form of government, and its pluralist form of democracy cannot be amended; amended 2006, 2008, 2010
+- `歷史`: approved by referendum 4 September 1992
+- `修正`: proposed by the president of the republic or by the National Assembly; Assembly consideration of proposals requires assent of at least one third of the membership; passage requires a simple majority vote by the Assembly and approval by simple majority vote in a referendum; the president can opt to bypass a referendum if adopted by at least two-thirds majority vote of the Assembly; constitutional articles on the sovereignty of Djibouti, its republican form of government, and its pluralist form of democracy cannot be amended; amended 2006, 2008, 2010
 
 ### 國際法組織參與
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: the mother must be a citizen of Djibouti
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 10 years
+- `出生公民權`: no
+- `血統公民身份`: the mother must be a citizen of Djibouti
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 10 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Ismail Omar GUELLEH (since 8 May 1999)
-- `head of government`: Prime Minister Abdoulkader Kamil MOHAMED (since 1 April 2013)
-- `cabinet`: Council of Ministers appointed by the prime minister
-- `elections/appointments`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term; election last held on 9 April 2021 (next to be held in April 2026); prime minister appointed by the president
-- `election results`: *2021:* Ismail Omar GUELLEH reelected president for a fifth term; percent of vote - Ismail Omar GUELLEH (RPP) 97.4%, Zakaria Ismael FARAH (MDEND) 2.7%  *2016:* Ismail Omar GUELLEH reelected president for a fourth term; percent of vote - Ismail Omar GUELLEH (RPP) 87%, Omar Elmi KHAIREH (CDU) 7.3%, other 5.6%
+- `國家元首`: President Ismail Omar GUELLEH (since 8 May 1999)
+- `政府首腦`: Prime Minister Abdoulkader Kamil MOHAMED (since 1 April 2013)
+- `内閣`: Council of Ministers appointed by the prime minister
+- `選舉/任命`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term; election last held on 9 April 2021 (next to be held in April 2026); prime minister appointed by the president
+- `選舉結果`: *2021:* Ismail Omar GUELLEH reelected president for a fifth term; percent of vote - Ismail Omar GUELLEH (RPP) 97.4%, Zakaria Ismael FARAH (MDEND) 2.7%  *2016:* Ismail Omar GUELLEH reelected president for a fourth term; percent of vote - Ismail Omar GUELLEH (RPP) 87%, Omar Elmi KHAIREH (CDU) 7.3%, other 5.6%
 
 ### 立法部門
-- `description`: unicameral National Assembly or Assemblée Nationale, formerly the Chamber of Deputies (65 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 5-year terms)
-- `elections`: last held on 24 February 2023 (next to be held in February 2028)
-- `election results`: percent of vote by party - UMP 93.6%, UDJ 6.3%; seats by party - UMP 58, UDJ 7; composition - men 48, women 17, percentage women 26.2%
+- `描述`: unicameral National Assembly or Assemblée Nationale, formerly the Chamber of Deputies (65 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 5-year terms)
+- `選舉`: last held on 24 February 2023 (next to be held in February 2028)
+- `選舉結果`: percent of vote by party - UMP 93.6%, UDJ 6.3%; seats by party - UMP 58, UDJ 7; composition - men 48, women 17, percentage women 26.2%
 **note**:  most opposition parties boycotted the 2023 polls, stating the elections were "not free, not transparent, and not democratic"
 
 ### 司法部門
-- `highest court(s)`: Supreme Court or Cour Supreme (consists of NA magistrates); Constitutional Council (consists of 6 magistrates)
-- `judge selection and term of office`: Supreme Court magistrates appointed by the president with the advice of the Superior Council of the Magistracy (CSM), a 10-member body consisting of 4 judges, 3 members (non-parliamentarians and judges) appointed by the president, and 3 appointed by the National Assembly president or speaker; magistrates appointed for life with retirement at age 65; Constitutional Council magistrate appointments - 2 by the president of the republic, 2 by the president of the National Assembly, and 2 by the CSM; magistrates appointed for 8-year, non-renewable terms
-- `subordinate courts`: High Court of Appeal; Courts of First Instance; customary courts; State Court (replaced sharia courts in 2003)
+- `最高法院`: Supreme Court or Cour Supreme (consists of NA magistrates); Constitutional Council (consists of 6 magistrates)
+- `法官遴選和任期`: Supreme Court magistrates appointed by the president with the advice of the Superior Council of the Magistracy (CSM), a 10-member body consisting of 4 judges, 3 members (non-parliamentarians and judges) appointed by the president, and 3 appointed by the National Assembly president or speaker; magistrates appointed for life with retirement at age 65; Constitutional Council magistrate appointments - 2 by the president of the republic, 2 by the president of the National Assembly, and 2 by the CSM; magistrates appointed for 8-year, non-renewable terms
+- `下級法院`: High Court of Appeal; Courts of First Instance; customary courts; State Court (replaced sharia courts in 2003)
 
 ### 政黨
 Front for Restoration of Unity and Democracy (Front pour la Restauration de l'Unite Democratique) or FRUDNational Democratic Party or PNDPeople's Rally for Progress or RPPPeoples Social Democratic Party or PPSDUnion for Democracy and Justice or UDJUnion for the Presidential Majority coalition or UMPUnion of Reform Partisans or UPR
@@ -347,19 +347,19 @@ Front for Restoration of Unity and Democracy (Front pour la Restauration de l'Un
 ACP, AfDB, AFESD, AMF, ATMIS, AU, CAEU (candidates), COMESA, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, ITUC (NGOs), LAS, MIGA, MINURSO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Mohamed Siad DOUALEH (28 January 2016)
-- `chancery`: 1156 15th Street NW, Suite 515, Washington, DC 20005
-- `telephone`: [1] (202) 331-0270
+- `外交代表負責人`: Ambassador Mohamed Siad DOUALEH (28 January 2016)
+- `衡平法院（在美國）`: 1156 15th Street NW, Suite 515, Washington, DC 20005
+- `電話號碼`: [1] (202) 331-0270
 - `FAX`: [1] (202) 331-0302
-- `email address and website`: info@djiboutiembassyus.org  https://www.djiboutiembassyus.org/
+- `電子郵件地址和網站`: info@djiboutiembassyus.org  https://www.djiboutiembassyus.org/
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador (vacant); Chargé d’Affaires Christopher SNIPES (since October 2023)
-- `embassy`: Lot 350-B Haramouss, B.P. 185
-- `mailing address`: 2150 Djibouti Place, Washington DC  20521-2150
-- `telephone`: [253] 21-45-30-00
+- `外交代表負責人`: Ambassador (vacant); Chargé d’Affaires Christopher SNIPES (since October 2023)
+- `大使館`: Lot 350-B Haramouss, B.P. 185
+- `郵寄地址`: 2150 Djibouti Place, Washington DC  20521-2150
+- `電話號碼`: [253] 21-45-30-00
 - `FAX`: [253] 21-45-31-29
-- `email address and website`: DjiboutiACS@state.gov  https://dj.usembassy.gov/
+- `電子郵件地址和網站`: DjiboutiACS@state.gov  https://dj.usembassy.gov/
 
 ### 旗幟說明
 two equal horizontal bands of light blue (top) and light green with a white isosceles triangle based on the hoist side bearing a red five-pointed star in the center; blue stands for sea and sky and the Issa Somali people; green symbolizes earth and the Afar people; white represents peace; the red star recalls the struggle for independence and stands for unity
@@ -368,8 +368,8 @@ two equal horizontal bands of light blue (top) and light green with a white isos
 red star; national colors: light blue, green, white, red
 
 ### 國歌
-- `name`: "Jabuuti" (Djibouti)
-- `lyrics/music`: Aden ELMI/Abdi ROBLEH
+- `名稱`: "Jabuuti" (Djibouti)
+- `歌詞／音樂`: Aden ELMI/Abdi ROBLEH
 **note**:  adopted 1977
 
 ## 經濟
@@ -406,17 +406,17 @@ $4.099 billion (2023 est.)
 **note**: annual % change based on consumer prices
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 1.8% (2023 est.)
-- `industry`: 15.3% (2023 est.)
-- `services`: 76.9% (2023 est.)
+- `農業`: 1.8% (2023 est.)
+- `產業`: 15.3% (2023 est.)
+- `服務`: 76.9% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 60.6% (2023 est.)
-- `government consumption`: 14.5% (2023 est.)
-- `investment in fixed capital`: 29.4% (2023 est.)
-- `exports of goods and services`: 169.1% (2023 est.)
-- `imports of goods and services`: -173.6% (2023 est.)
+- `家庭消費`: 60.6% (2023 est.)
+- `政府消費`: 14.5% (2023 est.)
+- `固定資本投資`: 29.4% (2023 est.)
+- `商品和服務出口`: 169.1% (2023 est.)
+- `商品和服務進口`: -173.6% (2023 est.)
 **note**:  figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -441,9 +441,9 @@ construction, agricultural processing, shipping
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 76.5% (2023 est.)
-- `male`: 75.4% (2023 est.)
-- `female`: 78.1% (2023 est.)
+- `總計`: 76.5% (2023 est.)
+- `男性`: 75.4% (2023 est.)
+- `女性`: 78.1% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -455,8 +455,8 @@ construction, agricultural processing, shipping
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 1.9% (2017 est.)
-- `highest 10%`: 32.3% (2017 est.)
+- `最低10%`: 1.9% (2017 est.)
+- `最高10%`: 32.3% (2017 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -466,8 +466,8 @@ construction, agricultural processing, shipping
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $725 million (2019 est.)
-- `expenditures`: $754 million (2019 est.)
+- `收入`: $725 million (2019 est.)
+- `支出`: $754 million (2019 est.)
 
 ### 公共債務
 31.8% of GDP (2017 est.)
@@ -530,30 +530,30 @@ $2.331 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 65% (2022 est.)
-- `electrification - urban areas`: 72.8%
-- `electrification - rural areas`: 36.6%
+- `電氣化－總人口`: 65% (2022 est.)
+- `電氣化－城市地區`: 72.8%
+- `電氣化－農村地區`: 36.6%
 
 ### 電力
-- `installed generating capacity`: 150,000 kW (2022 est.)
-- `consumption`: 516.233 million kWh (2022 est.)
-- `imports`: 512 million kWh (2022 est.)
-- `transmission/distribution losses`: 128.74 million kWh (2022 est.)
+- `裝機容量`: 150,000 kW (2022 est.)
+- `消費`: 516.233 million kWh (2022 est.)
+- `進口`: 512 million kWh (2022 est.)
+- `傳輸／分配損耗`: 128.74 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 99.1% of total installed capacity (2022 est.)
-- `solar`: 0.9% of total installed capacity (2022 est.)
+- `石化燃料`: 99.1% of total installed capacity (2022 est.)
+- `太陽能`: 0.9% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `exports`: 8 metric tons (2022 est.)
-- `imports`: 1,000 metric tons (2022 est.)
+- `出口`: 8 metric tons (2022 est.)
+- `進口`: 1,000 metric tons (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 4,000 bbl/day (2022 est.)
+- `成品油消費量`: 4,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 660,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 660,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 660,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 660,000 metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 9.559 million Btu/person (2022 est.)
@@ -561,17 +561,17 @@ $2.331 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 28,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 2 (2022 est.)
+- `總訂閱數`: 28,000 (2022 est.)
+- `每100名居民訂閱數`: 2 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 519,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 46 (2022 est.)
+- `總訂閱數`: 519,000 (2022 est.)
+- `每100名居民訂閱數`: 46 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Djibouti remains one of the last bastions where the national telco has a monopoly on telecom services, including fixed lines, mobile, internet, and broadband with the exception of broad band fiber; despite the country benefiting from its location as a hub for international submarine cables, prices for telecom services remain relatively high, and out of reach for a number of customers, weighing on market advancement; the Djibouti government is aiming to sell a minority stake in the incumbent telco (retaining some control of decisions) while securing the financial backing and the management acumen of a foreign operator; this is part of a larger plan to modernize the country’s economy more generally; the state expects to conduct a sale of up to 40% of the company to an international investor (2023)
-- `domestic`: about 2 per 100 fixed-line teledensity and nearly 44 per 100 mobile-cellular (2021)
-- `international`: country code - 253; landing points for the SEA-ME-WE-3 & 5, EASSy, Aden-Djibouti, Africa-1, DARE-1, EIG, MENA, Bridge International, PEACE Cable, and SEACOM fiber-optic submarine cable systems providing links to Asia, the Middle East, Europe, Southeast Asia, Australia and Africa; satellite earth stations - 2 (1 Intelsat - Indian Ocean and 1 Arabsat) (2019)
+- `總體評估`: Djibouti remains one of the last bastions where the national telco has a monopoly on telecom services, including fixed lines, mobile, internet, and broadband with the exception of broad band fiber; despite the country benefiting from its location as a hub for international submarine cables, prices for telecom services remain relatively high, and out of reach for a number of customers, weighing on market advancement; the Djibouti government is aiming to sell a minority stake in the incumbent telco (retaining some control of decisions) while securing the financial backing and the management acumen of a foreign operator; this is part of a larger plan to modernize the country’s economy more generally; the state expects to conduct a sale of up to 40% of the company to an international investor (2023)
+- `國內`: about 2 per 100 fixed-line teledensity and nearly 44 per 100 mobile-cellular (2021)
+- `國際的`: country code - 253; landing points for the SEA-ME-WE-3 & 5, EASSy, Aden-Djibouti, Africa-1, DARE-1, EIG, MENA, Bridge International, PEACE Cable, and SEACOM fiber-optic submarine cable systems providing links to Asia, the Middle East, Europe, Southeast Asia, Australia and Africa; satellite earth stations - 2 (1 Intelsat - Indian Ocean and 1 Arabsat) (2019)
 
 ### 廣播媒體
 state-owned Radiodiffusion-Television de Djibouti operates the sole terrestrial TV station, as well as the only 2 domestic radio networks; no private TV or radio stations; transmissions of several international broadcasters are available (2019)
@@ -580,18 +580,18 @@ state-owned Radiodiffusion-Television de Djibouti operates the sole terrestrial 
 .dj
 
 ### 網際網路使用者
-- `total`: 759,000 (2021 est.)
-- `percent of population`: 69% (2021 est.)
+- `總計`: 759,000 (2021 est.)
+- `佔人口比例`: 69% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 25,053 (2020 est.)
-- `subscriptions per 100 inhabitants`: 3 (2020 est.)
+- `總計`: 25,053 (2020 est.)
+- `每100名居民訂閱數`: 3 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 2 (2020)
-- `inventory of registered aircraft operated by air carriers`: 4
+- `註冊航空公司數量`: 2 (2020)
+- `註冊飛機庫存—航空承運商經營`: 4
 
 ### 註冊民用航空器國家代碼前綴
 J2
@@ -603,24 +603,24 @@ J2
 6 (2024)
 
 ### 鐵路
-- `total`: 97 km (2017) (Djibouti segment of the 756 km Addis Ababa-Djibouti railway)
-- `standard gauge`: 97 km (2017) 1.435-m gauge
+- `總計`: 97 km (2017) (Djibouti segment of the 756 km Addis Ababa-Djibouti railway)
+- `標準鐵軌`: 97 km (2017) 1.435-m gauge
 
 ### 道路
-- `total`: 2,893 km (2013)
+- `總計`: 2,893 km (2013)
 
 ### 商船
-- `total`: 40 (2023)
-- `by type`: bulk carrier 1, container ship 1, general cargo 4, oil tanker 13, other 21
+- `總計`: 40 (2023)
+- `依類型`: bulk carrier 1, container ship 1, general cargo 4, oil tanker 13, other 21
 
 ### 港口
-- `total ports`: 2 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 2
-- `very small`: 0
-- `ports with oil terminals`: 2
-- `key ports`: Djibouti, Doraleh
+- `總港口數`: 2 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 2
+- `非常小`: 0
+- `原油碼頭港口`: 2
+- `主要港口`: Djibouti, Doraleh
 
 ## 軍事和安全
 
@@ -659,8 +659,8 @@ al-Shabaab
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 6,518 (Yemen) (mid-year 2022); 13,467 (Somalia) (2024)
+- `難民（原籍國）`: 6,518 (Yemen) (mid-year 2022); 13,467 (Somalia) (2024)
 
 ### 人口販運
-- `tier rating`: Tier 3 — Djibouti does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Djibouti remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/djibouti/
+- `會級評分`: Tier 3 — Djibouti does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Djibouti remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/djibouti/
 

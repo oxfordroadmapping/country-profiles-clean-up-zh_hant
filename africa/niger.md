@@ -19,16 +19,16 @@ Western Africa, southeast of Algeria
 Africa
 
 ### 面積
-- `total `: 1.267 million sq km
-- `land`: 1,266,700 sq km
-- `water`: 300 sq km
+- `總計`: 1.267 million sq km
+- `土地`: 1,266,700 sq km
+- `水`: 300 sq km
 
 ### 面積—比較
 slightly less than twice the size of Texas
 
 ### 陸地邊界
-- `total`: 5,834 km
-- `border countries`: Algeria 951 km; Benin 277 km; Burkina Faso 622 km; Chad 1,196 km; Libya 342 km; Mali 838 km; Nigeria 1,608 km
+- `總計`: 5,834 km
+- `邊境國家`: Algeria 951 km; Benin 277 km; Burkina Faso 622 km; Chad 1,196 km; Libya 342 km; Mali 838 km; Nigeria 1,608 km
 
 ### 海岸線
 0 km (landlocked)
@@ -43,26 +43,26 @@ desert; mostly hot, dry, dusty; tropical in extreme south
 predominately desert plains and sand dunes; flat to rolling plains in south; hills in north
 
 ### 海拔
-- `highest point`: Idoukal-n-Taghes 2,022 m
-- `lowest point`: Niger River 200 m
-- `mean elevation`: 474 m
+- `最高點`: Idoukal-n-Taghes 2,022 m
+- `最低點`: Niger River 200 m
+- `平均海拔`: 474 m
 
 ### 自然資源
 uranium, coal, iron ore, tin, phosphates, gold, molybdenum, gypsum, salt, petroleum
 
 ### 土地利用
-- `agricultural land`: 35.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 12.3% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.1% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 22.7% (2018 est.)
-- `forest`: 1% (2018 est.)
-- `other`: 63.9% (2018 est.)
+- `農地`: 35.1% (2018 est.)
+- `農地：耕地`: arable land: 12.3% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.1% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 22.7% (2018 est.)
+- `森林`: 1% (2018 est.)
+- `其它`: 63.9% (2018 est.)
 
 ### 灌溉土地
 2,666 sq km (2020)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lake Chad (endorheic lake shared with Chad, Nigeria, and Cameroon) - 10,360-25,900 sq kmnote - area varies by season and year to year
+- `淡水湖`: Lake Chad (endorheic lake shared with Chad, Nigeria, and Cameroon) - 10,360-25,900 sq kmnote - area varies by season and year to year
 
 ### 主要河流（按公里長度）
 Niger (shared with Guinea [s], Mali, Benin, and Nigeria [m]) - 4,200 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -85,13 +85,13 @@ landlocked; one of the hottest countries in the world; northern four-fifths is d
 ## 人民和社會
 
 ### 人口
-- `total`: 26,342,784
-- `male`: 13,056,203
-- `female`: 13,286,581 (2024 est.)
+- `總計`: 26,342,784
+- `男性`: 13,056,203
+- `女性`: 13,286,581 (2024 est.)
 
 ### 國籍
-- `noun`: Nigerien(s)
-- `adjective`: Nigerien
+- `名詞`: Nigerien(s)
+- `形容詞`: Nigerien
 
 ### 族裔群體
 Hausa 53.1%, Zarma/Songhai 21.2%, Tuareg 11%, Fulani (Peuhl) 6.5%, Kanuri 5.9%, Gurma 0.8%, Arab 0.4%, Tubu 0.4%, other/unavailable 0.9% (2006 est.)
@@ -107,20 +107,20 @@ Muslim 95.5%, ethnic religionist 4.1%, Christian 0.3%, agnostics and other 0.1% 
 Niger has the highest total fertility rate (TFR) of any country in the world, averaging close to 7 children per woman in 2022. A slight decline in fertility over the last few decades has stalled. This leveling off of the high fertility rate is in large part a product of the continued desire for large families. In Niger, the TFR is lower than the desired fertility rate, which makes it unlikely that contraceptive use will increase. The high TFR sustains rapid population growth and a large youth population – almost 70% of the populace is under the age of 25, as of 2020. Gender inequality, including a lack of educational opportunities for women and early marriage and childbirth, also contributes to high population growth. Because of large family sizes, children are inheriting smaller and smaller parcels of land. The dependence of most Nigeriens on subsistence farming on increasingly small landholdings, coupled with declining rainfall and the resultant shrinkage of arable land, are all preventing food production from keeping up with population growth. For more than half a century, Niger's lack of economic development has led to steady net outmigration. In the 1960s, Nigeriens mainly migrated to coastal West African countries to work on a seasonal basis. Some headed to Libya and Algeria in the 1970s to work in the booming oil industry until its decline in the 1980s. Since the 1990s, the principal destinations for Nigerien labor migrants have been West African countries, especially Burkina Faso and Cote d’Ivoire, while emigration to Europe and North America has remained modest. During the same period, Niger’s desert trade route town Agadez became a hub for West African and other Sub-Saharan migrants crossing the Sahara to North Africa and sometimes onward to Europe. More than 60,000 Malian refugees have fled to Niger since violence between Malian government troops and armed rebels began in early 2012. Ongoing attacks by the Boko Haram Islamist insurgency, dating to 2013 in northern Nigeria and February 2015 in southeastern Niger, pushed tens of thousands of Nigerian refugees and Nigerien returnees across the border to Niger and displaced thousands of locals in Niger’s already impoverished Diffa region.
 
 ### 年齡結構
-- `0-14 years`: 49.5% (male 6,567,460/female 6,463,877)
-- `15-64 years`: 47.8% (male 6,146,355/female 6,451,574)
-- `65 years and over`: 2.7% (2024 est.) (male 342,388/female 371,130)
+- `0-14歲`: 49.5% (male 6,567,460/female 6,463,877)
+- `15-64歲`: 47.8% (male 6,146,355/female 6,451,574)
+- `65歲及以上`: 2.7% (2024 est.) (male 342,388/female 371,130)
 
 ### 撫養比率
-- `total dependency ratio`: 105.4
-- `youth dependency ratio`: 100.4
-- `elderly dependency ratio`: 5
-- `potential support ratio`: 20.1 (2021 est.)
+- `總受扶養人比率`: 105.4
+- `少年撫養比率`: 100.4
+- `老人撫養比率`: 5
+- `潛在支持率`: 20.1 (2021 est.)
 
 ### 年齡中位數
-- `total`: 15.2 years (2024 est.)
-- `male`: 14.9 years
-- `female`: 15.6 years
+- `總計`: 15.2 years (2024 est.)
+- `男性`: 14.9 years
+- `女性`: 15.6 years
 
 ### 人口成長率
 3.66% (2024 est.)
@@ -138,18 +138,18 @@ Niger has the highest total fertility rate (TFR) of any country in the world, av
 majority of the populace is located in the southernmost extreme of the country along the border with Nigeria and Benin as shown in this population distribution map
 
 ### 都市化
-- `urban population`: 17.1% of total population (2023)
-- `rate of urbanization`: 4.72% annual rate of change (2020-25 est.)
+- `城市人口`: 17.1% of total population (2023)
+- `城鎮化率`: 4.72% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 1.437 million NIAMEY (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.03 male(s)/female
-- `0-14 years`: 1.02 male(s)/female
-- `15-64 years`: 0.95 male(s)/female
-- `65 years and over`: 0.92 male(s)/female
-- `total population`: 0.98 male(s)/female (2024 est.)
+- `出生時`: 1.03 male(s)/female
+- `0-14歲`: 1.02 male(s)/female
+- `15-64歲`: 0.95 male(s)/female
+- `65歲及以上`: 0.92 male(s)/female
+- `總人口數`: 0.98 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 18.5 years (2012 est.)
@@ -159,14 +159,14 @@ majority of the populace is located in the southernmost extreme of the country a
 441 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 64.3 deaths/1,000 live births (2024 est.)
-- `male`: 69.2 deaths/1,000 live births
-- `female`: 59.2 deaths/1,000 live births
+- `總計`: 64.3 deaths/1,000 live births (2024 est.)
+- `男性`: 69.2 deaths/1,000 live births
+- `女性`: 59.2 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 60.9 years (2024 est.)
-- `male`: 59.3 years
-- `female`: 62.5 years
+- `總人口數`: 60.9 years (2024 est.)
+- `男性`: 59.3 years
+- `女性`: 62.5 years
 
 ### 總生育率
 6.64 children born/woman (2024 est.)
@@ -178,12 +178,12 @@ majority of the populace is located in the southernmost extreme of the country a
 11% (2021)
 
 ### 飲用水來源
-- `improved: urban`: urban: 95.8% of population
-- `improved: rural`: rural: 63.1% of population
-- `improved: total`: total: 68.6% of population
-- `unimproved: urban`: urban: 4.2% of population
-- `unimproved: rural`: rural: 36.9% of population
-- `unimproved: total`: total: 31.4% of population (2020 est.)
+- `已改進－城市`: urban: 95.8% of population
+- `已改進－農村`: rural: 63.1% of population
+- `已改進－總計`: total: 68.6% of population
+- `未改進：都市`: urban: 4.2% of population
+- `未改進：鄉村`: rural: 36.9% of population
+- `未改善：總計`: total: 31.4% of population (2020 est.)
 
 ### 當前醫療支出
 6.2% of GDP (2020)
@@ -195,27 +195,27 @@ majority of the populace is located in the southernmost extreme of the country a
 0.4 beds/1,000 population (2017)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 81.9% of population
-- `improved: rural`: rural: 13.5% of population
-- `improved: total`: total: 24.8% of population
-- `unimproved: urban`: urban: 18.1% of population
-- `unimproved: rural`: rural: 86.5% of population
-- `unimproved: total`: total: 75.2% of population (2020 est.)
+- `已改進－城市`: urban: 81.9% of population
+- `已改進－農村`: rural: 13.5% of population
+- `已改進－總計`: total: 24.8% of population
+- `未改進：都市`: urban: 18.1% of population
+- `未改進：鄉村`: rural: 86.5% of population
+- `未改善：總計`: total: 75.2% of population (2020 est.)
 
 ### 肥胖—成人流行率
 5.5% (2016)
 
 ### 人均酒精消費量
-- `total`: 0.11 liters of pure alcohol (2019 est.)
-- `beer`: 0.04 liters of pure alcohol (2019 est.)
-- `wine`: 0.01 liters of pure alcohol (2019 est.)
-- `spirits`: 0.06 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 0.11 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.04 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.01 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.06 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 7.4% (2020 est.)
-- `male`: 13.7% (2020 est.)
-- `female`: 1.1% (2020 est.)
+- `總計`: 7.4% (2020 est.)
+- `男性`: 13.7% (2020 est.)
+- `女性`: 1.1% (2020 est.)
 
 ### 5歲以下體重不足兒童
 34.6% (2022)
@@ -227,15 +227,15 @@ majority of the populace is located in the southernmost extreme of the country a
 3.8% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 37.3%
-- `male`: 45.8%
-- `female`: 29% (2018)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 37.3%
+- `男性`: 45.8%
+- `女性`: 29% (2018)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 6 years
-- `male`: 7 years
-- `female`: 6 years (2017)
+- `總計`: 6 years
+- `男性`: 7 years
+- `女性`: 6 years (2017)
 
 ## 環境
 
@@ -243,26 +243,26 @@ majority of the populace is located in the southernmost extreme of the country a
 overgrazing; soil erosion; deforestation; desertification; contaminated water; inadequate potable water; wildlife populations (such as elephant, hippopotamus, giraffe, and lion) threatened because of poaching and habitat destruction
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 desert; mostly hot, dry, dusty; tropical in extreme south
 
 ### 土地利用
-- `agricultural land`: 35.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 12.3% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.1% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 22.7% (2018 est.)
-- `forest`: 1% (2018 est.)
-- `other`: 63.9% (2018 est.)
+- `農地`: 35.1% (2018 est.)
+- `農地：耕地`: arable land: 12.3% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.1% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 22.7% (2018 est.)
+- `森林`: 1% (2018 est.)
+- `其它`: 63.9% (2018 est.)
 
 ### 都市化
-- `urban population`: 17.1% of total population (2023)
-- `rate of urbanization`: 4.72% annual rate of change (2020-25 est.)
+- `城市人口`: 17.1% of total population (2023)
+- `城鎮化率`: 4.72% annual rate of change (2020-25 est.)
 
 ### 糧食不安全
-- `widespread lack of access`: *due to internal conflict, high food prices, and floods - *about 3.28 million people are projected to be acutely food insecure during the June to August 2023 lean season period; this would be an improvement on the situation in 2022, mostly reflecting the sharp upturn in crop yields following the below average cereal output in 2021; persistent insecurity continues to disrupt livelihoods and has displaced over 370,000 people, mostly in the Diffa, Tahoua and Tillabery regions, as of May 2023; high food prices, as well as the floods in 2022 that affected about 327,000 people, are additional factors that have aggravated food insecurity (2023)
+- `普遍缺乏訪問權限`: *due to internal conflict, high food prices, and floods - *about 3.28 million people are projected to be acutely food insecure during the June to August 2023 lean season period; this would be an improvement on the situation in 2022, mostly reflecting the sharp upturn in crop yields following the below average cereal output in 2021; persistent insecurity continues to disrupt livelihoods and has displaced over 370,000 people, mostly in the Diffa, Tahoua and Tillabery regions, as of May 2023; high food prices, as well as the floods in 2022 that affected about 327,000 people, are additional factors that have aggravated food insecurity (2023)
 
 ### 森林資源收入
 4.41% of GDP (2018 est.)
@@ -271,17 +271,17 @@ desert; mostly hot, dry, dusty; tropical in extreme south
 0.03% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 50.15 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 2.02 megatons (2016 est.)
-- `methane emissions`: 22.99 megatons (2020 est.)
+- `顆粒物排放量`: 50.15 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 2.02 megatons (2016 est.)
+- `甲烷排放量`: 22.99 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 1,865,646 tons (1993 est.)
-- `municipal solid waste recycled annually`: 74,626 tons (2005 est.)
-- `percent of municipal solid waste recycled`: 4% (2005 est.)
+- `城市固體廢棄物－每年產生`: 1,865,646 tons (1993 est.)
+- `城市固體廢棄物－每年回收`: 74,626 tons (2005 est.)
+- `城市固體廢棄物－回收百分比`: 4% (2005 est.)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lake Chad (endorheic lake shared with Chad, Nigeria, and Cameroon) - 10,360-25,900 sq kmnote - area varies by season and year to year
+- `淡水湖`: Lake Chad (endorheic lake shared with Chad, Nigeria, and Cameroon) - 10,360-25,900 sq kmnote - area varies by season and year to year
 
 ### 主要河流（按公里長度）
 Niger (shared with Guinea [s], Mali, Benin, and Nigeria [m]) - 4,200 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -293,9 +293,9 @@ Atlantic Ocean drainage: Niger (2,261,741 sq km)Internal *(endorheic basin) *dra
 Lake Chad Basin, Lullemeden-Irhazer Basin, Murzuk-Djado Basin
 
 ### 總取水量
-- `municipal`: 190 million cubic meters (2020 est.)
-- `industrial`: 40 million cubic meters (2020 est.)
-- `agricultural`: 2.35 billion cubic meters (2020 est.)
+- `市級`: 190 million cubic meters (2020 est.)
+- `工業`: 40 million cubic meters (2020 est.)
+- `農業`: 2.35 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 34.05 billion cubic meters (2020 est.)
@@ -303,11 +303,11 @@ Lake Chad Basin, Lullemeden-Irhazer Basin, Murzuk-Djado Basin
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Niger
-- `conventional short form`: Niger
-- `local long form`: République du Niger
-- `local short form`: Niger
-- `etymology`: named for the Niger River that passes through the southwest of the country; from a native term "Ni Gir" meaning "River Gir"
+- `常用長名`: Republic of Niger
+- `常用短名`: Niger
+- `當地語長名`: République du Niger
+- `當地語短名`: Niger
+- `语源学`: named for the Niger River that passes through the southwest of the country; from a native term "Ni Gir" meaning "River Gir"
 **note**:  pronounced nee-zhair
 
 ### 政府類型
@@ -315,10 +315,10 @@ formerly, semi-presidential republic
 **Note**:  on 26 July 2023, the National Council for the Safeguard of the Homeland, a military junta which took control of Niger's government, dissolved all government institutions, and rules by decree
 
 ### 首都
-- `name`: Niamey
-- `geographic coordinates`: 13 31 N, 2 07 E
-- `time difference`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: according to tradition, the site was originally a fishing village named after a prominent local tree referred to as "nia niam"
+- `名稱`: Niamey
+- `地理坐標`: 13 31 N, 2 07 E
+- `時差`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: according to tradition, the site was originally a fishing village named after a prominent local tree referred to as "nia niam"
 
 ### 行政區劃
 7 regions (regions, singular - region) and 1 capital district* (communaute urbaine); Agadez, Diffa, Dosso, Maradi, Niamey*, Tahoua, Tillaberi, Zinder
@@ -333,40 +333,40 @@ Republic Day, 18 December (1958); note - commemorates the founding of the Republ
 note - following the 26 July 2023 military coup, the National Council for the Safeguard of the Homeland assumed control of all government institutions and rules by decree; formerly, mixed legal system of civil law, based on French civil law, Islamic law, and customary law
 
 ### 憲法
-- `history`: several previous; passed by referendum 31 October 2010, entered into force 25 November 2010
-- `amendments`: formerly proposed by the president of the republic or by the National Assembly; consideration of amendments requires at least three-fourths majority vote by the Assembly; passage requires at least four-fifths majority vote; if disapproved, the proposed amendment is dropped or submitted to a referendum; constitutional articles on the form of government, the multiparty system, the separation of state and religion, disqualification of Assembly members, amendment procedures, and amnesty of participants in the 2010 coup cannot be amended; amended 2011, 2017
+- `歷史`: several previous; passed by referendum 31 October 2010, entered into force 25 November 2010
+- `修正`: formerly proposed by the president of the republic or by the National Assembly; consideration of amendments requires at least three-fourths majority vote by the Assembly; passage requires at least four-fifths majority vote; if disapproved, the proposed amendment is dropped or submitted to a referendum; constitutional articles on the form of government, the multiparty system, the separation of state and religion, disqualification of Assembly members, amendment procedures, and amnesty of participants in the 2010 coup cannot be amended; amended 2011, 2017
 **Note**: on 26 July 2023, the National Council for the Safeguard of the Homeland, a military junta which took control of Niger's government, dissolved the country's constitution
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Niger
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: unknown
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Niger
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: unknown
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President of the National Council for the Safeguard of the Homeland (CNSP) General Abdourahame TIANI (since 28 July 2023)
-- `head of government`: CNSP Prime Minister Ali Mahaman Lamine ZEINE (since 9 August 2023)
-- `cabinet`: Cabinet appointed by the CNSP; Cabinet previously appointed by the elected president
-- `elections/appointments`: the CNSP rules by decree; previously, the president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 27 December 2020 with a runoff held on 21 February 2021 (next election was to be held in 2025); prime minister appointed by the president, authorized by the National Assembly
-- `election results`: *2020/2021*: Mohamed BAZOUM elected president in second round; percent of vote in first round - Mohamed BAZOUM (PNDS-Tarrayya) 39.3%, Mahamane OUSMANE (MODEN/FA Lumana Africa) 17%, Seini OUMAROU (MNSD-Nassara) 9%, Albade ABOUDA (MPR-Jamhuriya) 7.1%, other 27.6%; percent of vote in second round - Mohamed BAZOUM 55.7%, Mahamane OUSMANE 44.3%  *2016*: ISSOUFOU Mahamadou reelected president in second round; percent of vote in first round - ISSOUFOU Mahamadou (PNDS-Tarrayya) 48.6%, Hama AMADOU (MODEN/FA Lumana Africa) 17.8%, Seini OUMAROU (MNSD-Nassara) 11.3%, other 22.3%; percent of vote in second round - ISSOUFOU Mahamadou 92%, Hama AMADOU 8%
+- `國家元首`: President of the National Council for the Safeguard of the Homeland (CNSP) General Abdourahame TIANI (since 28 July 2023)
+- `政府首腦`: CNSP Prime Minister Ali Mahaman Lamine ZEINE (since 9 August 2023)
+- `内閣`: Cabinet appointed by the CNSP; Cabinet previously appointed by the elected president
+- `選舉/任命`: the CNSP rules by decree; previously, the president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 27 December 2020 with a runoff held on 21 February 2021 (next election was to be held in 2025); prime minister appointed by the president, authorized by the National Assembly
+- `選舉結果`: *2020/2021*: Mohamed BAZOUM elected president in second round; percent of vote in first round - Mohamed BAZOUM (PNDS-Tarrayya) 39.3%, Mahamane OUSMANE (MODEN/FA Lumana Africa) 17%, Seini OUMAROU (MNSD-Nassara) 9%, Albade ABOUDA (MPR-Jamhuriya) 7.1%, other 27.6%; percent of vote in second round - Mohamed BAZOUM 55.7%, Mahamane OUSMANE 44.3%  *2016*: ISSOUFOU Mahamadou reelected president in second round; percent of vote in first round - ISSOUFOU Mahamadou (PNDS-Tarrayya) 48.6%, Hama AMADOU (MODEN/FA Lumana Africa) 17.8%, Seini OUMAROU (MNSD-Nassara) 11.3%, other 22.3%; percent of vote in second round - ISSOUFOU Mahamadou 92%, Hama AMADOU 8%
 **note**:  deposed president BAZOUM has been under house arrest since a military coup on 26 July 2023
 
 ### 立法部門
-- `description`: formerly the unicameral National Assembly (171 statutory seats - 166 currently; 158 members directly elected from 8 multi-member constituencies in 7 regions and Niamey by party-list proportional representation, 8 reserved for minorities elected in special single-seat constituencies by simple majority vote, 5 seats reserved for Nigeriens living abroad - 1 seat per continent - elected in single-seat constituencies by simple majority vote; members serve 5-year terms)
-- `elections`: last held on 27 December 2020 (prior to the military coup, next elections were to be held in December 2025)
-- `election results`: percent of vote by party - PNDS-Tarrayya 37%, MODEN/FA Lumana 8.7%, MPR-Jamhuriya 7.6%, MNSD-Nassara 6.8%,  RDR-Tchanji 4.4%, CPR-Inganci 4.2%, MPN-Kishin Kassa 4%, PJP Generation Dubara 2.9%, ANDP Zaman Lahya 2.5%, RPP Farrilla 2.1%, ARD Adaltchi-Mutuntchi 1.7%, AMEN AMIN 1.4%, MDEN Falala 1.4%, other 15.3%; seats by party - PNDS-Tarrayya 79, MODEN/FA Lumana 19, MPR-Jamhuriya 14, MNSD-Nassara 13, CPR-Inganci 8, MPN-Kishin Kassa 6, ANDP-Zaman Lahiya 3, RPP Farrilla 2, PJP Generation Dubara 2, ARD Adaltchi-Mutuntchi 2, AMEN AMIN 2, other 16; composition - men 115, women 51, percentage women 30.7%
+- `描述`: formerly the unicameral National Assembly (171 statutory seats - 166 currently; 158 members directly elected from 8 multi-member constituencies in 7 regions and Niamey by party-list proportional representation, 8 reserved for minorities elected in special single-seat constituencies by simple majority vote, 5 seats reserved for Nigeriens living abroad - 1 seat per continent - elected in single-seat constituencies by simple majority vote; members serve 5-year terms)
+- `選舉`: last held on 27 December 2020 (prior to the military coup, next elections were to be held in December 2025)
+- `選舉結果`: percent of vote by party - PNDS-Tarrayya 37%, MODEN/FA Lumana 8.7%, MPR-Jamhuriya 7.6%, MNSD-Nassara 6.8%,  RDR-Tchanji 4.4%, CPR-Inganci 4.2%, MPN-Kishin Kassa 4%, PJP Generation Dubara 2.9%, ANDP Zaman Lahya 2.5%, RPP Farrilla 2.1%, ARD Adaltchi-Mutuntchi 1.7%, AMEN AMIN 1.4%, MDEN Falala 1.4%, other 15.3%; seats by party - PNDS-Tarrayya 79, MODEN/FA Lumana 19, MPR-Jamhuriya 14, MNSD-Nassara 13, CPR-Inganci 8, MPN-Kishin Kassa 6, ANDP-Zaman Lahiya 3, RPP Farrilla 2, PJP Generation Dubara 2, ARD Adaltchi-Mutuntchi 2, AMEN AMIN 2, other 16; composition - men 115, women 51, percentage women 30.7%
 **Note**:  on 26 July 2023, the National Council for the Safeguard of the Homeland, a military junta which took control of Niger's government, dissolved the National Assembly
 
 ### 司法部門
-- `highest court(s)`: formerly the Constitutional Court (consists of 7 judges); High Court of Justice (consists of 7 members)
-- `judge selection and term of office`: formerly, Constitutional Court judges nominated/elected - 1 by the president of the Republic, 1 by the president of the National Assembly, 2 by peer judges, 2 by peer lawyers, 1 law professor by peers, and 1 from within Nigerien society; all appointed by the president; judges serve 6-year nonrenewable terms with one-third of membership renewed every 2 years; High Judicial Court members selected from among the legislature and judiciary; members serve 5-year terms
-- `subordinate courts`: formerly, Court of Cassation; Council of State; Court of Finances; various specialized tribunals and customary courts
+- `最高法院`: formerly the Constitutional Court (consists of 7 judges); High Court of Justice (consists of 7 members)
+- `法官遴選和任期`: formerly, Constitutional Court judges nominated/elected - 1 by the president of the Republic, 1 by the president of the National Assembly, 2 by peer judges, 2 by peer lawyers, 1 law professor by peers, and 1 from within Nigerien society; all appointed by the president; judges serve 6-year nonrenewable terms with one-third of membership renewed every 2 years; High Judicial Court members selected from among the legislature and judiciary; members serve 5-year terms
+- `下級法院`: formerly, Court of Cassation; Council of State; Court of Finances; various specialized tribunals and customary courts
 **Note**:  on 26 July 2023, the National Council for the Safeguard of the Homeland, a military junta which took control of Niger's government, dissolved the country's judicial system
 
 ### 政黨
@@ -377,19 +377,19 @@ Alliance for Democracy and the RepublicAlliance for Democratic Renewal or ARD-Ad
 ACP, AfDB, AU (suspended), CD, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINUSCA, MNJTF, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador (vacant); Chargé d'Affaires Hassane IDI (since 3 August 2023)
-- `chancery`: 2204 R Street NW, Washington, DC 20008
-- `telephone`: [1] (202) 483-4224
+- `外交代表負責人`: Ambassador (vacant); Chargé d'Affaires Hassane IDI (since 3 August 2023)
+- `衡平法院（在美國）`: 2204 R Street NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 483-4224
 - `FAX`: [1] (202) 483-3169
-- `email address and website`: communication@embassyofniger.org  http://www.embassyofniger.org/
+- `電子郵件地址和網站`: communication@embassyofniger.org  http://www.embassyofniger.org/
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Kathleen FITZGIBBON (since 2 December 2023)
-- `embassy`: BP 11201, Niamey
-- `mailing address`: 2420 Niamey Place, Washington DC  20521-2420
-- `telephone`: [227] 20-72-26-61
+- `外交代表負責人`: Ambassador Kathleen FITZGIBBON (since 2 December 2023)
+- `大使館`: BP 11201, Niamey
+- `郵寄地址`: 2420 Niamey Place, Washington DC  20521-2420
+- `電話號碼`: [227] 20-72-26-61
 - `FAX`: [227] 20-73-55-60
-- `email address and website`: consulateniamey@state.gov  https://ne.usembassy.gov/
+- `電子郵件地址和網站`: consulateniamey@state.gov  https://ne.usembassy.gov/
 
 ### 旗幟說明
 three equal horizontal bands of orange (top), white, and green with a small orange disk centered in the white band; the orange band denotes the drier northern regions of the Sahara; white stands for purity and innocence; green symbolizes hope and the fertile and productive southern and western areas, as well as the Niger River; the orange disc represents the sun and the sacrifices made by the people
@@ -399,8 +399,8 @@ three equal horizontal bands of orange (top), white, and green with a small oran
 zebu; national colors: orange, white, green
 
 ### 國歌
-- `name`: "La Nigerienne" (The Nigerien)
-- `lyrics/music`: Maurice Albert THIRIET/Robert JACQUET and Nicolas Abel Francois FRIONNET
+- `名稱`: "La Nigerienne" (The Nigerien)
+- `歌詞／音樂`: Maurice Albert THIRIET/Robert JACQUET and Nicolas Abel Francois FRIONNET
 **note**:  adopted 1961
 
 ### 國家級遺產
@@ -445,17 +445,17 @@ $16.819 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 47.8% (2023 est.)
-- `industry`: 20.2% (2023 est.)
-- `services`: 26.9% (2023 est.)
+- `農業`: 47.8% (2023 est.)
+- `產業`: 20.2% (2023 est.)
+- `服務`: 26.9% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 72% (2021 est.)
-- `government consumption`: 17.3% (2021 est.)
-- `investment in fixed capital`: 26.4% (2023 est.)
-- `exports of goods and services`: 8.8% (2023 est.)
-- `imports of goods and services`: -21.6% (2023 est.)
+- `家庭消費`: 72% (2021 est.)
+- `政府消費`: 17.3% (2021 est.)
+- `固定資本投資`: 26.4% (2023 est.)
+- `商品和服務出口`: 8.8% (2023 est.)
+- `商品和服務進口`: -21.6% (2023 est.)
 **note**:  figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -480,9 +480,9 @@ uranium mining, petroleum, cement, brick, soap, textiles, food processing, chemi
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 0.8% (2023 est.)
-- `male`: 0.9% (2023 est.)
-- `female`: 0.8% (2023 est.)
+- `總計`: 0.8% (2023 est.)
+- `男性`: 0.9% (2023 est.)
+- `女性`: 0.8% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -494,8 +494,8 @@ uranium mining, petroleum, cement, brick, soap, textiles, food processing, chemi
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 3.8% (2021 est.)
-- `highest 10%`: 27.8% (2021 est.)
+- `最低10%`: 3.8% (2021 est.)
+- `最高10%`: 27.8% (2021 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -505,8 +505,8 @@ uranium mining, petroleum, cement, brick, soap, textiles, food processing, chemi
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $2.325 billion (2019 est.)
-- `expenditures`: $2.785 billion (2019 est.)
+- `收入`: $2.325 billion (2019 est.)
+- `支出`: $2.785 billion (2019 est.)
 
 ### 公共債務
 45.3% of GDP (2017 est.)
@@ -567,40 +567,40 @@ $3.688 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 19.5% (2022 est.)
-- `electrification - urban areas`: 66.1%
-- `electrification - rural areas`: 7.7%
+- `電氣化－總人口`: 19.5% (2022 est.)
+- `電氣化－城市地區`: 66.1%
+- `電氣化－農村地區`: 7.7%
 
 ### 電力
-- `installed generating capacity`: 359,000 kW (2022 est.)
-- `consumption`: 1.594 billion kWh (2022 est.)
-- `imports`: 1.173 billion kWh (2022 est.)
-- `transmission/distribution losses`: 364.8 million kWh (2022 est.)
+- `裝機容量`: 359,000 kW (2022 est.)
+- `消費`: 1.594 billion kWh (2022 est.)
+- `進口`: 1.173 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 364.8 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 94.1% of total installed capacity (2022 est.)
-- `solar`: 5.9% of total installed capacity (2022 est.)
+- `石化燃料`: 94.1% of total installed capacity (2022 est.)
+- `太陽能`: 5.9% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `production`: 457,000 metric tons (2022 est.)
-- `consumption`: 457,000 metric tons (2022 est.)
-- `imports`: 3,000 metric tons (2022 est.)
-- `proven reserves`: 90 million metric tons (2022 est.)
+- `生產`: 457,000 metric tons (2022 est.)
+- `消費`: 457,000 metric tons (2022 est.)
+- `進口`: 3,000 metric tons (2022 est.)
+- `探明儲量`: 90 million metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 6,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 13,000 bbl/day (2022 est.)
-- `crude oil estimated reserves`: 150 million barrels (2021 est.)
+- `總石油產量`: 6,000 bbl/day (2023 est.)
+- `成品油消費量`: 13,000 bbl/day (2022 est.)
+- `原油儲備量估值`: 150 million barrels (2021 est.)
 
 ### 天然氣
-- `production`: 29.509 million cubic meters (2022 est.)
-- `consumption`: 29.858 million cubic meters (2022 est.)
+- `生產`: 29.509 million cubic meters (2022 est.)
+- `消費`: 29.858 million cubic meters (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 2.454 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 674,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 1.722 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 58,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 2.454 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 674,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 1.722 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 58,000 metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 1.405 million Btu/person (2022 est.)
@@ -608,17 +608,17 @@ $3.688 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 58,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: (2021 est.) less than 1
+- `總訂閱數`: 58,000 (2021 est.)
+- `每100名居民訂閱數`: (2021 est.) less than 1
 
 ### 電話—移動電話
-- `total subscriptions`: 14.239 million (2021 est.)
-- `subscriptions per 100 inhabitants`: 56 (2021 est.)
+- `總訂閱數`: 14.239 million (2021 est.)
+- `每100名居民訂閱數`: 56 (2021 est.)
 
 ### 電信系統
-- `general assessment`: Niger is one of the largest countries in West Africa but also one of the poorest in the world; as with many African markets, a lack of fixed telecoms infrastructure has led to growth in mobile services; Niger’s mobile penetration is modest compared to other countries in the region, while fixed broadband penetration is negligible; recent international investment to complete the Trans-Saharan Dorsal optical fiber (SDR) network has extended the reach of fiber infrastructure in the country, and also increased international capacity; new cables linking the country with Chad and Burkina Faso have extended Niger’s connectivity with international cable infrastructure (2022)
-- `domestic`: fixed-line less than 1 per 100 persons and mobile-cellular at nearly 56 per 100 persons (2021)
-- `international`: country code - 227; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean)
+- `總體評估`: Niger is one of the largest countries in West Africa but also one of the poorest in the world; as with many African markets, a lack of fixed telecoms infrastructure has led to growth in mobile services; Niger’s mobile penetration is modest compared to other countries in the region, while fixed broadband penetration is negligible; recent international investment to complete the Trans-Saharan Dorsal optical fiber (SDR) network has extended the reach of fiber infrastructure in the country, and also increased international capacity; new cables linking the country with Chad and Burkina Faso have extended Niger’s connectivity with international cable infrastructure (2022)
+- `國內`: fixed-line less than 1 per 100 persons and mobile-cellular at nearly 56 per 100 persons (2021)
+- `國際的`: country code - 227; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean)
 
 ### 廣播媒體
 state-run TV station; 3 private TV stations provide a mix of local and foreign programming; state-run radio has only radio station with national coverage; about 30 private radio stations operate locally; as many as 100 community radio stations broadcast; transmissions of multiple international broadcasters are available
@@ -627,18 +627,18 @@ state-run TV station; 3 private TV stations provide a mix of local and foreign p
 .ne
 
 ### 網際網路使用者
-- `total`: 5.5 million (2021 est.)
-- `percent of population`: 22% (2021 est.)
+- `總計`: 5.5 million (2021 est.)
+- `佔人口比例`: 22% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 12,000 (2020 est.)
-- `subscriptions per 100 inhabitants`: 0.1 (2020 est.)
+- `總計`: 12,000 (2020 est.)
+- `每100名居民訂閱數`: 0.1 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 2 (2020)
-- `inventory of registered aircraft operated by air carriers`: 3
+- `註冊航空公司數量`: 2 (2020)
+- `註冊飛機庫存—航空承運商經營`: 3
 
 ### 註冊民用航空器國家代碼前綴
 5U
@@ -650,9 +650,9 @@ state-run TV station; 3 private TV stations provide a mix of local and foreign p
 2,444 km oil (2024)
 
 ### 道路
-- `total`: 18,949 km
-- `paved`: 3,979 km
-- `unpaved`: 14,969 km (2018)
+- `總計`: 18,949 km
+- `已鋪砌`: 3,979 km
+- `未鋪砌`: 14,969 km (2018)
 
 ### 水道
 563 km (2024) (the Niger, the only major river, is navigable to Gaya between September and March)
@@ -695,11 +695,11 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS); 
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 67,191 (Mali) (refugees and asylum seekers) (2023); 200,423 (Nigeria) (2024)
+- `難民（原籍國）`: 67,191 (Mali) (refugees and asylum seekers) (2023); 200,423 (Nigeria) (2024)
 - `IDPs`: 335,277 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2023)
 
 ### 人口販運
-- `tier rating`: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Niger was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/niger/
+- `會級評分`: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Niger was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/niger/
 
 ### 非法藥物
 a transit country for illegal drugs shipped through Niger to Africa, Europe, and the Middle East; drugs from South America, cocaine, heroin, cannabis, and various synthetics transit through Niger to European and Middle Eastern markets; hashish from Morocco is trafficked through Niger to Libya and Egypt and Europe and the Middle East; Nigerien citizens and migrants crossing Niger consume significant quantities of the opioid tramadol from neighboring Nigeria

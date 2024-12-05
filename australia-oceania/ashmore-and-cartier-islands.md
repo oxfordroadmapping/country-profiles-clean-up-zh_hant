@@ -20,25 +20,25 @@ Southeastern Asia, islands in the Indian Ocean, midway between northwestern Aust
 Southeast Asia
 
 ### 面積
-- `total `: 5 sq km
-- `land`: 5 sq km
-- `water`: 0 sq km
+- `總計`: 5 sq km
+- `土地`: 5 sq km
+- `水`: 0 sq km
 **note**:  includes Ashmore Reef (West, Middle, and East Islets) and Cartier Island
 
 ### 面積—比較
 about eight times the size of the National Mall in Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 74.1 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `continental shelf`: 200-m depth or to the depth of exploitation
-- `exclusive fishing zone`: 200 nm
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `大陸架`: 200-m depth or to the depth of exploitation
+- `專屬捕魚區`: 200 nm
 
 ### 氣候
 tropical
@@ -47,14 +47,14 @@ tropical
 low with sand and coral
 
 ### 海拔
-- `highest point`: Cartier Island 5 m
-- `lowest point`: Indian Ocean 0 m
+- `最高點`: Cartier Island 5 m
+- `最低點`: Indian Ocean 0 m
 
 ### 自然資源
 fish
 
 ### 土地利用
-- `agricultural land`: 0% (2018 est.)
+- `農地`: 0% (2018 est.)
 
 ### 自然災害
 surrounded by shoals and reefs that can pose maritime hazards
@@ -65,7 +65,7 @@ Ashmore Reef National Nature Reserve established in August 1983; Cartier Island 
 ## 人民和社會
 
 ### 人口
-- `total`: (2021 est.) no indigenous inhabitants
+- `總計`: (2021 est.) no indigenous inhabitants
 **note**:  Indonesian fishermen are allowed access to the lagoon and fresh water at Ashmore Reef's West Island; access to East and Middle Islands is by permit only
 
 ## 環境
@@ -77,14 +77,14 @@ illegal killing of protected wildlife by traditional Indonesian fisherman, as we
 tropical
 
 ### 土地利用
-- `agricultural land`: 0% (2018 est.)
+- `農地`: 0% (2018 est.)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Territory of Ashmore and Cartier Islands
-- `conventional short form`: Ashmore and Cartier Islands
-- `etymology`: named after British Captain Samuel ASHMORE, who first sighted his namesake island in 1811, and after the ship Cartier, from which the second island was discovered in 1800
+- `常用長名`: Territory of Ashmore and Cartier Islands
+- `常用短名`: Ashmore and Cartier Islands
+- `语源学`: named after British Captain Samuel ASHMORE, who first sighted his namesake island in 1811, and after the ship Cartier, from which the second island was discovered in 1800
 
 ### 附屬狀況
 territory of Australia; administered from Canberra by the Department of Regional Australia, Local Government, Arts and Sport
@@ -99,7 +99,7 @@ see Australia
 none (territory of Australia)
 
 ### 駐該國的美國外交代表
-- `embassy`: none (territory of Australia)
+- `大使館`: none (territory of Australia)
 
 ### 旗幟說明
 the flag of Australia is used

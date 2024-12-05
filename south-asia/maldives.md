@@ -19,23 +19,23 @@ Southern Asia, group of atolls in the Indian Ocean, south-southwest of India
 Asia
 
 ### 面積
-- `total `: 298 sq km
-- `land`: 298 sq km
-- `water`: 0 sq km
+- `總計`: 298 sq km
+- `土地`: 298 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 about 1.7 times the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 644 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
 measured from claimed archipelagic straight baselines
 
 ### 氣候
@@ -45,20 +45,20 @@ tropical; hot, humid; dry, northeast monsoon (November to March); rainy, southwe
 flat coral atolls, with white sandy beaches; sits atop the submarine volcanic Chagos-Laccadive Ridge
 
 ### 海拔
-- `highest point`: 8th tee, golf course, Villingi Island 5 m
-- `lowest point`: Indian Ocean 0 m
-- `mean elevation`: 2 m
+- `最高點`: 8th tee, golf course, Villingi Island 5 m
+- `最低點`: Indian Ocean 0 m
+- `平均海拔`: 2 m
 
 ### 自然資源
 fish
 
 ### 土地利用
-- `agricultural land`: 23.3% (2018 est.)
-- `agricultural land: arable land`: arable land: 10% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 10% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 3.3% (2018 est.)
-- `forest`: 3% (2018 est.)
-- `other`: 73.7% (2018 est.)
+- `農地`: 23.3% (2018 est.)
+- `農地：耕地`: arable land: 10% (2018 est.)
+- `農地：永久性作物`: permanent crops: 10% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 3.3% (2018 est.)
+- `森林`: 3% (2018 est.)
+- `其它`: 73.7% (2018 est.)
 
 ### 灌溉土地
 0 sq km (2012)
@@ -75,13 +75,13 @@ smallest Asian country; archipelago of 1,190 coral islands grouped into 26 atoll
 ## 人民和社會
 
 ### 人口
-- `total`: 388,858
-- `male`: 197,739
-- `female`: 191,119 (2024 est.)
+- `總計`: 388,858
+- `男性`: 197,739
+- `女性`: 191,119 (2024 est.)
 
 ### 國籍
-- `noun`: Maldivian(s)
-- `adjective`: Maldivian
+- `名詞`: Maldivian(s)
+- `形容詞`: Maldivian
 
 ### 族裔群體
 homogeneous mixture of Sinhalese, Dravidian, Arab, Australasian, and African resulting from historical changes in regional hegemony over marine trade routes
@@ -93,20 +93,20 @@ Dhivehi (official, closely related to Sinhala, script derived from Arabic), Engl
 Sunni Muslim (official)
 
 ### 年齡結構
-- `0-14 years`: 22.4% (male 44,321/female 42,626)
-- `15-64 years`: 71.5% (male 143,021/female 135,044)
-- `65 years and over`: 6.1% (2024 est.) (male 10,397/female 13,449)
+- `0-14歲`: 22.4% (male 44,321/female 42,626)
+- `15-64歲`: 71.5% (male 143,021/female 135,044)
+- `65歲及以上`: 6.1% (2024 est.) (male 10,397/female 13,449)
 
 ### 撫養比率
-- `total dependency ratio`: 35.6
-- `youth dependency ratio`: 29.5
-- `elderly dependency ratio`: 6.2
-- `potential support ratio`: 16.2 (2021 est.)
+- `總受扶養人比率`: 35.6
+- `少年撫養比率`: 29.5
+- `老人撫養比率`: 6.2
+- `潛在支持率`: 16.2 (2021 est.)
 
 ### 年齡中位數
-- `total`: 31.9 years (2024 est.)
-- `male`: 31.3 years
-- `female`: 32.4 years
+- `總計`: 31.9 years (2024 est.)
+- `男性`: 31.3 years
+- `女性`: 32.4 years
 
 ### 人口成長率
 -0.2% (2024 est.)
@@ -124,18 +124,18 @@ Sunni Muslim (official)
 about a third of the population lives in the centrally located capital city of Male and almost a tenth in southern Addu City; the remainder of the populace is spread over the 200 or so populated islands of the archipelago
 
 ### 都市化
-- `urban population`: 42% of total population (2023)
-- `rate of urbanization`: 2.34% annual rate of change (2020-25 est.)
+- `城市人口`: 42% of total population (2023)
+- `城鎮化率`: 2.34% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 177,000 MALE (capital) (2018)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.04 male(s)/female
-- `15-64 years`: 1.06 male(s)/female
-- `65 years and over`: 0.77 male(s)/female
-- `total population`: 1.04 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.04 male(s)/female
+- `15-64歲`: 1.06 male(s)/female
+- `65歲及以上`: 0.77 male(s)/female
+- `總人口數`: 1.04 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 23.2 years (2016/17 est.)
@@ -145,14 +145,14 @@ about a third of the population lives in the centrally located capital city of M
 57 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 24.4 deaths/1,000 live births (2024 est.)
-- `male`: 27.3 deaths/1,000 live births
-- `female`: 21.3 deaths/1,000 live births
+- `總計`: 24.4 deaths/1,000 live births (2024 est.)
+- `男性`: 27.3 deaths/1,000 live births
+- `女性`: 21.3 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 77.4 years (2024 est.)
-- `male`: 75.1 years
-- `female`: 79.9 years
+- `總人口數`: 77.4 years (2024 est.)
+- `男性`: 75.1 years
+- `女性`: 79.9 years
 
 ### 總生育率
 1.7 children born/woman (2024 est.)
@@ -164,12 +164,12 @@ about a third of the population lives in the centrally located capital city of M
 18.8% (2016/17)
 
 ### 飲用水來源
-- `improved: urban`: urban: 99% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 99.6% of population
-- `unimproved: urban`: urban: 1% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0.4% of population (2020 est.)
+- `已改進－城市`: urban: 99% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 99.6% of population
+- `未改進：都市`: urban: 1% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0.4% of population (2020 est.)
 
 ### 當前醫療支出
 11.4% of GDP (2020)
@@ -181,27 +181,27 @@ about a third of the population lives in the centrally located capital city of M
 4.3 beds/1,000 population
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 99.1% of population
-- `improved: total`: total: 99.5% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0.9% of population
-- `unimproved: total`: total: 0.5% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 99.1% of population
+- `已改進－總計`: total: 99.5% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0.9% of population
+- `未改善：總計`: total: 0.5% of population (2020 est.)
 
 ### 肥胖—成人流行率
 8.6% (2016)
 
 ### 人均酒精消費量
-- `total`: 1.38 liters of pure alcohol (2019 est.)
-- `beer`: 0.33 liters of pure alcohol (2019 est.)
-- `wine`: 0.59 liters of pure alcohol (2019 est.)
-- `spirits`: 0.45 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 1.38 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.33 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.59 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.45 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 25.2% (2020 est.)
-- `male`: 44.4% (2020 est.)
-- `female`: 6% (2020 est.)
+- `總計`: 25.2% (2020 est.)
+- `男性`: 44.4% (2020 est.)
+- `女性`: 6% (2020 est.)
 
 ### 5歲以下體重不足兒童
 14.8% (2016/17)
@@ -210,22 +210,22 @@ about a third of the population lives in the centrally located capital city of M
 71.9% (2023 est.)
 
 ### 童婚
-- `women married by age 18`: 2.2%
-- `men married by age 18`: 2.2% (2017 est.)
+- `18歲前結婚的女性`: 2.2%
+- `18歲前結婚的男性`: 2.2% (2017 est.)
 
 ### 教育支出
 5.8% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 97.9%
-- `male`: 97.6%
-- `female`: 98.4% (2021)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 97.9%
+- `男性`: 97.6%
+- `女性`: 98.4% (2021)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 13 years
-- `male`: 12 years
-- `female`: 14 years (2019)
+- `總計`: 13 years
+- `男性`: 12 years
+- `女性`: 14 years (2019)
 
 ## 環境
 
@@ -233,23 +233,23 @@ about a third of the population lives in the centrally located capital city of M
 rising sea levels threaten land; depletion of freshwater aquifers threatens water supplies; inadequate sewage treatment; coral reef bleaching
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 tropical; hot, humid; dry, northeast monsoon (November to March); rainy, southwest monsoon (June to August)
 
 ### 土地利用
-- `agricultural land`: 23.3% (2018 est.)
-- `agricultural land: arable land`: arable land: 10% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 10% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 3.3% (2018 est.)
-- `forest`: 3% (2018 est.)
-- `other`: 73.7% (2018 est.)
+- `農地`: 23.3% (2018 est.)
+- `農地：耕地`: arable land: 10% (2018 est.)
+- `農地：永久性作物`: permanent crops: 10% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 3.3% (2018 est.)
+- `森林`: 3% (2018 est.)
+- `其它`: 73.7% (2018 est.)
 
 ### 都市化
-- `urban population`: 42% of total population (2023)
-- `rate of urbanization`: 2.34% annual rate of change (2020-25 est.)
+- `城市人口`: 42% of total population (2023)
+- `城鎮化率`: 2.34% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0% of GDP (2018 est.)
@@ -258,17 +258,17 @@ tropical; hot, humid; dry, northeast monsoon (November to March); rainy, southwe
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 13 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 1.44 megatons (2016 est.)
-- `methane emissions`: 0.14 megatons (2020 est.)
+- `顆粒物排放量`: 13 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 1.44 megatons (2016 est.)
+- `甲烷排放量`: 0.14 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 211,506 tons (2015 est.)
+- `城市固體廢棄物－每年產生`: 211,506 tons (2015 est.)
 
 ### 總取水量
-- `municipal`: 10 million cubic meters (2020 est.)
-- `industrial`: 300,000 cubic meters (2017 est.)
-- `agricultural`: 0 cubic meters (2017 est.)
+- `市級`: 10 million cubic meters (2020 est.)
+- `工業`: 300,000 cubic meters (2017 est.)
+- `農業`: 0 cubic meters (2017 est.)
 
 ### 可再生水資源總量
 30 million cubic meters (2020 est.)
@@ -276,20 +276,20 @@ tropical; hot, humid; dry, northeast monsoon (November to March); rainy, southwe
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Maldives
-- `conventional short form`: Maldives
-- `local long form`: Dhivehi Raajjeyge Jumhooriyyaa
-- `local short form`: Dhivehi Raajje
-- `etymology`: archipelago apparently named after the main island (and capital) of Male; the word "Maldives" means "the islands (dives) of Male"; alternatively, the name may derive from the Sanskrit word "maladvipa" meaning "garland of islands"; Dhivehi Raajje in Dhivehi means "Kingdom of the Dhivehi people"
+- `常用長名`: Republic of Maldives
+- `常用短名`: Maldives
+- `當地語長名`: Dhivehi Raajjeyge Jumhooriyyaa
+- `當地語短名`: Dhivehi Raajje
+- `语源学`: archipelago apparently named after the main island (and capital) of Male; the word "Maldives" means "the islands (dives) of Male"; alternatively, the name may derive from the Sanskrit word "maladvipa" meaning "garland of islands"; Dhivehi Raajje in Dhivehi means "Kingdom of the Dhivehi people"
 
 ### 政府類型
 presidential republic
 
 ### 首都
-- `name`: Male
-- `geographic coordinates`: 4 10 N, 73 30 E
-- `time difference`: UTC+5 (10 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: derived from the Sanskrit word "mahaalay" meaning "big house"
+- `名稱`: Male
+- `地理坐標`: 4 10 N, 73 30 E
+- `時差`: UTC+5 (10 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: derived from the Sanskrit word "mahaalay" meaning "big house"
 
 ### 行政區劃
 21 administrative atolls (atholhuthah, singular - atholhu); Addu (Addu City), Ariatholhu Dhekunuburi (South Ari Atoll), Ariatholhu Uthuruburi (North Ari Atoll), Faadhippolhu, Felidhuatholhu (Felidhu Atoll), Fuvammulah, Hahdhunmathi, Huvadhuatholhu Dhekunuburi (South Huvadhu Atoll), Huvadhuatholhu Uthuruburi (North Huvadhu Atoll), Kolhumadulu, Maale (Male), Maaleatholhu (Male Atoll), Maalhosmadulu Dhekunuburi (South Maalhosmadulu), Maalhosmadulu Uthuruburi (North Maalhosmadulu), Miladhunmadulu Dhekunuburi (South Miladhunmadulu), Miladhunmadulu Uthuruburi (North Miladhunmadulu), Mulakatholhu (Mulaku Atoll), Nilandheatholhu Dhekunuburi (South Nilandhe Atoll), Nilandheatholhu Uthuruburi (North Nilandhe Atoll), Thiladhunmathee Dhekunuburi (South Thiladhunmathi), Thiladhunmathee Uthuruburi (North Thiladhunmathi)
@@ -304,37 +304,37 @@ Independence Day, 26 July (1965)
 Islamic (sharia) legal system with English common law influences, primarily in commercial matters
 
 ### 憲法
-- `history`: many previous; latest ratified 7 August 2008
-- `amendments`: proposed by Parliament; passage requires at least three-quarters majority vote by its membership and the signature of the president of the republic; passage of amendments to constitutional articles on rights and freedoms and the terms of office of Parliament and of the president also requires a majority vote in a referendum; amended 2015
+- `歷史`: many previous; latest ratified 7 August 2008
+- `修正`: proposed by Parliament; passage requires at least three-quarters majority vote by its membership and the signature of the president of the republic; passage of amendments to constitutional articles on rights and freedoms and the terms of office of Parliament and of the president also requires a majority vote in a referendum; amended 2015
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Maldives
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: unknown
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Maldives
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: unknown
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Mohamed MUIZZU (since 17 November 2023)
-- `head of government`: President Mohamed MUIZZU (since 17 November 2023)
-- `cabinet`: Cabinet of Ministers appointed by the president, approved by Parliament
-- `elections/appointments`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); first round held on 9 September 2023 and runoff held on 30 September 2023 (next to be held in 2028)
-- `election results`: *2023:* Mohamed MUIZZU elected president in the second round; percent of vote in first round - Mohamed MUIZZU (PNC) 46.1%, Ibrahim Mohamed SOLIH (MDP) 39.1%, Ilyas LABEEB (DEMS) 7.1%, other 7.7%; percent of vote in the second round - Mohamed MUIZZU 54%, Ibrahim Mohamed SOLIH 46%  *2018*: Ibrahim Mohamed SOLIH elected president in first round; Ibrahim Mohamed SOLIH (MDP) 58.3%, Abdulla YAMEEN Abdul Gayoom (PPM) 41.7%
+- `國家元首`: President Mohamed MUIZZU (since 17 November 2023)
+- `政府首腦`: President Mohamed MUIZZU (since 17 November 2023)
+- `内閣`: Cabinet of Ministers appointed by the president, approved by Parliament
+- `選舉/任命`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); first round held on 9 September 2023 and runoff held on 30 September 2023 (next to be held in 2028)
+- `選舉結果`: *2023:* Mohamed MUIZZU elected president in the second round; percent of vote in first round - Mohamed MUIZZU (PNC) 46.1%, Ibrahim Mohamed SOLIH (MDP) 39.1%, Ilyas LABEEB (DEMS) 7.1%, other 7.7%; percent of vote in the second round - Mohamed MUIZZU 54%, Ibrahim Mohamed SOLIH 46%  *2018*: Ibrahim Mohamed SOLIH elected president in first round; Ibrahim Mohamed SOLIH (MDP) 58.3%, Abdulla YAMEEN Abdul Gayoom (PPM) 41.7%
 
 ### 立法部門
-- `description`: unicameral People's Assembly or People's Majlis (93 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)
-- `elections`: last held on 21 April 2024 (next to be held in 2029)
-- `election results`: percent of vote by party - NA; seats by party - PNC 66, MDP 12, MDA 2, JP 1, MNP 1, independent 11; composition - men 90, women 3, percentage women 3.3%
+- `描述`: unicameral People's Assembly or People's Majlis (93 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)
+- `選舉`: last held on 21 April 2024 (next to be held in 2029)
+- `選舉結果`: percent of vote by party - NA; seats by party - PNC 66, MDP 12, MDA 2, JP 1, MNP 1, independent 11; composition - men 90, women 3, percentage women 3.3%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court (consists of the chief justice and 6 justices
-- `judge selection and term of office`: Supreme Court judges appointed by the president in consultation with the Judicial Service Commission - a 10-member body of selected high government officials and the public - and upon confirmation by voting members of the People's Majlis; judges serve until mandatory retirement at age 70
-- `subordinate courts`: High Court; Criminal, Civil, Family, Juvenile, and Drug Courts; Magistrate Courts (on each of the inhabited islands)
+- `最高法院`: Supreme Court (consists of the chief justice and 6 justices
+- `法官遴選和任期`: Supreme Court judges appointed by the president in consultation with the Judicial Service Commission - a 10-member body of selected high government officials and the public - and upon confirmation by voting members of the People's Majlis; judges serve until mandatory retirement at age 70
+- `下級法院`: High Court; Criminal, Civil, Family, Juvenile, and Drug Courts; Magistrate Courts (on each of the inhabited islands)
 
 ### 政黨
 Adhaalath (Justice) Party or APDhivehi Rayyithunge Party or DRPMaldives Development Alliance or MDAMaldivian Democratic Party or MDPMaldives Third Way Democrats or MTDPeople's National Congress or PNCPeople's National FrontRepublican (Jumhooree) Party or JP
@@ -343,15 +343,15 @@ Adhaalath (Justice) Party or APDhivehi Rayyithunge Party or DRPMaldives Developm
 ADB, AOSIS, C, CP, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OIC, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Abdul GHAFOOR Mohamed (since 15 June 2023)
-- `chancery`: 1100 H Street NW, Suite 250, Washington, D.C. 20005
-- `telephone`: [1] (202) 516-5458
-- `email address and website`: WashingtonInfo@foreign.gov.mv  The Embassy (mdvmission.gov.mv)
+- `外交代表負責人`: Ambassador Abdul GHAFOOR Mohamed (since 15 June 2023)
+- `衡平法院（在美國）`: 1100 H Street NW, Suite 250, Washington, D.C. 20005
+- `電話號碼`: [1] (202) 516-5458
+- `電子郵件地址和網站`: WashingtonInfo@foreign.gov.mv  The Embassy (mdvmission.gov.mv)
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Hugo Yue-Ho YON (since 6 September 2023); note - Ambassador YON is the first resident US ambassador to the Republic of Maldives
-- `embassy`: 210 Galle Road, Colombo 03, Sri Lanka; note - as of early November 2023, the US has no consular or diplomatic offices in Maldives; the US Mission to Maldives operates from US Embassy Colombo, Sri Lanka
-- `telephone`: [94] (11) 249-8500
+- `外交代表負責人`: Ambassador Hugo Yue-Ho YON (since 6 September 2023); note - Ambassador YON is the first resident US ambassador to the Republic of Maldives
+- `大使館`: 210 Galle Road, Colombo 03, Sri Lanka; note - as of early November 2023, the US has no consular or diplomatic offices in Maldives; the US Mission to Maldives operates from US Embassy Colombo, Sri Lanka
+- `電話號碼`: [94] (11) 249-8500
 - `FAX`: [94] (11) 243-7345
 
 ### 旗幟說明
@@ -361,8 +361,8 @@ red with a large green rectangle in the center bearing a vertical white crescent
 coconut palm, yellowfin tuna; national colors: red, green, white
 
 ### 國歌
-- `name`: "Gaumee Salaam" (National Salute)
-- `lyrics/music`: Mohamed Jameel DIDI/Wannakuwattawaduge DON AMARADEVA
+- `名稱`: "Gaumee Salaam" (National Salute)
+- `歌詞／音樂`: Mohamed Jameel DIDI/Wannakuwattawaduge DON AMARADEVA
 **note**:  lyrics adopted 1948, music adopted 1972; between 1948 and 1972, the lyrics were sung to the tune of "Auld Lang Syne"
 
 ## 經濟
@@ -404,14 +404,14 @@ $6.6 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 4.9% (2022 est.)
-- `industry`: 10.3% (2022 est.)
-- `services`: 73.3% (2022 est.)
+- `農業`: 4.9% (2022 est.)
+- `產業`: 10.3% (2022 est.)
+- `服務`: 73.3% (2022 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `exports of goods and services`: 93.6% (2016 est.)
-- `imports of goods and services`: 89% (2016 est.)
+- `商品和服務出口`: 93.6% (2016 est.)
+- `商品和服務進口`: 89% (2016 est.)
 
 ### 農產品
 fruits, vegetables, nuts, other meats, tomatoes, bananas, maize, pulses, coconuts, papayas (2022)
@@ -435,9 +435,9 @@ tourism, fish processing, shipping, boat building, coconut processing, woven mat
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 14.9% (2023 est.)
-- `male`: 18.6% (2023 est.)
-- `female`: 9.2% (2023 est.)
+- `總計`: 14.9% (2023 est.)
+- `男性`: 18.6% (2023 est.)
+- `女性`: 9.2% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -449,8 +449,8 @@ tourism, fish processing, shipping, boat building, coconut processing, woven mat
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 3.8% (2019 est.)
-- `highest 10%`: 23.3% (2019 est.)
+- `最低10%`: 3.8% (2019 est.)
+- `最高10%`: 23.3% (2019 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -460,8 +460,8 @@ tourism, fish processing, shipping, boat building, coconut processing, woven mat
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $1.407 billion (2021 est.)
-- `expenditures`: $1.548 billion (2021 est.)
+- `收入`: $1.407 billion (2021 est.)
+- `支出`: $1.548 billion (2021 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -521,27 +521,27 @@ $805.808 million (2021 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 566,000 kW (2022 est.)
-- `consumption`: 821.397 million kWh (2022 est.)
-- `transmission/distribution losses`: 25.867 million kWh (2022 est.)
+- `裝機容量`: 566,000 kW (2022 est.)
+- `消費`: 821.397 million kWh (2022 est.)
+- `傳輸／分配損耗`: 25.867 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 93.2% of total installed capacity (2022 est.)
-- `solar`: 6.6% of total installed capacity (2022 est.)
-- `wind`: 0.2% of total installed capacity (2022 est.)
+- `石化燃料`: 93.2% of total installed capacity (2022 est.)
+- `太陽能`: 6.6% of total installed capacity (2022 est.)
+- `風能`: 0.2% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `imports`: 1 metric tons (2022 est.)
+- `進口`: 1 metric tons (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 14,000 bbl/day (2022 est.)
+- `成品油消費量`: 14,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 2.247 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 2.247 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 2.247 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 2.247 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 56.264 million Btu/person (2022 est.)
@@ -549,17 +549,17 @@ $805.808 million (2021 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 13,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 3 (2022 est.)
+- `總訂閱數`: 13,000 (2022 est.)
+- `每100名居民訂閱數`: 3 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 715,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 137 (2022 est.)
+- `總訂閱數`: 715,000 (2022 est.)
+- `每100名居民訂閱數`: 137 (2022 est.)
 
 ### 電信系統
-- `general assessment`: with its economy so heavily dependent on tourism, the Maldives has suffered heavy economic as well as health casualties during the pandemic; the country had a relatively short period of lock down and was willing to welcome visitors back as early as July 2020; but the effective shutdown of international air travel for most of the year resulted in the bottom falling out of the Maldives’ tourism industry, taking GDP down 32% in the process; the economy fared better in 2021, with a return to growth, yet it may still be a few years before the country’s key industries can return to the same level of prosperity that they previously enjoyed; the country’s high number of tourists and expatriate workers has inflated the penetration rate for mobile services, making it one of the highest in the world; that rate crashed in 2020 as demand for SIM cards (primarily prepaid) dried up; however, the number of contract subscribers increased as locals took advantage of competitive pricing offers from operators; with commercial 5G services already launched and fiber networks rapidly expanding around the country, the Maldives is primed to deliver world-class telecommunications services to its domestic and international customers (2021)
-- `domestic`: fixed-line is at nearly 3 per 100 persons and mobile-cellular subscriptions stands at nearly 135 per 100 persons (2021)
-- `international`: country code - 960; landing points for Dhiraagu Cable Network, NaSCOM, Dhiraagu-SLT Submarine Cable Networks and WARF submarine cables providing connections to 8 points in Maldives, India, and Sri Lanka; satellite earth station - 3 Intelsat (Indian Ocean) (2019)
+- `總體評估`: with its economy so heavily dependent on tourism, the Maldives has suffered heavy economic as well as health casualties during the pandemic; the country had a relatively short period of lock down and was willing to welcome visitors back as early as July 2020; but the effective shutdown of international air travel for most of the year resulted in the bottom falling out of the Maldives’ tourism industry, taking GDP down 32% in the process; the economy fared better in 2021, with a return to growth, yet it may still be a few years before the country’s key industries can return to the same level of prosperity that they previously enjoyed; the country’s high number of tourists and expatriate workers has inflated the penetration rate for mobile services, making it one of the highest in the world; that rate crashed in 2020 as demand for SIM cards (primarily prepaid) dried up; however, the number of contract subscribers increased as locals took advantage of competitive pricing offers from operators; with commercial 5G services already launched and fiber networks rapidly expanding around the country, the Maldives is primed to deliver world-class telecommunications services to its domestic and international customers (2021)
+- `國內`: fixed-line is at nearly 3 per 100 persons and mobile-cellular subscriptions stands at nearly 135 per 100 persons (2021)
+- `國際的`: country code - 960; landing points for Dhiraagu Cable Network, NaSCOM, Dhiraagu-SLT Submarine Cable Networks and WARF submarine cables providing connections to 8 points in Maldives, India, and Sri Lanka; satellite earth station - 3 Intelsat (Indian Ocean) (2019)
 
 ### 廣播媒體
 state-owned radio and TV monopoly until recently; 4 state-operated and 7 privately owned TV stations and 4 state-operated and 7 privately owned radio stations (2019)
@@ -568,20 +568,20 @@ state-owned radio and TV monopoly until recently; 4 state-operated and 7 privat
 .mv
 
 ### 網際網路使用者
-- `total`: 447,200 (2021 est.)
-- `percent of population`: 86% (2021 est.)
+- `總計`: 447,200 (2021 est.)
+- `佔人口比例`: 86% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 63,685 (2020 est.)
-- `subscriptions per 100 inhabitants`: 12 (2020 est.)
+- `總計`: 63,685 (2020 est.)
+- `每100名居民訂閱數`: 12 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 3 (2020)
-- `inventory of registered aircraft operated by air carriers`: 36
-- `annual passenger traffic on registered air carriers`: 1,147,247 (2018)
-- `annual freight traffic on registered air carriers`: 7.75 million (2018)
+- `註冊航空公司數量`: 3 (2020)
+- `註冊飛機庫存—航空承運商經營`: 36
+- `年度客運量－註冊航空公司`: 1,147,247 (2018)
+- `年度貨運量－註冊航空公司`: 7.75 million (2018)
 
 ### 註冊民用航空器國家代碼前綴
 8Q
@@ -590,22 +590,22 @@ state-owned radio and TV monopoly until recently; 4 state-operated and 7 privat
 19 (2024)
 
 ### 道路
-- `total`: 93 km
-- `paved`: 93 km (2018) - 60 km in Malée; 16 km on Addu Atolis; 17 km on Laamu
+- `總計`: 93 km
+- `已鋪砌`: 93 km (2018) - 60 km in Malée; 16 km on Addu Atolis; 17 km on Laamu
 **note**:  island roads are mainly compacted coral
 
 ### 商船
-- `total`: 82 (2023)
-- `by type`: general cargo 30, oil tanker 20, other 32
+- `總計`: 82 (2023)
+- `依類型`: general cargo 30, oil tanker 20, other 32
 
 ### 港口
-- `total ports`: 1 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 0
-- `very small`: 1
-- `ports with oil terminals`: 1
-- `key ports`: Male
+- `總港口數`: 1 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 0
+- `非常小`: 1
+- `原油碼頭港口`: 1
+- `主要港口`: Male
 
 ## 軍事和安全
 
@@ -637,7 +637,7 @@ Islamic State of Iraq and ash-Sham (ISIS)
 ## 跨國議題
 
 ### 人口販運
-- `tier rating`: Tier 2 Watch List — the Maldives did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/maldives/
+- `會級評分`: Tier 2 Watch List — the Maldives did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/maldives/
 
 ### 非法藥物
 NA

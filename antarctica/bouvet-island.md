@@ -19,21 +19,21 @@ island in the South Atlantic Ocean, southwest of the Cape of Good Hope (South Af
 Antarctic Region
 
 ### 面積
-- `total `: 49 sq km
-- `land`: 49 sq km
-- `water`: 0 sq km
+- `總計`: 49 sq km
+- `土地`: 49 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 about 0.3 times the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 29.6 km
 
 ### 海洋主張
-- `territorial sea`: 4 nm
+- `領海`: 4 nm
 
 ### 氣候
 antarctic
@@ -42,19 +42,19 @@ antarctic
 volcanic; coast is mostly inaccessible
 
 ### 海拔
-- `highest point`: Olavtoppen (Olav Peak) 780 m
-- `lowest point`: South Atlantic Ocean 0 m
+- `最高點`: Olavtoppen (Olav Peak) 780 m
+- `最低點`: South Atlantic Ocean 0 m
 
 ### 自然資源
 none
 
 ### 土地利用
-- `agricultural land`: 0% (2018 est.)
-- `agricultural land: arable land`: arable land: 0% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
-- `forest`: 0% (2018 est.)
-- `other`: 100% (2018 est.)
+- `農地`: 0% (2018 est.)
+- `農地：耕地`: arable land: 0% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0% (2018 est.)
+- `森林`: 0% (2018 est.)
+- `其它`: 100% (2018 est.)
 
 ### 自然災害
 occasional volcanism, rock slides; harsh climate, surrounded by pack ice in winter
@@ -65,7 +65,7 @@ almost entirely covered by glacial ice (93%); declared a nature reserve by Norwa
 ## 人民和社會
 
 ### 人口
-- `total`: uninhabited
+- `總計`: uninhabited
 
 ## 環境
 
@@ -76,19 +76,19 @@ none; almost entirely ice covered
 antarctic
 
 ### 土地利用
-- `agricultural land`: 0% (2018 est.)
-- `agricultural land: arable land`: arable land: 0% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
-- `forest`: 0% (2018 est.)
-- `other`: 100% (2018 est.)
+- `農地`: 0% (2018 est.)
+- `農地：耕地`: arable land: 0% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0% (2018 est.)
+- `森林`: 0% (2018 est.)
+- `其它`: 100% (2018 est.)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Bouvet Island
-- `etymology`: named after the French naval officer Jean-Baptiste Charles BOUVET who discovered the island in 1739
+- `常用長名`: none
+- `常用短名`: Bouvet Island
+- `语源学`: named after the French naval officer Jean-Baptiste Charles BOUVET who discovered the island in 1739
 **note**:  pronounced boo-vay i-land
 
 ### 附屬狀況

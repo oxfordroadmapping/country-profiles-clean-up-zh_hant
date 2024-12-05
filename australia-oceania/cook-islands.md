@@ -19,23 +19,23 @@ Oceania, group of islands in the South Pacific Ocean, about halfway between Hawa
 Oceania
 
 ### 面積
-- `total `: 236 sq km
-- `land`: 236 sq km
-- `water`: 0 sq km
+- `總計`: 236 sq km
+- `土地`: 236 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 1.3 times the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 120 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: 200 nm or to the edge of the continental margin
+- `領海`: 12 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: 200 nm or to the edge of the continental margin
 
 ### 氣候
 tropical oceanic; moderated by trade winds; a dry season from April to November and a more humid season from December to March
@@ -44,19 +44,19 @@ tropical oceanic; moderated by trade winds; a dry season from April to November 
 low coral atolls in north; volcanic, hilly islands in south
 
 ### 海拔
-- `highest point`: Te Manga 652 m
-- `lowest point`: Pacific Ocean 0 m
+- `最高點`: Te Manga 652 m
+- `最低點`: Pacific Ocean 0 m
 
 ### 自然資源
 coconuts (copra)
 
 ### 土地利用
-- `agricultural land`: 8.4% (2018 est.)
-- `agricultural land: arable land`: arable land: 4.2% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 4.2% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
-- `forest`: 64.6% (2018 est.)
-- `other`: 27% (2018 est.)
+- `農地`: 8.4% (2018 est.)
+- `農地：耕地`: arable land: 4.2% (2018 est.)
+- `農地：永久性作物`: permanent crops: 4.2% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0% (2018 est.)
+- `森林`: 64.6% (2018 est.)
+- `其它`: 27% (2018 est.)
 
 ### 灌溉土地
 NA
@@ -73,13 +73,13 @@ the northern Cook Islands are seven low-lying, sparsely populated, coral atolls;
 ## 人民和社會
 
 ### 人口
-- `total`: 7,761
-- `male`: 3,980
-- `female`: 3,781 (2024 est.)
+- `總計`: 7,761
+- `男性`: 3,980
+- `女性`: 3,781 (2024 est.)
 
 ### 國籍
-- `noun`: Cook Islander(s)
-- `adjective`: Cook Islander
+- `名詞`: Cook Islander(s)
+- `形容詞`: Cook Islander
 
 ### 族裔群體
 Cook Island Maori 77.4%, part Cook Island Maori 8.3%, Fijian 3.6%, New Zealand Maori/European 3.4%, Filipino 2.9%, other Pacific Islands 1.8%, other 2.6% (2021 est.)
@@ -92,20 +92,20 @@ English (official) 86.4%, Cook Islands Maori (Rarotongan) (official) 76.2%, othe
 Protestant 55% (Cook Islands Christian Church 43.1%, Seventh Day Adventist 8.3%, Assemblies of God 3.6%), Roman Catholic 16.7%, Church of Jesus Christ 3.9%, Jehovah's Witness 2.2%, Apostolic Church 2.1%, other 4.5%, none/unspecified 15.6% (2021 est.)
 
 ### 年齡結構
-- `0-14 years`: 18.2% (male 738/female 671)
-- `15-64 years`: 65.9% (male 2,634/female 2,479)
-- `65 years and over`: 16% (2024 est.) (male 608/female 631)
+- `0-14歲`: 18.2% (male 738/female 671)
+- `15-64歲`: 65.9% (male 2,634/female 2,479)
+- `65歲及以上`: 16% (2024 est.) (male 608/female 631)
 
 ### 撫養比率
-- `total dependency ratio`: 53.8
-- `youth dependency ratio`: 36.4
-- `elderly dependency ratio`: 17.4
-- `potential support ratio`: 5.8 (2021)
+- `總受扶養人比率`: 53.8
+- `少年撫養比率`: 36.4
+- `老人撫養比率`: 17.4
+- `潛在支持率`: 5.8 (2021)
 
 ### 年齡中位數
-- `total`: 41.1 years (2024 est.)
-- `male`: 40.7 years
-- `female`: 41.4 years
+- `總計`: 41.1 years (2024 est.)
+- `男性`: 40.7 years
+- `女性`: 41.4 years
 
 ### 人口成長率
 -2.24% (2024 est.)
@@ -123,25 +123,25 @@ Protestant 55% (Cook Islands Christian Church 43.1%, Seventh Day Adventist 8.3%,
 most of the population is found on the island of Rarotonga
 
 ### 都市化
-- `urban population`: 76.2% of total population (2023)
-- `rate of urbanization`: 0.52% annual rate of change (2020-25 est.)
+- `城市人口`: 76.2% of total population (2023)
+- `城鎮化率`: 0.52% annual rate of change (2020-25 est.)
 
 ### 性別比例
-- `at birth`: 1.04 male(s)/female
-- `0-14 years`: 1.1 male(s)/female
-- `15-64 years`: 1.06 male(s)/female
-- `65 years and over`: 0.96 male(s)/female
-- `total population`: 1.05 male(s)/female (2024 est.)
+- `出生時`: 1.04 male(s)/female
+- `0-14歲`: 1.1 male(s)/female
+- `15-64歲`: 1.06 male(s)/female
+- `65歲及以上`: 0.96 male(s)/female
+- `總人口數`: 1.05 male(s)/female (2024 est.)
 
 ### 嬰兒死亡率
-- `total`: 15.1 deaths/1,000 live births (2024 est.)
-- `male`: 19 deaths/1,000 live births
-- `female`: 11.1 deaths/1,000 live births
+- `總計`: 15.1 deaths/1,000 live births (2024 est.)
+- `男性`: 19 deaths/1,000 live births
+- `女性`: 11.1 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 77.6 years (2024 est.)
-- `male`: 74.8 years
-- `female`: 80.6 years
+- `總人口數`: 77.6 years (2024 est.)
+- `男性`: 74.8 years
+- `女性`: 80.6 years
 
 ### 總生育率
 2.02 children born/woman (2024 est.)
@@ -153,12 +153,12 @@ most of the population is found on the island of Rarotonga
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: NA
-- `improved: rural`: rural: NA
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: NA
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: NA
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: NA
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 當前醫療支出
 3.2% of GDP (2020)
@@ -167,27 +167,27 @@ NA
 1.41 physicians/1,000 population (2014)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: NA
-- `improved: rural`: rural: NA
-- `improved: total`: total: 99.1% of population
-- `unimproved: urban`: urban: NA
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: 0.9% of population (2020 est.)
+- `已改進－城市`: urban: NA
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: 99.1% of population
+- `未改進：都市`: urban: NA
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: 0.9% of population (2020 est.)
 
 ### 肥胖—成人流行率
 55.9% (2016)
 
 ### 人均酒精消費量
-- `total`: 12.97 liters of pure alcohol (2019 est.)
-- `beer`: 3.62 liters of pure alcohol (2019 est.)
-- `wine`: 2.28 liters of pure alcohol (2019 est.)
-- `spirits`: 7.07 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 12.97 liters of pure alcohol (2019 est.)
+- `啤酒`: 3.62 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 2.28 liters of pure alcohol (2019 est.)
+- `烈酒`: 7.07 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 24% (2020 est.)
-- `male`: 27.7% (2020 est.)
-- `female`: 20.3% (2020 est.)
+- `總計`: 24% (2020 est.)
+- `男性`: 27.7% (2020 est.)
+- `女性`: 20.3% (2020 est.)
 
 ### 5歲以下體重不足兒童
 NA
@@ -199,14 +199,14 @@ NA
 4.6% of GDP (2021 est.)
 
 ### 識字程度
-- `total population`: NA
-- `male`: NA
-- `female`: NA
+- `總人口數`: NA
+- `男性`: NA
+- `女性`: NA
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 15 years
-- `male`: 15 years
-- `female`: 14 years (2012)
+- `總計`: 15 years
+- `男性`: 15 years
+- `女性`: 14 years (2012)
 
 ## 環境
 
@@ -214,26 +214,26 @@ NA
 limited land presents solid and liquid waste disposal problems; soil destruction and deforestation; environmental degradation due to indiscriminate use of pesticides; improper disposal of pollutants; overfishing and destructive fishing practices; over dredging of lagoons and coral rubble beds; unregulated building
 
 ### 環境—國際協定
-- `party to`: Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 tropical oceanic; moderated by trade winds; a dry season from April to November and a more humid season from December to March
 
 ### 土地利用
-- `agricultural land`: 8.4% (2018 est.)
-- `agricultural land: arable land`: arable land: 4.2% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 4.2% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
-- `forest`: 64.6% (2018 est.)
-- `other`: 27% (2018 est.)
+- `農地`: 8.4% (2018 est.)
+- `農地：耕地`: arable land: 4.2% (2018 est.)
+- `農地：永久性作物`: permanent crops: 4.2% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0% (2018 est.)
+- `森林`: 64.6% (2018 est.)
+- `其它`: 27% (2018 est.)
 
 ### 都市化
-- `urban population`: 76.2% of total population (2023)
-- `rate of urbanization`: 0.52% annual rate of change (2020-25 est.)
+- `城市人口`: 76.2% of total population (2023)
+- `城鎮化率`: 0.52% annual rate of change (2020-25 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 7.8 micrograms per cubic meter (2019 est.)
+- `顆粒物排放量`: 7.8 micrograms per cubic meter (2019 est.)
 
 ### 可再生水資源總量
 0 cubic meters (2017 est.)
@@ -241,10 +241,10 @@ tropical oceanic; moderated by trade winds; a dry season from April to November 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Cook Islands
-- `former`: Hervey Islands
-- `etymology`: named after Captain James COOK, the British explorer who visited the islands in 1773 and 1777
+- `常用長名`: none
+- `常用短名`: Cook Islands
+- `前任`: Hervey Islands
+- `语源学`: named after Captain James COOK, the British explorer who visited the islands in 1773 and 1777
 
 ### 政府類型
 parliamentary democracy
@@ -253,10 +253,10 @@ parliamentary democracy
 self-governing in free association with New Zealand; Cook Islands is fully responsible for internal affairs; New Zealand retains responsibility for external affairs and defense in consultation with the Cook Islands
 
 ### 首都
-- `name`: Avarua
-- `geographic coordinates`: 21 12 S, 159 46 W
-- `time difference`: UTC-10 (5 hours behind Washington, DC, during Standard Time)
-- `etymology`: translates as "two harbors" in Maori
+- `名稱`: Avarua
+- `地理坐標`: 21 12 S, 159 46 W
+- `時差`: UTC-10 (5 hours behind Washington, DC, during Standard Time)
+- `语源学`: translates as "two harbors" in Maori
 
 ### 行政區劃
 none
@@ -271,8 +271,8 @@ Constitution Day, the first Monday in August (1965)
 common law similar to New Zealand common law
 
 ### 憲法
-- `history`: 4 August 1965 (Cook Islands Constitution Act 1964)
-- `amendments`: proposed by Parliament; passage requires at least two-thirds majority vote by the Parliament membership in each of several readings and assent of the chief of state’s representative; passage of amendments relating to the chief of state also requires two-thirds majority approval in a referendum; amended many times, last in 2004
+- `歷史`: 4 August 1965 (Cook Islands Constitution Act 1964)
+- `修正`: proposed by Parliament; passage requires at least two-thirds majority vote by the Parliament membership in each of several readings and assent of the chief of state’s representative; passage of amendments relating to the chief of state also requires two-thirds majority approval in a referendum; amended many times, last in 2004
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration (New Zealand normally retains responsibility for external affairs); accepts ICCt jurisdiction
@@ -281,21 +281,21 @@ has not submitted an ICJ jurisdiction declaration (New Zealand normally retains 
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: King CHARLES III (since 8 September 2022); represented by Sir Tom J. MARSTERS (since 9 August 2013); New Zealand High Commissioner Catherine GRAHAM (since 8 September 2024)
-- `head of government`: Prime Minister Mark BROWN (since 1 October 2020)
-- `cabinet`: Cabinet chosen by the prime minister
-- `elections/appointments`: the monarchy is hereditary; UK representative appointed by the monarch; New Zealand high commissioner appointed by the New Zealand Government; following legislative elections, the leader of the majority party or majority coalition usually becomes prime minister
+- `國家元首`: King CHARLES III (since 8 September 2022); represented by Sir Tom J. MARSTERS (since 9 August 2013); New Zealand High Commissioner Catherine GRAHAM (since 8 September 2024)
+- `政府首腦`: Prime Minister Mark BROWN (since 1 October 2020)
+- `内閣`: Cabinet chosen by the prime minister
+- `選舉/任命`: the monarchy is hereditary; UK representative appointed by the monarch; New Zealand high commissioner appointed by the New Zealand Government; following legislative elections, the leader of the majority party or majority coalition usually becomes prime minister
 
 ### 立法部門
-- `description`: unicameral Parliament, formerly the Legislative Assembly (24 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)
-- `elections`: last held on 1 August 2022 (next to be held by 2026)
-- `election results`: percent of vote by party - CIP 44%, Demo 26.9%, Cook Islands United Party 26.9%, OCI 2.7%, other 0.2% independent 7.3%; seats by party - CIP 12, Demo 5, Cook Islands United Party 3, OCI 1, independent 3; composition - men 18, women 6, percentage women 25%
+- `描述`: unicameral Parliament, formerly the Legislative Assembly (24 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)
+- `選舉`: last held on 1 August 2022 (next to be held by 2026)
+- `選舉結果`: percent of vote by party - CIP 44%, Demo 26.9%, Cook Islands United Party 26.9%, OCI 2.7%, other 0.2% independent 7.3%; seats by party - CIP 12, Demo 5, Cook Islands United Party 3, OCI 1, independent 3; composition - men 18, women 6, percentage women 25%
 **note**:  the House of Ariki, a 24-member parliamentary body of traditional leaders appointed by the King's representative, serves as a consultative body to the Parliament
 
 ### 司法部門
-- `highest court(s)`: Court of Appeal (consists of the chief justice and 3 judges of the High Court); High Court (consists of the chief justice and at least 4 judges and organized into civil, criminal, and land divisions); note - appeals beyond the Cook Islands Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)
-- `judge selection and term of office`: High Court chief justice appointed by the Queen's Representative on the advice of the Executive Council tendered by the prime minister; other judges appointed by the Queen's Representative, on the advice of the Executive Council tendered by the chief justice, High Court chief justice, and the minister of justice; chief justice and judges appointed for 3-year renewable terms
-- `subordinate courts`: justices of the peace
+- `最高法院`: Court of Appeal (consists of the chief justice and 3 judges of the High Court); High Court (consists of the chief justice and at least 4 judges and organized into civil, criminal, and land divisions); note - appeals beyond the Cook Islands Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)
+- `法官遴選和任期`: High Court chief justice appointed by the Queen's Representative on the advice of the Executive Council tendered by the prime minister; other judges appointed by the Queen's Representative, on the advice of the Executive Council tendered by the chief justice, High Court chief justice, and the minister of justice; chief justice and judges appointed for 3-year renewable terms
+- `下級法院`: justices of the peace
 
 ### 政黨
 Cook Islands Party or CIPCook Islands United Party Democratic Party or DemoOne Cook Islands Movement or OCI
@@ -307,7 +307,7 @@ ACP, ADB, AOSIS, FAO, ICAO, ICCt, ICRM, IFAD, IFRCS, IMO, IMSO, IOC, ITUC (NGOs)
 none (self-governing in free association with New Zealand)
 
 ### 駐該國的美國外交代表
-- `embassy`: none (self-governing in free association with New Zealand)
+- `大使館`: none (self-governing in free association with New Zealand)
 **note**:  on 25 September 2023, the US officially established diplomatic relations with Cook Islands
 
 ### 旗幟說明
@@ -317,8 +317,8 @@ blue with the flag of the UK in the upper hoist-side quadrant and a large circle
 a circle of 15, five-pointed, white stars on a blue field, Tiare maori (Gardenia taitensis) flower; national colors: green, white
 
 ### 國歌
-- `name`: "Te Atua Mou E" (To God Almighty)
-- `lyrics/music`: Tepaeru Te RITO/Thomas DAVIS
+- `名稱`: "Te Atua Mou E" (To God Almighty)
+- `歌詞／音樂`: Tepaeru Te RITO/Thomas DAVIS
 **note**:  adopted 1982; as prime minister, Sir Thomas DAVIS composed the anthem; his wife, a tribal chief, wrote the lyrics
 
 ## 經濟
@@ -354,8 +354,8 @@ coconuts, vegetables, papayas, pork, sweet potatoes, tomatoes, fruits, mangoes/g
 fishing, fruit processing, tourism, clothing, handicrafts
 
 ### 預算
-- `revenues`: $113.674 million (2022 est.)
-- `expenditures`: $129.088 million (2022 est.)
+- `收入`: $113.674 million (2022 est.)
+- `支出`: $129.088 million (2022 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 出口
@@ -392,38 +392,38 @@ refined petroleum, ships, cars, plastic products, other foods (2022)
 ## 能源
 
 ### 電力
-- `installed generating capacity`: 17,000 kW (2022 est.)
-- `consumption`: 37.5 million kWh (2022 est.)
-- `transmission/distribution losses`: 3.2 million kWh (2022 est.)
+- `裝機容量`: 17,000 kW (2022 est.)
+- `消費`: 37.5 million kWh (2022 est.)
+- `傳輸／分配損耗`: 3.2 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 60.9% of total installed capacity (2022 est.)
-- `solar`: 39.1% of total installed capacity (2022 est.)
+- `石化燃料`: 60.9% of total installed capacity (2022 est.)
+- `太陽能`: 39.1% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `imports`: 1.3 metric tons (2022 est.)
+- `進口`: 1.3 metric tons (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 600 bbl/day (2022 est.)
+- `成品油消費量`: 600 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 87,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 87,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 87,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 87,000 metric tonnes of CO2 (2022 est.)
 
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 7,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 41 (2021 est.)
+- `總訂閱數`: 7,000 (2021 est.)
+- `每100名居民訂閱數`: 41 (2021 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 17,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 100 (2021 est.)
+- `總訂閱數`: 17,000 (2021 est.)
+- `每100名居民訂閱數`: 100 (2021 est.)
 
 ### 電信系統
-- `general assessment`: demand for mobile broadband is increasing due to mobile services being the primary and most wide-spread source for Internet access across the region; Telecom Cook Islands offers international direct dialing, Internet, email, and fax; individual islands are connected by a combination of satellite earth stations, microwave systems, and VHF and HF radiotelephone (2020)
-- `domestic`: service is provided by small exchanges connected to subscribers by open-wire, cable, and fiber-optic cable; nearly 41 per 100 fixed-line and about 100 per 100 mobile-cellular (2021)
-- `international`: country code - 682; the Manatua submarine cable to surrounding islands of Niue, Samoa, French Polynesia and other Cook Islands, the topography of the South Pacific region has made Internet connectivity a serious issue for many of the remote islands; submarine fiber-optic networks are expensive to build and maintain; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)
+- `總體評估`: demand for mobile broadband is increasing due to mobile services being the primary and most wide-spread source for Internet access across the region; Telecom Cook Islands offers international direct dialing, Internet, email, and fax; individual islands are connected by a combination of satellite earth stations, microwave systems, and VHF and HF radiotelephone (2020)
+- `國內`: service is provided by small exchanges connected to subscribers by open-wire, cable, and fiber-optic cable; nearly 41 per 100 fixed-line and about 100 per 100 mobile-cellular (2021)
+- `國際的`: country code - 682; the Manatua submarine cable to surrounding islands of Niue, Samoa, French Polynesia and other Cook Islands, the topography of the South Pacific region has made Internet connectivity a serious issue for many of the remote islands; submarine fiber-optic networks are expensive to build and maintain; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)
 
 ### 廣播媒體
 1 privately owned TV station broadcasts from Rarotonga providing a mix of local news and overseas-sourced programs (2019)
@@ -432,18 +432,18 @@ refined petroleum, ships, cars, plastic products, other foods (2022)
 .ck
 
 ### 網際網路使用者
-- `total`: 11,382 (2021 est.)
-- `percent of population`: 64.8% (2021 est.)
+- `總計`: 11,382 (2021 est.)
+- `佔人口比例`: 64.8% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 2,700 (2018 est.)
-- `subscriptions per 100 inhabitants`: 15 (2018 est.)
+- `總計`: 2,700 (2018 est.)
+- `每100名居民訂閱數`: 15 (2018 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 1 (2020)
-- `inventory of registered aircraft operated by air carriers`: 6
+- `註冊航空公司數量`: 1 (2020)
+- `註冊飛機庫存—航空承運商經營`: 6
 
 ### 註冊民用航空器國家代碼前綴
 E5
@@ -452,22 +452,22 @@ E5
 10 (2024)
 
 ### 道路
-- `total`: 295 km
-- `paved`: 207 km
-- `unpaved`: 88 km (2018)
+- `總計`: 295 km
+- `已鋪砌`: 207 km
+- `未鋪砌`: 88 km (2018)
 
 ### 商船
-- `total`: 190 (2023)
-- `by type`: bulk carrier 19, general cargo 44, oil tanker 58, other 69
+- `總計`: 190 (2023)
+- `依類型`: bulk carrier 19, general cargo 44, oil tanker 58, other 69
 
 ### 港口
-- `total ports`: 1 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 0
-- `very small`: 1
-- `ports with oil terminals`: 1
-- `key ports`: Avatiu
+- `總港口數`: 1 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 0
+- `非常小`: 1
+- `原油碼頭港口`: 1
+- `主要港口`: Avatiu
 
 ## 軍事和安全
 

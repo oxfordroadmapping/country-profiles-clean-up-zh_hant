@@ -19,24 +19,24 @@ Southern South America, islands in the South Atlantic Ocean, about 500 km east o
 South America
 
 ### 面積
-- `total `: 12,173 sq km
-- `land`: 12,173 sq km
-- `water`: 0 sq km
+- `總計`: 12,173 sq km
+- `土地`: 12,173 sq km
+- `水`: 0 sq km
 **note**:  includes the two main islands of East and West Falkland and about 200 small islands
 
 ### 面積—比較
 slightly smaller than Connecticut
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 1,288 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `continental shelf`: 200 nm
-- `exclusive fishing zone`: 200 nm
+- `領海`: 12 nm
+- `大陸架`: 200 nm
+- `專屬捕魚區`: 200 nm
 
 ### 氣候
 cold marine; strong westerly winds, cloudy, humid; rain occurs on more than half of days in year; average annual rainfall is 60 cm in Stanley; occasional snow all year, except in January and February, but typically does not accumulate
@@ -45,19 +45,19 @@ cold marine; strong westerly winds, cloudy, humid; rain occurs on more than half
 rocky, hilly, mountainous with some boggy, undulating plains
 
 ### 海拔
-- `highest point`: Mount Usborne 705 m
-- `lowest point`: Atlantic Ocean 0 m
+- `最高點`: Mount Usborne 705 m
+- `最低點`: Atlantic Ocean 0 m
 
 ### 自然資源
 fish, squid, wildlife, calcified seaweed, sphagnum moss
 
 ### 土地利用
-- `agricultural land`: 92.4% (2018 est.)
-- `agricultural land: arable land`: arable land: 0% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 92.4% (2018 est.)
-- `forest`: 0% (2018 est.)
-- `other`: 7.6% (2018 est.)
+- `農地`: 92.4% (2018 est.)
+- `農地：耕地`: arable land: 0% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 92.4% (2018 est.)
+- `森林`: 0% (2018 est.)
+- `其它`: 7.6% (2018 est.)
 
 ### 灌溉土地
 NA
@@ -74,12 +74,12 @@ deeply indented coast provides good natural harbors; short growing season
 ## 人民和社會
 
 ### 人口
-- `total`: 3,662 (2021 est.)
+- `總計`: 3,662 (2021 est.)
 **note**:  data include all persons usually resident in the islands at the time of the 2021 census
 
 ### 國籍
-- `noun`: Falkland Islander(s)
-- `adjective`: Falkland Island
+- `名詞`: Falkland Islander(s)
+- `形容詞`: Falkland Island
 
 ### 族裔群體
 Falkland Islander 48.3%, British 23.1%, St. Helenian 7.5%, Chilean 4.6%, mixed 6%, other 8.5%, unspecified 2% (2016 est.)
@@ -92,10 +92,10 @@ English 89%, Spanish 7.7%, other 3.3% (2006 est.)
 Christian 57.1%, other 1.6%, none 35.4%, unspecified 6% (2016 est.)
 
 ### 撫養比率
-- `total dependency ratio`: 39.8
-- `youth dependency ratio`: 24.8
-- `elderly dependency ratio`: 14.9
-- `potential support ratio`: 6.7 (2021)
+- `總受扶養人比率`: 39.8
+- `少年撫養比率`: 24.8
+- `老人撫養比率`: 14.9
+- `潛在支持率`: 6.7 (2021)
 
 ### 人口成長率
 0.01% (2014 est.)
@@ -110,35 +110,35 @@ Christian 57.1%, other 1.6%, none 35.4%, unspecified 6% (2016 est.)
 a very small population, with most residents living in and around Stanley
 
 ### 都市化
-- `urban population`: 79.7% of total population (2023)
-- `rate of urbanization`: 0.53% annual rate of change (2020-25 est.)
+- `城市人口`: 79.7% of total population (2023)
+- `城鎮化率`: 0.53% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 2,000 STANLEY (capital) (2018)
 
 ### 性別比例
-- `total population`: 1.12 male(s)/female (2016 est.)
+- `總人口數`: 1.12 male(s)/female (2016 est.)
 
 ### 出生時預期壽命
-- `total population`: (2017 est.) 77.9
-- `male`: 75.6
-- `female`: 79.6
+- `總人口數`: (2017 est.) 77.9
+- `男性`: 75.6
+- `女性`: 79.6
 
 ### 飲用水來源
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 78.2% of population
-- `improved: total`: total: 95.3% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 21.8% of population
-- `unimproved: total`: total: 4.7% of population (2020)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 78.2% of population
+- `已改進－總計`: total: 95.3% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 21.8% of population
+- `未改善：總計`: total: 4.7% of population (2020)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0% of population (2020)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0% of population (2020)
 
 ### 目前已婚婦女（15-49歲）
 44.8% (2023 est.)
@@ -152,23 +152,23 @@ overfishing by unlicensed vessels is a problem; reindeer - introduced to the isl
 cold marine; strong westerly winds, cloudy, humid; rain occurs on more than half of days in year; average annual rainfall is 60 cm in Stanley; occasional snow all year, except in January and February, but typically does not accumulate
 
 ### 土地利用
-- `agricultural land`: 92.4% (2018 est.)
-- `agricultural land: arable land`: arable land: 0% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 92.4% (2018 est.)
-- `forest`: 0% (2018 est.)
-- `other`: 7.6% (2018 est.)
+- `農地`: 92.4% (2018 est.)
+- `農地：耕地`: arable land: 0% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 92.4% (2018 est.)
+- `森林`: 0% (2018 est.)
+- `其它`: 7.6% (2018 est.)
 
 ### 都市化
-- `urban population`: 79.7% of total population (2023)
-- `rate of urbanization`: 0.53% annual rate of change (2020-25 est.)
+- `城市人口`: 79.7% of total population (2023)
+- `城鎮化率`: 0.53% annual rate of change (2020-25 est.)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Falkland Islands (Islas Malvinas)
-- `etymology`: the archipelago takes its name from the Falkland Sound, the strait separating the two main islands; the channel itself was named after the Viscount of FALKLAND, who sponsored an expedition to the islands in 1690; the Spanish name for the archipelago derives from the French "Iles Malouines," meaning Islands of Malo, the name applied to the islands by French explorer Louis-Antoine de BOUGAINVILLE in 1764 after the port of Saint-Malo
+- `常用長名`: none
+- `常用短名`: Falkland Islands (Islas Malvinas)
+- `语源学`: the archipelago takes its name from the Falkland Sound, the strait separating the two main islands; the channel itself was named after the Viscount of FALKLAND, who sponsored an expedition to the islands in 1690; the Spanish name for the archipelago derives from the French "Iles Malouines," meaning Islands of Malo, the name applied to the islands by French explorer Louis-Antoine de BOUGAINVILLE in 1764 after the port of Saint-Malo
 
 ### 政府類型
 parliamentary democracy (Legislative Assembly); self-governing overseas territory of the UK
@@ -177,10 +177,10 @@ parliamentary democracy (Legislative Assembly); self-governing overseas territor
 overseas territory of the UK; also claimed by Argentina
 
 ### 首都
-- `name`: Stanley
-- `geographic coordinates`: 51 42 S, 57 51 W
-- `time difference`: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
-- `etymology`: named after Edward SMITH-STANLEY (1799-1869), the 14th Earl of Derby, a British statesman and three-time prime minister of the UK who never visited the islands
+- `名稱`: Stanley
+- `地理坐標`: 51 42 S, 57 51 W
+- `時差`: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+- `语源学`: named after Edward SMITH-STANLEY (1799-1869), the 14th Earl of Derby, a British statesman and three-time prime minister of the UK who never visited the islands
 
 ### 行政區劃
 none (administered by the UK; claimed by Argentina)
@@ -195,7 +195,7 @@ Liberation Day, 14 June (1982)
 English common law and local statutes
 
 ### 憲法
-- `history`: previous 1985; latest entered into force 1 January 2009 (The Falkland Islands Constitution Order 2008)
+- `歷史`: previous 1985; latest entered into force 1 January 2009 (The Falkland Islands Constitution Order 2008)
 
 ### 公民身份
 see United Kingdom
@@ -204,20 +204,20 @@ see United Kingdom
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: King CHARLES III (since 8 September 2022); represented by Governor Alison BLAKE (since 23 July 2022)
-- `head of government`: Chief Executive Andy KEELING (since April 2021)
-- `cabinet`: Executive Council elected by the Legislative Council
-- `elections/appointments`: the monarchy is hereditary; governor appointed by the monarch; chief executive appointed by the governor
+- `國家元首`: King CHARLES III (since 8 September 2022); represented by Governor Alison BLAKE (since 23 July 2022)
+- `政府首腦`: Chief Executive Andy KEELING (since April 2021)
+- `内閣`: Executive Council elected by the Legislative Council
+- `選舉/任命`: the monarchy is hereditary; governor appointed by the monarch; chief executive appointed by the governor
 
 ### 立法部門
-- `description`: unicameral Legislative Assembly, formerly the Legislative Council (10 seats; 5 members directly elected from the Stanley constituency and 3 members from the Camp constituency, both by simple majority vote, 2 appointed non-voting ex-officio members - the chief executive, appointed by the governor, and the financial secretary; the attorney general and Commander British Forces South Atlantic Islands are also invited to attend; members serve 4-year terms)
-- `elections`: last held on 4 November 2021 (next to be held in November 2025)
-- `election results`: percent of vote - NA; seats - independent 8; composition of elected members - men 6, women 2, percentage women 25% (does not include speaker)
+- `描述`: unicameral Legislative Assembly, formerly the Legislative Council (10 seats; 5 members directly elected from the Stanley constituency and 3 members from the Camp constituency, both by simple majority vote, 2 appointed non-voting ex-officio members - the chief executive, appointed by the governor, and the financial secretary; the attorney general and Commander British Forces South Atlantic Islands are also invited to attend; members serve 4-year terms)
+- `選舉`: last held on 4 November 2021 (next to be held in November 2025)
+- `選舉結果`: percent of vote - NA; seats - independent 8; composition of elected members - men 6, women 2, percentage women 25% (does not include speaker)
 
 ### 司法部門
-- `highest court(s)`: Court of Appeal (consists of the court president, the chief justice as an ex officio non-resident member, and 2 justices of appeal); Supreme Court (consists of the chief justice); note - appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)
-- `judge selection and term of office`: chief justice, court of appeal president, and justices appointed by the governor; tenure specified in each justice's instrument of appointment
-- `subordinate courts`: Magistrate's Court (senior magistrate presides over civil and criminal divisions); Court of Summary Jurisdiction
+- `最高法院`: Court of Appeal (consists of the court president, the chief justice as an ex officio non-resident member, and 2 justices of appeal); Supreme Court (consists of the chief justice); note - appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)
+- `法官遴選和任期`: chief justice, court of appeal president, and justices appointed by the governor; tenure specified in each justice's instrument of appointment
+- `下級法院`: Magistrate's Court (senior magistrate presides over civil and criminal divisions); Court of Summary Jurisdiction
 
 ### 政黨
 none; all independents
@@ -229,7 +229,7 @@ UPU
 none (administered by the UK; claimed by Argentina)
 
 ### 駐該國的美國外交代表
-- `embassy`: none (administered by the UK; claimed by Argentina)
+- `大使館`: none (administered by the UK; claimed by Argentina)
 
 ### 旗幟說明
 blue with the flag of the UK in the upper hoist-side quadrant and the Falkland Island coat of arms centered on the outer half of the flag; the coat of arms contains a white ram (sheep raising was once the major economic activity) above the sailing ship Desire (whose crew discovered the islands) with a scroll at the bottom bearing the motto DESIRE THE RIGHT
@@ -238,8 +238,8 @@ blue with the flag of the UK in the upper hoist-side quadrant and the Falkland I
 ram
 
 ### 國歌
-- `name`: "Song of the Falklands"
-- `lyrics/music`: Christopher LANHAM
+- `名稱`: "Song of the Falklands"
+- `歌詞／音樂`: Christopher LANHAM
 **note**:  adopted 1930s; the song is the local unofficial anthem; as a territory of the United Kingdom, "God Save the King" is official (see United Kingdom)
 
 ## 經濟
@@ -266,9 +266,9 @@ $206.4 million (2015 est.)
 1.4% (2014 est.)
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 41% (2015 est.)
-- `industry`: 20.6% (2015 est.)
-- `services`: 38.4% (2015 est.)
+- `農業`: 41% (2015 est.)
+- `產業`: 20.6% (2015 est.)
+- `服務`: 38.4% (2015 est.)
 
 ### 農產品
 fodder and vegetable crops; venison, sheep, dairy products; fish, squid
@@ -318,35 +318,35 @@ refined petroleum, prefabricated buildings, aircraft, plastic products, iron str
 ## 能源
 
 ### 電力
-- `installed generating capacity`: 10,000 kW (2022 est.)
-- `consumption`: 19.957 million kWh (2022 est.)
-- `transmission/distribution losses`: 900,000 kWh (2022 est.)
+- `裝機容量`: 10,000 kW (2022 est.)
+- `消費`: 19.957 million kWh (2022 est.)
+- `傳輸／分配損耗`: 900,000 kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 67.9% of total installed capacity (2022 est.)
-- `wind`: 32.1% of total installed capacity (2022 est.)
+- `石化燃料`: 67.9% of total installed capacity (2022 est.)
+- `風能`: 32.1% of total installed capacity (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 300 bbl/day (2022 est.)
+- `成品油消費量`: 300 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 38,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 38,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 38,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 38,000 metric tonnes of CO2 (2022 est.)
 
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 2,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 53 (2021 est.)
+- `總訂閱數`: 2,000 (2021 est.)
+- `每100名居民訂閱數`: 53 (2021 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 6,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 160 (2021 est.)
+- `總訂閱數`: 6,000 (2021 est.)
+- `每100名居民訂閱數`: 160 (2021 est.)
 
 ### 電信系統
-- `general assessment`: the replacement of the rural internet and phone system was delayed due to COVID; upgrades started at the end of 2019, this included the replacement of all Multi Service Access Nodes (MSANs), the technology used to connect larger settlements; in early 2020 a new system to replace the WiMAX system (the technology used to connect smaller settlements and households) had been delayed as well due to COVID-19; once the equipment is received it will be installed in the largest base stations on East Falklands: Malo, Bombilla, and Mt Pleasant peak  “We also have MSAN equipment and radio links due to arrive towards the end of this month, and these and will be installed at Chartres, New Island, Sea Lion Island, Onion Range, Sand Bay, and Mare Harbour enabling us to migrate additional customers from the existing WiMAX network and also releasing equipment for spares.” (2020)
-- `domestic`: fixed-line subscriptions approximately 53 per 100, 160 per 100 for mobile-cellular (2021)
-- `international`: country code - 500; satellite earth station - 1 Intelsat (Atlantic Ocean) with links through London to other countries (2015)
+- `總體評估`: the replacement of the rural internet and phone system was delayed due to COVID; upgrades started at the end of 2019, this included the replacement of all Multi Service Access Nodes (MSANs), the technology used to connect larger settlements; in early 2020 a new system to replace the WiMAX system (the technology used to connect smaller settlements and households) had been delayed as well due to COVID-19; once the equipment is received it will be installed in the largest base stations on East Falklands: Malo, Bombilla, and Mt Pleasant peak  “We also have MSAN equipment and radio links due to arrive towards the end of this month, and these and will be installed at Chartres, New Island, Sea Lion Island, Onion Range, Sand Bay, and Mare Harbour enabling us to migrate additional customers from the existing WiMAX network and also releasing equipment for spares.” (2020)
+- `國內`: fixed-line subscriptions approximately 53 per 100, 160 per 100 for mobile-cellular (2021)
+- `國際的`: country code - 500; satellite earth station - 1 Intelsat (Atlantic Ocean) with links through London to other countries (2015)
 
 ### 廣播媒體
 TV service provided by a multi-channel service provider; radio services provided by the public broadcaster, Falkland Islands Radio Service, broadcasting on both AM and FM frequencies, and by the British Forces Broadcasting Service (BFBS) (2007)
@@ -355,18 +355,18 @@ TV service provided by a multi-channel service provider; radio services provided
 .fk
 
 ### 網際網路使用者
-- `total`: 3,762 (2021 est.)
-- `percent of population`: 99% (2021 est.)
+- `總計`: 3,762 (2021 est.)
+- `佔人口比例`: 99% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 1,000 (2020 est.)
-- `subscriptions per 100 inhabitants`: 33 (2020 est.)
+- `總計`: 1,000 (2020 est.)
+- `每100名居民訂閱數`: 33 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 1 (2020)
-- `inventory of registered aircraft operated by air carriers`: 5
+- `註冊航空公司數量`: 1 (2020)
+- `註冊飛機庫存—航空承運商經營`: 5
 
 ### 註冊民用航空器國家代碼前綴
 VP-F
@@ -375,22 +375,22 @@ VP-F
 34 (2024)
 
 ### 道路
-- `total`: 440 km
-- `paved`: 50 km
-- `unpaved`: 390 km (2008)
+- `總計`: 440 km
+- `已鋪砌`: 50 km
+- `未鋪砌`: 390 km (2008)
 
 ### 商船
-- `total`: 2 (2023)
-- `by type`: general cargo 1, other 1
+- `總計`: 2 (2023)
+- `依類型`: general cargo 1, other 1
 
 ### 港口
-- `total ports`: 1 (2024)
-- `large`: 0
-- `medium`: 1
-- `small`: 0
-- `very small`: 0
-- `ports with oil terminals`: 1
-- `key ports`: Stanley
+- `總港口數`: 1 (2024)
+- `大`: 0
+- `中`: 1
+- `小`: 0
+- `非常小`: 0
+- `原油碼頭港口`: 1
+- `主要港口`: Stanley
 
 ## 軍事和安全
 

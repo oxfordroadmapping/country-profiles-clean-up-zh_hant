@@ -19,17 +19,17 @@ Eastern Africa, west of Somalia
 Africa
 
 ### 面積
-- `total `: 1,104,300 sq km
-- `land`: 1,096,570 sq km
-- `water`: 7,730 sq km
+- `總計`: 1,104,300 sq km
+- `土地`: 1,096,570 sq km
+- `水`: 7,730 sq km
 **note**:  area numbers are approximate since a large portion of the Ethiopia-Somalia border is undefined
 
 ### 面積—比較
 slightly less than twice the size of Texas
 
 ### 陸地邊界
-- `total`: 5,925 km
-- `border countries`: Djibouti 342 km; Eritrea 1,033 km; Kenya 867 km; Somalia 1,640 km; South Sudan 1,299 km; Sudan 744 km
+- `總計`: 5,925 km
+- `邊境國家`: Djibouti 342 km; Eritrea 1,033 km; Kenya 867 km; Somalia 1,640 km; South Sudan 1,299 km; Sudan 744 km
 
 ### 海岸線
 0 km (landlocked)
@@ -44,27 +44,27 @@ tropical monsoon with wide topographic-induced variation
 high plateau with central mountain range divided by Great Rift Valley
 
 ### 海拔
-- `highest point`: Ras Dejen 4,550 m
-- `lowest point`: Danakil Depression -125 m
-- `mean elevation`: 1,330 m
+- `最高點`: Ras Dejen 4,550 m
+- `最低點`: Danakil Depression -125 m
+- `平均海拔`: 1,330 m
 
 ### 自然資源
 small reserves of gold, platinum, copper, potash, natural gas, hydropower
 
 ### 土地利用
-- `agricultural land`: 36.3% (2018 est.)
-- `agricultural land: arable land`: arable land: 15.2% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 1.1% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 20% (2018 est.)
-- `forest`: 12.2% (2018 est.)
-- `other`: 51.5% (2018 est.)
+- `農地`: 36.3% (2018 est.)
+- `農地：耕地`: arable land: 15.2% (2018 est.)
+- `農地：永久性作物`: permanent crops: 1.1% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 20% (2018 est.)
+- `森林`: 12.2% (2018 est.)
+- `其它`: 51.5% (2018 est.)
 
 ### 灌溉土地
 1,813 sq km (2020)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lake Tana - 3,600 sq km; Abaya Hayk - 1,160 sq km; Ch'amo Hayk - 550 sq km
-- `salt water lake(s)`: Lake Turkana (shared with Kenya) - 6,400 sq km; Abhe Bid Hayk/Abhe Bad (shared with Djibouti) - 780 sq km; 
+- `淡水湖`: Lake Tana - 3,600 sq km; Abaya Hayk - 1,160 sq km; Ch'amo Hayk - 550 sq km
+- `鹽水湖`: Lake Turkana (shared with Kenya) - 6,400 sq km; Abhe Bid Hayk/Abhe Bad (shared with Djibouti) - 780 sq km; 
 
 ### 主要河流（按公里長度）
 Blue Nile river source (shared with Sudan [m]) - 1,600 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -87,20 +87,20 @@ geologically active Great Rift Valley susceptible to earthquakes, volcanic erupt
 ## 人民和社會
 
 ### 人口
-- `total`: 118,550,298
-- `male`: 59,062,093
-- `female`: 59,488,205 (2024 est.)
+- `總計`: 118,550,298
+- `男性`: 59,062,093
+- `女性`: 59,488,205 (2024 est.)
 
 ### 國籍
-- `noun`: Ethiopian(s)
-- `adjective`: Ethiopian
+- `名詞`: Ethiopian(s)
+- `形容詞`: Ethiopian
 
 ### 族裔群體
 Oromo 35.8%, Amhara 24.1%, Somali 7.2%, Tigray 5.7%, Sidama 4.1%, Guragie 2.6%, Welaita 2.3%, Afar 2.2%, Silte 1.3%, Kefficho 1.2%, other 13.5% (2022 est.)
 
 ### 語文
 Oromo (official regional working language) 33.8%, Amharic (official national language) 29.3%, Somali (official regional working language) 6.2%, Tigrigna (Tigrinya) (official regional working language) 5.9%, Sidamo 4%, Wolaytta 2.2%, Gurage 2%, Afar (official regional working language) 1.7%, Hadiyya 1.7%, Gamo 1.5%, Gedeo 1.3%, Opuuo 1.2%, Kafa 1.1%, other 8.1%, English (2007 est.)
-- `major-language sample(s)`: Kitaaba Addunyaa Waan Qabataamaatiif - Kan Madda Odeeffannoo bu’uraawaatiif baay’ee barbaachisaa ta’e. (Oromo)  የአለም እውነታ መጽሐፍ፣ ለመሠረታዊ መረጃ እጅግ አስፈላጊ የሆነ ምንጭ። (Amharic)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: Kitaaba Addunyaa Waan Qabataamaatiif - Kan Madda Odeeffannoo bu’uraawaatiif baay’ee barbaachisaa ta’e. (Oromo)  የአለም እውነታ መጽሐፍ፣ ለመሠረታዊ መረጃ እጅግ አስፈላጊ የሆነ ምንጭ። (Amharic)  The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Ethiopian Orthodox 43.8%, Muslim 31.3%, Protestant 22.8%, Catholic 0.7%, traditional 0.6%, other 0.8% (2016 est.)
@@ -109,20 +109,20 @@ Ethiopian Orthodox 43.8%, Muslim 31.3%, Protestant 22.8%, Catholic 0.7%, traditi
 Ethiopia is a predominantly agricultural country – nearly 80% of the population lives in rural areas – that is in the early stages of demographic transition. Infant, child, and maternal mortality have fallen sharply over the past decade, but the total fertility rate has declined more slowly and the population continues to grow. The rising age of marriage and the increasing proportion of women remaining single have contributed to fertility reduction. While the use of modern contraceptive methods among married women has increased significantly from 6 percent in 2000 to 27 percent in 2012, the overall rate is still quite low. Ethiopia’s rapid population growth is putting increasing pressure on land resources, expanding environmental degradation, and raising vulnerability to food shortages. With about 40 percent of the population below the age of 15 and a fertility rate of 4 children per woman (and even higher in rural areas), Ethiopia will have to make further progress in meeting its family planning needs if it is to achieve the age structure necessary for reaping a demographic dividend in the coming decades. Poverty, drought, political repression, and forced government resettlement have driven Ethiopia’s internal and external migration since the 1960s. Before the 1974 revolution, only small numbers of the Ethiopian elite went abroad to study and then returned home, but under the brutal Derg regime thousands fled the country, primarily as refugees. Between 1982 and 1991 there was a new wave of migration to the West for family reunification. Since the defeat of the Derg in 1991, Ethiopians have migrated to escape violence among some of the country’s myriad ethnic groups or to pursue economic opportunities. Internal and international trafficking of women and children for domestic work and prostitution is a growing problem.
 
 ### 年齡結構
-- `0-14 years`: 38.7% (male 23,092,496/female 22,765,882)
-- `15-64 years`: 58% (male 34,175,328/female 34,536,238)
-- `65 years and over`: 3.4% (2024 est.) (male 1,794,269/female 2,186,085)
+- `0-14歲`: 38.7% (male 23,092,496/female 22,765,882)
+- `15-64歲`: 58% (male 34,175,328/female 34,536,238)
+- `65歲及以上`: 3.4% (2024 est.) (male 1,794,269/female 2,186,085)
 
 ### 撫養比率
-- `total dependency ratio`: 75.7
-- `youth dependency ratio`: 70.2
-- `elderly dependency ratio`: 5.5
-- `potential support ratio`: 18.1 (2021 est.)
+- `總受扶養人比率`: 75.7
+- `少年撫養比率`: 70.2
+- `老人撫養比率`: 5.5
+- `潛在支持率`: 18.1 (2021 est.)
 
 ### 年齡中位數
-- `total`: 20.4 years (2024 est.)
-- `male`: 20.2 years
-- `female`: 20.7 years
+- `總計`: 20.4 years (2024 est.)
+- `男性`: 20.2 years
+- `女性`: 20.7 years
 
 ### 人口成長率
 2.37% (2024 est.)
@@ -140,18 +140,18 @@ Ethiopia is a predominantly agricultural country – nearly 80% of the populatio
 highest density is found in the highlands of the north and middle areas of the country, particularly around the centrally located capital city of Addis Ababa; the far east and southeast are sparsely populated as shown in this population distribution map
 
 ### 都市化
-- `urban population`: 23.2% of total population (2023)
-- `rate of urbanization`: 4.4% annual rate of change (2020-25 est.)
+- `城市人口`: 23.2% of total population (2023)
+- `城鎮化率`: 4.4% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 5.461 million ADDIS ABABA (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.03 male(s)/female
-- `0-14 years`: 1.01 male(s)/female
-- `15-64 years`: 0.99 male(s)/female
-- `65 years and over`: 0.82 male(s)/female
-- `total population`: 0.99 male(s)/female (2024 est.)
+- `出生時`: 1.03 male(s)/female
+- `0-14歲`: 1.01 male(s)/female
+- `15-64歲`: 0.99 male(s)/female
+- `65歲及以上`: 0.82 male(s)/female
+- `總人口數`: 0.99 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 19.3 years (2019 est.)
@@ -161,14 +161,14 @@ highest density is found in the highlands of the north and middle areas of the c
 267 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 32.6 deaths/1,000 live births (2024 est.)
-- `male`: 37.4 deaths/1,000 live births
-- `female`: 27.6 deaths/1,000 live births
+- `總計`: 32.6 deaths/1,000 live births (2024 est.)
+- `男性`: 37.4 deaths/1,000 live births
+- `女性`: 27.6 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 67.7 years (2024 est.)
-- `male`: 65.4 years
-- `female`: 70 years
+- `總人口數`: 67.7 years (2024 est.)
+- `男性`: 65.4 years
+- `女性`: 70 years
 
 ### 總生育率
 3.84 children born/woman (2024 est.)
@@ -180,12 +180,12 @@ highest density is found in the highlands of the north and middle areas of the c
 37.7% (2020)
 
 ### 飲用水來源
-- `improved: urban`: urban: 98.5% of population
-- `improved: rural`: rural: 70.2% of population
-- `improved: total`: total: 76.4% of population
-- `unimproved: urban`: urban: 1.5% of population
-- `unimproved: rural`: rural: 29.8% of population
-- `unimproved: total`: total: 23.6% of population (2020 est.)
+- `已改進－城市`: urban: 98.5% of population
+- `已改進－農村`: rural: 70.2% of population
+- `已改進－總計`: total: 76.4% of population
+- `未改進：都市`: urban: 1.5% of population
+- `未改進：鄉村`: rural: 29.8% of population
+- `未改善：總計`: total: 23.6% of population (2020 est.)
 
 ### 當前醫療支出
 3.5% of GDP (2020)
@@ -197,27 +197,27 @@ highest density is found in the highlands of the north and middle areas of the c
 0.3 beds/1,000 population (2016)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 52.5% of population
-- `improved: rural`: rural: 8.1% of population
-- `improved: total`: total: 17.7% of population
-- `unimproved: urban`: urban: 47.5% of population
-- `unimproved: rural`: rural: 91.9% of population
-- `unimproved: total`: total: 82.3% of population (2020 est.)
+- `已改進－城市`: urban: 52.5% of population
+- `已改進－農村`: rural: 8.1% of population
+- `已改進－總計`: total: 17.7% of population
+- `未改進：都市`: urban: 47.5% of population
+- `未改進：鄉村`: rural: 91.9% of population
+- `未改善：總計`: total: 82.3% of population (2020 est.)
 
 ### 肥胖—成人流行率
 4.5% (2016)
 
 ### 人均酒精消費量
-- `total`: 1.16 liters of pure alcohol (2019 est.)
-- `beer`: 0.92 liters of pure alcohol (2019 est.)
-- `wine`: 0 liters of pure alcohol (2019 est.)
-- `spirits`: 0.2 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.03 liters of pure alcohol (2019 est.)
+- `總計`: 1.16 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.92 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.2 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.03 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 5.1% (2020 est.)
-- `male`: 8.8% (2020 est.)
-- `female`: 1.3% (2020 est.)
+- `總計`: 5.1% (2020 est.)
+- `男性`: 8.8% (2020 est.)
+- `女性`: 1.3% (2020 est.)
 
 ### 5歲以下體重不足兒童
 21.1% (2019)
@@ -226,23 +226,23 @@ highest density is found in the highlands of the north and middle areas of the c
 67.5% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 14.1%
-- `women married by age 18`: 40.3%
-- `men married by age 18`: 5% (2016 est.)
+- `15歲前結婚的女性`: 14.1%
+- `18歲前結婚的女性`: 40.3%
+- `18歲前結婚的男性`: 5% (2016 est.)
 
 ### 教育支出
 4.5% of GDP (2019 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 51.8%
-- `male`: 57.2%
-- `female`: 44.4% (2017)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 51.8%
+- `男性`: 57.2%
+- `女性`: 44.4% (2017)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 9 years
-- `male`: 8 years
-- `female`: 8 years (2012)
+- `總計`: 9 years
+- `男性`: 8 years
+- `女性`: 8 years (2012)
 
 ## 環境
 
@@ -250,26 +250,26 @@ highest density is found in the highlands of the north and middle areas of the c
 deforestation; overgrazing; soil erosion; desertification; loss of biodiversity; water shortages in some areas from water-intensive farming and poor management; industrial pollution and pesticides contribute to air, water, and soil pollution
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection
-- `signed, but not ratified`: Environmental Modification, Law of the Sea, Nuclear Test Ban
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection
+- `已簽署但未批準`: Environmental Modification, Law of the Sea, Nuclear Test Ban
 
 ### 氣候
 tropical monsoon with wide topographic-induced variation
 
 ### 土地利用
-- `agricultural land`: 36.3% (2018 est.)
-- `agricultural land: arable land`: arable land: 15.2% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 1.1% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 20% (2018 est.)
-- `forest`: 12.2% (2018 est.)
-- `other`: 51.5% (2018 est.)
+- `農地`: 36.3% (2018 est.)
+- `農地：耕地`: arable land: 15.2% (2018 est.)
+- `農地：永久性作物`: permanent crops: 1.1% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 20% (2018 est.)
+- `森林`: 12.2% (2018 est.)
+- `其它`: 51.5% (2018 est.)
 
 ### 都市化
-- `urban population`: 23.2% of total population (2023)
-- `rate of urbanization`: 4.4% annual rate of change (2020-25 est.)
+- `城市人口`: 23.2% of total population (2023)
+- `城鎮化率`: 4.4% annual rate of change (2020-25 est.)
 
 ### 糧食不安全
-- `widespread lack of access`: *due to conflict in Tigray Region, drought conditions in southeastern areas, high food prices - *according to the 2023 Humanitarian Response Plan, about 20.1 million people are estimated to be in need of emergency food assistance; the difficult food security situation is mainly the result of the lingering impact of the conflict in northern areas, episodes of intercommunal violence across the country, and the drought in southern areas that are affecting food availability and access; food insecurity is exacerbated by severe macroeconomic challenges including insufficient foreign currency reserves and the continuous depreciation of the national currency, which constrains imports of key commodities including fertilizers, as well as a very high inflation, with the year‑on‑year inflation rate estimated at 30.8 percent in May 2023 (2023)
+- `普遍缺乏訪問權限`: *due to conflict in Tigray Region, drought conditions in southeastern areas, high food prices - *according to the 2023 Humanitarian Response Plan, about 20.1 million people are estimated to be in need of emergency food assistance; the difficult food security situation is mainly the result of the lingering impact of the conflict in northern areas, episodes of intercommunal violence across the country, and the drought in southern areas that are affecting food availability and access; food insecurity is exacerbated by severe macroeconomic challenges including insufficient foreign currency reserves and the continuous depreciation of the national currency, which constrains imports of key commodities including fertilizers, as well as a very high inflation, with the year‑on‑year inflation rate estimated at 30.8 percent in May 2023 (2023)
 
 ### 森林資源收入
 5.81% of GDP (2018 est.)
@@ -278,16 +278,16 @@ tropical monsoon with wide topographic-induced variation
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 21.8 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 14.87 megatons (2016 est.)
-- `methane emissions`: 114.21 megatons (2020 est.)
+- `顆粒物排放量`: 21.8 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 14.87 megatons (2016 est.)
+- `甲烷排放量`: 114.21 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 6,532,787 tons (2015 est.)
+- `城市固體廢棄物－每年產生`: 6,532,787 tons (2015 est.)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lake Tana - 3,600 sq km; Abaya Hayk - 1,160 sq km; Ch'amo Hayk - 550 sq km
-- `salt water lake(s)`: Lake Turkana (shared with Kenya) - 6,400 sq km; Abhe Bid Hayk/Abhe Bad (shared with Djibouti) - 780 sq km; 
+- `淡水湖`: Lake Tana - 3,600 sq km; Abaya Hayk - 1,160 sq km; Ch'amo Hayk - 550 sq km
+- `鹽水湖`: Lake Turkana (shared with Kenya) - 6,400 sq km; Abhe Bid Hayk/Abhe Bad (shared with Djibouti) - 780 sq km; 
 
 ### 主要河流（按公里長度）
 Blue Nile river source (shared with Sudan [m]) - 1,600 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -299,9 +299,9 @@ Atlantic Ocean drainage: *(Mediterranean Sea)* Nile (3,254,853 sq km)
 Ogaden-Juba Basin, Sudd Basin (Umm Ruwaba Aquifer)
 
 ### 總取水量
-- `municipal`: 810 million cubic meters (2020 est.)
-- `industrial`: 50 million cubic meters (2020 est.)
-- `agricultural`: 9.69 billion cubic meters (2020 est.)
+- `市級`: 810 million cubic meters (2020 est.)
+- `工業`: 50 million cubic meters (2020 est.)
+- `農業`: 9.69 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 122 billion cubic meters (2020 est.)
@@ -309,22 +309,22 @@ Ogaden-Juba Basin, Sudd Basin (Umm Ruwaba Aquifer)
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Federal Democratic Republic of Ethiopia
-- `conventional short form`: Ethiopia
-- `local long form`: YeItyop'iya Federalawi Demokrasiyawi Ripeblik
-- `local short form`: Ityop'iya
-- `former`: Abyssinia, Italian East Africa
-- `abbreviation`: FDRE
-- `etymology`: the country name derives from the Greek word "Aethiopia," which in classical times referred to lands south of Egypt in the Upper Nile region
+- `常用長名`: Federal Democratic Republic of Ethiopia
+- `常用短名`: Ethiopia
+- `當地語長名`: YeItyop'iya Federalawi Demokrasiyawi Ripeblik
+- `當地語短名`: Ityop'iya
+- `前任`: Abyssinia, Italian East Africa
+- `縮寫`: FDRE
+- `语源学`: the country name derives from the Greek word "Aethiopia," which in classical times referred to lands south of Egypt in the Upper Nile region
 
 ### 政府類型
 federal parliamentary republic
 
 ### 首都
-- `name`: Addis Ababa
-- `geographic coordinates`: 9 02 N, 38 42 E
-- `time difference`: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: the name in Amharic means "new flower" and was bestowed on the city in 1889, three years after its founding
+- `名稱`: Addis Ababa
+- `地理坐標`: 9 02 N, 38 42 E
+- `時差`: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: the name in Amharic means "new flower" and was bestowed on the city in 1889, three years after its founding
 
 ### 行政區劃
 12 ethnically based regional states (kililoch, singular - kilil) and 2 chartered cities* (astedader akabibiwach, singular - astedader akabibi); Adis Abeba* (Addis Ababa), Afar, Amara (Amhara), Binshangul Gumuz, Dire Dawa*, Gambela Hizboch (Gambela), Hareri Hizb (Harari), Oromia, Sidama, Sumale, Tigray, YeDebub Biheroch Bihereseboch na Hizboch (Southern Nations, Nationalities and Peoples), YeDebub M'irab Ityop'iya Hizboch (Southwest Ethiopia Peoples), Southern Ethiopia Peoples
@@ -339,39 +339,39 @@ Derg Downfall Day (defeat of MENGISTU regime), 28 May (1991)
 civil law system
 
 ### 憲法
-- `history`: several previous; latest drafted June 1994, adopted 8 December 1994, entered into force 21 August 1995
-- `amendments`: proposals submitted for discussion require two-thirds majority approval in either house of Parliament or majority approval of one-third of the State Councils; passage of amendments other than constitutional articles on fundamental rights and freedoms and the initiation and amendment of the constitution requires two-thirds majority vote in a joint session of Parliament and majority vote by two thirds of the State Councils; passage of amendments affecting rights and freedoms and amendment procedures requires two-thirds majority vote in each house of Parliament and majority vote by all the State Councils
+- `歷史`: several previous; latest drafted June 1994, adopted 8 December 1994, entered into force 21 August 1995
+- `修正`: proposals submitted for discussion require two-thirds majority approval in either house of Parliament or majority approval of one-third of the State Councils; passage of amendments other than constitutional articles on fundamental rights and freedoms and the initiation and amendment of the constitution requires two-thirds majority vote in a joint session of Parliament and majority vote by two thirds of the State Councils; passage of amendments affecting rights and freedoms and amendment procedures requires two-thirds majority vote in each house of Parliament and majority vote by all the State Councils
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Ethiopia
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 4 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Ethiopia
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 4 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President TAYE Atske Selassie (since 7 October 2024)
-- `head of government`: Prime Minister ABIY Ahmed Ali (since April 2018)
-- `cabinet`: Council of Ministers selected by the prime minister and approved by the House of People's Representatives
-- `elections/appointments`: president indirectly elected by both chambers of Parliament for a 6-year term (eligible for a second term); election held on 21 June 2021 and 30 September 2021 (the scheduled 29 August 2020 election was postponed by Prime Minister ABIY due to the COVID-19 pandemic); prime minister designated by the majority party following legislative elections
-- `election results`: *2021:* SAHLE-WORK Zewde reelected president during joint session of Parliament, vote - 659 (unanimous); ABIY confirmed Prime Minister by House of Peoples' Representatives (4 October 2021)  *2018:* SAHLE-WORK Zewde elected president during joint session of Parliament, vote - 659 (unanimous); note - snap election held on 25 October 2018 due to resignation of President MULATA Teshome
+- `國家元首`: President TAYE Atske Selassie (since 7 October 2024)
+- `政府首腦`: Prime Minister ABIY Ahmed Ali (since April 2018)
+- `内閣`: Council of Ministers selected by the prime minister and approved by the House of People's Representatives
+- `選舉/任命`: president indirectly elected by both chambers of Parliament for a 6-year term (eligible for a second term); election held on 21 June 2021 and 30 September 2021 (the scheduled 29 August 2020 election was postponed by Prime Minister ABIY due to the COVID-19 pandemic); prime minister designated by the majority party following legislative elections
+- `選舉結果`: *2021:* SAHLE-WORK Zewde reelected president during joint session of Parliament, vote - 659 (unanimous); ABIY confirmed Prime Minister by House of Peoples' Representatives (4 October 2021)  *2018:* SAHLE-WORK Zewde elected president during joint session of Parliament, vote - 659 (unanimous); note - snap election held on 25 October 2018 due to resignation of President MULATA Teshome
 **note**:  SAHLE-WORK Zewde is the first female elected head of state in Ethiopia
 
 ### 立法部門
-- `description`: bicameral Parliament consists of:House of Federation or Yefedereshein Mikir Bete (153 seats maximum; 144 seats current; members indirectly elected by state assemblies to serve 5-year terms)House of People's Representatives or Yehizb Tewokayoch Mekir Bete (547 seats maximum; 470 seats current; members directly elected in single-seat constituencies by simple majority vote; 22 seats reserved for minorities; all members serve 5-year terms)
-- `elections`: House of Federation - last held 4 October 2021 (next expected in October 2026)House of People's Representatives - last held in two parts on 21 June 2021 and 30 September 2021 (next expected in June 2026)
-- `election results`: House of Federation - percent of vote by party/coalition - NA; seats by party/coalition - NA; composition - men 102, women 43, percentage women 29.7%  House of Representatives - percent of vote by party/coalition - NA; seats by party/coalition - Prosperity Party 454, NAMA 5, EZEMA 4, Gedeo People's Democratic organization 2, Kucha People Democratic Party 1, independent 4; composition - men 275, women 195, percentage women 41.3%; note - total Parliament percentage women 38.9%
+- `描述`: bicameral Parliament consists of:House of Federation or Yefedereshein Mikir Bete (153 seats maximum; 144 seats current; members indirectly elected by state assemblies to serve 5-year terms)House of People's Representatives or Yehizb Tewokayoch Mekir Bete (547 seats maximum; 470 seats current; members directly elected in single-seat constituencies by simple majority vote; 22 seats reserved for minorities; all members serve 5-year terms)
+- `選舉`: House of Federation - last held 4 October 2021 (next expected in October 2026)House of People's Representatives - last held in two parts on 21 June 2021 and 30 September 2021 (next expected in June 2026)
+- `選舉結果`: House of Federation - percent of vote by party/coalition - NA; seats by party/coalition - NA; composition - men 102, women 43, percentage women 29.7%  House of Representatives - percent of vote by party/coalition - NA; seats by party/coalition - Prosperity Party 454, NAMA 5, EZEMA 4, Gedeo People's Democratic organization 2, Kucha People Democratic Party 1, independent 4; composition - men 275, women 195, percentage women 41.3%; note - total Parliament percentage women 38.9%
 **note**:  the House of Federation is responsible for interpreting the constitution and federal-regional issues, and the House of People's Representatives is responsible for passing legislation
 
 ### 司法部門
-- `highest court(s)`: Federal Supreme Court (consists of 11 judges); note - the House of Federation has jurisdiction for all constitutional issues
-- `judge selection and term of office`: president and vice president of Federal Supreme Court recommended by the prime minister and appointed by the House of People's Representatives; other Supreme Court judges nominated by the Federal Judicial Administrative Council (a 10-member body chaired by the president of the Federal Supreme Court) and appointed by the House of People's Representatives; judges serve until retirement at age 60
-- `subordinate courts`: federal high courts and federal courts of first instance; state court systems (mirror structure of federal system); sharia courts and customary and traditional courts
+- `最高法院`: Federal Supreme Court (consists of 11 judges); note - the House of Federation has jurisdiction for all constitutional issues
+- `法官遴選和任期`: president and vice president of Federal Supreme Court recommended by the prime minister and appointed by the House of People's Representatives; other Supreme Court judges nominated by the Federal Judicial Administrative Council (a 10-member body chaired by the president of the Federal Supreme Court) and appointed by the House of People's Representatives; judges serve until retirement at age 60
+- `下級法院`: federal high courts and federal courts of first instance; state court systems (mirror structure of federal system); sharia courts and customary and traditional courts
 
 ### 政黨
 Ethiopian Citizens for Social Justice and Democracy or EZEMA   Gedeo People's Democratic PartyIndependentKucha People Democratic Party National Movement of Amhara or NAMAProsperity Party or PP
@@ -380,20 +380,20 @@ Ethiopian Citizens for Social Justice and Democracy or EZEMA   Gedeo People's 
 ACP, AfDB, ATMIS, AU, BRICS, COMESA, EITI, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (accession candidate)
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador (vacant); Chargé d'Affaires Aster Mamo ANA (since 31 July 2024)
-- `chancery`: 3506 International Drive NW, Washington, DC 20008
-- `telephone`: [1] (202) 364-1200
+- `外交代表負責人`: Ambassador (vacant); Chargé d'Affaires Aster Mamo ANA (since 31 July 2024)
+- `衡平法院（在美國）`: 3506 International Drive NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 364-1200
 - `FAX`: [1] (202) 587-0195
-- `email address and website`: ethiopia@ethiopianembassy.org  https://ethiopianembassy.org/
-- `consulate(s) general`: Los Angeles, St. Paul (MN)
+- `電子郵件地址和網站`: ethiopia@ethiopianembassy.org  https://ethiopianembassy.org/
+- `總領事館`: Los Angeles, St. Paul (MN)
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Ervin MASSINGA (since 4 October 2023)
-- `embassy`: Entoto Street, P.O. Box 1014, Addis Ababa
-- `mailing address`: 2030 Addis Ababa Place, Washington DC  20521-2030
-- `telephone`: [251] 111-30-60-00
+- `外交代表負責人`: Ambassador Ervin MASSINGA (since 4 October 2023)
+- `大使館`: Entoto Street, P.O. Box 1014, Addis Ababa
+- `郵寄地址`: 2030 Addis Ababa Place, Washington DC  20521-2030
+- `電話號碼`: [251] 111-30-60-00
 - `FAX`: [251] 111-24-24-01
-- `email address and website`: AddisACS@state.gov  https://et.usembassy.gov/
+- `電子郵件地址和網站`: AddisACS@state.gov  https://et.usembassy.gov/
 
 ### 旗幟說明
 three equal horizontal bands of green (top), yellow, and red, with a yellow pentagram and single yellow rays emanating from the angles between the points on a light blue disk centered on the three bands; green represents hope and the fertility of the land, yellow symbolizes justice and harmony, while red stands for sacrifice and heroism in the defense of the land; the blue of the disk symbolizes peace and the pentagram represents the unity and equality of the nationalities and peoples of Ethiopia
@@ -403,8 +403,8 @@ three equal horizontal bands of green (top), yellow, and red, with a yellow pent
 Abyssinian lion (traditional), yellow pentagram with five rays of light on a blue field (promoted by current government); national colors: green, yellow, red
 
 ### 國歌
-- `name`: "Whedefit Gesgeshi Woud Enat Ethiopia" (March Forward, Dear Mother Ethiopia)
-- `lyrics/music`: DEREJE Melaku Mengesha/SOLOMON Lulu
+- `名稱`: "Whedefit Gesgeshi Woud Enat Ethiopia" (March Forward, Dear Mother Ethiopia)
+- `歌詞／音樂`: DEREJE Melaku Mengesha/SOLOMON Lulu
 **note**:  adopted 1992
 
 ### 國家級遺產
@@ -451,17 +451,17 @@ $163.698 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 35.8% (2023 est.)
-- `industry`: 24.5% (2023 est.)
-- `services`: 37% (2023 est.)
+- `農業`: 35.8% (2023 est.)
+- `產業`: 24.5% (2023 est.)
+- `服務`: 37% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 78.9% (2023 est.)
-- `government consumption`: 6.3% (2023 est.)
-- `investment in fixed capital`: 22.2% (2023 est.)
-- `exports of goods and services`: 6.6% (2023 est.)
-- `imports of goods and services`: -14% (2023 est.)
+- `家庭消費`: 78.9% (2023 est.)
+- `政府消費`: 6.3% (2023 est.)
+- `固定資本投資`: 22.2% (2023 est.)
+- `商品和服務出口`: 6.6% (2023 est.)
+- `商品和服務進口`: -14% (2023 est.)
 **note**:  figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -486,9 +486,9 @@ food processing, beverages, textiles, leather, garments, chemicals, metals proce
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 5.6% (2023 est.)
-- `male`: 4% (2023 est.)
-- `female`: 7.4% (2023 est.)
+- `總計`: 5.6% (2023 est.)
+- `男性`: 4% (2023 est.)
+- `女性`: 7.4% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -500,12 +500,12 @@ food processing, beverages, textiles, leather, garments, chemicals, metals proce
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 平均家庭支出
-- `on food`: 39.7% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 3.1% of household expenditures (2022 est.)
+- `餐食`: 39.7% of household expenditures (2022 est.)
+- `酒精和煙草`: 3.1% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 2.9% (2015 est.)
-- `highest 10%`: 28.5% (2015 est.)
+- `最低10%`: 2.9% (2015 est.)
+- `最高10%`: 28.5% (2015 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -515,8 +515,8 @@ food processing, beverages, textiles, leather, garments, chemicals, metals proce
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $7.009 billion (2022 est.)
-- `expenditures`: $8.83 billion (2022 est.)
+- `收入`: $7.009 billion (2022 est.)
+- `支出`: $8.83 billion (2022 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -582,39 +582,39 @@ $21.522 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 55% (2022 est.)
-- `electrification - urban areas`: 94%
-- `electrification - rural areas`: 43%
+- `電氣化－總人口`: 55% (2022 est.)
+- `電氣化－城市地區`: 94%
+- `電氣化－農村地區`: 43%
 
 ### 電力
-- `installed generating capacity`: 5.73 million kW (2022 est.)
-- `consumption`: 10.596 billion kWh (2022 est.)
-- `exports`: 1.665 billion kWh (2022 est.)
-- `transmission/distribution losses`: 3.154 billion kWh (2022 est.)
+- `裝機容量`: 5.73 million kW (2022 est.)
+- `消費`: 10.596 billion kWh (2022 est.)
+- `出口`: 1.665 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 3.154 billion kWh (2022 est.)
 
 ### 發電來源
-- `solar`: 0.2% of total installed capacity (2022 est.)
-- `wind`: 3.8% of total installed capacity (2022 est.)
-- `hydroelectricity`: 95.7% of total installed capacity (2022 est.)
-- `biomass and waste`: 0.2% of total installed capacity (2022 est.)
+- `太陽能`: 0.2% of total installed capacity (2022 est.)
+- `風能`: 3.8% of total installed capacity (2022 est.)
+- `水力發電`: 95.7% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 0.2% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `production`: 8,000 metric tons (2022 est.)
-- `consumption`: 660,000 metric tons (2022 est.)
-- `exports`: 1,000 metric tons (2022 est.)
-- `imports`: 666,000 metric tons (2022 est.)
+- `生產`: 8,000 metric tons (2022 est.)
+- `消費`: 660,000 metric tons (2022 est.)
+- `出口`: 1,000 metric tons (2022 est.)
+- `進口`: 666,000 metric tons (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 110,000 bbl/day (2022 est.)
-- `crude oil estimated reserves`: 428,000 barrels (2021 est.)
+- `成品油消費量`: 110,000 bbl/day (2022 est.)
+- `原油儲備量估值`: 428,000 barrels (2021 est.)
 
 ### 天然氣
-- `proven reserves`: 24.919 billion cubic meters (2021 est.)
+- `探明儲量`: 24.919 billion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 17.232 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 1.38 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 15.852 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 17.232 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 1.38 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 15.852 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 2.34 million Btu/person (2022 est.)
@@ -622,17 +622,17 @@ $21.522 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 862,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: (2022 est.) less than 1
+- `總訂閱數`: 862,000 (2022 est.)
+- `每100名居民訂閱數`: (2022 est.) less than 1
 
 ### 電話—移動電話
-- `total subscriptions`: 69.123 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 56 (2022 est.)
+- `總訂閱數`: 69.123 million (2022 est.)
+- `每100名居民訂閱數`: 56 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Ethio telecom is the major provider, but no longer has a complete monopoly on all telecom services; a consortium led by Kenyan Safaricom launched service in October 2022; the World Bank in early 2021 provided a $200 million loan to help develop the country’s digital transformation, while the government has embarked on its 2020-2030 program as well as its Digital Ethiopia 2025 strategy, both aimed at making better use of digital technologies to promote socioeconomic development (2023)
-- `domestic`: fixed-line subscriptions less than 1 per 100 while mobile-cellular stands at a little over 54 per 100 people (2021)
-- `international`: country code - 251; open-wire to Sudan and Djibouti; microwave radio relay to Kenya and Djibouti; 2 domestic satellites provide the national trunk service; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Pacific Ocean) (2016)
+- `總體評估`: Ethio telecom is the major provider, but no longer has a complete monopoly on all telecom services; a consortium led by Kenyan Safaricom launched service in October 2022; the World Bank in early 2021 provided a $200 million loan to help develop the country’s digital transformation, while the government has embarked on its 2020-2030 program as well as its Digital Ethiopia 2025 strategy, both aimed at making better use of digital technologies to promote socioeconomic development (2023)
+- `國內`: fixed-line subscriptions less than 1 per 100 while mobile-cellular stands at a little over 54 per 100 people (2021)
+- `國際的`: country code - 251; open-wire to Sudan and Djibouti; microwave radio relay to Kenya and Djibouti; 2 domestic satellites provide the national trunk service; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Pacific Ocean) (2016)
 
 ### 廣播媒體
 10 public/state broadcasters; 9 public/state radio stations; 13 commercial FM radio stations; 18 commercial TV stations; 45 community radio stations; 5 community TV stations (2023)
@@ -641,20 +641,20 @@ $21.522 billion (2022 est.)
 .et
 
 ### 網際網路使用者
-- `total`: 20.4 million (2021 est.)
-- `percent of population`: 17% (2021 est.)
+- `總計`: 20.4 million (2021 est.)
+- `佔人口比例`: 17% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 212,000 (2020 est.)
-- `subscriptions per 100 inhabitants`: 0.2 (2020 est.)
+- `總計`: 212,000 (2020 est.)
+- `每100名居民訂閱數`: 0.2 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 1 (2020)
-- `inventory of registered aircraft operated by air carriers`: 75
-- `annual passenger traffic on registered air carriers`: 11,501,244 (2018)
-- `annual freight traffic on registered air carriers`: 2,089,280,000 (2018) mt-km
+- `註冊航空公司數量`: 1 (2020)
+- `註冊飛機庫存—航空承運商經營`: 75
+- `年度客運量－註冊航空公司`: 11,501,244 (2018)
+- `年度貨運量－註冊航空公司`: 2,089,280,000 (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 ET
@@ -666,16 +666,16 @@ ET
 1 (2024)
 
 ### 鐵路
-- `total`: 659 km (2017) (Ethiopian segment of the 756 km Addis Ababa-Djibouti railroad)
-- `standard gauge`: 659 km (2017) 1.435-m gauge
+- `總計`: 659 km (2017) (Ethiopian segment of the 756 km Addis Ababa-Djibouti railroad)
+- `標準鐵軌`: 659 km (2017) 1.435-m gauge
 **note**:  electric railway with redundant power supplies; under joint control of Djibouti and Ethiopia and managed by a Chinese contractor
 
 ### 道路
-- `total`: 180,000 km (2023)
+- `總計`: 180,000 km (2023)
 
 ### 商船
-- `total`: 12 (2023)
-- `by type`: general cargo 10, oil tanker 2
+- `總計`: 12 (2023)
+- `依類型`: general cargo 10, oil tanker 2
 
 ## 軍事和安全
 
@@ -723,7 +723,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 167,391 (Eritrea) (2023); 420,502 (South Sudan), 314,976 (Somalia), 111,778 (Sudan) (refugees since 15 April 2023) (2024)
+- `難民（原籍國）`: 167,391 (Eritrea) (2023); 420,502 (South Sudan), 314,976 (Somalia), 111,778 (Sudan) (refugees since 15 April 2023) (2024)
 - `IDPs`: 4.385 million (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2023)
 
 ### 非法藥物

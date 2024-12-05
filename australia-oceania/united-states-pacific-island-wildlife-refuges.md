@@ -19,21 +19,21 @@ Oceania**Baker Island**:  atoll in the North Pacific Ocean 3,390 km southwest of
 Oceania
 
 ### 面積
-- `land`: 6,959.41 sq km (emergent land - 22.41 sq km; submerged - 6,937 sq km)
+- `土地`: 6,959.41 sq km (emergent land - 22.41 sq km; submerged - 6,937 sq km)
 **Baker Island**: total - 129.1 sq km; emergent land - 2.1 sq km; submerged - 127 sq km **Howland Island**: total - 138.6 sq km; emergent land - 2.6 sq km; submerged - 136 sq km **Jarvis Island**: total - 152 sq km; emergent land - 5 sq km; submerged - 147 sq km **Johnston Atoll**: total - 276.6 sq km; emergent land - 2.6 sq km; submerged - 274 sq km **Kingman Reef**: total - 1,958.01 sq km; emergent land - 0.01 sq km; submerged - 1,958 sq km **Midway Islands**: total - 2,355.2 sq km; emergent land - 6.2 sq km; submerged - 2,349 sq km **Palmyra Atoll**: total - 1,949.9 sq km; emergent land - 3.9 sq km; submerged - 1,946 sq km
 
 ### 面積—比較
 **Baker Island**:  about 2.5 times the size of the National Mall in Washington, DC; **Howland Island**:  about three times the size of the National Mall in Washington, DC; **Jarvis Island**:  about eight times the size of the National Mall in Washington, DC; **Johnston Atoll**:  about 4.5 times the size of the National Mall in Washington, DC; **Kingman Reef**:  a little more than 1.5 times the size of the National Mall in Washington, DC; **Midway Islands**:  about nine times the size of the National Mall in Washington, DC; **Palmyra Atoll**:  about 20 times the size of the National Mall in Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 **Baker Island**: 4.8 km **Howland Island**: 6.4 km **Jarvis Island**: 8 km **Johnston Atoll**: 34 km **Kingman Reef**: 3 km **Midway Islands**: 15 km **Palmyra Atoll**: 14.5 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive economic zone`: 200 nm
+- `領海`: 12 nm
+- `專屬經濟區`: 200 nm
 
 ### 氣候
 **Baker, Howland, and Jarvis Islands**:  equatorial; scant rainfall, constant wind, burning sun **Johnston Atoll and Kingman Reef**:  tropical, but generally dry; consistent northeast trade winds with little seasonal temperature variation **Midway Islands**:  subtropical with cool, moist winters (December to February) and warm, dry summers (May to October); moderated by prevailing easterly winds; most of the 107 cm of annual rainfall occurs during the winter **Palmyra Atoll**:  equatorial, hot; located within the low pressure area of the Intertropical Convergence Zone (ITCZ) where the northeast and southeast trade winds meet, it is extremely wet with between 400-500 cm of rainfall each year
@@ -42,14 +42,14 @@ Oceania
 low and nearly flat sandy coral islands with narrow fringing reefs that have developed at the top of submerged volcanic mountains, which in most cases rise steeply from the ocean floor
 
 ### 海拔
-- `highest point`: Baker Island, unnamed location 8 m; Howland Island, unnamed location 3 m; Jarvis Island, unnamed location 7 m; Johnston Atoll, Sand Island 10 m; Kingman Reef, unnamed location 2 m; Midway Islands, unnamed location less than 13 m; Palmyra Atoll, unnamed location 3 m
-- `lowest point`: Pacific Ocean 0 m
+- `最高點`: Baker Island, unnamed location 8 m; Howland Island, unnamed location 3 m; Jarvis Island, unnamed location 7 m; Johnston Atoll, Sand Island 10 m; Kingman Reef, unnamed location 2 m; Midway Islands, unnamed location less than 13 m; Palmyra Atoll, unnamed location 3 m
+- `最低點`: Pacific Ocean 0 m
 
 ### 自然資源
 terrestrial and aquatic wildlife
 
 ### 土地利用
-- `other`: 100% (2018 est.)
+- `其它`: 100% (2018 est.)
 
 ### 自然災害
 **Baker, Howland, and Jarvis Islands**:  the narrow fringing reef surrounding the island poses a maritime hazard; **Kingman Reef**:  wet or awash most of the time, maximum elevation of less than 2 m makes Kingman Reef a maritime hazard; **Midway Islands, Johnston, and Palmyra Atolls**:  NA
@@ -60,7 +60,7 @@ terrestrial and aquatic wildlife
 ## 人民和社會
 
 ### 人口
-- `total`: no indigenous inhabitants
+- `總計`: no indigenous inhabitants
 **note**:  public entry is only by special-use permit from US Fish and Wildlife Service and generally restricted to scientists and educators; visited annually by US Fish and Wildlife Service   **Jarvis Island**:  Millersville settlement on western side of island occasionally used as a weather station from 1935 until World War II, when it was abandoned; reoccupied in 1957 during the International Geophysical Year by scientists who left in 1958; currently unoccupied   **Johnston Atoll**:  in previous years, an average of 1,100 US military and civilian contractor personnel were present; as of May 2005, all US Government personnel had left the island   **Midway Islands**:  approximately 40 people make up the staff of US Fish and Wildlife Service and their services contractor living at the atoll   **Palmyra Atoll**:  4 to 20 Nature Conservancy, US Fish and Wildlife staff, and researchers
 
 ## 環境
@@ -72,14 +72,14 @@ terrestrial and aquatic wildlife
 **Baker, Howland, and Jarvis Islands**:  equatorial; scant rainfall, constant wind, burning sun **Johnston Atoll and Kingman Reef**:  tropical, but generally dry; consistent northeast trade winds with little seasonal temperature variation **Midway Islands**:  subtropical with cool, moist winters (December to February) and warm, dry summers (May to October); moderated by prevailing easterly winds; most of the 107 cm of annual rainfall occurs during the winter **Palmyra Atoll**:  equatorial, hot; located within the low pressure area of the Intertropical Convergence Zone (ITCZ) where the northeast and southeast trade winds meet, it is extremely wet with between 400-500 cm of rainfall each year
 
 ### 土地利用
-- `other`: 100% (2018 est.)
+- `其它`: 100% (2018 est.)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Palmyra Atoll
-- `etymology`: self-descriptive name specifying the territories' affiliation and location
+- `常用長名`: none
+- `常用短名`: Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Palmyra Atoll
+- `语源学`: self-descriptive name specifying the territories' affiliation and location
 
 ### 附屬狀況
 with the exception of Palmyra Atoll, the constituent islands are unincorporated, unorganized territories of the US; administered from Washington, DC, by the Fish and Wildlife Service of the US Department of the Interior as part of the National Wildlife Refuge System
@@ -99,14 +99,14 @@ the flag of the US is used
 ## 能源
 
 ### 煤炭
-- `imports`: 108,000 metric tons (2022 est.)
+- `進口`: 108,000 metric tons (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 2,000 bbl/day (2022 est.)
+- `成品油消費量`: 2,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 297,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 297,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 297,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 297,000 metric tonnes of CO2 (2022 est.)
 
 ## 交通運輸
 

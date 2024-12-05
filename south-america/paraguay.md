@@ -19,16 +19,16 @@ Central South America, northeast of Argentina, southwest of Brazil
 South America
 
 ### 面積
-- `total `: 406,752 sq km
-- `land`: 397,302 sq km
-- `water`: 9,450 sq km
+- `總計`: 406,752 sq km
+- `土地`: 397,302 sq km
+- `水`: 9,450 sq km
 
 ### 面積—比較
 about three times the size of New York state; slightly smaller than California
 
 ### 陸地邊界
-- `total`: 4,655 km
-- `border countries`: Argentina 2,531 km; Bolivia 753 km; Brazil 1,371 km
+- `總計`: 4,655 km
+- `邊境國家`: Argentina 2,531 km; Bolivia 753 km; Brazil 1,371 km
 
 ### 海岸線
 0 km (landlocked)
@@ -43,20 +43,20 @@ subtropical to temperate; substantial rainfall in the eastern portions, becoming
 grassy plains and wooded hills east of Rio Paraguay; Gran Chaco region west of Rio Paraguay mostly low, marshy plain near the river, and dry forest and thorny scrub elsewhere
 
 ### 海拔
-- `highest point`: Cerro Pero 842 m
-- `lowest point`: junction of Río Paraguay and Río Paraná 46 m
-- `mean elevation`: 178 m
+- `最高點`: Cerro Pero 842 m
+- `最低點`: junction of Río Paraguay and Río Paraná 46 m
+- `平均海拔`: 178 m
 
 ### 自然資源
 hydropower, timber, iron ore, manganese, limestone
 
 ### 土地利用
-- `agricultural land`: 53.8% (2018 est.)
-- `agricultural land: arable land`: arable land: 10.8% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.2% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 42.8% (2018 est.)
-- `forest`: 43.8% (2018 est.)
-- `other`: 2.4% (2018 est.)
+- `農地`: 53.8% (2018 est.)
+- `農地：耕地`: arable land: 10.8% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.2% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 42.8% (2018 est.)
+- `森林`: 43.8% (2018 est.)
+- `其它`: 2.4% (2018 est.)
 
 ### 灌溉土地
 1,362 sq km (2012)
@@ -82,20 +82,20 @@ local flooding in southeast (early September to June); poorly drained plains may
 ## 人民和社會
 
 ### 人口
-- `total`: 7,522,549
-- `male`: 3,769,376
-- `female`: 3,753,173 (2024 est.)
+- `總計`: 7,522,549
+- `男性`: 3,769,376
+- `女性`: 3,753,173 (2024 est.)
 
 ### 國籍
-- `noun`: Paraguayan(s)
-- `adjective`: Paraguayan
+- `名詞`: Paraguayan(s)
+- `形容詞`: Paraguayan
 
 ### 族裔群體
 Mestizo (mixed Spanish and Indigenous ancestry) 95%, other 5%
 
 ### 語文
 Spanish (official) and Guarani (official) 46.3%, only Guarani 34%, only Spanish 15.2%, other (includes Portuguese, German, other Indigenous languages) 4.1%, no response 0.4% (2012 est.)
-- `major-language sample(s)`: La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)  The World Factbook, the indispensable source for basic information.
 **note**:  data represent predominant household language
 
 ### 宗教
@@ -105,20 +105,20 @@ Roman Catholic 80.4%, Protestant 7% (Evangelical (non-specific) 6.7%, Evangelica
 Paraguay falls below the Latin American average in several socioeconomic categories, including immunization rates, potable water, sanitation, and secondary school enrollment, and has greater rates of income inequality and child and maternal mortality. Paraguay's poverty rate has declined in recent years but remains high, especially in rural areas, with more than a third of the population below the poverty line. However, the well-being of the poor in many regions has improved in terms of housing quality and access to clean water, telephone service, and electricity. The fertility rate continues to drop, declining sharply from an average 4.3 births per woman in the late 1990s to about 2 in 2013, as a result of the greater educational attainment of women, increased use of contraception, and a desire for smaller families among young women.Paraguay is a country of emigration; it has not attracted large numbers of immigrants because of political instability, civil wars, years of dictatorship, and the greater appeal of neighboring countries. Paraguay first tried to encourage immigration in 1870 in order to rebound from the heavy death toll it suffered during the War of the Triple Alliance, but it received few European and Middle Eastern immigrants. In the 20th century, limited numbers of immigrants arrived from Lebanon, Japan, South Korea, and China, as well as Mennonites from Canada, Russia, and Mexico. Large flows of Brazilian immigrants have been arriving since the 1960s, mainly to work in agriculture. Paraguayans continue to emigrate to Argentina, Brazil, Uruguay, the United States, Italy, Spain, and France.
 
 ### 年齡結構
-- `0-14 years`: 22.2% (male 850,191/female 821,237)
-- `15-64 years`: 68.4% (male 2,582,021/female 2,561,962)
-- `65 years and over`: 9.4% (2024 est.) (male 337,164/female 369,974)
+- `0-14歲`: 22.2% (male 850,191/female 821,237)
+- `15-64歲`: 68.4% (male 2,582,021/female 2,561,962)
+- `65歲及以上`: 9.4% (2024 est.) (male 337,164/female 369,974)
 
 ### 撫養比率
-- `total dependency ratio`: 54.4
-- `youth dependency ratio`: 44.8
-- `elderly dependency ratio`: 9.6
-- `potential support ratio`: 10.4 (2021 est.)
+- `總受扶養人比率`: 54.4
+- `少年撫養比率`: 44.8
+- `老人撫養比率`: 9.6
+- `潛在支持率`: 10.4 (2021 est.)
 
 ### 年齡中位數
-- `total`: 31.8 years (2024 est.)
-- `male`: 31.6 years
-- `female`: 32 years
+- `總計`: 31.8 years (2024 est.)
+- `男性`: 31.6 years
+- `女性`: 32 years
 
 ### 人口成長率
 1.09% (2024 est.)
@@ -136,18 +136,18 @@ Paraguay falls below the Latin American average in several socioeconomic categor
 most of the population resides in the eastern half of the country; to the west lies the Gran Chaco (a semi-arid lowland plain), which accounts for 60% of the land territory, but only 2% of the overall population
 
 ### 都市化
-- `urban population`: 63.1% of total population (2023)
-- `rate of urbanization`: 1.64% annual rate of change (2020-25 est.)
+- `城市人口`: 63.1% of total population (2023)
+- `城鎮化率`: 1.64% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 3.511 million ASUNCION (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.04 male(s)/female
-- `15-64 years`: 1.01 male(s)/female
-- `65 years and over`: 0.91 male(s)/female
-- `total population`: 1 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.04 male(s)/female
+- `15-64歲`: 1.01 male(s)/female
+- `65歲及以上`: 0.91 male(s)/female
+- `總人口數`: 1 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 22.9 years (2008 est.)
@@ -157,14 +157,14 @@ most of the population resides in the eastern half of the country; to the west l
 71 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 22 deaths/1,000 live births (2024 est.)
-- `male`: 26.1 deaths/1,000 live births
-- `female`: 17.7 deaths/1,000 live births
+- `總計`: 22 deaths/1,000 live births (2024 est.)
+- `男性`: 26.1 deaths/1,000 live births
+- `女性`: 17.7 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 78.8 years (2024 est.)
-- `male`: 76.2 years
-- `female`: 81.6 years
+- `總人口數`: 78.8 years (2024 est.)
+- `男性`: 76.2 years
+- `女性`: 81.6 years
 
 ### 總生育率
 1.88 children born/woman (2024 est.)
@@ -176,12 +176,12 @@ most of the population resides in the eastern half of the country; to the west l
 68.4% (2016)
 
 ### 飲用水來源
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 當前醫療支出
 7.6% of GDP (2020)
@@ -193,27 +193,27 @@ most of the population resides in the eastern half of the country; to the west l
 0.8 beds/1,000 population (2016)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 99.6% of population
-- `improved: rural`: rural: 90.6% of population
-- `improved: total`: total: 96.2% of population
-- `unimproved: urban`: urban: 0.4% of population
-- `unimproved: rural`: rural: 9.4% of population
-- `unimproved: total`: total: 3.8% of population (2020 est.)
+- `已改進－城市`: urban: 99.6% of population
+- `已改進－農村`: rural: 90.6% of population
+- `已改進－總計`: total: 96.2% of population
+- `未改進：都市`: urban: 0.4% of population
+- `未改進：鄉村`: rural: 9.4% of population
+- `未改善：總計`: total: 3.8% of population (2020 est.)
 
 ### 肥胖—成人流行率
 20.3% (2016)
 
 ### 人均酒精消費量
-- `total`: 5.47 liters of pure alcohol (2019 est.)
-- `beer`: 3.27 liters of pure alcohol (2019 est.)
-- `wine`: 0.59 liters of pure alcohol (2019 est.)
-- `spirits`: 1.59 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.03 liters of pure alcohol (2019 est.)
+- `總計`: 5.47 liters of pure alcohol (2019 est.)
+- `啤酒`: 3.27 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.59 liters of pure alcohol (2019 est.)
+- `烈酒`: 1.59 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.03 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 11.5% (2020 est.)
-- `male`: 18.6% (2020 est.)
-- `female`: 4.4% (2020 est.)
+- `總計`: 11.5% (2020 est.)
+- `男性`: 18.6% (2020 est.)
+- `女性`: 4.4% (2020 est.)
 
 ### 5歲以下體重不足兒童
 1.3% (2016)
@@ -222,17 +222,17 @@ most of the population resides in the eastern half of the country; to the west l
 59.4% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 3.6%
-- `women married by age 18`: 21.6% (2016 est.)
+- `15歲前結婚的女性`: 3.6%
+- `18歲前結婚的女性`: 21.6% (2016 est.)
 
 ### 教育支出
 3.3% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 94.5%
-- `male`: 94.9%
-- `female`: 94.2% (2020)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 94.5%
+- `男性`: 94.9%
+- `女性`: 94.2% (2020)
 
 ## 環境
 
@@ -240,23 +240,23 @@ most of the population resides in the eastern half of the country; to the west l
 deforestation; water pollution; rivers suffer from toxic dumping; tanneries release mercury and chromium into rivers and streams; loss of wetlands; inadequate means for waste disposal pose health risks for many urban residents
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands
-- `signed, but not ratified`: Nuclear Test Ban, Tropical Timber 2006
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands
+- `已簽署但未批準`: Nuclear Test Ban, Tropical Timber 2006
 
 ### 氣候
 subtropical to temperate; substantial rainfall in the eastern portions, becoming semiarid in the far west
 
 ### 土地利用
-- `agricultural land`: 53.8% (2018 est.)
-- `agricultural land: arable land`: arable land: 10.8% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.2% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 42.8% (2018 est.)
-- `forest`: 43.8% (2018 est.)
-- `other`: 2.4% (2018 est.)
+- `農地`: 53.8% (2018 est.)
+- `農地：耕地`: arable land: 10.8% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.2% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 42.8% (2018 est.)
+- `森林`: 43.8% (2018 est.)
+- `其它`: 2.4% (2018 est.)
 
 ### 都市化
-- `urban population`: 63.1% of total population (2023)
-- `rate of urbanization`: 1.64% annual rate of change (2020-25 est.)
+- `城市人口`: 63.1% of total population (2023)
+- `城鎮化率`: 1.64% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 1.21% of GDP (2018 est.)
@@ -265,12 +265,12 @@ subtropical to temperate; substantial rainfall in the eastern portions, becoming
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 12.31 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 7.41 megatons (2016 est.)
-- `methane emissions`: 27.65 megatons (2020 est.)
+- `顆粒物排放量`: 12.31 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 7.41 megatons (2016 est.)
+- `甲烷排放量`: 27.65 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 1,818,501 tons (2015 est.)
+- `城市固體廢棄物－每年產生`: 1,818,501 tons (2015 est.)
 
 ### 主要河流（按公里長度）
 Río de la Plata/Paraná (shared with Brazil [s], Argentina, and Uruguay [m]) - 4,880 km; Paraguay river mouth (shared with Brazil [s] and Argentina) - 2,549 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -282,9 +282,9 @@ Atlantic Ocean drainage: Paraná (2,582,704 sq km)
 Guarani Aquifer System
 
 ### 總取水量
-- `municipal`: 360 million cubic meters (2020 est.)
-- `industrial`: 150 million cubic meters (2020 est.)
-- `agricultural`: 1.9 billion cubic meters (2020 est.)
+- `市級`: 360 million cubic meters (2020 est.)
+- `工業`: 150 million cubic meters (2020 est.)
+- `農業`: 1.9 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 387.77 billion cubic meters (2020 est.)
@@ -292,21 +292,21 @@ Guarani Aquifer System
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Paraguay
-- `conventional short form`: Paraguay
-- `local long form`: República del Paraguay
-- `local short form`: Paraguay
-- `etymology`: the precise meaning of the name Paraguay is unclear, but it seems to derive from the river of the same name; one explanation has the name meaning "water of the Payagua" (an indigenous tribe that lived along the river)
+- `常用長名`: Republic of Paraguay
+- `常用短名`: Paraguay
+- `當地語長名`: República del Paraguay
+- `當地語短名`: Paraguay
+- `语源学`: the precise meaning of the name Paraguay is unclear, but it seems to derive from the river of the same name; one explanation has the name meaning "water of the Payagua" (an indigenous tribe that lived along the river)
 
 ### 政府類型
 presidential republic
 
 ### 首都
-- `name`: Asunción
-- `geographic coordinates`: 25 16 S, 57 40 W
-- `time difference`: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
-- `daylight saving time`: +1hr, begins first Sunday in October; ends last Sunday in March
-- `etymology`: the name means "assumption" and derives from the original name given to the city at its founding in 1537, Nuestra Senora Santa Maria de la Asuncion (Our Lady Saint Mary of the Assumption)
+- `名稱`: Asunción
+- `地理坐標`: 25 16 S, 57 40 W
+- `時差`: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+- `日光節約時間`: +1hr, begins first Sunday in October; ends last Sunday in March
+- `语源学`: the name means "assumption" and derives from the original name given to the city at its founding in 1537, Nuestra Senora Santa Maria de la Asuncion (Our Lady Saint Mary of the Assumption)
 
 ### 行政區劃
 17 departments (departamentos, singular - departamento) and 1 capital city*; Alto Paraguay, Alto Parana, Amambay, Asuncion*, Boqueron, Caaguazu, Caazapa, Canindeyu, Central, Concepcion, Cordillera, Guaira, Itapua, Misiones, Neembucu, Paraguari, Presidente Hayes, San Pedro
@@ -321,38 +321,38 @@ Independence Day, 14-15 May (1811) (observed 15 May); 14 May is celebrated as Fl
 civil law system with influences from Argentine, Spanish, Roman, and French civil law models; judicial review of legislative acts in Supreme Court of Justice
 
 ### 憲法
-- `history`: several previous; latest approved and promulgated 20 June 1992
-- `amendments`: proposed at the initiative of at least one quarter of either chamber of the National Congress, by the president of the republic, or by petition of at least 30,000 voters; passage requires a two-thirds majority vote by both chambers and approval in a referendum; amended 2011
+- `歷史`: several previous; latest approved and promulgated 20 June 1992
+- `修正`: proposed at the initiative of at least one quarter of either chamber of the National Congress, by the president of the republic, or by petition of at least 30,000 voters; passage requires a two-thirds majority vote by both chambers and approval in a referendum; amended 2011
 
 ### 國際法組織參與
 accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: yes
-- `citizenship by descent only`: at least one parent must be a native-born citizen of Paraguay
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: 3 years
+- `出生公民權`: yes
+- `血統公民身份`: at least one parent must be a native-born citizen of Paraguay
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: 3 years
 
 ### 選舉權
 18 years of age; universal and compulsory until the age of 75
 
 ### 行政部門
-- `chief of state`: President Santiago PEÑA Palacios (since 15 August 2023)
-- `head of government`: President Santiago PEÑA Palacios (since 15 August 2023)
-- `cabinet`: Council of Ministers appointed by the president
-- `elections/appointments`: president and vice president directly elected on the same ballot by simple majority popular vote for a single 5-year term; election last held on 30 April 2023 (next to be held in April 2028)
-- `election results`: *2023: *Santiago PEÑA Palacios elected president; percent of vote - Santiago PEÑA Palacios (ANR) 43.9%, Efraín ALEGRE (PLRA) 28.3%, Paraguayo "Payo" CUBAS Colomés (PCN) 23.6%, other 4.2%*  2018:* Mario ABDO BENÍTEZ elected president; percent of vote - Mario ABDO BENÍTEZ (ANR) 49%, Efraín ALEGRE (PLRA) 45.1%, other 5.9%
+- `國家元首`: President Santiago PEÑA Palacios (since 15 August 2023)
+- `政府首腦`: President Santiago PEÑA Palacios (since 15 August 2023)
+- `内閣`: Council of Ministers appointed by the president
+- `選舉/任命`: president and vice president directly elected on the same ballot by simple majority popular vote for a single 5-year term; election last held on 30 April 2023 (next to be held in April 2028)
+- `選舉結果`: *2023: *Santiago PEÑA Palacios elected president; percent of vote - Santiago PEÑA Palacios (ANR) 43.9%, Efraín ALEGRE (PLRA) 28.3%, Paraguayo "Payo" CUBAS Colomés (PCN) 23.6%, other 4.2%*  2018:* Mario ABDO BENÍTEZ elected president; percent of vote - Mario ABDO BENÍTEZ (ANR) 49%, Efraín ALEGRE (PLRA) 45.1%, other 5.9%
 **note**:  the president is both chief of state and head of government
 
 ### 立法部門
-- `description`: bicameral National Congress or Congreso Nacional consists of:Chamber of Senators or Camara de Senadores (45 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote to serve 5-year terms)Chamber of Deputies or Camara de Diputados (80 seats; members directly elected in 18 multi-seat constituencies - corresponding to the country's 17 departments and capital city - by closed-list proportional representation vote to serve 5-year terms)
-- `elections`: Chamber of Senators - last held on 30 April 2023 (next to be held in April 2028)Chamber of Deputies - last held on 30 April 2023 (next to be held in April 2028)
-- `election results`: Chamber of Senators - percent of vote by party/coalition - ANR 45.7%, PLRA 24.4%, PCN 11.5%, PEN 5.2%, PPQ 2.5%, other 10.7%; seats by party/coalition - ANR 23, PLRA 12, PCN 5, PEN 2, PPQ 1, other 2; composition - men 34, women 11, percentage women 24.4%  Chamber of Deputies - percent of vote by party/coalition - ANR 44%, PLRA 30.9%, PCN 8.3%, PPQ 3.6%, PEN 2.9%; other 10.3%; seats by party/coalition - ANR 49, PLRA 21, PCN 4, PEN 2, PPQ 1, other 3; compositio - men 61, women 19, percentage women 23.8%; note - total National Congress percentage women NA%
+- `描述`: bicameral National Congress or Congreso Nacional consists of:Chamber of Senators or Camara de Senadores (45 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote to serve 5-year terms)Chamber of Deputies or Camara de Diputados (80 seats; members directly elected in 18 multi-seat constituencies - corresponding to the country's 17 departments and capital city - by closed-list proportional representation vote to serve 5-year terms)
+- `選舉`: Chamber of Senators - last held on 30 April 2023 (next to be held in April 2028)Chamber of Deputies - last held on 30 April 2023 (next to be held in April 2028)
+- `選舉結果`: Chamber of Senators - percent of vote by party/coalition - ANR 45.7%, PLRA 24.4%, PCN 11.5%, PEN 5.2%, PPQ 2.5%, other 10.7%; seats by party/coalition - ANR 23, PLRA 12, PCN 5, PEN 2, PPQ 1, other 2; composition - men 34, women 11, percentage women 24.4%  Chamber of Deputies - percent of vote by party/coalition - ANR 44%, PLRA 30.9%, PCN 8.3%, PPQ 3.6%, PEN 2.9%; other 10.3%; seats by party/coalition - ANR 49, PLRA 21, PCN 4, PEN 2, PPQ 1, other 3; compositio - men 61, women 19, percentage women 23.8%; note - total National Congress percentage women NA%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court of Justice or Corte Suprema de Justicia (consists of 9 justices divided 3 each into the Constitutional Court, Civil and Commercial Chamber, and Criminal Division)
-- `judge selection and term of office`: justices proposed by the Council of Magistrates or Consejo de la Magistratura, a 6-member independent body, and appointed by the Chamber of Senators with presidential concurrence; judges can serve until mandatory retirement at age 75
-- `subordinate courts`: appellate courts; first instance courts; minor courts, including justices of the peace
+- `最高法院`: Supreme Court of Justice or Corte Suprema de Justicia (consists of 9 justices divided 3 each into the Constitutional Court, Civil and Commercial Chamber, and Criminal Division)
+- `法官遴選和任期`: justices proposed by the Council of Magistrates or Consejo de la Magistratura, a 6-member independent body, and appointed by the Chamber of Senators with presidential concurrence; judges can serve until mandatory retirement at age 75
+- `下級法院`: appellate courts; first instance courts; minor courts, including justices of the peace
 
 ### 政黨
 Asociacion Nacional Republicana (National Republican Association) - Colorado Party or ANRAvanza Pais coalition or APFrente Guasu (Broad Front coalition) or FGGANAR Alliance (Great Renewed National Alliance) (alliance between PLRA and Guasú Front)Movimiento Hagamos or MHMovimiento Union Nacional de Ciudadanos Eticos (National Union of Ethical Citizens) or UNACEPartido Cruzada Nacional (National Crusade Party) or PCN; note - formerly Movimiento Cruzada NacionalPartido del Movimiento al Socialismo or P-MASPartido Democratica Progresista (Progressive Democratic Party) or PDPPartido Encuentro Nacional or PENPartido Liberal Radical Autentico (Authentic Radical Liberal Party) or PLRAPartido Pais Solidario or PPSPartido Popular Tekojoja or PPTPatria Querida (Beloved Fatherland Party) or PPQ
@@ -361,20 +361,20 @@ Asociacion Nacional Republicana (National Republican Association) - Colorado Par
 CAN (associate), CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, MONUSCO, NAM (observer), OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHRC, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador José Antonio DOS SANTOS BEDOYA (since 15 September 2021)
-- `chancery`: 2209 Massachusetts Avenue, NW, Washington DC  20008
-- `telephone`: [1] (202) 483-6960
+- `外交代表負責人`: Ambassador José Antonio DOS SANTOS BEDOYA (since 15 September 2021)
+- `衡平法院（在美國）`: 2209 Massachusetts Avenue, NW, Washington DC  20008
+- `電話號碼`: [1] (202) 483-6960
 - `FAX`: [1] (202) 234-4508
-- `email address and website`: gabineteembaparusa@mre.gov.py  Embajada de la República del Paraguay ante los Estados Unidos de América :: The Embassy (mre.gov.py)
-- `consulate(s) general`: Los Angeles, Miami, New York
+- `電子郵件地址和網站`: gabineteembaparusa@mre.gov.py  Embajada de la República del Paraguay ante los Estados Unidos de América :: The Embassy (mre.gov.py)
+- `總領事館`: Los Angeles, Miami, New York
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Marc OSTFIELD (since 9 March 2022)
-- `embassy`: 1776 Mariscal Lopez Avenue, Asuncion
-- `mailing address`: 3020 Asuncion Place, Washington DC  20521-3020
-- `telephone`: [595] (21) 248-3000
+- `外交代表負責人`: Ambassador Marc OSTFIELD (since 9 March 2022)
+- `大使館`: 1776 Mariscal Lopez Avenue, Asuncion
+- `郵寄地址`: 3020 Asuncion Place, Washington DC  20521-3020
+- `電話號碼`: [595] (21) 248-3000
 - `FAX`: [595] (21) 213-728
-- `email address and website`: ParaguayACS@state.gov  https://py.usembassy.gov/
+- `電子郵件地址和網站`: ParaguayACS@state.gov  https://py.usembassy.gov/
 
 ### 旗幟說明
 three equal, horizontal bands of red (top), white, and blue with an emblem centered in the white band; unusual flag in that the emblem is different on each side; the obverse (hoist side at the left) bears the national coat of arms (a yellow five-pointed star within a green wreath capped by the words REPUBLICA DEL PARAGUAY, all within two circles); the reverse (hoist side at the right) bears a circular seal of the treasury (a yellow lion below a red Cap of Liberty and the words PAZ Y JUSTICIA (Peace and Justice)); red symbolizes bravery and patriotism, white represents integrity and peace, and blue denotes liberty and generosity
@@ -384,8 +384,8 @@ three equal, horizontal bands of red (top), white, and blue with an emblem cente
 lion; national colors: red, white, blue
 
 ### 國歌
-- `name`: "Paraguayos, Republica o muerte!" (Paraguayans, The Republic or Death!)
-- `lyrics/music`: Francisco Esteban ACUNA de Figueroa/disputed
+- `名稱`: "Paraguayos, Republica o muerte!" (Paraguayans, The Republic or Death!)
+- `歌詞／音樂`: Francisco Esteban ACUNA de Figueroa/disputed
 **note**:  adopted 1934, in use since 1846; officially adopted following its re-arrangement in 1934
 
 ### 國家級遺產
@@ -432,18 +432,18 @@ $42.956 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 11.3% (2023 est.)
-- `industry`: 32.4% (2023 est.)
-- `services`: 49% (2023 est.)
+- `農業`: 11.3% (2023 est.)
+- `產業`: 32.4% (2023 est.)
+- `服務`: 49% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 66.3% (2023 est.)
-- `government consumption`: 12% (2023 est.)
-- `investment in fixed capital`: 20.6% (2023 est.)
-- `investment in inventories`: -0.9% (2023 est.)
-- `exports of goods and services`: 42.5% (2023 est.)
-- `imports of goods and services`: -40.4% (2023 est.)
+- `家庭消費`: 66.3% (2023 est.)
+- `政府消費`: 12% (2023 est.)
+- `固定資本投資`: 20.6% (2023 est.)
+- `存貨投資`: -0.9% (2023 est.)
+- `商品和服務出口`: 42.5% (2023 est.)
+- `商品和服務進口`: -40.4% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -468,9 +468,9 @@ sugar processing, cement, textiles, beverages, wood products, steel, base metals
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 13% (2023 est.)
-- `male`: 10.4% (2023 est.)
-- `female`: 16.9% (2023 est.)
+- `總計`: 13% (2023 est.)
+- `男性`: 10.4% (2023 est.)
+- `女性`: 16.9% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -482,12 +482,12 @@ sugar processing, cement, textiles, beverages, wood products, steel, base metals
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 平均家庭支出
-- `on food`: 29.8% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 4.2% of household expenditures (2022 est.)
+- `餐食`: 29.8% of household expenditures (2022 est.)
+- `酒精和煙草`: 4.2% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 1.8% (2022 est.)
-- `highest 10%`: 35.4% (2022 est.)
+- `最低10%`: 1.8% (2022 est.)
+- `最高10%`: 35.4% (2022 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -497,8 +497,8 @@ sugar processing, cement, textiles, beverages, wood products, steel, base metals
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $7.148 billion (2022 est.)
-- `expenditures`: $6.937 billion (2022 est.)
+- `收入`: $7.148 billion (2022 est.)
+- `支出`: $6.937 billion (2022 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -563,31 +563,31 @@ $12.118 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 8.833 million kW (2022 est.)
-- `consumption`: 17.486 billion kWh (2022 est.)
-- `exports`: 21.719 billion kWh (2022 est.)
-- `transmission/distribution losses`: 4.8 billion kWh (2022 est.)
+- `裝機容量`: 8.833 million kW (2022 est.)
+- `消費`: 17.486 billion kWh (2022 est.)
+- `出口`: 21.719 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 4.8 billion kWh (2022 est.)
 
 ### 發電來源
-- `hydroelectricity`: 99.7% of total installed capacity (2022 est.)
-- `biomass and waste`: 0.3% of total installed capacity (2022 est.)
+- `水力發電`: 99.7% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 0.3% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `consumption`: 1,000 metric tons (2022 est.)
-- `exports`: (2022 est.) less than 1 metric ton
-- `imports`: 200 metric tons (2022 est.)
+- `消費`: 1,000 metric tons (2022 est.)
+- `出口`: (2022 est.) less than 1 metric ton
+- `進口`: 200 metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 2,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 57,000 bbl/day (2022 est.)
+- `總石油產量`: 2,000 bbl/day (2023 est.)
+- `成品油消費量`: 57,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 8.234 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 3,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 8.231 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 8.234 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 3,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 8.231 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 28.472 million Btu/person (2022 est.)
@@ -595,17 +595,17 @@ $12.118 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 169,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 2 (2022 est.)
+- `總訂閱數`: 169,000 (2022 est.)
+- `每100名居民訂閱數`: 2 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 8.659 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 128 (2022 est.)
+- `總訂閱數`: 8.659 million (2022 est.)
+- `每100名居民訂閱數`: 128 (2022 est.)
 
 ### 電信系統
-- `general assessment`: limited progress on structural reform and deficient infrastructure of the landlocked country are obstacles to the telecom platform; effective competition in mobile market, serving 96% of population through LTE; deployment of fiber; operator enabled 109 free Internet points across the country and is looking to expand to 430 points in 2022; dependent on neighboring countries for access to submarine cables (2022)
-- `domestic`: fixed-line just over 3 per 100 and mobile-cellular is 119 per 100 of the population (2021)
-- `international`: country code - 595; Paraguay's landlocked position means they must depend on neighbors for interconnection with submarine cable networks, making it cost more for broadband services; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)
+- `總體評估`: limited progress on structural reform and deficient infrastructure of the landlocked country are obstacles to the telecom platform; effective competition in mobile market, serving 96% of population through LTE; deployment of fiber; operator enabled 109 free Internet points across the country and is looking to expand to 430 points in 2022; dependent on neighboring countries for access to submarine cables (2022)
+- `國內`: fixed-line just over 3 per 100 and mobile-cellular is 119 per 100 of the population (2021)
+- `國際的`: country code - 595; Paraguay's landlocked position means they must depend on neighbors for interconnection with submarine cable networks, making it cost more for broadband services; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)
 
 ### 廣播媒體
 6 privately owned TV stations; about 75 commercial and community radio stations; 1 state-owned radio network (2019)
@@ -614,20 +614,20 @@ $12.118 billion (2022 est.)
 .py
 
 ### 網際網路使用者
-- `total`: 5.159 million (2021 est.)
-- `percent of population`: 77% (2021 est.)
+- `總計`: 5.159 million (2021 est.)
+- `佔人口比例`: 77% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 562,369 (2020 est.)
-- `subscriptions per 100 inhabitants`: 8 (2020 est.)
+- `總計`: 562,369 (2020 est.)
+- `每100名居民訂閱數`: 8 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 2 (2020)
-- `inventory of registered aircraft operated by air carriers`: 8
-- `annual passenger traffic on registered air carriers`: 560,631 (2018)
-- `annual freight traffic on registered air carriers`: 1.97 million (2018) mt-km
+- `註冊航空公司數量`: 2 (2020)
+- `註冊飛機庫存—航空承運商經營`: 8
+- `年度客運量－註冊航空公司`: 560,631 (2018)
+- `年度貨運量－註冊航空公司`: 1.97 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 ZP
@@ -639,29 +639,29 @@ ZP
 27 (2024)
 
 ### 鐵路
-- `total`: 30 km (2014)
-- `standard gauge`: 30 km (2014) 1.435-m gauge
+- `總計`: 30 km (2014)
+- `標準鐵軌`: 30 km (2014) 1.435-m gauge
 
 ### 道路
-- `total`: 78,811 km
-- `paved`: 8,573 km
-- `unpaved`: 70,238 km (2020)
+- `總計`: 78,811 km
+- `已鋪砌`: 8,573 km
+- `未鋪砌`: 70,238 km (2020)
 
 ### 水道
 3,100 km (2012) (primarily on the Paraguay and Paraná River systems)
 
 ### 商船
-- `total`: 108 (2023)
-- `by type`: container ship 2, general cargo 22, oil tanker 5, other 79
+- `總計`: 108 (2023)
+- `依類型`: container ship 2, general cargo 22, oil tanker 5, other 79
 
 ### 港口
-- `total ports`: 1 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 0
-- `very small`: 1
-- `ports with oil terminals`: 0
-- `key ports`: Puerto de Asuncion
+- `總港口數`: 1 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 0
+- `非常小`: 1
+- `原油碼頭港口`: 0
+- `主要港口`: Puerto de Asuncion
 
 ## 軍事和安全
 
@@ -707,7 +707,7 @@ Hizballah (2022)
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 5,231 (Venezuela) (2022)
+- `難民（原籍國）`: 5,231 (Venezuela) (2022)
 
 ### 非法藥物
    marijuana cultivation and the trafficking of Andean cocaine in the tri-border area shared with Argentina, and Brazil facilitates money laundering

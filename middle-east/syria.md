@@ -19,24 +19,24 @@ Middle East, bordering the Mediterranean Sea, between Lebanon and Turkey
 Middle East
 
 ### 面積
-- `total `: 187,437 sq km
-- `land`: 185,887 sq km
-- `water`: 1,550 sq km
+- `總計`: 187,437 sq km
+- `土地`: 185,887 sq km
+- `水`: 1,550 sq km
 **note**:  includes 1,295 sq km of Israeli-occupied territory
 
 ### 面積—比較
 slightly more than 1.5 times the size of Pennsylvania
 
 ### 陸地邊界
-- `total`: 2,363 km
-- `border countries`: Iraq 599 km; Israel 83 km; Jordan 379 km; Lebanon 403 km; Turkey 899 km
+- `總計`: 2,363 km
+- `邊境國家`: Iraq 599 km; Israel 83 km; Jordan 379 km; Lebanon 403 km; Turkey 899 km
 
 ### 海岸線
 193 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
+- `領海`: 12 nm
+- `毗連區`: 24 nm
 
 ### 氣候
 mostly desert; hot, dry, sunny summers (June to August) and mild, rainy winters (December to February) along coast; cold weather with snow or sleet periodically in Damascus
@@ -45,20 +45,20 @@ mostly desert; hot, dry, sunny summers (June to August) and mild, rainy winters 
 primarily semiarid and desert plateau; narrow coastal plain; mountains in west
 
 ### 海拔
-- `highest point`: Mount Hermon (Jabal a-Shayk) 2,814 m
-- `lowest point`: Yarmuk River -66 m
-- `mean elevation`: 514 m
+- `最高點`: Mount Hermon (Jabal a-Shayk) 2,814 m
+- `最低點`: Yarmuk River -66 m
+- `平均海拔`: 514 m
 
 ### 自然資源
 petroleum, phosphates, chrome and manganese ores, asphalt, iron ore, rock salt, marble, gypsum, hydropower
 
 ### 土地利用
-- `agricultural land`: 75.8% (2018 est.)
-- `agricultural land: arable land`: arable land: 25.4% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 5.8% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 44.6% (2018 est.)
-- `forest`: 2.7% (2018 est.)
-- `other`: 21.5% (2018 est.)
+- `農地`: 75.8% (2018 est.)
+- `農地：耕地`: arable land: 25.4% (2018 est.)
+- `農地：永久性作物`: permanent crops: 5.8% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 44.6% (2018 est.)
+- `森林`: 2.7% (2018 est.)
+- `其它`: 21.5% (2018 est.)
 
 ### 灌溉土地
 13,100 sq km (2013)
@@ -82,40 +82,40 @@ the capital of Damascus -- located at an oasis fed by the Barada River -- is tho
 ## 人民和社會
 
 ### 人口
-- `total`: 23,865,423
-- `male`: 11,981,578
-- `female`: 11,883,845 (2024 est.)
+- `總計`: 23,865,423
+- `男性`: 11,981,578
+- `女性`: 11,883,845 (2024 est.)
 
 ### 國籍
-- `noun`: Syrian(s)
-- `adjective`: Syrian
+- `名詞`: Syrian(s)
+- `形容詞`: Syrian
 
 ### 族裔群體
 Arab ~50%, Alawite ~15%, Kurd ~10%, Levantine ~10%, other ~15% (includes Druze, Ismaili, Imami, Nusairi, Assyrian, Turkoman, Armenian)
 
 ### 語文
 Arabic (official), Kurdish, Armenian, Aramaic, Circassian, French, English
-- `major-language sample(s)`: كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)  ڕاستییەکانی جیهان، باشترین سەرچاوەیە بۆ زانیارییە بنەڕەتییەکان (Kurdish)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)  ڕاستییەکانی جیهان، باشترین سەرچاوەیە بۆ زانیارییە بنەڕەتییەکان (Kurdish)  The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Muslim 87% (official; includes Sunni 74% and Alawi, Ismaili, and Shia 13%), Christian 10% (includes Orthodox, Uniate, and Nestorian), Druze 3%
 **note**:   the Christian population may be considerably smaller as a result of Christians fleeing the country during the ongoing civil war
 
 ### 年齡結構
-- `0-14 years`: 33% (male 4,037,493/female 3,828,777)
-- `15-64 years`: 62.8% (male 7,475,355/female 7,522,797)
-- `65 years and over`: 4.2% (2024 est.) (male 468,730/female 532,271)
+- `0-14歲`: 33% (male 4,037,493/female 3,828,777)
+- `15-64歲`: 62.8% (male 7,475,355/female 7,522,797)
+- `65歲及以上`: 4.2% (2024 est.) (male 468,730/female 532,271)
 
 ### 撫養比率
-- `total dependency ratio`: 55.4
-- `youth dependency ratio`: 53
-- `elderly dependency ratio`: 7.4
-- `potential support ratio`: 13.5 (2021 est.)
+- `總受扶養人比率`: 55.4
+- `少年撫養比率`: 53
+- `老人撫養比率`: 7.4
+- `潛在支持率`: 13.5 (2021 est.)
 
 ### 年齡中位數
-- `total`: 24.1 years (2024 est.)
-- `male`: 23.6 years
-- `female`: 24.7 years
+- `總計`: 24.1 years (2024 est.)
+- `男性`: 23.6 years
+- `女性`: 24.7 years
 
 ### 人口成長率
 1.67% (2024 est.)
@@ -134,31 +134,31 @@ significant population density along the Mediterranean coast; larger concentrati
 **note**:  the ongoing civil war has altered the population distribution
 
 ### 都市化
-- `urban population`: 57.4% of total population (2023)
-- `rate of urbanization`: 5.38% annual rate of change (2020-25 est.)
+- `城市人口`: 57.4% of total population (2023)
+- `城鎮化率`: 5.38% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 2.585 million DAMASCUS (capital), 2.203 million Aleppo, 1.443 million Hims (Homs), 996,000 Hamah (2023)
 
 ### 性別比例
-- `at birth`: 1.06 male(s)/female
-- `0-14 years`: 1.05 male(s)/female
-- `15-64 years`: 0.99 male(s)/female
-- `65 years and over`: 0.88 male(s)/female
-- `total population`: 1.01 male(s)/female (2024 est.)
+- `出生時`: 1.06 male(s)/female
+- `0-14歲`: 1.05 male(s)/female
+- `15-64歲`: 0.99 male(s)/female
+- `65歲及以上`: 0.88 male(s)/female
+- `總人口數`: 1.01 male(s)/female (2024 est.)
 
 ### 產婦死亡率
 30 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 15.1 deaths/1,000 live births (2024 est.)
-- `male`: 16.6 deaths/1,000 live births
-- `female`: 13.5 deaths/1,000 live births
+- `總計`: 15.1 deaths/1,000 live births (2024 est.)
+- `男性`: 16.6 deaths/1,000 live births
+- `女性`: 13.5 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 74.8 years (2024 est.)
-- `male`: 73.4 years
-- `female`: 76.4 years
+- `總人口數`: 74.8 years (2024 est.)
+- `男性`: 73.4 years
+- `女性`: 76.4 years
 
 ### 總生育率
 2.69 children born/woman (2024 est.)
@@ -170,12 +170,12 @@ significant population density along the Mediterranean coast; larger concentrati
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: 99.6% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 99.8% of population
-- `unimproved: urban`: urban: 0.4% of population
-- `unimproved: rural`: rural: 0.7% of population
-- `unimproved: total`: total: 0.2% of population (2020 est.)
+- `已改進－城市`: urban: 99.6% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 99.8% of population
+- `未改進：都市`: urban: 0.4% of population
+- `未改進：鄉村`: rural: 0.7% of population
+- `未改善：總計`: total: 0.2% of population (2020 est.)
 
 ### 當前醫療支出
 NA
@@ -187,22 +187,22 @@ NA
 1.4 beds/1,000 population (2017)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 99.5% of population
-- `improved: rural`: rural: 99.5% of population
-- `improved: total`: total: 99.5% of population
-- `unimproved: urban`: urban: 0.5% of population
-- `unimproved: rural`: rural: 0.5% of population
-- `unimproved: total`: total: 0.5% of population (2020 est.)
+- `已改進－城市`: urban: 99.5% of population
+- `已改進－農村`: rural: 99.5% of population
+- `已改進－總計`: total: 99.5% of population
+- `未改進：都市`: urban: 0.5% of population
+- `未改進：鄉村`: rural: 0.5% of population
+- `未改善：總計`: total: 0.5% of population (2020 est.)
 
 ### 肥胖—成人流行率
 27.8% (2016)
 
 ### 人均酒精消費量
-- `total`: 0.13 liters of pure alcohol (2019 est.)
-- `beer`: 0.02 liters of pure alcohol (2019 est.)
-- `wine`: 0 liters of pure alcohol (2019 est.)
-- `spirits`: 0.11 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 0.13 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.02 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.11 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 5歲以下體重不足兒童
 NA
@@ -214,15 +214,15 @@ NA
 NA
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 86.4%
-- `male`: 91.7%
-- `female`: 81% (2015)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 86.4%
+- `男性`: 91.7%
+- `女性`: 81% (2015)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 9 years
-- `male`: 9 years
-- `female`: 9 years (2013)
+- `總計`: 9 years
+- `男性`: 9 years
+- `女性`: 9 years (2013)
 
 ## 環境
 
@@ -230,36 +230,36 @@ NA
 deforestation; overgrazing; soil erosion; desertification; depletion of water resources; water pollution from raw sewage and petroleum refining wastes; inadequate potable water
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands
-- `signed, but not ratified`: Environmental Modification
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands
+- `已簽署但未批準`: Environmental Modification
 
 ### 氣候
 mostly desert; hot, dry, sunny summers (June to August) and mild, rainy winters (December to February) along coast; cold weather with snow or sleet periodically in Damascus
 
 ### 土地利用
-- `agricultural land`: 75.8% (2018 est.)
-- `agricultural land: arable land`: arable land: 25.4% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 5.8% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 44.6% (2018 est.)
-- `forest`: 2.7% (2018 est.)
-- `other`: 21.5% (2018 est.)
+- `農地`: 75.8% (2018 est.)
+- `農地：耕地`: arable land: 25.4% (2018 est.)
+- `農地：永久性作物`: permanent crops: 5.8% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 44.6% (2018 est.)
+- `森林`: 2.7% (2018 est.)
+- `其它`: 21.5% (2018 est.)
 
 ### 都市化
-- `urban population`: 57.4% of total population (2023)
-- `rate of urbanization`: 5.38% annual rate of change (2020-25 est.)
+- `城市人口`: 57.4% of total population (2023)
+- `城鎮化率`: 5.38% annual rate of change (2020-25 est.)
 
 ### 糧食不安全
-- `exceptional shortfall in aggregate food production/supplies`: *due to civil conflict and economic crisis - *based on the World Food Program’s (WFP’s) food security and agriculture sector estimated that about 15 million people are in need of some form of food and agriculture assistance (representing 68 percent of the total population), of whom about 12.1 million are food insecure and about 2.9 million people are estimated to be at risk of food insecurity; fuel scarcity and increases in fuel prices led to a rise in transportation and freight charges for goods, both imported and domestically produced, including agricultural and food products; additional price increases at retail level further constrained the already weakened purchasing power of the majority of the population threatening their food security (2023)
+- `糧食生產／供應異常短缺`: *due to civil conflict and economic crisis - *based on the World Food Program’s (WFP’s) food security and agriculture sector estimated that about 15 million people are in need of some form of food and agriculture assistance (representing 68 percent of the total population), of whom about 12.1 million are food insecure and about 2.9 million people are estimated to be at risk of food insecurity; fuel scarcity and increases in fuel prices led to a rise in transportation and freight charges for goods, both imported and domestically produced, including agricultural and food products; additional price increases at retail level further constrained the already weakened purchasing power of the majority of the population threatening their food security (2023)
 
 ### 空氣污染物
-- `particulate matter emissions`: 25.14 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 28.83 megatons (2016 est.)
-- `methane emissions`: 12.93 megatons (2020 est.)
+- `顆粒物排放量`: 25.14 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 28.83 megatons (2016 est.)
+- `甲烷排放量`: 12.93 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 4.5 million tons (2009 est.)
-- `municipal solid waste recycled annually`: 112,500 tons (2010 est.)
-- `percent of municipal solid waste recycled`: 2.5% (2010 est.)
+- `城市固體廢棄物－每年產生`: 4.5 million tons (2009 est.)
+- `城市固體廢棄物－每年回收`: 112,500 tons (2010 est.)
+- `城市固體廢棄物－回收百分比`: 2.5% (2010 est.)
 
 ### 主要河流（按公里長度）
 Euphrates (shared with Turkey [s], Iran, and Iraq [m]) - 3,596 km; Tigris (shared with Turkey, Iran, and Iraq [m]) - 1,950 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -268,9 +268,9 @@ Euphrates (shared with Turkey [s], Iran, and Iraq [m]) - 3,596 km; Tigris (share
 Indian Ocean drainage: *(Persian Gulf)* Tigris and Euphrates (918,044 sq km)
 
 ### 總取水量
-- `municipal`: 1.48 billion cubic meters (2020 est.)
-- `industrial`: 620 million cubic meters (2020 est.)
-- `agricultural`: 14.67 billion cubic meters (2020 est.)
+- `市級`: 1.48 billion cubic meters (2020 est.)
+- `工業`: 620 million cubic meters (2020 est.)
+- `農業`: 14.67 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 16.8 billion cubic meters (2020 est.)
@@ -278,21 +278,21 @@ Indian Ocean drainage: *(Persian Gulf)* Tigris and Euphrates (918,044 sq km)
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Syrian Arab Republic
-- `conventional short form`: Syria
-- `local long form`: Al Jumhuriyah al Arabiyah as Suriyah
-- `local short form`: Suriyah
-- `former`: United Arab Republic (with Egypt)
-- `etymology`: name ultimately derived from the ancient Assyrians who dominated northern Mesopotamia, but whose reach also extended westward to the Levant; over time, the name came to be associated more with the western area
+- `常用長名`: Syrian Arab Republic
+- `常用短名`: Syria
+- `當地語長名`: Al Jumhuriyah al Arabiyah as Suriyah
+- `當地語短名`: Suriyah
+- `前任`: United Arab Republic (with Egypt)
+- `语源学`: name ultimately derived from the ancient Assyrians who dominated northern Mesopotamia, but whose reach also extended westward to the Levant; over time, the name came to be associated more with the western area
 
 ### 政府類型
 presidential republic; highly authoritarian regime
 
 ### 首都
-- `name`: Damascus
-- `geographic coordinates`: 33 30 N, 36 18 E
-- `time difference`: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: Damascus is a very old city; its earliest name, Temeseq, first appears in an Egyptian geographical list of the 15th century B.C., but the meaning is uncertain
+- `名稱`: Damascus
+- `地理坐標`: 33 30 N, 36 18 E
+- `時差`: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: Damascus is a very old city; its earliest name, Temeseq, first appears in an Egyptian geographical list of the 15th century B.C., but the meaning is uncertain
 
 ### 行政區劃
 14 provinces (muhafazat, singular - muhafazah); Al Hasakah, Al Ladhiqiyah (Latakia), Al Qunaytirah, Ar Raqqah, As Suwayda', Dar'a, Dayr az Zawr, Dimashq (Damascus), Halab (Aleppo), Hamah, Hims (Homs), Idlib, Rif Dimashq (Damascus Countryside), Tartus
@@ -307,37 +307,37 @@ Independence Day (Evacuation Day), 17 April (1946); note - celebrates the leavin
 mixed legal system of civil and Islamic (sharia) law (for family courts)
 
 ### 憲法
-- `history`: several previous; latest issued 15 February 2012, passed by referendum and effective 27 February 2012; note – UN-sponsored talks, which began in late 2019 between delegates from government and opposition forces to draft a new constitution; in June 2022, the 8th round of the Syrian Constitutional Committee ended in Geneva with no results, and the 9th round, scheduled for July 2022, was cancelled due to lack of Russian and regime participation
-- `amendments`: proposed by the president of the republic or by one third of the People’s Assembly members; following review by a special Assembly committee, passage requires at least three-quarters majority vote by the Assembly and approval by the president
+- `歷史`: several previous; latest issued 15 February 2012, passed by referendum and effective 27 February 2012; note – UN-sponsored talks, which began in late 2019 between delegates from government and opposition forces to draft a new constitution; in June 2022, the 8th round of the Syrian Constitutional Committee ended in Geneva with no results, and the 9th round, scheduled for July 2022, was cancelled due to lack of Russian and regime participation
+- `修正`: proposed by the president of the republic or by one third of the People’s Assembly members; following review by a special Assembly committee, passage requires at least three-quarters majority vote by the Assembly and approval by the president
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICC
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: the father must be a citizen of Syria; if the father is unknown or stateless, the mother must be a citizen of Syria
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: 10 years
+- `出生公民權`: no
+- `血統公民身份`: the father must be a citizen of Syria; if the father is unknown or stateless, the mother must be a citizen of Syria
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: 10 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Bashar al-ASAD (since 17 July 2000)
-- `head of government`: Prime Minister Hussein ARNOUS (since 30 August 2020)
-- `cabinet`: Council of Ministers appointed by the president
-- `elections/appointments`: president directly elected by simple majority popular vote for a 7-year term (eligible for a second term); election last held on 26 May 2021 (next to be held in 2028); the president appoints the vice president and prime minister
-- `election results`: *2021: *Bashar al-ASAD elected president; percent of vote - Bashar al-ASAD (Ba'th Party) 95.2%, Mahmoud Ahmad MAREI (Democratic Arab Socialist Union) 3.3%, other 1.5%  *2014: *Bashar al-ASAD elected president; percent of vote - Bashar al-ASAD (Ba'th Party) 88.7%, Hassan al-NOURI (independent) 4.3%, Maher HAJJER (independent) 3.2%, other/invalid 3.8%
+- `國家元首`: President Bashar al-ASAD (since 17 July 2000)
+- `政府首腦`: Prime Minister Hussein ARNOUS (since 30 August 2020)
+- `内閣`: Council of Ministers appointed by the president
+- `選舉/任命`: president directly elected by simple majority popular vote for a 7-year term (eligible for a second term); election last held on 26 May 2021 (next to be held in 2028); the president appoints the vice president and prime minister
+- `選舉結果`: *2021: *Bashar al-ASAD elected president; percent of vote - Bashar al-ASAD (Ba'th Party) 95.2%, Mahmoud Ahmad MAREI (Democratic Arab Socialist Union) 3.3%, other 1.5%  *2014: *Bashar al-ASAD elected president; percent of vote - Bashar al-ASAD (Ba'th Party) 88.7%, Hassan al-NOURI (independent) 4.3%, Maher HAJJER (independent) 3.2%, other/invalid 3.8%
 
 ### 立法部門
-- `description`: unicameral People's Assembly or Majlis al-Shaab (250 seats; members directly elected in multi-seat constituencies by simple majority preferential vote to serve 4-year terms)
-- `elections`: last held on 15 July 2024 (next to be held in July 2028)
-- `election results`: percent of vote by party - NA; seats by party - Ba'ath Party 169, SSNP 3, other 13, independent 65; composition - NA
+- `描述`: unicameral People's Assembly or Majlis al-Shaab (250 seats; members directly elected in multi-seat constituencies by simple majority preferential vote to serve 4-year terms)
+- `選舉`: last held on 15 July 2024 (next to be held in July 2028)
+- `選舉結果`: percent of vote by party - NA; seats by party - Ba'ath Party 169, SSNP 3, other 13, independent 65; composition - NA
 
 ### 司法部門
-- `highest court(s)`: Court of Cassation (organized into civil, criminal, religious, and military divisions, each with 3 judges); Supreme Constitutional Court (consists of 7 members)
-- `judge selection and term of office`: Court of Cassation judges appointed by the Supreme Judicial Council (SJC), a judicial management body headed by the minister of justice with 7 members, including the national president; judge tenure NA; Supreme Constitutional Court judges nominated by the president and appointed by the SJC; judges serve 4-year renewable terms
-- `subordinate courts`: courts of first instance; magistrates' courts; religious and military courts; Economic Security Court; Counterterrorism Court (established June 2012)
+- `最高法院`: Court of Cassation (organized into civil, criminal, religious, and military divisions, each with 3 judges); Supreme Constitutional Court (consists of 7 members)
+- `法官遴選和任期`: Court of Cassation judges appointed by the Supreme Judicial Council (SJC), a judicial management body headed by the minister of justice with 7 members, including the national president; judge tenure NA; Supreme Constitutional Court judges nominated by the president and appointed by the SJC; judges serve 4-year renewable terms
+- `下級法院`: courts of first instance; magistrates' courts; religious and military courts; Economic Security Court; Counterterrorism Court (established June 2012)
 
 ### 政黨
 **legal parties/alliances**:  Arab Socialist Ba'ath PartyArab Socialist (Ba'ath) Party – Syrian RegionalArab Socialist Ba'ath Party – Syrian Regional Branch, Socialist Unionist Democratic PartyArab Socialist Union of Syria or ASUDemocratic Arab Socialist UnionNational Progressive Front or NPFSocialist Unionist Democratic PartySocialist Unionist PartySyrian Communist Party (two branches)Syrian Social Nationalist Party or SSNPUnionist Socialist Party**major political organizations**: Kurdish Democratic Union Party or PYDKurdish National Council or KNCSyriac Union PartySyrian Democratic Council or SDCSyrian Democratic PartySyrian Opposition Coalition **de facto governance entities**: Democratic Autonomous Administration of Northeast Syria or DAANES Syrian Interim Government or SIGSyrian Salvation Government or SSG
@@ -349,9 +349,9 @@ ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national commit
 none*_issue_*  Note*_issue_*:  operations at the embassy were suspended on 18 March 2014
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador (vacant); note - on 6 February 2012, the US suspended operations at its embassy in Damascus; Czechia serves as a protecting power for US interests in Syria
-- `mailing address`: 6110 Damascus Place, Washington DC  20521-6110
-- `email address and website`: USIS_damascus@embassy.mzv.cz  https://sy.usembassy.gov/
+- `外交代表負責人`: Ambassador (vacant); note - on 6 February 2012, the US suspended operations at its embassy in Damascus; Czechia serves as a protecting power for US interests in Syria
+- `郵寄地址`: 6110 Damascus Place, Washington DC  20521-6110
+- `電子郵件地址和網站`: USIS_damascus@embassy.mzv.cz  https://sy.usembassy.gov/
 
 ### 旗幟說明
 three equal horizontal bands of red (top), white, and black; two small, green, five-pointed stars in a horizontal line centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white); identical to the former flag of the United Arab Republic (1958-1961) where the two stars represented the constituent states of Syria and Egypt; the current design dates to 1980
@@ -361,8 +361,8 @@ three equal horizontal bands of red (top), white, and black; two small, green, f
 hawk; national colors: red, white, black, green
 
 ### 國歌
-- `name`: "Humat ad-Diyar" (Guardians of the Homeland)
-- `lyrics/music`: Khalil Mardam BEY/Mohammad Salim FLAYFEL and Ahmad Salim FLAYFEL
+- `名稱`: "Humat ad-Diyar" (Guardians of the Homeland)
+- `歌詞／音樂`: Khalil Mardam BEY/Mohammad Salim FLAYFEL and Ahmad Salim FLAYFEL
 **note**:  adopted 1936, restored 1961; between 1958 and 1961, while Syria was a member of the United Arab Republic with Egypt, the country had a different anthem
 
 ### 國家級遺產
@@ -401,17 +401,17 @@ $8.98 billion (2021 est.)
 47.3% (2016 est.)
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 27.8% (2021 est.)
-- `industry`: 28.9% (2021 est.)
-- `services`: 43.3% (2021 est.)
+- `農業`: 27.8% (2021 est.)
+- `產業`: 28.9% (2021 est.)
+- `服務`: 43.3% (2021 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 128.6% (2021 est.)
-- `government consumption`: 10.9% (2021 est.)
-- `investment in fixed capital`: 8.7% (2021 est.)
-- `exports of goods and services`: 24.8% (2021 est.)
-- `imports of goods and services`: -73.1% (2021 est.)
+- `家庭消費`: 128.6% (2021 est.)
+- `政府消費`: 10.9% (2021 est.)
+- `固定資本投資`: 8.7% (2021 est.)
+- `商品和服務出口`: 24.8% (2021 est.)
+- `商品和服務進口`: -73.1% (2021 est.)
 **note**:  figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -436,9 +436,9 @@ petroleum, textiles, food processing, beverages, tobacco, phosphate rock mining,
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 33.5% (2023 est.)
-- `male`: 29.8% (2023 est.)
-- `female`: 52.6% (2023 est.)
+- `總計`: 33.5% (2023 est.)
+- `男性`: 29.8% (2023 est.)
+- `女性`: 52.6% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -448,8 +448,8 @@ petroleum, textiles, food processing, beverages, tobacco, phosphate rock mining,
 26.6 (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 3.8% (2022 est.)
-- `highest 10%`: 21.1% (2022 est.)
+- `最低10%`: 3.8% (2022 est.)
+- `最高10%`: 21.1% (2022 est.)
 
 ### 匯款
 0% of GDP (2021 est.)
@@ -458,8 +458,8 @@ petroleum, textiles, food processing, beverages, tobacco, phosphate rock mining,
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $1.162 billion (2017 est.)
-- `expenditures`: $3.211 billion (2017 est.)
+- `收入`: $1.162 billion (2017 est.)
+- `支出`: $3.211 billion (2017 est.)
 **note**:  government projections for FY2016
 
 ### 公共債務
@@ -519,41 +519,41 @@ $3.619 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 89% (2022 est.)
-- `electrification - urban areas`: 100%
-- `electrification - rural areas`: 75%
+- `電氣化－總人口`: 89% (2022 est.)
+- `電氣化－城市地區`: 100%
+- `電氣化－農村地區`: 75%
 
 ### 電力
-- `installed generating capacity`: 10.124 million kW (2022 est.)
-- `consumption`: 12.909 billion kWh (2022 est.)
-- `exports`: 346 million kWh (2022 est.)
-- `transmission/distribution losses`: 3.618 billion kWh (2022 est.)
+- `裝機容量`: 10.124 million kW (2022 est.)
+- `消費`: 12.909 billion kWh (2022 est.)
+- `出口`: 346 million kWh (2022 est.)
+- `傳輸／分配損耗`: 3.618 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 95.3% of total installed capacity (2022 est.)
-- `hydroelectricity`: 4.5% of total installed capacity (2022 est.)
-- `biomass and waste`: 0.2% of total installed capacity (2022 est.)
+- `石化燃料`: 95.3% of total installed capacity (2022 est.)
+- `水力發電`: 4.5% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 0.2% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `consumption`: 47,000 metric tons (2022 est.)
-- `exports`: (2022 est.) less than 1 metric ton
-- `imports`: 30,000 metric tons (2022 est.)
+- `消費`: 47,000 metric tons (2022 est.)
+- `出口`: (2022 est.) less than 1 metric ton
+- `進口`: 30,000 metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 100,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 138,000 bbl/day (2022 est.)
-- `crude oil estimated reserves`: 2.5 billion barrels (2021 est.)
+- `總石油產量`: 100,000 bbl/day (2023 est.)
+- `成品油消費量`: 138,000 bbl/day (2022 est.)
+- `原油儲備量估值`: 2.5 billion barrels (2021 est.)
 
 ### 天然氣
-- `production`: 3.085 billion cubic meters (2022 est.)
-- `consumption`: 3.084 billion cubic meters (2022 est.)
-- `proven reserves`: 240.693 billion cubic meters (2021 est.)
+- `生產`: 3.085 billion cubic meters (2022 est.)
+- `消費`: 3.084 billion cubic meters (2022 est.)
+- `探明儲量`: 240.693 billion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 25.628 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 100,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 19.478 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 6.05 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 25.628 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 100,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 19.478 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 6.05 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 18.111 million Btu/person (2022 est.)
@@ -561,17 +561,17 @@ $3.619 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 2.821 million (2021 est.)
-- `subscriptions per 100 inhabitants`: 13 (2021 est.)
+- `總訂閱數`: 2.821 million (2021 est.)
+- `每100名居民訂閱數`: 13 (2021 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 16.991 million (2021 est.)
-- `subscriptions per 100 inhabitants`: 80 (2021 est.)
+- `總訂閱數`: 16.991 million (2021 est.)
+- `每100名居民訂閱數`: 80 (2021 est.)
 
 ### 電信系統
-- `general assessment`: the years of civil war and destruction to infrastructure continue to have a toll on the telecoms sector in Syria; although over the years the major mobile service providers have endeavored to restore and rebuild damaged networks, the operating environment has been difficult; following disputed demands for back taxes, MTN Group in August 2021 exited the country, after its majority stake had been transferred to judicial guardianship; this effectively meant that the mobile market became a monopoly; in February 2022 the regulator awarded a third mobile license following a process which had been ongoing for many years; telecommunication services in Syria are highly regulated; although urban areas can make use of the network built and maintained by the government-owned incumbent, many under served remote areas in the countryside are obliged to rely on satellite communications; the domestic and international fixed-line markets in Syria remain the monopoly of the STE, despite several initiatives over the years aimed at liberalizing the market; mobile broadband penetration in Syria is still quite low, despite quite a high population coverage of 3G networks and some deployment of LTE infrastructure; this may provide potential opportunities for growth once infrastructure and economic reconstruction efforts make headway, and civil issues subside (2022)
-- `domestic`: the number of fixed-line connections is 13 per 100; mobile-cellular service is 80 per 100 persons (2021)
-- `international`: country code - 963; landing points for the Aletar, BERYTAR and UGART submarine cable connections to Egypt, Lebanon, and Cyprus; satellite earth stations - 1 Intelsat (Indian Ocean) and 1 Intersputnik (Atlantic Ocean region); coaxial cable and microwave radio relay to Iraq, Jordan, Lebanon, and Turkey; participant in Medarabtel (2019)
+- `總體評估`: the years of civil war and destruction to infrastructure continue to have a toll on the telecoms sector in Syria; although over the years the major mobile service providers have endeavored to restore and rebuild damaged networks, the operating environment has been difficult; following disputed demands for back taxes, MTN Group in August 2021 exited the country, after its majority stake had been transferred to judicial guardianship; this effectively meant that the mobile market became a monopoly; in February 2022 the regulator awarded a third mobile license following a process which had been ongoing for many years; telecommunication services in Syria are highly regulated; although urban areas can make use of the network built and maintained by the government-owned incumbent, many under served remote areas in the countryside are obliged to rely on satellite communications; the domestic and international fixed-line markets in Syria remain the monopoly of the STE, despite several initiatives over the years aimed at liberalizing the market; mobile broadband penetration in Syria is still quite low, despite quite a high population coverage of 3G networks and some deployment of LTE infrastructure; this may provide potential opportunities for growth once infrastructure and economic reconstruction efforts make headway, and civil issues subside (2022)
+- `國內`: the number of fixed-line connections is 13 per 100; mobile-cellular service is 80 per 100 persons (2021)
+- `國際的`: country code - 963; landing points for the Aletar, BERYTAR and UGART submarine cable connections to Egypt, Lebanon, and Cyprus; satellite earth stations - 1 Intelsat (Indian Ocean) and 1 Intersputnik (Atlantic Ocean region); coaxial cable and microwave radio relay to Iraq, Jordan, Lebanon, and Turkey; participant in Medarabtel (2019)
 
 ### 廣播媒體
 state-run TV and radio broadcast networks; state operates 2 TV networks and 5 satellite channels; roughly two-thirds of Syrian homes have a satellite dish providing access to foreign TV broadcasts; 3 state-run radio channels; first private radio station launched in 2005; private radio broadcasters prohibited from transmitting news or political content (2018)
@@ -580,20 +580,20 @@ state-run TV and radio broadcast networks; state operates 2 TV networks and 5 
 .sy
 
 ### 網際網路使用者
-- `total`: 8,492,468 (2022 est.)
-- `percent of population`: 46.6% (2022 est.)
+- `總計`: 8,492,468 (2022 est.)
+- `佔人口比例`: 46.6% (2022 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 1,549,356 (2020 est.)
-- `subscriptions per 100 inhabitants`: 9 (2020 est.)
+- `總計`: 1,549,356 (2020 est.)
+- `每100名居民訂閱數`: 9 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 3 (2020)
-- `inventory of registered aircraft operated by air carriers`: 11
-- `annual passenger traffic on registered air carriers`: 17,896 (2018)
-- `annual freight traffic on registered air carriers`: 30,000 (2018) mt-km
+- `註冊航空公司數量`: 3 (2020)
+- `註冊飛機庫存—航空承運商經營`: 11
+- `年度客運量－註冊航空公司`: 17,896 (2018)
+- `年度貨運量－註冊航空公司`: 30,000 (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 YK
@@ -608,30 +608,30 @@ YK
 3,170 km gas, 2029 km oil (2013)
 
 ### 鐵路
-- `total`: 2,052 km (2014)
-- `standard gauge`: 1,801 km (2014) 1.435-m gauge
-- `narrow gauge`: 251 km (2014) 1.050-m gauge
+- `總計`: 2,052 km (2014)
+- `標準鐵軌`: 1,801 km (2014) 1.435-m gauge
+- `窄軌`: 251 km (2014) 1.050-m gauge
 
 ### 道路
-- `total`: 69,873 km
-- `paved`: 63,060 km
-- `unpaved`: 6,813 km (2010)
+- `總計`: 69,873 km
+- `已鋪砌`: 63,060 km
+- `未鋪砌`: 6,813 km (2010)
 
 ### 水道
 900 km (2011) (navigable but not economically significant)
 
 ### 商船
-- `total`: 24 (2023)
-- `by type`: bulk carrier 1, container ship 1, general cargo 8, oil tanker 1, other 13
+- `總計`: 24 (2023)
+- `依類型`: bulk carrier 1, container ship 1, general cargo 8, oil tanker 1, other 13
 
 ### 港口
-- `total ports`: 3 (2024)
-- `large`: 1
-- `medium`: 1
-- `small`: 1
-- `very small`: 0
-- `ports with oil terminals`: 3
-- `key ports`: Al Ladhiqiyah, Baniyas, Tartus
+- `總港口數`: 3 (2024)
+- `大`: 1
+- `中`: 1
+- `小`: 1
+- `非常小`: 0
+- `原油碼頭港口`: 3
+- `主要港口`: Al Ladhiqiyah, Baniyas, Tartus
 
 ## 軍事和安全
 
@@ -678,13 +678,13 @@ Abdallah Azzam Brigades; Ansar al-Islam; Asa’ib Ahl Al-Haq; Hizballah; Hurras 
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 580,000 (Palestinian Refugees) (2022); 11,121 (Iraq) (2023)
+- `難民（原籍國）`: 580,000 (Palestinian Refugees) (2022); 11,121 (Iraq) (2023)
 - `IDPs`: 6.865 million (ongoing civil war since 2011) (2022)
-- `stateless persons`: 160,000 (2022); note - Syria's stateless population consists of Kurds and Palestinians; stateless persons are prevented from voting, owning land, holding certain jobs, receiving food subsidies or public healthcare, enrolling in public schools, or being legally married to Syrian citizens; in 1962, some 120,000 Syrian Kurds were stripped of their Syrian citizenship, rendering them and their descendants stateless; in 2011, the Syrian Government granted citizenship to thousands of Syrian Kurds as a means of appeasement; however, resolving the question of statelessness is not a priority given Syria's ongoing civil war
+- `無國籍人士`: 160,000 (2022); note - Syria's stateless population consists of Kurds and Palestinians; stateless persons are prevented from voting, owning land, holding certain jobs, receiving food subsidies or public healthcare, enrolling in public schools, or being legally married to Syrian citizens; in 1962, some 120,000 Syrian Kurds were stripped of their Syrian citizenship, rendering them and their descendants stateless; in 2011, the Syrian Government granted citizenship to thousands of Syrian Kurds as a means of appeasement; however, resolving the question of statelessness is not a priority given Syria's ongoing civil war
 **note**:  the ongoing civil war has resulted in more than 5 million registered Syrian refugees - dispersed mainly in Egypt, Iraq, Jordan, Lebanon, and Turkey - as of March 2024
 
 ### 人口販運
-- `tier rating`: Tier 3 — Syria does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Syria remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/syria/
+- `會級評分`: Tier 3 — Syria does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Syria remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/syria/
 
 ### 非法藥物
 increasing drug trafficking particularly the synthetic stimulant captagon, a mixture of various amphetamines, methamphetamine, and/or other stimulants;  drug smuggling of captagon and other stimulants linked to the Syrian government and Hizballah

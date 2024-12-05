@@ -19,23 +19,23 @@ Southeastern Asia, along the northern coast of the island of Borneo, bordering t
 Southeast Asia
 
 ### 面積
-- `total `: 5,765 sq km
-- `land`: 5,265 sq km
-- `water`: 500 sq km
+- `總計`: 5,765 sq km
+- `土地`: 5,265 sq km
+- `水`: 500 sq km
 
 ### 面積—比較
 slightly smaller than Delaware
 
 ### 陸地邊界
-- `total`: 266 km
-- `border countries`: Malaysia 266 km
+- `總計`: 266 km
+- `邊境國家`: Malaysia 266 km
 
 ### 海岸線
 161 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive economic zone`: 200 nm or to median line
+- `領海`: 12 nm
+- `專屬經濟區`: 200 nm or to median line
 
 ### 氣候
 tropical; hot, humid, rainy
@@ -44,20 +44,20 @@ tropical; hot, humid, rainy
 flat coastal plain rises to mountains in east; hilly lowland in west
 
 ### 海拔
-- `highest point`: Bukit Pagon 1,850 m
-- `lowest point`: South China Sea 0 m
-- `mean elevation`: 478 m
+- `最高點`: Bukit Pagon 1,850 m
+- `最低點`: South China Sea 0 m
+- `平均海拔`: 478 m
 
 ### 自然資源
 petroleum, natural gas, timber
 
 ### 土地利用
-- `agricultural land`: 2.5% (2018 est.)
-- `agricultural land: arable land`: arable land: 0.8% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 1.1% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0.6% (2018 est.)
-- `forest`: 71.8% (2018 est.)
-- `other`: 25.7% (2018 est.)
+- `農地`: 2.5% (2018 est.)
+- `農地：耕地`: arable land: 0.8% (2018 est.)
+- `農地：永久性作物`: permanent crops: 1.1% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0.6% (2018 est.)
+- `森林`: 71.8% (2018 est.)
+- `其它`: 25.7% (2018 est.)
 
 ### 灌溉土地
 10 sq km (2012)
@@ -74,20 +74,20 @@ close to vital sea lanes through South China Sea linking Indian and Pacific Ocea
 ## 人民和社會
 
 ### 人口
-- `total`: 491,900
-- `male`: 239,140
-- `female`: 252,760 (2024 est.)
+- `總計`: 491,900
+- `男性`: 239,140
+- `女性`: 252,760 (2024 est.)
 
 ### 國籍
-- `noun`: Bruneian(s)
-- `adjective`: Bruneian
+- `名詞`: Bruneian(s)
+- `形容詞`: Bruneian
 
 ### 族裔群體
 Malay 67.4%, Chinese 9.6%, other 23% (2021 est.)
 
 ### 語文
 Malay (Bahasa Melayu) (official), English, Chinese dialects
-- `major-language sample(s)`: Buku Fakta Dunia, sumber yang diperlukan untuk maklumat asas. (Malay)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: Buku Fakta Dunia, sumber yang diperlukan untuk maklumat asas. (Malay)  The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Muslim (official) 82.1%, Christian 6.7%, Buddhist 6.3%, other 4.9% (2021 est.)
@@ -96,20 +96,20 @@ Muslim (official) 82.1%, Christian 6.7%, Buddhist 6.3%, other 4.9% (2021 est.)
 Brunei is a small, oil-rich sultanate of less than half a million people, making it the smallest country in Southeast Asia by population.  Its total fertility rate – the average number of births per woman – has been steadily declining over the last few decades, from over 3.5 in the 1980s to below replacement level today at nearly 1.8.  The trend is due to women’s increased years of education and participation in the workforce, which have resulted in later marriages and fewer children.  Yet, the population continues to grow because of the large number of women of reproductive age and a reliance on foreign labor – mainly from Malaysia, Thailand, the Philippines, Indonesia, and South Asian countries – to fill low-skilled jobs. Brunei is officially Muslim, and Malay is the official language.  The country follows an official Malay national ideology, Malay Islamic Monarchy, which promotes Malay language and culture, Islamic values, and the monarchy.  Only seven of Brunei’s native groups are recognized in the constitution and are defined as “Malay” – Brunei Malays, Belait, Kedayan, Dusun, Bisayak, Lun Bawang, and Sama-Baiau.  Together they make up about 66% percent of the population and are referred to as the Bumiputera.  The Bumiputera are entitled to official privileges, including land ownership, access to certain types of employment (Royal Brunei Armed Forces and Brunei Shell Petroleum), easier access to higher education, and better job opportunities in the civil service.  Brunei’s Chinese population descends from migrants who arrived when Brunei was a British protectorate (1888 and 1984).  They are prominent in the non-state commercial sector and account for approximately 10% of the population.  Most Bruneian Chinese are permanent residents rather than citizens despite roots going back several generations.  Many are stateless and are denied rights granted to citizens, such as land ownership, subsidized health care, and free secondary and university education.  Because of the discriminatory policies, the number of Chinese in Brunei has shrunk considerably in the last 50 years.  Native ethnic groups that are not included in the Bumiputera are not recognized in the constitution and are not officially identified as “Malay” or automatically granted citizenship.  Foreign workers constitute some quarter of the labor force.
 
 ### 年齡結構
-- `0-14 years`: 21.7% (male 54,924/female 51,710)
-- `15-64 years`: 70.8% (male 166,289/female 182,011)
-- `65 years and over`: 7.5% (2024 est.) (male 17,927/female 19,039)
+- `0-14歲`: 21.7% (male 54,924/female 51,710)
+- `15-64歲`: 70.8% (male 166,289/female 182,011)
+- `65歲及以上`: 7.5% (2024 est.) (male 17,927/female 19,039)
 
 ### 撫養比率
-- `total dependency ratio`: 39.2
-- `youth dependency ratio`: 31.1
-- `elderly dependency ratio`: 8.1
-- `potential support ratio`: 12.4 (2021 est.)
+- `總受扶養人比率`: 39.2
+- `少年撫養比率`: 31.1
+- `老人撫養比率`: 8.1
+- `潛在支持率`: 12.4 (2021 est.)
 
 ### 年齡中位數
-- `total`: 32.3 years (2024 est.)
-- `male`: 31.4 years
-- `female`: 33.1 years
+- `總計`: 32.3 years (2024 est.)
+- `男性`: 31.4 years
+- `女性`: 33.1 years
 
 ### 人口成長率
 1.4% (2024 est.)
@@ -127,32 +127,32 @@ Brunei is a small, oil-rich sultanate of less than half a million people, making
 the vast majority of the population is found along the coast in the western part of Brunei, which is separated from the eastern portion by Malaysia; the largest population concentration is in the far north on the western side of the Brunei Bay, in and around the capital of Bandar Seri Begawan
 
 ### 都市化
-- `urban population`: 79.1% of total population (2023)
-- `rate of urbanization`: 1.44% annual rate of change (2020-25 est.)
+- `城市人口`: 79.1% of total population (2023)
+- `城鎮化率`: 1.44% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 266,682 BANDAR SERI BEGAWAN (capital) (2021)
 **note**:  the boundaries of the capital city were expanded in 2007, greatly increasing the city area; the population of the capital increased tenfold
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.06 male(s)/female
-- `15-64 years`: 0.91 male(s)/female
-- `65 years and over`: 0.94 male(s)/female
-- `total population`: 0.95 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.06 male(s)/female
+- `15-64歲`: 0.91 male(s)/female
+- `65歲及以上`: 0.94 male(s)/female
+- `總人口數`: 0.95 male(s)/female (2024 est.)
 
 ### 產婦死亡率
 44 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 10 deaths/1,000 live births (2024 est.)
-- `male`: 12.2 deaths/1,000 live births
-- `female`: 7.7 deaths/1,000 live births
+- `總計`: 10 deaths/1,000 live births (2024 est.)
+- `男性`: 12.2 deaths/1,000 live births
+- `女性`: 7.7 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 78.9 years (2024 est.)
-- `male`: 76.5 years
-- `female`: 81.3 years
+- `總人口數`: 78.9 years (2024 est.)
+- `男性`: 76.5 years
+- `女性`: 81.3 years
 
 ### 總生育率
 1.73 children born/woman (2024 est.)
@@ -164,12 +164,12 @@ the vast majority of the population is found along the coast in the western part
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: 99.7% of population
-- `improved: rural`: rural: NA
-- `improved: total`: total: 99.9% of population
-- `unimproved: urban`: urban: 0.4% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0.1% of population (2020)
+- `已改進－城市`: urban: 99.7% of population
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: 99.9% of population
+- `未改進：都市`: urban: 0.4% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0.1% of population (2020)
 
 ### 當前醫療支出
 2.4% of GDP (2020)
@@ -181,27 +181,27 @@ NA
 2.9 beds/1,000 population (2017)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: NA
-- `improved: rural`: rural: NA
-- `improved: total`: total: NA
-- `unimproved: urban`: urban: NA
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: NA
+- `已改進－城市`: urban: NA
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: NA
+- `未改進：都市`: urban: NA
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: NA
 
 ### 肥胖—成人流行率
 14.1% (2016)
 
 ### 人均酒精消費量
-- `total`: 0.69 liters of pure alcohol (2019 est.)
-- `beer`: 0.66 liters of pure alcohol (2019 est.)
-- `wine`: 0.04 liters of pure alcohol (2019 est.)
-- `spirits`: 0 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 0.69 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.66 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.04 liters of pure alcohol (2019 est.)
+- `烈酒`: 0 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 16.2% (2020 est.)
-- `male`: 30% (2020 est.)
-- `female`: 2.3% (2020 est.)
+- `總計`: 16.2% (2020 est.)
+- `男性`: 30% (2020 est.)
+- `女性`: 2.3% (2020 est.)
 
 ### 5歲以下體重不足兒童
 NA
@@ -213,15 +213,15 @@ NA
 4.4% of GDP (2016 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 97.6%
-- `male`: 98.3%
-- `female`: 96.9% (2021)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 97.6%
+- `男性`: 98.3%
+- `女性`: 96.9% (2021)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 14 years
-- `male`: 14 years
-- `female`: 14 years (2020)
+- `總計`: 14 years
+- `男性`: 14 years
+- `女性`: 14 years (2020)
 
 ## 環境
 
@@ -229,23 +229,23 @@ NA
 no major environmental problems, but air pollution control is becoming a concern; seasonal trans-boundary haze from forest fires in Indonesia
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 tropical; hot, humid, rainy
 
 ### 土地利用
-- `agricultural land`: 2.5% (2018 est.)
-- `agricultural land: arable land`: arable land: 0.8% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 1.1% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0.6% (2018 est.)
-- `forest`: 71.8% (2018 est.)
-- `other`: 25.7% (2018 est.)
+- `農地`: 2.5% (2018 est.)
+- `農地：耕地`: arable land: 0.8% (2018 est.)
+- `農地：永久性作物`: permanent crops: 1.1% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0.6% (2018 est.)
+- `森林`: 71.8% (2018 est.)
+- `其它`: 25.7% (2018 est.)
 
 ### 都市化
-- `urban population`: 79.1% of total population (2023)
-- `rate of urbanization`: 1.44% annual rate of change (2020-25 est.)
+- `城市人口`: 79.1% of total population (2023)
+- `城鎮化率`: 1.44% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.05% of GDP (2018 est.)
@@ -254,16 +254,16 @@ tropical; hot, humid, rainy
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 6.86 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 7.66 megatons (2016 est.)
-- `methane emissions`: 8.4 megatons (2020 est.)
+- `顆粒物排放量`: 6.86 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 7.66 megatons (2016 est.)
+- `甲烷排放量`: 8.4 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 216,253 tons (2016 est.)
+- `城市固體廢棄物－每年產生`: 216,253 tons (2016 est.)
 
 ### 總取水量
-- `municipal`: 150 million cubic meters (2020 est.)
-- `agricultural`: 10 million cubic meters (2020 est.)
+- `市級`: 150 million cubic meters (2020 est.)
+- `農業`: 10 million cubic meters (2020 est.)
 
 ### 可再生水資源總量
 8.5 billion cubic meters (2020 est.)
@@ -271,20 +271,20 @@ tropical; hot, humid, rainy
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Brunei Darussalam
-- `conventional short form`: Brunei
-- `local long form`: Negara Brunei Darussalam
-- `local short form`: Brunei
-- `etymology`: derivation of the name is unclear; according to legend, MUHAMMAD SHAH, who would become the first sultan of Brunei, upon discovering what would become Brunei exclaimed "Baru nah," which roughly translates as "there" or "that's it"
+- `常用長名`: Brunei Darussalam
+- `常用短名`: Brunei
+- `當地語長名`: Negara Brunei Darussalam
+- `當地語短名`: Brunei
+- `语源学`: derivation of the name is unclear; according to legend, MUHAMMAD SHAH, who would become the first sultan of Brunei, upon discovering what would become Brunei exclaimed "Baru nah," which roughly translates as "there" or "that's it"
 
 ### 政府類型
 absolute monarchy or sultanate
 
 ### 首都
-- `name`: Bandar Seri Begawan
-- `geographic coordinates`: 4 53 N, 114 56 E
-- `time difference`: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: named in 1970 after Sultan Omar Ali SAIFUDDIEN III (1914-1986; "The Father of Independence") who adopted the title of "Seri Begawan" (approximate meaning "honored lord") upon his abdication in 1967; "bandar" in Malay means "town" or "city"; the capital had previously been called Bandar Brunei (Brunei Town)
+- `名稱`: Bandar Seri Begawan
+- `地理坐標`: 4 53 N, 114 56 E
+- `時差`: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: named in 1970 after Sultan Omar Ali SAIFUDDIEN III (1914-1986; "The Father of Independence") who adopted the title of "Seri Begawan" (approximate meaning "honored lord") upon his abdication in 1967; "bandar" in Malay means "town" or "city"; the capital had previously been called Bandar Brunei (Brunei Town)
 
 ### 行政區劃
 4 districts (daerah-daerah, singular - daerah); Belait, Brunei dan Muara, Temburong, Tutong
@@ -299,37 +299,37 @@ National Day, 23 February (1984); note - 1 January 1984 was the date of independ
 mixed legal system based on English common law and Islamic law; note - in April 2019, the full sharia penal codes came into force and apply to Muslims and partly to non-Muslims in parallel with present common law codes
 
 ### 憲法
-- `history`: drafted 1954 to 1959, signed 29 September 1959; note - some constitutional provisions suspended since 1962 under a State of Emergency, others suspended since independence in 1984
-- `amendments`: proposed by the monarch; passage requires submission to the Privy Council for Legislative Council review and finalization takes place by proclamation; the monarch can accept or reject changes to the original proposal provided by the Legislative Council; amended several times, last in 2010
+- `歷史`: drafted 1954 to 1959, signed 29 September 1959; note - some constitutional provisions suspended since 1962 under a State of Emergency, others suspended since independence in 1984
+- `修正`: proposed by the monarch; passage requires submission to the Privy Council for Legislative Council review and finalization takes place by proclamation; the monarch can accept or reject changes to the original proposal provided by the Legislative Council; amended several times, last in 2010
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICC
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: the father must be a citizen of Brunei
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 12 years
+- `出生公民權`: no
+- `血統公民身份`: the father must be a citizen of Brunei
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 12 years
 
 ### 選舉權
 18 years of age for village elections; universal
 
 ### 行政部門
-- `chief of state`: Sultan and Prime Minister Sir HASSANAL Bolkiah (since 5 October 1967)
-- `head of government`: Sultan and Prime Minister Sir HASSANAL Bolkiah (since 5 October 1967)
-- `cabinet`: Council of Ministers appointed and presided over by the monarch; note - 4 additional advisory councils appointed by the monarch are the Religious Council, Privy Council for constitutional issues, Council of Succession, and Legislative Council; Sultan and Prime Minister Sir HASSANAL Bolkiah is also Minister of Finance, Defense, and Foreign Affairs and Trade
-- `elections/appointments`: none; the monarchy is hereditary
+- `國家元首`: Sultan and Prime Minister Sir HASSANAL Bolkiah (since 5 October 1967)
+- `政府首腦`: Sultan and Prime Minister Sir HASSANAL Bolkiah (since 5 October 1967)
+- `内閣`: Council of Ministers appointed and presided over by the monarch; note - 4 additional advisory councils appointed by the monarch are the Religious Council, Privy Council for constitutional issues, Council of Succession, and Legislative Council; Sultan and Prime Minister Sir HASSANAL Bolkiah is also Minister of Finance, Defense, and Foreign Affairs and Trade
+- `選舉/任命`: none; the monarchy is hereditary
 **note **:  the monarch is both chief of state and head of government
 
 ### 立法部門
-- `description`: unicameral Legislative Council or Majlis Mesyuarat Negara Brunei (up to 45 seats; up to 30 appointed; up to 15 representatives from the country's four districts: Brunei and Muara (up to seven members), Belait (up to three), Tutong (up to three), and Temburong (up to two)); members serve 5-year terms
-- `elections`: January 2023 - appointed by the sultan
-- `election results`: Legislative Council last appointed January 2023; composition - men 30, women 4, percentage women 11.8%
+- `描述`: unicameral Legislative Council or Majlis Mesyuarat Negara Brunei (up to 45 seats; up to 30 appointed; up to 15 representatives from the country's four districts: Brunei and Muara (up to seven members), Belait (up to three), Tutong (up to three), and Temburong (up to two)); members serve 5-year terms
+- `選舉`: January 2023 - appointed by the sultan
+- `選舉結果`: Legislative Council last appointed January 2023; composition - men 30, women 4, percentage women 11.8%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court (consists of the Court of Appeal and the High Court, each with a chief justice and 2 judges); Sharia Court (consists the Court of Appeals and the High Court); note - Brunei has a dual judicial system of secular and sharia (religious) courts; the Judicial Committee of Privy Council (in London) serves as the final appellate court for civil cases only
-- `judge selection and term of office`: Supreme Court judges appointed by the monarch to serve until age 65, and older if approved by the monarch; Sharia Court judges appointed by the monarch for life
-- `subordinate courts`: Intermediate Court; Magistrates' Courts; Juvenile Court; small claims courts; lower sharia courts
+- `最高法院`: Supreme Court (consists of the Court of Appeal and the High Court, each with a chief justice and 2 judges); Sharia Court (consists the Court of Appeals and the High Court); note - Brunei has a dual judicial system of secular and sharia (religious) courts; the Judicial Committee of Privy Council (in London) serves as the final appellate court for civil cases only
+- `法官遴選和任期`: Supreme Court judges appointed by the monarch to serve until age 65, and older if approved by the monarch; Sharia Court judges appointed by the monarch for life
+- `下級法院`: Intermediate Court; Magistrates' Courts; Juvenile Court; small claims courts; lower sharia courts
 
 ### 政黨
 National Development Party or NDP
@@ -339,20 +339,20 @@ National Development Party or NDP
 ADB, APEC, ARF, ASEAN, C, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, ISO (correspondent), ITSO, ITU, NAM, OIC, OPCW, UN, UNCTAD, UNESCO, UNIFIL, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Dato Paduka Haji SERBINI bin Haji Ali (since 28 January 2016)
-- `chancery`: 3520 International Court NW, Washington, DC 20008
-- `telephone`: [1] (202) 237-1838
+- `外交代表負責人`: Ambassador Dato Paduka Haji SERBINI bin Haji Ali (since 28 January 2016)
+- `衡平法院（在美國）`: 3520 International Court NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 237-1838
 - `FAX`: [1] (202) 885-0560
-- `email address and website`: info@bruneiembassy.org  http://www.bruneiembassy.org/index.html
-- `consulate(s)`: New York
+- `電子郵件地址和網站`: info@bruneiembassy.org  http://www.bruneiembassy.org/index.html
+- `領事館`: New York
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Caryn R. McCLELLAND (since December 2021)
-- `embassy`: Simpang 336-52-16-9, Jalan Duta, Bandar Seri Begawan, BC4115
-- `mailing address`: 4020 Bandar Seri Begawan Place, Washington DC  20521-4020
-- `telephone`: (673) 238-7400
+- `外交代表負責人`: Ambassador Caryn R. McCLELLAND (since December 2021)
+- `大使館`: Simpang 336-52-16-9, Jalan Duta, Bandar Seri Begawan, BC4115
+- `郵寄地址`: 4020 Bandar Seri Begawan Place, Washington DC  20521-4020
+- `電話號碼`: (673) 238-7400
 - `FAX`: (673) 238-7533
-- `email address and website`: ConsularBrunei@state.gov  https://bn.usembassy.gov/
+- `電子郵件地址和網站`: ConsularBrunei@state.gov  https://bn.usembassy.gov/
 
 ### 旗幟說明
 yellow with two diagonal bands of white (top, almost double width) and black starting from the upper hoist side; the national emblem in red is superimposed at the center; yellow is the color of royalty and symbolizes the sultanate; the white and black bands denote Brunei's chief ministers; the emblem includes five main components: a swallow-tailed flag, the royal umbrella representing the monarchy, the wings of four feathers symbolizing justice, tranquility, prosperity, and peace, the two upraised hands signifying the government's pledge to preserve and promote the welfare of the people, and the crescent moon denoting Islam, the state religion; the state motto "Always render service with God's guidance" appears in yellow Arabic script on the crescent; a ribbon below the crescent reads "Brunei, the Abode of Peace"
@@ -361,8 +361,8 @@ yellow with two diagonal bands of white (top, almost double width) and black sta
 royal parasol; national colors: yellow, white, black
 
 ### 國歌
-- `name`: "Allah Peliharakan Sultan" (God Bless His Majesty)
-- `lyrics/music`: Pengiran Haji Mohamed YUSUF bin Pengiran Abdul Rahim/Awang Haji BESAR bin Sagap
+- `名稱`: "Allah Peliharakan Sultan" (God Bless His Majesty)
+- `歌詞／音樂`: Pengiran Haji Mohamed YUSUF bin Pengiran Abdul Rahim/Awang Haji BESAR bin Sagap
 **note**:  adopted 1951
 
 ## 經濟
@@ -399,18 +399,18 @@ $15.128 billion (2023 est.)
 **note**: annual % change based on consumer prices
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 1.2% (2023 est.)
-- `industry`: 61.8% (2023 est.)
-- `services`: 38.8% (2023 est.)
+- `農業`: 1.2% (2023 est.)
+- `產業`: 61.8% (2023 est.)
+- `服務`: 38.8% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 27.6% (2023 est.)
-- `government consumption`: 22.8% (2023 est.)
-- `investment in fixed capital`: 29.4% (2023 est.)
-- `investment in inventories`: 0.2% (2023 est.)
-- `exports of goods and services`: 76.5% (2023 est.)
-- `imports of goods and services`: -60% (2023 est.)
+- `家庭消費`: 27.6% (2023 est.)
+- `政府消費`: 22.8% (2023 est.)
+- `固定資本投資`: 29.4% (2023 est.)
+- `存貨投資`: 0.2% (2023 est.)
+- `商品和服務出口`: 76.5% (2023 est.)
+- `商品和服務進口`: -60% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -435,9 +435,9 @@ petroleum, petroleum refining, liquefied natural gas, construction, agriculture,
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 18.6% (2023 est.)
-- `male`: 16.2% (2023 est.)
-- `female`: 22.3% (2023 est.)
+- `總計`: 18.6% (2023 est.)
+- `男性`: 16.2% (2023 est.)
+- `女性`: 22.3% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 匯款
@@ -447,8 +447,8 @@ petroleum, petroleum refining, liquefied natural gas, construction, agriculture,
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $1.058 billion (2020 est.)
-- `expenditures`: $3.189 billion (2020 est.)
+- `收入`: $1.058 billion (2020 est.)
+- `支出`: $3.189 billion (2020 est.)
 
 ### 公共債務
 2.8% of GDP (2017 est.)
@@ -507,36 +507,36 @@ $4.982 billion (2021 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 1.265 million kW (2022 est.)
-- `consumption`: 5.24 billion kWh (2022 est.)
-- `transmission/distribution losses`: 513 million kWh (2022 est.)
+- `裝機容量`: 1.265 million kW (2022 est.)
+- `消費`: 5.24 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 513 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 100% of total installed capacity (2022 est.)
+- `石化燃料`: 100% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `consumption`: 1.203 million metric tons (2022 est.)
-- `imports`: 1.203 million metric tons (2022 est.)
+- `消費`: 1.203 million metric tons (2022 est.)
+- `進口`: 1.203 million metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 95,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 17,000 bbl/day (2022 est.)
-- `crude oil estimated reserves`: 1.1 billion barrels (2021 est.)
+- `總石油產量`: 95,000 bbl/day (2023 est.)
+- `成品油消費量`: 17,000 bbl/day (2022 est.)
+- `原油儲備量估值`: 1.1 billion barrels (2021 est.)
 
 ### 天然氣
-- `production`: 10.598 billion cubic meters (2022 est.)
-- `consumption`: 4.374 billion cubic meters (2022 est.)
-- `exports`: 6.12 billion cubic meters (2022 est.)
-- `proven reserves`: 260.515 billion cubic meters (2021 est.)
+- `生產`: 10.598 billion cubic meters (2022 est.)
+- `消費`: 4.374 billion cubic meters (2022 est.)
+- `出口`: 6.12 billion cubic meters (2022 est.)
+- `探明儲量`: 260.515 billion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 12.172 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 1.419 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 2.197 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 8.557 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 12.172 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 1.419 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 2.197 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 8.557 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 466.111 million Btu/person (2022 est.)
@@ -544,17 +544,17 @@ $4.982 billion (2021 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 122,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 27 (2022 est.)
+- `總訂閱數`: 122,000 (2022 est.)
+- `每100名居民訂閱數`: 27 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 529,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 118 (2022 est.)
+- `總訂閱數`: 529,000 (2022 est.)
+- `每100名居民訂閱數`: 118 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Brunei’s mobile market experienced drop-off in subscriber numbers in 2020; in 2022 there was a concerted effort to build out the fixed-line infrastructure while progressing towards introducing 5G mobile services, which was activated in June 2023; Brunei’s fixed-line market is one of the few countries in the world to have displayed significant growth rather than a decline in teledensity in the last few years; this upward trend is set to continue as the new Unified National Network (UNN) works diligently to expand and enhance the fixed-line infrastructure around the country; strong growth was also seen in the fixed broadband space, on the back of those same infrastructure developments that are part of the Brunei Vision 2035 initiative; fixed broadband is starting from a relatively low base by international standards and is still only at 18%, leaving lots of room for growth; mobile and mobile broadband, on the other hand, are still suffering from the market contractions first felt in 2020; Brunei’s 2G GSM network is shut down, with the spectrum to be reallocated to 3G, 4G, and potentially 5G use (2023)
-- `domestic`: 25 per 100 fixed-line, 136 per 100 mobile-cellular (2021)
-- `international`: country code - 673; landing points for the SEA-ME-WE-3, SJC, AAG, Lubuan-Brunei Submarine Cable via optical telecommunications submarine cables that provides links to Asia, the Middle East, Southeast Asia, Africa, Australia, and the US; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific Ocean) (2019)
+- `總體評估`: Brunei’s mobile market experienced drop-off in subscriber numbers in 2020; in 2022 there was a concerted effort to build out the fixed-line infrastructure while progressing towards introducing 5G mobile services, which was activated in June 2023; Brunei’s fixed-line market is one of the few countries in the world to have displayed significant growth rather than a decline in teledensity in the last few years; this upward trend is set to continue as the new Unified National Network (UNN) works diligently to expand and enhance the fixed-line infrastructure around the country; strong growth was also seen in the fixed broadband space, on the back of those same infrastructure developments that are part of the Brunei Vision 2035 initiative; fixed broadband is starting from a relatively low base by international standards and is still only at 18%, leaving lots of room for growth; mobile and mobile broadband, on the other hand, are still suffering from the market contractions first felt in 2020; Brunei’s 2G GSM network is shut down, with the spectrum to be reallocated to 3G, 4G, and potentially 5G use (2023)
+- `國內`: 25 per 100 fixed-line, 136 per 100 mobile-cellular (2021)
+- `國際的`: country code - 673; landing points for the SEA-ME-WE-3, SJC, AAG, Lubuan-Brunei Submarine Cable via optical telecommunications submarine cables that provides links to Asia, the Middle East, Southeast Asia, Africa, Australia, and the US; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific Ocean) (2019)
 
 ### 廣播媒體
 state-controlled Radio Television Brunei (RTB) operates 5 channels; 3 Malaysian TV stations are available; foreign TV broadcasts are available via satellite systems; RTB operates 5 radio networks and broadcasts on multiple frequencies; British Forces Broadcast Service (BFBS) provides radio broadcasts on 2 FM stations; some radio broadcast stations from Malaysia are available via repeaters
@@ -563,20 +563,20 @@ state-controlled Radio Television Brunei (RTB) operates 5 channels; 3 Malaysian 
 .bn
 
 ### 網際網路使用者
-- `total`: 441,000 (2021 est.)
-- `percent of population`: 98% (2021 est.)
+- `總計`: 441,000 (2021 est.)
+- `佔人口比例`: 98% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 71,078 (2020 est.)
-- `subscriptions per 100 inhabitants`: 16 (2020 est.)
+- `總計`: 71,078 (2020 est.)
+- `每100名居民訂閱數`: 16 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 1 (2020)
-- `inventory of registered aircraft operated by air carriers`: 10
-- `annual passenger traffic on registered air carriers`: 1,234,455 (2018)
-- `annual freight traffic on registered air carriers`: 129.35 million (2018) mt-km
+- `註冊航空公司數量`: 1 (2020)
+- `註冊飛機庫存—航空承運商經營`: 10
+- `年度客運量－註冊航空公司`: 1,234,455 (2018)
+- `年度貨運量－註冊航空公司`: 129.35 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 V8
@@ -591,25 +591,25 @@ V8
 33 km condensate, 86 km condensate/gas, 628 km gas, 492 km oil (2013)
 
 ### 道路
-- `total`: 2,976 km
-- `paved`: 2,559 km
-- `unpaved`: 417 km (2014)
+- `總計`: 2,976 km
+- `已鋪砌`: 2,559 km
+- `未鋪砌`: 417 km (2014)
 
 ### 水道
 209 km (2012) (navigable by craft drawing less than 1.2 m; the Belait, Brunei, and Tutong Rivers are major transport links)
 
 ### 商船
-- `total`: 97 (2023)
-- `by type`: general cargo 18, oil tanker 2, other 77
+- `總計`: 97 (2023)
+- `依類型`: general cargo 18, oil tanker 2, other 77
 
 ### 港口
-- `total ports`: 5 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 2
-- `very small`: 3
-- `ports with oil terminals`: 5
-- `key ports`: Bandar Seri Begawan, Kuala Belait, Lumut, Muara Harbor, Seria Oil Loading Terminal
+- `總港口數`: 5 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 2
+- `非常小`: 3
+- `原油碼頭港口`: 5
+- `主要港口`: Bandar Seri Begawan, Kuala Belait, Lumut, Muara Harbor, Seria Oil Loading Terminal
 
 ## 軍事和安全
 
@@ -640,10 +640,10 @@ the Royal Brunei Armed Forces were formed in 1961 with British support as the Br
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `stateless persons`: 20,863 (2022); note - thousands of stateless persons, often ethnic Chinese, are permanent residents and their families have lived in Brunei for generations; obtaining citizenship is difficult and requires individuals to pass rigorous tests on Malay culture, customs, and language; stateless residents receive an International Certificate of Identity, which enables them to travel overseas; the government is considering changing the law prohibiting non-Bruneians, including stateless permanent residents, from owning land
+- `無國籍人士`: 20,863 (2022); note - thousands of stateless persons, often ethnic Chinese, are permanent residents and their families have lived in Brunei for generations; obtaining citizenship is difficult and requires individuals to pass rigorous tests on Malay culture, customs, and language; stateless residents receive an International Certificate of Identity, which enables them to travel overseas; the government is considering changing the law prohibiting non-Bruneians, including stateless permanent residents, from owning land
 
 ### 人口販運
-- `tier rating`: Tier 3 — Brunei does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Brunei was downgraded to Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/brunei/
+- `會級評分`: Tier 3 — Brunei does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Brunei was downgraded to Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/brunei/
 
 ### 非法藥物
 drug trafficking and illegally importing controlled substances are serious offenses in Brunei and carry a mandatory death penalty

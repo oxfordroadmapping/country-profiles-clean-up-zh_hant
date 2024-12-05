@@ -19,16 +19,16 @@ Central Asia, west of China, south of Kyrgyzstan
 Asia
 
 ### 面積
-- `total `: 144,100 sq km
-- `land`: 141,510 sq km
-- `water`: 2,590 sq km
+- `總計`: 144,100 sq km
+- `土地`: 141,510 sq km
+- `水`: 2,590 sq km
 
 ### 面積—比較
 slightly smaller than Wisconsin
 
 ### 陸地邊界
-- `total`: 4,130 km
-- `border countries`: Afghanistan 1,357 km; China 477 km; Kyrgyzstan 984 km; Uzbekistan 1,312 km
+- `總計`: 4,130 km
+- `邊境國家`: Afghanistan 1,357 km; China 477 km; Kyrgyzstan 984 km; Uzbekistan 1,312 km
 
 ### 海岸線
 0 km (landlocked)
@@ -43,20 +43,20 @@ mid-latitude continental, hot summers, mild winters; semiarid to polar in Pamir 
 mountainous region dominated by the Alay Mountains in the north and the Pamirs in the southeast; western Fergana Valley in north, Kofirnihon and Vakhsh Valleys in southwest
 
 ### 海拔
-- `highest point`: Qullai Somoniyon 7,495 m
-- `lowest point`: Syr Darya (Sirdaryo) 300 m
-- `mean elevation`: 3,186 m
+- `最高點`: Qullai Somoniyon 7,495 m
+- `最低點`: Syr Darya (Sirdaryo) 300 m
+- `平均海拔`: 3,186 m
 
 ### 自然資源
 hydropower, some petroleum, uranium, mercury, brown coal, lead, zinc, antimony, tungsten, silver, gold
 
 ### 土地利用
-- `agricultural land`: 34.7% (2018 est.)
-- `agricultural land: arable land`: arable land: 6.1% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.9% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 27.7% (2018 est.)
-- `forest`: 2.9% (2018 est.)
-- `other`: 62.4% (2018 est.)
+- `農地`: 34.7% (2018 est.)
+- `農地：耕地`: arable land: 6.1% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.9% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 27.7% (2018 est.)
+- `森林`: 2.9% (2018 est.)
+- `其它`: 62.4% (2018 est.)
 
 ### 灌溉土地
 5,690 sq km (2020)
@@ -79,20 +79,20 @@ landlocked; highest point, Qullai Ismoili Somoni (formerly Communism Peak), was 
 ## 人民和社會
 
 ### 人口
-- `total`: 10,394,063
-- `male`: 5,221,818
-- `female`: 5,172,245 (2024 est.)
+- `總計`: 10,394,063
+- `男性`: 5,221,818
+- `女性`: 5,172,245 (2024 est.)
 
 ### 國籍
-- `noun`: Tajikistani(s)
-- `adjective`: Tajikistani
+- `名詞`: Tajikistani(s)
+- `形容詞`: Tajikistani
 
 ### 族裔群體
 Tajik 84.3% (includes Pamiri and Yagnobi), Uzbek 13.8%, other 2% (includes Kyrgyz, Russian, Turkmen, Tatar, Arab) (2014 est.)
 
 ### 語文
 Tajik (official) 84.4%, Uzbek 11.9%, Kyrgyz 0.8%, Russian 0.5%, other 2.4% (2010 est.)
-- `major-language sample(s)`: Китоби Фактҳои Ҷаҳонӣ, манбаи бебадали маълумоти асосӣ (Tajik)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: Китоби Фактҳои Ҷаҳонӣ, манбаи бебадали маълумоти асосӣ (Tajik)  The World Factbook, the indispensable source for basic information.
 **note**:  Russian widely used in government and business
 
 ### 宗教
@@ -102,20 +102,20 @@ Muslim 98% (Sunni 95%, Shia 3%) other 2% (2014 est.)
 Tajikistan has a youthful age structure with almost 50% of the population under the age of 25.  As a Soviet republic, Tajikistan had the highest fertility rate in the Soviet Union.  The total fertility rate – the average number of births per woman – was highest in the mid-1970s, when it reached 6.3.  In an effort to expand populations to meet economic goals, the Soviets provided resources that made large families affordable.  The fertility rate decreased to 5 by the time of independence in 1991 and continued to decline thereafter.  In 1996, the Tajik Government discontinued subsidies for large families and having several children became too expensive.  The loss of subsidies, the 5-year civil war that followed independence, and other factors caused fertility to continue to fall steadily, but it remains above replacement level at 2.5.  The availability of healthcare providers and family planning services is limited, contributing to couples having more children than they would like.  As of 2017, 21% of women were using contraceptives. Tajikistan’s ethnic make-up changed with the Soviet’s introduction of industrialization.  Large numbers of Russian and Ukrainian immigrants arrived in the mid-1920s. Some were forced to immigrate while others came voluntarily to work in the cotton industry and in Tajikistan’s Soviet Government.  The Russian and Ukrainian immigrants formed urban communities, while Tajiks and Uzbeks continued to live predominantly in rural areas.  In addition, thousands of Tatars and Germans were deported to Tajikistan, accused of Nazi complicity during WWII.  Tajikistan’s ethnic composition was later shaped by the post-independence civil war from 1992-1997 and the economic devastation that followed.  Most non-Tajik ethnic groups, including Uzbeks, Russians, Kyrgyz, and Ukrainians, fled to Russia and other former Soviet republics and many never returned, making the country overwhelming Tajik; approximately 80% of the population was Tajik by 2000.  Since the mid-1990s, labor has probably been Tajikistan’s main export.  Remittances accounted for 30% of GDP in 2018 and are Tajikistan’s largest source of external income.  Poverty, a lack of jobs, and higher wages abroad push Tajiks to emigrate.  Russia – particularly Moscow – is the main destination, while a smaller number of religious Muslims, usually of Uzbek ancestry, migrate to Uzbekistan.  The vast majority of labor migrants are unskilled or low-skilled young men who work primarily in construction but also agriculture, transportation, and retail.  Many Tajik families are dependent on the money they send home for necessities, such as food and clothing, as well as for education and weddings rather than investment.
 
 ### 年齡結構
-- `0-14 years`: 36.9% (male 1,953,472/female 1,877,192)
-- `15-64 years`: 59.3% (male 3,086,964/female 3,071,642)
-- `65 years and over`: 3.9% (2024 est.) (male 181,382/female 223,411)
+- `0-14歲`: 36.9% (male 1,953,472/female 1,877,192)
+- `15-64歲`: 59.3% (male 3,086,964/female 3,071,642)
+- `65歲及以上`: 3.9% (2024 est.) (male 181,382/female 223,411)
 
 ### 撫養比率
-- `total dependency ratio`: 65.9
-- `youth dependency ratio`: 60.4
-- `elderly dependency ratio`: 5.5
-- `potential support ratio`: 18.1 (2021 est.)
+- `總受扶養人比率`: 65.9
+- `少年撫養比率`: 60.4
+- `老人撫養比率`: 5.5
+- `潛在支持率`: 18.1 (2021 est.)
 
 ### 年齡中位數
-- `total`: 22.8 years (2024 est.)
-- `male`: 22.3 years
-- `female`: 23.2 years
+- `總計`: 22.8 years (2024 est.)
+- `男性`: 22.3 years
+- `女性`: 23.2 years
 
 ### 人口成長率
 1.92% (2024 est.)
@@ -133,18 +133,18 @@ Tajikistan has a youthful age structure with almost 50% of the population under 
 the country's population is concentrated at lower elevations, with perhaps as much as 90% of the people living in valleys; overall density increases from east to west
 
 ### 都市化
-- `urban population`: 28.2% of total population (2023)
-- `rate of urbanization`: 2.73% annual rate of change (2020-25 est.)
+- `城市人口`: 28.2% of total population (2023)
+- `城鎮化率`: 2.73% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 987,000 DUSHANBE (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.04 male(s)/female
-- `15-64 years`: 1 male(s)/female
-- `65 years and over`: 0.81 male(s)/female
-- `total population`: 1.01 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.04 male(s)/female
+- `15-64歲`: 1 male(s)/female
+- `65歲及以上`: 0.81 male(s)/female
+- `總人口數`: 1.01 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 23.2 years (2017 est.)
@@ -153,14 +153,14 @@ the country's population is concentrated at lower elevations, with perhaps as mu
 17 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 21.7 deaths/1,000 live births (2024 est.)
-- `male`: 24.3 deaths/1,000 live births
-- `female`: 18.9 deaths/1,000 live births
+- `總計`: 21.7 deaths/1,000 live births (2024 est.)
+- `男性`: 24.3 deaths/1,000 live births
+- `女性`: 18.9 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 71.9 years (2024 est.)
-- `male`: 70.1 years
-- `female`: 73.8 years
+- `總人口數`: 71.9 years (2024 est.)
+- `男性`: 70.1 years
+- `女性`: 73.8 years
 
 ### 總生育率
 3.56 children born/woman (2024 est.)
@@ -172,12 +172,12 @@ the country's population is concentrated at lower elevations, with perhaps as mu
 29.3% (2017)
 
 ### 飲用水來源
-- `improved: urban`: urban: 96.5% of population
-- `improved: rural`: rural: 79.9% of population
-- `improved: total`: total: 84.4% of population
-- `unimproved: urban`: urban: 3.5% of population
-- `unimproved: rural`: rural: 20.1% of population
-- `unimproved: total`: total: 15.6% of population (2020 est.)
+- `已改進－城市`: urban: 96.5% of population
+- `已改進－農村`: rural: 79.9% of population
+- `已改進－總計`: total: 84.4% of population
+- `未改進：都市`: urban: 3.5% of population
+- `未改進：鄉村`: rural: 20.1% of population
+- `未改善：總計`: total: 15.6% of population (2020 est.)
 
 ### 當前醫療支出
 8.2% of GDP (2020)
@@ -189,22 +189,22 @@ the country's population is concentrated at lower elevations, with perhaps as mu
 4.7 beds/1,000 population (2014)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 98.9% of population
-- `improved: rural`: rural: 99.6% of population
-- `improved: total`: total: 99.4% of population
-- `unimproved: urban`: urban: 1.1% of population
-- `unimproved: rural`: rural: 0.4% of population
-- `unimproved: total`: total: 0.6% of population (2020 est.)
+- `已改進－城市`: urban: 98.9% of population
+- `已改進－農村`: rural: 99.6% of population
+- `已改進－總計`: total: 99.4% of population
+- `未改進：都市`: urban: 1.1% of population
+- `未改進：鄉村`: rural: 0.4% of population
+- `未改善：總計`: total: 0.6% of population (2020 est.)
 
 ### 肥胖—成人流行率
 14.2% (2016)
 
 ### 人均酒精消費量
-- `total`: 0.85 liters of pure alcohol (2019 est.)
-- `beer`: 0.38 liters of pure alcohol (2019 est.)
-- `wine`: 0.01 liters of pure alcohol (2019 est.)
-- `spirits`: 0.45 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 0.85 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.38 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.01 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.45 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 5歲以下體重不足兒童
 7.6% (2017)
@@ -213,22 +213,22 @@ the country's population is concentrated at lower elevations, with perhaps as mu
 72% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 0.1%
-- `women married by age 18`: 8.7% (2017 est.)
+- `15歲前結婚的女性`: 0.1%
+- `18歲前結婚的女性`: 8.7% (2017 est.)
 
 ### 教育支出
 5.9% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 99.8%
-- `male`: 99.8%
-- `female`: 99.7% (2015)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 99.8%
+- `男性`: 99.8%
+- `女性`: 99.7% (2015)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 11 years
-- `male`: 12 years
-- `female`: 11 years (2013)
+- `總計`: 11 years
+- `男性`: 12 years
+- `女性`: 11 years (2013)
 
 ## 環境
 
@@ -236,23 +236,23 @@ the country's population is concentrated at lower elevations, with perhaps as mu
 areas of high air pollution from motor vehicles and industry; water pollution from agricultural runoff and disposal of untreated industrial waste and sewage; poor management of water resources; soil erosion; increasing levels of soil salinity
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 mid-latitude continental, hot summers, mild winters; semiarid to polar in Pamir Mountains
 
 ### 土地利用
-- `agricultural land`: 34.7% (2018 est.)
-- `agricultural land: arable land`: arable land: 6.1% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.9% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 27.7% (2018 est.)
-- `forest`: 2.9% (2018 est.)
-- `other`: 62.4% (2018 est.)
+- `農地`: 34.7% (2018 est.)
+- `農地：耕地`: arable land: 6.1% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.9% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 27.7% (2018 est.)
+- `森林`: 2.9% (2018 est.)
+- `其它`: 62.4% (2018 est.)
 
 ### 都市化
-- `urban population`: 28.2% of total population (2023)
-- `rate of urbanization`: 2.73% annual rate of change (2020-25 est.)
+- `城市人口`: 28.2% of total population (2023)
+- `城鎮化率`: 2.73% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 1.12% of GDP (2018 est.)
@@ -261,12 +261,12 @@ mid-latitude continental, hot summers, mild winters; semiarid to polar in Pamir 
 0.54% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 53.65 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 5.31 megatons (2016 est.)
-- `methane emissions`: 4.87 megatons (2020 est.)
+- `顆粒物排放量`: 53.65 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 5.31 megatons (2016 est.)
+- `甲烷排放量`: 4.87 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 1,787,400 tons (2013 est.)
+- `城市固體廢棄物－每年產生`: 1,787,400 tons (2013 est.)
 
 ### 主要河流（按公里長度）
 Syr Darya (shared with Kyrgyzstan [s], Uzbekistan, and Kazakhstan [m]) - 3,078 km; Amu Darya river source (shared with Turkmenistan, Afghanistan, and Uzbekistan [m]) - 2,620 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -275,9 +275,9 @@ Syr Darya (shared with Kyrgyzstan [s], Uzbekistan, and Kazakhstan [m]) - 3,078 k
 Internal *(endorheic basin) *drainage: Tarim Basin (1,152,448 sq km), *(Aral Sea Basin)* Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)
 
 ### 總取水量
-- `municipal`: 910 million cubic meters (2020 est.)
-- `industrial`: 1.61 billion cubic meters (2020 est.)
-- `agricultural`: 7.38 billion cubic meters (2020 est.)
+- `市級`: 910 million cubic meters (2020 est.)
+- `工業`: 1.61 billion cubic meters (2020 est.)
+- `農業`: 7.38 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 21.91 billion cubic meters (2020 est.)
@@ -285,21 +285,21 @@ Internal *(endorheic basin) *drainage: Tarim Basin (1,152,448 sq km), *(Aral Sea
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Tajikistan
-- `conventional short form`: Tajikistan
-- `local long form`: Jumhurii Tojikiston
-- `local short form`: Tojikiston
-- `former`: Tajik Soviet Socialist Republic
-- `etymology`: the Persian suffix "-stan" means "place of" or "country," so the word Tajikistan literally means "Land of the Tajik [people]"
+- `常用長名`: Republic of Tajikistan
+- `常用短名`: Tajikistan
+- `當地語長名`: Jumhurii Tojikiston
+- `當地語短名`: Tojikiston
+- `前任`: Tajik Soviet Socialist Republic
+- `语源学`: the Persian suffix "-stan" means "place of" or "country," so the word Tajikistan literally means "Land of the Tajik [people]"
 
 ### 政府類型
 presidential republic
 
 ### 首都
-- `name`: Dushanbe
-- `geographic coordinates`: 38 33 N, 68 46 E
-- `time difference`: UTC+5 (10 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: today's city was originally at the crossroads where a large bazaar occurred on Mondays, hence the name Dushanbe, which in Persian means Monday, i.e., the second day (*du*) after Saturday (*shambe*)
+- `名稱`: Dushanbe
+- `地理坐標`: 38 33 N, 68 46 E
+- `時差`: UTC+5 (10 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: today's city was originally at the crossroads where a large bazaar occurred on Mondays, hence the name Dushanbe, which in Persian means Monday, i.e., the second day (*du*) after Saturday (*shambe*)
 
 ### 行政區劃
 2 provinces (viloyatho, singular - viloyat), 1 autonomous province* (viloyati mukhtor), 1 capital region** (viloyati poytakht), and 1 area referred to as Districts Under Republic Administration***; Dushanbe**, Khatlon (Bokhtar), Kuhistoni Badakhshon [Gorno-Badakhshan]* (Khorugh), Nohiyahoi Tobei Jumhuri***, Sughd (Khujand)
@@ -315,37 +315,37 @@ Independence Day (or National Day), 9 September (1991)
 civil law system
 
 ### 憲法
-- `history`: several previous; latest adopted 6 November 1994
-- `amendments`: proposed by the president of the republic or by at least one third of the total membership of both houses of the Supreme Assembly; adoption of any amendment requires a referendum, which includes approval of the president or approval by at least two-thirds majority of the Assembly of Representatives; passage in a referendum requires participation of an absolute majority of eligible voters and an absolute majority of votes; constitutional articles, including Tajikistan’s form of government, its territory, and its democratic nature, cannot be amended; amended 1999, 2003, 2016
+- `歷史`: several previous; latest adopted 6 November 1994
+- `修正`: proposed by the president of the republic or by at least one third of the total membership of both houses of the Supreme Assembly; adoption of any amendment requires a referendum, which includes approval of the president or approval by at least two-thirds majority of the Assembly of Representatives; passage in a referendum requires participation of an absolute majority of eligible voters and an absolute majority of votes; constitutional articles, including Tajikistan’s form of government, its territory, and its democratic nature, cannot be amended; amended 1999, 2003, 2016
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Tajikistan
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 5 years or 3 years of continuous residence prior to application
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Tajikistan
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 5 years or 3 years of continuous residence prior to application
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Emomali RAHMON (since 6 November 1994; head of state and Supreme Assembly Chairman since 19 November 1992)
-- `head of government`: Prime Minister Qohir RASULZODA (since 23 November 2013)
-- `cabinet`: Council of Ministers appointed by the president, approved by the Supreme Assembly
-- `elections/appointments`: president directly elected by simple majority popular vote for a 7-year term (two-term limit); however, as the "Leader of the Nation" President RAHMON can run an unlimited number of times; election last held on 11 October 2020 (next to be held in 2027); prime minister appointed by the president
-- `election results`: *2020*: Emomali RAHMON reelected president; percent of vote - Emomali RAHMON (PDPT) 92.1%, Rustam LATIFZODA (APT) 3.1%, and other 4.8%  *2013:* Emomali RAHMOND reelected president; percent of vote - Emomali RAHMOND (PDPT) 84%, Ismoil TALBAKOV CPT) 5%, other 11%
+- `國家元首`: President Emomali RAHMON (since 6 November 1994; head of state and Supreme Assembly Chairman since 19 November 1992)
+- `政府首腦`: Prime Minister Qohir RASULZODA (since 23 November 2013)
+- `内閣`: Council of Ministers appointed by the president, approved by the Supreme Assembly
+- `選舉/任命`: president directly elected by simple majority popular vote for a 7-year term (two-term limit); however, as the "Leader of the Nation" President RAHMON can run an unlimited number of times; election last held on 11 October 2020 (next to be held in 2027); prime minister appointed by the president
+- `選舉結果`: *2020*: Emomali RAHMON reelected president; percent of vote - Emomali RAHMON (PDPT) 92.1%, Rustam LATIFZODA (APT) 3.1%, and other 4.8%  *2013:* Emomali RAHMOND reelected president; percent of vote - Emomali RAHMOND (PDPT) 84%, Ismoil TALBAKOV CPT) 5%, other 11%
 
 ### 立法部門
-- `description`: bicameral Supreme Assembly or Majlisi Oli consists of:National Assembly or Majlisi Milli (34 seats; 25 members indirectly elected by local representative assemblies or majlisi, 8 appointed by the president, and 1 reserved for each living former president; members serve 5-year terms)Assembly of Representatives or Majlisi Namoyandagon (63 seats; 41 members directly elected in single-seat constituencies by 2-round absolute majority vote and 22 directly elected in a single nationwide constituency by closed-list proportional representation vote; members serve 5-year terms)
-- `elections`: National Assembly - last held on 1 March 2020 (next to be held in 2025)Assembly of Representatives - last held on 1 March 2020 (next to be held in 2025)
-- `election results`: National Assembly - percent of vote by party - NA; seats by party - PDPT 47, APT 7, PERT 5, CPT 2, DPT1, SPT 1; composition - men 19, women 6, percentage women 24%  Assembly of Representatives - percent of vote by party - PDPT 50.4%, PERT 16.6%, APT 16.5%, SPT 5.2%, DPT 5.1%, CPT 3.1%, other 3.1%; seats by party - PDPT 47, APT 7, PERT 5, CPT 2, SPT 1, DPT 1; composition - men 48, women 15, percentage women 23.8%; total Supreme Assembly percentage women 27%
+- `描述`: bicameral Supreme Assembly or Majlisi Oli consists of:National Assembly or Majlisi Milli (34 seats; 25 members indirectly elected by local representative assemblies or majlisi, 8 appointed by the president, and 1 reserved for each living former president; members serve 5-year terms)Assembly of Representatives or Majlisi Namoyandagon (63 seats; 41 members directly elected in single-seat constituencies by 2-round absolute majority vote and 22 directly elected in a single nationwide constituency by closed-list proportional representation vote; members serve 5-year terms)
+- `選舉`: National Assembly - last held on 1 March 2020 (next to be held in 2025)Assembly of Representatives - last held on 1 March 2020 (next to be held in 2025)
+- `選舉結果`: National Assembly - percent of vote by party - NA; seats by party - PDPT 47, APT 7, PERT 5, CPT 2, DPT1, SPT 1; composition - men 19, women 6, percentage women 24%  Assembly of Representatives - percent of vote by party - PDPT 50.4%, PERT 16.6%, APT 16.5%, SPT 5.2%, DPT 5.1%, CPT 3.1%, other 3.1%; seats by party - PDPT 47, APT 7, PERT 5, CPT 2, SPT 1, DPT 1; composition - men 48, women 15, percentage women 23.8%; total Supreme Assembly percentage women 27%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court (consists of the chairman, deputy chairmen, and 34 judges organized into civil, family, criminal, administrative offense, and military chambers); Constitutional Court (consists of the court chairman, deputy chairman, and 5 judges); High Economic Court (consists of 16 judicial positions)
-- `judge selection and term of office`: Supreme Court, Constitutional Court, and High Economic Court judges nominated by the president and approved by the National Assembly; judges of all 3 courts appointed for 10-year renewable terms with no term limits, but the last appointment must occur before the age of 65
-- `subordinate courts`: regional and district courts; Dushanbe City Court; viloyat (province level) courts; Court of Gorno-Badakhshan Autonomous Region
+- `最高法院`: Supreme Court (consists of the chairman, deputy chairmen, and 34 judges organized into civil, family, criminal, administrative offense, and military chambers); Constitutional Court (consists of the court chairman, deputy chairman, and 5 judges); High Economic Court (consists of 16 judicial positions)
+- `法官遴選和任期`: Supreme Court, Constitutional Court, and High Economic Court judges nominated by the president and approved by the National Assembly; judges of all 3 courts appointed for 10-year renewable terms with no term limits, but the last appointment must occur before the age of 65
+- `下級法院`: regional and district courts; Dushanbe City Court; viloyat (province level) courts; Court of Gorno-Badakhshan Autonomous Region
 
 ### 政黨
 Agrarian Party of Tajikistan or APTCommunist Party of Tajikistan or CPTDemocratic Party of Tajikistan or DPTParty of Economic Reform of Tajikistan or PERTPeople's Democratic Party of Tajikistan or PDPTSocial Democratic Party of Tajikistan or SDPTSocialist Party of Tajikistan or SPT
@@ -354,19 +354,19 @@ Agrarian Party of Tajikistan or APTCommunist Party of Tajikistan or CPTDemocrati
 ADB, CICA, CIS, CSTO, EAEC, EAPC, EBRD, ECO, EITI (candidate country), FAO, G-77, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Farrukh HAMRALIZODA (since 17 February 2021)
-- `chancery`: 1005 New Hampshire Avenue NW, Washington, DC 20037
-- `telephone`: [1] (202) 223-6090
+- `外交代表負責人`: Ambassador Farrukh HAMRALIZODA (since 17 February 2021)
+- `衡平法院（在美國）`: 1005 New Hampshire Avenue NW, Washington, DC 20037
+- `電話號碼`: [1] (202) 223-6090
 - `FAX`: [1] (202) 223-6091
-- `email address and website`: tajemus@mfa.tj  https://mfa.tj/en/washington
+- `電子郵件地址和網站`: tajemus@mfa.tj  https://mfa.tj/en/washington
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Manuel P. MICALLER Jr. (since 9 March 2023)
-- `embassy`: 109-A Ismoili Somoni Avenue (Zarafshon district), Dushanbe 734019
-- `mailing address`: 7090 Dushanbe Place, Washington DC  20521-7090
-- `telephone`: [992] (37) 229-20-00
+- `外交代表負責人`: Ambassador Manuel P. MICALLER Jr. (since 9 March 2023)
+- `大使館`: 109-A Ismoili Somoni Avenue (Zarafshon district), Dushanbe 734019
+- `郵寄地址`: 7090 Dushanbe Place, Washington DC  20521-7090
+- `電話號碼`: [992] (37) 229-20-00
 - `FAX`: [992] (37) 229-20-50
-- `email address and website`: DushanbeConsular@state.gov  https://tj.usembassy.gov/
+- `電子郵件地址和網站`: DushanbeConsular@state.gov  https://tj.usembassy.gov/
 
 ### 旗幟說明
 three horizontal stripes of red (top), a wider stripe of white, and green; a gold crown surmounted by seven gold, five-pointed stars is located in the center of the white stripe; red represents the sun, victory, and the unity of the nation, white stands for purity, cotton, and mountain snows, while green is the color of Islam and the bounty of nature; the crown symbolizes the Tajik people; the seven stars signify the Tajik magic number "seven" - a symbol of perfection and the embodiment of happiness
@@ -375,8 +375,8 @@ three horizontal stripes of red (top), a wider stripe of white, and green; a gol
 crown surmounted by an arc of seven, five-pointed stars; snow leopard; national colors: red, white, green
 
 ### 國歌
-- `name`: "Surudi milli" (National Anthem)
-- `lyrics/music`: Gulnazar KELDI/Sulaimon YUDAKOV
+- `名稱`: "Surudi milli" (National Anthem)
+- `歌詞／音樂`: Gulnazar KELDI/Sulaimon YUDAKOV
 **note**:  adopted 1991; after the fall of the Soviet Union, Tajikistan kept the music of the anthem from its time as a Soviet republic but adopted new lyrics
 
 ### 國家級遺產
@@ -422,18 +422,18 @@ $12.061 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 22.9% (2022 est.)
-- `industry`: 34.7% (2022 est.)
-- `services`: 34.1% (2022 est.)
+- `農業`: 22.9% (2022 est.)
+- `產業`: 34.7% (2022 est.)
+- `服務`: 34.1% (2022 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 87.6% (2022 est.)
-- `government consumption`: 10.1% (2022 est.)
-- `investment in fixed capital`: 31.7% (2022 est.)
-- `investment in inventories`: 3.8% (2022 est.)
-- `exports of goods and services`: 16.4% (2022 est.)
-- `imports of goods and services`: -49.1% (2022 est.)
+- `家庭消費`: 87.6% (2022 est.)
+- `政府消費`: 10.1% (2022 est.)
+- `固定資本投資`: 31.7% (2022 est.)
+- `存貨投資`: 3.8% (2022 est.)
+- `商品和服務出口`: 16.4% (2022 est.)
+- `商品和服務進口`: -49.1% (2022 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -458,9 +458,9 @@ aluminum, cement, coal, gold, silver, antimony, textile, vegetable oil
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 16.9% (2023 est.)
-- `male`: 19.5% (2023 est.)
-- `female`: 13.2% (2023 est.)
+- `總計`: 16.9% (2023 est.)
+- `男性`: 19.5% (2023 est.)
+- `女性`: 13.2% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -472,8 +472,8 @@ aluminum, cement, coal, gold, silver, antimony, textile, vegetable oil
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 3% (2015 est.)
-- `highest 10%`: 26.4% (2015 est.)
+- `最低10%`: 3% (2015 est.)
+- `最高10%`: 26.4% (2015 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -483,8 +483,8 @@ aluminum, cement, coal, gold, silver, antimony, textile, vegetable oil
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $2.268 billion (2022 est.)
-- `expenditures`: $1.145 billion (2022 est.)
+- `收入`: $2.268 billion (2022 est.)
+- `支出`: $1.145 billion (2022 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -545,44 +545,44 @@ $2.238 billion (2020 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
-- `electrification - urban areas`: 99%
-- `electrification - rural areas`: 100%
+- `電氣化－總人口`: 100% (2022 est.)
+- `電氣化－城市地區`: 99%
+- `電氣化－農村地區`: 100%
 
 ### 電力
-- `installed generating capacity`: 5.993 million kW (2022 est.)
-- `consumption`: 14.32 billion kWh (2022 est.)
-- `exports`: 3.051 billion kWh (2022 est.)
-- `imports`: 883 million kWh (2022 est.)
-- `transmission/distribution losses`: 4.399 billion kWh (2022 est.)
+- `裝機容量`: 5.993 million kW (2022 est.)
+- `消費`: 14.32 billion kWh (2022 est.)
+- `出口`: 3.051 billion kWh (2022 est.)
+- `進口`: 883 million kWh (2022 est.)
+- `傳輸／分配損耗`: 4.399 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 10.7% of total installed capacity (2022 est.)
-- `hydroelectricity`: 89.3% of total installed capacity (2022 est.)
+- `石化燃料`: 10.7% of total installed capacity (2022 est.)
+- `水力發電`: 89.3% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `production`: 2.175 million metric tons (2022 est.)
-- `consumption`: 2.245 million metric tons (2022 est.)
-- `exports`: 2,000 metric tons (2022 est.)
-- `imports`: 105,000 metric tons (2022 est.)
-- `proven reserves`: 4.075 billion metric tons (2022 est.)
+- `生產`: 2.175 million metric tons (2022 est.)
+- `消費`: 2.245 million metric tons (2022 est.)
+- `出口`: 2,000 metric tons (2022 est.)
+- `進口`: 105,000 metric tons (2022 est.)
+- `探明儲量`: 4.075 billion metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 300 bbl/day (2023 est.)
-- `refined petroleum consumption`: 28,000 bbl/day (2022 est.)
-- `crude oil estimated reserves`: 12 million barrels (2021 est.)
+- `總石油產量`: 300 bbl/day (2023 est.)
+- `成品油消費量`: 28,000 bbl/day (2022 est.)
+- `原油儲備量估值`: 12 million barrels (2021 est.)
 
 ### 天然氣
-- `production`: 18.476 million cubic meters (2022 est.)
-- `consumption`: 85.567 million cubic meters (2022 est.)
-- `imports`: 65.997 million cubic meters (2022 est.)
-- `proven reserves`: 5.663 billion cubic meters (2021 est.)
+- `生產`: 18.476 million cubic meters (2022 est.)
+- `消費`: 85.567 million cubic meters (2022 est.)
+- `進口`: 65.997 million cubic meters (2022 est.)
+- `探明儲量`: 5.663 billion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 8.324 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 4.982 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 3.174 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 168,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 8.324 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 4.982 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 3.174 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 168,000 metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 16.255 million Btu/person (2022 est.)
@@ -590,17 +590,17 @@ $2.238 billion (2020 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 502,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 5 (2021 est.)
+- `總訂閱數`: 502,000 (2021 est.)
+- `每100名居民訂閱數`: 5 (2021 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 11.584 million (2021 est.)
-- `subscriptions per 100 inhabitants`: 119 (2021 est.)
+- `總訂閱數`: 11.584 million (2021 est.)
+- `每100名居民訂閱數`: 119 (2021 est.)
 
 ### 電信系統
-- `general assessment`: the size of Tajikistan’s mobile market dwarfs the fixed line segment, with an estimated penetration rate of nearly 120%; with a number of private sector companies active in the mobile market, there been more commitment to investment in network upgrades and expansion; three MNOs have all launched commercial 5G services, initially in areas of the capital city Dushanbe; the move towards higher speed mobile services should further underpin the growth in the nascent mobile broadband market, which is still estimated to be at a relatively low penetration level of 42% (at least relative to most other Asian nations) but is predicted to be a strong compound annual growth rate of more than 8% for at least the next five years; the ICT ecosystem is a complex mix of foreign operators from the People's Republic of China, the Russian Federation, state-owned enterprises, and telecom systems established by donors and non-governmental organizations (2024)
-- `domestic`: fixed-line over 5 per 100 and mobile-cellular over 119 per 100 (2022)
-- `international`: country code - 992; linked by cable and microwave radio relay to other CIS republics and by leased connections to the Moscow international gateway switch; Dushanbe linked by Intelsat to international gateway switch in Ankara (Turkey); 3 satellite earth stations - 2 Intelsat and 1 Orbita
+- `總體評估`: the size of Tajikistan’s mobile market dwarfs the fixed line segment, with an estimated penetration rate of nearly 120%; with a number of private sector companies active in the mobile market, there been more commitment to investment in network upgrades and expansion; three MNOs have all launched commercial 5G services, initially in areas of the capital city Dushanbe; the move towards higher speed mobile services should further underpin the growth in the nascent mobile broadband market, which is still estimated to be at a relatively low penetration level of 42% (at least relative to most other Asian nations) but is predicted to be a strong compound annual growth rate of more than 8% for at least the next five years; the ICT ecosystem is a complex mix of foreign operators from the People's Republic of China, the Russian Federation, state-owned enterprises, and telecom systems established by donors and non-governmental organizations (2024)
+- `國內`: fixed-line over 5 per 100 and mobile-cellular over 119 per 100 (2022)
+- `國際的`: country code - 992; linked by cable and microwave radio relay to other CIS republics and by leased connections to the Moscow international gateway switch; Dushanbe linked by Intelsat to international gateway switch in Ankara (Turkey); 3 satellite earth stations - 2 Intelsat and 1 Orbita
 
 ### 廣播媒體
 state-run TV broadcasters transmit nationally on 9 TV and 10 radio stations, and regionally on 4 stations; 31 independent TV and 20 radio stations broadcast locally and regionally; many households are able to receive Russian and other foreign stations via cable and satellite (2016)
@@ -609,20 +609,20 @@ state-run TV broadcasters transmit nationally on 9 TV and 10 radio stations, and
 .tj
 
 ### 網際網路使用者
-- `total`: 3,009,054 (2022 est.)
-- `percent of population`: 30.4% (2022 est.)
+- `總計`: 3,009,054 (2022 est.)
+- `佔人口比例`: 30.4% (2022 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 6,000 (2020 est.)
-- `subscriptions per 100 inhabitants`: 0.1 (2020 est.)
+- `總計`: 6,000 (2020 est.)
+- `每100名居民訂閱數`: 0.1 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 2 (2020)
-- `inventory of registered aircraft operated by air carriers`: 6
-- `annual passenger traffic on registered air carriers`: 492,320 (2018)
-- `annual freight traffic on registered air carriers`: 2.34 million (2018) mt-km
+- `註冊航空公司數量`: 2 (2020)
+- `註冊飛機庫存—航空承運商經營`: 6
+- `年度客運量－註冊航空公司`: 492,320 (2018)
+- `年度貨運量－註冊航空公司`: 2.34 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 EY
@@ -634,11 +634,11 @@ EY
 549 km gas, 38 km oil (2013)
 
 ### 鐵路
-- `total`: 680 km (2014)
-- `broad gauge`: 680 km (2014) 1.520-m gauge
+- `總計`: 680 km (2014)
+- `寬軌`: 680 km (2014) 1.520-m gauge
 
 ### 道路
-- `total`: 30,000 km (2018)
+- `總計`: 30,000 km (2018)
 
 ### 水道
 200 km (2011) (along Vakhsh River)
@@ -678,11 +678,11 @@ Islamic State of Iraq and ash-Sham (ISIS)
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 6,775 (Afghanistan) (mid-year 2021)
-- `stateless persons`: 4,898 (2022)
+- `難民（原籍國）`: 6,775 (Afghanistan) (mid-year 2021)
+- `無國籍人士`: 4,898 (2022)
 
 ### 人口販運
-- `tier rating`: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Tajikistan was downgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2024-trafficking-in-persons-report/tajikistan/
+- `會級評分`: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Tajikistan was downgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2024-trafficking-in-persons-report/tajikistan/
 
 ### 非法藥物
 Tajikistan is a primary transit country along the “Northern Route” for Afghanistan-sourced opiates and cannabis for the Russian and Eastern European markets and beyond; minimal domestic recreational drug use though it is increasing

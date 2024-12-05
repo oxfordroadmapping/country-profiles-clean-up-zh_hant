@@ -19,25 +19,25 @@ Northern Europe, bordering the North Sea and the North Atlantic Ocean, west of S
 Europe
 
 ### 面積
-- `total `: 323,802 sq km
-- `land`: 304,282 sq km
-- `water`: 19,520 sq km
+- `總計`: 323,802 sq km
+- `土地`: 304,282 sq km
+- `水`: 19,520 sq km
 
 ### 面積—比較
 slightly larger than twice the size of Georgia; slightly larger than New Mexico
 
 ### 陸地邊界
-- `total`: 2,566 km
-- `border countries`: Finland 709 km; Sweden 1,666 km; Russia 191 km
+- `總計`: 2,566 km
+- `邊境國家`: Finland 709 km; Sweden 1,666 km; Russia 191 km
 
 ### 海岸線
 25,148 km (includes mainland 2,650 km, as well as long fjords, numerous small islands, and minor indentations 22,498 km; length of island coastlines 58,133 km)
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 10 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: 200 nm
+- `領海`: 12 nm
+- `毗連區`: 10 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: 200 nm
 
 ### 氣候
 temperate along coast, modified by North Atlantic Current; colder interior with increased precipitation and colder summers; rainy year-round on west coast
@@ -46,20 +46,20 @@ temperate along coast, modified by North Atlantic Current; colder interior with 
 glaciated; mostly high plateaus and rugged mountains broken by fertile valleys; small, scattered plains; coastline deeply indented by fjords; arctic tundra in north
 
 ### 海拔
-- `highest point`: Galdhopiggen 2,469 m
-- `lowest point`: Norwegian Sea 0 m
-- `mean elevation`: 460 m
+- `最高點`: Galdhopiggen 2,469 m
+- `最低點`: Norwegian Sea 0 m
+- `平均海拔`: 460 m
 
 ### 自然資源
 petroleum, natural gas, iron ore, copper, lead, zinc, titanium, pyrites, nickel, fish, timber, hydropower
 
 ### 土地利用
-- `agricultural land`: 2.7% (2018 est.)
-- `agricultural land: arable land`: arable land: 2.2% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0.5% (2018 est.)
-- `forest`: 27.8% (2018 est.)
-- `other`: 69.5% (2018 est.)
+- `農地`: 2.7% (2018 est.)
+- `農地：耕地`: arable land: 2.2% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0.5% (2018 est.)
+- `森林`: 27.8% (2018 est.)
+- `其它`: 69.5% (2018 est.)
 
 ### 灌溉土地
 337 sq km (2016)
@@ -76,20 +76,20 @@ about two-thirds mountains; some 50,000 islands off its much-indented coastline;
 ## 人民和社會
 
 ### 人口
-- `total`: 5,509,733
-- `male`: 2,780,972
-- `female`: 2,728,761 (2024 est.)
+- `總計`: 5,509,733
+- `男性`: 2,780,972
+- `女性`: 2,728,761 (2024 est.)
 
 ### 國籍
-- `noun`: Norwegian(s)
-- `adjective`: Norwegian
+- `名詞`: Norwegian(s)
+- `形容詞`: Norwegian
 
 ### 族裔群體
 Norwegian 81.5% (includes about 60,000 Sami), other European 8.9%, other 9.6% (2021 est.)
 
 ### 語文
 Bokmal Norwegian (official), Nynorsk Norwegian (official), small Sami- and Finnish-speaking minorities
-- `major-language sample(s)`: Verdens Faktabok, den essensielle kilden for grunnleggende informasjon. (Norwegian)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: Verdens Faktabok, den essensielle kilden for grunnleggende informasjon. (Norwegian)  The World Factbook, the indispensable source for basic information.
 **note**:  Sami has three dialects (Lule, North Sami, and South Sami) and is an official language in nine municipalities in the northernmost counties of Finnmark, Nordland, and Troms
 
 ### 宗教
@@ -99,21 +99,21 @@ Church of Norway (Evangelical Lutheran - official) 67.5%, Muslim 3.1%, Roman Cat
 Norway is a trendsetter country in gender equality, especially in workforce participation.  Of particular value to families are the child and parental leave benefits.  This supplement is a monthly allowance paid to families from a month after birth until the child reaches 18 to defray some of the costs of raising children.  This is helpful to families with young children where the mother works limited hours.  The parental leave benefit is available to qualified mothers in a child’s first year, enabling parents to share at-home childcare for up to 49 weeks at full salary (or 59 weeks with 80% of their salary).  Afterward, parents can put their child in high-quality subsidized daycare or receive funding toward private child care or as compensation for one parent staying home to care for their child. Norway was originally a country of emigration with almost 850,000 Norwegians going abroad between 1825 and 1945.  At the turn of the 20th century, most Norwegians emigrated temporarily to work in the US.  Immigrants to Norway in the 1960s were mostly from neighboring Nordic countries, with whom they shared a common labor market.  By the end of the 1960s, with a strong economy and population shortage, Norway admitted guest workers from Pakistan, Morocco, then Yugoslavia, and Turkey.  The labor migrants were expected to be temporary, but many settled in Norway.  Eventually, Norway imposed immigration restrictions and the majority of migrants came in as refugees or for family reunification.  Beginning in the 1990s, Norway’s migration policy aimed at achieving integration – including language instruction and integration into the job market – as well as combatting racism and xenophobia.
 
 ### 年齡結構
-- `0-14 years`: 16.3% (male 461,979/female 438,243)
-- `15-64 years`: 64.5% (male 1,820,692/female 1,734,818)
-- `65 years and over`: 19.1% (2024 est.) (male 498,301/female 555,700)
+- `0-14歲`: 16.3% (male 461,979/female 438,243)
+- `15-64歲`: 64.5% (male 1,820,692/female 1,734,818)
+- `65歲及以上`: 19.1% (2024 est.) (male 498,301/female 555,700)
 
 ### 撫養比率
-- `total dependency ratio`: 54
-- `youth dependency ratio`: 26.1
-- `elderly dependency ratio`: 27.9
-- `potential support ratio`: 3.6 (2021 est.)
+- `總受扶養人比率`: 54
+- `少年撫養比率`: 26.1
+- `老人撫養比率`: 27.9
+- `潛在支持率`: 3.6 (2021 est.)
 **note**:  data include Svalbard and Jan Mayen Islands
 
 ### 年齡中位數
-- `total`: 40.8 years (2024 est.)
-- `male`: 40.1 years
-- `female`: 41.5 years
+- `總計`: 40.8 years (2024 est.)
+- `男性`: 40.1 years
+- `女性`: 41.5 years
 
 ### 人口成長率
 0.59% (2024 est.)
@@ -131,19 +131,19 @@ Norway is a trendsetter country in gender equality, especially in workforce part
 most Norwegians live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the North Sea coast in the southwest, and Skaggerak in the southeast; the interior areas of the north remain sparsely populated
 
 ### 都市化
-- `urban population`: 84% of total population (2023)
-- `rate of urbanization`: 1.32% annual rate of change (2020-25 est.)
+- `城市人口`: 84% of total population (2023)
+- `城鎮化率`: 1.32% annual rate of change (2020-25 est.)
 **note**:  data include Svalbard and Jan Mayen Islands
 
 ### 主要城市地區—人口
 1.086 million OSLO (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.05 male(s)/female
-- `15-64 years`: 1.05 male(s)/female
-- `65 years and over`: 0.9 male(s)/female
-- `total population`: 1.02 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.05 male(s)/female
+- `15-64歲`: 1.05 male(s)/female
+- `65歲及以上`: 0.9 male(s)/female
+- `總人口數`: 1.02 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 29.8 years (2020 est.)
@@ -153,14 +153,14 @@ most Norwegians live in the south where the climate is milder and there is bette
 2 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 1.8 deaths/1,000 live births (2024 est.)
-- `male`: 2.1 deaths/1,000 live births
-- `female`: 1.5 deaths/1,000 live births
+- `總計`: 1.8 deaths/1,000 live births (2024 est.)
+- `男性`: 2.1 deaths/1,000 live births
+- `女性`: 1.5 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 82.9 years (2024 est.)
-- `male`: 81.3 years
-- `female`: 84.6 years
+- `總人口數`: 82.9 years (2024 est.)
+- `男性`: 81.3 years
+- `女性`: 84.6 years
 
 ### 總生育率
 1.57 children born/woman (2024 est.)
@@ -172,12 +172,12 @@ most Norwegians live in the south where the climate is milder and there is bette
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 當前醫療支出
 11.4% of GDP (2020)
@@ -189,27 +189,27 @@ NA
 3.5 beds/1,000 population (2018)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 肥胖—成人流行率
 23.1% (2016)
 
 ### 人均酒精消費量
-- `total`: 6.05 liters of pure alcohol (2019 est.)
-- `beer`: 2.63 liters of pure alcohol (2019 est.)
-- `wine`: 2.23 liters of pure alcohol (2019 est.)
-- `spirits`: 1 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.19 liters of pure alcohol (2019 est.)
+- `總計`: 6.05 liters of pure alcohol (2019 est.)
+- `啤酒`: 2.63 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 2.23 liters of pure alcohol (2019 est.)
+- `烈酒`: 1 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.19 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 16.2% (2020 est.)
-- `male`: 17% (2020 est.)
-- `female`: 15.4% (2020 est.)
+- `總計`: 16.2% (2020 est.)
+- `男性`: 17% (2020 est.)
+- `女性`: 15.4% (2020 est.)
 
 ### 5歲以下體重不足兒童
 NA
@@ -221,14 +221,14 @@ NA
 5.9% of GDP (2020 est.)
 
 ### 識字程度
-- `total population`: NA
-- `male`: NA
-- `female`: NA
+- `總人口數`: NA
+- `男性`: NA
+- `女性`: NA
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 18 years
-- `male`: 18 years
-- `female`: 19 years (2020)
+- `總計`: 18 years
+- `男性`: 18 years
+- `女性`: 19 years (2020)
 
 ## 環境
 
@@ -236,23 +236,23 @@ NA
 water pollution; acid rain damaging forests and adversely affecting lakes, threatening fish stocks; air pollution from vehicle emissions
 
 ### 環境—國際協定
-- `party to`: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 temperate along coast, modified by North Atlantic Current; colder interior with increased precipitation and colder summers; rainy year-round on west coast
 
 ### 土地利用
-- `agricultural land`: 2.7% (2018 est.)
-- `agricultural land: arable land`: arable land: 2.2% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0.5% (2018 est.)
-- `forest`: 27.8% (2018 est.)
-- `other`: 69.5% (2018 est.)
+- `農地`: 2.7% (2018 est.)
+- `農地：耕地`: arable land: 2.2% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0.5% (2018 est.)
+- `森林`: 27.8% (2018 est.)
+- `其它`: 69.5% (2018 est.)
 
 ### 都市化
-- `urban population`: 84% of total population (2023)
-- `rate of urbanization`: 1.32% annual rate of change (2020-25 est.)
+- `城市人口`: 84% of total population (2023)
+- `城鎮化率`: 1.32% annual rate of change (2020-25 est.)
 **note**:  data include Svalbard and Jan Mayen Islands
 
 ### 森林資源收入
@@ -262,45 +262,45 @@ temperate along coast, modified by North Atlantic Current; colder interior with 
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 6.3 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 41.02 megatons (2016 est.)
-- `methane emissions`: 4.81 megatons (2020 est.)
+- `顆粒物排放量`: 6.3 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 41.02 megatons (2016 est.)
+- `甲烷排放量`: 4.81 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 2.187 million tons (2015 est.)
-- `municipal solid waste recycled annually`: 572,119 tons (2015 est.)
-- `percent of municipal solid waste recycled`: 26.2% (2015 est.)
+- `城市固體廢棄物－每年產生`: 2.187 million tons (2015 est.)
+- `城市固體廢棄物－每年回收`: 572,119 tons (2015 est.)
+- `城市固體廢棄物－回收百分比`: 26.2% (2015 est.)
 
 ### 總取水量
-- `municipal`: 780 million cubic meters (2020 est.)
-- `industrial`: 1.07 billion cubic meters (2020 est.)
-- `agricultural`: 840 million cubic meters (2020 est.)
+- `市級`: 780 million cubic meters (2020 est.)
+- `工業`: 1.07 billion cubic meters (2020 est.)
+- `農業`: 840 million cubic meters (2020 est.)
 
 ### 可再生水資源總量
 393 billion cubic meters (2020 est.)
 
 ### 地質公園
-- `total global geoparks and regional networks`: 4
-- `global geoparks and regional networks`: Gea Norvegica; Magma; Sunnhordland; Trollfjell (2023)
+- `全球地質公園和區域網絡總數`: 4
+- `全球地質公園和區域網絡`: Gea Norvegica; Magma; Sunnhordland; Trollfjell (2023)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Kingdom of Norway
-- `conventional short form`: Norway
-- `local long form`: Kongeriket Norge
-- `local short form`: Norge
-- `etymology`: derives from the Old Norse words "nordr" and "vegr" meaning "northern way" and refers to the long coastline of western Norway
+- `常用長名`: Kingdom of Norway
+- `常用短名`: Norway
+- `當地語長名`: Kongeriket Norge
+- `當地語短名`: Norge
+- `语源学`: derives from the Old Norse words "nordr" and "vegr" meaning "northern way" and refers to the long coastline of western Norway
 
 ### 政府類型
 parliamentary constitutional monarchy
 
 ### 首都
-- `name`: Oslo
-- `geographic coordinates`: 59 55 N, 10 45 E
-- `time difference`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
-- `daylight saving time`: +1hr, begins last Sunday in March; ends last Sunday in October
-- `etymology`: the medieval name was spelt "Aslo"; the *as* component refered either to the Ekeberg ridge southeast of the town ("as" in modern Norwegian), or to the Aesir (Norse gods); *lo* refered to "meadow," so the most likely interpretations would have been either "the meadow beneath the ridge" or "the meadow of the gods"; both explanations are considered equally plausible
+- `名稱`: Oslo
+- `地理坐標`: 59 55 N, 10 45 E
+- `時差`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+- `日光節約時間`: +1hr, begins last Sunday in March; ends last Sunday in October
+- `语源学`: the medieval name was spelt "Aslo"; the *as* component refered either to the Ekeberg ridge southeast of the town ("as" in modern Norwegian), or to the Aesir (Norse gods); *lo* refered to "meadow," so the most likely interpretations would have been either "the meadow beneath the ridge" or "the meadow of the gods"; both explanations are considered equally plausible
 
 ### 行政區劃
 12 counties (fylker, singular - fylke); Agder, Innlandet, More og Romsdal, Nordland, Oslo, Rogaland, Romsdal, Troms og Finnmark, Trondelag, Vestfold og Telemark, Vestland, Viken (2024)
@@ -318,36 +318,36 @@ Constitution Day, 17 May (1814)
 mixed legal system of civil, common, and customary law; Supreme Court can advise on legislative acts
 
 ### 憲法
-- `history`: drafted spring 1814, adopted 16 May 1814, signed by Constituent Assembly 17 May 1814
-- `amendments`: proposals submitted by members of Parliament or by the government within the first three years of Parliament's four-year term; passage requires two-thirds majority vote of a two-thirds quorum in the next elected Parliament; amended over 400 times, last in 2023
+- `歷史`: drafted spring 1814, adopted 16 May 1814, signed by Constituent Assembly 17 May 1814
+- `修正`: proposals submitted by members of Parliament or by the government within the first three years of Parliament's four-year term; passage requires two-thirds majority vote of a two-thirds quorum in the next elected Parliament; amended over 400 times, last in 2023
 
 ### 國際法組織參與
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Norway
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 7 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Norway
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 7 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: King HARALD V (since 17 January 1991)
-- `head of government`: Prime Minister Jonas Gahr STORE (since 14 October 2021)
-- `cabinet`: Council of State appointed by the monarch, approved by Parliament
-- `elections/appointments`: the monarchy is hereditary; following parliamentary elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch with the approval of the parliament
+- `國家元首`: King HARALD V (since 17 January 1991)
+- `政府首腦`: Prime Minister Jonas Gahr STORE (since 14 October 2021)
+- `内閣`: Council of State appointed by the monarch, approved by Parliament
+- `選舉/任命`: the monarchy is hereditary; following parliamentary elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch with the approval of the parliament
 
 ### 立法部門
-- `description`: unicameral Parliament or Storting (169 seats; members directly elected in multi-seat constituencies by list proportional representation vote; members serve 4-year terms)
-- `elections`: last held on 13 September 2021 (next to be held by September 2025)
-- `election results`: percent of vote by party - Ap 26.3%, H 20.5%, SP 13.6%, FrP 11.7%, SV 7.6%, R 4.7%, V 4.6%, MDG 3.9%, KrF 3.8%, PF 0.2%, other 3.1%; seats by party - Ap 48, H 36, SP 28, FrP 21, SV 13, R 8, V 8, , KrF 3, MDG 3, PF 1; composition - men 94, women 75, percentage women 44.4%
+- `描述`: unicameral Parliament or Storting (169 seats; members directly elected in multi-seat constituencies by list proportional representation vote; members serve 4-year terms)
+- `選舉`: last held on 13 September 2021 (next to be held by September 2025)
+- `選舉結果`: percent of vote by party - Ap 26.3%, H 20.5%, SP 13.6%, FrP 11.7%, SV 7.6%, R 4.7%, V 4.6%, MDG 3.9%, KrF 3.8%, PF 0.2%, other 3.1%; seats by party - Ap 48, H 36, SP 28, FrP 21, SV 13, R 8, V 8, , KrF 3, MDG 3, PF 1; composition - men 94, women 75, percentage women 44.4%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court or Hoyesterett (consists of the chief justice and 18 associate justices)
-- `judge selection and term of office`: justices appointed by the monarch (King in Council) upon the recommendation of the Judicial Appointments Board; justices can serve until mandatory retirement at age 70
-- `subordinate courts`: Courts of Appeal or Lagmennsrett; regional and district courts; Conciliation Boards; ordinary and special courts; note - in addition to professionally trained judges, elected lay judges sit on the bench with professional judges in the Courts of Appeal and district courts
+- `最高法院`: Supreme Court or Hoyesterett (consists of the chief justice and 18 associate justices)
+- `法官遴選和任期`: justices appointed by the monarch (King in Council) upon the recommendation of the Judicial Appointments Board; justices can serve until mandatory retirement at age 70
+- `下級法院`: Courts of Appeal or Lagmennsrett; regional and district courts; Conciliation Boards; ordinary and special courts; note - in addition to professionally trained judges, elected lay judges sit on the bench with professional judges in the Courts of Appeal and district courts
 
 ### 政黨
 Center Party or Sp Christian Democratic Party or KrF Conservative Party or H Green Party or MDG Labor Party or Ap Liberal Party or VPatient Focus or PF Progress Party or FrP Red Party or R Socialist Left Party or SV 
@@ -356,20 +356,20 @@ Center Party or Sp Christian Democratic Party or KrF Conservative Party or H 
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNOOSA, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Anniken Scharning HUITFELDT (since 18 September 2024)
-- `chancery`: 2720 34th Street NW, Washington, DC 20008
-- `telephone`: [1] (202) 333-6000
+- `外交代表負責人`: Ambassador Anniken Scharning HUITFELDT (since 18 September 2024)
+- `衡平法院（在美國）`: 2720 34th Street NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 333-6000
 - `FAX`: [1] (202) 469-3990
-- `email address and website`: emb.washington@mfa.no  https://www.norway.no/en/usa/
-- `consulate(s) general`: New York, San Francisco
+- `電子郵件地址和網站`: emb.washington@mfa.no  https://www.norway.no/en/usa/
+- `總領事館`: New York, San Francisco
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador (vacant); Chargé d'Affaires Sharon HUDSON-DEAN (since February 2024)
-- `embassy`: Morgedalsvegen 36, 0378 Oslo
-- `mailing address`: 5460 Oslo Place, Washington DC  20521-5460
-- `telephone`: [47] 21-30-85-40
+- `外交代表負責人`: Ambassador (vacant); Chargé d'Affaires Sharon HUDSON-DEAN (since February 2024)
+- `大使館`: Morgedalsvegen 36, 0378 Oslo
+- `郵寄地址`: 5460 Oslo Place, Washington DC  20521-5460
+- `電話號碼`: [47] 21-30-85-40
 - `FAX`: [47] 22-56-27-51
-- `email address and website`: OsloACS@state.gov  https://no.usembassy.gov/
+- `電子郵件地址和網站`: OsloACS@state.gov  https://no.usembassy.gov/
 
 ### 旗幟說明
 red with a blue cross outlined in white that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors recall Norway's past political unions with Denmark (red and white) and Sweden (blue)
@@ -378,8 +378,8 @@ red with a blue cross outlined in white that extends to the edges of the flag; t
 lion; national colors: red, white, blue
 
 ### 國歌
-- `name`: "Ja, vi elsker dette landet" (Yes, We Love This Country)
-- `lyrics/music`: lyrics/music: Bjornstjerne BJORNSON/Rikard NORDRAAK
+- `名稱`: "Ja, vi elsker dette landet" (Yes, We Love This Country)
+- `歌詞／音樂`: lyrics/music: Bjornstjerne BJORNSON/Rikard NORDRAAK
 **note**:  adopted 1864; in addition to the national anthem, "Kongesangen" (Song of the King), which uses the tune of "God Save the King," serves as the royal anthem
 
 ### 國家級遺產
@@ -426,18 +426,18 @@ $485.513 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 2.1% (2023 est.)
-- `industry`: 39% (2023 est.)
-- `services`: 50% (2023 est.)
+- `農業`: 2.1% (2023 est.)
+- `產業`: 39% (2023 est.)
+- `服務`: 50% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 37.5% (2023 est.)
-- `government consumption`: 21.9% (2023 est.)
-- `investment in fixed capital`: 23.4% (2023 est.)
-- `investment in inventories`: 2.4% (2023 est.)
-- `exports of goods and services`: 47.2% (2023 est.)
-- `imports of goods and services`: -32.5% (2023 est.)
+- `家庭消費`: 37.5% (2023 est.)
+- `政府消費`: 21.9% (2023 est.)
+- `固定資本投資`: 23.4% (2023 est.)
+- `存貨投資`: 2.4% (2023 est.)
+- `商品和服務出口`: 47.2% (2023 est.)
+- `商品和服務進口`: -32.5% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -462,9 +462,9 @@ petroleum and gas, shipping, fishing, aquaculture, food processing, shipbuilding
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 11% (2023 est.)
-- `male`: 11.3% (2023 est.)
-- `female`: 10.6% (2023 est.)
+- `總計`: 11% (2023 est.)
+- `男性`: 11.3% (2023 est.)
+- `女性`: 10.6% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -476,12 +476,12 @@ petroleum and gas, shipping, fishing, aquaculture, food processing, shipbuilding
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 平均家庭支出
-- `on food`: 12.4% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 4% of household expenditures (2022 est.)
+- `餐食`: 12.4% of household expenditures (2022 est.)
+- `酒精和煙草`: 4% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 3.4% (2019 est.)
-- `highest 10%`: 22.4% (2019 est.)
+- `最低10%`: 3.4% (2019 est.)
+- `最高10%`: 22.4% (2019 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -491,8 +491,8 @@ petroleum and gas, shipping, fishing, aquaculture, food processing, shipbuilding
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $334.543 billion (2022 est.)
-- `expenditures`: $174.546 billion (2022 est.)
+- `收入`: $334.543 billion (2022 est.)
+- `支出`: $174.546 billion (2022 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -554,46 +554,46 @@ $84.271 billion (2021 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 40.54 million kW (2022 est.)
-- `consumption`: 121.899 billion kWh (2022 est.)
-- `exports`: 25.792 billion kWh (2022 est.)
-- `imports`: 13.259 billion kWh (2022 est.)
-- `transmission/distribution losses`: 8.951 billion kWh (2022 est.)
+- `裝機容量`: 40.54 million kW (2022 est.)
+- `消費`: 121.899 billion kWh (2022 est.)
+- `出口`: 25.792 billion kWh (2022 est.)
+- `進口`: 13.259 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 8.951 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 0.5% of total installed capacity (2022 est.)
-- `solar`: 0.1% of total installed capacity (2022 est.)
-- `wind`: 10.3% of total installed capacity (2022 est.)
-- `hydroelectricity`: 88.7% of total installed capacity (2022 est.)
-- `biomass and waste`: 0.3% of total installed capacity (2022 est.)
+- `石化燃料`: 0.5% of total installed capacity (2022 est.)
+- `太陽能`: 0.1% of total installed capacity (2022 est.)
+- `風能`: 10.3% of total installed capacity (2022 est.)
+- `水力發電`: 88.7% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 0.3% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `production`: 117,000 metric tons (2022 est.)
-- `consumption`: 1.201 million metric tons (2022 est.)
-- `exports`: 84,000 metric tons (2022 est.)
-- `imports`: 1.204 million metric tons (2022 est.)
-- `proven reserves`: 2 million metric tons (2022 est.)
+- `生產`: 117,000 metric tons (2022 est.)
+- `消費`: 1.201 million metric tons (2022 est.)
+- `出口`: 84,000 metric tons (2022 est.)
+- `進口`: 1.204 million metric tons (2022 est.)
+- `探明儲量`: 2 million metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 2.02 million bbl/day (2023 est.)
-- `refined petroleum consumption`: 229,000 bbl/day (2023 est.)
-- `crude oil estimated reserves`: 8.122 billion barrels (2021 est.)
+- `總石油產量`: 2.02 million bbl/day (2023 est.)
+- `成品油消費量`: 229,000 bbl/day (2023 est.)
+- `原油儲備量估值`: 8.122 billion barrels (2021 est.)
 
 ### 天然氣
-- `production`: 123.727 billion cubic meters (2022 est.)
-- `consumption`: 4.548 billion cubic meters (2022 est.)
-- `exports`: 121.285 billion cubic meters (2022 est.)
-- `imports`: 67.96 million cubic meters (2022 est.)
-- `proven reserves`: 1.544 trillion cubic meters (2021 est.)
+- `生產`: 123.727 billion cubic meters (2022 est.)
+- `消費`: 4.548 billion cubic meters (2022 est.)
+- `出口`: 121.285 billion cubic meters (2022 est.)
+- `進口`: 67.96 million cubic meters (2022 est.)
+- `探明儲量`: 1.544 trillion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 38.928 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 3.231 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 26.72 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 8.977 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 38.928 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 3.231 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 26.72 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 8.977 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 201.034 million Btu/person (2022 est.)
@@ -601,17 +601,17 @@ $84.271 billion (2021 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 140,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 3 (2022 est.)
+- `總訂閱數`: 140,000 (2022 est.)
+- `每100名居民訂閱數`: 3 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 6.015 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 111 (2022 est.)
+- `總訂閱數`: 6.015 million (2022 est.)
+- `每100名居民訂閱數`: 111 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Norway has a sophisticated telecom market with high broadband and mobile penetration rates and a highly developed digital media sector. Although not a member of the European Union, the country’s telecoms sector is synchronized with relevant EC legislation; Norway enjoys near comprehensive LTE coverage with upgrades to 5G technologies in the future (2023)
-- `domestic`: fixed-line is 7 per 100 and mobile-cellular nearly 110 per 100 (2021)
-- `international`: country code - 47; landing points for the Svalbard Undersea Cable System, Polar Circle Cable, Bodo-Rost Cable, NOR5KE Viking, Celtic Norse, Tempnet Offshore FOC Network, England Cable, Denmark-Norwary6, Havfrue/AEC-2, Skagerrak 4, and the Skagenfiber West & East submarine cables providing links to other Nordic countries, Europe and the US; satellite earth stations - Eutelsat, Intelsat (Atlantic Ocean), and 1 Inmarsat (Atlantic and Indian Ocean regions); note - Norway shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Iceland, and Sweden) (2019)
+- `總體評估`: Norway has a sophisticated telecom market with high broadband and mobile penetration rates and a highly developed digital media sector. Although not a member of the European Union, the country’s telecoms sector is synchronized with relevant EC legislation; Norway enjoys near comprehensive LTE coverage with upgrades to 5G technologies in the future (2023)
+- `國內`: fixed-line is 7 per 100 and mobile-cellular nearly 110 per 100 (2021)
+- `國際的`: country code - 47; landing points for the Svalbard Undersea Cable System, Polar Circle Cable, Bodo-Rost Cable, NOR5KE Viking, Celtic Norse, Tempnet Offshore FOC Network, England Cable, Denmark-Norwary6, Havfrue/AEC-2, Skagerrak 4, and the Skagenfiber West & East submarine cables providing links to other Nordic countries, Europe and the US; satellite earth stations - Eutelsat, Intelsat (Atlantic Ocean), and 1 Inmarsat (Atlantic and Indian Ocean regions); note - Norway shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Iceland, and Sweden) (2019)
 
 ### 廣播媒體
 state-owned public radio-TV broadcaster operates 3 nationwide TV stations, 3 nationwide radio stations, and 16 regional radio stations; roughly a dozen privately owned TV stations broadcast nationally and roughly another 25 local TV stations broadcasting; nearly 75% of households have access to multi-channel cable or satellite TV; 2 privately owned radio stations broadcast nationwide and another 240 stations operate locally; Norway is the first country in the world to phase out FM radio in favor of Digital Audio Broadcasting (DAB), a process scheduled for completion in late 2017 (2019)
@@ -620,18 +620,18 @@ state-owned public radio-TV broadcaster operates 3 nationwide TV stations, 3 nat
 .no
 
 ### 網際網路使用者
-- `total`: 5.346 million (2021 est.)
-- `percent of population`: 99% (2021 est.)
+- `總計`: 5.346 million (2021 est.)
+- `佔人口比例`: 99% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 2,387,661 (2020 est.)
-- `subscriptions per 100 inhabitants`: 44 (2020 est.)
+- `總計`: 2,387,661 (2020 est.)
+- `每100名居民訂閱數`: 44 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 8 (2020)
-- `inventory of registered aircraft operated by air carriers`: 125
+- `註冊航空公司數量`: 8 (2020)
+- `註冊飛機庫存—航空承運商經營`: 125
 
 ### 註冊民用航空器國家代碼前綴
 LN
@@ -646,27 +646,27 @@ LN
 8,520 km gas, 1,304 km oil/condensate (2017)
 
 ### 鐵路
-- `total`: 3,848 km (2020) 2,482 km electrified
+- `總計`: 3,848 km (2020) 2,482 km electrified
 
 ### 道路
-- `total`: 95,120 km (2022)
+- `總計`: 95,120 km (2022)
 
 ### 水道
 1,577 km (2010)
 
 ### 商船
-- `total`: 1,720 (2022)
-- `by type`: bulk carrier 109, container ship 1, general cargo 274, oil tanker 95, other 1,241
+- `總計`: 1,720 (2022)
+- `依類型`: bulk carrier 109, container ship 1, general cargo 274, oil tanker 95, other 1,241
 
 ### 港口
-- `total ports`: 141 (2024)
-- `large`: 1
-- `medium`: 10
-- `small`: 34
-- `very small`: 90
-- `size unknown`: 6
-- `ports with oil terminals`: 54
-- `key ports`: Bergen, Drammen, Hammerfest, Harstad, Horten, Karsto, Mongstad, Oslo, Stavanger, Tromso, Trondheim
+- `總港口數`: 141 (2024)
+- `大`: 1
+- `中`: 10
+- `小`: 34
+- `非常小`: 90
+- `未知大小`: 6
+- `原油碼頭港口`: 54
+- `主要港口`: Bergen, Drammen, Hammerfest, Harstad, Horten, Karsto, Mongstad, Oslo, Stavanger, Tromso, Trondheim
 
 ## 軍事和安全
 
@@ -713,6 +713,6 @@ has a broad and active space program coordinated with the European Space Agency 
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 70,085 (Ukraine) (as of 8 March 2024)
-- `stateless persons`: 3,901 (2022)
+- `難民（原籍國）`: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 70,085 (Ukraine) (as of 8 March 2024)
+- `無國籍人士`: 3,901 (2022)
 

@@ -19,25 +19,25 @@ Eastern Asia, southern half of the Korean Peninsula bordering the Sea of Japan a
 Asia
 
 ### 面積
-- `total `: 99,720 sq km
-- `land`: 96,920 sq km
-- `water`: 2,800 sq km
+- `總計`: 99,720 sq km
+- `土地`: 96,920 sq km
+- `水`: 2,800 sq km
 
 ### 面積—比較
 slightly smaller than Pennsylvania; slightly larger than Indiana
 
 ### 陸地邊界
-- `total`: 237 km
-- `border countries`: North Korea 237 km
+- `總計`: 237 km
+- `邊境國家`: North Korea 237 km
 
 ### 海岸線
 2,413 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm; between 3 nm and 12 nm in the Korea Strait
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: not specified
+- `領海`: 12 nm; between 3 nm and 12 nm in the Korea Strait
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: not specified
 
 ### 氣候
 temperate, with rainfall heavier in summer than winter; cold winters
@@ -46,20 +46,20 @@ temperate, with rainfall heavier in summer than winter; cold winters
 mostly hills and mountains; wide coastal plains in west and south
 
 ### 海拔
-- `highest point`: Halla-san 1,950 m
-- `lowest point`: Sea of Japan 0 m
-- `mean elevation`: 282 m
+- `最高點`: Halla-san 1,950 m
+- `最低點`: Sea of Japan 0 m
+- `平均海拔`: 282 m
 
 ### 自然資源
 coal, tungsten, graphite, molybdenum, lead, hydropower potential
 
 ### 土地利用
-- `agricultural land`: 18.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 15.3% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 2.2% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0.6% (2018 est.)
-- `forest`: 63.9% (2018 est.)
-- `other`: 18% (2018 est.)
+- `農地`: 18.1% (2018 est.)
+- `農地：耕地`: arable land: 15.3% (2018 est.)
+- `農地：永久性作物`: permanent crops: 2.2% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0.6% (2018 est.)
+- `森林`: 63.9% (2018 est.)
+- `其它`: 18% (2018 est.)
 
 ### 灌溉土地
 7,780 sq km (2012)
@@ -76,40 +76,40 @@ strategic location on Korea Strait; about 3,000 mostly small and uninhabited isl
 ## 人民和社會
 
 ### 人口
-- `total`: 52,081,799
-- `male`: 26,119,111
-- `female`: 25,962,688 (2024 est.)
+- `總計`: 52,081,799
+- `男性`: 26,119,111
+- `女性`: 25,962,688 (2024 est.)
 
 ### 國籍
-- `noun`: Korean(s)
-- `adjective`: Korean
+- `名詞`: Korean(s)
+- `形容詞`: Korean
 
 ### 族裔群體
 homogeneous
 
 ### 語文
 Korean, English 
-- `major-language sample(s)`: 월드 팩트북, 필수적인 기본 정보 제공처 (Korean)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: 월드 팩트북, 필수적인 기본 정보 제공처 (Korean)  The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Protestant 17%, Buddhist 16%, Catholic 6%, none 60% (2021 est.)
 **note**:  many people also carry on at least some Confucian traditions and practices
 
 ### 年齡結構
-- `0-14 years`: 11.3% (male 3,024,508/female 2,873,523)
-- `15-64 years`: 69.4% (male 18,653,915/female 17,465,817)
-- `65 years and over`: 19.3% (2024 est.) (male 4,440,688/female 5,623,348)
+- `0-14歲`: 11.3% (male 3,024,508/female 2,873,523)
+- `15-64歲`: 69.4% (male 18,653,915/female 17,465,817)
+- `65歲及以上`: 19.3% (2024 est.) (male 4,440,688/female 5,623,348)
 
 ### 撫養比率
-- `total dependency ratio`: 39.9
-- `youth dependency ratio`: 16.6
-- `elderly dependency ratio`: 23.3
-- `potential support ratio`: 4.3 (2021 est.)
+- `總受扶養人比率`: 39.9
+- `少年撫養比率`: 16.6
+- `老人撫養比率`: 23.3
+- `潛在支持率`: 4.3 (2021 est.)
 
 ### 年齡中位數
-- `total`: 45.5 years (2024 est.)
-- `male`: 44 years
-- `female`: 47.3 years
+- `總計`: 45.5 years (2024 est.)
+- `男性`: 44 years
+- `女性`: 47.3 years
 
 ### 人口成長率
 0.21% (2024 est.)
@@ -127,18 +127,18 @@ Protestant 17%, Buddhist 16%, Catholic 6%, none 60% (2021 est.)
 with approximately 70% of the country considered mountainous, the country's population is primarily concentrated in the lowland areas, where density is quite high; Gyeonggi Province in the northwest, which surrounds the capital of Seoul and contains the port of Incheon, is the most densely populated province; Gangwon in the northeast is the least populated
 
 ### 都市化
-- `urban population`: 81.5% of total population (2023)
-- `rate of urbanization`: 0.31% annual rate of change (2020-25 est.)
+- `城市人口`: 81.5% of total population (2023)
+- `城鎮化率`: 0.31% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 9.988 million SEOUL (capital), 3.472 million Busan, 2.849 million Incheon, 2.181 million Daegu (Taegu), 1.577 million Daejon (Taejon), 1.529 million Gwangju (Kwangju) (2023)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.05 male(s)/female
-- `15-64 years`: 1.07 male(s)/female
-- `65 years and over`: 0.79 male(s)/female
-- `total population`: 1.01 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.05 male(s)/female
+- `15-64歲`: 1.07 male(s)/female
+- `65歲及以上`: 0.79 male(s)/female
+- `總人口數`: 1.01 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 32.2 years (2019 est.)
@@ -147,14 +147,14 @@ with approximately 70% of the country considered mountainous, the country's popu
 8 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 2.8 deaths/1,000 live births (2024 est.)
-- `male`: 3 deaths/1,000 live births
-- `female`: 2.6 deaths/1,000 live births
+- `總計`: 2.8 deaths/1,000 live births (2024 est.)
+- `男性`: 3 deaths/1,000 live births
+- `女性`: 2.6 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 83.4 years (2024 est.)
-- `male`: 80.3 years
-- `female`: 86.6 years
+- `總人口數`: 83.4 years (2024 est.)
+- `男性`: 80.3 years
+- `女性`: 86.6 years
 
 ### 總生育率
 1.12 children born/woman (2024 est.)
@@ -167,12 +167,12 @@ with approximately 70% of the country considered mountainous, the country's popu
 **note**:  percent of women aged 20-49
 
 ### 飲用水來源
-- `improved: urban`: urban: NA
-- `improved: rural`: rural: NA
-- `improved: total`: total: 99.9% of population
-- `unimproved: urban`: urban: NA
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: 0.1% of population (2020 est.)
+- `已改進－城市`: urban: NA
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: 99.9% of population
+- `未改進：都市`: urban: NA
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: 0.1% of population (2020 est.)
 
 ### 當前醫療支出
 8.4% of GDP (2020)
@@ -184,27 +184,27 @@ with approximately 70% of the country considered mountainous, the country's popu
 12.4 beds/1,000 population (2018)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: NA
-- `improved: rural`: rural: NA
-- `improved: total`: total: 99.9% of population
-- `unimproved: urban`: urban: NA
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: 0.1% of population (2020 est.)
+- `已改進－城市`: urban: NA
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: 99.9% of population
+- `未改進：都市`: urban: NA
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: 0.1% of population (2020 est.)
 
 ### 肥胖—成人流行率
 4.7% (2016)
 
 ### 人均酒精消費量
-- `total`: 7.74 liters of pure alcohol (2019 est.)
-- `beer`: 1.72 liters of pure alcohol (2019 est.)
-- `wine`: 0.15 liters of pure alcohol (2019 est.)
-- `spirits`: 0.22 liters of pure alcohol (2019 est.)
-- `other alcohols`: 5.66 liters of pure alcohol (2019 est.)
+- `總計`: 7.74 liters of pure alcohol (2019 est.)
+- `啤酒`: 1.72 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.15 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.22 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 5.66 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 20.8% (2020 est.)
-- `male`: 35.7% (2020 est.)
-- `female`: 5.9% (2020 est.)
+- `總計`: 20.8% (2020 est.)
+- `男性`: 35.7% (2020 est.)
+- `女性`: 5.9% (2020 est.)
 
 ### 5歲以下體重不足兒童
 0.9% (2019/21) NA
@@ -216,14 +216,14 @@ with approximately 70% of the country considered mountainous, the country's popu
 4.7% of GDP (2019 est.)
 
 ### 識字程度
-- `total population`: 98.8% NA
-- `male`: 99.2% NA
-- `female`: 98.4% NA
+- `總人口數`: 98.8% NA
+- `男性`: 99.2% NA
+- `女性`: 98.4% NA
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 17 years
-- `male`: 17 years
-- `female`: 16 years (2020)
+- `總計`: 17 years
+- `男性`: 17 years
+- `女性`: 16 years (2020)
 
 ## 環境
 
@@ -231,23 +231,23 @@ with approximately 70% of the country considered mountainous, the country's popu
 air pollution in large cities; acid rain; water pollution from the discharge of sewage and industrial effluents; drift net fishing; solid waste disposal; transboundary air pollution from China
 
 ### 環境—國際協定
-- `party to`: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 temperate, with rainfall heavier in summer than winter; cold winters
 
 ### 土地利用
-- `agricultural land`: 18.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 15.3% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 2.2% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0.6% (2018 est.)
-- `forest`: 63.9% (2018 est.)
-- `other`: 18% (2018 est.)
+- `農地`: 18.1% (2018 est.)
+- `農地：耕地`: arable land: 15.3% (2018 est.)
+- `農地：永久性作物`: permanent crops: 2.2% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0.6% (2018 est.)
+- `森林`: 63.9% (2018 est.)
+- `其它`: 18% (2018 est.)
 
 ### 都市化
-- `urban population`: 81.5% of total population (2023)
-- `rate of urbanization`: 0.31% annual rate of change (2020-25 est.)
+- `城市人口`: 81.5% of total population (2023)
+- `城鎮化率`: 0.31% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.01% of GDP (2018 est.)
@@ -256,45 +256,45 @@ temperate, with rainfall heavier in summer than winter; cold winters
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 24.04 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 620.3 megatons (2016 est.)
-- `methane emissions`: 30.28 megatons (2020 est.)
+- `顆粒物排放量`: 24.04 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 620.3 megatons (2016 est.)
+- `甲烷排放量`: 30.28 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 18,218,975 tons (2014 est.)
-- `municipal solid waste recycled annually`: 10,567,006 tons (2014 est.)
-- `percent of municipal solid waste recycled`: 58% (2014 est.)
+- `城市固體廢棄物－每年產生`: 18,218,975 tons (2014 est.)
+- `城市固體廢棄物－每年回收`: 10,567,006 tons (2014 est.)
+- `城市固體廢棄物－回收百分比`: 58% (2014 est.)
 
 ### 總取水量
-- `municipal`: 6.672 billion cubic meters (2020 est.)
-- `industrial`: 4.45 billion cubic meters (2020 est.)
-- `agricultural`: 15.96 billion cubic meters (2020 est.)
+- `市級`: 6.672 billion cubic meters (2020 est.)
+- `工業`: 4.45 billion cubic meters (2020 est.)
+- `農業`: 15.96 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 69.7 billion cubic meters (2020 est.)
 
 ### 地質公園
-- `total global geoparks and regional networks`: 5
-- `global geoparks and regional networks`: Cheongsong; Hantangang; Jeju Island; Jeonbuk West Coast; Mudeungsan (2023)
+- `全球地質公園和區域網絡總數`: 5
+- `全球地質公園和區域網絡`: Cheongsong; Hantangang; Jeju Island; Jeonbuk West Coast; Mudeungsan (2023)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Korea
-- `conventional short form`: South Korea
-- `local long form`: Taehan-min'guk
-- `local short form`: Han'guk
-- `abbreviation`: ROK
-- `etymology`: derived from the Chinese name for Goryeo, which was the Korean dynasty that united the peninsula in the 10th century A.D.; the South Korean name "Han'guk" derives from the long form, "Taehan-min'guk," which is itself a derivation from "Daehan-je'guk," which means "the Great Empire of the Han"; "Han" refers to the "Sam'han" or the "Three Han Kingdoms" (Goguryeo, Baekje, and Silla from the Three Kingdoms Era, 1st-7th centuries A.D.)
+- `常用長名`: Republic of Korea
+- `常用短名`: South Korea
+- `當地語長名`: Taehan-min'guk
+- `當地語短名`: Han'guk
+- `縮寫`: ROK
+- `语源学`: derived from the Chinese name for Goryeo, which was the Korean dynasty that united the peninsula in the 10th century A.D.; the South Korean name "Han'guk" derives from the long form, "Taehan-min'guk," which is itself a derivation from "Daehan-je'guk," which means "the Great Empire of the Han"; "Han" refers to the "Sam'han" or the "Three Han Kingdoms" (Goguryeo, Baekje, and Silla from the Three Kingdoms Era, 1st-7th centuries A.D.)
 
 ### 政府類型
 presidential republic
 
 ### 首都
-- `name`: Seoul; note - Sejong, located some 120 km (75 mi) south of Seoul, serves as an administrative capital for segments of the South Korean Government
-- `geographic coordinates`: 37 33 N, 126 59 E
-- `time difference`: UTC+9 (14 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: the name originates from the Korean word meaning "capital city" and which is believed to be derived from Seorabeol, the name of the capital of the ancient Korean Kingdom of Silla
+- `名稱`: Seoul; note - Sejong, located some 120 km (75 mi) south of Seoul, serves as an administrative capital for segments of the South Korean Government
+- `地理坐標`: 37 33 N, 126 59 E
+- `時差`: UTC+9 (14 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: the name originates from the Korean word meaning "capital city" and which is believed to be derived from Seorabeol, the name of the capital of the ancient Korean Kingdom of Silla
 
 ### 行政區劃
 9 provinces (do, singular and plural), 6 metropolitan cities (gwangyeoksi, singular and plural), 1 special city (teugbyeolsi), and 1 special self-governing city (teukbyeoljachisi) **provinces**:  Chungcheongbuk-do (North Chungcheong), Chungcheongnam-do (South Chungcheong), Gangwon-do, Gyeongsangbuk-do (North Gyeongsang), Gyeonggi-do, Gyeongsangnam-do (South Gyeongsang), Jeju-do (Jeju), Jeollabuk-do (North Jeolla), Jeollanam-do (South Jeolla) **metropolitan cities**:  Busan (Pusan), Daegu (Taegu), Daejeon (Taejon), Gwangju (Kwangju), Incheon (Inch'on), Ulsan **special city**:  Seoul **special self-governing city**:  Sejong
@@ -309,38 +309,38 @@ Liberation Day, 15 August (1945)
 mixed legal system combining European civil law, Anglo-American law, and Chinese classical thought
 
 ### 憲法
-- `history`: several previous; latest passed by National Assembly 12 October 1987, approved in referendum 28 October 1987, effective 25 February 1988
-- `amendments`: proposed by the president or by majority support of the National Assembly membership; passage requires at least two-thirds majority vote by the Assembly membership, approval in a referendum by more than one half of the votes by more than one half of eligible voters, and promulgation by the president; amended several times, last in 1987
+- `歷史`: several previous; latest passed by National Assembly 12 October 1987, approved in referendum 28 October 1987, effective 25 February 1988
+- `修正`: proposed by the president or by majority support of the National Assembly membership; passage requires at least two-thirds majority vote by the Assembly membership, approval in a referendum by more than one half of the votes by more than one half of eligible voters, and promulgation by the president; amended several times, last in 1987
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of South Korea
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 5 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of South Korea
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 5 years
 
 ### 選舉權
 18 years of age; universal; note - the voting age was lowered from 19 to 18 beginning with the 2020 national election
 
 ### 行政部門
-- `chief of state`: President YOON Suk Yeol (since 10 May 2022)
-- `head of government`: President YOON Suk Yeol (since 10 May 2022)
-- `cabinet`: State Council appointed by the president on the prime minister's recommendation
-- `elections/appointments`: president directly elected by simple majority popular vote for a single 5-year term; election last held on 9 March 2022 (next to be held in March 2027); prime minister appointed by president with consent of the National Assembly
-- `election results`: *2022*: YOON Suk-yeol elected president; YOON Suk-yeol (PPP) 48.6%, LEE Jae-myung (DP) 47.8%; other 3.6%  *2017*: MOON Jae-in elected president; MOON Jae-in (DP) 41.1%, HONG Joon-pyo (Liberty Korea Party) 24%, AHN Cheol-soo (PP) 21.4%, YOO Seung-min (Bareun Party) 6.8%, SIM Sang-jung (Justice Party) 6.2%
+- `國家元首`: President YOON Suk Yeol (since 10 May 2022)
+- `政府首腦`: President YOON Suk Yeol (since 10 May 2022)
+- `内閣`: State Council appointed by the president on the prime minister's recommendation
+- `選舉/任命`: president directly elected by simple majority popular vote for a single 5-year term; election last held on 9 March 2022 (next to be held in March 2027); prime minister appointed by president with consent of the National Assembly
+- `選舉結果`: *2022*: YOON Suk-yeol elected president; YOON Suk-yeol (PPP) 48.6%, LEE Jae-myung (DP) 47.8%; other 3.6%  *2017*: MOON Jae-in elected president; MOON Jae-in (DP) 41.1%, HONG Joon-pyo (Liberty Korea Party) 24%, AHN Cheol-soo (PP) 21.4%, YOO Seung-min (Bareun Party) 6.8%, SIM Sang-jung (Justice Party) 6.2%
 **note**: the president is both chief of state and head of government; Prime Minister HAN Duck-soo (since 21 May 2022) serves as the principal executive assistant to the president, similar to the role of a vice president
 
 ### 立法部門
-- `description`: unicameral National Assembly or Gukhoe (300 seats; 253 members directly elected in single-seat constituencies by simple majority vote and 47 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms)
-- `elections`: last held on 10 April 2024 (next to be held in April 2028)
-- `election results`: percent of vote by party/coalition (constituency) - Democratic Alliance 52.3%, PPP 45.7%, others 2%; percent of vote by party/coalition (proportional) - PPP 36.7%, Democratic Alliance 26.7%, Rebuilding Korea Party 24.3%, New Reform Party 3.6%, New Future Party 1.7%, others 7%; seats by party - Democratic Alliance 176 (DPK 169), PPP 108, Rebuilding Korea Party 12, New Reform Party 3, New Future Party 1; composition - men 240, women 60, percentage women 20%
+- `描述`: unicameral National Assembly or Gukhoe (300 seats; 253 members directly elected in single-seat constituencies by simple majority vote and 47 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms)
+- `選舉`: last held on 10 April 2024 (next to be held in April 2028)
+- `選舉結果`: percent of vote by party/coalition (constituency) - Democratic Alliance 52.3%, PPP 45.7%, others 2%; percent of vote by party/coalition (proportional) - PPP 36.7%, Democratic Alliance 26.7%, Rebuilding Korea Party 24.3%, New Reform Party 3.6%, New Future Party 1.7%, others 7%; seats by party - Democratic Alliance 176 (DPK 169), PPP 108, Rebuilding Korea Party 12, New Reform Party 3, New Future Party 1; composition - men 240, women 60, percentage women 20%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court (consists of a chief justice and 13 justices); Constitutional Court (consists of a court head and 8 justices)
-- `judge selection and term of office`: Supreme Court chief justice appointed by the president with the consent of the National Assembly; other justices appointed by the president upon the recommendation of the chief justice and consent of the National Assembly; position of the chief justice is a 6-year nonrenewable term; other justices serve 6-year renewable terms; Constitutional Court justices appointed - 3 by the president, 3 by the National Assembly, and 3 by the Supreme Court chief justice; court head serves until retirement at age 70, while other justices serve 6-year renewable terms with mandatory retirement at age 65
-- `subordinate courts`: High Courts; District Courts; Branch Courts (organized under the District Courts); specialized courts for family and administrative issues
+- `最高法院`: Supreme Court (consists of a chief justice and 13 justices); Constitutional Court (consists of a court head and 8 justices)
+- `法官遴選和任期`: Supreme Court chief justice appointed by the president with the consent of the National Assembly; other justices appointed by the president upon the recommendation of the chief justice and consent of the National Assembly; position of the chief justice is a 6-year nonrenewable term; other justices serve 6-year renewable terms; Constitutional Court justices appointed - 3 by the president, 3 by the National Assembly, and 3 by the Supreme Court chief justice; court head serves until retirement at age 70, while other justices serve 6-year renewable terms with mandatory retirement at age 65
+- `下級法院`: High Courts; District Courts; Branch Courts (organized under the District Courts); specialized courts for family and administrative issues
 
 ### 政黨
 Basic Income Party Democratic Party of Korea or DPK New Future PartyNew Reform Party Open Democratic Party or ODP People Power Party or PPP Progressive Party or Jinbo Party Rebuilding Korea Party Social Democratic Party   **note**:   the Democratic Alliance Coalition consists of the DPK and the smaller Basic Income, Jinbo, Open Democratic, and Social Democratic parties, as well as two independents; for the 2024 election, the Basic Income Party, the ODP, and the Social Democratic Party formed the New Progressive Alliance
@@ -349,21 +349,21 @@ Basic Income Party Democratic Party of Korea or DPK New Future PartyNew Reform
 ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CABEI, CD, CICA, CP, EAS, EBRD, FAO, FATF, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MINUSTAH, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club (associate), PCA, PIF (partner), SAARC (observer), SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNMOGIP, UNOCI, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador CHO Hyundong (since 19 April 2023)
-- `chancery`: 2450 Massachusetts Avenue NW, Washington, DC 20008
-- `telephone`: [1] (202) 939-5600
+- `外交代表負責人`: Ambassador CHO Hyundong (since 19 April 2023)
+- `衡平法院（在美國）`: 2450 Massachusetts Avenue NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 939-5600
 - `FAX`: [1] (202) 797-0595
-- `email address and website`: generalusa@mofa.go.kr  https://overseas.mofa.go.kr/us-en/index.do
-- `consulate(s) general`: Anchorage (AK), Atlanta, Boston, Chicago, Dallas, Hagatna (Guam), Honolulu, Houston, Los Angeles, New York, San Francisco, Seattle, Philadelphia
+- `電子郵件地址和網站`: generalusa@mofa.go.kr  https://overseas.mofa.go.kr/us-en/index.do
+- `總領事館`: Anchorage (AK), Atlanta, Boston, Chicago, Dallas, Hagatna (Guam), Honolulu, Houston, Los Angeles, New York, San Francisco, Seattle, Philadelphia
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Philip S. GOLDBERG (since 29 July 2022)
-- `embassy`: 188 Sejong-daero, Jongno-gu, Seoul
-- `mailing address`: 9600 Seoul Place, Washington, DC  20521-9600
-- `telephone`: [82] (2) 397-4114
+- `外交代表負責人`: Ambassador Philip S. GOLDBERG (since 29 July 2022)
+- `大使館`: 188 Sejong-daero, Jongno-gu, Seoul
+- `郵寄地址`: 9600 Seoul Place, Washington, DC  20521-9600
+- `電話號碼`: [82] (2) 397-4114
 - `FAX`: [82] (2) 397-4101
-- `email address and website`: seoulinfoACS@state.gov  https://kr.usembassy.gov/
-- `consulate(s)`: Busan
+- `電子郵件地址和網站`: seoulinfoACS@state.gov  https://kr.usembassy.gov/
+- `領事館`: Busan
 
 ### 旗幟說明
 white with a red (top) and blue yin-yang symbol in the center; there is a different black trigram from the ancient I Ching (Book of Changes) in each corner of the white field; the South Korean national flag is called Taegukki; white is a traditional Korean color and represents peace and purity; the blue section represents the negative cosmic forces of the yin, while the red symbolizes the opposite positive forces of the yang; each trigram (kwae) denotes one of the four universal elements, which together express the principle of movement and harmony
@@ -372,8 +372,8 @@ white with a red (top) and blue yin-yang symbol in the center; there is a differ
 taegeuk (yin yang symbol), Hibiscus syriacus (Rose of Sharon), Siberian tiger; national colors: red, white, blue, black
 
 ### 國歌
-- `name`: "Aegukga" (Patriotic Song)
-- `lyrics/music`: YUN Ch'i-Ho or AN Ch'ang-Ho/AHN Eaktay
+- `名稱`: "Aegukga" (Patriotic Song)
+- `歌詞／音樂`: YUN Ch'i-Ho or AN Ch'ang-Ho/AHN Eaktay
 **note**:  adopted 1948, well-known by 1910; both North Korea's and South Korea's anthems share the same name and have a vaguely similar melody but have different lyrics
 
 ### 國家級遺產
@@ -420,17 +420,17 @@ $1.713 trillion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 1.6% (2023 est.)
-- `industry`: 31.6% (2023 est.)
-- `services`: 58.4% (2023 est.)
+- `農業`: 1.6% (2023 est.)
+- `產業`: 31.6% (2023 est.)
+- `服務`: 58.4% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 48.9% (2023 est.)
-- `government consumption`: 18.9% (2023 est.)
-- `investment in fixed capital`: 32.2% (2023 est.)
-- `exports of goods and services`: 44% (2023 est.)
-- `imports of goods and services`: -43.9% (2023 est.)
+- `家庭消費`: 48.9% (2023 est.)
+- `政府消費`: 18.9% (2023 est.)
+- `固定資本投資`: 32.2% (2023 est.)
+- `商品和服務出口`: 44% (2023 est.)
+- `商品和服務進口`: -43.9% (2023 est.)
 **note**:  figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -455,9 +455,9 @@ electronics, telecommunications, automobile production, chemicals, shipbuilding,
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 5.4% (2023 est.)
-- `male`: 5.4% (2023 est.)
-- `female`: 5.4% (2023 est.)
+- `總計`: 5.4% (2023 est.)
+- `男性`: 5.4% (2023 est.)
+- `女性`: 5.4% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -468,12 +468,12 @@ electronics, telecommunications, automobile production, chemicals, shipbuilding,
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 平均家庭支出
-- `on food`: 12.1% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 1.8% of household expenditures (2022 est.)
+- `餐食`: 12.1% of household expenditures (2022 est.)
+- `酒精和煙草`: 1.8% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 2.8% (2016 est.)
-- `highest 10%`: 24% (2016 est.)
+- `最低10%`: 2.8% (2016 est.)
+- `最高10%`: 24% (2016 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -483,8 +483,8 @@ electronics, telecommunications, automobile production, chemicals, shipbuilding,
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $542.275 billion (2022 est.)
-- `expenditures`: $563.156 billion (2022 est.)
+- `收入`: $542.275 billion (2022 est.)
+- `支出`: $563.156 billion (2022 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -546,21 +546,21 @@ $463.281 billion (2021 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 146.539 million kW (2022 est.)
-- `consumption`: 586.766 billion kWh (2022 est.)
-- `transmission/distribution losses`: 19.994 billion kWh (2022 est.)
+- `裝機容量`: 146.539 million kW (2022 est.)
+- `消費`: 586.766 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 19.994 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 65.1% of total installed capacity (2022 est.)
-- `nuclear`: 27.6% of total installed capacity (2022 est.)
-- `solar`: 4.6% of total installed capacity (2022 est.)
-- `wind`: 0.6% of total installed capacity (2022 est.)
-- `hydroelectricity`: 0.4% of total installed capacity (2022 est.)
-- `tide and wave`: 0.1% of total installed capacity (2022 est.)
-- `biomass and waste`: 1.7% of total installed capacity (2022 est.)
+- `石化燃料`: 65.1% of total installed capacity (2022 est.)
+- `核能`: 27.6% of total installed capacity (2022 est.)
+- `太陽能`: 4.6% of total installed capacity (2022 est.)
+- `風能`: 0.6% of total installed capacity (2022 est.)
+- `水力發電`: 0.4% of total installed capacity (2022 est.)
+- `潮汐和波浪`: 0.1% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 1.7% of total installed capacity (2022 est.)
 
 ### 核能
 - `Number of operational nuclear reactors`: 26 (2023)
@@ -570,28 +570,28 @@ $463.281 billion (2021 est.)
 - `Number of nuclear reactors permanently shut down`: 2 (2023)
 
 ### 煤炭
-- `production`: 15.595 million metric tons (2022 est.)
-- `consumption`: 136.413 million metric tons (2022 est.)
-- `exports`: 29,000 metric tons (2022 est.)
-- `imports`: 121.272 million metric tons (2022 est.)
-- `proven reserves`: 326 million metric tons (2022 est.)
+- `生產`: 15.595 million metric tons (2022 est.)
+- `消費`: 136.413 million metric tons (2022 est.)
+- `出口`: 29,000 metric tons (2022 est.)
+- `進口`: 121.272 million metric tons (2022 est.)
+- `探明儲量`: 326 million metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 38,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 2.452 million bbl/day (2023 est.)
+- `總石油產量`: 38,000 bbl/day (2023 est.)
+- `成品油消費量`: 2.452 million bbl/day (2023 est.)
 
 ### 天然氣
-- `production`: 55.127 million cubic meters (2021 est.)
-- `consumption`: 59.48 billion cubic meters (2022 est.)
-- `exports`: 93.639 million cubic meters (2022 est.)
-- `imports`: 62.622 billion cubic meters (2022 est.)
-- `proven reserves`: 7.079 billion cubic meters (2021 est.)
+- `生產`: 55.127 million cubic meters (2021 est.)
+- `消費`: 59.48 billion cubic meters (2022 est.)
+- `出口`: 93.639 million cubic meters (2022 est.)
+- `進口`: 62.622 billion cubic meters (2022 est.)
+- `探明儲量`: 7.079 billion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 643.456 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 268.556 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 250.135 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 124.765 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 643.456 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 268.556 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 250.135 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 124.765 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 235.518 million Btu/person (2022 est.)
@@ -599,17 +599,17 @@ $463.281 billion (2021 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 22.81 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 44 (2022 est.)
+- `總訂閱數`: 22.81 million (2022 est.)
+- `每100名居民訂閱數`: 44 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 76.992 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 149 (2022 est.)
+- `總訂閱數`: 76.992 million (2022 est.)
+- `每100名居民訂閱數`: 149 (2022 est.)
 
 ### 電信系統
-- `general assessment`: South Korea is second only to Hong Kong in the world rankings of telecom market maturity; it is also on the leading edge of the latest telecom technology developments, including around 6G; with its highly urbanized, tech-savvy population, South Korea also enjoys very high communication levels across all segments – fixed-line telephony (44% at the start of 2022), fixed broadband (46%), mobile voice and data (144%), and mobile broadband (120%); the performance of the mobile sector is on a par with other developed markets around the region, but it’s the wire line segment that allows South Korea to stand out from the crowd; this is partly a reflection of the large proportion of its population who live in apartment buildings (around 60%), making fiber and apartment LAN connections relatively easy and cost-effective to deploy; the government’s Ultra Broadband convergence Network (UBcN) had aimed to reach 50% adoption by the end of 2022, but that target may be a few more years away; fixed-line teledensity is also at a very high level compared to most of the rest of the world, but it has been on a sharp decline from a rate of 60% ten years ago; on the mobile front, users have enthusiastically migrated from one generation of mobile platform to the next as each iteration becomes available; there also doesn’t appear to be any great concern about there being a lack of demand for 5G in South Korea (when the country is already well supported by 4G networks), with 30% of all subscribers having already made the switch; part of the reason behind the rapid transition may be the subsidized handsets on offer from each of the MNOs and the MVNOs (2022)
-- `domestic`: fixed-line approximately 45 per 100 and mobile-cellular services 141 per 100 persons; rapid assimilation of a full range of telecommunications technologies leading to a boom in e-commerce (2021)
-- `international`: country code - 82; landing points for EAC-C2C, FEA, SeaMeWe-3, TPE, APCN-2, APG, FLAG North Asia Loop/REACH North Asia Loop, KJCN, NCP, and SJC2 submarine cables providing links throughout Asia, Australia, the Middle East, Africa, Europe, Southeast Asia and US; satellite earth stations - 66 (2019)
+- `總體評估`: South Korea is second only to Hong Kong in the world rankings of telecom market maturity; it is also on the leading edge of the latest telecom technology developments, including around 6G; with its highly urbanized, tech-savvy population, South Korea also enjoys very high communication levels across all segments – fixed-line telephony (44% at the start of 2022), fixed broadband (46%), mobile voice and data (144%), and mobile broadband (120%); the performance of the mobile sector is on a par with other developed markets around the region, but it’s the wire line segment that allows South Korea to stand out from the crowd; this is partly a reflection of the large proportion of its population who live in apartment buildings (around 60%), making fiber and apartment LAN connections relatively easy and cost-effective to deploy; the government’s Ultra Broadband convergence Network (UBcN) had aimed to reach 50% adoption by the end of 2022, but that target may be a few more years away; fixed-line teledensity is also at a very high level compared to most of the rest of the world, but it has been on a sharp decline from a rate of 60% ten years ago; on the mobile front, users have enthusiastically migrated from one generation of mobile platform to the next as each iteration becomes available; there also doesn’t appear to be any great concern about there being a lack of demand for 5G in South Korea (when the country is already well supported by 4G networks), with 30% of all subscribers having already made the switch; part of the reason behind the rapid transition may be the subsidized handsets on offer from each of the MNOs and the MVNOs (2022)
+- `國內`: fixed-line approximately 45 per 100 and mobile-cellular services 141 per 100 persons; rapid assimilation of a full range of telecommunications technologies leading to a boom in e-commerce (2021)
+- `國際的`: country code - 82; landing points for EAC-C2C, FEA, SeaMeWe-3, TPE, APCN-2, APG, FLAG North Asia Loop/REACH North Asia Loop, KJCN, NCP, and SJC2 submarine cables providing links throughout Asia, Australia, the Middle East, Africa, Europe, Southeast Asia and US; satellite earth stations - 66 (2019)
 
 ### 廣播媒體
 multiple national TV networks with 2 of the 3 largest networks publicly operated; the largest privately owned network, Seoul Broadcasting Service (SBS), has ties with other commercial TV networks; cable and satellite TV subscription services available; publicly operated radio broadcast networks and many privately owned radio broadcasting networks, each with multiple affiliates, and independent local stations
@@ -618,20 +618,20 @@ multiple national TV networks with 2 of the 3 largest networks publicly operated
 .kr
 
 ### 網際網路使用者
-- `total`: 50.96 million (2021 est.)
-- `percent of population`: 98% (2021 est.)
+- `總計`: 50.96 million (2021 est.)
+- `佔人口比例`: 98% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 22,327,182 (2020 est.)
-- `subscriptions per 100 inhabitants`: 44 (2020 est.)
+- `總計`: 22,327,182 (2020 est.)
+- `每100名居民訂閱數`: 44 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 14 (2020)
-- `inventory of registered aircraft operated by air carriers`: 424
-- `annual passenger traffic on registered air carriers`: 88,157,579 (2018)
-- `annual freight traffic on registered air carriers`: 11,929,560,000 (2018) mt-km
+- `註冊航空公司數量`: 14 (2020)
+- `註冊飛機庫存—航空承運商經營`: 424
+- `年度客運量－註冊航空公司`: 88,157,579 (2018)
+- `年度貨運量－註冊航空公司`: 11,929,560,000 (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 HL
@@ -646,29 +646,29 @@ HL
 3,790 km gas, 16 km oil, 889 km refined products (2018)
 
 ### 鐵路
-- `total`: 3,979 km (2016)
-- `standard gauge`: 3,979 km (2016) 1.435-m gauge (2,727 km electrified)
+- `總計`: 3,979 km (2016)
+- `標準鐵軌`: 3,979 km (2016) 1.435-m gauge (2,727 km electrified)
 
 ### 道路
-- `total`: 100,428 km
-- `paved`: 92,795 km (includes 4,193 km of expressways)
-- `unpaved`: 7,633 km (2016)
+- `總計`: 100,428 km
+- `已鋪砌`: 92,795 km (includes 4,193 km of expressways)
+- `未鋪砌`: 7,633 km (2016)
 
 ### 水道
 1,600 km (2011) (most navigable only by small craft)
 
 ### 商船
-- `total`: 2,149 (2023)
-- `by type`: bulk carrier 93, container ship 115, general cargo 362, oil tanker 219, other 1,360
+- `總計`: 2,149 (2023)
+- `依類型`: bulk carrier 93, container ship 115, general cargo 362, oil tanker 219, other 1,360
 
 ### 港口
-- `total ports`: 15 (2024)
-- `large`: 2
-- `medium`: 5
-- `small`: 4
-- `very small`: 4
-- `ports with oil terminals`: 10
-- `key ports`: Busan, Gwangyang Hang, Inchon, Masan, Mokpo, Pyeongtaek Hang, Ulsan
+- `總港口數`: 15 (2024)
+- `大`: 2
+- `中`: 5
+- `小`: 4
+- `非常小`: 4
+- `原油碼頭港口`: 10
+- `主要港口`: Busan, Gwangyang Hang, Inchon, Masan, Mokpo, Pyeongtaek Hang, Ulsan
 
 ## 軍事和安全
 
@@ -715,7 +715,7 @@ has a growing and ambitious space program focused on developing satellites, sate
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `stateless persons`: 202 (2022)
+- `無國籍人士`: 202 (2022)
 
 ### 非法藥物
 precursor chemicals used for illicit drugs, such as acetic anhydride, pseudoephedrine, and ephedrine, imported from the United States, Japan, India, and China and then either resold within South Korea or smuggled into other countries

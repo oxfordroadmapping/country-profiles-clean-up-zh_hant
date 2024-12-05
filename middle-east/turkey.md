@@ -19,23 +19,23 @@ Southeastern Europe and Southwestern Asia (that portion of Turkey west of the Bo
 Middle East
 
 ### 面積
-- `total `: 783,562 sq km
-- `land`: 769,632 sq km
-- `water`: 13,930 sq km
+- `總計`: 783,562 sq km
+- `土地`: 769,632 sq km
+- `水`: 13,930 sq km
 
 ### 面積—比較
 slightly larger than Texas
 
 ### 陸地邊界
-- `total`: 2,816 km
-- `border countries`: Armenia 311 km; Azerbaijan 17 km; Bulgaria 223 km; Georgia 273 km; Greece 192 km; Iran 534 km; Iraq 367 km; Syria 899 km
+- `總計`: 2,816 km
+- `邊境國家`: Armenia 311 km; Azerbaijan 17 km; Bulgaria 223 km; Georgia 273 km; Greece 192 km; Iran 534 km; Iraq 367 km; Syria 899 km
 
 ### 海岸線
 7,200 km
 
 ### 海洋主張
-- `territorial sea`: 6 nm in the Aegean Sea
-- `exclusive economic zone`: in Black Sea only: to the maritime boundary agreed upon with the former USSR
+- `領海`: 6 nm in the Aegean Sea
+- `專屬經濟區`: in Black Sea only: to the maritime boundary agreed upon with the former USSR
 12 nm in Black Sea and in Mediterranean Sea
 
 ### 氣候
@@ -45,27 +45,27 @@ temperate; hot, dry summers with mild, wet winters; harsher in interior
 high central plateau (Anatolia); narrow coastal plain; several mountain ranges
 
 ### 海拔
-- `highest point`: Mount Ararat 5,137 m
-- `lowest point`: Mediterranean Sea 0 m
-- `mean elevation`: 1,132 m
+- `最高點`: Mount Ararat 5,137 m
+- `最低點`: Mediterranean Sea 0 m
+- `平均海拔`: 1,132 m
 
 ### 自然資源
 coal, iron ore, copper, chromium, antimony, mercury, gold, barite, borate, celestite (strontium), emery, feldspar, limestone, magnesite, marble, perlite, pumice, pyrites (sulfur), clay, arable land, hydropower
 
 ### 土地利用
-- `agricultural land`: 49.7% (2018 est.)
-- `agricultural land: arable land`: arable land: 26.7% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 4% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 19% (2018 est.)
-- `forest`: 14.9% (2018 est.)
-- `other`: 35.4% (2018 est.)
+- `農地`: 49.7% (2018 est.)
+- `農地：耕地`: arable land: 26.7% (2018 est.)
+- `農地：永久性作物`: permanent crops: 4% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 19% (2018 est.)
+- `森林`: 14.9% (2018 est.)
+- `其它`: 35.4% (2018 est.)
 
 ### 灌溉土地
 52,150 sq km (2020)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lake Beysehir - 650 sq km; Lake Egridir - 520 sq km
-- `salt water lake(s)`: Lake Van - 3,740 sq km; Lake Tuz - 1,640 sq km;
+- `淡水湖`: Lake Beysehir - 650 sq km; Lake Egridir - 520 sq km
+- `鹽水湖`: Lake Van - 3,740 sq km; Lake Tuz - 1,640 sq km;
 
 ### 主要河流（按公里長度）
 Euphrates river source (shared with Syria, Iran, and Iraq [m]) - 3,596 km; Tigris river source (shared with Syria, Iran, and Iraq [m]) - 1,950 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -85,39 +85,39 @@ strategic location controlling the Turkish Straits (Bosporus, Sea of Marmara, Da
 ## 人民和社會
 
 ### 人口
-- `total`: 84,119,531
-- `male`: 42,247,430
-- `female`: 41,872,101 (2024 est.)
+- `總計`: 84,119,531
+- `男性`: 42,247,430
+- `女性`: 41,872,101 (2024 est.)
 
 ### 國籍
-- `noun`: Turk(s)
-- `adjective`: Turkish
+- `名詞`: Turk(s)
+- `形容詞`: Turkish
 
 ### 族裔群體
 Turkish 70-75%, Kurdish 19%, other minorities 6-11% (2016 est.)
 
 ### 語文
 Turkish (official), Kurdish, other minority languages
-- `major-language sample(s)`: The World Factbook, temel bilgi edinmek için vazgeçilmez bir kaynak. (Turkish) ڕاستییەکانی جیهان، باشترین سەرچاوەیە بۆ زانیارییە بنەڕەتییەکان (Kurdish) The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: The World Factbook, temel bilgi edinmek için vazgeçilmez bir kaynak. (Turkish) ڕاستییەکانی جیهان، باشترین سەرچاوەیە بۆ زانیارییە بنەڕەتییەکان (Kurdish) The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Muslim 99.8% (mostly Sunni), other 0.2% (mostly Christians and Jews)
 
 ### 年齡結構
-- `0-14 years`: 21.7% (male 9,358,711/female 8,933,673)
-- `15-64 years`: 68.6% (male 29,219,389/female 28,494,315)
-- `65 years and over`: 9.6% (2024 est.) (male 3,669,330/female 4,444,113)
+- `0-14歲`: 21.7% (male 9,358,711/female 8,933,673)
+- `15-64歲`: 68.6% (male 29,219,389/female 28,494,315)
+- `65歲及以上`: 9.6% (2024 est.) (male 3,669,330/female 4,444,113)
 
 ### 撫養比率
-- `total dependency ratio`: 49.1
-- `youth dependency ratio`: 34.5
-- `elderly dependency ratio`: 12.3
-- `potential support ratio`: 8.1 (2021 est.)
+- `總受扶養人比率`: 49.1
+- `少年撫養比率`: 34.5
+- `老人撫養比率`: 12.3
+- `潛在支持率`: 8.1 (2021 est.)
 
 ### 年齡中位數
-- `total`: 34 years (2024 est.)
-- `male`: 33.4 years
-- `female`: 34.6 years
+- `總計`: 34 years (2024 est.)
+- `男性`: 33.4 years
+- `女性`: 34.6 years
 
 ### 人口成長率
 0.61% (2024 est.)
@@ -135,18 +135,18 @@ Muslim 99.8% (mostly Sunni), other 0.2% (mostly Christians and Jews)
 the most densely populated area is found around the Bosporus in the northwest where 20% of the population lives in Istanbul; with the exception of Ankara, urban centers remain small and scattered throughout the interior of Anatolia; an overall pattern of peripheral development exists, particularly along the Aegean Sea coast in the west, and the Tigris and Euphrates River systems in the southeast
 
 ### 都市化
-- `urban population`: 77.5% of total population (2023)
-- `rate of urbanization`: 1.11% annual rate of change (2020-25 est.)
+- `城市人口`: 77.5% of total population (2023)
+- `城鎮化率`: 1.11% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 15.848 million Istanbul, 5.397 million ANKARA (capital), 3.088 million Izmir, 2.086 million Bursa, 1.836 million Adana, 1.805 million Gaziantep (2023)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.05 male(s)/female
-- `15-64 years`: 1.03 male(s)/female
-- `65 years and over`: 0.83 male(s)/female
-- `total population`: 1.01 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.05 male(s)/female
+- `15-64歲`: 1.03 male(s)/female
+- `65歲及以上`: 0.83 male(s)/female
+- `總人口數`: 1.01 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 26.6 years (2020 est.)
@@ -155,14 +155,14 @@ the most densely populated area is found around the Bosporus in the northwest wh
 17 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 18.4 deaths/1,000 live births (2024 est.)
-- `male`: 19.9 deaths/1,000 live births
-- `female`: 16.7 deaths/1,000 live births
+- `總計`: 18.4 deaths/1,000 live births (2024 est.)
+- `男性`: 19.9 deaths/1,000 live births
+- `女性`: 16.7 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 76.7 years (2024 est.)
-- `male`: 74.4 years
-- `female`: 79.2 years
+- `總人口數`: 76.7 years (2024 est.)
+- `男性`: 74.4 years
+- `女性`: 79.2 years
 
 ### 總生育率
 1.9 children born/woman (2024 est.)
@@ -174,12 +174,12 @@ the most densely populated area is found around the Bosporus in the northwest wh
 69.8% (2018)
 
 ### 飲用水來源
-- `improved: urban`: urban: 99.1% of population
-- `improved: rural`: rural: 98.7% of population
-- `improved: total`: total: 99% of population
-- `unimproved: urban`: urban: 0.9% of population
-- `unimproved: rural`: rural: 1.3% of population
-- `unimproved: total`: total: 1% of population (2020 est.)
+- `已改進－城市`: urban: 99.1% of population
+- `已改進－農村`: rural: 98.7% of population
+- `已改進－總計`: total: 99% of population
+- `未改進：都市`: urban: 0.9% of population
+- `未改進：鄉村`: rural: 1.3% of population
+- `未改善：總計`: total: 1% of population (2020 est.)
 
 ### 當前醫療支出
 4.6% of GDP (2020)
@@ -191,27 +191,27 @@ the most densely populated area is found around the Bosporus in the northwest wh
 2.9 beds/1,000 population (2018)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 99.8% of population
-- `improved: rural`: rural: 98.7% of population
-- `improved: total`: total: 99.6% of population
-- `unimproved: urban`: urban: 0.2% of population
-- `unimproved: rural`: rural: 1.3% of population
-- `unimproved: total`: total: 0.4% of population (2020 est.)
+- `已改進－城市`: urban: 99.8% of population
+- `已改進－農村`: rural: 98.7% of population
+- `已改進－總計`: total: 99.6% of population
+- `未改進：都市`: urban: 0.2% of population
+- `未改進：鄉村`: rural: 1.3% of population
+- `未改善：總計`: total: 0.4% of population (2020 est.)
 
 ### 肥胖—成人流行率
 32.1% (2016)
 
 ### 人均酒精消費量
-- `total`: 1.18 liters of pure alcohol (2019 est.)
-- `beer`: 0.67 liters of pure alcohol (2019 est.)
-- `wine`: 0.16 liters of pure alcohol (2019 est.)
-- `spirits`: 0.35 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 1.18 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.67 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.16 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.35 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 30.7% (2020 est.)
-- `male`: 42.1% (2020 est.)
-- `female`: 19.2% (2020 est.)
+- `總計`: 30.7% (2020 est.)
+- `男性`: 42.1% (2020 est.)
+- `女性`: 19.2% (2020 est.)
 
 ### 5歲以下體重不足兒童
 1.5% (2018/19)
@@ -220,22 +220,22 @@ the most densely populated area is found around the Bosporus in the northwest wh
 65.4% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 2%
-- `women married by age 18`: 14.7% (2018 est.)
+- `15歲前結婚的女性`: 2%
+- `18歲前結婚的女性`: 14.7% (2018 est.)
 
 ### 教育支出
 3.4% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 96.7%
-- `male`: 99.1%
-- `female`: 94.4% (2019)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 96.7%
+- `男性`: 99.1%
+- `女性`: 94.4% (2019)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 18 years
-- `male`: 19 years
-- `female`: 18 years (2020)
+- `總計`: 18 years
+- `男性`: 19 years
+- `女性`: 18 years (2020)
 
 ## 環境
 
@@ -243,23 +243,23 @@ the most densely populated area is found around the Bosporus in the northwest wh
 water pollution from dumping of chemicals and detergents; air pollution, particularly in urban areas; deforestation; land degradation; concern for oil spills from increasing Bosporus ship traffic; conservation of biodiversity
 
 ### 環境—國際協定
-- `party to`: Air Pollution, Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands
-- `signed, but not ratified`: Climate Change-Paris Agreement, Environmental Modification
+- `是以下議定書的締約國：`: Air Pollution, Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands
+- `已簽署但未批準`: Climate Change-Paris Agreement, Environmental Modification
 
 ### 氣候
 temperate; hot, dry summers with mild, wet winters; harsher in interior
 
 ### 土地利用
-- `agricultural land`: 49.7% (2018 est.)
-- `agricultural land: arable land`: arable land: 26.7% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 4% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 19% (2018 est.)
-- `forest`: 14.9% (2018 est.)
-- `other`: 35.4% (2018 est.)
+- `農地`: 49.7% (2018 est.)
+- `農地：耕地`: arable land: 26.7% (2018 est.)
+- `農地：永久性作物`: permanent crops: 4% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 19% (2018 est.)
+- `森林`: 14.9% (2018 est.)
+- `其它`: 35.4% (2018 est.)
 
 ### 都市化
-- `urban population`: 77.5% of total population (2023)
-- `rate of urbanization`: 1.11% annual rate of change (2020-25 est.)
+- `城市人口`: 77.5% of total population (2023)
+- `城鎮化率`: 1.11% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.08% of GDP (2018 est.)
@@ -268,16 +268,16 @@ temperate; hot, dry summers with mild, wet winters; harsher in interior
 0.05% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 23.25 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 372.72 megatons (2016 est.)
-- `methane emissions`: 57.53 megatons (2020 est.)
+- `顆粒物排放量`: 23.25 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 372.72 megatons (2016 est.)
+- `甲烷排放量`: 57.53 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 31.283 million tons (2015 est.)
+- `城市固體廢棄物－每年產生`: 31.283 million tons (2015 est.)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lake Beysehir - 650 sq km; Lake Egridir - 520 sq km
-- `salt water lake(s)`: Lake Van - 3,740 sq km; Lake Tuz - 1,640 sq km;
+- `淡水湖`: Lake Beysehir - 650 sq km; Lake Egridir - 520 sq km
+- `鹽水湖`: Lake Van - 3,740 sq km; Lake Tuz - 1,640 sq km;
 
 ### 主要河流（按公里長度）
 Euphrates river source (shared with Syria, Iran, and Iraq [m]) - 3,596 km; Tigris river source (shared with Syria, Iran, and Iraq [m]) - 1,950 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -286,35 +286,35 @@ Euphrates river source (shared with Syria, Iran, and Iraq [m]) - 3,596 km; Tigri
 Indian Ocean drainage: *(Persian Gulf)* Tigris and Euphrates (918,044 sq km)
 
 ### 總取水量
-- `municipal`: 6.91 billion cubic meters (2020 est.)
-- `industrial`: 1.03 billion cubic meters (2020 est.)
-- `agricultural`: 54.27 billion cubic meters (2020 est.)
+- `市級`: 6.91 billion cubic meters (2020 est.)
+- `工業`: 1.03 billion cubic meters (2020 est.)
+- `農業`: 54.27 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 211.6 billion cubic meters (2020 est.)
 
 ### 地質公園
-- `total global geoparks and regional networks`: 1
-- `global geoparks and regional networks`: Kula-Salihli (2023)
+- `全球地質公園和區域網絡總數`: 1
+- `全球地質公園和區域網絡`: Kula-Salihli (2023)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Turkey
-- `conventional short form`: Turkey
-- `local long form`: Turkey Cumhuriyeti
-- `local short form`: Turkey
-- `etymology`: the name means "Land of the Turks"
+- `常用長名`: Republic of Turkey
+- `常用短名`: Turkey
+- `當地語長名`: Turkey Cumhuriyeti
+- `當地語短名`: Turkey
+- `语源学`: the name means "Land of the Turks"
 **note**:  Turkiye is an approved English short-form name for Turkey
 
 ### 政府類型
 presidential republic
 
 ### 首都
-- `name`: Ankara
-- `geographic coordinates`: 39 56 N, 32 52 E
-- `time difference`: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: Ankara has been linked with a second millennium B.C. Hittite cult center of Ankuwash, although this connection is uncertain; in classical and medieval times, the city was known as Ankyra (meaning "anchor" in Greek and reflecting the city's position as a junction for multiple trade and military routes); by about the 13th century the city began to be referred to as Angora; following the establishment of the Republic of Turkey in 1923, the city's name became Ankara
+- `名稱`: Ankara
+- `地理坐標`: 39 56 N, 32 52 E
+- `時差`: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: Ankara has been linked with a second millennium B.C. Hittite cult center of Ankuwash, although this connection is uncertain; in classical and medieval times, the city was known as Ankyra (meaning "anchor" in Greek and reflecting the city's position as a junction for multiple trade and military routes); by about the 13th century the city began to be referred to as Angora; following the establishment of the Republic of Turkey in 1923, the city's name became Ankara
 
 ### 行政區劃
 81 provinces (iller, singular - ili); Adana, Adiyaman, Afyonkarahisar, Agri, Aksaray, Amasya, Ankara, Antalya, Ardahan, Artvin, Aydin, Balikesir, Bartin, Batman, Bayburt, Bilecik, Bingol, Bitlis, Bolu, Burdur, Bursa, Canakkale, Cankiri, Corum, Denizli, Diyarbakir, Duzce, Edirne, Elazig, Erzincan, Erzurum, Eskisehir, Gaziantep, Giresun, Gumushane, Hakkari, Hatay, Igdir, Isparta, Istanbul, Izmir (Smyrna), Kahramanmaras, Karabuk, Karaman, Kars, Kastamonu, Kayseri, Kilis, Kirikkale, Kirklareli, Kirsehir, Kocaeli, Konya, Kutahya, Malatya, Manisa, Mardin, Mersin, Mugla, Mus, Nevsehir, Nigde, Ordu, Osmaniye, Rize, Sakarya, Samsun, Sanliurfa, Siirt, Sinop, Sirnak, Sivas, Tekirdag, Tokat, Trabzon (Trebizond), Tunceli, Usak, Van, Yalova, Yozgat, Zonguldak
@@ -329,37 +329,37 @@ Republic Day, 29 October (1923)
 civil law system based on various European legal systems, notably the Swiss civil code
 
 ### 憲法
-- `history`: several previous; latest ratified 9 November 1982
-- `amendments`: proposed by written consent of at least one third of Grand National Assembly (GNA) of Turkey (TBMM) members; adoption of draft amendments requires two debates in plenary TBMM session and three-fifths majority vote of all GNA members; the president of the republic can request TBMM reconsideration of the amendment and, if readopted by two-thirds majority TBMM vote, the president may submit the amendment to a referendum; passage by referendum requires absolute majority vote; amended several times, last in 2017
+- `歷史`: several previous; latest ratified 9 November 1982
+- `修正`: proposed by written consent of at least one third of Grand National Assembly (GNA) of Turkey (TBMM) members; adoption of draft amendments requires two debates in plenary TBMM session and three-fifths majority vote of all GNA members; the president of the republic can request TBMM reconsideration of the amendment and, if readopted by two-thirds majority TBMM vote, the president may submit the amendment to a referendum; passage by referendum requires absolute majority vote; amended several times, last in 2017
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Turkey
-- `dual citizenship recognized`: yes, but requires prior permission from the government
-- `residency requirement for naturalization`: 5 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Turkey
+- `承認雙重國籍`: yes, but requires prior permission from the government
+- `入籍的居留要求`: 5 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Recep Tayyip ERDOGAN (chief of state since 28 August 2014; head of government since 9 July 2018)
-- `head of government`: President Recep Tayyip ERDOGAN (head of government since 9 July 2018; chief of state since 28 August 2014)
-- `cabinet`: Council of Ministers appointed by the president
-- `elections/appointments`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 14 May 2023 with a runoff on 28 May 2023 (next to be held in 2028)
-- `election results`: *2023: *Recep Tayyip ERDOGAN reelected president in second round - Recep Tayyip ERDOGAN (AKP) 52.2%, Kemal KILICDAROGLU (CHP) 47.8%*  2018:* Recep Tayyip ERDOGAN reelected president in first round - Recep Tayyip ERDOGAN (AKP) 52.6%, Muharrem INCE (CHP) 30.6%, Selahattin DEMIRTAS (HDP) 8.4%, Meral AKSENER (IYI) 7.3%, other 1.1%
+- `國家元首`: President Recep Tayyip ERDOGAN (chief of state since 28 August 2014; head of government since 9 July 2018)
+- `政府首腦`: President Recep Tayyip ERDOGAN (head of government since 9 July 2018; chief of state since 28 August 2014)
+- `内閣`: Council of Ministers appointed by the president
+- `選舉/任命`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 14 May 2023 with a runoff on 28 May 2023 (next to be held in 2028)
+- `選舉結果`: *2023: *Recep Tayyip ERDOGAN reelected president in second round - Recep Tayyip ERDOGAN (AKP) 52.2%, Kemal KILICDAROGLU (CHP) 47.8%*  2018:* Recep Tayyip ERDOGAN reelected president in first round - Recep Tayyip ERDOGAN (AKP) 52.6%, Muharrem INCE (CHP) 30.6%, Selahattin DEMIRTAS (HDP) 8.4%, Meral AKSENER (IYI) 7.3%, other 1.1%
 
 ### 立法部門
-- `description`: unicameral Grand National Assembly of Turkey or Turkey Buyuk Millet Meclisi (600 seats); members directly elected in multi-seat constituencies by closed party-list proportional representation vote, with a 7% threshold required to win a seat; members serve 5-year terms)
-- `elections`: last held on 14 May 2023 (next to be held in 2028)
-- `election results`: percent of vote by party/coalition - People's Alliance 49.9% (AKP 35.6%, MHP 10.1%, YRP 2.8%, BBP 1%), Nation Alliance 35.4% (CHP 25.3%, IYI 9.7%), Labor and Freedom Alliance 10.7% (YSGP 8.9%, TIP 1.8%); seats by party/coalition - People's Alliance 323 (AKP 268, MHP 50, YRP 5), Nation Alliance 212 (CHP 169, IYI 43), Labor and Freedom Alliance 65 (YSGP 61, TIP 4); composition - men 480, women 119, percentage women 19.9%
+- `描述`: unicameral Grand National Assembly of Turkey or Turkey Buyuk Millet Meclisi (600 seats); members directly elected in multi-seat constituencies by closed party-list proportional representation vote, with a 7% threshold required to win a seat; members serve 5-year terms)
+- `選舉`: last held on 14 May 2023 (next to be held in 2028)
+- `選舉結果`: percent of vote by party/coalition - People's Alliance 49.9% (AKP 35.6%, MHP 10.1%, YRP 2.8%, BBP 1%), Nation Alliance 35.4% (CHP 25.3%, IYI 9.7%), Labor and Freedom Alliance 10.7% (YSGP 8.9%, TIP 1.8%); seats by party/coalition - People's Alliance 323 (AKP 268, MHP 50, YRP 5), Nation Alliance 212 (CHP 169, IYI 43), Labor and Freedom Alliance 65 (YSGP 61, TIP 4); composition - men 480, women 119, percentage women 19.9%
 
 ### 司法部門
-- `highest court(s)`: Constitutional Court or Anayasa Mahkemesi (consists of the president, 2 vice presidents, and 12 judges); Court of Cassation (consists of about 390 judges and is organized into civil and penal chambers); Council of State (organized into 15 divisions - 14 judicial and 1 consultative - each with a division head and at least 5 members)
-- `judge selection and term of office`: Constitutional Court members - 3 appointed by the Grand National Assembly and 12 by the president of the republic; court president and 2 deputy court presidents appointed from among its members for 4-year terms; judges serve 12-year, nonrenewable terms with mandatory retirement at age 65; Court of Cassation judges appointed by the Board of Judges and Prosecutors, a 13-member body of judicial officials; Court of Cassation judges serve until retirement at age 65; Council of State members appointed by the Board and by the president of the republic; members serve renewable, 4-year terms
-- `subordinate courts`: regional appeals courts; basic (first instance) courts; peace courts; aggravated crime courts; specialized courts, including administrative and audit; note - a constitutional amendment in 2017 abolished military courts unless established to investigate military personnel actions during war conditions
+- `最高法院`: Constitutional Court or Anayasa Mahkemesi (consists of the president, 2 vice presidents, and 12 judges); Court of Cassation (consists of about 390 judges and is organized into civil and penal chambers); Council of State (organized into 15 divisions - 14 judicial and 1 consultative - each with a division head and at least 5 members)
+- `法官遴選和任期`: Constitutional Court members - 3 appointed by the Grand National Assembly and 12 by the president of the republic; court president and 2 deputy court presidents appointed from among its members for 4-year terms; judges serve 12-year, nonrenewable terms with mandatory retirement at age 65; Court of Cassation judges appointed by the Board of Judges and Prosecutors, a 13-member body of judicial officials; Court of Cassation judges serve until retirement at age 65; Council of State members appointed by the Board and by the president of the republic; members serve renewable, 4-year terms
+- `下級法院`: regional appeals courts; basic (first instance) courts; peace courts; aggravated crime courts; specialized courts, including administrative and audit; note - a constitutional amendment in 2017 abolished military courts unless established to investigate military personnel actions during war conditions
 
 ### 政黨
 Democracy and Progress Party or DEVADemocrat Party or DPDemocratic Regions Party or DBPFelicity Party (Saadet Party) or SPFree Cause Party or HUDA PARFuture Party (Gelecek Partisi) or GPGood Party or IYIGrand Unity Party or BBP Justice and Development Party or AKP Labor and Freedom Alliance (electoral alliance includes YSGP, HDP, TIP)Nationalist Movement Party or MHP New Welfare Party or YRP Party of Greens and the Left Future or YSGP People's Alliance (electoral alliance includes AKP, BBP, MHP, YRP)Peoples' Democratic Party or HDPRepublican People's Party or CHP Workers' Party of Turkey or TIP
@@ -369,22 +369,22 @@ ADB (nonregional member), Australia Group, BIS, BSEC, CBSS (observer), CD, CE, C
 **note**:  Turkey is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Sedat ÖNAL (since 17 June 2024)
-- `chancery`: 2525 Massachusetts Avenue NW, Washington, DC 20008
-- `telephone`: [1] (202) 612-6700
+- `外交代表負責人`: Ambassador Sedat ÖNAL (since 17 June 2024)
+- `衡平法院（在美國）`: 2525 Massachusetts Avenue NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 612-6700
 - `FAX`: [1] (202) 612-6744
-- `email address and website`: embassy.washingtondc@mfa.gov.tr  T.C. Dışişleri Bakanlığı - Turkish Embassy In Washington, D.C. (mfa.gov.tr)
-- `consulate(s) general`: Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco
+- `電子郵件地址和網站`: embassy.washingtondc@mfa.gov.tr  T.C. Dışişleri Bakanlığı - Turkish Embassy In Washington, D.C. (mfa.gov.tr)
+- `總領事館`: Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador (vacant); Chargé d'Affaires Michael GOLDMAN (since September 2024)
-- `embassy`: 1480 Sokak No. 1, Cukurambar Mahallesi, 06530 Cankaya, Ankara
-- `mailing address`: 7000 Ankara Place, Washington  DC 20512-7000
-- `telephone`: [90] (312) 294-0000
+- `外交代表負責人`: Ambassador (vacant); Chargé d'Affaires Michael GOLDMAN (since September 2024)
+- `大使館`: 1480 Sokak No. 1, Cukurambar Mahallesi, 06530 Cankaya, Ankara
+- `郵寄地址`: 7000 Ankara Place, Washington  DC 20512-7000
+- `電話號碼`: [90] (312) 294-0000
 - `FAX`: [90] (312) 467-0019
-- `email address and website`: Ankara-ACS@state.gov  https://tr.usembassy.gov/
-- `consulate(s) general`: Istanbul
-- `consulate(s)`: Adana
+- `電子郵件地址和網站`: Ankara-ACS@state.gov  https://tr.usembassy.gov/
+- `總領事館`: Istanbul
+- `領事館`: Adana
 
 ### 旗幟說明
 red with a vertical white crescent moon (the closed portion is toward the hoist side) and white five-pointed star centered just outside the crescent opening; the flag colors and designs closely resemble those on the banner of the Ottoman Empire, which preceded modern-day Turkey; the crescent moon and star serve as insignia for Turkic peoples; according to one interpretation, the flag represents the reflection of the moon and a star in a pool of blood of Turkish warriors
@@ -393,8 +393,8 @@ red with a vertical white crescent moon (the closed portion is toward the hoist 
 vertical crescent moon with adjacent five-pointed star; national colors: red, white
 
 ### 國歌
-- `name`: "Istiklal Marsi" (Independence March)
-- `lyrics/music`: Mehmet Akif ERSOY/Zeki UNGOR
+- `名稱`: "Istiklal Marsi" (Independence March)
+- `歌詞／音樂`: Mehmet Akif ERSOY/Zeki UNGOR
 **note**:  lyrics adopted 1921, music adopted 1932; the anthem's original music was adopted in 1924; a new composition was agreed upon in 1932
 
 ### 國家級遺產
@@ -441,18 +441,18 @@ $1.108 trillion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 6.2% (2023 est.)
-- `industry`: 28.3% (2023 est.)
-- `services`: 54% (2023 est.)
+- `農業`: 6.2% (2023 est.)
+- `產業`: 28.3% (2023 est.)
+- `服務`: 54% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 59.4% (2023 est.)
-- `government consumption`: 13.6% (2023 est.)
-- `investment in fixed capital`: 32.4% (2023 est.)
-- `investment in inventories`: -3% (2023 est.)
-- `exports of goods and services`: 32.3% (2023 est.)
-- `imports of goods and services`: -34.7% (2023 est.)
+- `家庭消費`: 59.4% (2023 est.)
+- `政府消費`: 13.6% (2023 est.)
+- `固定資本投資`: 32.4% (2023 est.)
+- `存貨投資`: -3% (2023 est.)
+- `商品和服務出口`: 32.3% (2023 est.)
+- `商品和服務進口`: -34.7% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -477,9 +477,9 @@ textiles, food processing, automobiles, electronics, mining (coal, chromate, cop
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 17.6% (2023 est.)
-- `male`: 14.8% (2023 est.)
-- `female`: 22.9% (2023 est.)
+- `總計`: 17.6% (2023 est.)
+- `男性`: 14.8% (2023 est.)
+- `女性`: 22.9% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -491,12 +491,12 @@ textiles, food processing, automobiles, electronics, mining (coal, chromate, cop
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 平均家庭支出
-- `on food`: 25.4% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 3.3% of household expenditures (2022 est.)
+- `餐食`: 25.4% of household expenditures (2022 est.)
+- `酒精和煙草`: 3.3% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 2% (2021 est.)
-- `highest 10%`: 34.7% (2021 est.)
+- `最低10%`: 2% (2021 est.)
+- `最高10%`: 34.7% (2021 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -506,8 +506,8 @@ textiles, food processing, automobiles, electronics, mining (coal, chromate, cop
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $234.92 billion (2022 est.)
-- `expenditures`: $269.146 billion (2022 est.)
+- `收入`: $234.92 billion (2022 est.)
+- `支出`: $269.146 billion (2022 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -573,50 +573,50 @@ $133.882 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 103.817 million kW (2022 est.)
-- `consumption`: 280.458 billion kWh (2022 est.)
-- `exports`: 3.71 billion kWh (2022 est.)
-- `imports`: 6.423 billion kWh (2022 est.)
-- `transmission/distribution losses`: 30.452 billion kWh (2022 est.)
+- `裝機容量`: 103.817 million kW (2022 est.)
+- `消費`: 280.458 billion kWh (2022 est.)
+- `出口`: 3.71 billion kWh (2022 est.)
+- `進口`: 6.423 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 30.452 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 58.2% of total installed capacity (2022 est.)
-- `solar`: 4.9% of total installed capacity (2022 est.)
-- `wind`: 11.3% of total installed capacity (2022 est.)
-- `hydroelectricity`: 21.7% of total installed capacity (2022 est.)
-- `geothermal`: 2.9% of total installed capacity (2022 est.)
-- `biomass and waste`: 1% of total installed capacity (2022 est.)
+- `石化燃料`: 58.2% of total installed capacity (2022 est.)
+- `太陽能`: 4.9% of total installed capacity (2022 est.)
+- `風能`: 11.3% of total installed capacity (2022 est.)
+- `水力發電`: 21.7% of total installed capacity (2022 est.)
+- `地熱`: 2.9% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 1% of total installed capacity (2022 est.)
 
 ### 核能
 - `Number of nuclear reactors under construction`: 4 (2023)
 
 ### 煤炭
-- `production`: 88.746 million metric tons (2022 est.)
-- `consumption`: 123.976 million metric tons (2022 est.)
-- `exports`: 879,000 metric tons (2022 est.)
-- `imports`: 38.046 million metric tons (2022 est.)
-- `proven reserves`: 11.525 billion metric tons (2022 est.)
+- `生產`: 88.746 million metric tons (2022 est.)
+- `消費`: 123.976 million metric tons (2022 est.)
+- `出口`: 879,000 metric tons (2022 est.)
+- `進口`: 38.046 million metric tons (2022 est.)
+- `探明儲量`: 11.525 billion metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 83,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 1.077 million bbl/day (2023 est.)
-- `crude oil estimated reserves`: 366 million barrels (2021 est.)
+- `總石油產量`: 83,000 bbl/day (2023 est.)
+- `成品油消費量`: 1.077 million bbl/day (2023 est.)
+- `原油儲備量估值`: 366 million barrels (2021 est.)
 
 ### 天然氣
-- `production`: 379.701 million cubic meters (2022 est.)
-- `consumption`: 52.887 billion cubic meters (2022 est.)
-- `exports`: 581.666 million cubic meters (2022 est.)
-- `imports`: 54.536 billion cubic meters (2022 est.)
-- `proven reserves`: 3.794 billion cubic meters (2021 est.)
+- `生產`: 379.701 million cubic meters (2022 est.)
+- `消費`: 52.887 billion cubic meters (2022 est.)
+- `出口`: 581.666 million cubic meters (2022 est.)
+- `進口`: 54.536 billion cubic meters (2022 est.)
+- `探明儲量`: 3.794 billion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 391.592 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 149.781 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 139.954 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 101.858 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 391.592 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 149.781 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 139.954 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 101.858 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 70.594 million Btu/person (2022 est.)
@@ -624,17 +624,17 @@ $133.882 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 11.198 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 13 (2022 est.)
+- `總訂閱數`: 11.198 million (2022 est.)
+- `每100名居民訂閱數`: 13 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 90.298 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 106 (2022 est.)
+- `總訂閱數`: 90.298 million (2022 est.)
+- `每100名居民訂閱數`: 106 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Turkey continues to develop its capabilities within its telecom sector, becoming one of the relatively few countries able to build and develop its own communications satellites; with the successful launch of the Turksat 5A and 5B satellites in 2021, the country has vastly increased its bandwidth capacity; these satellites will be joined by the Turksat 6A in 2023; the country’s telcos have invested in fiber infrastructure; deployment of fiber-based broadband networks are well established, with fiber accounting for 26.7% of all fixed broadband connections as of early 2022; the DSL sector still dominates, accounting for about 63% of connections, but its share is steadily declining, year-on-year, while the number of fiber connections has grown strongly; improved fixed and mobile infrastructure is underpinning the country’s initiatives relating to Smart City concepts, which have become a key area of focus for the emerging digital economy and the transformation to a knowledge-based economy; Turkey’s National Smart Cities Strategy and Action Plan runs through to 2023 (2022)
-- `domestic`: fixed-line nearly 14 per 100 and mobile-cellular teledensity is 106 telephones per 100 persons (2022)
-- `international`: country code - 90; landing points for the SeaMeWe-3 & -5, MedNautilus Submarine System, Turcyos-1 & -2 submarine cables providing connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia ; satellite earth stations - 12 Intelsat; mobile satellite terminals - 328 in the Inmarsat and Eutelsat systems (2020)
+- `總體評估`: Turkey continues to develop its capabilities within its telecom sector, becoming one of the relatively few countries able to build and develop its own communications satellites; with the successful launch of the Turksat 5A and 5B satellites in 2021, the country has vastly increased its bandwidth capacity; these satellites will be joined by the Turksat 6A in 2023; the country’s telcos have invested in fiber infrastructure; deployment of fiber-based broadband networks are well established, with fiber accounting for 26.7% of all fixed broadband connections as of early 2022; the DSL sector still dominates, accounting for about 63% of connections, but its share is steadily declining, year-on-year, while the number of fiber connections has grown strongly; improved fixed and mobile infrastructure is underpinning the country’s initiatives relating to Smart City concepts, which have become a key area of focus for the emerging digital economy and the transformation to a knowledge-based economy; Turkey’s National Smart Cities Strategy and Action Plan runs through to 2023 (2022)
+- `國內`: fixed-line nearly 14 per 100 and mobile-cellular teledensity is 106 telephones per 100 persons (2022)
+- `國際的`: country code - 90; landing points for the SeaMeWe-3 & -5, MedNautilus Submarine System, Turcyos-1 & -2 submarine cables providing connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia ; satellite earth stations - 12 Intelsat; mobile satellite terminals - 328 in the Inmarsat and Eutelsat systems (2020)
 
 ### 廣播媒體
 Turkish Radio and Television Corporation (TRT) operates multiple TV and radio networks and stations; multiple privately owned national television stations and 567 private regional and local television stations; multi-channel cable TV subscriptions available; 1,007 private radio broadcast stations (2019)
@@ -643,20 +643,20 @@ Turkish Radio and Television Corporation (TRT) operates multiple TV and radio ne
 .tr
 
 ### 網際網路使用者
-- `total`: 68.85 million (2021 est.)
-- `percent of population`: 81% (2021 est.)
+- `總計`: 68.85 million (2021 est.)
+- `佔人口比例`: 81% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 16,734,853 (2020 est.)
-- `subscriptions per 100 inhabitants`: 20 (2020 est.)
+- `總計`: 16,734,853 (2020 est.)
+- `每100名居民訂閱數`: 20 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 11 (2020)
-- `inventory of registered aircraft operated by air carriers`: 618
-- `annual passenger traffic on registered air carriers`: 115,595,495 (2018)
-- `annual freight traffic on registered air carriers`: 5,949,210,000 (2018) mt-km
+- `註冊航空公司數量`: 11 (2020)
+- `註冊飛機庫存—航空承運商經營`: 618
+- `年度客運量－註冊航空公司`: 115,595,495 (2018)
+- `年度貨運量－註冊航空公司`: 5,949,210,000 (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 TC
@@ -671,29 +671,29 @@ TC
 14,666 km gas, 3,293 km oil (2017)
 
 ### 鐵路
-- `total`: 11,497 km (2018)
-- `standard gauge`: 11,497 km (2018) 1.435-m gauge (1.435 km high speed train)
+- `總計`: 11,497 km (2018)
+- `標準鐵軌`: 11,497 km (2018) 1.435-m gauge (1.435 km high speed train)
 
 ### 道路
-- `total`: 68,526 km (2023)
-- `paved`: 24,082 km (2018) (includes 2,159 km of expressways)
-- `unpaved`: 43,251 km (2018)
+- `總計`: 68,526 km (2023)
+- `已鋪砌`: 24,082 km (2018) (includes 2,159 km of expressways)
+- `未鋪砌`: 43,251 km (2018)
 
 ### 水道
 1,200 km (2010)
 
 ### 商船
-- `total`: 1,170 (2023)
-- `by type`: bulk carrier 43, container ship 43, general cargo 223, oil tanker 134, other 727
+- `總計`: 1,170 (2023)
+- `依類型`: bulk carrier 43, container ship 43, general cargo 223, oil tanker 134, other 727
 
 ### 港口
-- `total ports`: 54 (2024)
-- `large`: 3
-- `medium`: 3
-- `small`: 6
-- `very small`: 42
-- `ports with oil terminals`: 28
-- `key ports`: Haydarpasa, Istanbul, Izmir, Mersin, Nemrut Limani Bay, Samsun
+- `總港口數`: 54 (2024)
+- `大`: 3
+- `中`: 3
+- `小`: 6
+- `非常小`: 42
+- `原油碼頭港口`: 28
+- `主要港口`: Haydarpasa, Istanbul, Izmir, Mersin, Nemrut Limani Bay, Samsun
 
 ## 軍事和安全
 
@@ -746,9 +746,9 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan (IMU);
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 10,244 (Iraq) (mid-year 2022); 41,665 (Ukraine) (as of 15 February 2024) (2023); 3,122,899 (Syria) (2024)
+- `難民（原籍國）`: 10,244 (Iraq) (mid-year 2022); 41,665 (Ukraine) (as of 15 February 2024) (2023); 3,122,899 (Syria) (2024)
 - `IDPs`: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2022)
-- `stateless persons`: 117 (2018)
+- `無國籍人士`: 117 (2018)
 
 ### 非法藥物
 a significant transit country for illicit drug trafficking; an increase of heroin and methamphetamine seizures along the Turkiye-Iran border; Syrian drug traffickers play a significant role in Turkiye’s drug trade; domestic Illegal drug use relatively low compared to countries in the region

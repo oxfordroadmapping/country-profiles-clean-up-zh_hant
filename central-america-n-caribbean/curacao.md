@@ -19,9 +19,9 @@ Caribbean, an island in the Caribbean Sea, 55 km off the coast of Venezuela
 Central America and the Caribbean
 
 ### 面積
-- `total `: 444 sq km
-- `land`: 444 sq km
-- `water`: 0 sq km
+- `總計`: 444 sq km
+- `土地`: 444 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 more than twice the size of Washington, DC
@@ -33,8 +33,8 @@ more than twice the size of Washington, DC
 364 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive economic zone`: 200 nm
+- `領海`: 12 nm
+- `專屬經濟區`: 200 nm
 
 ### 氣候
 tropical marine climate, ameliorated by northeast trade winds, results in mild temperatures; semiarid with average rainfall of 60 cm/year
@@ -43,16 +43,16 @@ tropical marine climate, ameliorated by northeast trade winds, results in mild t
 generally low, hilly terrain
 
 ### 海拔
-- `highest point`: Mt. Christoffel 372 m
-- `lowest point`: Caribbean Sea 0 m
+- `最高點`: Mt. Christoffel 372 m
+- `最低點`: Caribbean Sea 0 m
 
 ### 自然資源
 calcium phosphates, protected harbors, hot springs
 
 ### 土地利用
-- `agricultural land`: 10% (2018 est.)
-- `agricultural land: arable land`: arable land: 10% (2018)
-- `other`: 90% (2018 est.)
+- `農地`: 10% (2018 est.)
+- `農地：耕地`: arable land: 10% (2018)
+- `其它`: 90% (2018 est.)
 
 ### 灌溉土地
 NA
@@ -69,13 +69,13 @@ Curacao is a part of the Windward Islands (southern) group in the Lesser Antille
 ## 人民和社會
 
 ### 人口
-- `total`: 153,289
-- `male`: 73,755
-- `female`: 79,534 (2024 est.)
+- `總計`: 153,289
+- `男性`: 73,755
+- `女性`: 79,534 (2024 est.)
 
 ### 國籍
-- `noun`: Curacaoan
-- `adjective`: Curacaoan; Dutch
+- `名詞`: Curacaoan
+- `形容詞`: Curacaoan; Dutch
 
 ### 族裔群體
 Curacaoan 75.4%, Dutch 6%, Dominican 3.6%, Colombian 3%, Bonairean, Sint Eustatian, Saban 1.5%, Haitian 1.2%, Surinamese 1.2%, Venezuelan 1.1%, Aruban 1.1%, other 5%, unspecified 0.9% (2011 est.)
@@ -88,20 +88,20 @@ Papiamento (official) (a creole language that is a mixture of Portuguese, Spanis
 Roman Catholic 72.8%, Pentecostal 6.6%, Protestant 3.2%, Adventist 3%, Jehovah's Witness 2%, Evangelical 1.9%, other 3.8%, none 6%, unspecified 0.6% (2011 est.)
 
 ### 年齡結構
-- `0-14 years`: 19.2% (male 15,069/female 14,337)
-- `15-64 years`: 62.3% (male 47,258/female 48,217)
-- `65 years and over`: 18.5% (2024 est.) (male 11,428/female 16,980)
+- `0-14歲`: 19.2% (male 15,069/female 14,337)
+- `15-64歲`: 62.3% (male 47,258/female 48,217)
+- `65歲及以上`: 18.5% (2024 est.) (male 11,428/female 16,980)
 
 ### 撫養比率
-- `total dependency ratio`: 47
-- `youth dependency ratio`: 25.6
-- `elderly dependency ratio`: 21.4
-- `potential support ratio`: 4.7 (2021 est.)
+- `總受扶養人比率`: 47
+- `少年撫養比率`: 25.6
+- `老人撫養比率`: 21.4
+- `潛在支持率`: 4.7 (2021 est.)
 
 ### 年齡中位數
-- `total`: 37.8 years (2024 est.)
-- `male`: 35.5 years
-- `female`: 40.2 years
+- `總計`: 37.8 years (2024 est.)
+- `男性`: 35.5 years
+- `女性`: 40.2 years
 
 ### 人口成長率
 0.28% (2024 est.)
@@ -119,28 +119,28 @@ Roman Catholic 72.8%, Pentecostal 6.6%, Protestant 3.2%, Adventist 3%, Jehovah's
 largest concentration on the island is Willemstad; smaller settlements near the coast can be found throughout the island, particularly in the northwest
 
 ### 都市化
-- `urban population`: 89% of total population (2023)
-- `rate of urbanization`: 0.57% annual rate of change (2020-25 est.)
+- `城市人口`: 89% of total population (2023)
+- `城鎮化率`: 0.57% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 144,000 WILLEMSTAD (capital) (2018)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.05 male(s)/female
-- `15-64 years`: 0.98 male(s)/female
-- `65 years and over`: 0.67 male(s)/female
-- `total population`: 0.93 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.05 male(s)/female
+- `15-64歲`: 0.98 male(s)/female
+- `65歲及以上`: 0.67 male(s)/female
+- `總人口數`: 0.93 male(s)/female (2024 est.)
 
 ### 嬰兒死亡率
-- `total`: 7.5 deaths/1,000 live births (2024 est.)
-- `male`: 8.3 deaths/1,000 live births
-- `female`: 6.7 deaths/1,000 live births
+- `總計`: 7.5 deaths/1,000 live births (2024 est.)
+- `男性`: 8.3 deaths/1,000 live births
+- `女性`: 6.7 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 79.9 years (2024 est.)
-- `male`: 77.6 years
-- `female`: 82.3 years
+- `總人口數`: 79.9 years (2024 est.)
+- `男性`: 77.6 years
+- `女性`: 82.3 years
 
 ### 總生育率
 1.96 children born/woman (2024 est.)
@@ -152,8 +152,8 @@ largest concentration on the island is Willemstad; smaller settlements near the 
 NA
 
 ### 飲用水來源
-- `improved: total`: total: 100% of population
-- `unimproved: total`: total: 0% of population (2017)
+- `已改進－總計`: total: 100% of population
+- `未改善：總計`: total: 0% of population (2017)
 
 ### 當前醫療支出
 NA
@@ -162,8 +162,8 @@ NA
 NA
 
 ### 衛生設施普及程度
-- `improved: total`: total: 100% of population
-- `unimproved: total`: total: 0% of population (2017)
+- `已改進－總計`: total: 100% of population
+- `未改善：總計`: total: 0% of population (2017)
 
 ### 5歲以下體重不足兒童
 NA
@@ -175,9 +175,9 @@ NA
 7.4% of GDP (2020 est.)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 17 years
-- `male`: 18 years
-- `female`: 18 years (2013)
+- `總計`: 17 years
+- `男性`: 18 years
+- `女性`: 18 years (2013)
 
 ## 環境
 
@@ -188,13 +188,13 @@ problems in waste management that threaten environmental sustainability on the i
 tropical marine climate, ameliorated by northeast trade winds, results in mild temperatures; semiarid with average rainfall of 60 cm/year
 
 ### 土地利用
-- `agricultural land`: 10% (2018 est.)
-- `agricultural land: arable land`: arable land: 10% (2018)
-- `other`: 90% (2018 est.)
+- `農地`: 10% (2018 est.)
+- `農地：耕地`: arable land: 10% (2018)
+- `其它`: 90% (2018 est.)
 
 ### 都市化
-- `urban population`: 89% of total population (2023)
-- `rate of urbanization`: 0.57% annual rate of change (2020-25 est.)
+- `城市人口`: 89% of total population (2023)
+- `城鎮化率`: 0.57% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0% of GDP (2018 est.)
@@ -203,12 +203,12 @@ tropical marine climate, ameliorated by northeast trade winds, results in mild t
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `carbon dioxide emissions`: 5.39 megatons (2016 est.)
+- `二氧化碳排放量`: 5.39 megatons (2016 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 24,704 tons (2013 est.)
-- `municipal solid waste recycled annually`: 494 tons (2013 est.)
-- `percent of municipal solid waste recycled`: 2% (2013 est.)
+- `城市固體廢棄物－每年產生`: 24,704 tons (2013 est.)
+- `城市固體廢棄物－每年回收`: 494 tons (2013 est.)
+- `城市固體廢棄物－回收百分比`: 2% (2013 est.)
 
 ### 可再生水資源總量
 NA
@@ -216,12 +216,12 @@ NA
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Country of Curacao
-- `conventional short form`: Curacao
-- `local long form`: Land Curacao (Dutch)/ Pais Korsou (Papiamento)
-- `local short form`: Curacao (Dutch)/ Korsou (Papiamento)
-- `former`: Netherlands Antilles; Curacao and Dependencies
-- `etymology`: the most plausible name derivation is that the island was designated Isla de la Curacion (Spanish meaning "Island of the Cure" or "Island of Healing") or Ilha da Curacao (Portuguese meaning the same) to reflect the locale's function as a recovery stop for sick crewmen
+- `常用長名`: Country of Curacao
+- `常用短名`: Curacao
+- `當地語長名`: Land Curacao (Dutch)/ Pais Korsou (Papiamento)
+- `當地語短名`: Curacao (Dutch)/ Korsou (Papiamento)
+- `前任`: Netherlands Antilles; Curacao and Dependencies
+- `语源学`: the most plausible name derivation is that the island was designated Isla de la Curacion (Spanish meaning "Island of the Cure" or "Island of Healing") or Ilha da Curacao (Portuguese meaning the same) to reflect the locale's function as a recovery stop for sick crewmen
 
 ### 政府類型
 parliamentary democracy
@@ -230,10 +230,10 @@ parliamentary democracy
 constituent country within the Kingdom of the Netherlands; full autonomy in internal affairs granted in 2010; Dutch Government responsible for defense and foreign affairs
 
 ### 首都
-- `name`: Willemstad
-- `geographic coordinates`: 12 06 N, 68 55 W
-- `time difference`: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
-- `etymology`: named after Prince WILLIAM II of Orange (1626-1650), who served as stadtholder (Dutch head of state) from 1647 to 1650, shortly after the the Dutch captured Curacao from the Spanish in 1634
+- `名稱`: Willemstad
+- `地理坐標`: 12 06 N, 68 55 W
+- `時差`: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+- `语源学`: named after Prince WILLIAM II of Orange (1626-1650), who served as stadtholder (Dutch head of state) from 1647 to 1650, shortly after the the Dutch captured Curacao from the Spanish in 1634
 
 ### 行政區劃
 none (part of the Kingdom of the Netherlands)
@@ -249,7 +249,7 @@ King's Day (birthday of King WILLEM-ALEXANDER), 27 April (1967); note - King's o
 based on Dutch civil law
 
 ### 憲法
-- `history`: previous 1947, 1955; latest adopted 5 September 2010, entered into force 10 October 2010 (regulates governance of Curacao but is subordinate to the Charter for the Kingdom of the Netherlands); note - in October 2010, with the dissolution of the Netherlands Antilles, Curacao became a semi-autonomous entity within the Kingdom of the Netherlands
+- `歷史`: previous 1947, 1955; latest adopted 5 September 2010, entered into force 10 October 2010 (regulates governance of Curacao but is subordinate to the Charter for the Kingdom of the Netherlands); note - in October 2010, with the dissolution of the Netherlands Antilles, Curacao became a semi-autonomous entity within the Kingdom of the Netherlands
 
 ### 公民身份
 see the Netherlands
@@ -258,20 +258,20 @@ see the Netherlands
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: King WILLEM-ALEXANDER of the Netherlands (since 30 April 2013); represented by Governor Lucille A. GEORGE-WOUT (since 4 November 2013)
-- `head of government`: Prime Minister Gilmar PISAS (since 14 June 2021)
-- `cabinet`: Cabinet sworn-in by the governor
-- `elections/appointments`: the monarch is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party usually elected prime minister by the Parliament of Curacao; election last held on 19 March 2021 (next to be held in 2025)
+- `國家元首`: King WILLEM-ALEXANDER of the Netherlands (since 30 April 2013); represented by Governor Lucille A. GEORGE-WOUT (since 4 November 2013)
+- `政府首腦`: Prime Minister Gilmar PISAS (since 14 June 2021)
+- `内閣`: Cabinet sworn-in by the governor
+- `選舉/任命`: the monarch is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party usually elected prime minister by the Parliament of Curacao; election last held on 19 March 2021 (next to be held in 2025)
 
 ### 立法部門
-- `description`: unicameral Parliament of Curacao (21 seats; members directly elected by party-list proportional representation vote to serve 4-year terms)
-- `elections`: last held on 19 March 2021 (next to be held in 2025)
-- `election results`: percent of vote by party - MFK 27.8%, PAR 13.9%, PNP 12.5%, MAN 6.4%, KEM 5.4%, TPK 5.2%; seats by party - MFK 9, PAR 4, PNP 4, MAN 2, KEM 1, TPK 1; composition - men 15, women 6, percent of women 28.6%
+- `描述`: unicameral Parliament of Curacao (21 seats; members directly elected by party-list proportional representation vote to serve 4-year terms)
+- `選舉`: last held on 19 March 2021 (next to be held in 2025)
+- `選舉結果`: percent of vote by party - MFK 27.8%, PAR 13.9%, PNP 12.5%, MAN 6.4%, KEM 5.4%, TPK 5.2%; seats by party - MFK 9, PAR 4, PNP 4, MAN 2, KEM 1, TPK 1; composition - men 15, women 6, percent of women 28.6%
 
 ### 司法部門
-- `highest court(s)`: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (sits as a 3-judge panel); final appeals heard by the Supreme Court, in The Hague, Netherlands
-- `judge selection and term of office`: Joint Court judges appointed by the monarch for life
-- `subordinate courts`: first instance courts, appeals court; specialized courts
+- `最高法院`: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (sits as a 3-judge panel); final appeals heard by the Supreme Court, in The Hague, Netherlands
+- `法官遴選和任期`: Joint Court judges appointed by the monarch for life
+- `下級法院`: first instance courts, appeals court; specialized courts
 
 ### 政黨
 Korsou di Nos Tur or KdnTKorsou Esun Miho or KEMMovementu Futuro Korsou or MFKMovementu Progresivo or MPMovishon Antia Nobo or MANPartido Antia Restruktura or PARPartido Inovashon Nashonal or PINPartido Nashonal di Pueblo or PNPPueblo Soberano or PSTrabou pa Kòrsou or TPKUn Korsou Hustu
@@ -283,12 +283,12 @@ ACS (associate), Caricom (observer), FATF, ILO, ITU, UNESCO (associate), UPU
 none (represented by the Kingdom of the Netherlands)
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Consul General Margy BOND (since 20 January 2022); note - also accredited to Aruba and Sint Maarten
-- `embassy`: P.O. Box 158, J.B. Gorsiraweg 1
-- `mailing address`: 3160 Curacao Place, Washington DC  20521-3160
-- `telephone`: [599] (9) 461-3066
+- `外交代表負責人`: Consul General Margy BOND (since 20 January 2022); note - also accredited to Aruba and Sint Maarten
+- `大使館`: P.O. Box 158, J.B. Gorsiraweg 1
+- `郵寄地址`: 3160 Curacao Place, Washington DC  20521-3160
+- `電話號碼`: [599] (9) 461-3066
 - `FAX`: [599] (9) 461-6489
-- `email address and website`: ACSCuracao@state.gov  https://cw.usconsulate.gov/
+- `電子郵件地址和網站`: ACSCuracao@state.gov  https://cw.usconsulate.gov/
 
 ### 旗幟說明
 on a blue field a horizontal yellow band somewhat below the center divides the flag into proportions of 5:1:2; two five-pointed white stars - the smaller above and to the left of the larger - appear in the canton; the blue of the upper and lower sections symbolizes the sky and sea respectively; yellow represents the sun; the stars symbolize Curacao and its uninhabited smaller sister island of Klein Curacao; the five star points signify the five continents from which Curacao's people derive
@@ -297,8 +297,8 @@ on a blue field a horizontal yellow band somewhat below the center divides the f
 laraha (citrus tree); national colors: blue, yellow, white
 
 ### 國歌
-- `name`: "Himmo di Korsou" (Anthem of Curacao)
-- `lyrics/music`: Guillermo ROSARIO, Mae HENRIQUEZ, Enrique MULLER, Betty DORAN/Frater Candidus NOWENS, Errol "El Toro" COLINA
+- `名稱`: "Himmo di Korsou" (Anthem of Curacao)
+- `歌詞／音樂`: Guillermo ROSARIO, Mae HENRIQUEZ, Enrique MULLER, Betty DORAN/Frater Candidus NOWENS, Errol "El Toro" COLINA
 **note**:  adapted 1978; the lyrics, originally written in 1899, were rewritten in 1978 to make them less colonial in nature
 
 ### 國家級遺產
@@ -339,18 +339,18 @@ $3.074 billion (2022 est.)
 **note**: annual % change based on consumer prices
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 0.3% (2022 est.)
-- `industry`: 11.2% (2022 est.)
-- `services`: 73.4% (2022 est.)
+- `農業`: 0.3% (2022 est.)
+- `產業`: 11.2% (2022 est.)
+- `服務`: 73.4% (2022 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 73.2% (2018 est.)
-- `government consumption`: 14.5% (2018 est.)
-- `investment in fixed capital`: 34% (2018 est.)
-- `investment in inventories`: 7% (2018 est.)
-- `exports of goods and services`: 63.2% (2018 est.)
-- `imports of goods and services`: -92% (2018 est.)
+- `家庭消費`: 73.2% (2018 est.)
+- `政府消費`: 14.5% (2018 est.)
+- `固定資本投資`: 34% (2018 est.)
+- `存貨投資`: 7% (2018 est.)
+- `商品和服務出口`: 63.2% (2018 est.)
+- `商品和服務進口`: -92% (2018 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -364,9 +364,9 @@ tourism, petroleum refining, petroleum transshipment, light manufacturing, finan
 **note**: annual % change in industrial value added based on constant local currency
 
 ### 青年失業率（15-24歲）
-- `total`: 42.2% (2020 est.)
-- `male`: 38.1%
-- `female`: 47.1%
+- `總計`: 42.2% (2020 est.)
+- `男性`: 38.1%
+- `女性`: 47.1%
 
 ### 匯款
 5.16% of GDP (2022 est.)
@@ -419,22 +419,22 @@ refined petroleum, cars, garments, integrated circuits, packaged medicine (2022)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 53,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 28 (2021 est.)
+- `總訂閱數`: 53,000 (2021 est.)
+- `每100名居民訂閱數`: 28 (2021 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 168,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 88 (2021 est.)
+- `總訂閱數`: 168,000 (2021 est.)
+- `每100名居民訂閱數`: 88 (2021 est.)
 
 ### 電信系統
-- `general assessment`: fully automatic modern telecommunications system; telecom sector across the Caribbean region continues to be one of the growth areas; given the lack of economic diversity in the region, with a high dependence on tourism and activities such as fisheries and offshore financial services the telecom sector contributes greatly to the GDP (2020)
-- `domestic`: roughly 28 per 100 users for fixed-line and 88 per 100 users for cellular-mobile (2021)
-- `international`: country code - +599, PCCS submarine cable system to US, Caribbean and Central and South America (2019)
+- `總體評估`: fully automatic modern telecommunications system; telecom sector across the Caribbean region continues to be one of the growth areas; given the lack of economic diversity in the region, with a high dependence on tourism and activities such as fisheries and offshore financial services the telecom sector contributes greatly to the GDP (2020)
+- `國內`: roughly 28 per 100 users for fixed-line and 88 per 100 users for cellular-mobile (2021)
+- `國際的`: country code - +599, PCCS submarine cable system to US, Caribbean and Central and South America (2019)
 
 ### 廣播媒體
 government-run TeleCuracao operates a TV station and a radio station; 2 other privately owned TV stations and several privately owned radio stations (2019)
@@ -443,18 +443,18 @@ government-run TeleCuracao operates a TV station and a radio station; 2 other p
 .cw
 
 ### 網際網路使用者
-- `total`: 111,956 (2021 est.)
-- `percent of population`: 68.1% (2021 est.)
+- `總計`: 111,956 (2021 est.)
+- `佔人口比例`: 68.1% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 55,000 (2020 est.)
-- `subscriptions per 100 inhabitants`: 34 (2020 est.)
+- `總計`: 55,000 (2020 est.)
+- `每100名居民訂閱數`: 34 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 2 (2020)
-- `inventory of registered aircraft operated by air carriers`: 11
+- `註冊航空公司數量`: 2 (2020)
+- `註冊飛機庫存—航空承運商經營`: 11
 
 ### 註冊民用航空器國家代碼前綴
 PJ
@@ -463,20 +463,20 @@ PJ
 1 (2024)
 
 ### 道路
-- `total`: 550 km
+- `總計`: 550 km
 
 ### 商船
-- `total`: 57 (2023)
-- `by type`: general cargo 5, oil tanker 1, other 51
+- `總計`: 57 (2023)
+- `依類型`: general cargo 5, oil tanker 1, other 51
 
 ### 港口
-- `total ports`: 4 (2024)
-- `large`: 0
-- `medium`: 2
-- `small`: 1
-- `very small`: 1
-- `ports with oil terminals`: 3
-- `key ports`: Bullenbaai, Caracasbaai, Sint Michelsbaai, Willemstad
+- `總港口數`: 4 (2024)
+- `大`: 0
+- `中`: 2
+- `小`: 1
+- `非常小`: 1
+- `原油碼頭港口`: 3
+- `主要港口`: Bullenbaai, Caracasbaai, Sint Michelsbaai, Willemstad
 
 ## 軍事和安全
 
@@ -489,10 +489,10 @@ defense is the responsibility of the Kingdom of the Netherlands; the Dutch Gover
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 14,000 (Venezuela) (2022)
+- `難民（原籍國）`: 14,000 (Venezuela) (2022)
 
 ### 人口販運
-- `tier rating`: Tier 2 Watch List — Curaçao does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so, therefore Curaçao was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/curacao/
+- `會級評分`: Tier 2 Watch List — Curaçao does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so, therefore Curaçao was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/curacao/
 
 ### 非法藥物
 northbound transshipment points for cocaine from Colombia and Venezuela; cocaine is transported to the United States, other Caribbean islands, Africa, and Europe

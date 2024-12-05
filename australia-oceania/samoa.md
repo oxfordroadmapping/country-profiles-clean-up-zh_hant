@@ -19,23 +19,23 @@ Oceania, group of islands in the South Pacific Ocean, about halfway between Hawa
 Oceania
 
 ### 面積
-- `total `: 2,831 sq km
-- `land`: 2,821 sq km
-- `water`: 10 sq km
+- `總計`: 2,831 sq km
+- `土地`: 2,821 sq km
+- `水`: 10 sq km
 
 ### 面積—比較
 slightly smaller than Rhode Island
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 403 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
 
 ### 氣候
 tropical; rainy season (November to April), dry season (May to October)
@@ -44,19 +44,19 @@ tropical; rainy season (November to April), dry season (May to October)
 two main islands (Savaii, Upolu) and several smaller islands and uninhabited islets; narrow coastal plain with volcanic, rugged mountains in interior
 
 ### 海拔
-- `highest point`: Mount Silisili 1,857 m
-- `lowest point`: Pacific Ocean 0 m
+- `最高點`: Mount Silisili 1,857 m
+- `最低點`: Pacific Ocean 0 m
 
 ### 自然資源
 hardwood forests, fish, hydropower
 
 ### 土地利用
-- `agricultural land`: 12.4% (2018 est.)
-- `agricultural land: arable land`: arable land: 2.8% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 7.8% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 1.8% (2018 est.)
-- `forest`: 60.4% (2018 est.)
-- `other`: 27.2% (2018 est.)
+- `農地`: 12.4% (2018 est.)
+- `農地：耕地`: arable land: 2.8% (2018 est.)
+- `農地：永久性作物`: permanent crops: 7.8% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 1.8% (2018 est.)
+- `森林`: 60.4% (2018 est.)
+- `其它`: 27.2% (2018 est.)
 
 ### 灌溉土地
 0 sq km (2022)
@@ -73,13 +73,13 @@ occupies an almost central position within Polynesia
 ## 人民和社會
 
 ### 人口
-- `total`: 208,853
-- `male`: 105,920
-- `female`: 102,933 (2024 est.)
+- `總計`: 208,853
+- `男性`: 105,920
+- `女性`: 102,933 (2024 est.)
 
 ### 國籍
-- `noun`: Samoan(s)
-- `adjective`: Samoan
+- `名詞`: Samoan(s)
+- `形容詞`: Samoan
 
 ### 族裔群體
 Samoan 96%, Samoan/New Zealander 2%, other 1.9% (2011 est.)
@@ -92,20 +92,20 @@ Samoan (Polynesian) (official) 91.1%, Samoan/English 6.7%, English (official) 0.
 Protestant 54.9% (Congregationalist 29%, Methodist 12.4%, Assembly of God 6.8%, Seventh Day Adventist 4.4%, other Protestant 2.3%), Roman Catholic 18.8%, Church of Jesus Christ 16.9%, Worship Centre 2.8%, other Christian 3.6%, other 2.9% (includes Baha'i, Muslim), none 0.2% (2016 est.)
 
 ### 年齡結構
-- `0-14 years`: 26.9% (male 28,952/female 27,173)
-- `15-64 years`: 65.9% (male 70,225/female 67,427)
-- `65 years and over`: 7.2% (2024 est.) (male 6,743/female 8,333)
+- `0-14歲`: 26.9% (male 28,952/female 27,173)
+- `15-64歲`: 65.9% (male 70,225/female 67,427)
+- `65歲及以上`: 7.2% (2024 est.) (male 6,743/female 8,333)
 
 ### 撫養比率
-- `total dependency ratio`: 74.9
-- `youth dependency ratio`: 66
-- `elderly dependency ratio`: 8.9
-- `potential support ratio`: 11.2 (2020 est.)
+- `總受扶養人比率`: 74.9
+- `少年撫養比率`: 66
+- `老人撫養比率`: 8.9
+- `潛在支持率`: 11.2 (2020 est.)
 
 ### 年齡中位數
-- `total`: 27.4 years (2024 est.)
-- `male`: 27 years
-- `female`: 27.8 years
+- `總計`: 27.4 years (2024 est.)
+- `男性`: 27 years
+- `女性`: 27.8 years
 
 ### 人口成長率
 0.65% (2024 est.)
@@ -123,31 +123,31 @@ Protestant 54.9% (Congregationalist 29%, Methodist 12.4%, Assembly of God 6.8%, 
 about three-quarters of the population lives on the island of Upolu
 
 ### 都市化
-- `urban population`: 17.5% of total population (2023)
-- `rate of urbanization`: -0.03% annual rate of change (2020-25 est.)
+- `城市人口`: 17.5% of total population (2023)
+- `城鎮化率`: -0.03% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 36,000 APIA (capital) (2018)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.07 male(s)/female
-- `15-64 years`: 1.04 male(s)/female
-- `65 years and over`: 0.81 male(s)/female
-- `total population`: 1.03 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.07 male(s)/female
+- `15-64歲`: 1.04 male(s)/female
+- `65歲及以上`: 0.81 male(s)/female
+- `總人口數`: 1.03 male(s)/female (2024 est.)
 
 ### 產婦死亡率
 59 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 17.3 deaths/1,000 live births (2024 est.)
-- `male`: 20.9 deaths/1,000 live births
-- `female`: 13.6 deaths/1,000 live births
+- `總計`: 17.3 deaths/1,000 live births (2024 est.)
+- `男性`: 20.9 deaths/1,000 live births
+- `女性`: 13.6 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 75.7 years (2024 est.)
-- `male`: 72.8 years
-- `female`: 78.7 years
+- `總人口數`: 75.7 years (2024 est.)
+- `男性`: 72.8 years
+- `女性`: 78.7 years
 
 ### 總生育率
 2.33 children born/woman (2024 est.)
@@ -159,12 +159,12 @@ about three-quarters of the population lives on the island of Upolu
 16.6% (2019/20)
 
 ### 飲用水來源
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 98% of population
-- `improved: total`: total: 98.4% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 2% of population
-- `unimproved: total`: total: 1.6% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 98% of population
+- `已改進－總計`: total: 98.4% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 2% of population
+- `未改善：總計`: total: 1.6% of population (2020 est.)
 
 ### 當前醫療支出
 5.3% of GDP (2020)
@@ -173,27 +173,27 @@ about three-quarters of the population lives on the island of Upolu
 0.6 physicians/1,000 population (2020)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 99.5% of population
-- `improved: rural`: rural: 99.5% of population
-- `improved: total`: total: 99.5% of population
-- `unimproved: urban`: urban: 0.5% of population
-- `unimproved: rural`: rural: 0.5% of population
-- `unimproved: total`: total: 0.5% of population (2020 est.)
+- `已改進－城市`: urban: 99.5% of population
+- `已改進－農村`: rural: 99.5% of population
+- `已改進－總計`: total: 99.5% of population
+- `未改進：都市`: urban: 0.5% of population
+- `未改進：鄉村`: rural: 0.5% of population
+- `未改善：總計`: total: 0.5% of population (2020 est.)
 
 ### 肥胖—成人流行率
 47.3% (2016)
 
 ### 人均酒精消費量
-- `total`: 2.18 liters of pure alcohol (2019 est.)
-- `beer`: 2.01 liters of pure alcohol (2019 est.)
-- `wine`: 0 liters of pure alcohol (2019 est.)
-- `spirits`: 0.17 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 2.18 liters of pure alcohol (2019 est.)
+- `啤酒`: 2.01 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.17 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 25.3% (2020 est.)
-- `male`: 36.1% (2020 est.)
-- `female`: 14.5% (2020 est.)
+- `總計`: 25.3% (2020 est.)
+- `男性`: 36.1% (2020 est.)
+- `女性`: 14.5% (2020 est.)
 
 ### 5歲以下體重不足兒童
 3.4% (2019/20)
@@ -202,18 +202,18 @@ about three-quarters of the population lives on the island of Upolu
 61.7% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 0.9%
-- `women married by age 18`: 7.4%
-- `men married by age 18`: 2% (2020 est.)
+- `15歲前結婚的女性`: 0.9%
+- `18歲前結婚的女性`: 7.4%
+- `18歲前結婚的男性`: 2% (2020 est.)
 
 ### 教育支出
 4.8% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 99.1%
-- `male`: 99%
-- `female`: 99.3% (2021)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 99.1%
+- `男性`: 99%
+- `女性`: 99.3% (2021)
 
 ## 環境
 
@@ -221,23 +221,23 @@ about three-quarters of the population lives on the island of Upolu
 soil erosion, deforestation, invasive species, overfishing
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 tropical; rainy season (November to April), dry season (May to October)
 
 ### 土地利用
-- `agricultural land`: 12.4% (2018 est.)
-- `agricultural land: arable land`: arable land: 2.8% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 7.8% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 1.8% (2018 est.)
-- `forest`: 60.4% (2018 est.)
-- `other`: 27.2% (2018 est.)
+- `農地`: 12.4% (2018 est.)
+- `農地：耕地`: arable land: 2.8% (2018 est.)
+- `農地：永久性作物`: permanent crops: 7.8% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 1.8% (2018 est.)
+- `森林`: 60.4% (2018 est.)
+- `其它`: 27.2% (2018 est.)
 
 ### 都市化
-- `urban population`: 17.5% of total population (2023)
-- `rate of urbanization`: -0.03% annual rate of change (2020-25 est.)
+- `城市人口`: 17.5% of total population (2023)
+- `城鎮化率`: -0.03% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.27% of GDP (2018 est.)
@@ -246,14 +246,14 @@ tropical; rainy season (November to April), dry season (May to October)
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 7.78 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 0.25 megatons (2016 est.)
-- `methane emissions`: 0.27 megatons (2020 est.)
+- `顆粒物排放量`: 7.78 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 0.25 megatons (2016 est.)
+- `甲烷排放量`: 0.27 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 27,399 tons (2011 est.)
-- `municipal solid waste recycled annually`: 9,864 tons (2013 est.)
-- `percent of municipal solid waste recycled`: 36% (2013 est.)
+- `城市固體廢棄物－每年產生`: 27,399 tons (2011 est.)
+- `城市固體廢棄物－每年回收`: 9,864 tons (2013 est.)
+- `城市固體廢棄物－回收百分比`: 36% (2013 est.)
 
 ### 可再生水資源總量
 0 cubic meters (2017 est.)
@@ -261,21 +261,21 @@ tropical; rainy season (November to April), dry season (May to October)
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Independent State of Samoa
-- `conventional short form`: Samoa
-- `local long form`: Malo Sa'oloto Tuto'atasi o Samoa
-- `local short form`: Samoa
-- `former`: Western Samoa
-- `etymology`: the meaning of Samoa is disputed; some modern explanations are that the "sa" connotes  "sacred" and "moa" indicates "center," so the name can mean "Holy Center"; alternatively, some assertions state that it can mean "place of the sacred moa bird" of Polynesian mythology; the name, however, may go back to Proto-Polynesian (PPn) times (before 1000 B.C.); a plausible PPn reconstruction has the first syllable as "sa'a" meaning "tribe or people" and "moa" meaning "deep sea or ocean" to convey the meaning "people of the deep sea"
+- `常用長名`: Independent State of Samoa
+- `常用短名`: Samoa
+- `當地語長名`: Malo Sa'oloto Tuto'atasi o Samoa
+- `當地語短名`: Samoa
+- `前任`: Western Samoa
+- `语源学`: the meaning of Samoa is disputed; some modern explanations are that the "sa" connotes  "sacred" and "moa" indicates "center," so the name can mean "Holy Center"; alternatively, some assertions state that it can mean "place of the sacred moa bird" of Polynesian mythology; the name, however, may go back to Proto-Polynesian (PPn) times (before 1000 B.C.); a plausible PPn reconstruction has the first syllable as "sa'a" meaning "tribe or people" and "moa" meaning "deep sea or ocean" to convey the meaning "people of the deep sea"
 
 ### 政府類型
 parliamentary republic
 
 ### 首都
-- `name`: Apia
-- `geographic coordinates`: 13 49 S, 171 46 W
-- `time difference`: UTC+13 (18 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: name derives from the native village around which the capital was constructed in the 1850s; the village still exists within the larger modern capital
+- `名稱`: Apia
+- `地理坐標`: 13 49 S, 171 46 W
+- `時差`: UTC+13 (18 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: name derives from the native village around which the capital was constructed in the 1850s; the village still exists within the larger modern capital
 
 ### 行政區劃
 11 districts; A'ana, Aiga-i-le-Tai, Atua, Fa'asaleleaga, Gaga'emauga, Gagaifomauga, Palauli, Satupa'itea, Tuamasaga, Va'a-o-Fonoti, Vaisigano
@@ -290,37 +290,37 @@ Independence Day Celebration, 1 June (1962); note - 1 January 1962 is the date o
 mixed legal system of English common law and customary law; judicial review of legislative acts with respect to fundamental rights of the citizen
 
 ### 憲法
-- `history`: several previous (preindependence); latest 1 January 1962
-- `amendments`: proposed as an act by the Legislative Assembly; passage requires at least two-thirds majority vote by the Assembly membership in the third reading - provided at least 90 days have elapsed since the second reading, and assent of the chief of state; passage of amendments affecting constitutional articles on customary land or constitutional amendment procedures also requires at least two-thirds majority approval in a referendum; amended several times, last in 2020
+- `歷史`: several previous (preindependence); latest 1 January 1962
+- `修正`: proposed as an act by the Legislative Assembly; passage requires at least two-thirds majority vote by the Assembly membership in the third reading - provided at least 90 days have elapsed since the second reading, and assent of the chief of state; passage of amendments affecting constitutional articles on customary land or constitutional amendment procedures also requires at least two-thirds majority approval in a referendum; amended several times, last in 2020
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Samoa
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 5 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Samoa
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 5 years
 
 ### 選舉權
 21 years of age; universal
 
 ### 行政部門
-- `chief of state`: TUIMALEALI'IFANO Va’aletoa Sualauvi II (since 21 July 2017)
-- `head of government`: Prime Minister FIAME Naomi Mata’afa (since 24 May 2021)
-- `cabinet`: Cabinet appointed by the chief of state on the advice of the prime minister
-- `elections/appointments`: chief of state indirectly elected by the Legislative Assembly to serve a 5-year term (2-term limit); election last held on 23 August 2022 (next to be held in 2026); following legislative elections, the leader of the majority party is usually appointed prime minister by the chief of state, approved by the Legislative Assembly
-- `election results`: TUIMALEALI'IFANO Va’aletoa Sualauvi II (independent) unanimously reelected by the Legislative Assembly
+- `國家元首`: TUIMALEALI'IFANO Va’aletoa Sualauvi II (since 21 July 2017)
+- `政府首腦`: Prime Minister FIAME Naomi Mata’afa (since 24 May 2021)
+- `内閣`: Cabinet appointed by the chief of state on the advice of the prime minister
+- `選舉/任命`: chief of state indirectly elected by the Legislative Assembly to serve a 5-year term (2-term limit); election last held on 23 August 2022 (next to be held in 2026); following legislative elections, the leader of the majority party is usually appointed prime minister by the chief of state, approved by the Legislative Assembly
+- `選舉結果`: TUIMALEALI'IFANO Va’aletoa Sualauvi II (independent) unanimously reelected by the Legislative Assembly
 
 ### 立法部門
-- `description`: unicameral Legislative Assembly or Fono (54 seats); members from single-seat constituencies directly elected by simple majority vote, with a minimum 10% representation of women in the Assembly required; members serve 5-year terms)
-- `elections`: election last held on 9 April 2021 (next election to be held in 2026)
-- `election results`: percent of vote by party - HRPP 55%, FAST 37%, TSP 3%, independent 5%; seats by party – 35 FAST, HRPP 18, independent 1; composition - men 47, women 7, percentage women 13%*_issue_**_issue_*
+- `描述`: unicameral Legislative Assembly or Fono (54 seats); members from single-seat constituencies directly elected by simple majority vote, with a minimum 10% representation of women in the Assembly required; members serve 5-year terms)
+- `選舉`: election last held on 9 April 2021 (next election to be held in 2026)
+- `選舉結果`: percent of vote by party - HRPP 55%, FAST 37%, TSP 3%, independent 5%; seats by party – 35 FAST, HRPP 18, independent 1; composition - men 47, women 7, percentage women 13%*_issue_**_issue_*
 
 ### 司法部門
-- `highest court(s)`: Court of Appeal (consists of the chief justice and 2 Supreme Court judges and meets once or twice a year); Supreme Court (consists of the chief justice and several judges)
-- `judge selection and term of office`: chief justice appointed by the chief of state upon the advice of the prime minister; other Supreme Court judges appointed by the Judicial Service Commission, a 3-member body chaired by the chief justice and includes the attorney general and an appointee of the Minister of Justice; judges normally serve until retirement at age 68
-- `subordinate courts`: District Court; Magistrates' Courts; Land and Titles Courts; village fono or village chief councils
+- `最高法院`: Court of Appeal (consists of the chief justice and 2 Supreme Court judges and meets once or twice a year); Supreme Court (consists of the chief justice and several judges)
+- `法官遴選和任期`: chief justice appointed by the chief of state upon the advice of the prime minister; other Supreme Court judges appointed by the Judicial Service Commission, a 3-member body chaired by the chief justice and includes the attorney general and an appointee of the Minister of Justice; judges normally serve until retirement at age 68
+- `下級法院`: District Court; Magistrates' Courts; Land and Titles Courts; village fono or village chief councils
 
 ### 政黨
 Fa'atuatua i le Atua Samoa ua Tasi or FAST Human Rights Protection Party or HRPP Tautua Samoa Party or TSP 
@@ -329,20 +329,20 @@ Fa'atuatua i le Atua Samoa ua Tasi or FAST Human Rights Protection Party or HRP
 ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IPU, ITU, ITUC (NGOs), MIGA, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Pa’olelei LUTERU (since 7 July 2021); note - also Permanent Representative to the UN
-- `chancery`: 685 Third Avenue, 44th Street, 11th Floor, Suite 1102, New York, NY 10017
-- `telephone`: [1] (212) 599-6196
+- `外交代表負責人`: Ambassador Pa’olelei LUTERU (since 7 July 2021); note - also Permanent Representative to the UN
+- `衡平法院（在美國）`: 685 Third Avenue, 44th Street, 11th Floor, Suite 1102, New York, NY 10017
+- `電話號碼`: [1] (212) 599-6196
 - `FAX`: [1] (212) 599-0797
-- `email address and website`: samoa@samoanymission.ws  About | Samoa Permanent Mission to the United Nations
-- `consulate(s) general`: Pago Pago (American Samoa)
+- `電子郵件地址和網站`: samoa@samoanymission.ws  About | Samoa Permanent Mission to the United Nations
+- `總領事館`: Pago Pago (American Samoa)
 
 ### 駐該國的美國外交代表
-- `chief of mission`: the US Ambassador to New Zealand is accredited to Samoa
-- `embassy`: 5th Floor, Accident Corporation Building, Matafele Apia
-- `mailing address`: 4400 Apia Place, Washington DC 20521-4400
-- `telephone`: [685] 21-436
+- `外交代表負責人`: the US Ambassador to New Zealand is accredited to Samoa
+- `大使館`: 5th Floor, Accident Corporation Building, Matafele Apia
+- `郵寄地址`: 4400 Apia Place, Washington DC 20521-4400
+- `電話號碼`: [685] 21-436
 - `FAX`: [685] 22-030
-- `email address and website`: ApiaConsular@state.gov  https://ws.usembassy.gov/
+- `電子郵件地址和網站`: ApiaConsular@state.gov  https://ws.usembassy.gov/
 
 ### 旗幟說明
 red with a blue rectangle in the upper hoist-side quadrant bearing five white, five-pointed stars representing the Southern Cross constellation; red stands for courage, blue represents freedom, and white signifies purity
@@ -352,8 +352,8 @@ red with a blue rectangle in the upper hoist-side quadrant bearing five white, f
 Southern Cross constellation (five, five-pointed stars); national colors: red, white, blue
 
 ### 國歌
-- `name`: "O le Fu'a o le Sa'olotoga o Samoa" (The Banner of Freedom)
-- `lyrics/music`: Sauni Liga KURESA
+- `名稱`: "O le Fu'a o le Sa'olotoga o Samoa" (The Banner of Freedom)
+- `歌詞／音樂`: Sauni Liga KURESA
 **note**:  adopted 1962; also known as "Samoa Tula'i" (Samoa Arise)
 
 ## 經濟
@@ -390,18 +390,18 @@ $934.1 million (2023 est.)
 **note**: annual % change based on consumer prices
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 11% (2023 est.)
-- `industry`: 11% (2023 est.)
-- `services`: 67.6% (2023 est.)
+- `農業`: 11% (2023 est.)
+- `產業`: 11% (2023 est.)
+- `服務`: 67.6% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 86.2% (2023 est.)
-- `government consumption`: 18.2% (2023 est.)
-- `investment in fixed capital`: 34.7% (2023 est.)
-- `investment in inventories`: 2.6% (2023 est.)
-- `exports of goods and services`: 28.9% (2023 est.)
-- `imports of goods and services`: -62.2% (2023 est.)
+- `家庭消費`: 86.2% (2023 est.)
+- `政府消費`: 18.2% (2023 est.)
+- `固定資本投資`: 34.7% (2023 est.)
+- `存貨投資`: 2.6% (2023 est.)
+- `商品和服務出口`: 28.9% (2023 est.)
+- `商品和服務進口`: -62.2% (2023 est.)
 **note**:  figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -426,9 +426,9 @@ food processing, building materials, auto parts
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 19.8% (2023 est.)
-- `male`: 13.4% (2023 est.)
-- `female`: 29.9% (2023 est.)
+- `總計`: 19.8% (2023 est.)
+- `男性`: 13.4% (2023 est.)
+- `女性`: 29.9% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -442,8 +442,8 @@ food processing, building materials, auto parts
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $342.18 million (2021 est.)
-- `expenditures`: $297.736 million (2021 est.)
+- `收入`: $342.18 million (2021 est.)
+- `支出`: $297.736 million (2021 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -508,28 +508,28 @@ $279.335 million (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 98.3% (2022 est.)
-- `electrification - urban areas`: 100%
-- `electrification - rural areas`: 97.9%
+- `電氣化－總人口`: 98.3% (2022 est.)
+- `電氣化－城市地區`: 100%
+- `電氣化－農村地區`: 97.9%
 
 ### 電力
-- `installed generating capacity`: 53,000 kW (2022 est.)
-- `consumption`: 177.279 million kWh (2022 est.)
-- `transmission/distribution losses`: 17.175 million kWh (2022 est.)
+- `裝機容量`: 53,000 kW (2022 est.)
+- `消費`: 177.279 million kWh (2022 est.)
+- `傳輸／分配損耗`: 17.175 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 66.9% of total installed capacity (2022 est.)
-- `solar`: 12.3% of total installed capacity (2022 est.)
-- `wind`: 0.1% of total installed capacity (2022 est.)
-- `hydroelectricity`: 20.6% of total installed capacity (2022 est.)
-- `biomass and waste`: 0.1% of total installed capacity (2022 est.)
+- `石化燃料`: 66.9% of total installed capacity (2022 est.)
+- `太陽能`: 12.3% of total installed capacity (2022 est.)
+- `風能`: 0.1% of total installed capacity (2022 est.)
+- `水力發電`: 20.6% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 0.1% of total installed capacity (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 2,000 bbl/day (2022 est.)
+- `成品油消費量`: 2,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 311,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 311,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 311,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 311,000 metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 20.949 million Btu/person (2022 est.)
@@ -537,17 +537,17 @@ $279.335 million (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 5,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 2 (2022 est.)
+- `總訂閱數`: 5,000 (2022 est.)
+- `每100名居民訂閱數`: 2 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 134,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 60 (2022 est.)
+- `總訂閱數`: 134,000 (2022 est.)
+- `每100名居民訂閱數`: 60 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Samoa was one of the first Pacific Island countries to establish a regulatory infrastructure and to liberalize its telecom market; the advent of competition in the mobile market saw prices fall by around 50% and network coverage increase to more than 90% of the population; Samoa also boasts one of the highest rates of mobile phone coverage in the Pacific region; the growth of fixed-line internet has been impeded by factors including the high costs for bandwidth, under investment in fixed-line infrastructure; Samoa’s telecoms sector has been inhibited by a lack of international connectivity; Samoa has had access to the Samoa-America-Samoa (SAS) cable laid in 2009, this cable has insufficient capacity to meet the country’s future bandwidth needs; this issue was addressed with two new submarine cables that became available in 2018 and 2019; combined with the Samoa National Broadband Highway (SNBH), have improved internet data rates and reliability, and have helped to reduce the high costs previously associated with internet access in Samoa; in April 2022, the Samoan government announced its decision to take over control of the Samoa Submarine Cable Company, looking to the cable to generate additional revenue for the state (2022)
-- `domestic`: fixed-line is 3 per 100 and mobile-cellular teledensity  32 telephones per 100 persons (2021)
-- `international`: country code - 685; landing points for the Tui-Samo, Manatua, SAS, and Southern Cross NEXT submarine cables providing connectivity to Samoa, Fiji, Wallis & Futuna, Cook Islands, Niue, French Polynesia, American Samoa, Australia, New Zealand, Kiribati, Los Angeles (US), and Tokelau; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)
+- `總體評估`: Samoa was one of the first Pacific Island countries to establish a regulatory infrastructure and to liberalize its telecom market; the advent of competition in the mobile market saw prices fall by around 50% and network coverage increase to more than 90% of the population; Samoa also boasts one of the highest rates of mobile phone coverage in the Pacific region; the growth of fixed-line internet has been impeded by factors including the high costs for bandwidth, under investment in fixed-line infrastructure; Samoa’s telecoms sector has been inhibited by a lack of international connectivity; Samoa has had access to the Samoa-America-Samoa (SAS) cable laid in 2009, this cable has insufficient capacity to meet the country’s future bandwidth needs; this issue was addressed with two new submarine cables that became available in 2018 and 2019; combined with the Samoa National Broadband Highway (SNBH), have improved internet data rates and reliability, and have helped to reduce the high costs previously associated with internet access in Samoa; in April 2022, the Samoan government announced its decision to take over control of the Samoa Submarine Cable Company, looking to the cable to generate additional revenue for the state (2022)
+- `國內`: fixed-line is 3 per 100 and mobile-cellular teledensity  32 telephones per 100 persons (2021)
+- `國際的`: country code - 685; landing points for the Tui-Samo, Manatua, SAS, and Southern Cross NEXT submarine cables providing connectivity to Samoa, Fiji, Wallis & Futuna, Cook Islands, Niue, French Polynesia, American Samoa, Australia, New Zealand, Kiribati, Los Angeles (US), and Tokelau; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)
 
 ### 廣播媒體
 state-owned TV station privatized in 2008; 4 privately owned television broadcast stations; about a half-dozen privately owned radio stations and one state-owned radio station; TV and radio broadcasts of several stations from American Samoa are available (2019)
@@ -556,19 +556,19 @@ state-owned TV station privatized in 2008; 4 privately owned television broadcas
 .ws
 
 ### 網際網路使用者
-- `total`: 171,600 (2021 est.)
-- `percent of population`: 78% (2021 est.)
+- `總計`: 171,600 (2021 est.)
+- `佔人口比例`: 78% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 1,692 (2020 est.)
-- `subscriptions per 100 inhabitants`: 1 (2020 est.)
+- `總計`: 1,692 (2020 est.)
+- `每100名居民訂閱數`: 1 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 1 (2020)
-- `inventory of registered aircraft operated by air carriers`: 4
-- `annual passenger traffic on registered air carriers`: 137,770 (2018)
+- `註冊航空公司數量`: 1 (2020)
+- `註冊飛機庫存—航空承運商經營`: 4
+- `年度客運量－註冊航空公司`: 137,770 (2018)
 
 ### 註冊民用航空器國家代碼前綴
 5W
@@ -577,20 +577,20 @@ state-owned TV station privatized in 2008; 4 privately owned television broadcas
 3 (2024)
 
 ### 道路
-- `total`: 1,150 km (2018)
+- `總計`: 1,150 km (2018)
 
 ### 商船
-- `total`: 13 (2023)
-- `by type`: general cargo 3, oil tanker 1, other 9
+- `總計`: 13 (2023)
+- `依類型`: general cargo 3, oil tanker 1, other 9
 
 ### 港口
-- `total ports`: 1 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 0
-- `very small`: 1
-- `ports with oil terminals`: 1
-- `key ports`: Apia
+- `總港口數`: 1 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 0
+- `非常小`: 1
+- `原油碼頭港口`: 1
+- `主要港口`: Apia
 
 ## 軍事和安全
 

@@ -19,24 +19,24 @@ Southern Africa, island in the Indian Ocean, east of Mozambique
 Africa
 
 ### 面積
-- `total `: 587,041 sq km
-- `land`: 581,540 sq km
-- `water`: 5,501 sq km
+- `總計`: 587,041 sq km
+- `土地`: 581,540 sq km
+- `水`: 5,501 sq km
 
 ### 面積—比較
 almost four times the size of Georgia; slightly less than twice the size of Arizona
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 4,828 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: 200 nm or 100 nm from the 2,500-m isobath
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: 200 nm or 100 nm from the 2,500-m isobath
 
 ### 氣候
 tropical along coast, temperate inland, arid in south
@@ -45,20 +45,20 @@ tropical along coast, temperate inland, arid in south
 narrow coastal plain, high plateau and mountains in center
 
 ### 海拔
-- `highest point`: Maromokotro 2,876 m
-- `lowest point`: Indian Ocean 0 m
-- `mean elevation`: 615 m
+- `最高點`: Maromokotro 2,876 m
+- `最低點`: Indian Ocean 0 m
+- `平均海拔`: 615 m
 
 ### 自然資源
 graphite, chromite, coal, bauxite, rare earth elements, salt, quartz, tar sands, semiprecious stones, mica, fish, hydropower
 
 ### 土地利用
-- `agricultural land`: 71.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 6% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 1% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 64.1% (2018 est.)
-- `forest`: 21.5% (2018 est.)
-- `other`: 7.4% (2018 est.)
+- `農地`: 71.1% (2018 est.)
+- `農地：耕地`: arable land: 6% (2018 est.)
+- `農地：永久性作物`: permanent crops: 1% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 64.1% (2018 est.)
+- `森林`: 21.5% (2018 est.)
+- `其它`: 7.4% (2018 est.)
 
 ### 灌溉土地
 10,860 sq km (2012)
@@ -75,13 +75,13 @@ world's fourth-largest island; strategic location along Mozambique Channel; desp
 ## 人民和社會
 
 ### 人口
-- `total`: 29,452,714
-- `male`: 14,760,501
-- `female`: 14,692,213 (2024 est.)
+- `總計`: 29,452,714
+- `男性`: 14,760,501
+- `女性`: 14,692,213 (2024 est.)
 
 ### 國籍
-- `noun`: Malagasy (singular and plural)
-- `adjective`: Malagasy
+- `名詞`: Malagasy (singular and plural)
+- `形容詞`: Malagasy
 
 ### 族裔群體
 Malayo-Indonesian (Merina and related Betsileo), Cotiers (mixed African, Malayo-Indonesian, and Arab ancestry - Betsimisaraka, Tsimihety, Antaisaka, Sakalava), French, Indian, Creole, Comoran
@@ -97,20 +97,20 @@ Church of Jesus Christ in Madagascar/Malagasy Lutheran Church/Anglican Church 34
 Madagascar’s youthful population – nearly 60% are under the age of 25 as of 2020 – and moderately high total fertility rate of more than 3.6 children per woman ensures that the Malagasy population will continue its rapid growth trajectory for the foreseeable future. The population is predominantly rural and poor; chronic malnutrition is prevalent, and large families are the norm. Many young Malagasy girls are withdrawn from school, marry early (often pressured to do so by their parents), and soon begin having children. Early childbearing, coupled with Madagascar’s widespread poverty and lack of access to skilled health care providers during delivery, increases the risk of death and serious health problems for young mothers and their babies. Child marriage perpetuates gender inequality and is prevalent among the poor, the uneducated, and rural households – as of 2018, 40% of Malagasy women aged 20 to 24 were married. Although the legal age for marriage is 18, parental consent is often given for earlier marriages or the law is flouted, especially in rural areas that make up approximately 60% of the country. Forms of arranged marriage whereby young girls are married to older men in exchange for oxen or money are traditional. If a union does not work out, a girl can be placed in another marriage, but the dowry paid to her family diminishes with each unsuccessful marriage. Madagascar’s population consists of 18 main ethnic groups, all of whom speak the same Malagasy language. Most Malagasy are multi-ethnic, however, reflecting the island’s diversity of settlers and historical contacts (see Background). Madagascar’s legacy of hierarchical societies practicing domestic slavery (most notably the Merina Kingdom of the 16th to the 19th century) is evident today in persistent class tension, with some ethnic groups maintaining a caste system. Slave descendants are vulnerable to unequal access to education and jobs, despite Madagascar’s constitutional guarantee of free compulsory primary education and its being party to several international conventions on human rights. Historical distinctions also remain between central highlanders and coastal people.
 
 ### 年齡結構
-- `0-14 years`: 37% (male 5,507,847/female 5,400,551)
-- `15-64 years`: 59.1% (male 8,720,012/female 8,673,880)
-- `65 years and over`: 3.9% (2024 est.) (male 532,642/female 617,782)
+- `0-14歲`: 37% (male 5,507,847/female 5,400,551)
+- `15-64歲`: 59.1% (male 8,720,012/female 8,673,880)
+- `65歲及以上`: 3.9% (2024 est.) (male 532,642/female 617,782)
 
 ### 撫養比率
-- `total dependency ratio`: 74.5
-- `youth dependency ratio`: 68.8
-- `elderly dependency ratio`: 5.8
-- `potential support ratio`: 17.4 (2021 est.)
+- `總受扶養人比率`: 74.5
+- `少年撫養比率`: 68.8
+- `老人撫養比率`: 5.8
+- `潛在支持率`: 17.4 (2021 est.)
 
 ### 年齡中位數
-- `total`: 21.3 years (2024 est.)
-- `male`: 21.1 years
-- `female`: 21.5 years
+- `總計`: 21.3 years (2024 est.)
+- `男性`: 21.1 years
+- `女性`: 21.5 years
 
 ### 人口成長率
 2.18% (2024 est.)
@@ -128,18 +128,18 @@ Madagascar’s youthful population – nearly 60% are under the age of 25 as of 
 most of population lives on the eastern half of the island; significant clustering is found in the central highlands and eastern coastline as shown in this population distribution map
 
 ### 都市化
-- `urban population`: 40.6% of total population (2023)
-- `rate of urbanization`: 4.26% annual rate of change (2020-25 est.)
+- `城市人口`: 40.6% of total population (2023)
+- `城鎮化率`: 4.26% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 3.872 million ANTANANARIVO (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.03 male(s)/female
-- `0-14 years`: 1.02 male(s)/female
-- `15-64 years`: 1.01 male(s)/female
-- `65 years and over`: 0.86 male(s)/female
-- `total population`: 1.01 male(s)/female (2024 est.)
+- `出生時`: 1.03 male(s)/female
+- `0-14歲`: 1.02 male(s)/female
+- `15-64歲`: 1.01 male(s)/female
+- `65歲及以上`: 0.86 male(s)/female
+- `總人口數`: 1.01 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 19.5 years (2021 est.)
@@ -149,14 +149,14 @@ most of population lives on the eastern half of the island; significant clusteri
 392 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 37.5 deaths/1,000 live births (2024 est.)
-- `male`: 40.9 deaths/1,000 live births
-- `female`: 34 deaths/1,000 live births
+- `總計`: 37.5 deaths/1,000 live births (2024 est.)
+- `男性`: 40.9 deaths/1,000 live births
+- `女性`: 34 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 68.8 years (2024 est.)
-- `male`: 67.3 years
-- `female`: 70.3 years
+- `總人口數`: 68.8 years (2024 est.)
+- `男性`: 67.3 years
+- `女性`: 70.3 years
 
 ### 總生育率
 3.47 children born/woman (2024 est.)
@@ -168,12 +168,12 @@ most of population lives on the eastern half of the island; significant clusteri
 49.7% (2020)
 
 ### 飲用水來源
-- `improved: urban`: urban: 85% of population
-- `improved: rural`: rural: 38% of population
-- `improved: total`: total: 56.1% of population
-- `unimproved: urban`: urban: 15% of population
-- `unimproved: rural`: rural: 62% of population
-- `unimproved: total`: total: 43.9% of population (2020 est.)
+- `已改進－城市`: urban: 85% of population
+- `已改進－農村`: rural: 38% of population
+- `已改進－總計`: total: 56.1% of population
+- `未改進：都市`: urban: 15% of population
+- `未改進：鄉村`: rural: 62% of population
+- `未改善：總計`: total: 43.9% of population (2020 est.)
 
 ### 當前醫療支出
 3.9% of GDP (2020)
@@ -185,27 +185,27 @@ most of population lives on the eastern half of the island; significant clusteri
 0.2 beds/1,000 population
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 49.2% of population
-- `improved: rural`: rural: 22.1% of population
-- `improved: total`: total: 32.6% of population
-- `unimproved: urban`: urban: 50.8% of population
-- `unimproved: rural`: rural: 77.9% of population
-- `unimproved: total`: total: 67.4% of population (2020 est.)
+- `已改進－城市`: urban: 49.2% of population
+- `已改進－農村`: rural: 22.1% of population
+- `已改進－總計`: total: 32.6% of population
+- `未改進：都市`: urban: 50.8% of population
+- `未改進：鄉村`: rural: 77.9% of population
+- `未改善：總計`: total: 67.4% of population (2020 est.)
 
 ### 肥胖—成人流行率
 5.3% (2016)
 
 ### 人均酒精消費量
-- `total`: 0.89 liters of pure alcohol (2019 est.)
-- `beer`: 0.5 liters of pure alcohol (2019 est.)
-- `wine`: 0.07 liters of pure alcohol (2019 est.)
-- `spirits`: 0.32 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 0.89 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.5 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.07 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.32 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 27.8% (2020 est.)
-- `male`: 42.7% (2020 est.)
-- `female`: 12.8% (2020 est.)
+- `總計`: 27.8% (2020 est.)
+- `男性`: 42.7% (2020 est.)
+- `女性`: 12.8% (2020 est.)
 
 ### 5歲以下體重不足兒童
 22.6% (2021)
@@ -214,23 +214,23 @@ most of population lives on the eastern half of the island; significant clusteri
 60.1% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 12.7%
-- `women married by age 18`: 38.8%
-- `men married by age 18`: 11.2% (2021 est.)
+- `15歲前結婚的女性`: 12.7%
+- `18歲前結婚的女性`: 38.8%
+- `18歲前結婚的男性`: 11.2% (2021 est.)
 
 ### 教育支出
 3.1% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 77.3%
-- `male`: 78.8%
-- `female`: 75.8% (2021)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 77.3%
+- `男性`: 78.8%
+- `女性`: 75.8% (2021)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 10 years
-- `male`: 10 years
-- `female`: 10 years (2018)
+- `總計`: 10 years
+- `男性`: 10 years
+- `女性`: 10 years (2018)
 
 ## 環境
 
@@ -238,26 +238,26 @@ most of population lives on the eastern half of the island; significant clusteri
 erosion and soil degredation results from deforestation and overgrazing; desertification; agricultural fires; surface water contaminated with raw sewage and other organic wastes; wildlife preservation (endangered species of flora and fauna unique to the island)
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 tropical along coast, temperate inland, arid in south
 
 ### 土地利用
-- `agricultural land`: 71.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 6% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 1% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 64.1% (2018 est.)
-- `forest`: 21.5% (2018 est.)
-- `other`: 7.4% (2018 est.)
+- `農地`: 71.1% (2018 est.)
+- `農地：耕地`: arable land: 6% (2018 est.)
+- `農地：永久性作物`: permanent crops: 1% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 64.1% (2018 est.)
+- `森林`: 21.5% (2018 est.)
+- `其它`: 7.4% (2018 est.)
 
 ### 都市化
-- `urban population`: 40.6% of total population (2023)
-- `rate of urbanization`: 4.26% annual rate of change (2020-25 est.)
+- `城市人口`: 40.6% of total population (2023)
+- `城鎮化率`: 4.26% annual rate of change (2020-25 est.)
 
 ### 糧食不安全
-- `severe localized food insecurity`: *due to the effects of extreme weather events and slow economic recovery - *in 2023, an estimated 2.2 million people are projected to face crisis levels of acute food insecurity in southern and southeastern areas, due to successive years of droughts; cyclone Freddy in February 2023 caused disruptions to livelihoods and resulted in crop damage, which further aggravated food insecurity (2023)
+- `嚴重的地區糧食不安全`: *due to the effects of extreme weather events and slow economic recovery - *in 2023, an estimated 2.2 million people are projected to face crisis levels of acute food insecurity in southern and southeastern areas, due to successive years of droughts; cyclone Freddy in February 2023 caused disruptions to livelihoods and resulted in crop damage, which further aggravated food insecurity (2023)
 
 ### 森林資源收入
 4.34% of GDP (2018 est.)
@@ -266,17 +266,17 @@ tropical along coast, temperate inland, arid in south
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 16.02 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 3.91 megatons (2016 est.)
-- `methane emissions`: 10.14 megatons (2020 est.)
+- `顆粒物排放量`: 16.02 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 3.91 megatons (2016 est.)
+- `甲烷排放量`: 10.14 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 3,768,759 tons (2016 est.)
+- `城市固體廢棄物－每年產生`: 3,768,759 tons (2016 est.)
 
 ### 總取水量
-- `municipal`: 400 million cubic meters (2020 est.)
-- `industrial`: 160 million cubic meters (2020 est.)
-- `agricultural`: 13 billion cubic meters (2020 est.)
+- `市級`: 400 million cubic meters (2020 est.)
+- `工業`: 160 million cubic meters (2020 est.)
+- `農業`: 13 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 337 billion cubic meters (2020 est.)
@@ -284,21 +284,21 @@ tropical along coast, temperate inland, arid in south
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Madagascar
-- `conventional short form`: Madagascar
-- `local long form`: République de Madagascar/Repoblikan'i Madagasikara
-- `local short form`: Madagascar/Madagasikara
-- `former`: Malagasy Republic
-- `etymology`: the name "Madageiscar" was first used by the 13th-century Venetian explorer Marco POLO, as a corrupted transliteration of Mogadishu, the Somali port with which POLO confused the island
+- `常用長名`: Republic of Madagascar
+- `常用短名`: Madagascar
+- `當地語長名`: République de Madagascar/Repoblikan'i Madagasikara
+- `當地語短名`: Madagascar/Madagasikara
+- `前任`: Malagasy Republic
+- `语源学`: the name "Madageiscar" was first used by the 13th-century Venetian explorer Marco POLO, as a corrupted transliteration of Mogadishu, the Somali port with which POLO confused the island
 
 ### 政府類型
 semi-presidential republic
 
 ### 首都
-- `name`: Antananarivo
-- `geographic coordinates`: 18 55 S, 47 31 E
-- `time difference`: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: the name, which means "City of the Thousand," was bestowed by 17th century King ADRIANJAKA to honor the soldiers assigned to guard the city
+- `名稱`: Antananarivo
+- `地理坐標`: 18 55 S, 47 31 E
+- `時差`: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: the name, which means "City of the Thousand," was bestowed by 17th century King ADRIANJAKA to honor the soldiers assigned to guard the city
 
 ### 行政區劃
 6 provinces (faritany); Antananarivo, Antsiranana, Fianarantsoa, Mahajanga, Toamasina, Toliara
@@ -313,37 +313,37 @@ Independence Day, 26 June (1960)
 civil law system based on the old French civil code and customary law in matters of marriage, family, and obligation
 
 ### 憲法
-- `history`: previous 1992; latest passed by referendum 17 November 2010, promulgated 11 December 2010
-- `amendments`: proposed by the president of the republic in consultation with the cabinet or supported by a least two thirds of both the Senate and National Assembly membership; passage requires at least three-fourths approval of both the Senate and National Assembly and approval in a referendum; constitutional articles, including the form and powers of government, the sovereignty of the state, and the autonomy of Madagascar’s collectivities, cannot be amended
+- `歷史`: previous 1992; latest passed by referendum 17 November 2010, promulgated 11 December 2010
+- `修正`: proposed by the president of the republic in consultation with the cabinet or supported by a least two thirds of both the Senate and National Assembly membership; passage requires at least three-fourths approval of both the Senate and National Assembly and approval in a referendum; constitutional articles, including the form and powers of government, the sovereignty of the state, and the autonomy of Madagascar’s collectivities, cannot be amended
 
 ### 國際法組織參與
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: the father must be a citizen of Madagascar; in the case of a child born out of wedlock, the mother must be a citizen
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: unknown
+- `出生公民權`: no
+- `血統公民身份`: the father must be a citizen of Madagascar; in the case of a child born out of wedlock, the mother must be a citizen
+- `承認雙重國籍`: no
+- `入籍的居留要求`: unknown
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Andry RAJOELINA (since 16 December 2023)
-- `head of government`: Prime Minister Christian NTSAY (since 6 June 2018)
-- `cabinet`: Council of Ministers appointed by the prime minister
-- `elections/appointments`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 16 November 2023 (next to be held in November 2028); prime minister nominated by the National Assembly, appointed by the president
-- `election results`: *2023*: Andry RAJOELINA reelected president in first round; percent of vote - Andry RAJOELINA (TGV) 59.0%, Siteny Thierry RANDRIANASOLONIAIKO 14.4%, Marc RAVALOMANANA (TIM) 12.1%, other 14.5%*2018*: Andry RAJOELINA elected president in second round; percent of vote in first round - Andry RAJOELINA (TGV) 39.2%, Marc RAVALOMANANA (TIM) 35.4%, other 25.4%; percent of vote in second round - Andry RAJOELINA 55.7%, Marc RAVALOMANANA 44.3%
+- `國家元首`: President Andry RAJOELINA (since 16 December 2023)
+- `政府首腦`: Prime Minister Christian NTSAY (since 6 June 2018)
+- `内閣`: Council of Ministers appointed by the prime minister
+- `選舉/任命`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 16 November 2023 (next to be held in November 2028); prime minister nominated by the National Assembly, appointed by the president
+- `選舉結果`: *2023*: Andry RAJOELINA reelected president in first round; percent of vote - Andry RAJOELINA (TGV) 59.0%, Siteny Thierry RANDRIANASOLONIAIKO 14.4%, Marc RAVALOMANANA (TIM) 12.1%, other 14.5%*2018*: Andry RAJOELINA elected president in second round; percent of vote in first round - Andry RAJOELINA (TGV) 39.2%, Marc RAVALOMANANA (TIM) 35.4%, other 25.4%; percent of vote in second round - Andry RAJOELINA 55.7%, Marc RAVALOMANANA 44.3%
 
 ### 立法部門
-- `description`: bicameral Parliament consists of:Senate or Antenimierandoholona (18 seats; 12 members indirectly elected by an electoral college of municipal, communal, regional, and provincial leaders and 6 appointed by the president; members serve 5-year terms)National Assembly or Antenimierampirenena (151 seats; 87 members directly elected in single-seat constituencies by simple majority vote and 64 directly elected in multi-seat constituencies by closed-list proportional representation vote; members serve 5-year terms)
-- `elections`: Senate - last held on 11 December 2020 (next to be held in December 2025)National Assembly - last held on 27 May 2019 (next to be held on 29 May 2024)
-- `election results`: Senate - percent of vote by party - NA; elected seats by party - Irmar 10, Malagasy Miara Miainga 2; composition - men 17, women 1, percentage women 5.6%  National Assembly - percent of vote by party/coalition - IRD 55.6%, TIM 10.6%, independent 30.5%, other 3.3%; seats by party/coalition - IRD 84, TIM 16, independent 46, other 5; composition - men 123, women 28, percentage women 18.5%; total Parliament percentage women 10.7%
+- `描述`: bicameral Parliament consists of:Senate or Antenimierandoholona (18 seats; 12 members indirectly elected by an electoral college of municipal, communal, regional, and provincial leaders and 6 appointed by the president; members serve 5-year terms)National Assembly or Antenimierampirenena (151 seats; 87 members directly elected in single-seat constituencies by simple majority vote and 64 directly elected in multi-seat constituencies by closed-list proportional representation vote; members serve 5-year terms)
+- `選舉`: Senate - last held on 11 December 2020 (next to be held in December 2025)National Assembly - last held on 27 May 2019 (next to be held on 29 May 2024)
+- `選舉結果`: Senate - percent of vote by party - NA; elected seats by party - Irmar 10, Malagasy Miara Miainga 2; composition - men 17, women 1, percentage women 5.6%  National Assembly - percent of vote by party/coalition - IRD 55.6%, TIM 10.6%, independent 30.5%, other 3.3%; seats by party/coalition - IRD 84, TIM 16, independent 46, other 5; composition - men 123, women 28, percentage women 18.5%; total Parliament percentage women 10.7%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court or Cour Supreme (consists of 11 members; addresses judicial administration issues only); High Constitutional Court or Haute Cour Constitutionnelle (consists of 9 members); High Court of Justice (consists of 11 members; addresses cases brought against the president of Madagascar and high officials for high treason, grave violations of the Constitution, or breach of  duties incompatible with the exercise of the presidential mandate)
-- `judge selection and term of office`: Supreme Court heads elected by the president and judiciary officials to serve 3-year, single renewable terms; High Constitutional Court members appointed - 3 each by the president, by both legislative bodies, and by the Council of Magistrates; members serve single, 7-year terms; High Court of Justice members include: first president of the Supreme Court; 2 presidents from the Court of Cassation; 2 presidents from the Court of Appeal; 2 deputies  from the National Assembly; 2 senators from the Senate; 2 members from the High Council for the Defense of Democracy and the State of law
-- `subordinate courts`: Courts of Appeal; Court of Cassation; Courts of First Instance; military courts; traditional (dina) courts; Trade Court
+- `最高法院`: Supreme Court or Cour Supreme (consists of 11 members; addresses judicial administration issues only); High Constitutional Court or Haute Cour Constitutionnelle (consists of 9 members); High Court of Justice (consists of 11 members; addresses cases brought against the president of Madagascar and high officials for high treason, grave violations of the Constitution, or breach of  duties incompatible with the exercise of the presidential mandate)
+- `法官遴選和任期`: Supreme Court heads elected by the president and judiciary officials to serve 3-year, single renewable terms; High Constitutional Court members appointed - 3 each by the president, by both legislative bodies, and by the Council of Magistrates; members serve single, 7-year terms; High Court of Justice members include: first president of the Supreme Court; 2 presidents from the Court of Cassation; 2 presidents from the Court of Appeal; 2 deputies  from the National Assembly; 2 senators from the Senate; 2 members from the High Council for the Defense of Democracy and the State of law
+- `下級法院`: Courts of Appeal; Court of Cassation; Courts of First Instance; military courts; traditional (dina) courts; Trade Court
 
 ### 政黨
 Group of Young Malagasy Patriots (Groupe des Jeunes Malgaches Patriotes) or GJMPI Love Madagascar (Tiako I Madagasikara) or TIMIsika Rehetra Miaraka amin'i Andry Rajoelina coalition or IRDMalagasy Aware (Malagasy Tonga Saina) or MTSMalagasy Tia Tanindrazana or MATITA or ANGADYMovement for Democracy in Madagascar (Mouvement pour la Démocratie à Madagascar) or MDMRally for Democratic Socialism (Rassemblement pour Socialisme Démocratique - Nouveau) or RPSD VaovaoYoung Malagasies Determined (Tanora Malagasy Vonona) or TGV
@@ -352,19 +352,19 @@ Group of Young Malagasy Patriots (Groupe des Jeunes Malgaches Patriotes) or GJMP
 ACP, AfDB, AU, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, PCA, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador (vacant); Chargé d'Affaires Amielle Pelenne NIRINIAVISOA MARCEDA (since 31 October 2019)
-- `chancery`: 2374 Massachusetts Avenue NW, Washington, DC 20008
-- `telephone`: [1] (202) 265-5525
+- `外交代表負責人`: Ambassador (vacant); Chargé d'Affaires Amielle Pelenne NIRINIAVISOA MARCEDA (since 31 October 2019)
+- `衡平法院（在美國）`: 2374 Massachusetts Avenue NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 265-5525
 - `FAX`: [1] (202) 265-3034
-- `email address and website`: madagascar.embassy.dc@gmail.com  https://us-madagascar-embassy.org/
+- `電子郵件地址和網站`: madagascar.embassy.dc@gmail.com  https://us-madagascar-embassy.org/
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Claire PIERANGELO (since 2 May 2022)
-- `embassy`: Lot 207A, Andranoro, Antehiroka, 105 Antananarivo - Madagascar
-- `mailing address`: 2040 Antananarivo Place, Washington DC 20521-2040
-- `telephone`: [261] 33-44-320-00
+- `外交代表負責人`: Ambassador Claire PIERANGELO (since 2 May 2022)
+- `大使館`: Lot 207A, Andranoro, Antehiroka, 105 Antananarivo - Madagascar
+- `郵寄地址`: 2040 Antananarivo Place, Washington DC 20521-2040
+- `電話號碼`: [261] 33-44-320-00
 - `FAX`: [261] 33-44-320-35
-- `email address and website`: antanACS@state.gov  https://mg.usembassy.gov/
+- `電子郵件地址和網站`: antanACS@state.gov  https://mg.usembassy.gov/
 
 ### 旗幟說明
 two equal horizontal bands of red (top) and green with a vertical white band of the same width on hoist side; by tradition, red stands for sovereignty, green for hope, white for purity
@@ -373,8 +373,8 @@ two equal horizontal bands of red (top) and green with a vertical white band of 
 traveller's palm, zebu; national colors: red, green, white
 
 ### 國歌
-- `name`: "Ry Tanindraza nay malala o" (Oh, Our Beloved Fatherland)
-- `lyrics/music`: Pasteur RAHAJASON/Norbert RAHARISOA
+- `名稱`: "Ry Tanindraza nay malala o" (Oh, Our Beloved Fatherland)
+- `歌詞／音樂`: Pasteur RAHAJASON/Norbert RAHARISOA
 **note**:  adopted 1959
 
 ### 國家級遺產
@@ -415,18 +415,18 @@ $16.032 billion (2023 est.)
 **note**: annual % change based on consumer prices
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 21.1% (2023 est.)
-- `industry`: 14.9% (2023 est.)
-- `services`: 54.9% (2023 est.)
+- `農業`: 21.1% (2023 est.)
+- `產業`: 14.9% (2023 est.)
+- `服務`: 54.9% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 66.5% (2023 est.)
-- `government consumption`: 18.7% (2023 est.)
-- `investment in fixed capital`: 20.3% (2023 est.)
-- `investment in inventories`: 1% (2023 est.)
-- `exports of goods and services`: 32.5% (2023 est.)
-- `imports of goods and services`: -39.1% (2023 est.)
+- `家庭消費`: 66.5% (2023 est.)
+- `政府消費`: 18.7% (2023 est.)
+- `固定資本投資`: 20.3% (2023 est.)
+- `存貨投資`: 1% (2023 est.)
+- `商品和服務出口`: 32.5% (2023 est.)
+- `商品和服務進口`: -39.1% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -451,9 +451,9 @@ meat processing, seafood, soap, beer, leather, sugar, textiles, glassware, cemen
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 5.5% (2023 est.)
-- `male`: 5.4% (2023 est.)
-- `female`: 5.6% (2023 est.)
+- `總計`: 5.5% (2023 est.)
+- `男性`: 5.4% (2023 est.)
+- `女性`: 5.6% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 匯款
@@ -463,8 +463,8 @@ meat processing, seafood, soap, beer, leather, sugar, textiles, glassware, cemen
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $1.756 billion (2022 est.)
-- `expenditures`: $1.523 billion (2022 est.)
+- `收入`: $1.756 billion (2022 est.)
+- `支出`: $1.523 billion (2022 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -529,34 +529,34 @@ $2.972 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 36.1% (2022 est.)
-- `electrification - urban areas`: 71.6%
-- `electrification - rural areas`: 10.9%
+- `電氣化－總人口`: 36.1% (2022 est.)
+- `電氣化－城市地區`: 71.6%
+- `電氣化－農村地區`: 10.9%
 
 ### 電力
-- `installed generating capacity`: 663,000 kW (2022 est.)
-- `consumption`: 2.248 billion kWh (2022 est.)
-- `transmission/distribution losses`: 118.792 million kWh (2022 est.)
+- `裝機容量`: 663,000 kW (2022 est.)
+- `消費`: 2.248 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 118.792 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 63.1% of total installed capacity (2022 est.)
-- `solar`: 1.6% of total installed capacity (2022 est.)
-- `hydroelectricity`: 33.1% of total installed capacity (2022 est.)
-- `biomass and waste`: 2.2% of total installed capacity (2022 est.)
+- `石化燃料`: 63.1% of total installed capacity (2022 est.)
+- `太陽能`: 1.6% of total installed capacity (2022 est.)
+- `水力發電`: 33.1% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 2.2% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `consumption`: 511,000 metric tons (2022 est.)
-- `exports`: (2022 est.) less than 1 metric ton
-- `imports`: 511,000 metric tons (2022 est.)
-- `proven reserves`: 150 million metric tons (2022 est.)
+- `消費`: 511,000 metric tons (2022 est.)
+- `出口`: (2022 est.) less than 1 metric ton
+- `進口`: 511,000 metric tons (2022 est.)
+- `探明儲量`: 150 million metric tons (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 19,000 bbl/day (2022 est.)
+- `成品油消費量`: 19,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 4.054 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 1.155 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 2.899 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 4.054 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 1.155 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 2.899 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 1.887 million Btu/person (2022 est.)
@@ -564,17 +564,17 @@ $2.972 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 26,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: (2022 est.) less than 1
+- `總訂閱數`: 26,000 (2022 est.)
+- `每100名居民訂閱數`: (2022 est.) less than 1
 
 ### 電話—移動電話
-- `total subscriptions`: 20.783 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 70 (2022 est.)
+- `總訂閱數`: 20.783 million (2022 est.)
+- `每100名居民訂閱數`: 70 (2022 est.)
 
 ### 電信系統
-- `general assessment`: internet service is fast compared to other African countries, and telecom services in Madagascar have benefited from intensifying competition between the main operators; there have been positive developments with the country’s link to international submarine cables, particularly the METISS cable connecting to South Africa and Mauritius; in addition, the country’s connection to the Africa-1 cable, which arrived in 2023, provides links to Kenya, Djibouti, countries in north and south Africa, as well as Pakistan, the UAE, Saudi Arabia, and France; a national fiber backbone has been implemented connecting the major cities, however much of the fiber in country has been installed by Huawei, which also manages data centers for the government; in addition, the government has progressed with its five-year plan to develop a digital platform running to 2024; various schemes within the program have been managed by a unit within the President’s office; penetration rates in all market sectors remain below the average for the African region, and so there remains considerable growth potential; much progress was made in 2020, stimulated by the particular conditions related to the pandemic, which encouraged greater use of voice and data services (2022)
-- `domestic`: less than 1 per 100 for fixed-line and mobile-cellular teledensity about 56 per 100 persons (2021)
-- `international`: country code - 261; landing points for the EASSy, METISS, and LION fiber-optic submarine cable systems connecting to numerous Indian Ocean Islands, South Africa, and Eastern African countries; satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Intersputnik - Atlantic Ocean region) (2019)
+- `總體評估`: internet service is fast compared to other African countries, and telecom services in Madagascar have benefited from intensifying competition between the main operators; there have been positive developments with the country’s link to international submarine cables, particularly the METISS cable connecting to South Africa and Mauritius; in addition, the country’s connection to the Africa-1 cable, which arrived in 2023, provides links to Kenya, Djibouti, countries in north and south Africa, as well as Pakistan, the UAE, Saudi Arabia, and France; a national fiber backbone has been implemented connecting the major cities, however much of the fiber in country has been installed by Huawei, which also manages data centers for the government; in addition, the government has progressed with its five-year plan to develop a digital platform running to 2024; various schemes within the program have been managed by a unit within the President’s office; penetration rates in all market sectors remain below the average for the African region, and so there remains considerable growth potential; much progress was made in 2020, stimulated by the particular conditions related to the pandemic, which encouraged greater use of voice and data services (2022)
+- `國內`: less than 1 per 100 for fixed-line and mobile-cellular teledensity about 56 per 100 persons (2021)
+- `國際的`: country code - 261; landing points for the EASSy, METISS, and LION fiber-optic submarine cable systems connecting to numerous Indian Ocean Islands, South Africa, and Eastern African countries; satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Intersputnik - Atlantic Ocean region) (2019)
 
 ### 廣播媒體
 state-owned Radio Nationale Malagasy (RNM) and Television Malagasy (TVM) have an extensive national network reach; privately owned radio and TV broadcasters in cities and major towns; state-run radio dominates in rural areas; relays of 2 international broadcasters are available in Antananarivo (2019)
@@ -583,20 +583,20 @@ state-owned Radio Nationale Malagasy (RNM) and Television Malagasy (TVM) have an
 .mg
 
 ### 網際網路使用者
-- `total`: 5.8 million (2021 est.)
-- `percent of population`: 20% (2021 est.)
+- `總計`: 5.8 million (2021 est.)
+- `佔人口比例`: 20% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 32,000 (2020 est.)
-- `subscriptions per 100 inhabitants`: 0.1 (2020 est.)
+- `總計`: 32,000 (2020 est.)
+- `每100名居民訂閱數`: 0.1 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 4 (2020)
-- `inventory of registered aircraft operated by air carriers`: 18
-- `annual passenger traffic on registered air carriers`: 541,290 (2018)
-- `annual freight traffic on registered air carriers`: 16.25 million (2018) mt-km
+- `註冊航空公司數量`: 4 (2020)
+- `註冊飛機庫存—航空承運商經營`: 18
+- `年度客運量－註冊航空公司`: 541,290 (2018)
+- `年度貨運量－註冊航空公司`: 16.25 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 5R
@@ -605,27 +605,27 @@ state-owned Radio Nationale Malagasy (RNM) and Television Malagasy (TVM) have an
 91 (2024)
 
 ### 鐵路
-- `total`: 836 km (2018)
-- `narrow gauge`: 836 km (2018) 1.000-m gauge
+- `總計`: 836 km (2018)
+- `窄軌`: 836 km (2018) 1.000-m gauge
 
 ### 道路
-- `total`: 31,640 km (2017)
+- `總計`: 31,640 km (2017)
 
 ### 水道
 600 km (2011) (432 km navigable)
 
 ### 商船
-- `total`: 29 (2023)
-- `by type`: general cargo 16, oil tanker 2, other 11
+- `總計`: 29 (2023)
+- `依類型`: general cargo 16, oil tanker 2, other 11
 
 ### 港口
-- `total ports`: 13 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 2
-- `very small`: 11
-- `ports with oil terminals`: 5
-- `key ports`: Andoany, Antsiranana, Antsohim Bondrona, Iharana, Mahajanga, Maintirano, Manakara, Mananjary, Maroantsetra, Morondava, Toamasina, Tolanaro, Toliara
+- `總港口數`: 13 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 2
+- `非常小`: 11
+- `原油碼頭港口`: 5
+- `主要港口`: Andoany, Antsiranana, Antsohim Bondrona, Iharana, Mahajanga, Maintirano, Manakara, Mananjary, Maroantsetra, Morondava, Toamasina, Tolanaro, Toliara
 
 ## 軍事和安全
 
@@ -655,7 +655,7 @@ the PAF’s responsibilities include ensuring sovereignty and territorial integr
 ## 跨國議題
 
 ### 人口販運
-- `tier rating`: Tier 2 Watch List — the government has devoted sufficient resources to a written plan that, if implemented, would constitute significant efforts to meet the minimum standards; therefore, Madagascar was granted a waiver per the Trafficking Victims Protection Act from an otherwise required downgrade to Tier 3 and remained on Tier 2 Watch List for the third consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/madagascar/
+- `會級評分`: Tier 2 Watch List — the government has devoted sufficient resources to a written plan that, if implemented, would constitute significant efforts to meet the minimum standards; therefore, Madagascar was granted a waiver per the Trafficking Victims Protection Act from an otherwise required downgrade to Tier 3 and remained on Tier 2 Watch List for the third consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/madagascar/
 
 ### 非法藥物
 illicit producer of cannabis (cultivated and wild varieties) used mostly for domestic consumption; transshipment point for Southwest Asian heroin

@@ -19,16 +19,16 @@ Central Europe, northwest of Romania
 Europe
 
 ### 面積
-- `total `: 93,028 sq km
-- `land`: 89,608 sq km
-- `water`: 3,420 sq km
+- `總計`: 93,028 sq km
+- `土地`: 89,608 sq km
+- `水`: 3,420 sq km
 
 ### 面積—比較
 slightly smaller than Virginia; about the same size as Indiana
 
 ### 陸地邊界
-- `total`: 2,106 km
-- `border countries`: Austria 321 km; Croatia 348 km; Romania 424 km; Serbia 164 km; Slovakia 627 km; Slovenia 94 km; Ukraine 128 km
+- `總計`: 2,106 km
+- `邊境國家`: Austria 321 km; Croatia 348 km; Romania 424 km; Serbia 164 km; Slovakia 627 km; Slovenia 94 km; Ukraine 128 km
 
 ### 海岸線
 0 km (landlocked)
@@ -43,26 +43,26 @@ temperate; cold, cloudy, humid winters; warm summers
 mostly flat to rolling plains; hills and low mountains on the Slovakian border
 
 ### 海拔
-- `highest point`: Kekes 1,014 m
-- `lowest point`: Tisza River 78 m
-- `mean elevation`: 143 m
+- `最高點`: Kekes 1,014 m
+- `最低點`: Tisza River 78 m
+- `平均海拔`: 143 m
 
 ### 自然資源
 bauxite, coal, natural gas, fertile soils, arable land
 
 ### 土地利用
-- `agricultural land`: 58.9% (2018 est.)
-- `agricultural land: arable land`: arable land: 48.5% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 2% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 8.4% (2018 est.)
-- `forest`: 22.5% (2018 est.)
-- `other`: 18.6% (2018 est.)
+- `農地`: 58.9% (2018 est.)
+- `農地：耕地`: arable land: 48.5% (2018 est.)
+- `農地：永久性作物`: permanent crops: 2% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 8.4% (2018 est.)
+- `森林`: 22.5% (2018 est.)
+- `其它`: 18.6% (2018 est.)
 
 ### 灌溉土地
 1,010 sq km (2019)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lake Balaton - 590 sq km
+- `淡水湖`: Lake Balaton - 590 sq km
 
 ### 主要河流（按公里長度）
 Duna (Danube) (shared with Germany [s], Austria, Slovakia, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -79,13 +79,13 @@ landlocked; strategic location astride main land routes between Western Europe a
 ## 人民和社會
 
 ### 人口
-- `total`: 9,855,745
-- `male`: 4,812,668
-- `female`: 5,043,077 (2024 est.)
+- `總計`: 9,855,745
+- `男性`: 4,812,668
+- `女性`: 5,043,077 (2024 est.)
 
 ### 國籍
-- `noun`: Hungarian(s)
-- `adjective`: Hungarian
+- `名詞`: Hungarian(s)
+- `形容詞`: Hungarian
 
 ### 族裔群體
 Hungarian 84.3%, Romani 2.1%, German 1%, other 1.2%, unspecified 13.7% (2022 est.)
@@ -93,27 +93,27 @@ Hungarian 84.3%, Romani 2.1%, German 1%, other 1.2%, unspecified 13.7% (2022 est
 
 ### 語文
 Hungarian (official) 98.8%, English 25.3%, German 12.6%, Russian 2.1%, French 1.5%, Romanian 1.4%, other 5.1% (2022 est.)
-- `major-language sample(s)`: A World Factbook nélkülözhetetlen forrása az alapvető információnak.  (Hungarian)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: A World Factbook nélkülözhetetlen forrása az alapvető információnak.  (Hungarian)  The World Factbook, the indispensable source for basic information.
 **note**:  percentages add up to more than 100% because respondents were able to identify more than one spoken language
 
 ### 宗教
 Catholic 30.1% (Roman Catholic 27.5%, Greek Catholic 1.7%, other Catholic 0.9%), Calvinist 9.8%, Lutheran 1.8%, other Christian (includes Orthodox) 1.6%, other 0.4%, none 16.1%, no answer 40.1% (2022 est.)
 
 ### 年齡結構
-- `0-14 years`: 14.6% (male 753,955/female 683,943)
-- `15-64 years`: 63.9% (male 3,195,761/female 3,104,750)
-- `65 years and over`: 21.5% (2024 est.) (male 862,952/female 1,254,384)
+- `0-14歲`: 14.6% (male 753,955/female 683,943)
+- `15-64歲`: 63.9% (male 3,195,761/female 3,104,750)
+- `65歲及以上`: 21.5% (2024 est.) (male 862,952/female 1,254,384)
 
 ### 撫養比率
-- `total dependency ratio`: 53.8
-- `youth dependency ratio`: 22.4
-- `elderly dependency ratio`: 31.4
-- `potential support ratio`: 3.2 (2021 est.)
+- `總受扶養人比率`: 53.8
+- `少年撫養比率`: 22.4
+- `老人撫養比率`: 31.4
+- `潛在支持率`: 3.2 (2021 est.)
 
 ### 年齡中位數
-- `total`: 44.8 years (2024 est.)
-- `male`: 42.8 years
-- `female`: 46.7 years
+- `總計`: 44.8 years (2024 est.)
+- `男性`: 42.8 years
+- `女性`: 46.7 years
 
 ### 人口成長率
 -0.28% (2024 est.)
@@ -131,18 +131,18 @@ Catholic 30.1% (Roman Catholic 27.5%, Greek Catholic 1.7%, other Catholic 0.9%),
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations
 
 ### 都市化
-- `urban population`: 72.9% of total population (2023)
-- `rate of urbanization`: 0.05% annual rate of change (2020-25 est.)
+- `城市人口`: 72.9% of total population (2023)
+- `城鎮化率`: 0.05% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 1.778 million BUDAPEST (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.06 male(s)/female
-- `0-14 years`: 1.1 male(s)/female
-- `15-64 years`: 1.03 male(s)/female
-- `65 years and over`: 0.69 male(s)/female
-- `total population`: 0.95 male(s)/female (2024 est.)
+- `出生時`: 1.06 male(s)/female
+- `0-14歲`: 1.1 male(s)/female
+- `15-64歲`: 1.03 male(s)/female
+- `65歲及以上`: 0.69 male(s)/female
+- `總人口數`: 0.95 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 28.4 years (2020 est.)
@@ -151,14 +151,14 @@ a fairly even distribution throughout most of the country, with urban areas attr
 15 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 4.7 deaths/1,000 live births (2024 est.)
-- `male`: 5 deaths/1,000 live births
-- `female`: 4.3 deaths/1,000 live births
+- `總計`: 4.7 deaths/1,000 live births (2024 est.)
+- `男性`: 5 deaths/1,000 live births
+- `女性`: 4.3 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 76 years (2024 est.)
-- `male`: 72.9 years
-- `female`: 79.3 years
+- `總人口數`: 76 years (2024 est.)
+- `男性`: 72.9 years
+- `女性`: 79.3 years
 
 ### 總生育率
 1.6 children born/woman (2024 est.)
@@ -170,12 +170,12 @@ a fairly even distribution throughout most of the country, with urban areas attr
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 當前醫療支出
 7.3% of GDP (2020)
@@ -187,27 +187,27 @@ NA
 7 beds/1,000 population (2018)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 肥胖—成人流行率
 26.4% (2016)
 
 ### 人均酒精消費量
-- `total`: 10.79 liters of pure alcohol (2019 est.)
-- `beer`: 3.96 liters of pure alcohol (2019 est.)
-- `wine`: 3.33 liters of pure alcohol (2019 est.)
-- `spirits`: 3.5 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 10.79 liters of pure alcohol (2019 est.)
+- `啤酒`: 3.96 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 3.33 liters of pure alcohol (2019 est.)
+- `烈酒`: 3.5 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 31.8% (2020 est.)
-- `male`: 35.8% (2020 est.)
-- `female`: 27.8% (2020 est.)
+- `總計`: 31.8% (2020 est.)
+- `男性`: 35.8% (2020 est.)
+- `女性`: 27.8% (2020 est.)
 
 ### 5歲以下體重不足兒童
 NA
@@ -219,15 +219,15 @@ NA
 4.8% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 99.1%
-- `male`: 99.1%
-- `female`: 99.1% (2021)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 99.1%
+- `男性`: 99.1%
+- `女性`: 99.1% (2021)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 15 years
-- `male`: 15 years
-- `female`: 15 years (2020)
+- `總計`: 15 years
+- `男性`: 15 years
+- `女性`: 15 years (2020)
 
 ## 環境
 
@@ -235,23 +235,23 @@ NA
 air and water pollution are some of Hungary's most serious environmental problems; water quality in the Hungarian part of the Danube has improved but is still plagued by pollutants from industry and large-scale agriculture; soil pollution
 
 ### 環境—國際協定
-- `party to`: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
-- `signed, but not ratified`: Antarctic-Environmental Protection
+- `是以下議定書的締約國：`: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
+- `已簽署但未批準`: Antarctic-Environmental Protection
 
 ### 氣候
 temperate; cold, cloudy, humid winters; warm summers
 
 ### 土地利用
-- `agricultural land`: 58.9% (2018 est.)
-- `agricultural land: arable land`: arable land: 48.5% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 2% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 8.4% (2018 est.)
-- `forest`: 22.5% (2018 est.)
-- `other`: 18.6% (2018 est.)
+- `農地`: 58.9% (2018 est.)
+- `農地：耕地`: arable land: 48.5% (2018 est.)
+- `農地：永久性作物`: permanent crops: 2% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 8.4% (2018 est.)
+- `森林`: 22.5% (2018 est.)
+- `其它`: 18.6% (2018 est.)
 
 ### 都市化
-- `urban population`: 72.9% of total population (2023)
-- `rate of urbanization`: 0.05% annual rate of change (2020-25 est.)
+- `城市人口`: 72.9% of total population (2023)
+- `城鎮化率`: 0.05% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.1% of GDP (2018 est.)
@@ -260,17 +260,17 @@ temperate; cold, cloudy, humid winters; warm summers
 0.01% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 14.24 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 45.54 megatons (2016 est.)
-- `methane emissions`: 7.25 megatons (2020 est.)
+- `顆粒物排放量`: 14.24 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 45.54 megatons (2016 est.)
+- `甲烷排放量`: 7.25 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 3.712 million tons (2015 est.)
-- `municipal solid waste recycled annually`: 962,893 tons (2015 est.)
-- `percent of municipal solid waste recycled`: 25.9% (2015 est.)
+- `城市固體廢棄物－每年產生`: 3.712 million tons (2015 est.)
+- `城市固體廢棄物－每年回收`: 962,893 tons (2015 est.)
+- `城市固體廢棄物－回收百分比`: 25.9% (2015 est.)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lake Balaton - 590 sq km
+- `淡水湖`: Lake Balaton - 590 sq km
 
 ### 主要河流（按公里長度）
 Duna (Danube) (shared with Germany [s], Austria, Slovakia, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -279,36 +279,36 @@ Duna (Danube) (shared with Germany [s], Austria, Slovakia, Croatia, Serbia, Bulg
 Atlantic Ocean drainage: *(Black Sea)* Danube (795,656 sq km)
 
 ### 總取水量
-- `municipal`: 660 million cubic meters (2020 est.)
-- `industrial`: 3.45 billion cubic meters (2020 est.)
-- `agricultural`: 550 million cubic meters (2020 est.)
+- `市級`: 660 million cubic meters (2020 est.)
+- `工業`: 3.45 billion cubic meters (2020 est.)
+- `農業`: 550 million cubic meters (2020 est.)
 
 ### 可再生水資源總量
 104 billion cubic meters (2020 est.)
 
 ### 地質公園
-- `total global geoparks and regional networks`: 4 (2024)
-- `global geoparks and regional networks`: Bakony-Balaton; Bukk Region; Hungary; Novohrad-Nógrád (includes Slovakia) (2024)
+- `全球地質公園和區域網絡總數`: 4 (2024)
+- `全球地質公園和區域網絡`: Bakony-Balaton; Bukk Region; Hungary; Novohrad-Nógrád (includes Slovakia) (2024)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Hungary
-- `local long form`: none
-- `local short form`: Magyarorszag
-- `former`: Kingdom of Hungary, Hungarian People's Republic, Hungarian Soviet Republic, Hungarian Republic
-- `etymology`: the Byzantine Greeks refered to the tribes that arrived on the steppes of Eastern Europe in the 9th century as the "Oungroi," a name that was later Latinized to "Ungri" and which became "Hungari"; the name originally meant an "[alliance of] ten tribes"; the Hungarian name "Magyarorszag" means "Country of the Magyars"; the term may derive from the most prominent of the Hungarian tribes, the Megyer
+- `常用長名`: none
+- `常用短名`: Hungary
+- `當地語長名`: none
+- `當地語短名`: Magyarorszag
+- `前任`: Kingdom of Hungary, Hungarian People's Republic, Hungarian Soviet Republic, Hungarian Republic
+- `语源学`: the Byzantine Greeks refered to the tribes that arrived on the steppes of Eastern Europe in the 9th century as the "Oungroi," a name that was later Latinized to "Ungri" and which became "Hungari"; the name originally meant an "[alliance of] ten tribes"; the Hungarian name "Magyarorszag" means "Country of the Magyars"; the term may derive from the most prominent of the Hungarian tribes, the Megyer
 
 ### 政府類型
 parliamentary republic
 
 ### 首都
-- `name`: Budapest
-- `geographic coordinates`: 47 30 N, 19 05 E
-- `time difference`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
-- `daylight saving time`: +1hr, begins last Sunday in March; ends last Sunday in October
-- `etymology`: the Hungarian capital city was formed in 1873 from the merger of three cities on opposite banks of the Danube: Buda and Obuda (Old Buda) on the western shore and Pest on the eastern; the origins of the original names are obscure, but according to the second century A.D. geographer, Ptolemy, the settlement that would become Pest was called "Pession" in ancient times; "Buda" may derive from either a Slavic or Turkic personal name
+- `名稱`: Budapest
+- `地理坐標`: 47 30 N, 19 05 E
+- `時差`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+- `日光節約時間`: +1hr, begins last Sunday in March; ends last Sunday in October
+- `语源学`: the Hungarian capital city was formed in 1873 from the merger of three cities on opposite banks of the Danube: Buda and Obuda (Old Buda) on the western shore and Pest on the eastern; the origins of the original names are obscure, but according to the second century A.D. geographer, Ptolemy, the settlement that would become Pest was called "Pession" in ancient times; "Buda" may derive from either a Slavic or Turkic personal name
 
 ### 行政區劃
 19 counties (megyek, singular - megye), 25 cities with county rights (megyei jogu varosok, singular - megyei jogu varos), and 1 capital city (fovaros) **counties**:  Bacs-Kiskun, Baranya, Bekes, Borsod-Abauj-Zemplen, Csongrad-Csanad, Fejer, Gyor-Moson-Sopron, Hajdu-Bihar, Heves, Jasz-Nagykun-Szolnok, Komarom-Esztergom, Nograd, Pest, Somogy, Szabolcs-Szatmar-Bereg, Tolna, Vas, Veszprem, Zala **cities with county rights**:  Baja, Bekescsaba, Debrecen, Dunaujvaros, Eger, Erd, Esztergom, Gyor, Hodmezovasarhely, Kaposvar, Kecskemet, Miskolc, Nagykanizsa, Nyiregyhaza, Pecs, Salgotarjan, Sopron, Szeged, Szekesfehervar, Szekszard, Szolnok, Szombathely, Tatabanya, Veszprem, Zalaegerszeg **capital city**:  Budapest
@@ -323,37 +323,37 @@ Saint Stephen's Day, 20 August (1083); note - commemorates his canonization and 
 civil legal system influenced by the German model
 
 ### 憲法
-- `history`: previous 1949 (heavily amended in 1989 following the collapse of communism); latest approved 18 April 2011, signed 25 April 2011, effective 1 January 2012
-- `amendments`: proposed by the president of the republic, by the government, by parliamentary committee, or by Parliament members; passage requires two-thirds majority vote of Parliament members and approval by the president; amended several times, last in 2018
+- `歷史`: previous 1949 (heavily amended in 1989 following the collapse of communism); latest approved 18 April 2011, signed 25 April 2011, effective 1 January 2012
+- `修正`: proposed by the president of the republic, by the government, by parliamentary committee, or by Parliament members; passage requires two-thirds majority vote of Parliament members and approval by the president; amended several times, last in 2018
 
 ### 國際法組織參與
 accepts compulsory ICJ jurisdiction with reservations; accepts ICC jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Hungary
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: 8 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Hungary
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: 8 years
 
 ### 選舉權
 18 years of age, 16 if married and marriage is registered in Hungary; universal
 
 ### 行政部門
-- `chief of state`: President Tamas SULYOK (since 5 March 2024)
-- `head of government`: Prime Minister Viktor ORBAN (since 29 May 2010)
-- `cabinet`: Cabinet of Ministers proposed by the prime minister and appointed by the president
-- `elections/appointments`: president indirectly elected by the National Assembly with two-thirds majority vote in first round or simple majority vote in second round for a 5-year term (eligible for a second term); election last held on 26 February 2024 (next to be held in spring 2029); prime minister elected by the National Assembly on the recommendation of the president; election last held on 3 April 2022 (next to be held in April or May 2027)
-- `election results`: *2024:* Tamas SULYOK elected president; National Assembly vote - 134 to 5  *2022: *Katalin NOVAK (Fidesz) elected president; National Assembly vote - 137 to 51
+- `國家元首`: President Tamas SULYOK (since 5 March 2024)
+- `政府首腦`: Prime Minister Viktor ORBAN (since 29 May 2010)
+- `内閣`: Cabinet of Ministers proposed by the prime minister and appointed by the president
+- `選舉/任命`: president indirectly elected by the National Assembly with two-thirds majority vote in first round or simple majority vote in second round for a 5-year term (eligible for a second term); election last held on 26 February 2024 (next to be held in spring 2029); prime minister elected by the National Assembly on the recommendation of the president; election last held on 3 April 2022 (next to be held in April or May 2027)
+- `選舉結果`: *2024:* Tamas SULYOK elected president; National Assembly vote - 134 to 5  *2022: *Katalin NOVAK (Fidesz) elected president; National Assembly vote - 137 to 51
 
 ### 立法部門
-- `description`: unicameral National Assembly or Orszaggyules (199 seats; 106 members directly elected in single-member constituencies by simple majority vote and 93 members directly elected in a single nationwide constituency by party-list proportional representation vote, using the D’Hondt method; members serve 4-year terms)
-- `elections`: last held on 3 April 2022 (next to be held in April 2026)
-- `election results`: percent of vote by party list - Fidesz-KDNP 54.1%, United for Hungary 34.5%, Mi Hazank 5.9%, other 5.5%; seats by party list - Fidesz-KDNP 135, United for Hungary 57, Mi Hazank 6, independent 1; composition - men 170, women 29, percentage women 14.6%
+- `描述`: unicameral National Assembly or Orszaggyules (199 seats; 106 members directly elected in single-member constituencies by simple majority vote and 93 members directly elected in a single nationwide constituency by party-list proportional representation vote, using the D’Hondt method; members serve 4-year terms)
+- `選舉`: last held on 3 April 2022 (next to be held in April 2026)
+- `選舉結果`: percent of vote by party list - Fidesz-KDNP 54.1%, United for Hungary 34.5%, Mi Hazank 5.9%, other 5.5%; seats by party list - Fidesz-KDNP 135, United for Hungary 57, Mi Hazank 6, independent 1; composition - men 170, women 29, percentage women 14.6%
 
 ### 司法部門
-- `highest court(s)`: Curia or Supreme Judicial Court (consists of the president, vice president, department heads, and has a maximum of 113 judges, and is organized into civil, criminal, and administrative-labor departments; Constitutional Court (consists of 15 judges, including the court president and vice president)
-- `judge selection and term of office`: Curia president elected by the National Assembly on the recommendation of the president of the republic; other Curia judges appointed by the president upon the recommendation of the National Judicial Council, a separate 15-member administrative body; judge tenure based on interim evaluations until normal retirement at age 62; Constitutional Court judges, including the president of the court, elected by the National Assembly; court vice president elected by the court itself; members serve 12-year terms with mandatory retirement at age 62
-- `subordinate courts`: 5 regional courts of appeal; 19 regional or county courts (including Budapest Metropolitan Court); 20 administrative-labor courts; 111 district or local courts
+- `最高法院`: Curia or Supreme Judicial Court (consists of the president, vice president, department heads, and has a maximum of 113 judges, and is organized into civil, criminal, and administrative-labor departments; Constitutional Court (consists of 15 judges, including the court president and vice president)
+- `法官遴選和任期`: Curia president elected by the National Assembly on the recommendation of the president of the republic; other Curia judges appointed by the president upon the recommendation of the National Judicial Council, a separate 15-member administrative body; judge tenure based on interim evaluations until normal retirement at age 62; Constitutional Court judges, including the president of the court, elected by the National Assembly; court vice president elected by the court itself; members serve 12-year terms with mandatory retirement at age 62
+- `下級法院`: 5 regional courts of appeal; 19 regional or county courts (including Budapest Metropolitan Court); 20 administrative-labor courts; 111 district or local courts
 
 ### 政黨
 Christian Democratic People's Party or KDNPDemocratic Coalition or DKDialogue for Hungary or PárbeszédFidesz-Hungarian Civic Alliance or FideszHungarian Socialist Party or MSZPJobbik - Conservatives or JobbikLMP-Hungary's Green Party or LMPMi Hazank (Our Homeland Movement) or MHMMomentum Movement or MomentumMovement for a Better Hungary or JobbikNational Self-Government of Germans in Hungary or MNOÖOn the People's Side or A Nép PártjánOur Homeland Movement or Mi HazánkTISZA – Respect and Freedom Party or TISZA
@@ -362,21 +362,21 @@ Christian Democratic People's Party or KDNPDemocratic Coalition or DKDialogue fo
 Australia Group, BIS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA (cooperating state), EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Szabolcs Ferenc TAKÁCS (since 23 December 2020)
-- `chancery`: 1500 Rhode Island Avenue, N.W.Washington, D.C. 20005
-- `telephone`: [1] (202) 362-6730
+- `外交代表負責人`: Ambassador Szabolcs Ferenc TAKÁCS (since 23 December 2020)
+- `衡平法院（在美國）`: 1500 Rhode Island Avenue, N.W.Washington, D.C. 20005
+- `電話號碼`: [1] (202) 362-6730
 - `FAX`: [1] (202) 966-8135
-- `email address and website`: info.was@mfa.gov.hu  https://washington.mfa.gov.hu/eng
-- `consulate(s) general`: Chicago, Los Angeles, New York
-- `consulate(s)`: Houston, Miami
+- `電子郵件地址和網站`: info.was@mfa.gov.hu  https://washington.mfa.gov.hu/eng
+- `總領事館`: Chicago, Los Angeles, New York
+- `領事館`: Houston, Miami
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador David PRESSMAN (since 14 September 2022)
-- `embassy`: Szabadsag ter 12, H-1054 Budapest
-- `mailing address`: 5270 Budapest Place, US Department of State, Washington, DC 20521-5270
-- `telephone`: [36] (1) 475-4400
+- `外交代表負責人`: Ambassador David PRESSMAN (since 14 September 2022)
+- `大使館`: Szabadsag ter 12, H-1054 Budapest
+- `郵寄地址`: 5270 Budapest Place, US Department of State, Washington, DC 20521-5270
+- `電話號碼`: [36] (1) 475-4400
 - `FAX`: [36] (1) 475-4248
-- `email address and website`: acs.budapest@state.gov  https://hu.usembassy.gov/
+- `電子郵件地址和網站`: acs.budapest@state.gov  https://hu.usembassy.gov/
 
 ### 旗幟說明
 three equal horizontal bands of red (top), white, and green; the flag dates to the national movement of the 18th and 19th centuries, and fuses the medieval colors of the Hungarian coat of arms with the revolutionary tricolor form of the French flag; folklore attributes virtues to the colors: red for strength, white for faithfulness, and green for hope; alternatively, the red is seen as being for the blood spilled in defense of the land, white for freedom, and green for the pasturelands that make up so much of the country
@@ -385,8 +385,8 @@ three equal horizontal bands of red (top), white, and green; the flag dates to t
 Holy Crown of Hungary (Crown of Saint Stephen); national colors: red, white, green
 
 ### 國歌
-- `name`: "Himnusz" (Hymn)
-- `lyrics/music`: Ferenc KOLCSEY/Ferenc ERKEL
+- `名稱`: "Himnusz" (Hymn)
+- `歌詞／音樂`: Ferenc KOLCSEY/Ferenc ERKEL
 **note**:  adopted 1844
 
 ### 國家級遺產
@@ -433,18 +433,18 @@ $212.389 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 4.7% (2023 est.)
-- `industry`: 24.3% (2023 est.)
-- `services`: 57.6% (2023 est.)
+- `農業`: 4.7% (2023 est.)
+- `產業`: 24.3% (2023 est.)
+- `服務`: 57.6% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 49.5% (2023 est.)
-- `government consumption`: 20% (2023 est.)
-- `investment in fixed capital`: 26.3% (2023 est.)
-- `investment in inventories`: -1% (2023 est.)
-- `exports of goods and services`: 81.2% (2023 est.)
-- `imports of goods and services`: -76.1% (2023 est.)
+- `家庭消費`: 49.5% (2023 est.)
+- `政府消費`: 20% (2023 est.)
+- `固定資本投資`: 26.3% (2023 est.)
+- `存貨投資`: -1% (2023 est.)
+- `商品和服務出口`: 81.2% (2023 est.)
+- `商品和服務進口`: -76.1% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -469,9 +469,9 @@ mining, metallurgy, construction materials, processed foods, textiles, chemicals
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 12.8% (2023 est.)
-- `male`: 13.5% (2023 est.)
-- `female`: 11.8% (2023 est.)
+- `總計`: 12.8% (2023 est.)
+- `男性`: 13.5% (2023 est.)
+- `女性`: 11.8% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -483,12 +483,12 @@ mining, metallurgy, construction materials, processed foods, textiles, chemicals
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 平均家庭支出
-- `on food`: 17.6% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 7.6% of household expenditures (2022 est.)
+- `餐食`: 17.6% of household expenditures (2022 est.)
+- `酒精和煙草`: 7.6% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 3.5% (2021 est.)
-- `highest 10%`: 24.1% (2021 est.)
+- `最低10%`: 3.5% (2021 est.)
+- `最高10%`: 24.1% (2021 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -498,8 +498,8 @@ mining, metallurgy, construction materials, processed foods, textiles, chemicals
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $69.793 billion (2022 est.)
-- `expenditures`: $75.081 billion (2022 est.)
+- `收入`: $69.793 billion (2022 est.)
+- `支出`: $75.081 billion (2022 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -561,22 +561,22 @@ $43.483 billion (2021 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 11.995 million kW (2022 est.)
-- `consumption`: 43.186 billion kWh (2022 est.)
-- `exports`: 9.439 billion kWh (2022 est.)
-- `imports`: 21.589 billion kWh (2022 est.)
-- `transmission/distribution losses`: 2.801 billion kWh (2022 est.)
+- `裝機容量`: 11.995 million kW (2022 est.)
+- `消費`: 43.186 billion kWh (2022 est.)
+- `出口`: 9.439 billion kWh (2022 est.)
+- `進口`: 21.589 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 2.801 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 33.1% of total installed capacity (2022 est.)
-- `nuclear`: 44.2% of total installed capacity (2022 est.)
-- `solar`: 13.6% of total installed capacity (2022 est.)
-- `wind`: 1.8% of total installed capacity (2022 est.)
-- `hydroelectricity`: 0.5% of total installed capacity (2022 est.)
-- `biomass and waste`: 6.8% of total installed capacity (2022 est.)
+- `石化燃料`: 33.1% of total installed capacity (2022 est.)
+- `核能`: 44.2% of total installed capacity (2022 est.)
+- `太陽能`: 13.6% of total installed capacity (2022 est.)
+- `風能`: 1.8% of total installed capacity (2022 est.)
+- `水力發電`: 0.5% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 6.8% of total installed capacity (2022 est.)
 
 ### 核能
 - `Number of operational nuclear reactors`: 4 (2023)
@@ -584,28 +584,28 @@ $43.483 billion (2021 est.)
 - `Percent of total electricity production`: 48.8% (2023 est.)
 
 ### 煤炭
-- `production`: 5.45 million metric tons (2022 est.)
-- `consumption`: 6.18 million metric tons (2022 est.)
-- `exports`: 132,000 metric tons (2022 est.)
-- `imports`: 804,000 metric tons (2022 est.)
-- `proven reserves`: 2.909 billion metric tons (2022 est.)
+- `生產`: 5.45 million metric tons (2022 est.)
+- `消費`: 6.18 million metric tons (2022 est.)
+- `出口`: 132,000 metric tons (2022 est.)
+- `進口`: 804,000 metric tons (2022 est.)
+- `探明儲量`: 2.909 billion metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 36,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 175,000 bbl/day (2023 est.)
-- `crude oil estimated reserves`: 12.1 million barrels (2021 est.)
+- `總石油產量`: 36,000 bbl/day (2023 est.)
+- `成品油消費量`: 175,000 bbl/day (2023 est.)
+- `原油儲備量估值`: 12.1 million barrels (2021 est.)
 
 ### 天然氣
-- `production`: 1.523 billion cubic meters (2022 est.)
-- `consumption`: 9.485 billion cubic meters (2022 est.)
-- `imports`: 9.314 billion cubic meters (2022 est.)
-- `proven reserves`: 3.738 billion cubic meters (2021 est.)
+- `生產`: 1.523 billion cubic meters (2022 est.)
+- `消費`: 9.485 billion cubic meters (2022 est.)
+- `進口`: 9.314 billion cubic meters (2022 est.)
+- `探明儲量`: 3.738 billion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 44.884 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 4.915 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 21.781 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 18.187 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 44.884 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 4.915 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 21.781 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 18.187 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 102.832 million Btu/person (2022 est.)
@@ -613,17 +613,17 @@ $43.483 billion (2021 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 2.845 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 29 (2022 est.)
+- `總訂閱數`: 2.845 million (2022 est.)
+- `每100名居民訂閱數`: 29 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 10.372 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 104 (2022 est.)
+- `總訂閱數`: 10.372 million (2022 est.)
+- `每100名居民訂閱數`: 104 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Hungary’s telecom infrastructure has been upgraded in recent years following considerable investments made by telcos as they upgrade their mobile networks to 5G and deploy more fiber; these developments have helped operators to promote converged fixed and mobile service; the number of fixed lines continue to fall as subscribers migrate to the mobile platform for voice and data services; a number of measures aimed at promoting competition in the broadband market encourage investment in technology upgrades; Hungary has the highest fixed broadband penetration rate in Eastern Europe; there remains considerable growth in mobile broadband services delivered via upgraded networks; 5G development is supported by the government, universities, other telcos, and vendors (2024)
-- `domestic`: fixed-line connections, with 29 fixed per 100 persons and 104 mobile-cellular subscriptions per 100 (2022)
-- `international`: country code - 36; Hungary has fiber-optic cable connections with all neighboring countries; the international switch is in Budapest; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean regions), 1 Inmarsat, 1 (very small aperture terminal) VSAT system of ground terminals
+- `總體評估`: Hungary’s telecom infrastructure has been upgraded in recent years following considerable investments made by telcos as they upgrade their mobile networks to 5G and deploy more fiber; these developments have helped operators to promote converged fixed and mobile service; the number of fixed lines continue to fall as subscribers migrate to the mobile platform for voice and data services; a number of measures aimed at promoting competition in the broadband market encourage investment in technology upgrades; Hungary has the highest fixed broadband penetration rate in Eastern Europe; there remains considerable growth in mobile broadband services delivered via upgraded networks; 5G development is supported by the government, universities, other telcos, and vendors (2024)
+- `國內`: fixed-line connections, with 29 fixed per 100 persons and 104 mobile-cellular subscriptions per 100 (2022)
+- `國際的`: country code - 36; Hungary has fiber-optic cable connections with all neighboring countries; the international switch is in Budapest; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean regions), 1 Inmarsat, 1 (very small aperture terminal) VSAT system of ground terminals
 
 ### 廣播媒體
 mixed system of state-supported public service broadcast media and private broadcasters; the 5 publicly owned TV channels and the 2 main privately owned TV stations are the major national broadcasters; a large number of special interest channels; highly developed market for satellite and cable TV services with about two-thirds of viewers utilizing their services; 4 state-supported public-service radio networks; a large number of local stations including commercial, public service, nonprofit, and community radio stations; digital transition completed at the end of 2013; government-linked businesses have greatly consolidated ownership in broadcast and print media (2019)
@@ -632,19 +632,19 @@ mixed system of state-supported public service broadcast media and private broad
 .hu
 
 ### 網際網路使用者
-- `total`: 8.633 million (2021 est.)
-- `percent of population`: 89% (2021 est.)
+- `總計`: 8.633 million (2021 est.)
+- `佔人口比例`: 89% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 3,382,136 (2021 est.)
-- `subscriptions per 100 inhabitants`: 34.83 (2021 est.)
+- `總計`: 3,382,136 (2021 est.)
+- `每100名居民訂閱數`: 34.83 (2021 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 5 (2020)
-- `inventory of registered aircraft operated by air carriers`: 145
-- `annual passenger traffic on registered air carriers`: 31,226,848 (2018)
+- `註冊航空公司數量`: 5 (2020)
+- `註冊飛機庫存—航空承運商經營`: 145
+- `年度客運量－註冊航空公司`: 31,226,848 (2018)
 
 ### 註冊民用航空器國家代碼前綴
 HA
@@ -659,17 +659,17 @@ HA
 5,874 km gas (high-pressure transmission system), 83,732 km gas (low-pressure distribution network), 850 km oil, 1,200 km refined products (2018)
 
 ### 鐵路
-- `total`: 7,687 km (2020) 3,111 km electrified
+- `總計`: 7,687 km (2020) 3,111 km electrified
 
 ### 道路
-- `total`: 216,443 km (2022)
+- `總計`: 216,443 km (2022)
 
 ### 水道
 1,622 km (2011) (most on Danube River)
 
 ### 商船
-- `total`: 1 (2023)
-- `by type`: other 1
+- `總計`: 1 (2023)
+- `依類型`: other 1
 
 ## 軍事和安全
 
@@ -719,8 +719,8 @@ Islamic State of Iraq and ash-Sham (ISIS)
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 66,135 (Ukraine) (as of 15 April 2024)
-- `stateless persons`: 130 (2022)
+- `難民（原籍國）`: 66,135 (Ukraine) (as of 15 April 2024)
+- `無國籍人士`: 130 (2022)
 
 ### 非法藥物
 transshipment point for Southwest Asian heroin and cannabis and for South American cocaine destined for Western Europe; limited producer of precursor chemicals, particularly for amphetamine and methamphetamine; efforts to counter money laundering, related to organized crime and drug trafficking are improving but remain vulnerable; significant consumer of ecstasy

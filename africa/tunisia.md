@@ -19,24 +19,24 @@ Northern Africa, bordering the Mediterranean Sea, between Algeria and Libya
 Africa
 
 ### 面積
-- `total `: 163,610 sq km
-- `land`: 155,360 sq km
-- `water`: 8,250 sq km
+- `總計`: 163,610 sq km
+- `土地`: 155,360 sq km
+- `水`: 8,250 sq km
 
 ### 面積—比較
 slightly larger than Georgia
 
 ### 陸地邊界
-- `total`: 1,495 km
-- `border countries`: Algeria 1,034 km; Libya 461 km
+- `總計`: 1,495 km
+- `邊境國家`: Algeria 1,034 km; Libya 461 km
 
 ### 海岸線
 1,148 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 12 nm
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 12 nm
 
 ### 氣候
 temperate in north with mild, rainy winters and hot, dry summers; desert in south
@@ -45,20 +45,20 @@ temperate in north with mild, rainy winters and hot, dry summers; desert in sout
 mountains in north; hot, dry central plain; semiarid south merges into the Sahara
 
 ### 海拔
-- `highest point`: Jebel ech Chambi 1,544 m
-- `lowest point`: Shatt al Gharsah -17 m
-- `mean elevation`: 246 m
+- `最高點`: Jebel ech Chambi 1,544 m
+- `最低點`: Shatt al Gharsah -17 m
+- `平均海拔`: 246 m
 
 ### 自然資源
 petroleum, phosphates, iron ore, lead, zinc, salt
 
 ### 土地利用
-- `agricultural land`: 64.8% (2018 est.)
-- `agricultural land: arable land`: arable land: 18.3% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 15.4% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 31.1% (2018 est.)
-- `forest`: 6.6% (2018 est.)
-- `other`: 28.6% (2018 est.)
+- `農地`: 64.8% (2018 est.)
+- `農地：耕地`: arable land: 18.3% (2018 est.)
+- `農地：永久性作物`: permanent crops: 15.4% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 31.1% (2018 est.)
+- `森林`: 6.6% (2018 est.)
+- `其它`: 28.6% (2018 est.)
 
 ### 灌溉土地
 3,920 sq km (2013)
@@ -78,20 +78,20 @@ strategic location in central Mediterranean; Malta and Tunisia are discussing th
 ## 人民和社會
 
 ### 人口
-- `total`: 12,048,847
-- `male`: 5,972,242
-- `female`: 6,076,605 (2024 est.)
+- `總計`: 12,048,847
+- `男性`: 5,972,242
+- `女性`: 6,076,605 (2024 est.)
 
 ### 國籍
-- `noun`: Tunisian(s)
-- `adjective`: Tunisian
+- `名詞`: Tunisian(s)
+- `形容詞`: Tunisian
 
 ### 族裔群體
 Arab 98%, European 1%, Jewish and other 1%
 
 ### 語文
 Arabic (official, one of the languages of commerce), French (commerce), Tamazight
-- `major-language sample(s)`: كتاب حقائق العالم، أحسن كتاب تتعلم به المعلومات الأساسية (Arabic)  The World Factbook, une source indispensable d'informations de base. (French)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: كتاب حقائق العالم، أحسن كتاب تتعلم به المعلومات الأساسية (Arabic)  The World Factbook, une source indispensable d'informations de base. (French)  The World Factbook, the indispensable source for basic information.
 **note**:  despite having no official status, French plays a major role in the country and is spoken by about two thirds of the population
 
 ### 宗教
@@ -101,20 +101,20 @@ Muslim (official; Sunni) 99%, other (includes Christian, Jewish, Shia Muslim, an
 The Tunisian Government took steps in the 1960s to decrease population growth and gender inequality in order to improve socioeconomic development. Through its introduction of a national family planning program (the first in Africa) and by raising the legal age of marriage, Tunisia rapidly reduced its total fertility rate from about 7 children per woman in 1960 to 2 in 2022. Unlike many of its North African and Middle Eastern neighbors, Tunisia will soon be shifting from being a youth-bulge country to having a transitional age structure, characterized by lower fertility and mortality rates, a slower population growth rate, a rising median age, and a longer average life expectancy. Currently, the sizable young working-age population is straining Tunisia’s labor market and education and health care systems. Persistent high unemployment among Tunisia’s growing workforce, particularly its increasing number of university graduates and women, was a key factor in the uprisings that led to the overthrow of the BEN ALI regime in 2011. In the near term, Tunisia’s large number of jobless young, working-age adults; deficiencies in primary and secondary education; and the ongoing lack of job creation and skills mismatches could contribute to future unrest. In the longer term, a sustained low fertility rate will shrink future youth cohorts and alleviate demographic pressure on Tunisia’s labor market, but employment and education hurdles will still need to be addressed. Tunisia has a history of labor emigration. In the 1960s, workers migrated to European countries to escape poor economic conditions and to fill Europe’s need for low-skilled labor in construction and manufacturing. The Tunisian Government signed bilateral labor agreements with France, Germany, Belgium, Hungary, and the Netherlands, with the expectation that Tunisian workers would eventually return home. At the same time, growing numbers of Tunisians headed to Libya, often illegally, to work in the expanding oil industry. In the mid-1970s, with European countries beginning to restrict immigration and Tunisian-Libyan tensions brewing, Tunisian economic migrants turned toward the Gulf countries. After mass expulsions from Libya in 1983, Tunisian migrants increasingly sought family reunification in Europe or moved illegally to southern Europe, while Tunisia itself developed into a transit point for Sub-Saharan migrants heading to Europe. Following the ousting of BEN ALI in 2011, the illegal migration of unemployed Tunisian youths to Italy and onward to France soared into the tens of thousands. Thousands more Tunisian and foreign workers escaping civil war in Libya flooded into Tunisia and joined the exodus. A readmission agreement signed by Italy and Tunisia in April 2011 helped stem the outflow, leaving Tunisia and international organizations to repatriate, resettle, or accommodate some 1 million Libyans and third-country nationals.
 
 ### 年齡結構
-- `0-14 years`: 24.4% (male 1,516,871/female 1,426,522)
-- `15-64 years`: 65.2% (male 3,861,731/female 3,990,802)
-- `65 years and over`: 10.4% (2024 est.) (male 593,640/female 659,281)
+- `0-14歲`: 24.4% (male 1,516,871/female 1,426,522)
+- `15-64歲`: 65.2% (male 3,861,731/female 3,990,802)
+- `65歲及以上`: 10.4% (2024 est.) (male 593,640/female 659,281)
 
 ### 撫養比率
-- `total dependency ratio`: 50.9
-- `youth dependency ratio`: 36.3
-- `elderly dependency ratio`: 13.3
-- `potential support ratio`: 7.5 (2021 est.)
+- `總受扶養人比率`: 50.9
+- `少年撫養比率`: 36.3
+- `老人撫養比率`: 13.3
+- `潛在支持率`: 7.5 (2021 est.)
 
 ### 年齡中位數
-- `total`: 34.4 years (2024 est.)
-- `male`: 33.6 years
-- `female`: 35.1 years
+- `總計`: 34.4 years (2024 est.)
+- `男性`: 33.6 years
+- `女性`: 35.1 years
 
 ### 人口成長率
 0.58% (2024 est.)
@@ -132,31 +132,31 @@ The Tunisian Government took steps in the 1960s to decrease population growth an
 the overwhelming majority of the population is located in the northern half of the country; the south remains largely underpopulated as shown in this population distribution map
 
 ### 都市化
-- `urban population`: 70.5% of total population (2023)
-- `rate of urbanization`: 1.34% annual rate of change (2020-25 est.)
+- `城市人口`: 70.5% of total population (2023)
+- `城鎮化率`: 1.34% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 2.475 million TUNIS (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.06 male(s)/female
-- `0-14 years`: 1.06 male(s)/female
-- `15-64 years`: 0.97 male(s)/female
-- `65 years and over`: 0.9 male(s)/female
-- `total population`: 0.98 male(s)/female (2024 est.)
+- `出生時`: 1.06 male(s)/female
+- `0-14歲`: 1.06 male(s)/female
+- `15-64歲`: 0.97 male(s)/female
+- `65歲及以上`: 0.9 male(s)/female
+- `總人口數`: 0.98 male(s)/female (2024 est.)
 
 ### 產婦死亡率
 37 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 11.3 deaths/1,000 live births (2024 est.)
-- `male`: 12.7 deaths/1,000 live births
-- `female`: 9.8 deaths/1,000 live births
+- `總計`: 11.3 deaths/1,000 live births (2024 est.)
+- `男性`: 12.7 deaths/1,000 live births
+- `女性`: 9.8 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 77.3 years (2024 est.)
-- `male`: 75.7 years
-- `female`: 79.1 years
+- `總人口數`: 77.3 years (2024 est.)
+- `男性`: 75.7 years
+- `女性`: 79.1 years
 
 ### 總生育率
 1.93 children born/woman (2024 est.)
@@ -168,12 +168,12 @@ the overwhelming majority of the population is located in the northern half of t
 50.7% (2018)
 
 ### 飲用水來源
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 97.3% of population
-- `improved: total`: total: 99.2% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 2.7% of population
-- `unimproved: total`: total: 0.8% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 97.3% of population
+- `已改進－總計`: total: 99.2% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 2.7% of population
+- `未改善：總計`: total: 0.8% of population (2020 est.)
 
 ### 當前醫療支出
 6.3% of GDP (2020)
@@ -185,27 +185,27 @@ the overwhelming majority of the population is located in the northern half of t
 2.2 beds/1,000 population (2017)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 98.8% of population
-- `improved: rural`: rural: 99.4% of population
-- `improved: total`: total: 99% of population
-- `unimproved: urban`: urban: 1.2% of population
-- `unimproved: rural`: rural: 0.6% of population
-- `unimproved: total`: total: 1% of population (2020 est.)
+- `已改進－城市`: urban: 98.8% of population
+- `已改進－農村`: rural: 99.4% of population
+- `已改進－總計`: total: 99% of population
+- `未改進：都市`: urban: 1.2% of population
+- `未改進：鄉村`: rural: 0.6% of population
+- `未改善：總計`: total: 1% of population (2020 est.)
 
 ### 肥胖—成人流行率
 26.9% (2016)
 
 ### 人均酒精消費量
-- `total`: 1.51 liters of pure alcohol (2019 est.)
-- `beer`: 0.99 liters of pure alcohol (2019 est.)
-- `wine`: 0.32 liters of pure alcohol (2019 est.)
-- `spirits`: 0.17 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.03 liters of pure alcohol (2019 est.)
+- `總計`: 1.51 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.99 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.32 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.17 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.03 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 24.6% (2020 est.)
-- `male`: 47.2% (2020 est.)
-- `female`: 2% (2020 est.)
+- `總計`: 24.6% (2020 est.)
+- `男性`: 47.2% (2020 est.)
+- `女性`: 2% (2020 est.)
 
 ### 5歲以下體重不足兒童
 1.6% (2018)
@@ -214,21 +214,21 @@ the overwhelming majority of the population is located in the northern half of t
 53.9% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 1.5% (2018 est.)
+- `15歲前結婚的女性`: 1.5% (2018 est.)
 
 ### 教育支出
 7.3% of GDP (2016 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 82.7%
-- `male`: 89.1%
-- `female`: 82.7% (2021)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 82.7%
+- `男性`: 89.1%
+- `女性`: 82.7% (2021)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 15 years
-- `male`: 14 years
-- `female`: 16 years (2016)
+- `總計`: 15 years
+- `男性`: 14 years
+- `女性`: 16 years (2016)
 
 ## 環境
 
@@ -236,23 +236,23 @@ the overwhelming majority of the population is located in the northern half of t
 toxic and hazardous waste disposal is ineffective and poses health risks; water pollution from raw sewage; limited natural freshwater resources; deforestation; overgrazing; soil erosion; desertification
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands
-- `signed, but not ratified`: Marine Life Conservation
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands
+- `已簽署但未批準`: Marine Life Conservation
 
 ### 氣候
 temperate in north with mild, rainy winters and hot, dry summers; desert in south
 
 ### 土地利用
-- `agricultural land`: 64.8% (2018 est.)
-- `agricultural land: arable land`: arable land: 18.3% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 15.4% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 31.1% (2018 est.)
-- `forest`: 6.6% (2018 est.)
-- `other`: 28.6% (2018 est.)
+- `農地`: 64.8% (2018 est.)
+- `農地：耕地`: arable land: 18.3% (2018 est.)
+- `農地：永久性作物`: permanent crops: 15.4% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 31.1% (2018 est.)
+- `森林`: 6.6% (2018 est.)
+- `其它`: 28.6% (2018 est.)
 
 ### 都市化
-- `urban population`: 70.5% of total population (2023)
-- `rate of urbanization`: 1.34% annual rate of change (2020-25 est.)
+- `城市人口`: 70.5% of total population (2023)
+- `城鎮化率`: 1.34% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.21% of GDP (2018 est.)
@@ -261,22 +261,22 @@ temperate in north with mild, rainy winters and hot, dry summers; desert in sout
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 26.52 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 29.94 megatons (2016 est.)
-- `methane emissions`: 7.89 megatons (2020 est.)
+- `顆粒物排放量`: 26.52 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 29.94 megatons (2016 est.)
+- `甲烷排放量`: 7.89 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 2.7 million tons (2014 est.)
-- `municipal solid waste recycled annually`: 108,000 tons (2014 est.)
-- `percent of municipal solid waste recycled`: 4% (2014 est.)
+- `城市固體廢棄物－每年產生`: 2.7 million tons (2014 est.)
+- `城市固體廢棄物－每年回收`: 108,000 tons (2014 est.)
+- `城市固體廢棄物－回收百分比`: 4% (2014 est.)
 
 ### 主要含水層
 North Western Sahara Aquifer System
 
 ### 總取水量
-- `municipal`: 820 million cubic meters (2020 est.)
-- `industrial`: 60 million cubic meters (2020 est.)
-- `agricultural`: 2.71 billion cubic meters (2020 est.)
+- `市級`: 820 million cubic meters (2020 est.)
+- `工業`: 60 million cubic meters (2020 est.)
+- `農業`: 2.71 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 4.62 billion cubic meters (2020 est.)
@@ -284,20 +284,20 @@ North Western Sahara Aquifer System
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Tunisia
-- `conventional short form`: Tunisia
-- `local long form`: Al Jumhuriyah at Tunisiyah
-- `local short form`: Tunis
-- `etymology`: the country name derives from the capital city of Tunis
+- `常用長名`: Republic of Tunisia
+- `常用短名`: Tunisia
+- `當地語長名`: Al Jumhuriyah at Tunisiyah
+- `當地語短名`: Tunis
+- `语源学`: the country name derives from the capital city of Tunis
 
 ### 政府類型
 parliamentary republic
 
 ### 首都
-- `name`: Tunis
-- `geographic coordinates`: 36 48 N, 10 11 E
-- `time difference`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: three possibilities exist for the derivation of the name; originally a Berber settlement (earliest reference 4th century B.C.), the strategic site fell to the Carthaginians (Phoenicians) and the city could be named after the Punic goddess Tanit, since many ancient cities were named after patron deities; alternatively, the Berber root word "ens," which means "to lie down" or "to pass the night," may indicate that the site was originally a camp or rest stop; finally, the name may be the same as the city of Tynes, mentioned in the writings of some ancient authors
+- `名稱`: Tunis
+- `地理坐標`: 36 48 N, 10 11 E
+- `時差`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: three possibilities exist for the derivation of the name; originally a Berber settlement (earliest reference 4th century B.C.), the strategic site fell to the Carthaginians (Phoenicians) and the city could be named after the Punic goddess Tanit, since many ancient cities were named after patron deities; alternatively, the Berber root word "ens," which means "to lie down" or "to pass the night," may indicate that the site was originally a camp or rest stop; finally, the name may be the same as the city of Tynes, mentioned in the writings of some ancient authors
 
 ### 行政區劃
 24 governorates (wilayat, singular - wilayah); Beja (Bajah), Ben Arous (Bin 'Arus), Bizerte (Banzart), Gabes (Qabis), Gafsa (Qafsah), Jendouba (Jundubah), Kairouan (Al Qayrawan), Kasserine (Al Qasrayn), Kebili (Qibili), Kef (Al Kaf), L'Ariana (Aryanah), Mahdia (Al Mahdiyah), Manouba (Manubah), Medenine (Madanin), Monastir (Al Munastir), Nabeul (Nabul), Sfax (Safaqis), Sidi Bouzid (Sidi Bu Zayd), Siliana (Silyanah), Sousse (Susah), Tataouine (Tatawin), Tozeur (Tawzar), Tunis, Zaghouan (Zaghwan)
@@ -312,39 +312,39 @@ Independence Day, 20 March (1956); Revolution and Youth Day, 14 January (2011)
 mixed legal system of civil law, based on the French civil code and Islamic (sharia) law; some judicial review of legislative acts in the Supreme Court in joint session
 
 ### 憲法
-- `history`: several previous; latest - draft published by the president 30 June 2022, approved by referendum 25 July 2022, and adopted 27 July 2022
-- `amendments`: proposed by the president of the republic or by one third of the Assembly of the Representatives of the People membership; following review by the Constitutional Court, approval to proceed requires an absolute majority vote by the Assembly and final passage requires a two-thirds Assembly majority vote; the president can opt to submit an amendment to a referendum, which requires an absolute majority of votes cast for passage
+- `歷史`: several previous; latest - draft published by the president 30 June 2022, approved by referendum 25 July 2022, and adopted 27 July 2022
+- `修正`: proposed by the president of the republic or by one third of the Assembly of the Representatives of the People membership; following review by the Constitutional Court, approval to proceed requires an absolute majority vote by the Assembly and final passage requires a two-thirds Assembly majority vote; the president can opt to submit an amendment to a referendum, which requires an absolute majority of votes cast for passage
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Tunisia
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: 5 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Tunisia
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: 5 years
 
 ### 選舉權
 18 years of age; universal except for active government security forces (including the police and the military), people with mental disabilities, people who have served more than three months in prison (criminal cases only), and people given a suspended sentence of more than six months
 
 ### 行政部門
-- `chief of state`: President Kais SAIED (since 23 October 2019)
-- `head of government`: Prime Minister Kamel MADDOURI (since 7 August 2024); President Kais SAIED dismissed Prime Minister Ahmed HACHANI the same day he appointed Kamel MADDOURI
-- `cabinet`: prime minister appointed by the president; cabinet members appointed by the president in consultation with the prime minister
-- `elections/appointments`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 6 October 2024 (next to be held in 2029)
-- `election results`: *2024: *Kais SAIED reelected president in first round - Kais SAIED (independent) 90.7%, Ayachi ZAMMEL (Long Live Tunisia) 7.3%, Zouhair MAGHZAOUI (People's Movement) 2%*  2019:* Kais SAIED elected president in second round; percent of vote in first round - Kais SAIED (independent) 18.4%, Nabil KAROUI (Heart of Tunisia) 15.6%, Abdelfattah MOUROU (Nahda Movement) 12.9%, Abdelkrim ZBIDI (independent) 10.7%, Youssef CHAHED (Long Live Tunisia) 7.4%, Safi SAID (independent) 7.1%, Lotfi MRAIHI (Republican People's Union) 6.6%, other 21.3%; percent of vote in second round - Kais SAIED 72.7%, Nabil KAROUI 27.3%   
+- `國家元首`: President Kais SAIED (since 23 October 2019)
+- `政府首腦`: Prime Minister Kamel MADDOURI (since 7 August 2024); President Kais SAIED dismissed Prime Minister Ahmed HACHANI the same day he appointed Kamel MADDOURI
+- `内閣`: prime minister appointed by the president; cabinet members appointed by the president in consultation with the prime minister
+- `選舉/任命`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 6 October 2024 (next to be held in 2029)
+- `選舉結果`: *2024: *Kais SAIED reelected president in first round - Kais SAIED (independent) 90.7%, Ayachi ZAMMEL (Long Live Tunisia) 7.3%, Zouhair MAGHZAOUI (People's Movement) 2%*  2019:* Kais SAIED elected president in second round; percent of vote in first round - Kais SAIED (independent) 18.4%, Nabil KAROUI (Heart of Tunisia) 15.6%, Abdelfattah MOUROU (Nahda Movement) 12.9%, Abdelkrim ZBIDI (independent) 10.7%, Youssef CHAHED (Long Live Tunisia) 7.4%, Safi SAID (independent) 7.1%, Lotfi MRAIHI (Republican People's Union) 6.6%, other 21.3%; percent of vote in second round - Kais SAIED 72.7%, Nabil KAROUI 27.3%   
 **note**: the president can dismiss any member of government on his own initiative or in consultation with the prime minister
 
 ### 立法部門
-- `description`: bicameral legislature (enacted by the 2022 constitution) consists of:newly added National Council of Regions and Districts (Le Conseil national des régions et des districts) (77 seats; members indirectly elected by regional and district councils; members of each Regional Council elect 3 members among themselves to the National Council; each District Council elects 1 member among themselves to the National Council; members serve 5-year term)Assembly of the People's Representatives (161 seats; 151 members in single seat constituencies and 10 members from Tunisian diaspora directly elected by majoritarian two-round voting system; all members serve 5-year terms)
-- `elections`: National Council of Regions and Districts - last held on 18 April 2024 for 279 local councils, which indirectly elect the National Council (next to be held in 2029)Assembly of Representatives of the People - last held on 17 December 2022 with a runoff on 29 January 2023 (next to be held in late 2027)
-- `election results`: National Council of Regions and Districts - percent of vote by party NA; seats by party NAAssembly of Representatives of the People - percent of vote by party NA; seats by party NA*_issue_**_issue_*
+- `描述`: bicameral legislature (enacted by the 2022 constitution) consists of:newly added National Council of Regions and Districts (Le Conseil national des régions et des districts) (77 seats; members indirectly elected by regional and district councils; members of each Regional Council elect 3 members among themselves to the National Council; each District Council elects 1 member among themselves to the National Council; members serve 5-year term)Assembly of the People's Representatives (161 seats; 151 members in single seat constituencies and 10 members from Tunisian diaspora directly elected by majoritarian two-round voting system; all members serve 5-year terms)
+- `選舉`: National Council of Regions and Districts - last held on 18 April 2024 for 279 local councils, which indirectly elect the National Council (next to be held in 2029)Assembly of Representatives of the People - last held on 17 December 2022 with a runoff on 29 January 2023 (next to be held in late 2027)
+- `選舉結果`: National Council of Regions and Districts - percent of vote by party NA; seats by party NAAssembly of Representatives of the People - percent of vote by party NA; seats by party NA*_issue_**_issue_*
 **note**:  in 2022, President SAIED issued a new electoral law that requires all legislative candidates to run as independents
 
 ### 司法部門
-- `highest court(s)`: Court of Cassation (consists of the first president, chamber presidents, and magistrates and organized into 27 civil and 11 criminal chambers)
-- `judge selection and term of office`: Supreme Court judges nominated by the Supreme Judicial Council, an independent 4-part body consisting mainly of elected judges and the remainder legal specialists; judge tenure based on terms of appointment; Constitutional Court (established in the 2014 and 2022 constitutions, but inception has been delayed; note - in mid-February 2022, President SAIED dissolved the Supreme Judicial Council and replaced it with an interim council in early March 2022
-- `subordinate courts`: Courts of Appeal; administrative courts; Court of Audit; Housing Court; courts of first instance; lower district courts; military courts
+- `最高法院`: Court of Cassation (consists of the first president, chamber presidents, and magistrates and organized into 27 civil and 11 criminal chambers)
+- `法官遴選和任期`: Supreme Court judges nominated by the Supreme Judicial Council, an independent 4-part body consisting mainly of elected judges and the remainder legal specialists; judge tenure based on terms of appointment; Constitutional Court (established in the 2014 and 2022 constitutions, but inception has been delayed; note - in mid-February 2022, President SAIED dissolved the Supreme Judicial Council and replaced it with an interim council in early March 2022
+- `下級法院`: Courts of Appeal; administrative courts; Court of Audit; Housing Court; courts of first instance; lower district courts; military courts
 **note**:  the Tunisian constitution of January 2014 called for the establishment of a constitutional court by the end of 2015, but the court was never formed; the new constitution of July 2022 calls for the establishment of a constitutional court consisting of 9 members appointed by presidential decree; members to include former senior judges of other courts
 
 ### 政黨
@@ -355,19 +355,19 @@ Afek TounesAl Badil Al-Tounisi (The Tunisian Alternative)Al-Amal PartyCall for T
 ABEDA, AfDB, AFESD, AIIB, AMF, AMU, AU, BSEC (observer), CAEU, CD, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, OSCE (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Hanene TAJOURI BESSASSI (since 1 December 2021)
-- `chancery`: 1515 Massachusetts Avenue NW, Washington, DC 20005
-- `telephone`: [1] (202) 862-1850
+- `外交代表負責人`: Ambassador Hanene TAJOURI BESSASSI (since 1 December 2021)
+- `衡平法院（在美國）`: 1515 Massachusetts Avenue NW, Washington, DC 20005
+- `電話號碼`: [1] (202) 862-1850
 - `FAX`: [1] (202) 862-1858
-- `email address and website`: AT.Washington@Tunisiaembassy.org  https://www.tunisianembassy.org/
+- `電子郵件地址和網站`: AT.Washington@Tunisiaembassy.org  https://www.tunisianembassy.org/
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Joey HOOD (since 2 February 2023)
-- `embassy`: Les Berges du Lac, 1053 Tunis
-- `mailing address`: 6360 Tunis Place, Washington DC  20521-6360
-- `telephone`: [216] 71-107-000
+- `外交代表負責人`: Ambassador Joey HOOD (since 2 February 2023)
+- `大使館`: Les Berges du Lac, 1053 Tunis
+- `郵寄地址`: 6360 Tunis Place, Washington DC  20521-6360
+- `電話號碼`: [216] 71-107-000
 - `FAX`: [216] 71-107-090
-- `email address and website`: tuniswebsitecontact@state.gov  https://tn.usembassy.gov/
+- `電子郵件地址和網站`: tuniswebsitecontact@state.gov  https://tn.usembassy.gov/
 
 ### 旗幟說明
 red with a white disk in the center bearing a red crescent nearly encircling a red five-pointed star; resembles the Ottoman flag (red banner with white crescent and star) and recalls Tunisia's history as part of the Ottoman Empire; red represents the blood shed by martyrs in the struggle against oppression, white stands for peace; the crescent and star are traditional symbols of Islam
@@ -377,8 +377,8 @@ red with a white disk in the center bearing a red crescent nearly encircling a r
 encircled red crescent moon and five-pointed star; national colors: red, white
 
 ### 國歌
-- `name`: "Humat Al Hima" (Defenders of the Homeland)
-- `lyrics/music`: Mustafa Sadik AL-RAFII and Aboul-Qacem ECHEBBI/Mohamad Abdel WAHAB
+- `名稱`: "Humat Al Hima" (Defenders of the Homeland)
+- `歌詞／音樂`: Mustafa Sadik AL-RAFII and Aboul-Qacem ECHEBBI/Mohamad Abdel WAHAB
 **note**:  adopted 1957, replaced 1958, restored 1987; Mohamad Abdel WAHAB also composed the music for the anthem of the United Arab Emirates
 
 ### 國家級遺產
@@ -425,18 +425,18 @@ $48.53 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 9.5% (2023 est.)
-- `industry`: 23.5% (2023 est.)
-- `services`: 62.1% (2023 est.)
+- `農業`: 9.5% (2023 est.)
+- `產業`: 23.5% (2023 est.)
+- `服務`: 62.1% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 78% (2023 est.)
-- `government consumption`: 20.6% (2023 est.)
-- `investment in fixed capital`: 16.9% (2023 est.)
-- `investment in inventories`: -3.4% (2023 est.)
-- `exports of goods and services`: 51.1% (2023 est.)
-- `imports of goods and services`: -58.1% (2023 est.)
+- `家庭消費`: 78% (2023 est.)
+- `政府消費`: 20.6% (2023 est.)
+- `固定資本投資`: 16.9% (2023 est.)
+- `存貨投資`: -3.4% (2023 est.)
+- `商品和服務出口`: 51.1% (2023 est.)
+- `商品和服務進口`: -58.1% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -461,9 +461,9 @@ petroleum, mining (particularly phosphate, iron ore), tourism, textiles, footwea
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 37.5% (2023 est.)
-- `male`: 38.3% (2023 est.)
-- `female`: 35.6% (2023 est.)
+- `總計`: 37.5% (2023 est.)
+- `男性`: 38.3% (2023 est.)
+- `女性`: 35.6% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -475,12 +475,12 @@ petroleum, mining (particularly phosphate, iron ore), tourism, textiles, footwea
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 平均家庭支出
-- `on food`: 23.1% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 3.3% of household expenditures (2022 est.)
+- `餐食`: 23.1% of household expenditures (2022 est.)
+- `酒精和煙草`: 3.3% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 3.1% (2021 est.)
-- `highest 10%`: 27% (2021 est.)
+- `最低10%`: 3.1% (2021 est.)
+- `最高10%`: 27% (2021 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -490,8 +490,8 @@ petroleum, mining (particularly phosphate, iron ore), tourism, textiles, footwea
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $10.866 billion (2019 est.)
-- `expenditures`: $12.375 billion (2019 est.)
+- `收入`: $10.866 billion (2019 est.)
+- `支出`: $12.375 billion (2019 est.)
 
 ### 公共債務
 70.3% of GDP (2017 est.)
@@ -554,43 +554,43 @@ $18.169 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
-- `electrification - urban areas`: 100%
-- `electrification - rural areas`: 99.7%
+- `電氣化－總人口`: 100% (2022 est.)
+- `電氣化－城市地區`: 100%
+- `電氣化－農村地區`: 99.7%
 
 ### 電力
-- `installed generating capacity`: 6.328 million kW (2022 est.)
-- `consumption`: 19.061 billion kWh (2022 est.)
-- `exports`: 154 million kWh (2022 est.)
-- `imports`: 2.726 billion kWh (2022 est.)
-- `transmission/distribution losses`: 4.722 billion kWh (2022 est.)
+- `裝機容量`: 6.328 million kW (2022 est.)
+- `消費`: 19.061 billion kWh (2022 est.)
+- `出口`: 154 million kWh (2022 est.)
+- `進口`: 2.726 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 4.722 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 96.9% of total installed capacity (2022 est.)
-- `solar`: 1.5% of total installed capacity (2022 est.)
-- `wind`: 1.5% of total installed capacity (2022 est.)
-- `hydroelectricity`: 0.1% of total installed capacity (2022 est.)
+- `石化燃料`: 96.9% of total installed capacity (2022 est.)
+- `太陽能`: 1.5% of total installed capacity (2022 est.)
+- `風能`: 1.5% of total installed capacity (2022 est.)
+- `水力發電`: 0.1% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `consumption`: 2,000 metric tons (2022 est.)
-- `imports`: 2,000 metric tons (2022 est.)
+- `消費`: 2,000 metric tons (2022 est.)
+- `進口`: 2,000 metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 35,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 108,000 bbl/day (2022 est.)
-- `crude oil estimated reserves`: 425 million barrels (2021 est.)
+- `總石油產量`: 35,000 bbl/day (2023 est.)
+- `成品油消費量`: 108,000 bbl/day (2022 est.)
+- `原油儲備量估值`: 425 million barrels (2021 est.)
 
 ### 天然氣
-- `production`: 1.323 billion cubic meters (2022 est.)
-- `consumption`: 5.153 billion cubic meters (2022 est.)
-- `imports`: 3.898 billion cubic meters (2022 est.)
-- `proven reserves`: 65.129 billion cubic meters (2021 est.)
+- `生產`: 1.323 billion cubic meters (2022 est.)
+- `消費`: 5.153 billion cubic meters (2022 est.)
+- `進口`: 3.898 billion cubic meters (2022 est.)
+- `探明儲量`: 65.129 billion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 23.645 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 5,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 13.203 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 10.437 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 23.645 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 5,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 13.203 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 10.437 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 33.641 million Btu/person (2022 est.)
@@ -598,17 +598,17 @@ $18.169 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 1.79 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 14 (2022 est.)
+- `總訂閱數`: 1.79 million (2022 est.)
+- `每100名居民訂閱數`: 14 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 15.971 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 129 (2022 est.)
+- `總訂閱數`: 15.971 million (2022 est.)
+- `每100名居民訂閱數`: 129 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Tunisia has one of the most sophisticated telecom infrastructures in North Africa; penetration rates for mobile and Internet services are among the highest in the region; government program of regulation and infrastructure projects aims to improve Internet connectivity to underserved areas; operators built extensive LTE infrastructure in 2019, and continue to discuss plans for future 5G networks and services; one operator has signed an agreement to pursue nano-satellite launches in 2023; internet censorship abolished, though concerns of government surveillance remain; legislation passed in 2017 supporting e-commerce and active e-government; importer of some integrated circuits and broadcasting equipment (including radio, television, and communications transmitters) from the PRC (2022)
-- `domestic`: fixed-line is nearly 14 per 100 and mobile-cellular teledensity is 129 telephones per 100 persons (2022)
-- `international`: country code - 216; landing points for the SEA-ME-WE-4, Didon, HANNIBAL System and Trapani-Kelibia submarine cable systems that provides links to Europe, Africa, the Middle East, Asia and Southeast Asia; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Arabsat; coaxial cable and microwave radio relay to Algeria and Libya; participant in Medarabtel; 2 international gateway digital switches (2020)
+- `總體評估`: Tunisia has one of the most sophisticated telecom infrastructures in North Africa; penetration rates for mobile and Internet services are among the highest in the region; government program of regulation and infrastructure projects aims to improve Internet connectivity to underserved areas; operators built extensive LTE infrastructure in 2019, and continue to discuss plans for future 5G networks and services; one operator has signed an agreement to pursue nano-satellite launches in 2023; internet censorship abolished, though concerns of government surveillance remain; legislation passed in 2017 supporting e-commerce and active e-government; importer of some integrated circuits and broadcasting equipment (including radio, television, and communications transmitters) from the PRC (2022)
+- `國內`: fixed-line is nearly 14 per 100 and mobile-cellular teledensity is 129 telephones per 100 persons (2022)
+- `國際的`: country code - 216; landing points for the SEA-ME-WE-4, Didon, HANNIBAL System and Trapani-Kelibia submarine cable systems that provides links to Europe, Africa, the Middle East, Asia and Southeast Asia; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Arabsat; coaxial cable and microwave radio relay to Algeria and Libya; participant in Medarabtel; 2 international gateway digital switches (2020)
 
 ### 廣播媒體
 2 state-owned TV stations; 10 private TV stations broadcast locally; satellite TV service is available; state-owned radio network with 2 stations; several dozen private radio stations and community radio stations; transmissions of multiple international broadcasters available (2019)
@@ -617,20 +617,20 @@ $18.169 billion (2022 est.)
 .tn
 
 ### 網際網路使用者
-- `total`: 9.48 million (2021 est.)
-- `percent of population`: 79% (2021 est.)
+- `總計`: 9.48 million (2021 est.)
+- `佔人口比例`: 79% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 1,334,059 (2020 est.)
-- `subscriptions per 100 inhabitants`: 11 (2020 est.)
+- `總計`: 1,334,059 (2020 est.)
+- `每100名居民訂閱數`: 11 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 7 (2020)
-- `inventory of registered aircraft operated by air carriers`: 53
-- `annual passenger traffic on registered air carriers`: 4,274,199 (2018)
-- `annual freight traffic on registered air carriers`: 13.23 million (2018) mt-km
+- `註冊航空公司數量`: 7 (2020)
+- `註冊飛機庫存—航空承運商經營`: 53
+- `年度客運量－註冊航空公司`: 4,274,199 (2018)
+- `年度貨運量－註冊航空公司`: 13.23 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 TS
@@ -645,28 +645,28 @@ TS
 68 km condensate, 3,111 km gas, 1,381 km oil, 453 km refined products (2013)
 
 ### 鐵路
-- `total`: 2,173 km (2014) (1,991 in use)
-- `standard gauge`: 471 km (2014) 1.435-m gauge
-- `narrow gauge`: 1,694 km (2014) 1.000-m gauge (65 km electrified)
-- `dual gauge`: 8 km (2014) 1.435-1.000-m gauge
+- `總計`: 2,173 km (2014) (1,991 in use)
+- `標準鐵軌`: 471 km (2014) 1.435-m gauge
+- `窄軌`: 1,694 km (2014) 1.000-m gauge (65 km electrified)
+- `雙軌`: 8 km (2014) 1.435-1.000-m gauge
 
 ### 道路
-- `total`: 32,332 km
-- `paved`: 12,264 km
-- `unpaved`: 20,068 km (2020)
+- `總計`: 32,332 km
+- `已鋪砌`: 12,264 km
+- `未鋪砌`: 20,068 km (2020)
 
 ### 商船
-- `total`: 72 (2023)
-- `by type`: container ship 1, general cargo 8, oil tanker 1, other 62
+- `總計`: 72 (2023)
+- `依類型`: container ship 1, general cargo 8, oil tanker 1, other 62
 
 ### 港口
-- `total ports`: 16 (2024)
-- `large`: 0
-- `medium`: 3
-- `small`: 7
-- `very small`: 6
-- `ports with oil terminals`: 10
-- `key ports`: Ashtart Oil Terminal, Banzart, Didon Terminal, Gabes, La Goulette, Menzel Bourguiba, Mersa Sfax, Sousse, Tazerka Oil Terminal, Tunis
+- `總港口數`: 16 (2024)
+- `大`: 0
+- `中`: 3
+- `小`: 7
+- `非常小`: 6
+- `原油碼頭港口`: 10
+- `主要港口`: Ashtart Oil Terminal, Banzart, Didon Terminal, Gabes, La Goulette, Menzel Bourguiba, Mersa Sfax, Sousse, Tazerka Oil Terminal, Tunis
 
 ## 軍事和安全
 

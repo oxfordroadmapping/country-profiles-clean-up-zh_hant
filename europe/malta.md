@@ -19,24 +19,24 @@ Southern Europe, islands in the Mediterranean Sea, south of Sicily (Italy)
 Europe
 
 ### 面積
-- `total `: 316 sq km
-- `land`: 316 sq km
-- `water`: 0 sq km
+- `總計`: 316 sq km
+- `土地`: 316 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 slightly less than twice the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 196.8 km (excludes 56 km for the island of Gozo)
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `continental shelf`: 200-m depth or to the depth of exploitation
-- `exclusive fishing zone`: 25 nm
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `大陸架`: 200-m depth or to the depth of exploitation
+- `專屬捕魚區`: 25 nm
 
 ### 氣候
 Mediterranean; mild, rainy winters; hot, dry summers
@@ -45,19 +45,19 @@ Mediterranean; mild, rainy winters; hot, dry summers
 mostly low, rocky, flat to dissected plains; many coastal cliffs
 
 ### 海拔
-- `highest point`: Ta'Dmejrek on Dingli Cliffs 253 m
-- `lowest point`: Mediterranean Sea 0 m
+- `最高點`: Ta'Dmejrek on Dingli Cliffs 253 m
+- `最低點`: Mediterranean Sea 0 m
 
 ### 自然資源
 limestone, salt, arable land
 
 ### 土地利用
-- `agricultural land`: 32.3% (2018 est.)
-- `agricultural land: arable land`: arable land: 28.4% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 3.9% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
-- `forest`: 0.9% (2018 est.)
-- `other`: 66.8% (2018 est.)
+- `農地`: 32.3% (2018 est.)
+- `農地：耕地`: arable land: 28.4% (2018 est.)
+- `農地：永久性作物`: permanent crops: 3.9% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0% (2018 est.)
+- `森林`: 0.9% (2018 est.)
+- `其它`: 66.8% (2018 est.)
 
 ### 灌溉土地
 35 sq km (2020)
@@ -74,13 +74,13 @@ the country is an archipelago, with only the three largest islands (Malta, Ghawd
 ## 人民和社會
 
 ### 人口
-- `total`: 469,730
-- `male`: 237,023
-- `female`: 232,707 (2024 est.)
+- `總計`: 469,730
+- `男性`: 237,023
+- `女性`: 232,707 (2024 est.)
 
 ### 國籍
-- `noun`: Maltese (singular and plural)
-- `adjective`: Maltese
+- `名詞`: Maltese (singular and plural)
+- `形容詞`: Maltese
 
 ### 族裔群體
 Maltese (descendants of ancient Carthaginians and Phoenicians with strong elements of Italian and other Mediterranean stock)
@@ -92,20 +92,20 @@ Maltese (official) 90.1%, English (official) 6%, multilingual 3%, other 0.9% (20
 Roman Catholic (official) more than 90% (2006 est.)
 
 ### 年齡結構
-- `0-14 years`: 14.5% (male 35,034/female 33,181)
-- `15-64 years`: 62.4% (male 151,836/female 141,248)
-- `65 years and over`: 23.1% (2024 est.) (male 50,153/female 58,278)
+- `0-14歲`: 14.5% (male 35,034/female 33,181)
+- `15-64歲`: 62.4% (male 151,836/female 141,248)
+- `65歲及以上`: 23.1% (2024 est.) (male 50,153/female 58,278)
 
 ### 撫養比率
-- `total dependency ratio`: 47.1
-- `youth dependency ratio`: 19.3
-- `elderly dependency ratio`: 27.7
-- `potential support ratio`: 3.6 (2021 est.)
+- `總受扶養人比率`: 47.1
+- `少年撫養比率`: 19.3
+- `老人撫養比率`: 27.7
+- `潛在支持率`: 3.6 (2021 est.)
 
 ### 年齡中位數
-- `total`: 43.5 years (2024 est.)
-- `male`: 42.4 years
-- `female`: 44.7 years
+- `總計`: 43.5 years (2024 est.)
+- `男性`: 42.4 years
+- `女性`: 44.7 years
 
 ### 人口成長率
 0.51% (2024 est.)
@@ -123,18 +123,18 @@ Roman Catholic (official) more than 90% (2006 est.)
 most of the population lives on the eastern half of Malta, the largest of the three inhabited islands
 
 ### 都市化
-- `urban population`: 94.9% of total population (2023)
-- `rate of urbanization`: 0.28% annual rate of change (2020-25 est.)
+- `城市人口`: 94.9% of total population (2023)
+- `城鎮化率`: 0.28% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 213,000 VALLETTA (capital) (2018)
 
 ### 性別比例
-- `at birth`: 1.04 male(s)/female
-- `0-14 years`: 1.06 male(s)/female
-- `15-64 years`: 1.07 male(s)/female
-- `65 years and over`: 0.86 male(s)/female
-- `total population`: 1.02 male(s)/female (2024 est.)
+- `出生時`: 1.04 male(s)/female
+- `0-14歲`: 1.06 male(s)/female
+- `15-64歲`: 1.07 male(s)/female
+- `65歲及以上`: 0.86 male(s)/female
+- `總人口數`: 1.02 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 29.3 years (2020 est.)
@@ -144,14 +144,14 @@ most of the population lives on the eastern half of Malta, the largest of the th
 3 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 4.4 deaths/1,000 live births (2024 est.)
-- `male`: 4.3 deaths/1,000 live births
-- `female`: 4.5 deaths/1,000 live births
+- `總計`: 4.4 deaths/1,000 live births (2024 est.)
+- `男性`: 4.3 deaths/1,000 live births
+- `女性`: 4.5 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 83.6 years (2024 est.)
-- `male`: 81.5 years
-- `female`: 85.8 years
+- `總人口數`: 83.6 years (2024 est.)
+- `男性`: 81.5 years
+- `女性`: 85.8 years
 
 ### 總生育率
 1.51 children born/woman (2024 est.)
@@ -163,12 +163,12 @@ most of the population lives on the eastern half of Malta, the largest of the th
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 當前醫療支出
 10.8% of GDP (2020)
@@ -180,27 +180,27 @@ NA
 4.5 beds/1,000 population (2017)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 肥胖—成人流行率
 28.9% (2016)
 
 ### 人均酒精消費量
-- `total`: 8.07 liters of pure alcohol (2019 est.)
-- `beer`: 2.8 liters of pure alcohol (2019 est.)
-- `wine`: 2.34 liters of pure alcohol (2019 est.)
-- `spirits`: 2.51 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.42 liters of pure alcohol (2019 est.)
+- `總計`: 8.07 liters of pure alcohol (2019 est.)
+- `啤酒`: 2.8 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 2.34 liters of pure alcohol (2019 est.)
+- `烈酒`: 2.51 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.42 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 24% (2020 est.)
-- `male`: 26.4% (2020 est.)
-- `female`: 21.6% (2020 est.)
+- `總計`: 24% (2020 est.)
+- `男性`: 26.4% (2020 est.)
+- `女性`: 21.6% (2020 est.)
 
 ### 5歲以下體重不足兒童
 NA
@@ -212,15 +212,15 @@ NA
 5.9% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 94.9%
-- `male`: 93.4%
-- `female`: 96.4% (2021)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 94.9%
+- `男性`: 93.4%
+- `女性`: 96.4% (2021)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 17 years
-- `male`: 17 years
-- `female`: 18 years (2020)
+- `總計`: 17 years
+- `男性`: 17 years
+- `女性`: 18 years (2020)
 
 ## 環境
 
@@ -228,23 +228,23 @@ NA
 limited natural freshwater resources; increasing reliance on desalination; deforestation; wildlife preservation
 
 ### 環境—國際協定
-- `party to`: Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 Mediterranean; mild, rainy winters; hot, dry summers
 
 ### 土地利用
-- `agricultural land`: 32.3% (2018 est.)
-- `agricultural land: arable land`: arable land: 28.4% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 3.9% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 0% (2018 est.)
-- `forest`: 0.9% (2018 est.)
-- `other`: 66.8% (2018 est.)
+- `農地`: 32.3% (2018 est.)
+- `農地：耕地`: arable land: 28.4% (2018 est.)
+- `農地：永久性作物`: permanent crops: 3.9% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 0% (2018 est.)
+- `森林`: 0.9% (2018 est.)
+- `其它`: 66.8% (2018 est.)
 
 ### 都市化
-- `urban population`: 94.9% of total population (2023)
-- `rate of urbanization`: 0.28% annual rate of change (2020-25 est.)
+- `城市人口`: 94.9% of total population (2023)
+- `城鎮化率`: 0.28% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0% of GDP (2018 est.)
@@ -253,19 +253,19 @@ Mediterranean; mild, rainy winters; hot, dry summers
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 12.93 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 1.34 megatons (2016 est.)
-- `methane emissions`: 0.2 megatons (2020 est.)
+- `顆粒物排放量`: 12.93 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 1.34 megatons (2016 est.)
+- `甲烷排放量`: 0.2 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 269,000 tons (2015 est.)
-- `municipal solid waste recycled annually`: 17,996 tons (2015 est.)
-- `percent of municipal solid waste recycled`: 6.7% (2015 est.)
+- `城市固體廢棄物－每年產生`: 269,000 tons (2015 est.)
+- `城市固體廢棄物－每年回收`: 17,996 tons (2015 est.)
+- `城市固體廢棄物－回收百分比`: 6.7% (2015 est.)
 
 ### 總取水量
-- `municipal`: 40 million cubic meters (2020 est.)
-- `industrial`: 1 million cubic meters (2020 est.)
-- `agricultural`: 20 million cubic meters (2020 est.)
+- `市級`: 40 million cubic meters (2020 est.)
+- `工業`: 1 million cubic meters (2020 est.)
+- `農業`: 20 million cubic meters (2020 est.)
 
 ### 可再生水資源總量
 50 million cubic meters (2020 est.)
@@ -273,21 +273,21 @@ Mediterranean; mild, rainy winters; hot, dry summers
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Malta
-- `conventional short form`: Malta
-- `local long form`: Repubblika ta' Malta
-- `local short form`: Malta
-- `etymology`: the ancient Greeks called the island "Melite" meaning "honey-sweet" from the Greek word "meli" meaning "honey" and referring to the island's honey production
+- `常用長名`: Republic of Malta
+- `常用短名`: Malta
+- `當地語長名`: Repubblika ta' Malta
+- `當地語短名`: Malta
+- `语源学`: the ancient Greeks called the island "Melite" meaning "honey-sweet" from the Greek word "meli" meaning "honey" and referring to the island's honey production
 
 ### 政府類型
 parliamentary republic
 
 ### 首都
-- `name`: Valletta
-- `geographic coordinates`: 35 53 N, 14 30 E
-- `time difference`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
-- `daylight saving time`: +1hr, begins last Sunday in March; ends last Sunday in October
-- `etymology`: named in honor of Jean de VALETTE, the Grand Master of the Order of Saint John (crusader knights), who successfully led a defense of the island from an Ottoman invasion in 1565
+- `名稱`: Valletta
+- `地理坐標`: 35 53 N, 14 30 E
+- `時差`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+- `日光節約時間`: +1hr, begins last Sunday in March; ends last Sunday in October
+- `语源学`: named in honor of Jean de VALETTE, the Grand Master of the Order of Saint John (crusader knights), who successfully led a defense of the island from an Ottoman invasion in 1565
 
 ### 行政區劃
 68 localities (Il-lokalita); Attard, Balzan, Birgu, Birkirkara, Birzebbuga, Bormla, Dingli, Fgura, Floriana, Fontana, Ghajnsielem, Gharb, Gharghur, Ghasri, Ghaxaq, Gudja, Gzira, Hamrun, Iklin, Imdina, Imgarr, Imqabba, Imsida, Imtarfa, Isla, Kalkara, Kercem, Kirkop, Lija, Luqa, Marsa, Marsaskala, Marsaxlokk, Mellieha, Mosta, Munxar, Nadur, Naxxar, Paola, Pembroke, Pieta, Qala, Qormi, Qrendi, Rabat, Rabat (Ghawdex), Safi, San Giljan/Saint Julian, San Gwann/Saint John, San Lawrenz/Saint Lawrence, Sannat, San Pawl il-Bahar/Saint Paul's Bay, Santa Lucija/Saint Lucia, Santa Venera/Saint Venera, Siggiewi, Sliema, Swieqi, Tarxien, Ta' Xbiex, Valletta, Xaghra, Xewkija, Xghajra, Zabbar, Zebbug, Zebbug (Ghawdex), Zejtun, Zurrieq
@@ -302,37 +302,37 @@ Independence Day, 21 September (1964); Republic Day, 13 December (1974)
 mixed legal system of English common law and civil law based on the Roman and Napoleonic civil codes; subject to European Union law
 
 ### 憲法
-- `history`: many previous; latest adopted 21 September 1964
-- `amendments`: proposals (Acts of Parliament) require at least two-thirds majority vote by the House of Representatives; passage of Acts requires majority vote by referendum, followed by final majority vote by the House and assent of the president of the republic; amended many times, last in 2020
+- `歷史`: many previous; latest adopted 21 September 1964
+- `修正`: proposals (Acts of Parliament) require at least two-thirds majority vote by the House of Representatives; passage of Acts requires majority vote by referendum, followed by final majority vote by the House and assent of the president of the republic; amended many times, last in 2020
 
 ### 國際法組織參與
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Malta
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 5 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Malta
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 5 years
 
 ### 選舉權
 18 years of age (16 in local council elections); universal
 
 ### 行政部門
-- `chief of state`: President Myriam Spiteri DEBONO (since 4 April 2024)
-- `head of government`: Prime Minister Robert ABELA (13 January 2020)
-- `cabinet`: Cabinet appointed by the president on the advice of the prime minister
-- `elections/appointments`: president indirectly elected by the House of Representatives for a single 5-year term; election last held on 27 March 2024 (next to be held by March 2029); following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the president for a 5-year term; deputy prime minister appointed by the president on the advice of the prime minister
-- `election results`: *2024:  *Myriam SPITERI DEBONO (PL) elected president; House of Representatives vote - unanimous*2019:* George VELLA (PL) elected president; House of Representatives vote - unanimous
+- `國家元首`: President Myriam Spiteri DEBONO (since 4 April 2024)
+- `政府首腦`: Prime Minister Robert ABELA (13 January 2020)
+- `内閣`: Cabinet appointed by the president on the advice of the prime minister
+- `選舉/任命`: president indirectly elected by the House of Representatives for a single 5-year term; election last held on 27 March 2024 (next to be held by March 2029); following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the president for a 5-year term; deputy prime minister appointed by the president on the advice of the prime minister
+- `選舉結果`: *2024:  *Myriam SPITERI DEBONO (PL) elected president; House of Representatives vote - unanimous*2019:* George VELLA (PL) elected president; House of Representatives vote - unanimous
 
 ### 立法部門
-- `description`: unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (65 seats statutory, 79 for 2022-2027 term; members directly elected in 5 multi-seat constituencies by proportional representation vote; members serve 5-year terms)
-- `elections`: last held on 26 March 2022 (next to be held in 2027)
-- `election results`: percent of vote by party - PL 55.1%, PN 41.7%, other 3.2%; seats by party - PL 38, PN 29; composition as of February 2024 - men 57, women 22, percentage women 27.9%; note - due to underepresentation by women in the combined general on 26 March and two casual elections on 7 and 12 April (10 seats or 14.9%), an additional 12 seats were awarded because their percentage did not meet the 40% threshold required by the Malta Constitution or the General Elections Amendment Act 2021
+- `描述`: unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (65 seats statutory, 79 for 2022-2027 term; members directly elected in 5 multi-seat constituencies by proportional representation vote; members serve 5-year terms)
+- `選舉`: last held on 26 March 2022 (next to be held in 2027)
+- `選舉結果`: percent of vote by party - PL 55.1%, PN 41.7%, other 3.2%; seats by party - PL 38, PN 29; composition as of February 2024 - men 57, women 22, percentage women 27.9%; note - due to underepresentation by women in the combined general on 26 March and two casual elections on 7 and 12 April (10 seats or 14.9%), an additional 12 seats were awarded because their percentage did not meet the 40% threshold required by the Malta Constitution or the General Elections Amendment Act 2021
 
 ### 司法部門
-- `highest court(s)`: Court of Appeal (consists of either 1 or 3 judges); Constitutional Court (consists of 3 judges); Court of Criminal Appeal (consists of either 1 or 3 judges)
-- `judge selection and term of office`: Court of Appeal and Constitutional Court judges appointed by the president, usually upon the advice of the prime minister; judges of both courts serve until age 65
-- `subordinate courts`: Civil Court (divided into the General Jurisdiction Section, Family Section, and Voluntary Section); Criminal Court; Court of Magistrates; Gozo Courts (for the islands of Gozo and Comino)
+- `最高法院`: Court of Appeal (consists of either 1 or 3 judges); Constitutional Court (consists of 3 judges); Court of Criminal Appeal (consists of either 1 or 3 judges)
+- `法官遴選和任期`: Court of Appeal and Constitutional Court judges appointed by the president, usually upon the advice of the prime minister; judges of both courts serve until age 65
+- `下級法院`: Civil Court (divided into the General Jurisdiction Section, Family Section, and Voluntary Section); Criminal Court; Court of Magistrates; Gozo Courts (for the islands of Gozo and Comino)
 
 ### 政黨
 AD+PD or ADPD (formed from the merger of Democratic Alternative or AD and Democratic Party (Partit Demokratiku) or PD)Labor Party (Partit Laburista) or PL Nationalist Party (Partit Nazzjonalista) or PN 
@@ -341,18 +341,18 @@ AD+PD or ADPD (formed from the merger of Democratic Alternative or AD and Democr
 Australia Group, C, CD, CE, EAPC, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO (partner), NSG, OAS (observer), OPCW, OSCE, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNIDO, Union Latina (observer), UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Godfrey C. XUEREB (since 19 April 2023)
-- `chancery`: 2017 Connecticut Avenue NW, Washington, DC 20008
-- `telephone`: [1] (771) 213-4050
+- `外交代表負責人`: Ambassador Godfrey C. XUEREB (since 19 April 2023)
+- `衡平法院（在美國）`: 2017 Connecticut Avenue NW, Washington, DC 20008
+- `電話號碼`: [1] (771) 213-4050
 - `FAX`: [1] (202) 530-9753​
-- `email address and website`: maltaembassy.washington@gov.mt  The Embassy (gov.mt)
+- `電子郵件地址和網站`: maltaembassy.washington@gov.mt  The Embassy (gov.mt)
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Constance J. MILSTEIN (since October 27, 2022)
-- `embassy`: Ta' Qali National Park, Attard, ATD 4000
-- `mailing address`: 5800 Valletta Place, Washington DC  20521-5800
-- `telephone`: [356] 2561-4000
-- `email address and website`: ACSMalta@state.gov  https://mt.usembassy.gov/
+- `外交代表負責人`: Ambassador Constance J. MILSTEIN (since October 27, 2022)
+- `大使館`: Ta' Qali National Park, Attard, ATD 4000
+- `郵寄地址`: 5800 Valletta Place, Washington DC  20521-5800
+- `電話號碼`: [356] 2561-4000
+- `電子郵件地址和網站`: ACSMalta@state.gov  https://mt.usembassy.gov/
 
 ### 旗幟說明
 two equal vertical bands of white (hoist side) and red; in the upper hoist-side corner is a representation of the George Cross, edged in red; according to legend, the colors are taken from the red and white checkered banner of Count Roger of Sicily who removed a bi-colored corner and granted it to Malta in 1091; an uncontested explanation is that the colors are those of the Knights of Saint John who ruled Malta from 1530 to 1798; in 1942, King George VI of the UK awarded the George Cross to the islanders for their exceptional bravery and gallantry in World War II; since independence in 1964, the George Cross bordered in red has appeared directly on the white field
@@ -361,8 +361,8 @@ two equal vertical bands of white (hoist side) and red; in the upper hoist-side 
 Maltese eight-pointed cross; national colors: red, white
 
 ### 國歌
-- `name`: "L-Innu Malti" (The Maltese Anthem)
-- `lyrics/music`: Dun Karm PSAILA/Robert SAMMUT
+- `名稱`: "L-Innu Malti" (The Maltese Anthem)
+- `歌詞／音樂`: Dun Karm PSAILA/Robert SAMMUT
 **note**:  adopted 1945; written in the form of a prayer
 
 ### 國家級遺產
@@ -409,18 +409,18 @@ $20.957 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 0.7% (2023 est.)
-- `industry`: 12.1% (2023 est.)
-- `services`: 79.7% (2023 est.)
+- `農業`: 0.7% (2023 est.)
+- `產業`: 12.1% (2023 est.)
+- `服務`: 79.7% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 43.4% (2023 est.)
-- `government consumption`: 17.7% (2023 est.)
-- `investment in fixed capital`: 18.5% (2023 est.)
-- `investment in inventories`: 1% (2023 est.)
-- `exports of goods and services`: 166.7% (2023 est.)
-- `imports of goods and services`: -147.3% (2023 est.)
+- `家庭消費`: 43.4% (2023 est.)
+- `政府消費`: 17.7% (2023 est.)
+- `固定資本投資`: 18.5% (2023 est.)
+- `存貨投資`: 1% (2023 est.)
+- `商品和服務出口`: 166.7% (2023 est.)
+- `商品和服務進口`: -147.3% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -445,9 +445,9 @@ tourism, electronics, ship building and repair, construction, food and beverages
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 9.3% (2023 est.)
-- `male`: 13.8% (2023 est.)
-- `female`: 4.3% (2023 est.)
+- `總計`: 9.3% (2023 est.)
+- `男性`: 13.8% (2023 est.)
+- `女性`: 4.3% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -459,8 +459,8 @@ tourism, electronics, ship building and repair, construction, food and beverages
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 3.1% (2020 est.)
-- `highest 10%`: 25.1% (2020 est.)
+- `最低10%`: 3.1% (2020 est.)
+- `最高10%`: 25.1% (2020 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -470,8 +470,8 @@ tourism, electronics, ship building and repair, construction, food and beverages
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $6.106 billion (2022 est.)
-- `expenditures`: $6.922 billion (2022 est.)
+- `收入`: $6.106 billion (2022 est.)
+- `支出`: $6.922 billion (2022 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -533,36 +533,36 @@ $1.149 billion (2021 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 805,000 kW (2022 est.)
-- `consumption`: 2.786 billion kWh (2022 est.)
-- `exports`: 7 million kWh (2022 est.)
-- `imports`: 646 million kWh (2022 est.)
-- `transmission/distribution losses`: 95.168 million kWh (2022 est.)
+- `裝機容量`: 805,000 kW (2022 est.)
+- `消費`: 2.786 billion kWh (2022 est.)
+- `出口`: 7 million kWh (2022 est.)
+- `進口`: 646 million kWh (2022 est.)
+- `傳輸／分配損耗`: 95.168 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 86.8% of total installed capacity (2022 est.)
-- `solar`: 12.9% of total installed capacity (2022 est.)
-- `biomass and waste`: 0.3% of total installed capacity (2022 est.)
+- `石化燃料`: 86.8% of total installed capacity (2022 est.)
+- `太陽能`: 12.9% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 0.3% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `consumption`: 8.4 metric tons (2021 est.)
-- `exports`: (2022 est.) less than 1 metric ton
-- `imports`: 3.9 metric tons (2022 est.)
+- `消費`: 8.4 metric tons (2021 est.)
+- `出口`: (2022 est.) less than 1 metric ton
+- `進口`: 3.9 metric tons (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 46,000 bbl/day (2022 est.)
+- `成品油消費量`: 46,000 bbl/day (2022 est.)
 
 ### 天然氣
-- `consumption`: 399.719 million cubic meters (2022 est.)
-- `imports`: 399.719 million cubic meters (2022 est.)
+- `消費`: 399.719 million cubic meters (2022 est.)
+- `進口`: 399.719 million cubic meters (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 8.352 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 7.586 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 766,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 8.352 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 7.586 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 766,000 metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 226.072 million Btu/person (2022 est.)
@@ -570,17 +570,17 @@ $1.149 billion (2021 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 259,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 49 (2022 est.)
+- `總訂閱數`: 259,000 (2022 est.)
+- `每100名居民訂閱數`: 49 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 702,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 132 (2022 est.)
+- `總訂閱數`: 702,000 (2022 est.)
+- `每100名居民訂閱數`: 132 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Malta’s small telecom sector is among the most advanced in Europe; this has been helped by the topography, which has made it relatively easy for operators to expand the reach of their fiber infrastructure; with high mobile and broadband penetration rates, the government and regulator have effective strategies in place to capitalize on these infrastructure developments to ensure that the population has among the fastest data rates in Europe, and is well positioned to take advantage of emerging e-commerce opportunities; the sector has also been stimulated by regulatory measures designed to reduce consumer prices; the incumbent telco is investing in a sub sea cable to connect the islands to France and Egypt; expected to be ready for service in 2022, the cable will further enhance Malta’s internet bandwidth and lead to reduced prices for end-users; there has also been some encouragement to increase market competition (2021)
-- `domestic`: fixed-line approximately 49 per 100  persons and mobile-cellular subscribership 122 per 100 persons (2021)
-- `international`: country code - 356; landing points for the Malta-Gozo Cable, VMSCS, GO-1 Mediterranean Cable System, Malta Italy Interconnector, Melita-1, and the Italy-Malta submarine cable connections to Italy; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)
+- `總體評估`: Malta’s small telecom sector is among the most advanced in Europe; this has been helped by the topography, which has made it relatively easy for operators to expand the reach of their fiber infrastructure; with high mobile and broadband penetration rates, the government and regulator have effective strategies in place to capitalize on these infrastructure developments to ensure that the population has among the fastest data rates in Europe, and is well positioned to take advantage of emerging e-commerce opportunities; the sector has also been stimulated by regulatory measures designed to reduce consumer prices; the incumbent telco is investing in a sub sea cable to connect the islands to France and Egypt; expected to be ready for service in 2022, the cable will further enhance Malta’s internet bandwidth and lead to reduced prices for end-users; there has also been some encouragement to increase market competition (2021)
+- `國內`: fixed-line approximately 49 per 100  persons and mobile-cellular subscribership 122 per 100 persons (2021)
+- `國際的`: country code - 356; landing points for the Malta-Gozo Cable, VMSCS, GO-1 Mediterranean Cable System, Malta Italy Interconnector, Melita-1, and the Italy-Malta submarine cable connections to Italy; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)
 
 ### 廣播媒體
 2 publicly owned TV stations, Television Malta broadcasting nationally plus an educational channel; several privately owned national television stations, 2 of which are owned by political parties; Italian and British broadcast programs are available; multi-channel cable and satellite TV services are available; publicly owned radio broadcaster operates 3 stations; roughly 20 commercial radio stations (2019)
@@ -589,20 +589,20 @@ $1.149 billion (2021 est.)
 .mt
 
 ### 網際網路使用者
-- `total`: 461,100 (2021 est.)
-- `percent of population`: 87% (2021 est.)
+- `總計`: 461,100 (2021 est.)
+- `佔人口比例`: 87% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 213,419 (2020 est.)
-- `subscriptions per 100 inhabitants`: 48 (2020 est.)
+- `總計`: 213,419 (2020 est.)
+- `每100名居民訂閱數`: 48 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 13 (2020)
-- `inventory of registered aircraft operated by air carriers`: 180
-- `annual passenger traffic on registered air carriers`: 2,576,898 (2018)
-- `annual freight traffic on registered air carriers`: 5.14 million (2018) mt-km
+- `註冊航空公司數量`: 13 (2020)
+- `註冊飛機庫存—航空承運商經營`: 180
+- `年度客運量－註冊航空公司`: 2,576,898 (2018)
+- `年度貨運量－註冊航空公司`: 5.14 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 9H
@@ -614,20 +614,20 @@ $1.149 billion (2021 est.)
 2 (2024)
 
 ### 道路
-- `total`: 2,855 km (2021)
+- `總計`: 2,855 km (2021)
 
 ### 商船
-- `total`: 1,957 (2023)
-- `by type`: bulk carrier 490, container ship 348, general cargo 152, oil tanker 354, other 613
+- `總計`: 1,957 (2023)
+- `依類型`: bulk carrier 490, container ship 348, general cargo 152, oil tanker 354, other 613
 
 ### 港口
-- `total ports`: 2 (2024)
-- `large`: 0
-- `medium`: 1
-- `small`: 1
-- `very small`: 0
-- `ports with oil terminals`: 0
-- `key ports`: Marsaxlokk, Valletta Harbors
+- `總港口數`: 2 (2024)
+- `大`: 0
+- `中`: 1
+- `小`: 1
+- `非常小`: 0
+- `原油碼頭港口`: 0
+- `主要港口`: Marsaxlokk, Valletta Harbors
 
 ## 軍事和安全
 
@@ -657,11 +657,11 @@ the Armed Forces of Malta (AFM) are responsible for external security but also h
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `stateless persons`: 11 (2022)
+- `無國籍人士`: 11 (2022)
 **note**:  8,556 estimated refugee and migrant arrivals by sea (January 2015-November 2022)
 
 ### 人口販運
-- `tier rating`: Tier 2 Watch list — Malta did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/malta/
+- `會級評分`: Tier 2 Watch list — Malta did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/malta/
 
 ### 非法藥物
 minor transshipment point for hashish from North Africa to Western Europe

@@ -19,16 +19,16 @@ Central Asia, bordering the Caspian Sea, between Iran and Kazakhstan
 Asia
 
 ### 面積
-- `total `: 488,100 sq km
-- `land`: 469,930 sq km
-- `water`: 18,170 sq km
+- `總計`: 488,100 sq km
+- `土地`: 469,930 sq km
+- `水`: 18,170 sq km
 
 ### 面積—比較
 slightly more than three times the size of Georgia; slightly larger than California
 
 ### 陸地邊界
-- `total`: 4,158 km
-- `border countries`: Afghanistan 804 km; Iran 1,148 km; Kazakhstan 413 km; Uzbekistan 1,793 km
+- `總計`: 4,158 km
+- `邊境國家`: Afghanistan 804 km; Iran 1,148 km; Kazakhstan 413 km; Uzbekistan 1,793 km
 
 ### 海岸線
 0 km (landlocked); note - Turkmenistan borders the Caspian Sea (1,768 km)
@@ -43,26 +43,26 @@ subtropical desert
 flat-to-rolling sandy desert with dunes rising to mountains in the south; low mountains along border with Iran; borders Caspian Sea in west
 
 ### 海拔
-- `highest point`: Gora Ayribaba 3,139 m
-- `lowest point`: Vpadina Akchanaya (Sarygamysh Koli is a lake in northern Turkmenistan with a water level that fluctuates above and below the elevation of Vpadina Akchanaya, the lake has dropped as low as -110 m) -81 m
-- `mean elevation`: 230 m
+- `最高點`: Gora Ayribaba 3,139 m
+- `最低點`: Vpadina Akchanaya (Sarygamysh Koli is a lake in northern Turkmenistan with a water level that fluctuates above and below the elevation of Vpadina Akchanaya, the lake has dropped as low as -110 m) -81 m
+- `平均海拔`: 230 m
 
 ### 自然資源
 petroleum, natural gas, sulfur, salt
 
 ### 土地利用
-- `agricultural land`: 72% (2018 est.)
-- `agricultural land: arable land`: arable land: 4.1% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.1% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 67.8% (2018 est.)
-- `forest`: 8.8% (2018 est.)
-- `other`: 19.2% (2018 est.)
+- `農地`: 72% (2018 est.)
+- `農地：耕地`: arable land: 4.1% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.1% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 67.8% (2018 est.)
+- `森林`: 8.8% (2018 est.)
+- `其它`: 19.2% (2018 est.)
 
 ### 灌溉土地
 19,950 sq km (2012)
 
 ### 主要湖泊（按面積平方公里）
-- `salt water lake(s)`: Caspian Sea (shared with Iran, Azerbaijan, Russia, and Kazakhstan) - 374,000 sq km
+- `鹽水湖`: Caspian Sea (shared with Iran, Azerbaijan, Russia, and Kazakhstan) - 374,000 sq km
 
 ### 主要河流（按公里長度）
 Amu Darya (shared with Tajikistan [s], Afghanistan, and Uzbekistan [m]) - 2,620 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -82,20 +82,20 @@ landlocked; the western and central low-lying desolate portions of the country m
 ## 人民和社會
 
 ### 人口
-- `total`: 5,744,151
-- `male`: 2,842,870
-- `female`: 2,901,281 (2024 est.)
+- `總計`: 5,744,151
+- `男性`: 2,842,870
+- `女性`: 2,901,281 (2024 est.)
 
 ### 國籍
-- `noun`: Turkmenistani(s)
-- `adjective`: Turkmenistani
+- `名詞`: Turkmenistani(s)
+- `形容詞`: Turkmenistani
 
 ### 族裔群體
 Turkmen 85%, Uzbek 5%, Russian 4%, other 6% (2003 est.)
 
 ### 語文
 Turkmen (official) 72%, Russian 12%, Uzbek 9%, other 7%
-- `major-language sample(s)`: Dünýä Faktlar Kitaby – esasy maglumatlaryň wajyp çeşmesidir (Turkmen)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: Dünýä Faktlar Kitaby – esasy maglumatlaryň wajyp çeşmesidir (Turkmen)  The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Muslim 93%, Christian 6.4%, Buddhist <1%, folk religion <1%, Jewish <1%, other <1%, unspecified <1% (2020 est.)
@@ -104,20 +104,20 @@ Muslim 93%, Christian 6.4%, Buddhist <1%, folk religion <1%, Jewish <1%, other <
 While Turkmenistan reputedly has a population of more than 5.6 million, the figure is most likely considerably less. Getting an accurate population estimate for the country is impossible because then President Gurbanguly BERDIMUHAMEDOW withheld the results of the last two censuses. The 2012 census results reportedly show that nearly 2 million citizens have emigrated in the last decade, which prompted BERDIMUHAMEDOW to order another census. Results of this census, covering 2008-2018, also were not released to the public but purportedly are similar. Another census was held in December 2022. Authorities have reacted to the dramatic population decline by preventing Turkmen from leaving the country, including removing citizens from international flights and refusing to provide necessary documents. Turkmenistan’s rise in outmigration – mainly to Turkey, Russia, and Uzbekistan – coincided with the country’s 2013-2014 economic crisis. The outflow has been sustained by poor living standards, inflation, low income, and a lack of health care. At the same time, Ashbagat is encouraging people to have more children to make up for its shrinking population.
 
 ### 年齡結構
-- `0-14 years`: 24.5% (male 711,784/female 692,967)
-- `15-64 years`: 68.6% (male 1,956,740/female 1,984,333)
-- `65 years and over`: 6.9% (2024 est.) (male 174,346/female 223,981)
+- `0-14歲`: 24.5% (male 711,784/female 692,967)
+- `15-64歲`: 68.6% (male 1,956,740/female 1,984,333)
+- `65歲及以上`: 6.9% (2024 est.) (male 174,346/female 223,981)
 
 ### 撫養比率
-- `total dependency ratio`: 56.6
-- `youth dependency ratio`: 48.9
-- `elderly dependency ratio`: 7.7
-- `potential support ratio`: 13 (2021 est.)
+- `總受扶養人比率`: 56.6
+- `少年撫養比率`: 48.9
+- `老人撫養比率`: 7.7
+- `潛在支持率`: 13 (2021 est.)
 
 ### 年齡中位數
-- `total`: 31.2 years (2024 est.)
-- `male`: 30.7 years
-- `female`: 31.7 years
+- `總計`: 31.2 years (2024 est.)
+- `男性`: 30.7 years
+- `女性`: 31.7 years
 
 ### 人口成長率
 0.92% (2024 est.)
@@ -135,18 +135,18 @@ While Turkmenistan reputedly has a population of more than 5.6 million, the figu
 the most densely populated areas are the southern, eastern, and northeastern oases; approximately 50% of the population lives in and around the capital of Ashgabat
 
 ### 都市化
-- `urban population`: 54% of total population (2023)
-- `rate of urbanization`: 2.23% annual rate of change (2020-25 est.)
+- `城市人口`: 54% of total population (2023)
+- `城鎮化率`: 2.23% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 902,000 ASHGABAT (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.03 male(s)/female
-- `15-64 years`: 0.99 male(s)/female
-- `65 years and over`: 0.78 male(s)/female
-- `total population`: 0.98 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.03 male(s)/female
+- `15-64歲`: 0.99 male(s)/female
+- `65歲及以上`: 0.78 male(s)/female
+- `總人口數`: 0.98 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 24.2 years (2019)
@@ -155,14 +155,14 @@ the most densely populated areas are the southern, eastern, and northeastern oas
 5 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 35.9 deaths/1,000 live births (2024 est.)
-- `male`: 43.6 deaths/1,000 live births
-- `female`: 27.7 deaths/1,000 live births
+- `總計`: 35.9 deaths/1,000 live births (2024 est.)
+- `男性`: 43.6 deaths/1,000 live births
+- `女性`: 27.7 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 72.4 years (2024 est.)
-- `male`: 69.4 years
-- `female`: 75.5 years
+- `總人口數`: 72.4 years (2024 est.)
+- `男性`: 69.4 years
+- `女性`: 75.5 years
 
 ### 總生育率
 2.02 children born/woman (2024 est.)
@@ -174,12 +174,12 @@ the most densely populated areas are the southern, eastern, and northeastern oas
 49.7% (2019)
 
 ### 飲用水來源
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 當前醫療支出
 5.7% of GDP (2020)
@@ -191,27 +191,27 @@ the most densely populated areas are the southern, eastern, and northeastern oas
 4 beds/1,000 population (2014)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 99.8% of population
-- `improved: rural`: rural: 99.9% of population
-- `improved: total`: total: 99.8% of population
-- `unimproved: urban`: urban: 0.2% of population
-- `unimproved: rural`: rural: 0.1% of population
-- `unimproved: total`: total: 0.2% of population (2020 est.)
+- `已改進－城市`: urban: 99.8% of population
+- `已改進－農村`: rural: 99.9% of population
+- `已改進－總計`: total: 99.8% of population
+- `未改進：都市`: urban: 0.2% of population
+- `未改進：鄉村`: rural: 0.1% of population
+- `未改善：總計`: total: 0.2% of population (2020 est.)
 
 ### 肥胖—成人流行率
 18.6% (2016)
 
 ### 人均酒精消費量
-- `total`: 2.88 liters of pure alcohol (2019 est.)
-- `beer`: 0.65 liters of pure alcohol (2019 est.)
-- `wine`: 1.25 liters of pure alcohol (2019 est.)
-- `spirits`: 0.98 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 2.88 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.65 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 1.25 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.98 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 5.5% (2020 est.)
-- `male`: 10.6% (2020 est.)
-- `female`: 0.4% (2020 est.)
+- `總計`: 5.5% (2020 est.)
+- `男性`: 10.6% (2020 est.)
+- `女性`: 0.4% (2020 est.)
 
 ### 5歲以下體重不足兒童
 3.1% (2019)
@@ -220,22 +220,22 @@ the most densely populated areas are the southern, eastern, and northeastern oas
 64.3% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 0.2%
-- `women married by age 18`: 6.1% (2019 est.)
+- `15歲前結婚的女性`: 0.2%
+- `18歲前結婚的女性`: 6.1% (2019 est.)
 
 ### 教育支出
 3.1% of GDP (2019 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 99.7%
-- `male`: 99.8%
-- `female`: 99.6% (2015)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 99.7%
+- `男性`: 99.8%
+- `女性`: 99.6% (2015)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 13 years
-- `male`: 13 years
-- `female`: 13 years (2020)
+- `總計`: 13 years
+- `男性`: 13 years
+- `女性`: 13 years (2020)
 
 ## 環境
 
@@ -243,23 +243,23 @@ the most densely populated areas are the southern, eastern, and northeastern oas
 contamination of soil and groundwater with agricultural chemicals, pesticides; salination, water logging of soil due to poor irrigation methods; Caspian Sea pollution; diversion of a large share of the flow of the Amu Darya into irrigation contributes to that river's inability to replenish the Aral Sea; soil erosion; desertification
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 subtropical desert
 
 ### 土地利用
-- `agricultural land`: 72% (2018 est.)
-- `agricultural land: arable land`: arable land: 4.1% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.1% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 67.8% (2018 est.)
-- `forest`: 8.8% (2018 est.)
-- `other`: 19.2% (2018 est.)
+- `農地`: 72% (2018 est.)
+- `農地：耕地`: arable land: 4.1% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.1% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 67.8% (2018 est.)
+- `森林`: 8.8% (2018 est.)
+- `其它`: 19.2% (2018 est.)
 
 ### 都市化
-- `urban population`: 54% of total population (2023)
-- `rate of urbanization`: 2.23% annual rate of change (2020-25 est.)
+- `城市人口`: 54% of total population (2023)
+- `城鎮化率`: 2.23% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0% of GDP (2018 est.)
@@ -268,15 +268,15 @@ subtropical desert
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 26.41 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 70.63 megatons (2016 est.)
-- `methane emissions`: 52.09 megatons (2020 est.)
+- `顆粒物排放量`: 26.41 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 70.63 megatons (2016 est.)
+- `甲烷排放量`: 52.09 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 500,000 tons (2013 est.)
+- `城市固體廢棄物－每年產生`: 500,000 tons (2013 est.)
 
 ### 主要湖泊（按面積平方公里）
-- `salt water lake(s)`: Caspian Sea (shared with Iran, Azerbaijan, Russia, and Kazakhstan) - 374,000 sq km
+- `鹽水湖`: Caspian Sea (shared with Iran, Azerbaijan, Russia, and Kazakhstan) - 374,000 sq km
 
 ### 主要河流（按公里長度）
 Amu Darya (shared with Tajikistan [s], Afghanistan, and Uzbekistan [m]) - 2,620 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -285,9 +285,9 @@ Amu Darya (shared with Tajikistan [s], Afghanistan, and Uzbekistan [m]) - 2,620 
 Internal *(endorheic basin) *drainage: *(Aral Sea basin)* Amu Darya (534,739 sq km)
 
 ### 總取水量
-- `municipal`: 450 million cubic meters (2020 est.)
-- `industrial`: 810 million cubic meters (2020 est.)
-- `agricultural`: 16.12 billion cubic meters (2020 est.)
+- `市級`: 450 million cubic meters (2020 est.)
+- `工業`: 810 million cubic meters (2020 est.)
+- `農業`: 16.12 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 24.77 billion cubic meters (2020 est.)
@@ -295,21 +295,21 @@ Internal *(endorheic basin) *drainage: *(Aral Sea basin)* Amu Darya (534,739 sq 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Turkmenistan
-- `local long form`: none
-- `local short form`: Turkmenistan
-- `former`: Turkmen Soviet Socialist Republic
-- `etymology`: the suffix "-stan" means "place of" or "country," so Turkmenistan literally means the "Land of the Turkmen [people]"
+- `常用長名`: none
+- `常用短名`: Turkmenistan
+- `當地語長名`: none
+- `當地語短名`: Turkmenistan
+- `前任`: Turkmen Soviet Socialist Republic
+- `语源学`: the suffix "-stan" means "place of" or "country," so Turkmenistan literally means the "Land of the Turkmen [people]"
 
 ### 政府類型
 presidential republic; authoritarian
 
 ### 首都
-- `name`: Ashgabat (Ashkhabad)
-- `geographic coordinates`: 37 57 N, 58 23 E
-- `time difference`: UTC+5 (10 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: derived from the Persian words *esh*q meaning "love" and *abad* meaning "inhabited place" or "city," and so loosely translates as "the city of love"
+- `名稱`: Ashgabat (Ashkhabad)
+- `地理坐標`: 37 57 N, 58 23 E
+- `時差`: UTC+5 (10 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: derived from the Persian words *esh*q meaning "love" and *abad* meaning "inhabited place" or "city," and so loosely translates as "the city of love"
 
 ### 行政區劃
 5 provinces (velayatlar, singular - velayat) and 1 independent city*: Ahal Velayat (Arkadag), Ashgabat*, Balkan Velayat (Balkanabat), Dashoguz Velayat, Lebap Velayat (Turkmenabat), Mary Velayat
@@ -325,38 +325,38 @@ Independence Day, 27 October (1991)
 civil law system with Islamic (sharia) law influences
 
 ### 憲法
-- `history`: several previous; latest adopted 14 September 2016
-- `amendments`: proposed by the Assembly or Mejlis; passage requires two-thirds majority vote or absolute majority approval in a referendum; amended several times, last in 2023 (changed legislature from bicameral to unicameral Assembly or Mejlis; reestablished People's Council or Halk Maslahaty and named former president Gurbanguly BERDIMUHAMEDOV as National Leader of the Turkmen people
+- `歷史`: several previous; latest adopted 14 September 2016
+- `修正`: proposed by the Assembly or Mejlis; passage requires two-thirds majority vote or absolute majority approval in a referendum; amended several times, last in 2023 (changed legislature from bicameral to unicameral Assembly or Mejlis; reestablished People's Council or Halk Maslahaty and named former president Gurbanguly BERDIMUHAMEDOV as National Leader of the Turkmen people
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Turkmenistan
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: 7 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Turkmenistan
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: 7 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Serdar BERDIMUHAMEDOV (since 19 March 2022)
-- `head of government`: President Serdar BERDIMUHAMEDOV (since 19 March 2022)
-- `cabinet`: Cabinet of Ministers appointed by the president
-- `elections/appointments`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (no term limits); election last held on 12 March 2022 (next to be held in 2029); note - on 11 February 2022, President Gurbanguly BERDIMUHAMEDOV announced his intent to retire, setting up the early presidential election
-- `election results`: *2022:* Serdar BERDIMUHAMEDOV elected president; percent of vote - Serdar BERDIMUHAMEDOW (DPT) 73%,  Khydyr NUNNAYEV (independent) 11.1%, Agadzhan BEKMYRADOV (IAP) 7.2%, other 8.7%; note - Serdar BERDIMUHAMEDOV is the son of previous president Gurbanguly BERDIMUHAMEDOV  *2017:* Gurbanguly BERDIMUHAMEDOV reelected president in the first round; percent of vote - Gurbanguly BERDIMUHAMEDOW (DPT) 97.7%, other 2.3%
+- `國家元首`: President Serdar BERDIMUHAMEDOV (since 19 March 2022)
+- `政府首腦`: President Serdar BERDIMUHAMEDOV (since 19 March 2022)
+- `内閣`: Cabinet of Ministers appointed by the president
+- `選舉/任命`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (no term limits); election last held on 12 March 2022 (next to be held in 2029); note - on 11 February 2022, President Gurbanguly BERDIMUHAMEDOV announced his intent to retire, setting up the early presidential election
+- `選舉結果`: *2022:* Serdar BERDIMUHAMEDOV elected president; percent of vote - Serdar BERDIMUHAMEDOW (DPT) 73%,  Khydyr NUNNAYEV (independent) 11.1%, Agadzhan BEKMYRADOV (IAP) 7.2%, other 8.7%; note - Serdar BERDIMUHAMEDOV is the son of previous president Gurbanguly BERDIMUHAMEDOV  *2017:* Gurbanguly BERDIMUHAMEDOV reelected president in the first round; percent of vote - Gurbanguly BERDIMUHAMEDOW (DPT) 97.7%, other 2.3%
 **note**:  the president is both chief of state and head of government
 
 ### 立法部門
-- `description`: unicameral Assembly or Mejlis (125 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 5-year terms); formerly the Assembly was the lower house of the bicameral National Council or Milli Genes, which consisted of an upper house, the People's Council or Halk Maslahaty, and the Assembly or Mejlis
-- `elections`: last held on 26 March 2023 (next to be held in 2028)
-- `election results`: percent of vote by party - NA; seats by party - DPT 55, APT 11, PIE 11, independent 48 (individuals nominated by citizen groups); composition men 93, women 32, percentage women 25.6%
+- `描述`: unicameral Assembly or Mejlis (125 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 5-year terms); formerly the Assembly was the lower house of the bicameral National Council or Milli Genes, which consisted of an upper house, the People's Council or Halk Maslahaty, and the Assembly or Mejlis
+- `選舉`: last held on 26 March 2023 (next to be held in 2028)
+- `選舉結果`: percent of vote by party - NA; seats by party - DPT 55, APT 11, PIE 11, independent 48 (individuals nominated by citizen groups); composition men 93, women 32, percentage women 25.6%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court of Turkmenistan (consists of the court president and 21 associate judges and organized into civil, criminal, and military chambers)
-- `judge selection and term of office`: judges appointed by the president for 5-year terms
-- `subordinate courts`: High Commercial Court; appellate courts; provincial, district, and city courts; military courts
+- `最高法院`: Supreme Court of Turkmenistan (consists of the court president and 21 associate judges and organized into civil, criminal, and military chambers)
+- `法官遴選和任期`: judges appointed by the president for 5-year terms
+- `下級法院`: High Commercial Court; appellate courts; provincial, district, and city courts; military courts
 
 ### 政黨
 Agrarian Party of Turkmenistan or APTDemocratic Party of Turkmenistan or DPTParty of Industrialists and Entrepreneurs or PIE
@@ -366,19 +366,19 @@ Agrarian Party of Turkmenistan or APTDemocratic Party of Turkmenistan or DPTPart
 ADB, CIS (associate member, has not ratified the 1993 CIS charter although it participates in meetings and held the chairmanship of the CIS in 2012), EAPC, EBRD, ECO, FAO, G-77, IBRD, ICAO, ICRM, IDA, IDB, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), ISO (correspondent), ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Meret ORAZOV (since 14 February 2001)
-- `chancery`: 2207 Massachusetts Avenue NW, Washington, DC 20008
-- `telephone`: [1] (202) 588-1500
+- `外交代表負責人`: Ambassador Meret ORAZOV (since 14 February 2001)
+- `衡平法院（在美國）`: 2207 Massachusetts Avenue NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 588-1500
 - `FAX`: [1] (202) 588-1500
-- `email address and website`: turkmenembassyus@verizon.net  https://usa.tmembassy.gov.tm/en
+- `電子郵件地址和網站`: turkmenembassyus@verizon.net  https://usa.tmembassy.gov.tm/en
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Matthew S. KLIMOW (since 26 June 2019)
-- `embassy`: 9 1984 Street (formerly Pushkin Street), Ashgabat 744000
-- `mailing address`: 7070 Ashgabat Place, Washington, DC 20521-7070
-- `telephone`: [993] (12) 94-00-45
+- `外交代表負責人`: Ambassador Matthew S. KLIMOW (since 26 June 2019)
+- `大使館`: 9 1984 Street (formerly Pushkin Street), Ashgabat 744000
+- `郵寄地址`: 7070 Ashgabat Place, Washington, DC 20521-7070
+- `電話號碼`: [993] (12) 94-00-45
 - `FAX`: [993] (12) 94-26-14
-- `email address and website`: ConsularAshgab@state.gov  https://tm.usembassy.gov/
+- `電子郵件地址和網站`: ConsularAshgab@state.gov  https://tm.usembassy.gov/
 
 ### 旗幟說明
 green field with a vertical red stripe near the hoist side, containing five tribal guls (designs used in producing carpets) stacked above two crossed olive branches; five white, five-pointed stars and a white crescent moon appear in the upper corner of the field just to the fly side of the red stripe; the green color and crescent moon represent Islam; the five stars symbolize the regions or welayats of Turkmenistan; the guls reflect the national identity of Turkmenistan where carpet-making has long been a part of traditional nomadic life
@@ -388,8 +388,8 @@ green field with a vertical red stripe near the hoist side, containing five trib
 Akhal-Teke horse; national colors: green, white
 
 ### 國歌
-- `name`: "Garassyz, Bitarap Turkmenistanyn" (Independent, Neutral, Turkmenistan State Anthem)
-- `lyrics/music`: collective/Veli MUKHATOV
+- `名稱`: "Garassyz, Bitarap Turkmenistanyn" (Independent, Neutral, Turkmenistan State Anthem)
+- `歌詞／音樂`: collective/Veli MUKHATOV
 **note**:  adopted 1997, lyrics revised in 2008, to eliminate references to deceased President Saparmurat NYYAZOW 
 
 ### 國家級遺產
@@ -428,17 +428,17 @@ $59.887 billion (2023 est.)
 3.6% (2016 est.)
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 11.6% (2022 est.)
-- `industry`: 40.6% (2022 est.)
-- `services`: 47.8% (2022 est.)
+- `農業`: 11.6% (2022 est.)
+- `產業`: 40.6% (2022 est.)
+- `服務`: 47.8% (2022 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 50% (2017 est.)
-- `government consumption`: 9.8% (2022 est.)
-- `investment in fixed capital`: 18.3% (2022 est.)
-- `exports of goods and services`: 22.2% (2023 est.)
-- `imports of goods and services`: -12.9% (2023 est.)
+- `家庭消費`: 50% (2017 est.)
+- `政府消費`: 9.8% (2022 est.)
+- `固定資本投資`: 18.3% (2022 est.)
+- `商品和服務出口`: 22.2% (2023 est.)
+- `商品和服務進口`: -12.9% (2023 est.)
 **note**:  figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -463,14 +463,14 @@ natural gas, oil, petroleum products, textiles, food processing
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 9.1% (2023 est.)
-- `male`: 13.9% (2023 est.)
-- `female`: 5.7% (2023 est.)
+- `總計`: 9.1% (2023 est.)
+- `男性`: 13.9% (2023 est.)
+- `女性`: 5.7% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 平均家庭支出
-- `on food`: 36.7% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 2.2% of household expenditures (2022 est.)
+- `餐食`: 36.7% of household expenditures (2022 est.)
+- `酒精和煙草`: 2.2% of household expenditures (2022 est.)
 
 ### 匯款
 0% of GDP (2022 est.)
@@ -479,8 +479,8 @@ natural gas, oil, petroleum products, textiles, food processing
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $5.954 billion (2019 est.)
-- `expenditures`: $6.134 billion (2019 est.)
+- `收入`: $5.954 billion (2019 est.)
+- `支出`: $6.134 billion (2019 est.)
 
 ### 公共債務
 28.8% of GDP (2017 est.)
@@ -538,36 +538,36 @@ $3.729 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 5.202 million kW (2022 est.)
-- `consumption`: 16.977 billion kWh (2022 est.)
-- `exports`: 3.201 billion kWh (2022 est.)
-- `transmission/distribution losses`: 2.892 billion kWh (2022 est.)
+- `裝機容量`: 5.202 million kW (2022 est.)
+- `消費`: 16.977 billion kWh (2022 est.)
+- `出口`: 3.201 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 2.892 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 100% of total installed capacity (2022 est.)
+- `石化燃料`: 100% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `imports`: 100 metric tons (2022 est.)
-- `proven reserves`: 799.999 million metric tons (2022 est.)
+- `進口`: 100 metric tons (2022 est.)
+- `探明儲量`: 799.999 million metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 272,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 152,000 bbl/day (2022 est.)
-- `crude oil estimated reserves`: 600 million barrels (2021 est.)
+- `總石油產量`: 272,000 bbl/day (2023 est.)
+- `成品油消費量`: 152,000 bbl/day (2022 est.)
+- `原油儲備量估值`: 600 million barrels (2021 est.)
 
 ### 天然氣
-- `production`: 86.472 billion cubic meters (2022 est.)
-- `consumption`: 41.561 billion cubic meters (2022 est.)
-- `exports`: 44.567 billion cubic meters (2022 est.)
-- `proven reserves`: 11.327 trillion cubic meters (2021 est.)
+- `生產`: 86.472 billion cubic meters (2022 est.)
+- `消費`: 41.561 billion cubic meters (2022 est.)
+- `出口`: 44.567 billion cubic meters (2022 est.)
+- `探明儲量`: 11.327 trillion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 101.442 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 19.91 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 81.532 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 101.442 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 19.91 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 81.532 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 282.657 million Btu/person (2022 est.)
@@ -575,17 +575,17 @@ $3.729 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 802,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 13 (2021 est.)
+- `總訂閱數`: 802,000 (2021 est.)
+- `每100名居民訂閱數`: 13 (2021 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 6.255 million (2021 est.)
-- `subscriptions per 100 inhabitants`: 99 (2021 est.)
+- `總訂閱數`: 6.255 million (2021 est.)
+- `每100名居民訂閱數`: 99 (2021 est.)
 
 ### 電信系統
-- `general assessment`: the nation of Turkmenistan, which rivals only North Korea for its isolationism, continues to keep its telecom sector along with the broader populace under tight control; the country inched up just one point off the bottom of the world rankings for press and internet freedom in the most recent report from Reporters Without Borders; most social networks in the country are blocked, although locals do have access to the government-developed platform released in 2019; all internet users, however, need to identify themselves before logging on, and strict censorship over what can be viewed is in force; the end result is that Turkmenistan has one of the lowest usage rates for internet access in the world (2024)
-- `domestic`: fixed-line is 13 per 100 and mobile-cellular teledensity is 99 per 100 persons (2022)
-- `international`: country code - 993; linked by fiber-optic cable and microwave radio relay to other CIS republics and to other countries by leased connections to the Moscow international gateway switch; an exchange in Ashgabat switches international traffic through Turkey via Intelsat; satellite earth stations - 1 Orbita and 1 Intelsat (2018)
+- `總體評估`: the nation of Turkmenistan, which rivals only North Korea for its isolationism, continues to keep its telecom sector along with the broader populace under tight control; the country inched up just one point off the bottom of the world rankings for press and internet freedom in the most recent report from Reporters Without Borders; most social networks in the country are blocked, although locals do have access to the government-developed platform released in 2019; all internet users, however, need to identify themselves before logging on, and strict censorship over what can be viewed is in force; the end result is that Turkmenistan has one of the lowest usage rates for internet access in the world (2024)
+- `國內`: fixed-line is 13 per 100 and mobile-cellular teledensity is 99 per 100 persons (2022)
+- `國際的`: country code - 993; linked by fiber-optic cable and microwave radio relay to other CIS republics and to other countries by leased connections to the Moscow international gateway switch; an exchange in Ashgabat switches international traffic through Turkey via Intelsat; satellite earth stations - 1 Orbita and 1 Intelsat (2018)
 
 ### 廣播媒體
 broadcast media is government controlled and censored; 7 state-owned TV and 4 state-owned radio networks; satellite dishes and programming provide an alternative to the state-run media; officials sometimes limit access to satellite TV by removing satellite dishes
@@ -594,20 +594,20 @@ broadcast media is government controlled and censored; 7 state-owned TV and 4 st
 .tm
 
 ### 網際網路使用者
-- `total`: 1,563,023 (2022 est.)
-- `percent of population`: 25.3% (2022 est.)
+- `總計`: 1,563,023 (2022 est.)
+- `佔人口比例`: 25.3% (2022 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 10,000 (2020 est.)
-- `subscriptions per 100 inhabitants`: 0.2 (2020 est.)
+- `總計`: 10,000 (2020 est.)
+- `每100名居民訂閱數`: 0.2 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 1 (2020)
-- `inventory of registered aircraft operated by air carriers`: 27
-- `annual passenger traffic on registered air carriers`: 2,457,474 (2018)
-- `annual freight traffic on registered air carriers`: 16.92 million (2018) mt-km
+- `註冊航空公司數量`: 1 (2020)
+- `註冊飛機庫存—航空承運商經營`: 27
+- `年度客運量－註冊航空公司`: 2,457,474 (2018)
+- `年度貨運量－註冊航空公司`: 16.92 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 EZ
@@ -622,20 +622,20 @@ EZ
 7,500 km gas, 1501 km oil (2013)
 
 ### 鐵路
-- `total`: 5,113 km (2017)
-- `broad gauge`: 5,113 km (2017) 1.520-m gauge
+- `總計`: 5,113 km (2017)
+- `寬軌`: 5,113 km (2017) 1.520-m gauge
 
 ### 道路
-- `total`: 58,592 km
-- `paved`: 47,577 km
-- `unpaved`: 11,015 km (2002)
+- `總計`: 58,592 km
+- `已鋪砌`: 47,577 km
+- `未鋪砌`: 11,015 km (2002)
 
 ### 水道
 1,300 km (2011) (Amu Darya River and Kara Kum Canal are important inland waterways)
 
 ### 商船
-- `total`: 73 (2023)
-- `by type`: general cargo 6, oil tanker 8, other 59
+- `總計`: 73 (2023)
+- `依類型`: general cargo 6, oil tanker 8, other 59
 
 ## 軍事和安全
 
@@ -673,10 +673,10 @@ has a small space program focused on acquiring satellites and developing the inf
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `stateless persons`: 4,463 (2022)
+- `無國籍人士`: 4,463 (2022)
 
 ### 人口販運
-- `tier rating`: Tier 3 — Turkmenistan does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Turkmenistan remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/turkmenistan/
+- `會級評分`: Tier 3 — Turkmenistan does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Turkmenistan remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/turkmenistan/
 
 ### 非法藥物
 transit country for Afghan opiates to Turkish, Russian, and European markets, either directly from Afghanistan or through Iran; not a major producer or source country for illegal drugs or precursor chemicals

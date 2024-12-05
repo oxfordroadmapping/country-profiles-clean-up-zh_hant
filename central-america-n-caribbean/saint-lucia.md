@@ -19,24 +19,24 @@ Caribbean, island between the Caribbean Sea and North Atlantic Ocean, north of T
 Central America and the Caribbean
 
 ### 面積
-- `total `: 616 sq km
-- `land`: 606 sq km
-- `water`: 10 sq km
+- `總計`: 616 sq km
+- `土地`: 606 sq km
+- `水`: 10 sq km
 
 ### 面積—比較
 three and a half times the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 158 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: 200 nm or to the edge of the continental margin
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: 200 nm or to the edge of the continental margin
 
 ### 氣候
 tropical, moderated by northeast trade winds; dry season January to April, rainy season May to August
@@ -45,19 +45,19 @@ tropical, moderated by northeast trade winds; dry season January to April, rainy
 volcanic and mountainous with broad, fertile valleys
 
 ### 海拔
-- `highest point`: Mount Gimie 948 m
-- `lowest point`: Caribbean Sea 0 m
+- `最高點`: Mount Gimie 948 m
+- `最低點`: Caribbean Sea 0 m
 
 ### 自然資源
 forests, sandy beaches, minerals (pumice), mineral springs, geothermal potential
 
 ### 土地利用
-- `agricultural land`: 17.4% (2018 est.)
-- `agricultural land: arable land`: arable land: 4.9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 11.5% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 1% (2018 est.)
-- `forest`: 77% (2018 est.)
-- `other`: 5.6% (2018 est.)
+- `農地`: 17.4% (2018 est.)
+- `農地：耕地`: arable land: 4.9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 11.5% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 1% (2018 est.)
+- `森林`: 77% (2018 est.)
+- `其它`: 5.6% (2018 est.)
 
 ### 灌溉土地
 30 sq km (2012)
@@ -74,13 +74,13 @@ the twin Pitons (Gros Piton and Petit Piton), striking cone-shaped peaks south o
 ## 人民和社會
 
 ### 人口
-- `total`: 168,038
-- `male`: 81,517
-- `female`: 86,521 (2024 est.)
+- `總計`: 168,038
+- `男性`: 81,517
+- `女性`: 86,521 (2024 est.)
 
 ### 國籍
-- `noun`: Saint Lucian(s)
-- `adjective`: Saint Lucian
+- `名詞`: Saint Lucian(s)
+- `形容詞`: Saint Lucian
 
 ### 族裔群體
 Black/African descent 85.3%, mixed 10.9%, East Indian 2.2%, other 1.6%, unspecified 0.1% (2010 est.)
@@ -92,20 +92,20 @@ English (official), Saint Lucian Creole
 Roman Catholic 61.5%, Protestant 25.5% (includes Seventh Day Adventist 10.4%, Pentecostal 8.9%, Baptist 2.2%, Anglican 1.6%, Church of God 1.5%, other Protestant 0.9%), other Christian 3.4% (includes Evangelical 2.3% and Jehovah's Witness 1.1%), Rastafarian 1.9%, other 0.4%, none 5.9%, unspecified 1.4% (2010 est.)
 
 ### 年齡結構
-- `0-14 years`: 17.9% (male 15,505/female 14,607)
-- `15-64 years`: 66.7% (male 54,260/female 57,747)
-- `65 years and over`: 15.4% (2024 est.) (male 11,752/female 14,167)
+- `0-14歲`: 17.9% (male 15,505/female 14,607)
+- `15-64歲`: 66.7% (male 54,260/female 57,747)
+- `65歲及以上`: 15.4% (2024 est.) (male 11,752/female 14,167)
 
 ### 撫養比率
-- `total dependency ratio`: 37.7
-- `youth dependency ratio`: 25.2
-- `elderly dependency ratio`: 12.5
-- `potential support ratio`: 8 (2021 est.)
+- `總受扶養人比率`: 37.7
+- `少年撫養比率`: 25.2
+- `老人撫養比率`: 12.5
+- `潛在支持率`: 8 (2021 est.)
 
 ### 年齡中位數
-- `total`: 39.7 years (2024 est.)
-- `male`: 38.4 years
-- `female`: 40.9 years
+- `總計`: 39.7 years (2024 est.)
+- `男性`: 38.4 years
+- `女性`: 40.9 years
 
 ### 人口成長率
 0.26% (2024 est.)
@@ -123,31 +123,31 @@ Roman Catholic 61.5%, Protestant 25.5% (includes Seventh Day Adventist 10.4%, Pe
 most of the population is found on the periphery of the island, with a larger concentration in the north around the capital of Castries
 
 ### 都市化
-- `urban population`: 19.2% of total population (2023)
-- `rate of urbanization`: 0.98% annual rate of change (2020-25 est.)
+- `城市人口`: 19.2% of total population (2023)
+- `城鎮化率`: 0.98% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 22,000 CASTRIES (capital) (2018)
 
 ### 性別比例
-- `at birth`: 1.06 male(s)/female
-- `0-14 years`: 1.06 male(s)/female
-- `15-64 years`: 0.94 male(s)/female
-- `65 years and over`: 0.83 male(s)/female
-- `total population`: 0.94 male(s)/female (2024 est.)
+- `出生時`: 1.06 male(s)/female
+- `0-14歲`: 1.06 male(s)/female
+- `15-64歲`: 0.94 male(s)/female
+- `65歲及以上`: 0.83 male(s)/female
+- `總人口數`: 0.94 male(s)/female (2024 est.)
 
 ### 產婦死亡率
 73 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 11.5 deaths/1,000 live births (2024 est.)
-- `male`: 10.8 deaths/1,000 live births
-- `female`: 12.2 deaths/1,000 live births
+- `總計`: 11.5 deaths/1,000 live births (2024 est.)
+- `男性`: 10.8 deaths/1,000 live births
+- `女性`: 12.2 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 79.4 years (2024 est.)
-- `male`: 76.7 years
-- `female`: 82.3 years
+- `總人口數`: 79.4 years (2024 est.)
+- `男性`: 76.7 years
+- `女性`: 82.3 years
 
 ### 總生育率
 1.71 children born/woman (2024 est.)
@@ -159,12 +159,12 @@ most of the population is found on the periphery of the island, with a larger co
 55.5% (2011/12)
 
 ### 飲用水來源
-- `improved: urban`: urban: 99.4% of population
-- `improved: rural`: rural: 98.5% of population
-- `improved: total`: total: 98.7% of population
-- `unimproved: urban`: urban: 0.6% of population
-- `unimproved: rural`: rural: 1.5% of population
-- `unimproved: total`: total: 1.3% of population (2020 est.)
+- `已改進－城市`: urban: 99.4% of population
+- `已改進－農村`: rural: 98.5% of population
+- `已改進－總計`: total: 98.7% of population
+- `未改進：都市`: urban: 0.6% of population
+- `未改進：鄉村`: rural: 1.5% of population
+- `未改善：總計`: total: 1.3% of population (2020 est.)
 
 ### 當前醫療支出
 6.7% of GDP (2020)
@@ -176,22 +176,22 @@ most of the population is found on the periphery of the island, with a larger co
 1.3 beds/1,000 population (2017)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 97.6% of population
-- `improved: rural`: rural: 92.9% of population
-- `improved: total`: total: 93.8% of population
-- `unimproved: urban`: urban: 2.4% of population
-- `unimproved: rural`: rural: 7.1% of population
-- `unimproved: total`: total: 6.2% of population (2020 est.)
+- `已改進－城市`: urban: 97.6% of population
+- `已改進－農村`: rural: 92.9% of population
+- `已改進－總計`: total: 93.8% of population
+- `未改進：都市`: urban: 2.4% of population
+- `未改進：鄉村`: rural: 7.1% of population
+- `未改善：總計`: total: 6.2% of population (2020 est.)
 
 ### 肥胖—成人流行率
 19.7% (2016)
 
 ### 人均酒精消費量
-- `total`: 9.3 liters of pure alcohol (2019 est.)
-- `beer`: 3.21 liters of pure alcohol (2019 est.)
-- `wine`: 0.4 liters of pure alcohol (2019 est.)
-- `spirits`: 5.1 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.6 liters of pure alcohol (2019 est.)
+- `總計`: 9.3 liters of pure alcohol (2019 est.)
+- `啤酒`: 3.21 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.4 liters of pure alcohol (2019 est.)
+- `烈酒`: 5.1 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.6 liters of pure alcohol (2019 est.)
 
 ### 目前已婚婦女（15-49歲）
 53.6% (2023 est.)
@@ -200,14 +200,14 @@ most of the population is found on the periphery of the island, with a larger co
 3.6% of GDP (2020 est.)
 
 ### 識字程度
-- `total population`: NA
-- `male`: NA
-- `female`: NA
+- `總人口數`: NA
+- `男性`: NA
+- `女性`: NA
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 13 years
-- `male`: 12 years
-- `female`: 13 years (2020)
+- `總計`: 13 years
+- `男性`: 12 years
+- `女性`: 13 years (2020)
 
 ## 環境
 
@@ -215,23 +215,23 @@ most of the population is found on the periphery of the island, with a larger co
 deforestation; soil erosion, particularly in the northern region
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 tropical, moderated by northeast trade winds; dry season January to April, rainy season May to August
 
 ### 土地利用
-- `agricultural land`: 17.4% (2018 est.)
-- `agricultural land: arable land`: arable land: 4.9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 11.5% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 1% (2018 est.)
-- `forest`: 77% (2018 est.)
-- `other`: 5.6% (2018 est.)
+- `農地`: 17.4% (2018 est.)
+- `農地：耕地`: arable land: 4.9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 11.5% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 1% (2018 est.)
+- `森林`: 77% (2018 est.)
+- `其它`: 5.6% (2018 est.)
 
 ### 都市化
-- `urban population`: 19.2% of total population (2023)
-- `rate of urbanization`: 0.98% annual rate of change (2020-25 est.)
+- `城市人口`: 19.2% of total population (2023)
+- `城鎮化率`: 0.98% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.01% of GDP (2018 est.)
@@ -240,17 +240,17 @@ tropical, moderated by northeast trade winds; dry season January to April, rainy
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 8.98 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 0.41 megatons (2016 est.)
-- `methane emissions`: 0.27 megatons (2020 est.)
+- `顆粒物排放量`: 8.98 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 0.41 megatons (2016 est.)
+- `甲烷排放量`: 0.27 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 77,616 tons (2015 est.)
+- `城市固體廢棄物－每年產生`: 77,616 tons (2015 est.)
 
 ### 總取水量
-- `municipal`: 10 million cubic meters (2020 est.)
-- `industrial`: 0 cubic meters (2017 est.)
-- `agricultural`: 30 million cubic meters (2020 est.)
+- `市級`: 10 million cubic meters (2020 est.)
+- `工業`: 0 cubic meters (2017 est.)
+- `農業`: 30 million cubic meters (2020 est.)
 
 ### 可再生水資源總量
 300 million cubic meters (2020 est.)
@@ -258,19 +258,19 @@ tropical, moderated by northeast trade winds; dry season January to April, rainy
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Saint Lucia
-- `etymology`: named after Saint LUCY of Syracuse by French sailors who were shipwrecked on the island on 13 December 1502, the saint's feast day; Saint Lucia is the only country named specifically after a woman
+- `常用長名`: none
+- `常用短名`: Saint Lucia
+- `语源学`: named after Saint LUCY of Syracuse by French sailors who were shipwrecked on the island on 13 December 1502, the saint's feast day; Saint Lucia is the only country named specifically after a woman
 **note**:  pronounced saynt-looshuh
 
 ### 政府類型
 parliamentary democracy under a constitutional monarchy; a Commonwealth realm
 
 ### 首都
-- `name`: Castries
-- `geographic coordinates`: 14 00 N, 61 00 W
-- `time difference`: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
-- `etymology`: in 1785, the village of Carenage was renamed Castries, after Charles Eugene Gabriel de La Croix de CASTRIES (1727-1801), who was then the French Minister of the Navy and Colonies
+- `名稱`: Castries
+- `地理坐標`: 14 00 N, 61 00 W
+- `時差`: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+- `语源学`: in 1785, the village of Carenage was renamed Castries, after Charles Eugene Gabriel de La Croix de CASTRIES (1727-1801), who was then the French Minister of the Navy and Colonies
 
 ### 行政區劃
 10 districts; Anse-la-Raye, Canaries, Castries, Choiseul, Dennery, Gros-Islet, Laborie, Micoud, Soufriere, Vieux-Fort
@@ -285,36 +285,36 @@ Independence Day, 22 February (1979)
 English common law
 
 ### 憲法
-- `history`: previous 1958, 1960 (preindependence); latest presented 20 December 1978, effective 22 February 1979
-- `amendments`: proposed by Parliament; passage requires at least two-thirds majority vote by the House of Assembly membership in the final reading and assent of the governor general; passage of amendments to various constitutional sections, such as those on fundamental rights and freedoms, government finances, the judiciary, and procedures for amending the constitution, require at least three-quarters majority vote by the House and assent of the governor general; passage of amendments approved by the House but rejected by the Senate require a majority of votes cast in a referendum; amended several times, last in 2008
+- `歷史`: previous 1958, 1960 (preindependence); latest presented 20 December 1978, effective 22 February 1979
+- `修正`: proposed by Parliament; passage requires at least two-thirds majority vote by the House of Assembly membership in the final reading and assent of the governor general; passage of amendments to various constitutional sections, such as those on fundamental rights and freedoms, government finances, the judiciary, and procedures for amending the constitution, require at least three-quarters majority vote by the House and assent of the governor general; passage of amendments approved by the House but rejected by the Senate require a majority of votes cast in a referendum; amended several times, last in 2008
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: yes
-- `citizenship by descent only`: at least one parent must be a citizen of Saint Lucia
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: 8 years
+- `出生公民權`: yes
+- `血統公民身份`: at least one parent must be a citizen of Saint Lucia
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: 8 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: King CHARLES III (since 8 September 2022); represented by Acting Governor General Errol CHARLES (since 11 November 2021)
-- `head of government`: Prime Minister Philip J. PIERRE (since 28 July 2021)
-- `cabinet`: Cabinet appointed by the governor general on the advice of the prime minister
-- `elections/appointments`: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by governor general; deputy prime minister appointed by governor general
+- `國家元首`: King CHARLES III (since 8 September 2022); represented by Acting Governor General Errol CHARLES (since 11 November 2021)
+- `政府首腦`: Prime Minister Philip J. PIERRE (since 28 July 2021)
+- `内閣`: Cabinet appointed by the governor general on the advice of the prime minister
+- `選舉/任命`: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by governor general; deputy prime minister appointed by governor general
 
 ### 立法部門
-- `description`: bicameral Houses of Parliament consists of:Senate (11 seats; all members appointed by the governor general; 6 on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 2 upon consultation with religious, economic, and social groups; members serve 5-year terms)House of Assembly (18 seats; 17 members directly elected in single-seat constituencies by simple majority vote and the speaker, designated from outside the Parliament; members serve 5-year terms)
-- `elections`: Senate - last appointments on 17 August 2021 (next to be held in 2026)House of Assembly - last held on 26 July 2021 (next to be held in 2026)
-- `election results`: Senate - percent of vote by party - NA; seats by party - NA; composition - men 6, women 5, percentage women 45.5%  House of Assembly - percent of vote by party - SLP 50.1%, UWP 42.9%, other 0.3%, independent 6.6%; seats by party - SLP 13, UWP 2, independent 2; composition - men 16, women 2, percentage women 11.1%; note - total Parliament percentage women 24.1%
+- `描述`: bicameral Houses of Parliament consists of:Senate (11 seats; all members appointed by the governor general; 6 on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 2 upon consultation with religious, economic, and social groups; members serve 5-year terms)House of Assembly (18 seats; 17 members directly elected in single-seat constituencies by simple majority vote and the speaker, designated from outside the Parliament; members serve 5-year terms)
+- `選舉`: Senate - last appointments on 17 August 2021 (next to be held in 2026)House of Assembly - last held on 26 July 2021 (next to be held in 2026)
+- `選舉結果`: Senate - percent of vote by party - NA; seats by party - NA; composition - men 6, women 5, percentage women 45.5%  House of Assembly - percent of vote by party - SLP 50.1%, UWP 42.9%, other 0.3%, independent 6.6%; seats by party - SLP 13, UWP 2, independent 2; composition - men 16, women 2, percentage women 11.1%; note - total Parliament percentage women 24.1%
 
 ### 司法部門
-- `highest court(s)`: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states with 4 on Saint Lucia; Saint Lucia is a member of the Caribbean Court of Justice
-- `judge selection and term of office`: chief justice of Eastern Caribbean Supreme Court appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, an independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62
-- `subordinate courts`: magistrate's court
+- `最高法院`: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states with 4 on Saint Lucia; Saint Lucia is a member of the Caribbean Court of Justice
+- `法官遴選和任期`: chief justice of Eastern Caribbean Supreme Court appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, an independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62
+- `下級法院`: magistrate's court
 
 ### 政黨
 Saint Lucia Labor Party or SLPUnited Workers Party or UWP
@@ -323,15 +323,15 @@ Saint Lucia Labor Party or SLPUnited Workers Party or UWP
 ACP, ACS, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO, ITU, ITUC (NGOs), MIGA, NAM, OAS, OECS, OIF, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Elizabeth DARIUS-CLARKE (since 7 June 2022)
-- `chancery`: 1629 K Street NW, Suite 1250, Washington, DC 20006
-- `telephone`: [1] (202) 364-6792
+- `外交代表負責人`: Ambassador Elizabeth DARIUS-CLARKE (since 7 June 2022)
+- `衡平法院（在美國）`: 1629 K Street NW, Suite 1250, Washington, DC 20006
+- `電話號碼`: [1] (202) 364-6792
 - `FAX`: [1] (202) 364-6723
-- `email address and website`: embassydc@gosl.gov.lc  https://www.embassyofstlucia.org/
-- `consulate(s) general`: Miami, New York
+- `電子郵件地址和網站`: embassydc@gosl.gov.lc  https://www.embassyofstlucia.org/
+- `總領事館`: Miami, New York
 
 ### 駐該國的美國外交代表
-- `embassy`: the US does not have an embassy in Saint Lucia; the US Ambassador to Barbados is accredited to Saint Lucia
+- `大使館`: the US does not have an embassy in Saint Lucia; the US Ambassador to Barbados is accredited to Saint Lucia
 
 ### 旗幟說明
 cerulean blue with a gold isosceles triangle below a black arrowhead; the upper edges of the arrowhead have a white border; the blue color represents the sky and sea, gold stands for sunshine and prosperity, and white and black the racial composition of the island (with the latter being dominant); the two major triangles invoke the twin Pitons (Gros Piton and Petit Piton), cone-shaped volcanic plugs that are a symbol of the island
@@ -340,8 +340,8 @@ cerulean blue with a gold isosceles triangle below a black arrowhead; the upper 
 twin pitons (volcanic peaks), Saint Lucia parrot; national colors: cerulean blue, gold, black, white
 
 ### 國歌
-- `name`: "Sons and Daughters of St. Lucia"
-- `lyrics/music`: Charles JESSE/Leton Felix THOMAS
+- `名稱`: "Sons and Daughters of St. Lucia"
+- `歌詞／音樂`: Charles JESSE/Leton Felix THOMAS
 **note**:  adopted 1967
 
 ### 國家級遺產
@@ -382,18 +382,18 @@ $2.52 billion (2023 est.)
 **note**: annual % change based on consumer prices
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 0.9% (2023 est.)
-- `industry`: 8.6% (2023 est.)
-- `services`: 74.1% (2023 est.)
+- `農業`: 0.9% (2023 est.)
+- `產業`: 8.6% (2023 est.)
+- `服務`: 74.1% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 66.1% (2017 est.)
-- `government consumption`: 11.2% (2017 est.)
-- `investment in fixed capital`: 16.9% (2017 est.)
-- `investment in inventories`: 0.1% (2017 est.)
-- `exports of goods and services`: 62.7% (2017 est.)
-- `imports of goods and services`: -56.9% (2017 est.)
+- `家庭消費`: 66.1% (2017 est.)
+- `政府消費`: 11.2% (2017 est.)
+- `固定資本投資`: 16.9% (2017 est.)
+- `存貨投資`: 0.1% (2017 est.)
+- `商品和服務出口`: 62.7% (2017 est.)
+- `商品和服務進口`: -56.9% (2017 est.)
 
 ### 農產品
 coconuts, bananas, tropical fruits, fruits, plantains, root vegetables, chicken, vegetables, cassava, pork (2022)
@@ -417,9 +417,9 @@ tourism; clothing, assembly of electronic components, beverages, corrugated card
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 28.2% (2023 est.)
-- `male`: 29.5% (2023 est.)
-- `female`: 26.5% (2023 est.)
+- `總計`: 28.2% (2023 est.)
+- `男性`: 29.5% (2023 est.)
+- `女性`: 26.5% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -431,8 +431,8 @@ tourism; clothing, assembly of electronic components, beverages, corrugated card
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 2.1% (2015 est.)
-- `highest 10%`: 34.1% (2015 est.)
+- `最低10%`: 2.1% (2015 est.)
+- `最高10%`: 34.1% (2015 est.)
 **note**:  % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -442,8 +442,8 @@ tourism; clothing, assembly of electronic components, beverages, corrugated card
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $414.77 million (2017 est.)
-- `expenditures`: $351.956 million (2017 est.)
+- `收入`: $414.77 million (2017 est.)
+- `支出`: $351.956 million (2017 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -508,23 +508,23 @@ $687.824 million (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 92,000 kW (2022 est.)
-- `consumption`: 360.34 million kWh (2022 est.)
-- `transmission/distribution losses`: 31.038 million kWh (2022 est.)
+- `裝機容量`: 92,000 kW (2022 est.)
+- `消費`: 360.34 million kWh (2022 est.)
+- `傳輸／分配損耗`: 31.038 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 99.2% of total installed capacity (2022 est.)
-- `solar`: 0.8% of total installed capacity (2022 est.)
+- `石化燃料`: 99.2% of total installed capacity (2022 est.)
+- `太陽能`: 0.8% of total installed capacity (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 4,000 bbl/day (2022 est.)
+- `成品油消費量`: 4,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 617,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 617,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 617,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 617,000 metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 48.251 million Btu/person (2022 est.)
@@ -532,17 +532,17 @@ $687.824 million (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 14,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 8 (2021 est.)
+- `總訂閱數`: 14,000 (2021 est.)
+- `每100名居民訂閱數`: 8 (2021 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 172,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 96 (2021 est.)
+- `總訂閱數`: 172,000 (2021 est.)
+- `每100名居民訂閱數`: 96 (2021 est.)
 
 ### 電信系統
-- `general assessment`: an adequate system that is automatically switched; good interisland and international connections; broadband access; expanded FttP (Fiber to the Home) and LTE markets; regulatory development; telecom sector contributes to the overall GDP; telecom sector is a growth area (2020)
-- `domestic`: fixed-line teledensity is 8 per 100 persons and mobile-cellular teledensity is roughly 96 per 100 persons (2021)
-- `international`: country code - 1-758; landing points for the ECFS and Southern Caribbean Fiber submarine cables providing connectivity to numerous Caribbean islands; direct microwave radio relay link with Martinique and Saint Vincent and the Grenadines; tropospheric scatter to Barbados (2019)
+- `總體評估`: an adequate system that is automatically switched; good interisland and international connections; broadband access; expanded FttP (Fiber to the Home) and LTE markets; regulatory development; telecom sector contributes to the overall GDP; telecom sector is a growth area (2020)
+- `國內`: fixed-line teledensity is 8 per 100 persons and mobile-cellular teledensity is roughly 96 per 100 persons (2021)
+- `國際的`: country code - 1-758; landing points for the ECFS and Southern Caribbean Fiber submarine cables providing connectivity to numerous Caribbean islands; direct microwave radio relay link with Martinique and Saint Vincent and the Grenadines; tropospheric scatter to Barbados (2019)
 
 ### 廣播媒體
 3 privately owned TV stations; 1 public TV station operating on a cable network; multi-channel cable TV service available; a mix of state-owned and privately owned broadcasters operate nearly 25 radio stations including repeater transmission stations (2019)
@@ -551,12 +551,12 @@ $687.824 million (2022 est.)
 .lc
 
 ### 網際網路使用者
-- `total`: 140,400 (2021 est.)
-- `percent of population`: 78% (2021 est.)
+- `總計`: 140,400 (2021 est.)
+- `佔人口比例`: 78% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 33,000 (2020 est.)
-- `subscriptions per 100 inhabitants`: 18 (2020 est.)
+- `總計`: 33,000 (2020 est.)
+- `每100名居民訂閱數`: 18 (2020 est.)
 
 ## 交通運輸
 
@@ -567,18 +567,18 @@ J6
 2 (2024)
 
 ### 道路
-- `total`: 1,210 km
-- `paved`: 847 km
-- `unpaved`: 363 km (2011)
+- `總計`: 1,210 km
+- `已鋪砌`: 847 km
+- `未鋪砌`: 363 km (2011)
 
 ### 港口
-- `total ports`: 3 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 2
-- `very small`: 1
-- `ports with oil terminals`: 2
-- `key ports`: Castries, Grand Cul de Sac Bay, Vieux Fort
+- `總港口數`: 3 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 2
+- `非常小`: 1
+- `原油碼頭港口`: 2
+- `主要港口`: Castries, Grand Cul de Sac Bay, Vieux Fort
 
 ## 軍事和安全
 

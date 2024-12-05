@@ -19,23 +19,23 @@ Caribbean, island between the Caribbean Sea and the North Atlantic Ocean, about 
 Central America and the Caribbean
 
 ### 面積
-- `total `: 751 sq km
-- `land`: 751 sq km
-- `water`: NEGL
+- `總計`: 751 sq km
+- `土地`: 751 sq km
+- `水`: NEGL
 
 ### 面積—比較
 slightly more than four times the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 148 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
 
 ### 氣候
 tropical; moderated by northeast trade winds; heavy rainfall
@@ -44,19 +44,19 @@ tropical; moderated by northeast trade winds; heavy rainfall
 rugged mountains of volcanic origin
 
 ### 海拔
-- `highest point`: Morne Diablotins 1,447 m
-- `lowest point`: Caribbean Sea 0 m
+- `最高點`: Morne Diablotins 1,447 m
+- `最低點`: Caribbean Sea 0 m
 
 ### 自然資源
 timber, hydropower, arable land
 
 ### 土地利用
-- `agricultural land`: 34.7% (2018 est.)
-- `agricultural land: arable land`: arable land: 8% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 24% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 2.7% (2018 est.)
-- `forest`: 59.2% (2018 est.)
-- `other`: 6.1% (2018 est.)
+- `農地`: 34.7% (2018 est.)
+- `農地：耕地`: arable land: 8% (2018 est.)
+- `農地：永久性作物`: permanent crops: 24% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 2.7% (2018 est.)
+- `森林`: 59.2% (2018 est.)
+- `其它`: 6.1% (2018 est.)
 
 ### 灌溉土地
 NA
@@ -73,13 +73,13 @@ known as "The Nature Island of the Caribbean" due to its spectacular, lush, and 
 ## 人民和社會
 
 ### 人口
-- `total`: 74,661
-- `male`: 37,753
-- `female`: 36,908 (2024 est.)
+- `總計`: 74,661
+- `男性`: 37,753
+- `女性`: 36,908 (2024 est.)
 
 ### 國籍
-- `noun`: Dominican(s)
-- `adjective`: Dominican
+- `名詞`: Dominican(s)
+- `形容詞`: Dominican
 
 ### 族裔群體
 African descent 84.5%, mixed 9%, Indigenous 3.8%, other 2.1%, unspecified 0.6% (2011 est.)
@@ -91,20 +91,20 @@ English (official), French patois
 Roman Catholic 52.7%, Protestant 29.7% (includes Seventh Day Adventist 6.7%, Pentecostal 6.1%, Baptist 5.2%, Christian Union Church 3.9%, Methodist 2.6%, Gospel Mission 2.1%, other Protestant 3.1%), Jehovah's Witness 1.3%, Rastafarian 1.1%, other 4.3%, none 9.4%, unspecified 1.4% (2011 est.)
 
 ### 年齡結構
-- `0-14 years`: 20.7% (male 7,891/female 7,530)
-- `15-64 years`: 65.6% (male 25,000/female 24,009)
-- `65 years and over`: 13.7% (2024 est.) (male 4,862/female 5,369)
+- `0-14歲`: 20.7% (male 7,891/female 7,530)
+- `15-64歲`: 65.6% (male 25,000/female 24,009)
+- `65歲及以上`: 13.7% (2024 est.) (male 4,862/female 5,369)
 
 ### 撫養比率
-- `total dependency ratio`: 41.2
-- `youth dependency ratio`: 28
-- `elderly dependency ratio`: 13.2
-- `potential support ratio`: 7.6 (2021)
+- `總受扶養人比率`: 41.2
+- `少年撫養比率`: 28
+- `老人撫養比率`: 13.2
+- `潛在支持率`: 7.6 (2021)
 
 ### 年齡中位數
-- `total`: 37 years (2024 est.)
-- `male`: 36.5 years
-- `female`: 37.6 years
+- `總計`: 37 years (2024 est.)
+- `男性`: 36.5 years
+- `女性`: 37.6 years
 
 ### 人口成長率
 -0.01% (2024 est.)
@@ -122,28 +122,28 @@ Roman Catholic 52.7%, Protestant 29.7% (includes Seventh Day Adventist 6.7%, Pen
 population is mosly clustered along the coast, with roughly a third living in the parish of St. George, in or around the capital of Roseau; the volcanic interior is sparsely populated
 
 ### 都市化
-- `urban population`: 72% of total population (2023)
-- `rate of urbanization`: 0.84% annual rate of change (2020-25 est.)
+- `城市人口`: 72% of total population (2023)
+- `城鎮化率`: 0.84% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 15,000 ROSEAU (capital) (2018)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.05 male(s)/female
-- `15-64 years`: 1.04 male(s)/female
-- `65 years and over`: 0.91 male(s)/female
-- `total population`: 1.02 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.05 male(s)/female
+- `15-64歲`: 1.04 male(s)/female
+- `65歲及以上`: 0.91 male(s)/female
+- `總人口數`: 1.02 male(s)/female (2024 est.)
 
 ### 嬰兒死亡率
-- `total`: 10.7 deaths/1,000 live births (2024 est.)
-- `male`: 14.5 deaths/1,000 live births
-- `female`: 6.8 deaths/1,000 live births
+- `總計`: 10.7 deaths/1,000 live births (2024 est.)
+- `男性`: 14.5 deaths/1,000 live births
+- `女性`: 6.8 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 78.7 years (2024 est.)
-- `male`: 75.8 years
-- `female`: 81.8 years
+- `總人口數`: 78.7 years (2024 est.)
+- `男性`: 75.8 years
+- `女性`: 81.8 years
 
 ### 總生育率
 2.01 children born/woman (2024 est.)
@@ -155,8 +155,8 @@ population is mosly clustered along the coast, with roughly a third living in th
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: 95.7% of population
-- `unimproved: urban`: urban: 4.3% of population
+- `已改進－城市`: urban: 95.7% of population
+- `未改進：都市`: urban: 4.3% of population
 
 ### 當前醫療支出
 5.7% of GDP (2020)
@@ -171,11 +171,11 @@ NA
 27.9% (2016)
 
 ### 人均酒精消費量
-- `total`: 6.32 liters of pure alcohol (2019 est.)
-- `beer`: 1.64 liters of pure alcohol (2019 est.)
-- `wine`: 0.29 liters of pure alcohol (2019 est.)
-- `spirits`: 4.39 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 6.32 liters of pure alcohol (2019 est.)
+- `啤酒`: 1.64 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.29 liters of pure alcohol (2019 est.)
+- `烈酒`: 4.39 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 5歲以下體重不足兒童
 NA
@@ -187,9 +187,9 @@ NA
 5.5% of GDP (2021 est.)
 
 ### 識字程度
-- `total population`: NA
-- `male`: NA
-- `female`: NA
+- `總人口數`: NA
+- `男性`: NA
+- `女性`: NA
 
 ### 人民—註釋
 3,000-3,500 Kalinago (Carib) still living on Dominica are the only pre-Columbian population remaining in the Caribbean; only 70-100 may be "pure" Kalinago because of years of integration into the broader population
@@ -200,23 +200,23 @@ NA
 water shortages a continuing concern; pollution from agrochemicals and from untreated sewage; forests endangered by the expansion of farming; soil erosion; pollution of the coastal zone by agricultural and industrial chemicals, and untreated sewage
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Whaling
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Whaling
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 tropical; moderated by northeast trade winds; heavy rainfall
 
 ### 土地利用
-- `agricultural land`: 34.7% (2018 est.)
-- `agricultural land: arable land`: arable land: 8% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 24% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 2.7% (2018 est.)
-- `forest`: 59.2% (2018 est.)
-- `other`: 6.1% (2018 est.)
+- `農地`: 34.7% (2018 est.)
+- `農地：耕地`: arable land: 8% (2018 est.)
+- `農地：永久性作物`: permanent crops: 24% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 2.7% (2018 est.)
+- `森林`: 59.2% (2018 est.)
+- `其它`: 6.1% (2018 est.)
 
 ### 都市化
-- `urban population`: 72% of total population (2023)
-- `rate of urbanization`: 0.84% annual rate of change (2020-25 est.)
+- `城市人口`: 72% of total population (2023)
+- `城鎮化率`: 0.84% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.03% of GDP (2018 est.)
@@ -225,17 +225,17 @@ tropical; moderated by northeast trade winds; heavy rainfall
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 8.22 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 0.18 megatons (2016 est.)
-- `methane emissions`: 0.04 megatons (2020 est.)
+- `顆粒物排放量`: 8.22 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 0.18 megatons (2016 est.)
+- `甲烷排放量`: 0.04 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 13,176 tons (2013 est.)
+- `城市固體廢棄物－每年產生`: 13,176 tons (2013 est.)
 
 ### 總取水量
-- `municipal`: 20 million cubic meters (2020 est.)
-- `industrial`: 0 cubic meters (2017 est.)
-- `agricultural`: 1 million cubic meters (2017 est.)
+- `市級`: 20 million cubic meters (2020 est.)
+- `工業`: 0 cubic meters (2017 est.)
+- `農業`: 1 million cubic meters (2017 est.)
 
 ### 可再生水資源總量
 200 million cubic meters (2020 est.)
@@ -243,18 +243,18 @@ tropical; moderated by northeast trade winds; heavy rainfall
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Commonwealth of Dominica
-- `conventional short form`: Dominica
-- `etymology`: the island was named by explorer Christopher COLUMBUS for the day of the week on which he spotted it, Sunday ("Domingo" in Latin), 3 November 1493
+- `常用長名`: Commonwealth of Dominica
+- `常用短名`: Dominica
+- `语源学`: the island was named by explorer Christopher COLUMBUS for the day of the week on which he spotted it, Sunday ("Domingo" in Latin), 3 November 1493
 
 ### 政府類型
 parliamentary republic
 
 ### 首都
-- `name`: Roseau
-- `geographic coordinates`: 15 18 N, 61 24 W
-- `time difference`: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
-- `etymology`: the name is French for "reed"; the first settlement was named after the river reeds that grew in the area
+- `名稱`: Roseau
+- `地理坐標`: 15 18 N, 61 24 W
+- `時差`: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+- `语源学`: the name is French for "reed"; the first settlement was named after the river reeds that grew in the area
 
 ### 行政區劃
 10 parishes; Saint Andrew, Saint David, Saint George, Saint John, Saint Joseph, Saint Luke, Saint Mark, Saint Patrick, Saint Paul, Saint Peter
@@ -269,37 +269,37 @@ Independence Day, 3 November (1978)
 common law based on the English model
 
 ### 憲法
-- `history`: previous 1967 (preindependence); latest presented 25 July 1978, entered into force 3 November 1978
-- `amendments`: proposed by the House of Assembly; passage of amendments to constitutional sections such as fundamental rights and freedoms, the government structure, and constitutional amendment procedures requires approval by three fourths of the Assembly membership in the final reading of the amendment bill, approval by simple majority in a referendum, and assent of the president; amended several times, last in 2015
+- `歷史`: previous 1967 (preindependence); latest presented 25 July 1978, entered into force 3 November 1978
+- `修正`: proposed by the House of Assembly; passage of amendments to constitutional sections such as fundamental rights and freedoms, the government structure, and constitutional amendment procedures requires approval by three fourths of the Assembly membership in the final reading of the amendment bill, approval by simple majority in a referendum, and assent of the president; amended several times, last in 2015
 
 ### 國際法組織參與
 accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: yes
-- `citizenship by descent only`: yes
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: 5 years
+- `出生公民權`: yes
+- `血統公民身份`: yes
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: 5 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Sylvanie BURTON (since 2 October 2023)
-- `head of government`: Prime Minister Roosevelt SKERRIT (since 8 January 2004)
-- `cabinet`: Cabinet appointed by the president on the advice of the prime minister
-- `elections/appointments`: president nominated by the prime minister and leader of the opposition party and elected by the House of Assembly for a 5-year term (eligible for a second term); election last held on 27 September 2023 (next to be held in October 2028); prime minister appointed by the president
-- `election results`: *2023:* parliament elects Sylvanie BURTON (DLP) with 20 votes for and five against  *2018:* Charles A. SAVARIN (DLP) reelected president unopposed 
+- `國家元首`: President Sylvanie BURTON (since 2 October 2023)
+- `政府首腦`: Prime Minister Roosevelt SKERRIT (since 8 January 2004)
+- `内閣`: Cabinet appointed by the president on the advice of the prime minister
+- `選舉/任命`: president nominated by the prime minister and leader of the opposition party and elected by the House of Assembly for a 5-year term (eligible for a second term); election last held on 27 September 2023 (next to be held in October 2028); prime minister appointed by the president
+- `選舉結果`: *2023:* parliament elects Sylvanie BURTON (DLP) with 20 votes for and five against  *2018:* Charles A. SAVARIN (DLP) reelected president unopposed 
 
 ### 立法部門
-- `description`: unicameral House of Assembly (32 seats; 21 representatives directly elected in single-seat constituencies by simple majority vote, 9 senators appointed by the president - 5 on the advice of the prime minister, and 4 on the advice of the leader of the opposition party, plus 2 ex-officio members - the house speaker and the attorney general; members serve 5-year terms)
-- `elections`: last held on 6 December 2022 (next to be held in 2027); note - tradition dictates that the election is held within 5 years of the last election, but technically it is 5 years from the first seating of parliament plus a 90-day grace period
-- `election results`: percent of vote by party - DLP 82.3%, independent 16.9%; (elected) seats by party - DLP 19, independent 2; composition - men 20, women 12, percent of women 37.5%
+- `描述`: unicameral House of Assembly (32 seats; 21 representatives directly elected in single-seat constituencies by simple majority vote, 9 senators appointed by the president - 5 on the advice of the prime minister, and 4 on the advice of the leader of the opposition party, plus 2 ex-officio members - the house speaker and the attorney general; members serve 5-year terms)
+- `選舉`: last held on 6 December 2022 (next to be held in 2027); note - tradition dictates that the election is held within 5 years of the last election, but technically it is 5 years from the first seating of parliament plus a 90-day grace period
+- `選舉結果`: percent of vote by party - DLP 82.3%, independent 16.9%; (elected) seats by party - DLP 19, independent 2; composition - men 20, women 12, percent of women 37.5%
 
 ### 司法部門
-- `highest court(s)`: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 in Dominica; note - in 2015, Dominica acceded to the Caribbean Court of Justice as final court of appeal, replacing that of the Judicial Committee of the Privy Council, in London
-- `judge selection and term of office`: chief justice of Eastern Caribbean Supreme Court appointed by the Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, an independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62
-- `subordinate courts`: Court of Summary Jurisdiction; magistrates' courts
+- `最高法院`: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 in Dominica; note - in 2015, Dominica acceded to the Caribbean Court of Justice as final court of appeal, replacing that of the Judicial Committee of the Privy Council, in London
+- `法官遴選和任期`: chief justice of Eastern Caribbean Supreme Court appointed by the Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, an independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62
+- `下級法院`: Court of Summary Jurisdiction; magistrates' courts
 
 ### 政黨
 Dominica Freedom Party or DFPDominica Labor Party or DLPDominica United Workers Party or UWP
@@ -308,15 +308,15 @@ Dominica Freedom Party or DFPDominica Labor Party or DLPDominica United Workers 
 ACP, ACS, AOSIS, C, Caricom, CD, CDB, CELAC, Commonwealth of Nations, ECCU, FAO, G-77, IAEA, IBRD, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OAS, OECS, OIF, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU, WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Steve FERROL (since 15 September 2023)
-- `chancery`: 3216 New Mexico Ave NW Washington, DC 20016
-- `telephone`: [1] (202) 364-6781
+- `外交代表負責人`: Ambassador Steve FERROL (since 15 September 2023)
+- `衡平法院（在美國）`: 3216 New Mexico Ave NW Washington, DC 20016
+- `電話號碼`: [1] (202) 364-6781
 - `FAX`: [1] (202) 364-6791
-- `email address and website`: embdomdc@gmail.com
-- `consulate(s) general`: New York
+- `電子郵件地址和網站`: embdomdc@gmail.com
+- `總領事館`: New York
 
 ### 駐該國的美國外交代表
-- `embassy`: the US does not have an embassy in Dominica; the US Ambassador to Barbados is accredited to Dominica
+- `大使館`: the US does not have an embassy in Dominica; the US Ambassador to Barbados is accredited to Dominica
 
 ### 旗幟說明
 green with a centered cross of three equal bands - the vertical part is yellow (hoist side), black, and white and the horizontal part is yellow (top), black, and white; superimposed in the center of the cross is a red disk bearing a Sisserou parrot, unique to Dominica, encircled by 10 green, five-pointed stars edged in yellow; the 10 stars represent the 10 administrative divisions (parishes); green symbolizes the island's lush vegetation; the triple-colored cross represents the Christian Trinity; the yellow color denotes sunshine, the main agricultural products (citrus and bananas), and the native Carib Indians; black is for the rich soil and the African heritage of most citizens; white signifies rivers, waterfalls, and the purity of aspirations; the red disc stands for social justice
@@ -325,8 +325,8 @@ green with a centered cross of three equal bands - the vertical part is yellow (
 Sisserou parrot, Carib Wood flower; national colors: green, yellow, black, white, red
 
 ### 國歌
-- `name`: "Isle of Beauty"
-- `lyrics/music`: Wilfred Oscar Morgan POND/Lemuel McPherson CHRISTIAN
+- `名稱`: "Isle of Beauty"
+- `歌詞／音樂`: Wilfred Oscar Morgan POND/Lemuel McPherson CHRISTIAN
 **note**:  adopted 1967
 
 ### 國家級遺產
@@ -367,17 +367,17 @@ $653.993 million (2023 est.)
 **note**: annual % change based on consumer prices
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 14.8% (2023 est.)
-- `industry`: 12.2% (2023 est.)
-- `services`: 58.5% (2023 est.)
+- `農業`: 14.8% (2023 est.)
+- `產業`: 12.2% (2023 est.)
+- `服務`: 58.5% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 87.7% (2018 est.)
-- `government consumption`: 27.4% (2018 est.)
-- `investment in fixed capital`: 32.7% (2018 est.)
-- `exports of goods and services`: 29.2% (2018 est.)
-- `imports of goods and services`: -77.8% (2018 est.)
+- `家庭消費`: 87.7% (2018 est.)
+- `政府消費`: 27.4% (2018 est.)
+- `固定資本投資`: 32.7% (2018 est.)
+- `商品和服務出口`: 29.2% (2018 est.)
+- `商品和服務進口`: -77.8% (2018 est.)
 **note**:  figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -398,8 +398,8 @@ soap, coconut oil, tourism, copra, furniture, cement blocks, shoes
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $233.831 million (2017 est.)
-- `expenditures`: $164.673 million (2017 est.)
+- `收入`: $233.831 million (2017 est.)
+- `支出`: $164.673 million (2017 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -463,25 +463,25 @@ $282.847 million (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 42,000 kW (2022 est.)
-- `consumption`: 162.827 million kWh (2022 est.)
-- `transmission/distribution losses`: 8 million kWh (2022 est.)
+- `裝機容量`: 42,000 kW (2022 est.)
+- `消費`: 162.827 million kWh (2022 est.)
+- `傳輸／分配損耗`: 8 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 75.9% of total installed capacity (2022 est.)
-- `solar`: 0.1% of total installed capacity (2022 est.)
-- `wind`: 0.6% of total installed capacity (2022 est.)
-- `hydroelectricity`: 23.4% of total installed capacity (2022 est.)
+- `石化燃料`: 75.9% of total installed capacity (2022 est.)
+- `太陽能`: 0.1% of total installed capacity (2022 est.)
+- `風能`: 0.6% of total installed capacity (2022 est.)
+- `水力發電`: 23.4% of total installed capacity (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 1,000 bbl/day (2022 est.)
+- `成品油消費量`: 1,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 175,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 175,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 175,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 175,000 metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 35.086 million Btu/person (2022 est.)
@@ -489,17 +489,17 @@ $282.847 million (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 7,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 10 (2021 est.)
+- `總訂閱數`: 7,000 (2021 est.)
+- `每100名居民訂閱數`: 10 (2021 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 62,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 86 (2021 est.)
+- `總訂閱數`: 62,000 (2021 est.)
+- `每100名居民訂閱數`: 86 (2021 est.)
 
 ### 電信系統
-- `general assessment`: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage (2021)
-- `domestic`: 10 fixed-line connections per 100 persons; mobile-cellular subscriptions are about 86 per 100 persons (2021)
-- `international`: country code - 1-767; landing points for the ECFS and the Southern Caribbean Fiber submarine cables providing connectivity to other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad and to the US; microwave radio relay and SHF radiotelephone links to Martinique and Guadeloupe; VHF and UHF radiotelephone links to Saint Lucia (2019)
+- `總體評估`: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage (2021)
+- `國內`: 10 fixed-line connections per 100 persons; mobile-cellular subscriptions are about 86 per 100 persons (2021)
+- `國際的`: country code - 1-767; landing points for the ECFS and the Southern Caribbean Fiber submarine cables providing connectivity to other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad and to the US; microwave radio relay and SHF radiotelephone links to Martinique and Guadeloupe; VHF and UHF radiotelephone links to Saint Lucia (2019)
 
 ### 廣播媒體
 no terrestrial TV service available; subscription cable TV provider offers some locally produced programming plus channels from the US, Latin America, and the Caribbean; state-operated radio broadcasts on 6 stations; privately owned radio broadcasts on about 15 stations (2019)
@@ -508,12 +508,12 @@ no terrestrial TV service available; subscription cable TV provider offers some 
 .dm
 
 ### 網際網路使用者
-- `total`: 58,320 (2021 est.)
-- `percent of population`: 81% (2021 est.)
+- `總計`: 58,320 (2021 est.)
+- `佔人口比例`: 81% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 16,000 (2020 est.)
-- `subscriptions per 100 inhabitants`: 22 (2020 est.)
+- `總計`: 16,000 (2020 est.)
+- `每100名居民訂閱數`: 22 (2020 est.)
 
 ## 交通運輸
 
@@ -524,22 +524,22 @@ J7
 2 (2024)
 
 ### 道路
-- `total`: 1,512 km
-- `paved`: 762 km
-- `unpaved`: 750 km (2018)
+- `總計`: 1,512 km
+- `已鋪砌`: 762 km
+- `未鋪砌`: 750 km (2018)
 
 ### 商船
-- `total`: 77 (2023)
-- `by type`: general cargo 26, oil tanker 10, other 41
+- `總計`: 77 (2023)
+- `依類型`: general cargo 26, oil tanker 10, other 41
 
 ### 港口
-- `total ports`: 2 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 0
-- `very small`: 2
-- `ports with oil terminals`: 1
-- `key ports`: Portsmouth, Roseau
+- `總港口數`: 2 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 0
+- `非常小`: 2
+- `原油碼頭港口`: 1
+- `主要港口`: Portsmouth, Roseau
 
 ## 軍事和安全
 

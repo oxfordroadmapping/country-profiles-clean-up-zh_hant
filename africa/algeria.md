@@ -19,24 +19,24 @@ Northern Africa, bordering the Mediterranean Sea, between Morocco and Tunisia
 Africa
 
 ### 面積
-- `total `: 2,381,740 sq km
-- `land`: 2,381,740 sq km
-- `water`: 0 sq km
+- `總計`: 2,381,740 sq km
+- `土地`: 2,381,740 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 slightly less than 3.5 times the size of Texas
 
 ### 陸地邊界
-- `total`: 6,734 km
-- `border countries`: Libya 989 km; Mali 1,359 km; Mauritania 460 km; Morocco 1,941 km; Niger 951 km; Tunisia 1,034 km
+- `總計`: 6,734 km
+- `邊境國家`: Libya 989 km; Mali 1,359 km; Mauritania 460 km; Morocco 1,941 km; Niger 951 km; Tunisia 1,034 km
 
 ### 海岸線
 998 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive fishing zone`: 32-52 nm
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬捕魚區`: 32-52 nm
 
 ### 氣候
 arid to semiarid; mild, wet winters with hot, dry summers along coast; drier with cold winters and hot summers on high plateau; sirocco is a hot, dust/sand-laden wind especially common in summer
@@ -45,20 +45,20 @@ arid to semiarid; mild, wet winters with hot, dry summers along coast; drier wit
 mostly high plateau and desert; Atlas Mountains in the far north and Hoggar Mountains in the south; narrow, discontinuous coastal plain
 
 ### 海拔
-- `highest point`: Tahat 2,908 m
-- `lowest point`: Chott Melrhir -40 m
-- `mean elevation`: 800 m
+- `最高點`: Tahat 2,908 m
+- `最低點`: Chott Melrhir -40 m
+- `平均海拔`: 800 m
 
 ### 自然資源
 petroleum, natural gas, iron ore, phosphates, uranium, lead, zinc
 
 ### 土地利用
-- `agricultural land`: 17.4% (2018 est.)
-- `agricultural land: arable land`: arable land: 3.2% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.4% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 13.8% (2018 est.)
-- `forest`: 0.8% (2018 est.)
-- `other`: 81.8% (2018 est.)
+- `農地`: 17.4% (2018 est.)
+- `農地：耕地`: arable land: 3.2% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.4% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 13.8% (2018 est.)
+- `森林`: 0.8% (2018 est.)
+- `其它`: 81.8% (2018 est.)
 
 ### 灌溉土地
 12,605 sq km (2016)
@@ -81,13 +81,13 @@ largest country in Africa but 80% desert; canyons and caves in the southern Hogg
 ## 人民和社會
 
 ### 人口
-- `total`: 47,022,473
-- `male`: 23,854,821
-- `female`: 23,167,652 (2024 est.)
+- `總計`: 47,022,473
+- `男性`: 23,854,821
+- `女性`: 23,167,652 (2024 est.)
 
 ### 國籍
-- `noun`: Algerian(s)
-- `adjective`: Algerian
+- `名詞`: Algerian(s)
+- `形容詞`: Algerian
 
 ### 族裔群體
 Arab-Amazigh 99%, European less than 1%
@@ -95,7 +95,7 @@ Arab-Amazigh 99%, European less than 1%
 
 ### 語文
 Arabic (official), French (lingua franca), Tamazight (official) (dialects include Kabyle (Taqbaylit), Shawiya (Tacawit), Mzab, Tuareg (Tamahaq))
-- `major-language sample(s)`: كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)  The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Muslim (official; predominantly Sunni) 99%, other (includes Christian, Jewish, Ahmadi Muslim, Shia Muslim, Ibadi Muslim) <1% (2012 est.)
@@ -104,20 +104,20 @@ Muslim (official; predominantly Sunni) 99%, other (includes Christian, Jewish, A
 For the first two thirds of the 20th century, Algeria's high fertility rate caused its population to grow rapidly. However, about a decade after independence from France in 1962, the total fertility rate fell dramatically from 7 children per woman in the 1970s to about 2.4 in 2000, slowing Algeria's population growth rate by the late 1980s. The lower fertility rate was mainly the result of women's rising age at first marriage (virtually all Algerian children being born in wedlock) and to a lesser extent the wider use of contraceptives. Later marriages and a preference for smaller families are attributed to increases in women's education and participation in the labor market; higher unemployment; and a shortage of housing forcing multiple generations to live together. The average woman's age at first marriage increased from about 19 in the mid-1950s to 24 in the mid-1970s to 30.5 in the late 1990s. Algeria's fertility rate experienced an unexpected upturn in the early 2000s, as the average woman's age at first marriage dropped slightly. The reversal in fertility could represent a temporary fluctuation in marriage age or, less likely, a decrease in the steady rate of contraceptive use. Thousands of Algerian peasants - mainly Berber men from the Kabylia region - faced with land dispossession and economic hardship under French rule migrated temporarily to France to work in manufacturing and mining during the first half of the 20th century. This movement accelerated during World War I, when Algerians filled in for French factory workers or served as soldiers. In the years following independence, low-skilled Algerian workers and Algerians who had supported the French (known as Harkis) emigrated en masse to France. Tighter French immigration rules and Algiers' decision to cease managing labor migration to France in the 1970s limited legal emigration largely to family reunification. Not until Algeria's civil war in the 1990s did the country again experience substantial outmigration. Many Algerians legally entered Tunisia without visas claiming to be tourists and then stayed as workers. Other Algerians headed to Europe seeking asylum, although France imposed restrictions. Sub-Saharan African migrants came to Algeria after its civil war to work in agriculture and mining. In the 2000s, a wave of educated Algerians went abroad seeking skilled jobs in a wider range of destinations, increasing their presence in North America and Spain. At the same time, legal foreign workers principally from China and Egypt came to work in Algeria's construction and oil sectors. Illegal migrants from Sub-Saharan Africa, particularly Malians, Nigeriens, and Gambians, continue to come to Algeria in search of work or to use it as a stepping stone to Libya and Europe. Since 1975, Algeria also has been the main recipient of Sahrawi refugees from the ongoing conflict in Western Sahara (today part of Morocco). More than 100,000 Sahrawis are estimated to be living in five refugee camps in southwestern Algeria near Tindouf.
 
 ### 年齡結構
-- `0-14 years`: 30.8% (male 7,411,337/female 7,062,794)
-- `15-64 years`: 62.3% (male 14,846,102/female 14,441,034)
-- `65 years and over`: 6.9% (2024 est.) (male 1,597,382/female 1,663,824)
+- `0-14歲`: 30.8% (male 7,411,337/female 7,062,794)
+- `15-64歲`: 62.3% (male 14,846,102/female 14,441,034)
+- `65歲及以上`: 6.9% (2024 est.) (male 1,597,382/female 1,663,824)
 
 ### 撫養比率
-- `total dependency ratio`: 58.5
-- `youth dependency ratio`: 48.7
-- `elderly dependency ratio`: 9.8
-- `potential support ratio`: 10.2 (2021 est.)
+- `總受扶養人比率`: 58.5
+- `少年撫養比率`: 48.7
+- `老人撫養比率`: 9.8
+- `潛在支持率`: 10.2 (2021 est.)
 
 ### 年齡中位數
-- `total`: 29.1 years (2024 est.)
-- `male`: 28.8 years
-- `female`: 29.4 years
+- `總計`: 29.1 years (2024 est.)
+- `男性`: 28.8 years
+- `女性`: 29.4 years
 
 ### 人口成長率
 1.54% (2024 est.)
@@ -135,31 +135,31 @@ For the first two thirds of the 20th century, Algeria's high fertility rate caus
 the vast majority of the populace is found in the extreme northern part of the country along the Mediterranean Coast as shown in this population distribution map
 
 ### 都市化
-- `urban population`: 75.3% of total population (2023)
-- `rate of urbanization`: 1.99% annual rate of change (2020-25 est.)
+- `城市人口`: 75.3% of total population (2023)
+- `城鎮化率`: 1.99% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 2.902 million ALGIERS (capital), 936,000 Oran (2022)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.05 male(s)/female
-- `15-64 years`: 1.03 male(s)/female
-- `65 years and over`: 0.96 male(s)/female
-- `total population`: 1.03 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.05 male(s)/female
+- `15-64歲`: 1.03 male(s)/female
+- `65歲及以上`: 0.96 male(s)/female
+- `總人口數`: 1.03 male(s)/female (2024 est.)
 
 ### 產婦死亡率
 78 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 18.7 deaths/1,000 live births (2024 est.)
-- `male`: 19.8 deaths/1,000 live births
-- `female`: 17.5 deaths/1,000 live births
+- `總計`: 18.7 deaths/1,000 live births (2024 est.)
+- `男性`: 19.8 deaths/1,000 live births
+- `女性`: 17.5 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 77.9 years (2024 est.)
-- `male`: 77.2 years
-- `female`: 78.7 years
+- `總人口數`: 77.9 years (2024 est.)
+- `男性`: 77.2 years
+- `女性`: 78.7 years
 
 ### 總生育率
 2.94 children born/woman (2024 est.)
@@ -171,12 +171,12 @@ the vast majority of the populace is found in the extreme northern part of the c
 53.6% (2018/19)
 
 ### 飲用水來源
-- `improved: urban`: urban: 99.6% of population
-- `improved: rural`: rural: 98.8% of population
-- `improved: total`: total: 99.4% of population
-- `unimproved: urban`: urban: 0.4% of population
-- `unimproved: rural`: rural: 1.2% of population
-- `unimproved: total`: total: 0.6% of population (2020 est.)
+- `已改進－城市`: urban: 99.6% of population
+- `已改進－農村`: rural: 98.8% of population
+- `已改進－總計`: total: 99.4% of population
+- `未改進：都市`: urban: 0.4% of population
+- `未改進：鄉村`: rural: 1.2% of population
+- `未改善：總計`: total: 0.6% of population (2020 est.)
 
 ### 當前醫療支出
 6.3% of GDP (2020)
@@ -188,27 +188,27 @@ the vast majority of the populace is found in the extreme northern part of the c
 1.9 beds/1,000 population (2015)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 98.3% of population
-- `improved: rural`: rural: 91.3% of population
-- `improved: total`: total: 96.5% of population
-- `unimproved: urban`: urban: 1.7% of population
-- `unimproved: rural`: rural: 8.7% of population
-- `unimproved: total`: total: 3.5% of population (2020 est.)
+- `已改進－城市`: urban: 98.3% of population
+- `已改進－農村`: rural: 91.3% of population
+- `已改進－總計`: total: 96.5% of population
+- `未改進：都市`: urban: 1.7% of population
+- `未改進：鄉村`: rural: 8.7% of population
+- `未改善：總計`: total: 3.5% of population (2020 est.)
 
 ### 肥胖—成人流行率
 27.4% (2016)
 
 ### 人均酒精消費量
-- `total`: 0.59 liters of pure alcohol (2019 est.)
-- `beer`: 0.31 liters of pure alcohol (2019 est.)
-- `wine`: 0.2 liters of pure alcohol (2019 est.)
-- `spirits`: 0.08 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 0.59 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.31 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.2 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.08 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 21% (2020 est.)
-- `male`: 41.3% (2020 est.)
-- `female`: 0.7% (2020 est.)
+- `總計`: 21% (2020 est.)
+- `男性`: 41.3% (2020 est.)
+- `女性`: 0.7% (2020 est.)
 
 ### 5歲以下體重不足兒童
 2.7% (2018/19)
@@ -217,16 +217,16 @@ the vast majority of the populace is found in the extreme northern part of the c
 56% (2023 est.)
 
 ### 童婚
-- `women married by age 18`: 3.8% (2019 est.)
+- `18歲前結婚的女性`: 3.8% (2019 est.)
 
 ### 教育支出
 7% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 81.4%
-- `male`: 87.4%
-- `female`: 75.3% (2018)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 81.4%
+- `男性`: 87.4%
+- `女性`: 75.3% (2018)
 
 ## 環境
 
@@ -234,23 +234,23 @@ the vast majority of the populace is found in the extreme northern part of the c
 air pollution in major cities; soil erosion from overgrazing and other poor farming practices; desertification; dumping of raw sewage, petroleum refining wastes, and other industrial effluents is leading to the pollution of rivers and coastal waters; Mediterranean Sea, in particular, becoming polluted from oil wastes, soil erosion, and fertilizer runoff; inadequate supplies of potable water
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands
-- `signed, but not ratified`: Nuclear Test Ban
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands
+- `已簽署但未批準`: Nuclear Test Ban
 
 ### 氣候
 arid to semiarid; mild, wet winters with hot, dry summers along coast; drier with cold winters and hot summers on high plateau; sirocco is a hot, dust/sand-laden wind especially common in summer
 
 ### 土地利用
-- `agricultural land`: 17.4% (2018 est.)
-- `agricultural land: arable land`: arable land: 3.2% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.4% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 13.8% (2018 est.)
-- `forest`: 0.8% (2018 est.)
-- `other`: 81.8% (2018 est.)
+- `農地`: 17.4% (2018 est.)
+- `農地：耕地`: arable land: 3.2% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.4% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 13.8% (2018 est.)
+- `森林`: 0.8% (2018 est.)
+- `其它`: 81.8% (2018 est.)
 
 ### 都市化
-- `urban population`: 75.3% of total population (2023)
-- `rate of urbanization`: 1.99% annual rate of change (2020-25 est.)
+- `城市人口`: 75.3% of total population (2023)
+- `城鎮化率`: 1.99% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.1% of GDP (2018 est.)
@@ -259,14 +259,14 @@ arid to semiarid; mild, wet winters with hot, dry summers along coast; drier wit
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 22.68 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 150.01 megatons (2016 est.)
-- `methane emissions`: 49.94 megatons (2020 est.)
+- `顆粒物排放量`: 22.68 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 150.01 megatons (2016 est.)
+- `甲烷排放量`: 49.94 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 12,378,740 tons (2016 est.)
-- `municipal solid waste recycled annually`: 990,299 tons (2013 est.)
-- `percent of municipal solid waste recycled`: 8% (2013 est.)
+- `城市固體廢棄物－每年產生`: 12,378,740 tons (2016 est.)
+- `城市固體廢棄物－每年回收`: 990,299 tons (2013 est.)
+- `城市固體廢棄物－回收百分比`: 8% (2013 est.)
 
 ### 主要流域（按面積平方公里）
 Atlantic Ocean drainage: Niger (2,261,741 sq km)Internal *(endorheic basin) *drainage: Lake Chad (2,497,738 sq km)
@@ -275,9 +275,9 @@ Atlantic Ocean drainage: Niger (2,261,741 sq km)Internal *(endorheic basin) *dra
 Lullemeden-Irhazer Aquifer System, Murzuk-Djado Basin, North Western Sahara Aquifer, Taoudeni-Tanezrouft Basin
 
 ### 總取水量
-- `municipal`: 3.6 billion cubic meters (2020 est.)
-- `industrial`: 190 million cubic meters (2020 est.)
-- `agricultural`: 6.67 billion cubic meters (2020 est.)
+- `市級`: 3.6 billion cubic meters (2020 est.)
+- `工業`: 190 million cubic meters (2020 est.)
+- `農業`: 6.67 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 11.67 billion cubic meters (2020 est.)
@@ -285,20 +285,20 @@ Lullemeden-Irhazer Aquifer System, Murzuk-Djado Basin, North Western Sahara Aqui
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: People's Democratic Republic of Algeria
-- `conventional short form`: Algeria
-- `local long form`: Al Jumhuriyah al Jaza'iriyah ad Dimuqratiyah ash Sha'biyah
-- `local short form`: Al Jaza'ir
-- `etymology`: the country name derives from the capital city of Algiers
+- `常用長名`: People's Democratic Republic of Algeria
+- `常用短名`: Algeria
+- `當地語長名`: Al Jumhuriyah al Jaza'iriyah ad Dimuqratiyah ash Sha'biyah
+- `當地語短名`: Al Jaza'ir
+- `语源学`: the country name derives from the capital city of Algiers
 
 ### 政府類型
 presidential republic
 
 ### 首都
-- `name`: Algiers
-- `geographic coordinates`: 36 45 N, 3 03 E
-- `time difference`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: name derives from the Arabic "al-Jazair" meaning "the islands" and refers to the four islands formerly off the coast of the capital but joined to the mainland since 1525
+- `名稱`: Algiers
+- `地理坐標`: 36 45 N, 3 03 E
+- `時差`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: name derives from the Arabic "al-Jazair" meaning "the islands" and refers to the four islands formerly off the coast of the capital but joined to the mainland since 1525
 
 ### 行政區劃
 58 provinces (wilayas, singular - wilaya); Adrar, Ain Defla, Ain Temouchent, Alger (Algiers), Annaba, Batna, Bechar, Bejaia, Beni Abbes, Biskra, Blida, Bordj Badji Mokhtar, Bordj Bou Arreridj, Bouira, Boumerdes, Chlef, Constantine, Djanet, Djelfa, El Bayadh, El Meghaier, El Meniaa, El Oued, El Tarf, Ghardaia, Guelma, Illizi, In Guezzam, In Salah, Jijel, Khenchela, Laghouat, Mascara, Medea, Mila, Mostaganem, M'Sila, Naama, Oran, Ouargla, Ouled Djellal, Oum el Bouaghi, Relizane, Saida, Setif, Sidi Bel Abbes, Skikda, Souk Ahras, Tamanrasset, Tebessa, Tiaret, Timimoun, Tindouf, Tipaza, Tissemsilt, Tizi Ouzou, Tlemcen, Touggourt
@@ -313,37 +313,37 @@ Independence Day, 5 July (1962); Revolution Day, 1 November (1954)
 mixed legal system of French civil law and Islamic law; judicial review of legislative acts in ad hoc Constitutional Council composed of various public officials including several Supreme Court justices
 
 ### 憲法
-- `history`: several previous; latest approved by referendum 1 November 2020
-- `amendments`: proposed by the president of the republic or through the president with the support of three fourths of the members of both houses of Parliament in joint session; passage requires approval by both houses, approval by referendum, and promulgation by the president; the president can forego a referendum if the Constitutional Council determines the proposed amendment does not conflict with basic constitutional principles; articles including the republican form of government, the integrity and unity of the country, and fundamental citizens’ liberties and rights cannot be amended; amended 2002, 2008, 2016; last in 2020
+- `歷史`: several previous; latest approved by referendum 1 November 2020
+- `修正`: proposed by the president of the republic or through the president with the support of three fourths of the members of both houses of Parliament in joint session; passage requires approval by both houses, approval by referendum, and promulgation by the president; the president can forego a referendum if the Constitutional Council determines the proposed amendment does not conflict with basic constitutional principles; articles including the republican form of government, the integrity and unity of the country, and fundamental citizens’ liberties and rights cannot be amended; amended 2002, 2008, 2016; last in 2020
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: the mother must be a citizen of Algeria
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 7 years
+- `出生公民權`: no
+- `血統公民身份`: the mother must be a citizen of Algeria
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 7 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Abdelmadjid TEBBOUNE (since 12 December 2019)
-- `head of government`: Prime Minister Nadir LARBAOUI (since 11 November 2023)
-- `cabinet`: Cabinet of Ministers appointed by the president
-- `elections/appointments`: president directly elected by absolute majority popular vote in two rounds if needed for a 5-year term (eligible for a second term); election last held on 7 September 2024 (next to be held in 2029); prime minister nominated by the president after consultation with the majority party in Parliament
-- `election results`: *2024: *Abdelmadjid TEBBOUNE (NLF) 94.7%, Abdelaali Hassani CHERIF (MSP) 3.2%, Youcef AOUCHICHE (FFS) 2.2%*  2019:* (FLN) 58.1%, Abdelkader BENGRINA (El-Bina) 17.4%, Ali BENFLIS (Talaie El Hurriyet) 10.6%, Azzedine MIHOUBI (RND) 7.3%, Abdelaziz BELAID (Future Front) 6.7%
+- `國家元首`: President Abdelmadjid TEBBOUNE (since 12 December 2019)
+- `政府首腦`: Prime Minister Nadir LARBAOUI (since 11 November 2023)
+- `内閣`: Cabinet of Ministers appointed by the president
+- `選舉/任命`: president directly elected by absolute majority popular vote in two rounds if needed for a 5-year term (eligible for a second term); election last held on 7 September 2024 (next to be held in 2029); prime minister nominated by the president after consultation with the majority party in Parliament
+- `選舉結果`: *2024: *Abdelmadjid TEBBOUNE (NLF) 94.7%, Abdelaali Hassani CHERIF (MSP) 3.2%, Youcef AOUCHICHE (FFS) 2.2%*  2019:* (FLN) 58.1%, Abdelkader BENGRINA (El-Bina) 17.4%, Ali BENFLIS (Talaie El Hurriyet) 10.6%, Azzedine MIHOUBI (RND) 7.3%, Abdelaziz BELAID (Future Front) 6.7%
 
 ### 立法部門
-- `description`: bicameral Parliament consists of:Council of the Nation or Majlis al-Umma (174 seats, statutory; 170 currently; two-thirds of members indirectly elected by simple majority vote by an electoral college composed of local assemblies within each wilaya, and one-third of members appointed by the president; members serve 6-year terms with one-half of the membership renewed every 3 years)National People's Assembly or al-Majlis al-Sha'abi al-Watani (407 seats, including 8 seats for Algerian diaspora; members directly elected in multi-seat constituencies by open-list proportional representation vote using the Hare quota method; members serve 5-year terms)
-- `elections`: Council of the Nation - last held on 5 February 2022 (next expected in 2025)National People's Assembly - snap election held on 12 June 2021 (next to be held on 12 June 2026)
-- `election results`: Council of the Nation - percent of vote by party - NA; seats by party - FLN 54, RND 22, Future Front 7, National Construction Movement 5, FFS 4, other 6, independent 18, appointed 58; composition - men 163, women 7, percentage women 4.1%  National People's Assembly - percent of vote by party - NA; seats by party - FLN 98, MSP 65, RND 58, (Future Front) 48, Movement of National Construction 39, other 15, independent 84; composition - men 375, women 32, percentage women 7.9%; note - total Parliament percentage women 6.8%
+- `描述`: bicameral Parliament consists of:Council of the Nation or Majlis al-Umma (174 seats, statutory; 170 currently; two-thirds of members indirectly elected by simple majority vote by an electoral college composed of local assemblies within each wilaya, and one-third of members appointed by the president; members serve 6-year terms with one-half of the membership renewed every 3 years)National People's Assembly or al-Majlis al-Sha'abi al-Watani (407 seats, including 8 seats for Algerian diaspora; members directly elected in multi-seat constituencies by open-list proportional representation vote using the Hare quota method; members serve 5-year terms)
+- `選舉`: Council of the Nation - last held on 5 February 2022 (next expected in 2025)National People's Assembly - snap election held on 12 June 2021 (next to be held on 12 June 2026)
+- `選舉結果`: Council of the Nation - percent of vote by party - NA; seats by party - FLN 54, RND 22, Future Front 7, National Construction Movement 5, FFS 4, other 6, independent 18, appointed 58; composition - men 163, women 7, percentage women 4.1%  National People's Assembly - percent of vote by party - NA; seats by party - FLN 98, MSP 65, RND 58, (Future Front) 48, Movement of National Construction 39, other 15, independent 84; composition - men 375, women 32, percentage women 7.9%; note - total Parliament percentage women 6.8%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court or Le Cour Suprême, (consists of 150 judges organized into 8 chambers: Civil, Commercial and Maritime, Criminal, House of Offenses and Contraventions, House of Petitions, Land, Personal Status, and Social; Constitutional Council (consists of 12 members including the court chairman and deputy chairman); note - Algeria's judicial system does not include sharia courts
-- `judge selection and term of office`: Supreme Court judges appointed by the High Council of Magistracy, an administrative body presided over by the president of the republic, and includes the republic vice-president and several members; judges appointed for life; Constitutional Council members - 4 appointed by the president of the republic, 2 each by the 2 houses of Parliament, 2 by the Supreme Court, and 2 by the Council of State; Council president and members appointed for single 6-year terms with half the membership renewed every 3 years
-- `subordinate courts`: appellate or wilaya courts; first instance or daira tribunals
+- `最高法院`: Supreme Court or Le Cour Suprême, (consists of 150 judges organized into 8 chambers: Civil, Commercial and Maritime, Criminal, House of Offenses and Contraventions, House of Petitions, Land, Personal Status, and Social; Constitutional Council (consists of 12 members including the court chairman and deputy chairman); note - Algeria's judicial system does not include sharia courts
+- `法官遴選和任期`: Supreme Court judges appointed by the High Council of Magistracy, an administrative body presided over by the president of the republic, and includes the republic vice-president and several members; judges appointed for life; Constitutional Council members - 4 appointed by the president of the republic, 2 each by the 2 houses of Parliament, 2 by the Supreme Court, and 2 by the Council of State; Council president and members appointed for single 6-year terms with half the membership renewed every 3 years
+- `下級法院`: appellate or wilaya courts; first instance or daira tribunals
 
 ### 政黨
 Algerian National Front or FNAAlgerian Popular Movement or MPAAlgeria's Hope Rally or TAJDignity or El KaramaEl-InfitahEl Mostakbal (Future Front)Ennour El Djazairi Party (Algerian Radiance Party) or PEDEquity and Proclamation Party or PEPIslamic Renaissance Movement or Ennahda MovementJustice and Development Front or FJDMovement for National Reform or El IslahMovement of Society for Peace or MSPNational Construction Movement or El-Bina (Harakat El-Binaa El-Watani)National Democratic Rally (Rassemblement National Democratique) or RNDNational Front for Social Justice or FNJSNational Liberation Front or FLNNational Militancy Front or FMNNational Party for Solidarity and Development or PNSDNational Republican Alliance or ANRNew Dawn Party (El-Fajr El-Jadid)New Generation (Jil Jadid)Oath of 1954 or Ahd 54Party of Justice and Liberty or PLJRally for Culture and Democracy or RCDSocialist Forces Front or FFSUnion for Change and Progress or UCPUnion of Democratic and Social Forces or UFDSVanguard of Liberties (Talaie El Hurriyet)Workers Party or PTYouth Party or PJ
@@ -353,20 +353,20 @@ Algerian National Front or FNAAlgerian Popular Movement or MPAAlgeria's Hope Ral
 ABEDA, AfDB, AFESD, AMF, AMU, AU, BIS, CAEU, CD, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MONUSCO, NAM, OAPEC, OAS (observer), OIC, OPCW, OPEC, OSCE (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Sabri BOUKADOUM (since 27 February 2024)
-- `chancery`: 2118 Kalorama Road NW, Washington, DC 20008
-- `telephone`: [1] (202) 265-2800
+- `外交代表負責人`: Ambassador Sabri BOUKADOUM (since 27 February 2024)
+- `衡平法院（在美國）`: 2118 Kalorama Road NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 265-2800
 - `FAX`: [1] (202) 986-5906
-- `email address and website`: mail@algerianembassy.org  https://www.algerianembassy.org/
-- `consulate(s) general`: New York
+- `電子郵件地址和網站`: mail@algerianembassy.org  https://www.algerianembassy.org/
+- `總領事館`: New York
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Elizabeth Moore AUBIN (since 9 February 2022)
-- `embassy`: 05 Chemin Cheikh Bachir, Ibrahimi, El-Biar 16030, Alger
-- `mailing address`: 6030 Algiers Place, Washington DC  20521-6030
-- `telephone`: [213] (0) 770-08-2000
+- `外交代表負責人`: Ambassador Elizabeth Moore AUBIN (since 9 February 2022)
+- `大使館`: 05 Chemin Cheikh Bachir, Ibrahimi, El-Biar 16030, Alger
+- `郵寄地址`: 6030 Algiers Place, Washington DC  20521-6030
+- `電話號碼`: [213] (0) 770-08-2000
 - `FAX`: [213] (0) 770-08-2299
-- `email address and website`: algierspd@state.gov  https://dz.usembassy.gov/
+- `電子郵件地址和網站`: algierspd@state.gov  https://dz.usembassy.gov/
 
 ### 旗幟說明
 two equal vertical bands of green (hoist side) and white; a red, five-pointed star within a red crescent centered over the two-color boundary; the colors represent Islam (green), purity and peace (white), and liberty (red); the crescent and star are also Islamic symbols, but the crescent is more closed than those of other Muslim countries because Algerians believe the long crescent horns bring happiness
@@ -375,8 +375,8 @@ two equal vertical bands of green (hoist side) and white; a red, five-pointed st
 five-pointed star between the extended horns of a crescent moon, fennec fox; national colors: green, white, red
 
 ### 國歌
-- `name`: "Kassaman" (We Pledge)
-- `lyrics/music`: Mufdi ZAKARIAH/Mohamed FAWZI
+- `名稱`: "Kassaman" (We Pledge)
+- `歌詞／音樂`: Mufdi ZAKARIAH/Mohamed FAWZI
 **note**:  adopted 1962; ZAKARIAH wrote "Kassaman" as a poem while imprisoned in Algiers by French colonial forces
 
 ### 國家級遺產
@@ -420,18 +420,18 @@ $239.899 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 13.2% (2023 est.)
-- `industry`: 38% (2023 est.)
-- `services`: 45.1% (2023 est.)
+- `農業`: 13.2% (2023 est.)
+- `產業`: 38% (2023 est.)
+- `服務`: 45.1% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 41.2% (2023 est.)
-- `government consumption`: 16.9% (2023 est.)
-- `investment in fixed capital`: 33.2% (2023 est.)
-- `investment in inventories`: 4.6% (2023 est.)
-- `exports of goods and services`: 25.2% (2023 est.)
-- `imports of goods and services`: -21% (2023 est.)
+- `家庭消費`: 41.2% (2023 est.)
+- `政府消費`: 16.9% (2023 est.)
+- `固定資本投資`: 33.2% (2023 est.)
+- `存貨投資`: 4.6% (2023 est.)
+- `商品和服務出口`: 25.2% (2023 est.)
+- `商品和服務進口`: -21% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -456,14 +456,14 @@ petroleum, natural gas, light industries, mining, electrical, petrochemical, foo
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 30.8% (2023 est.)
-- `male`: 27.4% (2023 est.)
-- `female`: 46% (2023 est.)
+- `總計`: 30.8% (2023 est.)
+- `男性`: 27.4% (2023 est.)
+- `女性`: 46% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 平均家庭支出
-- `on food`: 37.1% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 1% of household expenditures (2022 est.)
+- `餐食`: 37.1% of household expenditures (2022 est.)
+- `酒精和煙草`: 1% of household expenditures (2022 est.)
 
 ### 匯款
 0.74% of GDP (2023 est.)
@@ -472,8 +472,8 @@ petroleum, natural gas, light industries, mining, electrical, petrochemical, foo
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $55.185 billion (2019 est.)
-- `expenditures`: $64.728 billion (2019 est.)
+- `收入`: $55.185 billion (2019 est.)
+- `支出`: $64.728 billion (2019 est.)
 
 ### 公共債務
 27.5% of GDP (2017 est.)
@@ -537,42 +537,42 @@ $671.248 million (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
-- `electrification - urban areas`: 100%
-- `electrification - rural areas`: 99.3%
+- `電氣化－總人口`: 100% (2022 est.)
+- `電氣化－城市地區`: 100%
+- `電氣化－農村地區`: 99.3%
 
 ### 電力
-- `installed generating capacity`: 21.706 million kW (2022 est.)
-- `consumption`: 77.786 billion kWh (2022 est.)
-- `exports`: 1.529 billion kWh (2022 est.)
-- `imports`: 391.148 million kWh (2022 est.)
-- `transmission/distribution losses`: 9.263 billion kWh (2022 est.)
+- `裝機容量`: 21.706 million kW (2022 est.)
+- `消費`: 77.786 billion kWh (2022 est.)
+- `出口`: 1.529 billion kWh (2022 est.)
+- `進口`: 391.148 million kWh (2022 est.)
+- `傳輸／分配損耗`: 9.263 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 99.2% of total installed capacity (2022 est.)
-- `solar`: 0.7% of total installed capacity (2022 est.)
+- `石化燃料`: 99.2% of total installed capacity (2022 est.)
+- `太陽能`: 0.7% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `consumption`: 167,000 metric tons (2022 est.)
-- `imports`: 168,000 metric tons (2022 est.)
-- `proven reserves`: 223 million metric tons (2022 est.)
+- `消費`: 167,000 metric tons (2022 est.)
+- `進口`: 168,000 metric tons (2022 est.)
+- `探明儲量`: 223 million metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 1.443 million bbl/day (2023 est.)
-- `refined petroleum consumption`: 428,000 bbl/day (2022 est.)
-- `crude oil estimated reserves`: 12.2 billion barrels (2021 est.)
+- `總石油產量`: 1.443 million bbl/day (2023 est.)
+- `成品油消費量`: 428,000 bbl/day (2022 est.)
+- `原油儲備量估值`: 12.2 billion barrels (2021 est.)
 
 ### 天然氣
-- `production`: 100.726 billion cubic meters (2022 est.)
-- `consumption`: 47.963 billion cubic meters (2022 est.)
-- `exports`: 49.583 billion cubic meters (2022 est.)
-- `proven reserves`: 4.504 trillion cubic meters (2021 est.)
+- `生產`: 100.726 billion cubic meters (2022 est.)
+- `消費`: 47.963 billion cubic meters (2022 est.)
+- `出口`: 49.583 billion cubic meters (2022 est.)
+- `探明儲量`: 4.504 trillion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 147.93 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 501,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 51.989 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 95.439 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 147.93 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 501,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 51.989 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 95.439 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 58.473 million Btu/person (2022 est.)
@@ -580,17 +580,17 @@ $671.248 million (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 5.576 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 12 (2022 est.)
+- `總訂閱數`: 5.576 million (2022 est.)
+- `每100名居民訂閱數`: 12 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 49.019 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 109 (2022 est.)
+- `總訂閱數`: 49.019 million (2022 est.)
+- `每100名居民訂閱數`: 109 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Algeria has a steadily developing telecom infrastructure with growth encouraged by supportive regulatory measures and by government policies aimed at delivering serviceable internet connections across the country; mobile broadband is largely based on 3G and LTE, and the data rates are also low in global terms; LTE is available in all provinces, investment is required from the mobile network operators (MNOs) to improve the quality of service; the state has previously been hesitant to commit to 5G, instead encouraging the MNOs to undertake upgrades to LTE infrastructure before investing in commercial 5G services; in March 2022, the state is in the process of freeing up the requisite spectrum to enable the MNOs to launch 5G services sometime this year; fixed internet speeds remain slow (2022)
-- `domestic`: a limited network of fixed-lines with a teledensity of slightly less than 12 telephones per 100 persons has been offset by the rapid increase in mobile-cellular subscribership; mobile-cellular teledensity was approximately 106 telephones per 100 persons in 2020 (2021)
-- `international`: country code - 213; ALPAL-2 is a submarine telecommunications cable system in the Mediterranean Sea linking Algeria and the Spanish Balearic island of Majorca; ORVAL is a submarine cable to Spain; landing points for the TE North/TGN-Eurasia/SEACOM/SeaMeWe-4 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; MED cable connecting Algeria with France; microwave radio relay to Italy, France, Spain, Morocco, and Tunisia; Algeria part of the 4,500 Km terrestrial Trans Sahara Backbone network which connects to other fiber networks in the region; Alcomstat-1 satellite offering  telemedicine network (2020)
+- `總體評估`: Algeria has a steadily developing telecom infrastructure with growth encouraged by supportive regulatory measures and by government policies aimed at delivering serviceable internet connections across the country; mobile broadband is largely based on 3G and LTE, and the data rates are also low in global terms; LTE is available in all provinces, investment is required from the mobile network operators (MNOs) to improve the quality of service; the state has previously been hesitant to commit to 5G, instead encouraging the MNOs to undertake upgrades to LTE infrastructure before investing in commercial 5G services; in March 2022, the state is in the process of freeing up the requisite spectrum to enable the MNOs to launch 5G services sometime this year; fixed internet speeds remain slow (2022)
+- `國內`: a limited network of fixed-lines with a teledensity of slightly less than 12 telephones per 100 persons has been offset by the rapid increase in mobile-cellular subscribership; mobile-cellular teledensity was approximately 106 telephones per 100 persons in 2020 (2021)
+- `國際的`: country code - 213; ALPAL-2 is a submarine telecommunications cable system in the Mediterranean Sea linking Algeria and the Spanish Balearic island of Majorca; ORVAL is a submarine cable to Spain; landing points for the TE North/TGN-Eurasia/SEACOM/SeaMeWe-4 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; MED cable connecting Algeria with France; microwave radio relay to Italy, France, Spain, Morocco, and Tunisia; Algeria part of the 4,500 Km terrestrial Trans Sahara Backbone network which connects to other fiber networks in the region; Alcomstat-1 satellite offering  telemedicine network (2020)
 
 ### 廣播媒體
 state-run Radio-Television Algerienne operates the broadcast media and carries programming in Arabic, Berber dialects, and French; use of satellite dishes is widespread, providing easy access to European and Arab satellite stations; state-run radio operates several national networks and roughly 40 regional radio stations
@@ -599,20 +599,20 @@ state-run Radio-Television Algerienne operates the broadcast media and carries p
 .dz
 
 ### 網際網路使用者
-- `total`: 31.24 million (2021 est.)
-- `percent of population`: 71% (2021 est.)
+- `總計`: 31.24 million (2021 est.)
+- `佔人口比例`: 71% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 3,790,459 (2020 est.)
-- `subscriptions per 100 inhabitants`: 9 (2020 est.)
+- `總計`: 3,790,459 (2020 est.)
+- `每100名居民訂閱數`: 9 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 3 (2020)
-- `inventory of registered aircraft operated by air carriers`: 87
-- `annual passenger traffic on registered air carriers`: 6,442,442 (2018)
-- `annual freight traffic on registered air carriers`: 28.28 million (2018) mt-km
+- `註冊航空公司數量`: 3 (2020)
+- `註冊飛機庫存—航空承運商經營`: 87
+- `年度客運量－註冊航空公司`: 6,442,442 (2018)
+- `年度貨運量－註冊航空公司`: 28.28 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 7T
@@ -627,23 +627,23 @@ state-run Radio-Television Algerienne operates the broadcast media and carries p
 2,600 km condensate, 16,415 km gas, 3,447 km liquid petroleum gas, 7,036 km oil, 144 km refined products (2013)
 
 ### 鐵路
-- `total`: 4,020 km (2019)
+- `總計`: 4,020 km (2019)
 
 ### 道路
-- `total`: 112,696 km (2020)
+- `總計`: 112,696 km (2020)
 
 ### 商船
-- `total`: 119 (2022)
-- `by type`: bulk carrier 1, container ship 4, general cargo 11, oil tanker 14, other 89
+- `總計`: 119 (2022)
+- `依類型`: bulk carrier 1, container ship 4, general cargo 11, oil tanker 14, other 89
 
 ### 港口
-- `total ports`: 17 (2024)
-- `large`: 2
-- `medium`: 1
-- `small`: 6
-- `very small`: 8
-- `ports with oil terminals`: 3
-- `key ports`: Alger, Annaba, Arzew, Arzew El Djedid, Bejaia, Mers El Kebir, Oran, Port Methanier, Skikda
+- `總港口數`: 17 (2024)
+- `大`: 2
+- `中`: 1
+- `小`: 6
+- `非常小`: 8
+- `原油碼頭港口`: 3
+- `主要港口`: Alger, Annaba, Arzew, Arzew El Djedid, Bejaia, Mers El Kebir, Oran, Port Methanier, Skikda
 
 ## 軍事和安全
 
@@ -692,10 +692,10 @@ al-Qa'ida in the Islamic Maghreb (AQIM); Islamic State of Iraq and ash-Sham (ISI
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: more than 100,000 (Sahrawi, mostly living in Algerian-sponsored camps in the southwestern Algerian town of Tindouf); 7,345 (Syria) (mid-year 2022)
+- `難民（原籍國）`: more than 100,000 (Sahrawi, mostly living in Algerian-sponsored camps in the southwestern Algerian town of Tindouf); 7,345 (Syria) (mid-year 2022)
 
 ### 人口販運
-- `tier rating`: Tier 2 Watch list — Algeria does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so, therefore Algeria was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/algeria/
+- `會級評分`: Tier 2 Watch list — Algeria does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so, therefore Algeria was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/algeria/
 
 ### 非法藥物
 NA

@@ -25,14 +25,14 @@ Antarctic RegionAfrica
 **Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul)**:  less than one-half the size of Washington, DC; **Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul)**:  more than 10 times the size of the National Mall in Washington, DC; **Iles Crozet**:  about twice the size of Washington, DC; **Iles Kerguelen**:  slightly larger than Delaware; **Bassas da India (Iles Eparses)**:  land area about one-third the size of the National Mall in Washington, DC; **Europa Island (Iles Eparses)**:  about one-sixth the size of Washington, DC; **Glorioso Islands (Iles Eparses)**:  about eight times the size of the National Mall in Washington, DC; **Juan de Nova Island (Iles Eparses)**:  about seven times the size of the National Mall in Washington, DC; **Tromelin Island (Iles Eparses)**:  about 1.7 times the size of the National Mall in Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 **Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul)**: 28 km **Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul)**:  **Iles Kerguelen**: 2,800 km **Bassas da India (Iles Eparses)**: 35.2 km **Europa Island (Iles Eparses)**: 22.2 km **Glorioso Islands (Iles Eparses)**: 35.2 km **Juan de Nova Island (Iles Eparses)**: 24.1 km **Tromelin Island (Iles Eparses)**: 3.7 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive economic zone`: 200 nm from Iles Kerguelen and Iles Eparses (does not include the rest of French Southern and Antarctic Lands); Juan de Nova Island and Tromelin Island claim a continental shelf of 200-m depth or to the depth of exploitation
+- `領海`: 12 nm
+- `專屬經濟區`: 200 nm from Iles Kerguelen and Iles Eparses (does not include the rest of French Southern and Antarctic Lands); Juan de Nova Island and Tromelin Island claim a continental shelf of 200-m depth or to the depth of exploitation
 
 ### 氣候
 **Ile Amsterdam et Ile Saint-Paul**:  oceanic with persistent westerly winds and high humidity **Iles Crozet**:  windy, cold, wet, and cloudy **Iles Kerguelen**:  oceanic, cold, overcast, windy **Iles Eparses**:  tropical
@@ -41,8 +41,8 @@ Antarctic RegionAfrica
 **Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul)**:  a volcanic island with steep coastal cliffs; the center floor of the volcano is a large plateau; **Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul)**:  triangular in shape, the island is the top of a volcano, rocky with steep cliffs on the eastern side; has active thermal springs; **Iles Crozet**:  a large archipelago formed from the Crozet Plateau is divided into two groups of islands; **Iles Kerguelen**:  the interior of the large island of Ile Kerguelen is composed of high mountains, hills, valleys, and plains with peninsulas stretching off its coasts; **Bassas da India (Iles Eparses)**:  atoll, awash at high tide; shallow (15 m) lagoon; **Europa Island, Glorioso Islands, Juan de Nova Island**:  low, flat, and sandy; **Tromelin Island (Iles Eparses)**:  low, flat, sandy; likely volcanic seamount
 
 ### 海拔
-- `highest point`: Mont de la Dives on Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul) 867 m
-- `lowest point`: Indian Ocean 0 m
+- `最高點`: Mont de la Dives on Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul) 867 m
+- `最低點`: Indian Ocean 0 m
 **highest points throughout the French Southern and Antarctic Lands**: unnamed location on Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul) 272 m; Pic Marion-Dufresne in Iles Crozet 1090 m; Mont Ross in Iles Kerguelen 1850 m; unnamed location on Bassas de India (Iles Eparses) 2.4 m;24 unnamed location on Europa Island (Iles Eparses) 24 m; unnamed location on Glorioso Islands (Iles Eparses) 12 m; unnamed location on Juan de Nova Island (Iles Eparses) 10 m; unnamed location on Tromelin Island (Iles Eparses) 7 m
 
 ### 自然資源
@@ -58,7 +58,7 @@ islands' component is widely scattered across remote locations in the southern I
 ## 人民和社會
 
 ### 人口
-- `total`: no indigenous inhabitants
+- `總計`: no indigenous inhabitants
 **Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul)**: uninhabited but has a meteorological station**Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul)**: uninhabited but is frequently visited by fishermen and has a scientific research cabin for short stays**Iles Crozet: uninhabited except for 18 to 30 people staffing the Alfred Faure research station on Ile del la Possession*_issue_*Iles Kerguelen**:  50 to 100 scientists are located at the main base at Port-aux-Francais on Ile Kerguelen**Bassas da India (Iles Eparses)**: uninhabitable**Europa Island, Glorioso Islands, Juan de Nova Island (Iles Eparses)**: a small French military garrison and a few meteorologists on each possession; visited by scientists**Tromelin Island (Iles Eparses)**: uninhabited, visited by scientists
 
 ## 環境
@@ -72,12 +72,12 @@ introduction of foreign species on Iles Crozet has caused severe damage to the o
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Territory of the French Southern and Antarctic Lands
-- `conventional short form`: French Southern and Antarctic Lands
-- `local long form`: Terres australes et antarctiques françaises
-- `local short form`: Terres Australes et Antarctiques Francaises
-- `abbreviation`: TAAF
-- `etymology`: self-descriptive name specifying the territories' affiliation and location in the Southern Hemisphere
+- `常用長名`: Territory of the French Southern and Antarctic Lands
+- `常用短名`: French Southern and Antarctic Lands
+- `當地語長名`: Terres australes et antarctiques françaises
+- `當地語短名`: Terres Australes et Antarctiques Francaises
+- `縮寫`: TAAF
+- `语源学`: self-descriptive name specifying the territories' affiliation and location in the Southern Hemisphere
 
 ### 附屬狀況
 overseas territory of France since 1955
@@ -92,7 +92,7 @@ the laws of France, where applicable, apply
 see France
 
 ### 行政部門
-- `chief of state`: President Emmanuel MACRON (since 14 May 2017), represented by Prefect Florence JEANBLANC-RISLER (since 5 October 2022)
+- `國家元首`: President Emmanuel MACRON (since 14 May 2017), represented by Prefect Florence JEANBLANC-RISLER (since 5 October 2022)
 
 ### 國際組織參與
 UPU
@@ -101,7 +101,7 @@ UPU
 none (overseas territory of France)
 
 ### 駐該國的美國外交代表
-- `embassy`: none (overseas territory of France)
+- `大使館`: none (overseas territory of France)
 
 ### 旗幟說明
 the flag of France is used
@@ -147,8 +147,8 @@ has one or more meteorological stations on each possession
 3 (2024)
 
 ### 商船
-- `total`: 2 (2023)
-- `by type`: other 2
+- `總計`: 2 (2023)
+- `依類型`: other 2
 
 ## 軍事和安全
 

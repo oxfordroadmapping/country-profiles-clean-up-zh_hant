@@ -19,25 +19,25 @@ Caribbean, islands between the Caribbean Sea and the North Atlantic Ocean, east-
 Central America and the Caribbean
 
 ### 面積
-- `total `: 443 sq km (Antigua 280 sq km; Barbuda 161 sq km)
-- `land`: 443 sq km
-- `water`: 0 sq km
+- `總計`: 443 sq km (Antigua 280 sq km; Barbuda 161 sq km)
+- `土地`: 443 sq km
+- `水`: 0 sq km
 **note**:  includes Redonda, 1.6 sq km
 
 ### 面積—比較
 2.5 times the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 153 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: 200 nm or to the edge of the continental margin
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: 200 nm or to the edge of the continental margin
 
 ### 氣候
 tropical maritime; little seasonal temperature variation
@@ -46,19 +46,19 @@ tropical maritime; little seasonal temperature variation
 mostly low-lying limestone and coral islands, with some higher volcanic areas
 
 ### 海拔
-- `highest point`: Mount Obama 402 m
-- `lowest point`: Caribbean Sea 0 m
+- `最高點`: Mount Obama 402 m
+- `最低點`: Caribbean Sea 0 m
 
 ### 自然資源
 NEGL; pleasant climate fosters tourism
 
 ### 土地利用
-- `agricultural land`: 20.5% (2018 est.)
-- `agricultural land: arable land`: arable land: 9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 2.3% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 9% (2018 est.)
-- `forest`: 18.8% (2018 est.)
-- `other`: 60.8% (2018 est.)
+- `農地`: 20.5% (2018 est.)
+- `農地：耕地`: arable land: 9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 2.3% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 9% (2018 est.)
+- `森林`: 18.8% (2018 est.)
+- `其它`: 60.8% (2018 est.)
 
 ### 灌溉土地
 1.3 sq km (2012)
@@ -75,13 +75,13 @@ Antigua has a deeply indented shoreline with many natural harbors and beaches; B
 ## 人民和社會
 
 ### 人口
-- `total`: 102,634
-- `male`: 48,311
-- `female`: 54,323 (2024 est.)
+- `總計`: 102,634
+- `男性`: 48,311
+- `女性`: 54,323 (2024 est.)
 
 ### 國籍
-- `noun`: Antiguan(s), Barbudan(s)
-- `adjective`: Antiguan, Barbudan
+- `名詞`: Antiguan(s), Barbudan(s)
+- `形容詞`: Antiguan, Barbudan
 
 ### 族裔群體
 African descent 87.3%, mixed 4.7%, Hispanic 2.7%, White 1.6%, other 2.7%, unspecified 0.9% (2011 est.)
@@ -94,20 +94,20 @@ English (official), Antiguan Creole (an English-based creole)
 Protestant 68.3% (Anglican 17.6%, Seventh Day Adventist 12.4%, Pentecostal 12.2%, Moravian 8.3%, Methodist 5.6%, Wesleyan Holiness 4.5%, Church of God 4.1%, Baptist 3.6%), Roman Catholic 8.2%, other 12.2%, unspecified 5.5%, none 5.9% (2011 est.)
 
 ### 年齡結構
-- `0-14 years`: 21.8% (male 11,384/female 11,034)
-- `15-64 years`: 67.6% (male 32,312/female 37,094)
-- `65 years and over`: 10.5% (2024 est.) (male 4,615/female 6,195)
+- `0-14歲`: 21.8% (male 11,384/female 11,034)
+- `15-64歲`: 67.6% (male 32,312/female 37,094)
+- `65歲及以上`: 10.5% (2024 est.) (male 4,615/female 6,195)
 
 ### 撫養比率
-- `total dependency ratio`: 40.9
-- `youth dependency ratio`: 26.5
-- `elderly dependency ratio`: 14.4
-- `potential support ratio`: 7 (2020 est.)
+- `總受扶養人比率`: 40.9
+- `少年撫養比率`: 26.5
+- `老人撫養比率`: 14.4
+- `潛在支持率`: 7 (2020 est.)
 
 ### 年齡中位數
-- `total`: 33.9 years (2024 est.)
-- `male`: 31.9 years
-- `female`: 35.7 years
+- `總計`: 33.9 years (2024 est.)
+- `男性`: 31.9 years
+- `女性`: 35.7 years
 
 ### 人口成長率
 1.11% (2024 est.)
@@ -125,31 +125,31 @@ Protestant 68.3% (Anglican 17.6%, Seventh Day Adventist 12.4%, Pentecostal 12.2%
 the island of Antigua is home to approximately 97% of the population; nearly the entire population of Barbuda lives in Codrington
 
 ### 都市化
-- `urban population`: 24.3% of total population (2023)
-- `rate of urbanization`: 0.87% annual rate of change (2020-25 est.)
+- `城市人口`: 24.3% of total population (2023)
+- `城鎮化率`: 0.87% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 21,000 SAINT JOHN'S (capital) (2018)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.03 male(s)/female
-- `15-64 years`: 0.87 male(s)/female
-- `65 years and over`: 0.74 male(s)/female
-- `total population`: 0.89 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.03 male(s)/female
+- `15-64歲`: 0.87 male(s)/female
+- `65歲及以上`: 0.74 male(s)/female
+- `總人口數`: 0.89 male(s)/female (2024 est.)
 
 ### 產婦死亡率
 21 deaths/100,000 live births (2020)
 
 ### 嬰兒死亡率
-- `total`: 13.6 deaths/1,000 live births (2024 est.)
-- `male`: 16.4 deaths/1,000 live births
-- `female`: 10.7 deaths/1,000 live births
+- `總計`: 13.6 deaths/1,000 live births (2024 est.)
+- `男性`: 16.4 deaths/1,000 live births
+- `女性`: 10.7 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 78.3 years (2024 est.)
-- `male`: 76.1 years
-- `female`: 80.5 years
+- `總人口數`: 78.3 years (2024 est.)
+- `男性`: 76.1 years
+- `女性`: 80.5 years
 
 ### 總生育率
 1.93 children born/woman (2024 est.)
@@ -161,8 +161,8 @@ the island of Antigua is home to approximately 97% of the population; nearly the
 NA
 
 ### 飲用水來源
-- `improved: total`: total: 96.7% of population
-- `unimproved: total`: total: 3.2% of population (2017 est.)
+- `已改進－總計`: total: 96.7% of population
+- `未改善：總計`: total: 3.2% of population (2017 est.)
 
 ### 當前醫療支出
 5.6% of GDP (2020)
@@ -174,18 +174,18 @@ NA
 2.9 beds/1,000 population (2017)
 
 ### 衛生設施普及程度
-- `improved: total`: total: 91.7% of population
-- `unimproved: total`: total: 8.1% of population (2017 est.)
+- `已改進－總計`: total: 91.7% of population
+- `未改善：總計`: total: 8.1% of population (2017 est.)
 
 ### 肥胖—成人流行率
 18.9% (2016)
 
 ### 人均酒精消費量
-- `total`: 11.88 liters of pure alcohol (2019 est.)
-- `beer`: 2.97 liters of pure alcohol (2019 est.)
-- `wine`: 3.95 liters of pure alcohol (2019 est.)
-- `spirits`: 4.55 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.41 liters of pure alcohol (2019 est.)
+- `總計`: 11.88 liters of pure alcohol (2019 est.)
+- `啤酒`: 2.97 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 3.95 liters of pure alcohol (2019 est.)
+- `烈酒`: 4.55 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.41 liters of pure alcohol (2019 est.)
 
 ### 5歲以下體重不足兒童
 NA
@@ -197,15 +197,15 @@ NA
 3.8% of GDP (2021 est.)
 
 ### 識字程度
-- `definition`: age 15 and over has completed five or more years of schooling
-- `total population`: 99%
-- `male`: 98.4%
-- `female`: 99.4% (2015)
+- `定義`: age 15 and over has completed five or more years of schooling
+- `總人口數`: 99%
+- `男性`: 98.4%
+- `女性`: 99.4% (2015)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 15 years
-- `male`: 14 years
-- `female`: 16 years (2012)
+- `總計`: 15 years
+- `男性`: 14 years
+- `女性`: 16 years (2012)
 
 ## 環境
 
@@ -213,23 +213,23 @@ NA
 water management - a major concern because of limited natural freshwater resources - is further hampered by the clearing of trees to increase crop production, causing rainfall to run off quickly
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 tropical maritime; little seasonal temperature variation
 
 ### 土地利用
-- `agricultural land`: 20.5% (2018 est.)
-- `agricultural land: arable land`: arable land: 9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 2.3% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 9% (2018 est.)
-- `forest`: 18.8% (2018 est.)
-- `other`: 60.8% (2018 est.)
+- `農地`: 20.5% (2018 est.)
+- `農地：耕地`: arable land: 9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 2.3% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 9% (2018 est.)
+- `森林`: 18.8% (2018 est.)
+- `其它`: 60.8% (2018 est.)
 
 ### 都市化
-- `urban population`: 24.3% of total population (2023)
-- `rate of urbanization`: 0.87% annual rate of change (2020-25 est.)
+- `城市人口`: 24.3% of total population (2023)
+- `城鎮化率`: 0.87% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0% of GDP (2018 est.)
@@ -238,17 +238,17 @@ tropical maritime; little seasonal temperature variation
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 8.3 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 0.56 megatons (2016 est.)
-- `methane emissions`: 0.22 megatons (2020 est.)
+- `顆粒物排放量`: 8.3 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 0.56 megatons (2016 est.)
+- `甲烷排放量`: 0.22 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 30,585 tons (2012 est.)
+- `城市固體廢棄物－每年產生`: 30,585 tons (2012 est.)
 
 ### 總取水量
-- `municipal`: 10 million cubic meters (2020 est.)
-- `industrial`: 2.5 million cubic meters (2017 est.)
-- `agricultural`: 1.8 million cubic meters (2017 est.)
+- `市級`: 10 million cubic meters (2020 est.)
+- `工業`: 2.5 million cubic meters (2017 est.)
+- `農業`: 1.8 million cubic meters (2017 est.)
 
 ### 可再生水資源總量
 50 million cubic meters (2020 est.)
@@ -256,18 +256,18 @@ tropical maritime; little seasonal temperature variation
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Antigua and Barbuda
-- `etymology`: "antiguo" is Spanish for "ancient" or "old"; the island was discovered by Christopher COLUMBUS in 1493 and, according to tradition, named by him after the church of Santa Maria la Antigua (Old Saint Mary's) in Seville; "barbuda" is Spanish for "bearded" and the adjective may refer to the alleged beards of the indigenous people or to the island's bearded fig trees
+- `常用長名`: none
+- `常用短名`: Antigua and Barbuda
+- `语源学`: "antiguo" is Spanish for "ancient" or "old"; the island was discovered by Christopher COLUMBUS in 1493 and, according to tradition, named by him after the church of Santa Maria la Antigua (Old Saint Mary's) in Seville; "barbuda" is Spanish for "bearded" and the adjective may refer to the alleged beards of the indigenous people or to the island's bearded fig trees
 
 ### 政府類型
 parliamentary democracy under a constitutional monarchy; a Commonwealth realm
 
 ### 首都
-- `name`: Saint John's
-- `geographic coordinates`: 17 07 N, 61 51 W
-- `time difference`: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
-- `etymology`: named after Saint John the Apostle
+- `名稱`: Saint John's
+- `地理坐標`: 17 07 N, 61 51 W
+- `時差`: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)
+- `语源学`: named after Saint John the Apostle
 
 ### 行政區劃
 6 parishes and 2 dependencies*; Barbuda*, Redonda*, Saint George, Saint John, Saint Mary, Saint Paul, Saint Peter, Saint Philip
@@ -282,36 +282,36 @@ Independence Day, 1 November (1981)
 common law based on the English model
 
 ### 憲法
-- `history`: several previous; latest presented 31 July 1981, effective 31 October 1981 (The Antigua and Barbuda Constitution Order 1981)
-- `amendments`: proposed by either house of Parliament; passage of amendments to constitutional sections such as citizenship, fundamental rights and freedoms, the establishment, power, and authority of the executive and legislative branches, the Supreme Court Order, and the procedure for amending the constitution requires approval by at least two-thirds majority vote of the membership of both houses, approval by at least two-thirds majority in a referendum, and assent to by the governor general; passage of other amendments requires only two-thirds majority vote by both houses; amended 2009, 2011, 2018
+- `歷史`: several previous; latest presented 31 July 1981, effective 31 October 1981 (The Antigua and Barbuda Constitution Order 1981)
+- `修正`: proposed by either house of Parliament; passage of amendments to constitutional sections such as citizenship, fundamental rights and freedoms, the establishment, power, and authority of the executive and legislative branches, the Supreme Court Order, and the procedure for amending the constitution requires approval by at least two-thirds majority vote of the membership of both houses, approval by at least two-thirds majority in a referendum, and assent to by the governor general; passage of other amendments requires only two-thirds majority vote by both houses; amended 2009, 2011, 2018
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: yes
-- `citizenship by descent only`: yes
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: 7 years
+- `出生公民權`: yes
+- `血統公民身份`: yes
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: 7 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: King CHARLES III (since 8 September 2022); represented by Governor General Rodney WILLIAMS (since 14 August 2014)
-- `head of government`: Prime Minister Gaston BROWNE (since 13 June 2014)
-- `cabinet`: Council of Ministers appointed by the governor general on the advice of the prime minister
-- `elections/appointments`: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general
+- `國家元首`: King CHARLES III (since 8 September 2022); represented by Governor General Rodney WILLIAMS (since 14 August 2014)
+- `政府首腦`: Prime Minister Gaston BROWNE (since 13 June 2014)
+- `内閣`: Council of Ministers appointed by the governor general on the advice of the prime minister
+- `選舉/任命`: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general
 
 ### 立法部門
-- `description`: bicameral Parliament consists of:Senate (17 seats; members appointed by the governor general on the advice of the prime minister and leader of the opposition; members served 5-year terms)House of Representatives (19 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms; in addition, 1 ex-officio seat is allocated for the attorney general and 1 seat for the speaker of the House - elected by the House membership following its first post-election session)
-- `elections`: Senate - last appointed on 17 February 2023 (next appointments in 2028)House of Representatives - last held on 18 January 2023 (next to be held in March 2028)
-- `election results`: Senate - composition - men 10, women 7, percentage women 41.2%  House of Representatives - percent of vote by party - ABLP 47.1%, UPP 45.2%, BPM 1.5%, independent 5.2%; seats by party - ABLP 9, UPP 6, BPM 1, independent 1; composition - men 17, women 1, percentage women 5.6%; total Parliament percentage women 22.9%
+- `描述`: bicameral Parliament consists of:Senate (17 seats; members appointed by the governor general on the advice of the prime minister and leader of the opposition; members served 5-year terms)House of Representatives (19 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms; in addition, 1 ex-officio seat is allocated for the attorney general and 1 seat for the speaker of the House - elected by the House membership following its first post-election session)
+- `選舉`: Senate - last appointed on 17 February 2023 (next appointments in 2028)House of Representatives - last held on 18 January 2023 (next to be held in March 2028)
+- `選舉結果`: Senate - composition - men 10, women 7, percentage women 41.2%  House of Representatives - percent of vote by party - ABLP 47.1%, UPP 45.2%, BPM 1.5%, independent 5.2%; seats by party - ABLP 9, UPP 6, BPM 1, independent 1; composition - men 17, women 1, percentage women 5.6%; total Parliament percentage women 22.9%
 
 ### 司法部門
-- `highest court(s)`: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Antigua and Barbuda
-- `judge selection and term of office`: chief justice of Eastern Caribbean Supreme Court appointed by the His Majesty, King CHARLES III; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62
-- `subordinate courts`: Industrial Court; Magistrates' Courts
+- `最高法院`: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Antigua and Barbuda
+- `法官遴選和任期`: chief justice of Eastern Caribbean Supreme Court appointed by the His Majesty, King CHARLES III; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62
+- `下級法院`: Industrial Court; Magistrates' Courts
 
 ### 政黨
 Antigua Labor Party or ABLPBarbuda People's Movement or BPMDemocratic National Alliance or DNAGo Green for Life or GGLUnited Progressive Party or UPP
@@ -320,15 +320,15 @@ Antigua Labor Party or ABLPBarbuda People's Movement or BPMDemocratic National A
 ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (subscriber), ITU, ITUC (NGOs), MIGA, NAM (observer), OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UPU, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Sir Ronald SANDERS (since 17 September 2015)
-- `chancery`: 3216 New Mexico Ave. NW, Washington, DC 20016
-- `telephone`: [1] (202) 362-5122
+- `外交代表負責人`: Ambassador Sir Ronald SANDERS (since 17 September 2015)
+- `衡平法院（在美國）`: 3216 New Mexico Ave. NW, Washington, DC 20016
+- `電話號碼`: [1] (202) 362-5122
 - `FAX`: [1] (202) 362-5225
-- `email address and website`: embantbar@aol.com  https://www.antigua-barbuda.org/Aghome01.htm  
-- `consulate(s) general`: Miami, New York
+- `電子郵件地址和網站`: embantbar@aol.com  https://www.antigua-barbuda.org/Aghome01.htm  
+- `總領事館`: Miami, New York
 
 ### 駐該國的美國外交代表
-- `embassy`: the US does not have an embassy in Antigua and Barbuda; the US Ambassador to Barbados is accredited to Antigua and Barbuda
+- `大使館`: the US does not have an embassy in Antigua and Barbuda; the US Ambassador to Barbados is accredited to Antigua and Barbuda
 
 ### 旗幟說明
 red, with an inverted isosceles triangle based on the top edge of the flag; the triangle contains three horizontal bands of black (top), light blue, and white, with a yellow rising sun in the black band; the sun symbolizes the dawn of a new era, black represents the African heritage of most of the population, blue is for hope, and red is for the dynamism of the people; the "V" stands for victory; the successive yellow, blue, and white coloring is also meant to evoke the country's tourist attractions of sun, sea, and sand
@@ -337,8 +337,8 @@ red, with an inverted isosceles triangle based on the top edge of the flag; the 
 fallow deer; national colors: red, white, blue, black, yellow
 
 ### 國歌
-- `name`: Fair Antigua, We Salute Thee
-- `lyrics/music`: Novelle Hamilton RICHARDS/Walter Garnet Picart CHAMBERS
+- `名稱`: Fair Antigua, We Salute Thee
+- `歌詞／音樂`: Novelle Hamilton RICHARDS/Walter Garnet Picart CHAMBERS
 **note**:  adopted 1967; as a Commonwealth country, in addition to the national anthem, "God Save the King" serves as the royal anthem (see United Kingdom)
 
 ### 國家級遺產
@@ -379,18 +379,18 @@ $2.033 billion (2023 est.)
 **note**: annual % change based on consumer prices
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 1.9% (2023 est.)
-- `industry`: 19.4% (2023 est.)
-- `services`: 67.8% (2023 est.)
+- `農業`: 1.9% (2023 est.)
+- `產業`: 19.4% (2023 est.)
+- `服務`: 67.8% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 53.5% (2017 est.)
-- `government consumption`: 15.2% (2017 est.)
-- `investment in fixed capital`: 23.9% (2017 est.)
-- `investment in inventories`: 0.1% (2017 est.)
-- `exports of goods and services`: 54.7% (2022 est.)
-- `imports of goods and services`: -62.9% (2022 est.)
+- `家庭消費`: 53.5% (2017 est.)
+- `政府消費`: 15.2% (2017 est.)
+- `固定資本投資`: 23.9% (2017 est.)
+- `存貨投資`: 0.1% (2017 est.)
+- `商品和服務出口`: 54.7% (2022 est.)
+- `商品和服務進口`: -62.9% (2022 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -414,8 +414,8 @@ tourism, construction, light manufacturing (clothing, alcohol, household applian
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $251.418 million (2014 est.)
-- `expenditures`: $266.044 million (2014 est.)
+- `收入`: $251.418 million (2014 est.)
+- `支出`: $266.044 million (2014 est.)
 **note**: central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -475,23 +475,23 @@ $367.512 million (2021 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 97,000 kW (2022 est.)
-- `consumption`: 318.337 million kWh (2022 est.)
-- `transmission/distribution losses`: 37.847 million kWh (2022 est.)
+- `裝機容量`: 97,000 kW (2022 est.)
+- `消費`: 318.337 million kWh (2022 est.)
+- `傳輸／分配損耗`: 37.847 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 94.2% of total installed capacity (2022 est.)
-- `solar`: 5.8% of total installed capacity (2022 est.)
+- `石化燃料`: 94.2% of total installed capacity (2022 est.)
+- `太陽能`: 5.8% of total installed capacity (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 5,000 bbl/day (2022 est.)
+- `成品油消費量`: 5,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 769,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 769,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 769,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 769,000 metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 114.469 million Btu/person (2022 est.)
@@ -499,17 +499,17 @@ $367.512 million (2021 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 27,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 29 (2021 est.)
+- `總訂閱數`: 27,000 (2021 est.)
+- `每100名居民訂閱數`: 29 (2021 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 184,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 197 (2021 est.)
+- `總訂閱數`: 184,000 (2021 est.)
+- `每100名居民訂閱數`: 197 (2021 est.)
 
 ### 電信系統
-- `general assessment`: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage (2021)
-- `domestic`: fixed-line teledensity roughly 27 per 100 persons; mobile-cellular teledensity is about 200 per 100 persons (2021)
-- `international`: country code - 1-268; landing points for the ECFS and Southern Caribbean Fiber submarine cable systems with links to other islands in the eastern Caribbean; satellite earth stations - 1 Intelsat (Atlantic Ocean) (2019)
+- `總體評估`: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage (2021)
+- `國內`: fixed-line teledensity roughly 27 per 100 persons; mobile-cellular teledensity is about 200 per 100 persons (2021)
+- `國際的`: country code - 1-268; landing points for the ECFS and Southern Caribbean Fiber submarine cable systems with links to other islands in the eastern Caribbean; satellite earth stations - 1 Intelsat (Atlantic Ocean) (2019)
 
 ### 廣播媒體
 state-controlled Antigua and Barbuda Broadcasting Service (ABS) operates 1 TV station; multi-channel cable TV subscription services are available; ABS operates 1 radio station; roughly 15 radio stations, some broadcasting on multiple frequencies
@@ -518,20 +518,20 @@ state-controlled Antigua and Barbuda Broadcasting Service (ABS) operates 1 TV st
 .ag
 
 ### 網際網路使用者
-- `total`: 89,280 (2021 est.)
-- `percent of population`: 96% (2021 est.)
+- `總計`: 89,280 (2021 est.)
+- `佔人口比例`: 96% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 8,000 (2020 est.)
-- `subscriptions per 100 inhabitants`: 8 (2020 est.)
+- `總計`: 8,000 (2020 est.)
+- `每100名居民訂閱數`: 8 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 1 (2020)
-- `inventory of registered aircraft operated by air carriers`: 10
-- `annual passenger traffic on registered air carriers`: 580,174 (2018)
-- `annual freight traffic on registered air carriers`: 290,000 (2018) mt-km
+- `註冊航空公司數量`: 1 (2020)
+- `註冊飛機庫存—航空承運商經營`: 10
+- `年度客運量－註冊航空公司`: 580,174 (2018)
+- `年度貨運量－註冊航空公司`: 290,000 (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 V2
@@ -543,22 +543,22 @@ V2
 2 (2024)
 
 ### 道路
-- `total`: 1,170 km
-- `paved`: 386 km
-- `unpaved`: 784 km (2011)
+- `總計`: 1,170 km
+- `已鋪砌`: 386 km
+- `未鋪砌`: 784 km (2011)
 
 ### 商船
-- `total`: 614 (2023)
-- `by type`: bulk carrier 24, container ship 109, general cargo 425, oil tanker 6, other 50
+- `總計`: 614 (2023)
+- `依類型`: bulk carrier 24, container ship 109, general cargo 425, oil tanker 6, other 50
 
 ### 港口
-- `total ports`: 1 (2024)
-- `large`: 0
-- `medium`: 1
-- `small`: 0
-- `very small`: 0
-- `ports with oil terminals`: 1
-- `key ports`: St. John's
+- `總港口數`: 1 (2024)
+- `大`: 0
+- `中`: 1
+- `小`: 0
+- `非常小`: 0
+- `原油碼頭港口`: 1
+- `主要港口`: St. John's
 
 ## 軍事和安全
 

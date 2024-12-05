@@ -19,22 +19,22 @@ Oceania, islands in the South Pacific Ocean, east of Australia
 Oceania
 
 ### 面積
-- `total `: 18,575 sq km
-- `land`: 18,275 sq km
-- `water`: 300 sq km
+- `總計`: 18,575 sq km
+- `土地`: 18,275 sq km
+- `水`: 300 sq km
 
 ### 面積—比較
 slightly smaller than New Jersey
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 2,254 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive economic zone`: 200 nm
+- `領海`: 12 nm
+- `專屬經濟區`: 200 nm
 
 ### 氣候
 tropical; modified by southeast trade winds; hot, humid
@@ -43,19 +43,19 @@ tropical; modified by southeast trade winds; hot, humid
 coastal plains with interior mountains
 
 ### 海拔
-- `highest point`: Mont Panie 1,628 m
-- `lowest point`: Pacific Ocean 0 m
+- `最高點`: Mont Panie 1,628 m
+- `最低點`: Pacific Ocean 0 m
 
 ### 自然資源
 nickel, chrome, iron, cobalt, manganese, silver, gold, lead, copper
 
 ### 土地利用
-- `agricultural land`: 10.4% (2018 est.)
-- `agricultural land: arable land`: arable land: 0.4% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.2% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 9.8% (2018 est.)
-- `forest`: 45.9% (2018 est.)
-- `other`: 43.7% (2018 est.)
+- `農地`: 10.4% (2018 est.)
+- `農地：耕地`: arable land: 0.4% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.2% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 9.8% (2018 est.)
+- `森林`: 45.9% (2018 est.)
+- `其它`: 43.7% (2018 est.)
 
 ### 灌溉土地
 100 sq km (2012)
@@ -72,39 +72,39 @@ consists of the main island of New Caledonia (one of the largest in the Pacific 
 ## 人民和社會
 
 ### 人口
-- `total`: 304,167
-- `male`: 151,389
-- `female`: 152,778 (2024 est.)
+- `總計`: 304,167
+- `男性`: 151,389
+- `女性`: 152,778 (2024 est.)
 
 ### 國籍
-- `noun`: New Caledonian(s)
-- `adjective`: New Caledonian
+- `名詞`: New Caledonian(s)
+- `形容詞`: New Caledonian
 
 ### 族裔群體
 Kanak 39.1%, European 27.1%, Wallisian, Futunian 8.2%, Tahitian 2.1%, Indonesian 1.4%, Ni-Vanuatu 1%, Vietnamese 0.9%, other 17.7%, unspecified 2.5% (2014 est.)
 
 ### 語文
 French (official), 33 Melanesian-Polynesian dialects
-- `major-language sample(s)`: The World Factbook, une source indispensable d'informations de base. (French)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: The World Factbook, une source indispensable d'informations de base. (French)  The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Christian 85.2%, Muslim 2.8%, other 1.6%, unaffiliated 10.4% (2020 est.)
 
 ### 年齡結構
-- `0-14 years`: 20.7% (male 32,238/female 30,858)
-- `15-64 years`: 68.4% (male 104,825/female 103,349)
-- `65 years and over`: 10.8% (2024 est.) (male 14,326/female 18,571)
+- `0-14歲`: 20.7% (male 32,238/female 30,858)
+- `15-64歲`: 68.4% (male 104,825/female 103,349)
+- `65歲及以上`: 10.8% (2024 est.) (male 14,326/female 18,571)
 
 ### 撫養比率
-- `total dependency ratio`: 49.6
-- `youth dependency ratio`: 33.6
-- `elderly dependency ratio`: 16
-- `potential support ratio`: 6.3 (2021 est.)
+- `總受扶養人比率`: 49.6
+- `少年撫養比率`: 33.6
+- `老人撫養比率`: 16
+- `潛在支持率`: 6.3 (2021 est.)
 
 ### 年齡中位數
-- `total`: 34.3 years (2024 est.)
-- `male`: 33.5 years
-- `female`: 35.1 years
+- `總計`: 34.3 years (2024 est.)
+- `男性`: 33.5 years
+- `女性`: 35.1 years
 
 ### 人口成長率
 1.14% (2024 est.)
@@ -122,28 +122,28 @@ Christian 85.2%, Muslim 2.8%, other 1.6%, unaffiliated 10.4% (2020 est.)
 most of the populace lives in the southern part of the main island, in and around the capital of Noumea
 
 ### 都市化
-- `urban population`: 72.7% of total population (2023)
-- `rate of urbanization`: 1.72% annual rate of change (2020-25 est.)
+- `城市人口`: 72.7% of total population (2023)
+- `城鎮化率`: 1.72% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 198,000 NOUMEA (capital) (2018)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.04 male(s)/female
-- `15-64 years`: 1.01 male(s)/female
-- `65 years and over`: 0.77 male(s)/female
-- `total population`: 0.99 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.04 male(s)/female
+- `15-64歲`: 1.01 male(s)/female
+- `65歲及以上`: 0.77 male(s)/female
+- `總人口數`: 0.99 male(s)/female (2024 est.)
 
 ### 嬰兒死亡率
-- `total`: 4.8 deaths/1,000 live births (2024 est.)
-- `male`: 5.8 deaths/1,000 live births
-- `female`: 3.9 deaths/1,000 live births
+- `總計`: 4.8 deaths/1,000 live births (2024 est.)
+- `男性`: 5.8 deaths/1,000 live births
+- `女性`: 3.9 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 79.3 years (2024 est.)
-- `male`: 75.4 years
-- `female`: 83.3 years
+- `總人口數`: 79.3 years (2024 est.)
+- `男性`: 75.4 years
+- `女性`: 83.3 years
 
 ### 總生育率
 1.83 children born/woman (2024 est.)
@@ -155,12 +155,12 @@ most of the populace lives in the southern part of the main island, in and aroun
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: NA
-- `improved: rural`: rural: NA
-- `improved: total`: total: 99.3% of population
-- `unimproved: urban`: urban: NA
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: 0.7% of population (2020 est.)
+- `已改進－城市`: urban: NA
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: 99.3% of population
+- `未改進：都市`: urban: NA
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: 0.7% of population (2020 est.)
 
 ### 當前醫療支出
 NA
@@ -169,12 +169,12 @@ NA
 NA
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: NA
-- `improved: rural`: rural: NA
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: NA
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: NA
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: NA
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 5歲以下體重不足兒童
 NA
@@ -186,10 +186,10 @@ NA
 NA
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 96.9%
-- `male`: 97.3%
-- `female`: 96.5% (2015)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 96.9%
+- `男性`: 97.3%
+- `女性`: 96.5% (2015)
 
 ## 環境
 
@@ -200,31 +200,31 @@ preservation of coral reefs; prevention of invasive species; limiting erosion ca
 tropical; modified by southeast trade winds; hot, humid
 
 ### 土地利用
-- `agricultural land`: 10.4% (2018 est.)
-- `agricultural land: arable land`: arable land: 0.4% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.2% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 9.8% (2018 est.)
-- `forest`: 45.9% (2018 est.)
-- `other`: 43.7% (2018 est.)
+- `農地`: 10.4% (2018 est.)
+- `農地：耕地`: arable land: 0.4% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.2% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 9.8% (2018 est.)
+- `森林`: 45.9% (2018 est.)
+- `其它`: 43.7% (2018 est.)
 
 ### 都市化
-- `urban population`: 72.7% of total population (2023)
-- `rate of urbanization`: 1.72% annual rate of change (2020-25 est.)
+- `城市人口`: 72.7% of total population (2023)
+- `城鎮化率`: 1.72% annual rate of change (2020-25 est.)
 
 ### 空氣污染物
-- `carbon dioxide emissions`: 5.33 megatons (2016 est.)
+- `二氧化碳排放量`: 5.33 megatons (2016 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 108,157 tons (2016 est.)
+- `城市固體廢棄物－每年產生`: 108,157 tons (2016 est.)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Territory of New Caledonia and Dependencies
-- `conventional short form`: New Caledonia
-- `local long form`: Territoire des Nouvelle-Calédonie et dépendances
-- `local short form`: Nouvelle-Calédonie
-- `etymology`: British explorer Captain James COOK discovered and named New Caledonia in 1774; he used the appellation because the northeast of the island reminded him of Scotland (Caledonia is the Latin designation for Scotland)
+- `常用長名`: Territory of New Caledonia and Dependencies
+- `常用短名`: New Caledonia
+- `當地語長名`: Territoire des Nouvelle-Calédonie et dépendances
+- `當地語短名`: Nouvelle-Calédonie
+- `语源学`: British explorer Captain James COOK discovered and named New Caledonia in 1774; he used the appellation because the northeast of the island reminded him of Scotland (Caledonia is the Latin designation for Scotland)
 
 ### 政府類型
 parliamentary democracy (Territorial Congress); an overseas collectivity of France
@@ -233,10 +233,10 @@ parliamentary democracy (Territorial Congress); an overseas collectivity of Fran
 special collectivity (or a sui generis collectivity) of France since 1998; note - independence referenda took place on 4 November 2018, 4 October 2020, and 12 December 2021 with a majority voting in each case to reject independence in favor of maintaining the status quo; an 18-month transition period is now in place (ending 30 June 2023), during which a referendum on the new status of New Caledonia within France will take place 
 
 ### 首都
-- `name`: Noumea
-- `geographic coordinates`: 22 16 S, 166 27 E
-- `time difference`: UTC+11 (16 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: established in 1854 as Port-de-France, the settlement was renamed Noumea in 1866, in order to avoid any confusion with Fort-de-France in Martinique; the New Caledonian language of Ndrumbea (also spelled Ndumbea, Dubea, and Drubea) spoken in the area gave its name to the capital city, Noumea, as well as to the neighboring town (suburb) of Dumbea
+- `名稱`: Noumea
+- `地理坐標`: 22 16 S, 166 27 E
+- `時差`: UTC+11 (16 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: established in 1854 as Port-de-France, the settlement was renamed Noumea in 1866, in order to avoid any confusion with Fort-de-France in Martinique; the New Caledonian language of Ndrumbea (also spelled Ndumbea, Dubea, and Drubea) spoken in the area gave its name to the capital city, Noumea, as well as to the neighboring town (suburb) of Dumbea
 
 ### 行政區劃
 3 provinces; Province Iles (Islands Province), Province Nord (North Province), and Province Sud (South Province)
@@ -251,8 +251,8 @@ Fête de la Fédération, 14 July (1790); note - the local holiday is New Caledo
 civil law system based on French civil law
 
 ### 憲法
-- `history`: 4 October 1958 (French Constitution with changes as reflected in the Noumea Accord of 5 May 1998)
-- `amendments`: French constitution amendment procedures apply
+- `歷史`: 4 October 1958 (French Constitution with changes as reflected in the Noumea Accord of 5 May 1998)
+- `修正`: French constitution amendment procedures apply
 
 ### 公民身份
 see France
@@ -261,22 +261,22 @@ see France
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Emmanuel MACRON (since 14 May 2017); represented by High Commissioner Louise LEFRANC (since 6 February 2023)
-- `head of government`: President of the Government Louis MAPOU (since 22 July 2021)
-- `cabinet`: Cabinet elected from and by the Territorial Congress
-- `elections/appointments`: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; president of New Caledonia elected by Territorial Congress for a 5-year term (no term limits); election last held on 8 July 2021 (next to be held in 2026)
-- `election results`: *2021:* Louis MAPOU (PALIKA) elected president by Territorial Congress with 6 of 11 votes  *2019: *Thierry SANTA (The Republicans) elected president by Territorial Congress with 6 of 11 votes
+- `國家元首`: President Emmanuel MACRON (since 14 May 2017); represented by High Commissioner Louise LEFRANC (since 6 February 2023)
+- `政府首腦`: President of the Government Louis MAPOU (since 22 July 2021)
+- `内閣`: Cabinet elected from and by the Territorial Congress
+- `選舉/任命`: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; president of New Caledonia elected by Territorial Congress for a 5-year term (no term limits); election last held on 8 July 2021 (next to be held in 2026)
+- `選舉結果`: *2021:* Louis MAPOU (PALIKA) elected president by Territorial Congress with 6 of 11 votes  *2019: *Thierry SANTA (The Republicans) elected president by Territorial Congress with 6 of 11 votes
 
 ### 立法部門
-- `description`: unicameral Territorial Congress or Congrès du Territoire (54 seats; members indirectly selected proportionally by the partisan makeup of the 3 Provincial Assemblies or Assemblés Provinciales; members of the 3 Provincial Assemblies directly elected by party-list proportional representation vote; members serve 5-year terms)
-- `elections`: Territorial Congress - last held on 12 May 2019 (next to be held by 15 December 2024)French Senate - election last held on 24 September 2023 (next to be held on 30 September 2026)French National Assembly - election last held on 12 and 19 June 2022 (next to be held by June 2027)
-- `election results`: Territorial Congress - percent of vote by party - NA; seats by party - Future With Confidence 18, UNI 9, UC 9, CE 7, FLNKS 6, Oceanic Awakening 3, PT 1, LKS 1 (Anti-Independence 28, Pro-Independence 26)  French Senate - percent of vote by party - NA; seats by party - UMP 2  French National Assembly - percent of vote by party - NA; seats by party - CE 2
+- `描述`: unicameral Territorial Congress or Congrès du Territoire (54 seats; members indirectly selected proportionally by the partisan makeup of the 3 Provincial Assemblies or Assemblés Provinciales; members of the 3 Provincial Assemblies directly elected by party-list proportional representation vote; members serve 5-year terms)
+- `選舉`: Territorial Congress - last held on 12 May 2019 (next to be held by 15 December 2024)French Senate - election last held on 24 September 2023 (next to be held on 30 September 2026)French National Assembly - election last held on 12 and 19 June 2022 (next to be held by June 2027)
+- `選舉結果`: Territorial Congress - percent of vote by party - NA; seats by party - Future With Confidence 18, UNI 9, UC 9, CE 7, FLNKS 6, Oceanic Awakening 3, PT 1, LKS 1 (Anti-Independence 28, Pro-Independence 26)  French Senate - percent of vote by party - NA; seats by party - UMP 2  French National Assembly - percent of vote by party - NA; seats by party - CE 2
 **note 1**:  the Customary Senate is the assembly of the various traditional councils of the Kanaks, the indigenous population; it rules on laws affecting Kanaks **note 2**:  New Caledonia indirectly elects 2 members to the French Senate and directly elects 2 members to the French National Assembly (see France entry for electoral details)
 
 ### 司法部門
-- `highest court(s)`: Court of Appeal in Noumea or Cour d'Appel; organized into civil, commercial, social, and pre-trial investigation chambers; court bench normally includes the court president and 2 counselors); Administrative Court (number of judges NA); note - final appeals beyond the Court of Appeal are referred to the Court of Cassation or Cour de Cassation (in Paris); final appeals beyond the Administrative Court are referred to the Administrative Court of Appeal (in Paris)
-- `judge selection and term of office`: judge appointment and tenure based on France's judicial system
-- `subordinate courts`: Courts of First Instance include: civil, juvenile, commercial, labor, police, criminal, assizes, and also a pre-trial investigation chamber; Joint Commerce Tribunal; administrative courts
+- `最高法院`: Court of Appeal in Noumea or Cour d'Appel; organized into civil, commercial, social, and pre-trial investigation chambers; court bench normally includes the court president and 2 counselors); Administrative Court (number of judges NA); note - final appeals beyond the Court of Appeal are referred to the Court of Cassation or Cour de Cassation (in Paris); final appeals beyond the Administrative Court are referred to the Administrative Court of Appeal (in Paris)
+- `法官遴選和任期`: judge appointment and tenure based on France's judicial system
+- `下級法院`: Courts of First Instance include: civil, juvenile, commercial, labor, police, criminal, assizes, and also a pre-trial investigation chamber; Joint Commerce Tribunal; administrative courts
 
 ### 政黨
 Caledonia Together or CE Caledonian Union or UC Future With Confidence or AEC Kanak Socialist Front for National Liberation or FLNKS (alliance includes PALIKA, UNI, UC, and UPM) Labor Party or PT National Union for Independence or UNI Oceanian Awakening Party of Kanak Liberation or PALIKA Socialist Kanak Liberation or LKS The Republicans (formerly The Rally or UMP) 
@@ -288,7 +288,7 @@ ITUC (NGOs), PIF, SPC, UPU, WFTU (NGOs), WMO
 none (overseas territory of France)
 
 ### 駐該國的美國外交代表
-- `embassy`: none (overseas territory of France)
+- `大使館`: none (overseas territory of France)
 
 ### 旗幟說明
 New Caledonia has two official flags; alongside the flag of France, the Kanak (indigenous Melanesian) flag has equal status; the latter consists of three equal horizontal bands of blue (top), red, and green; a large yellow disk - diameter two-thirds the height of the flag - shifted slightly to the hoist side is edged in black and displays a black fleche faitiere symbol, a native rooftop adornment
@@ -297,8 +297,8 @@ New Caledonia has two official flags; alongside the flag of France, the Kanak (i
 fleche faitiere (native rooftop adornment), kagu bird; national colors: gray, red
 
 ### 國歌
-- `name`: "Soyons unis, devenons freres" (Let Us Be United, Let Us Become Brothers)
-- `lyrics/music`: Chorale Melodia (a local choir)
+- `名稱`: "Soyons unis, devenons freres" (Let Us Be United, Let Us Become Brothers)
+- `歌詞／音樂`: Chorale Melodia (a local choir)
 **note**:  adopted 2008; contains a mixture of lyrics in both French and Nengone (an indigenous language); as a self-governing territory of France, in addition to the local anthem, "La Marseillaise" is official (see France)
 
 ### 國家級遺產
@@ -338,18 +338,18 @@ $9.623 billion (2022 est.)
 **note**: annual % change based on consumer prices
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 1.8% (2019 est.)
-- `industry`: 22.3% (2019 est.)
-- `services`: 65.2% (2019 est.)
+- `農業`: 1.8% (2019 est.)
+- `產業`: 22.3% (2019 est.)
+- `服務`: 65.2% (2019 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 65.6% (2017 est.)
-- `government consumption`: 23.5% (2017 est.)
-- `investment in fixed capital`: 27.9% (2017 est.)
-- `investment in inventories`: -0.1% (2017 est.)
-- `exports of goods and services`: 21% (2017 est.)
-- `imports of goods and services`: -37.9% (2017 est.)
+- `家庭消費`: 65.6% (2017 est.)
+- `政府消費`: 23.5% (2017 est.)
+- `固定資本投資`: 27.9% (2017 est.)
+- `存貨投資`: -0.1% (2017 est.)
+- `商品和服務出口`: 21% (2017 est.)
+- `商品和服務進口`: -37.9% (2017 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -374,9 +374,9 @@ nickel mining and smelting
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 32.6% (2023 est.)
-- `male`: 29.8% (2023 est.)
-- `female`: 35.7% (2023 est.)
+- `總計`: 32.6% (2023 est.)
+- `男性`: 29.8% (2023 est.)
+- `女性`: 35.7% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 匯款
@@ -386,8 +386,8 @@ nickel mining and smelting
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $1.995 billion (2015 est.)
-- `expenditures`: $1.993 billion (2015 est.)
+- `收入`: $1.995 billion (2015 est.)
+- `支出`: $1.993 billion (2015 est.)
 
 ### 公共債務
 6.5% of GDP (2015 est.)
@@ -440,46 +440,46 @@ refined petroleum, coal, cars, packaged medicine, trucks (2022)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 1.069 million kW (2022 est.)
-- `consumption`: 2.666 billion kWh (2022 est.)
-- `transmission/distribution losses`: 66.3 million kWh (2022 est.)
+- `裝機容量`: 1.069 million kW (2022 est.)
+- `消費`: 2.666 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 66.3 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 83.4% of total installed capacity (2022 est.)
-- `solar`: 6.5% of total installed capacity (2022 est.)
-- `wind`: 2% of total installed capacity (2022 est.)
-- `hydroelectricity`: 8.1% of total installed capacity (2022 est.)
+- `石化燃料`: 83.4% of total installed capacity (2022 est.)
+- `太陽能`: 6.5% of total installed capacity (2022 est.)
+- `風能`: 2% of total installed capacity (2022 est.)
+- `水力發電`: 8.1% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `consumption`: 1.039 million metric tons (2022 est.)
-- `imports`: 1.039 million metric tons (2022 est.)
-- `proven reserves`: 2 million metric tons (2022 est.)
+- `消費`: 1.039 million metric tons (2022 est.)
+- `進口`: 1.039 million metric tons (2022 est.)
+- `探明儲量`: 2 million metric tons (2022 est.)
 
 ### 石油
-- `refined petroleum consumption`: 16,000 bbl/day (2022 est.)
+- `成品油消費量`: 16,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 4.806 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 2.366 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 2.44 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 4.806 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 2.366 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 2.44 million metric tonnes of CO2 (2022 est.)
 
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 46,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 16 (2021 est.)
+- `總訂閱數`: 46,000 (2021 est.)
+- `每100名居民訂閱數`: 16 (2021 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 260,000 (2021 est.)
-- `subscriptions per 100 inhabitants`: 90 (2021 est.)
+- `總訂閱數`: 260,000 (2021 est.)
+- `每100名居民訂閱數`: 90 (2021 est.)
 
 ### 電信系統
-- `general assessment`: New Caledonia’s telecom sector provides fixed and mobile voice services, mobile internet, fixed broadband access, and wholesale services for other ISPs; the territory is well serviced by extensive 3G and LTE networks, and is considered to have one of the highest smartphone adoption rates in the Pacific region; by 2025, smart phone penetration is expected to reach 71%; while DSL is still the dominant fixed broadband technology, and a nationwide FttP network; the South Pacific region has become a hub for submarine cable system developments in recent years, with further networks scheduled to come online later in 2021 and into 2022; these new cables are expected to increase competition in the region with regards to international capacity; in 2020, the government owned telco commissioned Alcatel Submarine Networks (ASN) to build the Gondwana-2 cable system to provide additional network capacity and complement the Gondwana-1 cable (2022)
-- `domestic`: fixed-line is 16 per 100 and mobile-cellular telephone subscribership 90 per 100 persons (2021)
-- `international`: country code - 687; landing points for the Gondwana-1 and Picot-1 providing connectivity via submarine cables around New Caledonia and to Australia; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)
+- `總體評估`: New Caledonia’s telecom sector provides fixed and mobile voice services, mobile internet, fixed broadband access, and wholesale services for other ISPs; the territory is well serviced by extensive 3G and LTE networks, and is considered to have one of the highest smartphone adoption rates in the Pacific region; by 2025, smart phone penetration is expected to reach 71%; while DSL is still the dominant fixed broadband technology, and a nationwide FttP network; the South Pacific region has become a hub for submarine cable system developments in recent years, with further networks scheduled to come online later in 2021 and into 2022; these new cables are expected to increase competition in the region with regards to international capacity; in 2020, the government owned telco commissioned Alcatel Submarine Networks (ASN) to build the Gondwana-2 cable system to provide additional network capacity and complement the Gondwana-1 cable (2022)
+- `國內`: fixed-line is 16 per 100 and mobile-cellular telephone subscribership 90 per 100 persons (2021)
+- `國際的`: country code - 687; landing points for the Gondwana-1 and Picot-1 providing connectivity via submarine cables around New Caledonia and to Australia; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)
 
 ### 廣播媒體
 the publicly owned French Overseas Network (RFO), which operates in France's overseas departments and territories, broadcasts over the RFO Nouvelle-Calédonie TV and radio stations; a small number of privately owned radio stations also broadcast
@@ -488,18 +488,18 @@ the publicly owned French Overseas Network (RFO), which operates in France's ove
 .nc
 
 ### 網際網路使用者
-- `total`: 237,800 (2021 est.)
-- `percent of population`: 82% (2021 est.)
+- `總計`: 237,800 (2021 est.)
+- `佔人口比例`: 82% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 55,000 (2020 est.)
-- `subscriptions per 100 inhabitants`: 19 (2020 est.)
+- `總計`: 55,000 (2020 est.)
+- `每100名居民訂閱數`: 19 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 3 (2020) (registered in France)
-- `inventory of registered aircraft operated by air carriers`: 15 (registered in France)
+- `註冊航空公司數量`: 3 (2020) (registered in France)
+- `註冊飛機庫存—航空承運商經營`: 15 (registered in France)
 
 ### 機場
 21 (2024)
@@ -508,20 +508,20 @@ the publicly owned French Overseas Network (RFO), which operates in France's ove
 2 (2024)
 
 ### 道路
-- `total`: 5,622 km (2006)
+- `總計`: 5,622 km (2006)
 
 ### 商船
-- `total`: 23 (2023)
-- `by type`: general cargo 5, oil tanker 1, other 17
+- `總計`: 23 (2023)
+- `依類型`: general cargo 5, oil tanker 1, other 17
 
 ### 港口
-- `total ports`: 3 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 1
-- `very small`: 2
-- `ports with oil terminals`: 1
-- `key ports`: Baie de Kouaoua, Baie Ugue, Noumea
+- `總港口數`: 3 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 1
+- `非常小`: 2
+- `原油碼頭港口`: 1
+- `主要港口`: Baie de Kouaoua, Baie Ugue, Noumea
 
 ## 軍事和安全
 

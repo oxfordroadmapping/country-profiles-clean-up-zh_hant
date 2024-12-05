@@ -19,24 +19,24 @@ Western Africa, bordering the North Atlantic Ocean, between Ghana and Liberia
 Africa
 
 ### 面積
-- `total `: 322,463 sq km
-- `land`: 318,003 sq km
-- `water`: 4,460 sq km
+- `總計`: 322,463 sq km
+- `土地`: 318,003 sq km
+- `水`: 4,460 sq km
 
 ### 面積—比較
 slightly larger than New Mexico
 
 ### 陸地邊界
-- `total`: 3,458 km
-- `border countries`: Burkina Faso 545 km; Ghana 720 km; Guinea 816 km; Liberia 778 km; Mali 599 km
+- `總計`: 3,458 km
+- `邊境國家`: Burkina Faso 545 km; Ghana 720 km; Guinea 816 km; Liberia 778 km; Mali 599 km
 
 ### 海岸線
 515 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: 200 nm
+- `領海`: 12 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: 200 nm
 
 ### 氣候
 tropical along coast, semiarid in far north; three seasons - warm and dry (November to March), hot and dry (March to May), hot and wet (June to October)
@@ -45,26 +45,26 @@ tropical along coast, semiarid in far north; three seasons - warm and dry (Novem
 mostly flat to undulating plains; mountains in northwest
 
 ### 海拔
-- `highest point`: Monts Nimba 1,752 m
-- `lowest point`: Gulf of Guinea 0 m
-- `mean elevation`: 250 m
+- `最高點`: Monts Nimba 1,752 m
+- `最低點`: Gulf of Guinea 0 m
+- `平均海拔`: 250 m
 
 ### 自然資源
 petroleum, natural gas, diamonds, manganese, iron ore, cobalt, bauxite, copper, gold, nickel, tantalum, silica sand, clay, cocoa beans, coffee, palm oil, hydropower
 
 ### 土地利用
-- `agricultural land`: 64.8% (2018 est.)
-- `agricultural land: arable land`: arable land: 9.1% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 14.2% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 41.5% (2018 est.)
-- `forest`: 32.7% (2018 est.)
-- `other`: 2.5% (2018 est.)
+- `農地`: 64.8% (2018 est.)
+- `農地：耕地`: arable land: 9.1% (2018 est.)
+- `農地：永久性作物`: permanent crops: 14.2% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 41.5% (2018 est.)
+- `森林`: 32.7% (2018 est.)
+- `其它`: 2.5% (2018 est.)
 
 ### 灌溉土地
 730 sq km (2012)
 
 ### 主要湖泊（按面積平方公里）
-- `salt water lake(s)`: Lagune Aby - 780 sq km
+- `鹽水湖`: Lagune Aby - 780 sq km
 
 ### 主要流域（按面積平方公里）
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)
@@ -81,20 +81,20 @@ most of the inhabitants live along the sandy coastal region; apart from the capi
 ## 人民和社會
 
 ### 人口
-- `total`: 29,981,758
-- `male`: 15,040,032
-- `female`: 14,941,726 (2024 est.)
+- `總計`: 29,981,758
+- `男性`: 15,040,032
+- `女性`: 14,941,726 (2024 est.)
 
 ### 國籍
-- `noun`: Ivoirian(s)
-- `adjective`: Ivoirian
+- `名詞`: Ivoirian(s)
+- `形容詞`: Ivoirian
 
 ### 族裔群體
 Akan 38%, Voltaique or Gur 22%, Northern Mande 22%, Kru 9.1%, Southern Mande 8.6%, other 0.3% (2021 est.)
 
 ### 語文
 French (official), 60 native dialects of which Dioula is the most widely spoken
-- `major-language sample(s)`: The World Factbook, une source indispensable d'informations de base. (French)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: The World Factbook, une source indispensable d'informations de base. (French)  The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Muslim 42.9%, Catholic 17.2%, Evangelical 11.8%, Methodist 1.7%, other Christian 3.2%, animist 3.6%, other religion 0.5%, none 19.1% (2014 est.)
@@ -104,20 +104,20 @@ Muslim 42.9%, Catholic 17.2%, Evangelical 11.8%, Methodist 1.7%, other Christian
 Cote d’Ivoire’s population is likely to continue growing for the foreseeable future because almost 60% of the populace is younger than 25 as of 2020, the total fertility rate is holding steady at about 3.5 children per woman, and contraceptive use is under 30%. The country will need to improve education, health care, and gender equality in order to turn its large and growing youth cohort into human capital. Even prior to 2010 unrest that shuttered schools for months, access to education was poor, especially for women. The lack of educational attainment contributes to Cote d’Ivoire’s high rates of unskilled labor, adolescent pregnancy, and HIV/AIDS prevalence. Following its independence in 1960, Cote d’Ivoire’s stability and the blossoming of its labor-intensive cocoa and coffee industries in the southwest made it an attractive destination for migrants from other parts of the country and its neighbors, particularly Burkina Faso. The HOUPHOUET-BOIGNY administration continued the French colonial policy of encouraging labor immigration by offering liberal land ownership laws. Foreigners from West Africa, Europe (mainly France), and Lebanon composed about 25% of the population by 1998. Ongoing economic decline since the 1980s and the power struggle after HOUPHOUET-BOIGNY’s death in 1993 ushered in the politics of "Ivoirite," institutionalizing an Ivoirian identity that further marginalized northern Ivoirians and scapegoated immigrants. The hostile Muslim north-Christian south divide snowballed into a 2002 civil war, pushing tens of thousands of foreign migrants, Liberian refugees, and Ivoirians to flee to war-torn Liberia or other regional countries and more than a million people to be internally displaced. Subsequently, violence following the contested 2010 presidential election prompted some 250,000 people to seek refuge in Liberia and other neighboring countries and again internally displaced as many as a million people. By July 2012, the majority had returned home, but ongoing inter-communal tension and armed conflict continue to force people from their homes.
 
 ### 年齡結構
-- `0-14 years`: 36.1% (male 5,437,108/female 5,390,782)
-- `15-64 years`: 60.9% (male 9,200,957/female 9,060,748)
-- `65 years and over`: 3% (2024 est.) (male 401,967/female 490,196)
+- `0-14歲`: 36.1% (male 5,437,108/female 5,390,782)
+- `15-64歲`: 60.9% (male 9,200,957/female 9,060,748)
+- `65歲及以上`: 3% (2024 est.) (male 401,967/female 490,196)
 
 ### 撫養比率
-- `total dependency ratio`: 79.2
-- `youth dependency ratio`: 74.9
-- `elderly dependency ratio`: 4.3
-- `potential support ratio`: 19.3 (2021 est.)
+- `總受扶養人比率`: 79.2
+- `少年撫養比率`: 74.9
+- `老人撫養比率`: 4.3
+- `潛在支持率`: 19.3 (2021 est.)
 
 ### 年齡中位數
-- `total`: 21.2 years (2024 est.)
-- `male`: 21.2 years
-- `female`: 21.2 years
+- `總計`: 21.2 years (2024 est.)
+- `男性`: 21.2 years
+- `女性`: 21.2 years
 
 ### 人口成長率
 2.13% (2024 est.)
@@ -135,18 +135,18 @@ Cote d’Ivoire’s population is likely to continue growing for the foreseeable
 the population is primarily located in the forested south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the northern savanna remains sparsely populated with higher concentrations located along transportation corridors as shown in this population distribution map
 
 ### 都市化
-- `urban population`: 53.1% of total population (2023)
-- `rate of urbanization`: 3.38% annual rate of change (2020-25 est.)
+- `城市人口`: 53.1% of total population (2023)
+- `城鎮化率`: 3.38% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 231,000 YAMOUSSOUKRO (capital) (2018), 5.686 million ABIDJAN (seat of government) (2023)
 
 ### 性別比例
-- `at birth`: 1.03 male(s)/female
-- `0-14 years`: 1.01 male(s)/female
-- `15-64 years`: 1.02 male(s)/female
-- `65 years and over`: 0.82 male(s)/female
-- `total population`: 1.01 male(s)/female (2024 est.)
+- `出生時`: 1.03 male(s)/female
+- `0-14歲`: 1.01 male(s)/female
+- `15-64歲`: 1.02 male(s)/female
+- `65歲及以上`: 0.82 male(s)/female
+- `總人口數`: 1.01 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 19.6 years (2011/12 est.)
@@ -156,14 +156,14 @@ the population is primarily located in the forested south, with the highest conc
 480 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 52.5 deaths/1,000 live births (2024 est.)
-- `male`: 59.5 deaths/1,000 live births
-- `female`: 45.2 deaths/1,000 live births
+- `總計`: 52.5 deaths/1,000 live births (2024 est.)
+- `男性`: 59.5 deaths/1,000 live births
+- `女性`: 45.2 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 63.2 years (2024 est.)
-- `male`: 60.9 years
-- `female`: 65.4 years
+- `總人口數`: 63.2 years (2024 est.)
+- `男性`: 60.9 years
+- `女性`: 65.4 years
 
 ### 總生育率
 3.4 children born/woman (2024 est.)
@@ -175,12 +175,12 @@ the population is primarily located in the forested south, with the highest conc
 27.8% (2020)
 
 ### 飲用水來源
-- `improved: urban`: urban: 89.9% of population
-- `improved: rural`: rural: 69.1% of population
-- `improved: total`: total: 79.8% of population
-- `unimproved: urban`: urban: 10.1% of population
-- `unimproved: rural`: rural: 30.9% of population
-- `unimproved: total`: total: 20.2% of population (2020 est.)
+- `已改進－城市`: urban: 89.9% of population
+- `已改進－農村`: rural: 69.1% of population
+- `已改進－總計`: total: 79.8% of population
+- `未改進：都市`: urban: 10.1% of population
+- `未改進：鄉村`: rural: 30.9% of population
+- `未改善：總計`: total: 20.2% of population (2020 est.)
 
 ### 當前醫療支出
 3.3% of GDP (2020)
@@ -189,36 +189,36 @@ the population is primarily located in the forested south, with the highest conc
 0.16 physicians/1,000 population (2019)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 77.8% of population
-- `improved: rural`: rural: 35% of population
-- `improved: total`: total: 57.1% of population
-- `unimproved: urban`: urban: 22.2% of population
-- `unimproved: rural`: rural: 65% of population
-- `unimproved: total`: total: 42.9% of population (2020 est.)
+- `已改進－城市`: urban: 77.8% of population
+- `已改進－農村`: rural: 35% of population
+- `已改進－總計`: total: 57.1% of population
+- `未改進：都市`: urban: 22.2% of population
+- `未改進：鄉村`: rural: 65% of population
+- `未改善：總計`: total: 42.9% of population (2020 est.)
 
 ### 主要傳染病
-- `degree of risk`: very high (2023)
-- `food or waterborne diseases`: bacterial diarrhea, hepatitis A, and typhoid fever
-- `vectorborne diseases`: malaria, dengue fever, and sexually transmitted diseases: hepatitis B (2024)
-- `water contact diseases`: schistosomiasis
-- `animal contact diseases`: rabies
-- `respiratory diseases`: meningococcal meningitis
+- `風險程度`: very high (2023)
+- `食物或水源性疾病`: bacterial diarrhea, hepatitis A, and typhoid fever
+- `媒介傳播疾病`: malaria, dengue fever, and sexually transmitted diseases: hepatitis B (2024)
+- `水媒傳染病`: schistosomiasis
+- `動物傳染病`: rabies
+- `呼吸道疾病`: meningococcal meningitis
 **note**:  on 31 August 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Côte d'Ivoire is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
 
 ### 肥胖—成人流行率
 10.3% (2016)
 
 ### 人均酒精消費量
-- `total`: 1.7 liters of pure alcohol (2019 est.)
-- `beer`: 1.13 liters of pure alcohol (2019 est.)
-- `wine`: 0.33 liters of pure alcohol (2019 est.)
-- `spirits`: 0.2 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.04 liters of pure alcohol (2019 est.)
+- `總計`: 1.7 liters of pure alcohol (2019 est.)
+- `啤酒`: 1.13 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.33 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.2 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.04 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 9.4% (2020 est.)
-- `male`: 17.9% (2020 est.)
-- `female`: 0.9% (2020 est.)
+- `總計`: 9.4% (2020 est.)
+- `男性`: 17.9% (2020 est.)
+- `女性`: 0.9% (2020 est.)
 
 ### 5歲以下體重不足兒童
 12.8% (2016)
@@ -227,23 +227,23 @@ the population is primarily located in the forested south, with the highest conc
 60.3% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 7%
-- `women married by age 18`: 27%
-- `men married by age 18`: 3.5% (2016 est.)
+- `15歲前結婚的女性`: 7%
+- `18歲前結婚的女性`: 27%
+- `18歲前結婚的男性`: 3.5% (2016 est.)
 
 ### 教育支出
 3.4% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 89.9%
-- `male`: 93.1%
-- `female`: 86.7% (2019)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 89.9%
+- `男性`: 93.1%
+- `女性`: 86.7% (2019)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 11 years
-- `male`: 11 years
-- `female`: 10 years (2020)
+- `總計`: 11 years
+- `男性`: 11 years
+- `女性`: 10 years (2020)
 
 ## 環境
 
@@ -251,23 +251,23 @@ the population is primarily located in the forested south, with the highest conc
 deforestation (most of the country's forests - once the largest in West Africa - have been heavily logged); water pollution from sewage, and from industrial, mining, and agricultural effluents
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 tropical along coast, semiarid in far north; three seasons - warm and dry (November to March), hot and dry (March to May), hot and wet (June to October)
 
 ### 土地利用
-- `agricultural land`: 64.8% (2018 est.)
-- `agricultural land: arable land`: arable land: 9.1% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 14.2% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 41.5% (2018 est.)
-- `forest`: 32.7% (2018 est.)
-- `other`: 2.5% (2018 est.)
+- `農地`: 64.8% (2018 est.)
+- `農地：耕地`: arable land: 9.1% (2018 est.)
+- `農地：永久性作物`: permanent crops: 14.2% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 41.5% (2018 est.)
+- `森林`: 32.7% (2018 est.)
+- `其它`: 2.5% (2018 est.)
 
 ### 都市化
-- `urban population`: 53.1% of total population (2023)
-- `rate of urbanization`: 3.38% annual rate of change (2020-25 est.)
+- `城市人口`: 53.1% of total population (2023)
+- `城鎮化率`: 3.38% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 2.04% of GDP (2016 est.)
@@ -276,25 +276,25 @@ tropical along coast, semiarid in far north; three seasons - warm and dry (Novem
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 40.41 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 9.67 megatons (2016 est.)
-- `methane emissions`: 10.3 megatons (2020 est.)
+- `顆粒物排放量`: 40.41 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 9.67 megatons (2016 est.)
+- `甲烷排放量`: 10.3 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 4,440,814 tons (2010 est.)
-- `municipal solid waste recycled annually`: 133,224 tons (2005 est.)
-- `percent of municipal solid waste recycled`: 3% (2005 est.)
+- `城市固體廢棄物－每年產生`: 4,440,814 tons (2010 est.)
+- `城市固體廢棄物－每年回收`: 133,224 tons (2005 est.)
+- `城市固體廢棄物－回收百分比`: 3% (2005 est.)
 
 ### 主要湖泊（按面積平方公里）
-- `salt water lake(s)`: Lagune Aby - 780 sq km
+- `鹽水湖`: Lagune Aby - 780 sq km
 
 ### 主要流域（按面積平方公里）
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)
 
 ### 總取水量
-- `municipal`: 320 million cubic meters (2020 est.)
-- `industrial`: 240 million cubic meters (2020 est.)
-- `agricultural`: 600 million cubic meters (2020 est.)
+- `市級`: 320 million cubic meters (2020 est.)
+- `工業`: 240 million cubic meters (2020 est.)
+- `農業`: 600 million cubic meters (2020 est.)
 
 ### 可再生水資源總量
 84.14 billion cubic meters (2020 est.)
@@ -302,22 +302,22 @@ Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Côte d'Ivoire
-- `conventional short form`: Côte d'Ivoire
-- `local long form`: République de Côte d'Ivoire
-- `local short form`: Cote d'Ivoire
-- `former`: Ivory Coast
-- `etymology`: name reflects the intense ivory trade that took place in the region from the 15th to 17th centuries
+- `常用長名`: Republic of Côte d'Ivoire
+- `常用短名`: Côte d'Ivoire
+- `當地語長名`: République de Côte d'Ivoire
+- `當地語短名`: Cote d'Ivoire
+- `前任`: Ivory Coast
+- `语源学`: name reflects the intense ivory trade that took place in the region from the 15th to 17th centuries
 **note**:  pronounced coat-div-whar
 
 ### 政府類型
 presidential republic
 
 ### 首都
-- `name`: Yamoussoukro (legislative capital), Abidjan (administrative capital); note - although Yamoussoukro has been the official capital since 1983, Abidjan remains the administrative capital as well as the officially designated economic capital; the US, like other countries, maintains its Embassy in Abidjan
-- `geographic coordinates`: 6 49 N, 5 16 W
-- `time difference`: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: Yamoussoukro is named after Queen YAMOUSSOU, who ruled in the village of N'Gokro in 1929 at the time of French colonization; the village was renamed Yamoussoukro, the suffix "-kro" meaning "town" in the native Baoule language; Abidjan's name supposedly comes from a misunderstanding; tradition states that an old man carrying branches met a European explorer who asked for the name of the nearest village; the man, not understanding and terrified by this unexpected encounter, fled shouting "min-chan m’bidjan," which in the Ebrie language means: "I return from cutting leaves"; the explorer, thinking that his question had been answered, recorded the name of the locale as Abidjan; a different version has the first colonists asking native women the name of the place and getting a similar response
+- `名稱`: Yamoussoukro (legislative capital), Abidjan (administrative capital); note - although Yamoussoukro has been the official capital since 1983, Abidjan remains the administrative capital as well as the officially designated economic capital; the US, like other countries, maintains its Embassy in Abidjan
+- `地理坐標`: 6 49 N, 5 16 W
+- `時差`: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: Yamoussoukro is named after Queen YAMOUSSOU, who ruled in the village of N'Gokro in 1929 at the time of French colonization; the village was renamed Yamoussoukro, the suffix "-kro" meaning "town" in the native Baoule language; Abidjan's name supposedly comes from a misunderstanding; tradition states that an old man carrying branches met a European explorer who asked for the name of the nearest village; the man, not understanding and terrified by this unexpected encounter, fled shouting "min-chan m’bidjan," which in the Ebrie language means: "I return from cutting leaves"; the explorer, thinking that his question had been answered, recorded the name of the locale as Abidjan; a different version has the first colonists asking native women the name of the place and getting a similar response
 
 ### 行政區劃
 12 districts and 2 autonomous districts*; Abidjan*, Bas-Sassandra, Comoe, Denguele, Goh-Djiboua, Lacs, Lagunes, Montagnes, Sassandra-Marahoue, Savanes, Vallee du Bandama, Woroba, Yamoussoukro*, Zanzan
@@ -332,37 +332,37 @@ Independence Day, 7 August (1960)
 civil law system based on the French civil code; judicial review of legislation held in the Constitutional Chamber of the Supreme Court
 
 ### 憲法
-- `history`: previous 1960, 2000; latest draft completed 24 September 2016, approved by the National Assembly 11 October 2016, approved by referendum 30 October 2016, promulgated 8 November 2016
-- `amendments`: proposed by the president of the republic or by Parliament; consideration of drafts or proposals requires an absolute majority vote by the parliamentary membership; passage of amendments affecting presidential elections, presidential term of office and vacancies, and amendment procedures requires approval by absolute majority in a referendum; passage of other proposals by the president requires at least four-fifths majority vote by Parliament; constitutional articles on the sovereignty of the state and its republican and secular form of government cannot be amended; amended 2020
+- `歷史`: previous 1960, 2000; latest draft completed 24 September 2016, approved by the National Assembly 11 October 2016, approved by referendum 30 October 2016, promulgated 8 November 2016
+- `修正`: proposed by the president of the republic or by Parliament; consideration of drafts or proposals requires an absolute majority vote by the parliamentary membership; passage of amendments affecting presidential elections, presidential term of office and vacancies, and amendment procedures requires approval by absolute majority in a referendum; passage of other proposals by the president requires at least four-fifths majority vote by Parliament; constitutional articles on the sovereignty of the state and its republican and secular form of government cannot be amended; amended 2020
 
 ### 國際法組織參與
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Cote d'Ivoire
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 5 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Cote d'Ivoire
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 5 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Alassane Dramane OUATTARA (since 4 December 2010)
-- `head of government`: Prime Minister Robert BREUGRE MAMBE (since 17 October 2023)
-- `cabinet`: Council of Ministers appointed by the president
-- `elections/appointments`: president directly elected by absolute majority popular vote in 2 rounds if needed for a single renewable 5-year term; election last held on 31 October 2020 (next to be held in 2025); vice president elected on same ballot as president; prime minister appointed by the president; note – because President OUATTARA promulgated the new constitution in 2016, he has claimed that the clock is reset on term limits, allowing him to run for up to two additional terms
-- `election results`: *2020: *Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 94.3%, Kouadio Konan BERTIN (PDCI-RDA) 2.0%, other 3.7%  *2015: *Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 83.7%, Pascal Affi N'GUESSAN (FPI) 9.3%, Konan Bertin KOUADIO (independent) 3.9%, other 3.1%
+- `國家元首`: President Alassane Dramane OUATTARA (since 4 December 2010)
+- `政府首腦`: Prime Minister Robert BREUGRE MAMBE (since 17 October 2023)
+- `内閣`: Council of Ministers appointed by the president
+- `選舉/任命`: president directly elected by absolute majority popular vote in 2 rounds if needed for a single renewable 5-year term; election last held on 31 October 2020 (next to be held in 2025); vice president elected on same ballot as president; prime minister appointed by the president; note – because President OUATTARA promulgated the new constitution in 2016, he has claimed that the clock is reset on term limits, allowing him to run for up to two additional terms
+- `選舉結果`: *2020: *Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 94.3%, Kouadio Konan BERTIN (PDCI-RDA) 2.0%, other 3.7%  *2015: *Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 83.7%, Pascal Affi N'GUESSAN (FPI) 9.3%, Konan Bertin KOUADIO (independent) 3.9%, other 3.1%
 
 ### 立法部門
-- `description`: bicameral Parliament consists of:Senate or Senat (99 seats; 66 members indirectly elected by the National Assembly and members of municipal, autonomous districts, and regional councils, and 33 members appointed by the president; members serve 5-year terms)National Assembly (255 seats - 254 for 2021-2026 term; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 5-year terms)
-- `elections`: Senate - last held on 16 September 2023 (next to be held in September 2028)National Assembly - last held on 6 March 2021 (next to be held on 31 March 2026)
-- `election results`: Senate - percent by party/coalition NA; seats by party/coalition - RHDP 56, PDCI-RDA 6, independent 2, vacant 2; composition - men 73, women 24, percentage women 15.6% (2 seats vacant); note - 33 members appointed - RHDP 25, independent 8   National Assembly - percent of vote by party/coalition - RHDP 49.2%, PDCI-RRA-EDS 16.5%, DPIC 6%, TTB 2.1%, IPF 2%, other 24.2%; seats by party/coalition - RHDP, 137, PDCI-RRA-EDS 50, DPIC 23, EDS 8, TTB 8, IPF 2, independent 26, vacant 1; composition - men 220, women 34, percentage women 13.4%; note - total Parliament percentage women 16.5%    
+- `描述`: bicameral Parliament consists of:Senate or Senat (99 seats; 66 members indirectly elected by the National Assembly and members of municipal, autonomous districts, and regional councils, and 33 members appointed by the president; members serve 5-year terms)National Assembly (255 seats - 254 for 2021-2026 term; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 5-year terms)
+- `選舉`: Senate - last held on 16 September 2023 (next to be held in September 2028)National Assembly - last held on 6 March 2021 (next to be held on 31 March 2026)
+- `選舉結果`: Senate - percent by party/coalition NA; seats by party/coalition - RHDP 56, PDCI-RDA 6, independent 2, vacant 2; composition - men 73, women 24, percentage women 15.6% (2 seats vacant); note - 33 members appointed - RHDP 25, independent 8   National Assembly - percent of vote by party/coalition - RHDP 49.2%, PDCI-RRA-EDS 16.5%, DPIC 6%, TTB 2.1%, IPF 2%, other 24.2%; seats by party/coalition - RHDP, 137, PDCI-RRA-EDS 50, DPIC 23, EDS 8, TTB 8, IPF 2, independent 26, vacant 1; composition - men 220, women 34, percentage women 13.4%; note - total Parliament percentage women 16.5%    
 
 ### 司法部門
-- `highest court(s)`: Supreme Court or Cour Supreme (organized into Judicial, Audit, Constitutional, and Administrative Chambers; consists of the court president, 3 vice presidents for the Judicial, Audit, and Administrative chambers, and 9 associate justices or magistrates)
-- `judge selection and term of office`: judges nominated by the Superior Council of the Magistrature, a 7-member body consisting of the national president (chairman), 3 "bench" judges, and 3 public prosecutors; judges appointed for life
-- `subordinate courts`: Courts of Appeal (organized into civil, criminal, and social chambers); first instance courts; peace courts
+- `最高法院`: Supreme Court or Cour Supreme (organized into Judicial, Audit, Constitutional, and Administrative Chambers; consists of the court president, 3 vice presidents for the Judicial, Audit, and Administrative chambers, and 9 associate justices or magistrates)
+- `法官遴選和任期`: judges nominated by the Superior Council of the Magistrature, a 7-member body consisting of the national president (chairman), 3 "bench" judges, and 3 public prosecutors; judges appointed for life
+- `下級法院`: Courts of Appeal (organized into civil, criminal, and social chambers); first instance courts; peace courts
 
 ### 政黨
 African Peoples' Party-Cote d'Ivoire or PPA-CI Democratic Party of Cote d'Ivoire or PDCI Ivorian Popular Front or FPI Liberty and Democracy for the Republic or LIDER Movement of the Future Forces or MFA Pan-African Congress for People's Justice and Equality or COJEP Rally of Houphouetists for Democracy and Peace or RHDP Rally of the Republicans or RDRTogether for Democracy and Sovereignty or EDS Together to Build (UDPCI, FPI,and allies) Union for Cote d'Ivoire or UPCI Union for Democracy and Peace in Cote d'Ivoire or UDPCI
@@ -371,19 +371,19 @@ African Peoples' Party-Cote d'Ivoire or PPA-CI Democratic Party of Cote d'Ivoir
 ACP, AfDB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMISS, Union Latina, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Ibrahima TOURE (since 13 January 2022)
-- `chancery`: 2424 Massachusetts Avenue NW, Washington, DC 20008
-- `telephone`: [1] (202) 797-0300
+- `外交代表負責人`: Ambassador Ibrahima TOURE (since 13 January 2022)
+- `衡平法院（在美國）`: 2424 Massachusetts Avenue NW, Washington, DC 20008
+- `電話號碼`: [1] (202) 797-0300
 - `FAX`: [1] (202) 204-3967
-- `email address and website`: info@ambacidc.org  Ambassade de Cote D’ivoire aux USA (ambaciusa.org)
+- `電子郵件地址和網站`: info@ambacidc.org  Ambassade de Cote D’ivoire aux USA (ambaciusa.org)
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Jessica Davis BA (since 2 March 2023)
-- `embassy`: B.P. 730 Abidjan Cidex 03
-- `mailing address`: 2010 Abidjan Place, Washington DC  20521-2010
-- `telephone`: [225] 27-22-49-40-00
+- `外交代表負責人`: Ambassador Jessica Davis BA (since 2 March 2023)
+- `大使館`: B.P. 730 Abidjan Cidex 03
+- `郵寄地址`: 2010 Abidjan Place, Washington DC  20521-2010
+- `電話號碼`: [225] 27-22-49-40-00
 - `FAX`: [225] 27-22-49-43-23
-- `email address and website`: AbjAmCit@state.gov  https://ci.usembassy.gov/
+- `電子郵件地址和網站`: AbjAmCit@state.gov  https://ci.usembassy.gov/
 
 ### 旗幟說明
 three equal vertical bands of orange (hoist side), white, and green; orange symbolizes the land (savannah) of the north and fertility, white stands for peace and unity, green represents the forests of the south and the hope for a bright future
@@ -393,8 +393,8 @@ three equal vertical bands of orange (hoist side), white, and green; orange symb
 elephant; national colors: orange, white, green
 
 ### 國歌
-- `name`: "L'Abidjanaise" (Song of Abidjan)
-- `lyrics/music`: Mathieu EKRA, Joachim BONY, and Pierre Marie COTY/Pierre Marie COTY and Pierre Michel PANGO
+- `名稱`: "L'Abidjanaise" (Song of Abidjan)
+- `歌詞／音樂`: Mathieu EKRA, Joachim BONY, and Pierre Marie COTY/Pierre Marie COTY and Pierre Michel PANGO
 **note**:  adopted 1960; although the nation's capital city moved from Abidjan to Yamoussoukro in 1983, the anthem still owes its name to the former capital
 
 ### 國家級遺產
@@ -440,18 +440,18 @@ $78.789 billion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 14.4% (2023 est.)
-- `industry`: 24.5% (2023 est.)
-- `services`: 54.3% (2023 est.)
+- `農業`: 14.4% (2023 est.)
+- `產業`: 24.5% (2023 est.)
+- `服務`: 54.3% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 67.7% (2023 est.)
-- `government consumption`: 10.3% (2023 est.)
-- `investment in fixed capital`: 25.5% (2023 est.)
-- `investment in inventories`: 0.3% (2023 est.)
-- `exports of goods and services`: 22.9% (2023 est.)
-- `imports of goods and services`: -26.6% (2023 est.)
+- `家庭消費`: 67.7% (2023 est.)
+- `政府消費`: 10.3% (2023 est.)
+- `固定資本投資`: 25.5% (2023 est.)
+- `存貨投資`: 0.3% (2023 est.)
+- `商品和服務出口`: 22.9% (2023 est.)
+- `商品和服務進口`: -26.6% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -476,9 +476,9 @@ foodstuffs, beverages; wood products, oil refining, gold mining, truck and bus a
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 4% (2023 est.)
-- `male`: 3.3% (2023 est.)
-- `female`: 4.9% (2023 est.)
+- `總計`: 4% (2023 est.)
+- `男性`: 3.3% (2023 est.)
+- `女性`: 4.9% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -490,12 +490,12 @@ foodstuffs, beverages; wood products, oil refining, gold mining, truck and bus a
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 平均家庭支出
-- `on food`: 38.2% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 3.2% of household expenditures (2022 est.)
+- `餐食`: 38.2% of household expenditures (2022 est.)
+- `酒精和煙草`: 3.2% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 3.1% (2021 est.)
-- `highest 10%`: 27.8% (2021 est.)
+- `最低10%`: 3.1% (2021 est.)
+- `最高10%`: 27.8% (2021 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -505,8 +505,8 @@ foodstuffs, beverages; wood products, oil refining, gold mining, truck and bus a
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $9.755 billion (2022 est.)
-- `expenditures`: $13.255 billion (2022 est.)
+- `收入`: $9.755 billion (2022 est.)
+- `支出`: $13.255 billion (2022 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -569,41 +569,41 @@ $23.623 billion (2022 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 70.4% (2022 est.)
-- `electrification - urban areas`: 95%
-- `electrification - rural areas`: 45.3%
+- `電氣化－總人口`: 70.4% (2022 est.)
+- `電氣化－城市地區`: 95%
+- `電氣化－農村地區`: 45.3%
 
 ### 電力
-- `installed generating capacity`: 2.282 million kW (2022 est.)
-- `consumption`: 8.744 billion kWh (2022 est.)
-- `exports`: 901.596 million kWh (2022 est.)
-- `imports`: 297 million kWh (2022 est.)
-- `transmission/distribution losses`: 1.778 billion kWh (2022 est.)
+- `裝機容量`: 2.282 million kW (2022 est.)
+- `消費`: 8.744 billion kWh (2022 est.)
+- `出口`: 901.596 million kWh (2022 est.)
+- `進口`: 297 million kWh (2022 est.)
+- `傳輸／分配損耗`: 1.778 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 68.9% of total installed capacity (2022 est.)
-- `solar`: 0.2% of total installed capacity (2022 est.)
-- `hydroelectricity`: 30.1% of total installed capacity (2022 est.)
-- `biomass and waste`: 0.7% of total installed capacity (2022 est.)
+- `石化燃料`: 68.9% of total installed capacity (2022 est.)
+- `太陽能`: 0.2% of total installed capacity (2022 est.)
+- `水力發電`: 30.1% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 0.7% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `imports`: 500 metric tons (2022 est.)
+- `進口`: 500 metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 29,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 60,000 bbl/day (2022 est.)
-- `crude oil estimated reserves`: 100 million barrels (2021 est.)
+- `總石油產量`: 29,000 bbl/day (2023 est.)
+- `成品油消費量`: 60,000 bbl/day (2022 est.)
+- `原油儲備量估值`: 100 million barrels (2021 est.)
 
 ### 天然氣
-- `production`: 2.635 billion cubic meters (2022 est.)
-- `consumption`: 2.635 billion cubic meters (2022 est.)
-- `proven reserves`: 28.317 billion cubic meters (2021 est.)
+- `生產`: 2.635 billion cubic meters (2022 est.)
+- `消費`: 2.635 billion cubic meters (2022 est.)
+- `探明儲量`: 28.317 billion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 12.733 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 1,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 7.79 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 4.942 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 12.733 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 1,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 7.79 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 4.942 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 7.733 million Btu/person (2022 est.)
@@ -611,17 +611,17 @@ $23.623 billion (2022 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 263,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: (2022 est.) less than 1
+- `總訂閱數`: 263,000 (2022 est.)
+- `每100名居民訂閱數`: (2022 est.) less than 1
 
 ### 電話—移動電話
-- `total subscriptions`: 49.006 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 174 (2022 est.)
+- `總訂閱數`: 49.006 million (2022 est.)
+- `每100名居民訂閱數`: 174 (2022 est.)
 
 ### 電信系統
-- `general assessment`: in recent years the government of Ivory Coast has helped develop a competitive telecom sector focused on the provision of converged services, thus allowing operators to offer fixed-line and mobile services under a universal services license regime; the fixed internet and broadband sectors remain underdeveloped; this is a legacy of poor international connectivity, which resulted in high wholesale prices, limited bandwidth, and a lack of access for alternative operators to international infrastructure; these limitations were addressed following the landing of a second cable in November 2011; Orange Group has also launched its 20,000km Djoliba cable system, reaching across eight countries in the region, while the 2Africa submarine cable is being developed by a consortium of companies; with a landing station providing connectivity to Côte d'Ivoire, the system is expected to be completed in late 2023 (2022)
-- `domestic`: 1 per 100 fixed-line teledensity; mobile subscriptions are 162 per 100 persons (2021)
-- `international`: country code - 225; landing point for the SAT-3/WASC, ACE, MainOne, and WACS fiber-optic submarine cable that provides connectivity to Europe and South and West Africa; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean) (2019)
+- `總體評估`: in recent years the government of Ivory Coast has helped develop a competitive telecom sector focused on the provision of converged services, thus allowing operators to offer fixed-line and mobile services under a universal services license regime; the fixed internet and broadband sectors remain underdeveloped; this is a legacy of poor international connectivity, which resulted in high wholesale prices, limited bandwidth, and a lack of access for alternative operators to international infrastructure; these limitations were addressed following the landing of a second cable in November 2011; Orange Group has also launched its 20,000km Djoliba cable system, reaching across eight countries in the region, while the 2Africa submarine cable is being developed by a consortium of companies; with a landing station providing connectivity to Côte d'Ivoire, the system is expected to be completed in late 2023 (2022)
+- `國內`: 1 per 100 fixed-line teledensity; mobile subscriptions are 162 per 100 persons (2021)
+- `國際的`: country code - 225; landing point for the SAT-3/WASC, ACE, MainOne, and WACS fiber-optic submarine cable that provides connectivity to Europe and South and West Africa; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean) (2019)
 
 ### 廣播媒體
 state-controlled Radiodiffusion Television Ivoirieinne (RTI) is made up of 2 radio stations (Radio Cote d'Ivoire and Frequence2) and 2 television stations (RTI1 and RTI2), with nationwide coverage, broadcasts mainly in French; after 2011 post-electoral crisis, President OUATTARA's administration reopened RTI Bouake', the broadcaster's office in Cote d'Ivoire's 2nd largest city, where facilities were destroyed during the 2002 rebellion; Cote d'Ivoire is also home to 178 proximity radio stations, 16 religious radio stations, 5 commercial radio stations, and 5 international radios stations, according to the Haute Autorite' de la Communication Audiovisuelle (HACA); govt now runs radio UNOCIFM, a radio station previously owned by the UN Operation in Cote d'Ivoire; in Dec 2016, the govt announced 4 companies had been granted licenses to operate -Live TV, Optimum Media Cote d'Ivoire, the Audiovisual Company of Cote d'Ivoire (Sedaci), and Sorano-CI, out of the 4 companies only one has started operating (2019)
@@ -630,20 +630,20 @@ state-controlled Radiodiffusion Television Ivoirieinne (RTI) is made up of 2 rad
 .ci
 
 ### 網際網路使用者
-- `total`: 12.15 million (2021 est.)
-- `percent of population`: 45% (2021 est.)
+- `總計`: 12.15 million (2021 est.)
+- `佔人口比例`: 45% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 260,097 (2020 est.)
-- `subscriptions per 100 inhabitants`: 1 (2020 est.)
+- `總計`: 260,097 (2020 est.)
+- `每100名居民訂閱數`: 1 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 1 (2020)
-- `inventory of registered aircraft operated by air carriers`: 10
-- `annual passenger traffic on registered air carriers`: 779,482 (2018)
-- `annual freight traffic on registered air carriers`: 5.8 million (2018) mt-km
+- `註冊航空公司數量`: 1 (2020)
+- `註冊飛機庫存—航空承運商經營`: 10
+- `年度客運量－註冊航空公司`: 779,482 (2018)
+- `年度貨運量－註冊航空公司`: 5.8 million (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 TU
@@ -658,31 +658,31 @@ TU
 101 km condensate, 256 km gas, 118 km oil, 5 km oil/gas/water, 7 km water (2013)
 
 ### 鐵路
-- `total`: 660 km (2008)
-- `narrow gauge`: 660 km (2008) 1.000-m gauge
+- `總計`: 660 km (2008)
+- `窄軌`: 660 km (2008) 1.000-m gauge
 **note**:  an additional 622 km of this railroad extends into Burkina Faso
 
 ### 道路
-- `total`: 81,996 km
-- `paved`: 6,502 km
-- `unpaved`: 75,494 km (2007)
+- `總計`: 81,996 km
+- `已鋪砌`: 6,502 km
+- `未鋪砌`: 75,494 km (2007)
 **note**:  includes intercity and urban roads; another 20,000 km of dirt roads are in poor condition and 150,000 km of dirt roads are impassable
 
 ### 水道
 980 km (2011) (navigable rivers, canals, and numerous coastal lagoons)
 
 ### 商船
-- `total`: 25 (2023)
-- `by type`: oil tanker 2, other 23
+- `總計`: 25 (2023)
+- `依類型`: oil tanker 2, other 23
 
 ### 港口
-- `total ports`: 5 (2024)
-- `large`: 1
-- `medium`: 0
-- `small`: 0
-- `very small`: 4
-- `ports with oil terminals`: 5
-- `key ports`: Abidjan, Baobab Marine Terminal, Espoir Marine Terminal, Port Bouet, San Pedro
+- `總港口數`: 5 (2024)
+- `大`: 1
+- `中`: 0
+- `小`: 0
+- `非常小`: 4
+- `原油碼頭港口`: 5
+- `主要港口`: Abidjan, Baobab Marine Terminal, Espoir Marine Terminal, Port Bouet, San Pedro
 
 ## 軍事和安全
 
@@ -731,7 +731,7 @@ al-Qa'ida in the Islamic Maghreb (AQIM); Jama’at Nusrat al Islam wal Muslimeen
 
 ### 難民和境內流離失所者
 - `IDPs`: 302,000 (post-election conflict in 2010-11, as well as civil war from 2002-04; land disputes; most pronounced in western and southwestern regions) (2022)
-- `stateless persons`: 930,578 (2022); note - many Ivoirians lack documentation proving their nationality, which prevent them from accessing education and healthcare; birth on Ivorian soil does not automatically result in citizenship; disputes over citizenship and the associated rights of the large population descended from migrants from neighboring countries is an ongoing source of tension and contributed to the country's 2002 civil war; some observers believe the government's mass naturalizations of thousands of people over the last couple of years is intended to boost its electoral support base; the government in October 2013 acceded to international conventions on statelessness and in August 2013 reformed its nationality law, key steps to clarify the nationality of thousands of residents; since the adoption of the Abidjan Declaration to eradicate statelessness in West Africa in February 2015, 6,400 people have received nationality papers in Cote d'Ivoire; in September 2020, Cote d'Ivoire adopted Africa's first statelessness determination procedure to regularize the status of stateless people
+- `無國籍人士`: 930,578 (2022); note - many Ivoirians lack documentation proving their nationality, which prevent them from accessing education and healthcare; birth on Ivorian soil does not automatically result in citizenship; disputes over citizenship and the associated rights of the large population descended from migrants from neighboring countries is an ongoing source of tension and contributed to the country's 2002 civil war; some observers believe the government's mass naturalizations of thousands of people over the last couple of years is intended to boost its electoral support base; the government in October 2013 acceded to international conventions on statelessness and in August 2013 reformed its nationality law, key steps to clarify the nationality of thousands of residents; since the adoption of the Abidjan Declaration to eradicate statelessness in West Africa in February 2015, 6,400 people have received nationality papers in Cote d'Ivoire; in September 2020, Cote d'Ivoire adopted Africa's first statelessness determination procedure to regularize the status of stateless people
 
 ### 非法藥物
 illicit producer of cannabis, mostly for local consumption; utility as a narcotic transshipment point to Europe reduced by ongoing political instability; while rampant corruption and inadequate supervision leave the banking system vulnerable to money laundering, the lack of a developed financial system limits the country's utility as a major money-laundering center

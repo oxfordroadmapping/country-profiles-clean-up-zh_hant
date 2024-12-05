@@ -19,24 +19,24 @@ Central Europe, bordering the Baltic Sea and the North Sea, between the Netherla
 Europe
 
 ### 面積
-- `total `: 357,022 sq km
-- `land`: 348,672 sq km
-- `water`: 8,350 sq km
+- `總計`: 357,022 sq km
+- `土地`: 348,672 sq km
+- `水`: 8,350 sq km
 
 ### 面積—比較
 three times the size of Pennsylvania; slightly smaller than Montana
 
 ### 陸地邊界
-- `total`: 3,694 km
-- `border countries`: Austria 801 km; Belgium 133 km; Czechia 704 km; Denmark 140 km; France 418 km; Luxembourg 128 km; Netherlands 575 km; Poland 447 km; Switzerland 348 km
+- `總計`: 3,694 km
+- `邊境國家`: Austria 801 km; Belgium 133 km; Czechia 704 km; Denmark 140 km; France 418 km; Luxembourg 128 km; Netherlands 575 km; Poland 447 km; Switzerland 348 km
 
 ### 海岸線
 2,389 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive economic zone`: 200 nm
-- `continental shelf`: 200-m depth or to the depth of exploitation
+- `領海`: 12 nm
+- `專屬經濟區`: 200 nm
+- `大陸架`: 200-m depth or to the depth of exploitation
 
 ### 氣候
 temperate and marine; cool, cloudy, wet winters and summers; occasional warm mountain (foehn) wind
@@ -45,27 +45,27 @@ temperate and marine; cool, cloudy, wet winters and summers; occasional warm mou
 lowlands in north, uplands in center, Bavarian Alps in south
 
 ### 海拔
-- `highest point`: Zugspitze 2,963 m
-- `lowest point`: Neuendorf bei Wilster -3.5 m
-- `mean elevation`: 263 m
+- `最高點`: Zugspitze 2,963 m
+- `最低點`: Neuendorf bei Wilster -3.5 m
+- `平均海拔`: 263 m
 
 ### 自然資源
 coal, lignite, natural gas, iron ore, copper, nickel, uranium, potash, salt, construction materials, timber, arable land
 
 ### 土地利用
-- `agricultural land`: 48% (2018 est.)
-- `agricultural land: arable land`: arable land: 34.1% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.6% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 13.3% (2018 est.)
-- `forest`: 31.8% (2018 est.)
-- `other`: 20.2% (2018 est.)
+- `農地`: 48% (2018 est.)
+- `農地：耕地`: arable land: 34.1% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.6% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 13.3% (2018 est.)
+- `森林`: 31.8% (2018 est.)
+- `其它`: 20.2% (2018 est.)
 
 ### 灌溉土地
 5,056 sq km (2020)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lake Constance (shared with Switzerland and Austria) - 540 sq km
-- `salt water lake(s)`: Stettiner Haff/Zalew Szczecinski (shared with Poland) - 900 sq km
+- `淡水湖`: Lake Constance (shared with Switzerland and Austria) - 540 sq km
+- `鹽水湖`: Stettiner Haff/Zalew Szczecinski (shared with Poland) - 900 sq km
 
 ### 主要河流（按公里長度）
 Donau (Danube) river source (shared with Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river mouth (shared with Czechia [s]) - 1,252 km; Rhein (Rhine) (shared with Switzerland [s], France, and Netherlands [m]) - 1,233 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -85,13 +85,13 @@ strategic location on North European Plain and along the entrance to the Baltic 
 ## 人民和社會
 
 ### 人口
-- `total`: 84,119,100
-- `male`: 41,572,702
-- `female`: 42,546,398 (2024 est.)
+- `總計`: 84,119,100
+- `男性`: 41,572,702
+- `女性`: 42,546,398 (2024 est.)
 
 ### 國籍
-- `noun`: German(s)
-- `adjective`: German
+- `名詞`: German(s)
+- `形容詞`: German
 
 ### 族裔群體
 German 85.4%, Turkish 1.8%, Ukrainian 1.4%, Syrian 1.1%, Romanian 1%, Poland 1%, other/stateless/unspecified 8.3% (2022 est.)
@@ -99,26 +99,26 @@ German 85.4%, Turkish 1.8%, Ukrainian 1.4%, Syrian 1.1%, Romanian 1%, Poland 1%,
 
 ### 語文
 German (official); note - Danish, Frisian, Sorbian, and Romani are official minority languages; Low German, Danish, North Frisian, Sater Frisian, Lower Sorbian, Upper Sorbian, and Romani are recognized as regional languages
-- `major-language sample(s)`: Das World Factbook, die unverzichtbare Quelle für grundlegende Informationen. (German)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: Das World Factbook, die unverzichtbare Quelle für grundlegende Informationen. (German)  The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Roman Catholic 24.8%, Protestant 22.6%, Muslim 3.7%, other 5.1%, none 43.8% (2022 est.)
 
 ### 年齡結構
-- `0-14 years`: 13.8% (male 5,925,800/female 5,688,603)
-- `15-64 years`: 62.5% (male 26,705,657/female 25,875,865)
-- `65 years and over`: 23.7% (2024 est.) (male 8,941,245/female 10,981,930)
+- `0-14歲`: 13.8% (male 5,925,800/female 5,688,603)
+- `15-64歲`: 62.5% (male 26,705,657/female 25,875,865)
+- `65歲及以上`: 23.7% (2024 est.) (male 8,941,245/female 10,981,930)
 
 ### 撫養比率
-- `total dependency ratio`: 56.4
-- `youth dependency ratio`: 21.7
-- `elderly dependency ratio`: 34.7
-- `potential support ratio`: 2.9 (2021 est.)
+- `總受扶養人比率`: 56.4
+- `少年撫養比率`: 21.7
+- `老人撫養比率`: 34.7
+- `潛在支持率`: 2.9 (2021 est.)
 
 ### 年齡中位數
-- `total`: 46.8 years (2024 est.)
-- `male`: 45.5 years
-- `female`: 48.3 years
+- `總計`: 46.8 years (2024 est.)
+- `男性`: 45.5 years
+- `女性`: 48.3 years
 
 ### 人口成長率
 -0.12% (2024 est.)
@@ -136,18 +136,18 @@ Roman Catholic 24.8%, Protestant 22.6%, Muslim 3.7%, other 5.1%, none 43.8% (202
 second most populous country in Europe; a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations, particularly in the far western part of the industrial state of North Rhine-Westphalia
 
 ### 都市化
-- `urban population`: 77.8% of total population (2023)
-- `rate of urbanization`: 0.13% annual rate of change (2020-25 est.)
+- `城市人口`: 77.8% of total population (2023)
+- `城鎮化率`: 0.13% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 3.574 million BERLIN (capital), 1.788 million Hamburg, 1.576 million Munich, 1.144 million Cologne, 796,000 Frankfurt (2023)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.04 male(s)/female
-- `15-64 years`: 1.03 male(s)/female
-- `65 years and over`: 0.81 male(s)/female
-- `total population`: 0.98 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.04 male(s)/female
+- `15-64歲`: 1.03 male(s)/female
+- `65歲及以上`: 0.81 male(s)/female
+- `總人口數`: 0.98 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 29.9 years (2020 est.)
@@ -156,14 +156,14 @@ second most populous country in Europe; a fairly even distribution throughout mo
 4 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 3.1 deaths/1,000 live births (2024 est.)
-- `male`: 3.5 deaths/1,000 live births
-- `female`: 2.7 deaths/1,000 live births
+- `總計`: 3.1 deaths/1,000 live births (2024 est.)
+- `男性`: 3.5 deaths/1,000 live births
+- `女性`: 2.7 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 81.9 years (2024 est.)
-- `male`: 79.6 years
-- `female`: 84.4 years
+- `總人口數`: 81.9 years (2024 est.)
+- `男性`: 79.6 years
+- `女性`: 84.4 years
 
 ### 總生育率
 1.58 children born/woman (2024 est.)
@@ -176,12 +176,12 @@ second most populous country in Europe; a fairly even distribution throughout mo
 **note**:  percent of women aged 18-49
 
 ### 飲用水來源
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 當前醫療支出
 12.8% of GDP (2020)
@@ -193,27 +193,27 @@ second most populous country in Europe; a fairly even distribution throughout mo
 8 beds/1,000 population (2017)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 肥胖—成人流行率
 22.3% (2016)
 
 ### 人均酒精消費量
-- `total`: 10.56 liters of pure alcohol (2019 est.)
-- `beer`: 5.57 liters of pure alcohol (2019 est.)
-- `wine`: 3.02 liters of pure alcohol (2019 est.)
-- `spirits`: 1.97 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 10.56 liters of pure alcohol (2019 est.)
+- `啤酒`: 5.57 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 3.02 liters of pure alcohol (2019 est.)
+- `烈酒`: 1.97 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 22% (2020 est.)
-- `male`: 24.1% (2020 est.)
-- `female`: 19.9% (2020 est.)
+- `總計`: 22% (2020 est.)
+- `男性`: 24.1% (2020 est.)
+- `女性`: 19.9% (2020 est.)
 
 ### 5歲以下體重不足兒童
 0.5% (2014/17)
@@ -225,14 +225,14 @@ second most populous country in Europe; a fairly even distribution throughout mo
 4.7% of GDP (2020 est.)
 
 ### 識字程度
-- `total population`: NA
-- `male`: NA
-- `female`: NA
+- `總人口數`: NA
+- `男性`: NA
+- `女性`: NA
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 17 years
-- `male`: 17 years
-- `female`: 17 years (2020)
+- `總計`: 17 years
+- `男性`: 17 years
+- `女性`: 17 years (2020)
 
 ## 環境
 
@@ -240,23 +240,23 @@ second most populous country in Europe; a fairly even distribution throughout mo
 emissions from coal-burning utilities and industries contribute to air pollution; acid rain, resulting from sulfur dioxide emissions, is damaging forests; pollution in the Baltic Sea from raw sewage and industrial effluents from rivers in eastern Germany; hazardous waste disposal; government established a mechanism for ending the use of nuclear power by 2022; government working to meet EU commitment to identify nature preservation areas in line with the EU's Flora, Fauna, and Habitat directive
 
 ### 環境—國際協定
-- `party to`: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 temperate and marine; cool, cloudy, wet winters and summers; occasional warm mountain (foehn) wind
 
 ### 土地利用
-- `agricultural land`: 48% (2018 est.)
-- `agricultural land: arable land`: arable land: 34.1% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.6% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 13.3% (2018 est.)
-- `forest`: 31.8% (2018 est.)
-- `other`: 20.2% (2018 est.)
+- `農地`: 48% (2018 est.)
+- `農地：耕地`: arable land: 34.1% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.6% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 13.3% (2018 est.)
+- `森林`: 31.8% (2018 est.)
+- `其它`: 20.2% (2018 est.)
 
 ### 都市化
-- `urban population`: 77.8% of total population (2023)
-- `rate of urbanization`: 0.13% annual rate of change (2020-25 est.)
+- `城市人口`: 77.8% of total population (2023)
+- `城鎮化率`: 0.13% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.03% of GDP (2018 est.)
@@ -265,18 +265,18 @@ temperate and marine; cool, cloudy, wet winters and summers; occasional warm mou
 0.02% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 10.73 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 727.97 megatons (2016 est.)
-- `methane emissions`: 49.92 megatons (2020 est.)
+- `顆粒物排放量`: 10.73 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 727.97 megatons (2016 est.)
+- `甲烷排放量`: 49.92 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 51.046 million tons (2015 est.)
-- `municipal solid waste recycled annually`: 24,415,302 tons (2015 est.)
-- `percent of municipal solid waste recycled`: 47.8% (2015 est.)
+- `城市固體廢棄物－每年產生`: 51.046 million tons (2015 est.)
+- `城市固體廢棄物－每年回收`: 24,415,302 tons (2015 est.)
+- `城市固體廢棄物－回收百分比`: 47.8% (2015 est.)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lake Constance (shared with Switzerland and Austria) - 540 sq km
-- `salt water lake(s)`: Stettiner Haff/Zalew Szczecinski (shared with Poland) - 900 sq km
+- `淡水湖`: Lake Constance (shared with Switzerland and Austria) - 540 sq km
+- `鹽水湖`: Stettiner Haff/Zalew Szczecinski (shared with Poland) - 900 sq km
 
 ### 主要河流（按公里長度）
 Donau (Danube) river source (shared with Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river mouth (shared with Czechia [s]) - 1,252 km; Rhein (Rhine) (shared with Switzerland [s], France, and Netherlands [m]) - 1,233 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -285,36 +285,36 @@ Donau (Danube) river source (shared with Austria, Slovakia, Hungary, Croatia, Se
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), *(Black Sea)* Danube (795,656 sq km)
 
 ### 總取水量
-- `municipal`: 10.4 billion cubic meters (2020 est.)
-- `industrial`: 17.68 billion cubic meters (2020 est.)
-- `agricultural`: 400 million cubic meters (2020 est.)
+- `市級`: 10.4 billion cubic meters (2020 est.)
+- `工業`: 17.68 billion cubic meters (2020 est.)
+- `農業`: 400 million cubic meters (2020 est.)
 
 ### 可再生水資源總量
 154 billion cubic meters (2020 est.)
 
 ### 地質公園
-- `total global geoparks and regional networks`: 8
-- `global geoparks and regional networks`: Bergstraße-Odenwald ; Harz, Braunschweiger Land; Swabian Alb; TERRA.vita; Vulkaneifel; Thuringia Inselsberg -Drei Gleichen; Muskauer Faltenbogen / Łuk Mużakowa (includes Poland); Ries (2023)
+- `全球地質公園和區域網絡總數`: 8
+- `全球地質公園和區域網絡`: Bergstraße-Odenwald ; Harz, Braunschweiger Land; Swabian Alb; TERRA.vita; Vulkaneifel; Thuringia Inselsberg -Drei Gleichen; Muskauer Faltenbogen / Łuk Mużakowa (includes Poland); Ries (2023)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Federal Republic of Germany
-- `conventional short form`: Germany
-- `local long form`: Bundesrepublik Deutschland
-- `local short form`: Deutschland
-- `former`: German Reich
-- `etymology`: the Gauls (Celts) of Western Europe may have referred to the newly arriving Germanic tribes who settled in neighboring areas east of the Rhine during the first centuries B.C. as "Germani," a term the Romans adopted as "Germania"; the native designation "Deutsch" comes from the Old High German "diutisc" meaning "of the people"
+- `常用長名`: Federal Republic of Germany
+- `常用短名`: Germany
+- `當地語長名`: Bundesrepublik Deutschland
+- `當地語短名`: Deutschland
+- `前任`: German Reich
+- `语源学`: the Gauls (Celts) of Western Europe may have referred to the newly arriving Germanic tribes who settled in neighboring areas east of the Rhine during the first centuries B.C. as "Germani," a term the Romans adopted as "Germania"; the native designation "Deutsch" comes from the Old High German "diutisc" meaning "of the people"
 
 ### 政府類型
 federal parliamentary republic
 
 ### 首都
-- `name`: Berlin
-- `geographic coordinates`: 52 31 N, 13 24 E
-- `time difference`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
-- `daylight saving time`: +1hr, begins last Sunday in March; ends last Sunday in October
-- `etymology`: the origin of the name is unclear but may be related to the old West Slavic (Polabian) word "berl" or "birl," meaning "swamp"
+- `名稱`: Berlin
+- `地理坐標`: 52 31 N, 13 24 E
+- `時差`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+- `日光節約時間`: +1hr, begins last Sunday in March; ends last Sunday in October
+- `语源学`: the origin of the name is unclear but may be related to the old West Slavic (Polabian) word "berl" or "birl," meaning "swamp"
 
 ### 行政區劃
 16 states (Laender, singular - Land); Baden-Wuerttemberg, Bayern (Bavaria), Berlin, Brandenburg, Bremen, Hamburg, Hessen (Hesse), Mecklenburg-Vorpommern (Mecklenburg-Western Pomerania), Niedersachsen (Lower Saxony), Nordrhein-Westfalen (North Rhine-Westphalia), Rheinland-Pfalz (Rhineland-Palatinate), Saarland, Sachsen (Saxony), Sachsen-Anhalt (Saxony-Anhalt), Schleswig-Holstein, Thueringen (Thuringia); note - Bayern, Sachsen, and Thueringen refer to themselves as free states (Freistaaten, singular - Freistaat), while Bremen calls itself a Free Hanseatic City (Freie Hansestadt) and Hamburg considers itself a Free and Hanseatic City (Freie und Hansestadt)
@@ -329,38 +329,38 @@ German Unity Day, 3 October (1990)
 civil law system
 
 ### 憲法
-- `history`: previous 1919 (Weimar Constitution); latest drafted 10-23 August 1948, approved 12 May 1949, promulgated 23 May 1949, entered into force 24 May 1949
-- `amendments`: proposed by Parliament; passage and enactment into law require two-thirds majority vote by both the Bundesrat (upper house) and the Bundestag (lower house) of Parliament; articles including those on basic human rights and freedoms cannot be amended; amended many times, last in 2020; note - in early 2021, the German federal government introduced a bill to incorporate children’s rights into the constitution
+- `歷史`: previous 1919 (Weimar Constitution); latest drafted 10-23 August 1948, approved 12 May 1949, promulgated 23 May 1949, entered into force 24 May 1949
+- `修正`: proposed by Parliament; passage and enactment into law require two-thirds majority vote by both the Bundesrat (upper house) and the Bundestag (lower house) of Parliament; articles including those on basic human rights and freedoms cannot be amended; amended many times, last in 2020; note - in early 2021, the German federal government introduced a bill to incorporate children’s rights into the constitution
 
 ### 國際法組織參與
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a German citizen or a resident alien who has lived in Germany at least 8 years
-- `dual citizenship recognized`: yes, but requires prior permission from government
-- `residency requirement for naturalization`: 8 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a German citizen or a resident alien who has lived in Germany at least 8 years
+- `承認雙重國籍`: yes, but requires prior permission from government
+- `入籍的居留要求`: 8 years
 
 ### 選舉權
 18 years of age; universal; age 16 for some state and municipal elections
 
 ### 行政部門
-- `chief of state`: President Frank-Walter STEINMEIER (since 19 March 2017)
-- `head of government`: Chancellor Olaf SCHOLZ (since 8 December 2021)
-- `cabinet`: Cabinet or Bundesminister (Federal Ministers) recommended by the chancellor, appointed by the president
-- `elections/appointments`: president indirectly elected by a Federal Convention consisting of all members of the Federal Parliament (Bundestag) and an equivalent number of delegates indirectly elected by the state parliaments; president serves a 5-year term (eligible for a second term); election last held on 13 February 2022 (next to be held in February 2027); following the most recent Federal Parliament election, the party or coalition with the most representatives usually elects the chancellor who is appointed by the president to serve a renewable 4-year term; Federal Parliament vote for chancellor last held on 8 December 2021 (next to be held after the Bundestag election in 2025)
-- `election results`: *2022:* Frank-Walter STEINMEIER reelected president; Federal Convention vote count - Frank-Walter STEINMEIER (SPD) 1,045, Max OTTE (CDU) 140, Gerhard TRABERT (The Left) 96, Stefanie GEBAUER (Free Voters) 58, abstentions 86  *2021*:  Olaf SCHOLZ (SPD) elected chancellor; Federal Parliament vote - 395 to 303  *2017:*  Frank-Walter STEINMEIER elected president; Federal Convention vote count - Frank-Walter STEINMEIER (SPD) 931, Christopher Butterwegge (independent) 128, abstentions 103
+- `國家元首`: President Frank-Walter STEINMEIER (since 19 March 2017)
+- `政府首腦`: Chancellor Olaf SCHOLZ (since 8 December 2021)
+- `内閣`: Cabinet or Bundesminister (Federal Ministers) recommended by the chancellor, appointed by the president
+- `選舉/任命`: president indirectly elected by a Federal Convention consisting of all members of the Federal Parliament (Bundestag) and an equivalent number of delegates indirectly elected by the state parliaments; president serves a 5-year term (eligible for a second term); election last held on 13 February 2022 (next to be held in February 2027); following the most recent Federal Parliament election, the party or coalition with the most representatives usually elects the chancellor who is appointed by the president to serve a renewable 4-year term; Federal Parliament vote for chancellor last held on 8 December 2021 (next to be held after the Bundestag election in 2025)
+- `選舉結果`: *2022:* Frank-Walter STEINMEIER reelected president; Federal Convention vote count - Frank-Walter STEINMEIER (SPD) 1,045, Max OTTE (CDU) 140, Gerhard TRABERT (The Left) 96, Stefanie GEBAUER (Free Voters) 58, abstentions 86  *2021*:  Olaf SCHOLZ (SPD) elected chancellor; Federal Parliament vote - 395 to 303  *2017:*  Frank-Walter STEINMEIER elected president; Federal Convention vote count - Frank-Walter STEINMEIER (SPD) 931, Christopher Butterwegge (independent) 128, abstentions 103
 
 ### 立法部門
-- `description`: bicameral Parliament or Parlament consists of:Federal Council or Bundesrat (69 seats statutory, 71 current; members appointed by each of the 16 state governments)Federal Diet or Bundestag (736 seats statutory, 736 for the 2021-25 term; approximately one-half of members directly elected in multi-seat constituencies by proportional representation vote and approximately one-half directly elected in single-seat constituencies by simple majority vote; members' terms depend upon the states they represent)
-- `elections`: Bundesrat - none; determined by the composition of the state-level governments; the composition of the Bundesrat has the potential to change any time one of the 16 states holds an electionBundestag - last held on 26 September 2021 (next to be held by September 2025); almost all postwar German governments have been coalitions
-- `election results`: Bundesrat - composition - men 43, women 26, percentage women 37.7%  Bundestag - percent of vote by party - SPD 28%, CDU/CSU 26.8%, Alliance '90/Greens 16%, FDP 12.5%, AfD 11%, The Left 5.3%, other .04%; seats by party - SPD 206, CDU/CSU 197, Alliance '90/Greens 118, FDP 92, AfD 81, The Left 39, other 3; composition - men 476, women 260, percentage women 34.9%; note - total Parliament percentage women 35.5%
+- `描述`: bicameral Parliament or Parlament consists of:Federal Council or Bundesrat (69 seats statutory, 71 current; members appointed by each of the 16 state governments)Federal Diet or Bundestag (736 seats statutory, 736 for the 2021-25 term; approximately one-half of members directly elected in multi-seat constituencies by proportional representation vote and approximately one-half directly elected in single-seat constituencies by simple majority vote; members' terms depend upon the states they represent)
+- `選舉`: Bundesrat - none; determined by the composition of the state-level governments; the composition of the Bundesrat has the potential to change any time one of the 16 states holds an electionBundestag - last held on 26 September 2021 (next to be held by September 2025); almost all postwar German governments have been coalitions
+- `選舉結果`: Bundesrat - composition - men 43, women 26, percentage women 37.7%  Bundestag - percent of vote by party - SPD 28%, CDU/CSU 26.8%, Alliance '90/Greens 16%, FDP 12.5%, AfD 11%, The Left 5.3%, other .04%; seats by party - SPD 206, CDU/CSU 197, Alliance '90/Greens 118, FDP 92, AfD 81, The Left 39, other 3; composition - men 476, women 260, percentage women 34.9%; note - total Parliament percentage women 35.5%
 **note**:  due to Germany's recognition of the concepts of "overhang" (when a party's share of the nationwide votes would entitle it to fewer seats than the number of individual constituency seats won in an election under Germany's mixed member proportional system) and "leveling" (whereby additional seats are elected to supplement the members directly elected by each constituency in order to ensure that each party's share of the total seats is roughly proportional to the party's overall shares of votes at the national level), the 20th Bundestag is the largest to date
 
 ### 司法部門
-- `highest court(s)`: Federal Court of Justice (court consists of 127 judges, including the court president, vice presidents, presiding judges, other judges and organized into 25 Senates subdivided into 12 civil panels, 5 criminal panels, and 8 special panels); Federal Constitutional Court or Bundesverfassungsgericht (consists of 2 Senates each subdivided into 3 chambers, each with a chairman and 8 members)
-- `judge selection and term of office`: Federal Court of Justice judges selected by the Judges Election Committee, which consists of the Secretaries of Justice from each of the 16 federated states and 16 members appointed by the Federal Parliament; judges appointed by the president; judges serve until mandatory retirement at age 65; Federal Constitutional Court judges - one-half elected by the House of Representatives and one-half by the Senate; judges appointed for 12-year terms with mandatory retirement at age 68
-- `subordinate courts`: Federal Administrative Court; Federal Finance Court; Federal Labor Court; Federal Social Court; each of the 16 federated states or Land has its own constitutional court and a hierarchy of ordinary (civil, criminal, family) and specialized (administrative, finance, labor, social) courts; two English-speaking commercial courts opened in late 2020 in the state of Baden-Wuerttemberg - English-speaking Stuttgart Commercial Court and English-speaking Mannheim Commercial Court
+- `最高法院`: Federal Court of Justice (court consists of 127 judges, including the court president, vice presidents, presiding judges, other judges and organized into 25 Senates subdivided into 12 civil panels, 5 criminal panels, and 8 special panels); Federal Constitutional Court or Bundesverfassungsgericht (consists of 2 Senates each subdivided into 3 chambers, each with a chairman and 8 members)
+- `法官遴選和任期`: Federal Court of Justice judges selected by the Judges Election Committee, which consists of the Secretaries of Justice from each of the 16 federated states and 16 members appointed by the Federal Parliament; judges appointed by the president; judges serve until mandatory retirement at age 65; Federal Constitutional Court judges - one-half elected by the House of Representatives and one-half by the Senate; judges appointed for 12-year terms with mandatory retirement at age 68
+- `下級法院`: Federal Administrative Court; Federal Finance Court; Federal Labor Court; Federal Social Court; each of the 16 federated states or Land has its own constitutional court and a hierarchy of ordinary (civil, criminal, family) and specialized (administrative, finance, labor, social) courts; two English-speaking commercial courts opened in late 2020 in the state of Baden-Wuerttemberg - English-speaking Stuttgart Commercial Court and English-speaking Mannheim Commercial Court
 
 ### 政黨
 Alliance '90/Greens Alternative for Germany or AfD Christian Democratic Union or CDU Christian Social Union or CSU Free Democratic Party or FDP Free Voters The Left or Die Linke Social Democratic Party or SPD 
@@ -369,21 +369,21 @@ Alliance '90/Greens Alternative for Germany or AfD Christian Democratic Union 
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CDB, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNMISS, UNOOSA, UNRWA, UNSOM, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Andreas MICHAELIS (since 15 September 2023)
-- `chancery`: 4645 Reservoir Road NW, Washington, DC 20007
-- `telephone`: [1] (202) 298-4000
+- `外交代表負責人`: Ambassador Andreas MICHAELIS (since 15 September 2023)
+- `衡平法院（在美國）`: 4645 Reservoir Road NW, Washington, DC 20007
+- `電話號碼`: [1] (202) 298-4000
 - `FAX`: [1] (202) 298-4261
-- `email address and website`: info@washington.diplo.de  https://www.germany.info/us-en
-- `consulate(s) general`: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco
+- `電子郵件地址和網站`: info@washington.diplo.de  https://www.germany.info/us-en
+- `總領事館`: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador (vacant); Chargé d’Affaires Alan MELTZER (since July 2024)
-- `embassy`: Pariser Platz 2, 10117 BerlinClayallee 170, 14191 Berlin (administrative services)
-- `mailing address`: 5090 Berlin Place, Washington DC  20521-5090
-- `telephone`: [49] (30) 8305-0
+- `外交代表負責人`: Ambassador (vacant); Chargé d’Affaires Alan MELTZER (since July 2024)
+- `大使館`: Pariser Platz 2, 10117 BerlinClayallee 170, 14191 Berlin (administrative services)
+- `郵寄地址`: 5090 Berlin Place, Washington DC  20521-5090
+- `電話號碼`: [49] (30) 8305-0
 - `FAX`: [49] (30) 8305-1215
-- `email address and website`: BerlinPCO@state.gov  https://de.usembassy.gov/
-- `consulate(s) general`: Dusseldorf, Frankfurt am Main, Hamburg, Leipzig, Munich
+- `電子郵件地址和網站`: BerlinPCO@state.gov  https://de.usembassy.gov/
+- `總領事館`: Dusseldorf, Frankfurt am Main, Hamburg, Leipzig, Munich
 
 ### 旗幟說明
 three equal horizontal bands of black (top), red, and gold; these colors have played an important role in German history and can be traced back to the medieval banner of the Holy Roman Emperor - a black eagle with red claws and beak on a gold field
@@ -392,8 +392,8 @@ three equal horizontal bands of black (top), red, and gold; these colors have pl
 eagle; national colors: black, red, yellow
 
 ### 國歌
-- `name`: "Das Lied der Deutschen" (Song of the Germans)
-- `lyrics/music`: August Heinrich HOFFMANN VON FALLERSLEBEN/Franz Joseph HAYDN
+- `名稱`: "Das Lied der Deutschen" (Song of the Germans)
+- `歌詞／音樂`: August Heinrich HOFFMANN VON FALLERSLEBEN/Franz Joseph HAYDN
 **note**:  adopted 1922; the anthem, also known as "Deutschlandlied" (Song of Germany), was originally adopted for its connection to the March 1848 liberal revolution; following appropriation by the Nazis of the first verse, specifically the phrase, "Deutschland, Deutschland ueber alles" (Germany, Germany above all) to promote nationalism, it was banned after 1945; in 1952, its third verse was adopted by West Germany as its national anthem; in 1990, it became the national anthem for the reunited Germany
 
 ### 國家級遺產
@@ -440,18 +440,18 @@ $4.456 trillion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained. Credit ratings prior to 1989 refer to West Germany.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 0.7% (2023 est.)
-- `industry`: 28.1% (2023 est.)
-- `services`: 62.6% (2023 est.)
+- `農業`: 0.7% (2023 est.)
+- `產業`: 28.1% (2023 est.)
+- `服務`: 62.6% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 50.7% (2023 est.)
-- `government consumption`: 21.6% (2023 est.)
-- `investment in fixed capital`: 21.9% (2023 est.)
-- `investment in inventories`: 1.6% (2023 est.)
-- `exports of goods and services`: 47.1% (2023 est.)
-- `imports of goods and services`: -43% (2023 est.)
+- `家庭消費`: 50.7% (2023 est.)
+- `政府消費`: 21.6% (2023 est.)
+- `固定資本投資`: 21.9% (2023 est.)
+- `存貨投資`: 1.6% (2023 est.)
+- `商品和服務出口`: 47.1% (2023 est.)
+- `商品和服務進口`: -43% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -476,9 +476,9 @@ iron, steel, coal, cement, chemicals, machinery, vehicles, machine tools, electr
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 6% (2023 est.)
-- `male`: 6.7% (2023 est.)
-- `female`: 5.1% (2023 est.)
+- `總計`: 6% (2023 est.)
+- `男性`: 6.7% (2023 est.)
+- `女性`: 5.1% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -490,12 +490,12 @@ iron, steel, coal, cement, chemicals, machinery, vehicles, machine tools, electr
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 平均家庭支出
-- `on food`: 11.8% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 3.5% of household expenditures (2022 est.)
+- `餐食`: 11.8% of household expenditures (2022 est.)
+- `酒精和煙草`: 3.5% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 3.1% (2019 est.)
-- `highest 10%`: 25.2% (2019 est.)
+- `最低10%`: 3.1% (2019 est.)
+- `最高10%`: 25.2% (2019 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -505,8 +505,8 @@ iron, steel, coal, cement, chemicals, machinery, vehicles, machine tools, electr
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $1.19 trillion (2022 est.)
-- `expenditures`: $1.31 trillion (2022 est.)
+- `收入`: $1.19 trillion (2022 est.)
+- `支出`: $1.31 trillion (2022 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -568,50 +568,50 @@ $295.736 billion (2021 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 261.086 million kW (2022 est.)
-- `consumption`: 507.248 billion kWh (2022 est.)
-- `exports`: 76.291 billion kWh (2022 est.)
-- `imports`: 49.269 billion kWh (2022 est.)
-- `transmission/distribution losses`: 26.49 billion kWh (2022 est.)
+- `裝機容量`: 261.086 million kW (2022 est.)
+- `消費`: 507.248 billion kWh (2022 est.)
+- `出口`: 76.291 billion kWh (2022 est.)
+- `進口`: 49.269 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 26.49 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 48.9% of total installed capacity (2022 est.)
-- `nuclear`: 5.7% of total installed capacity (2022 est.)
-- `solar`: 10.3% of total installed capacity (2022 est.)
-- `wind`: 22.1% of total installed capacity (2022 est.)
-- `hydroelectricity`: 2.5% of total installed capacity (2022 est.)
-- `biomass and waste`: 10.5% of total installed capacity (2022 est.)
+- `石化燃料`: 48.9% of total installed capacity (2022 est.)
+- `核能`: 5.7% of total installed capacity (2022 est.)
+- `太陽能`: 10.3% of total installed capacity (2022 est.)
+- `風能`: 22.1% of total installed capacity (2022 est.)
+- `水力發電`: 2.5% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 10.5% of total installed capacity (2022 est.)
 
 ### 核能
 - `Percent of total electricity production`: 1.4% (2023 est.)
 - `Number of nuclear reactors permanently shut down`: 33 (2023)
 
 ### 煤炭
-- `production`: 138.981 million metric tons (2022 est.)
-- `consumption`: 186.725 million metric tons (2022 est.)
-- `exports`: 2.248 million metric tons (2022 est.)
-- `imports`: 44.851 million metric tons (2022 est.)
-- `proven reserves`: 35.9 billion metric tons (2022 est.)
+- `生產`: 138.981 million metric tons (2022 est.)
+- `消費`: 186.725 million metric tons (2022 est.)
+- `出口`: 2.248 million metric tons (2022 est.)
+- `進口`: 44.851 million metric tons (2022 est.)
+- `探明儲量`: 35.9 billion metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 131,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 2.052 million bbl/day (2023 est.)
-- `crude oil estimated reserves`: 115.2 million barrels (2021 est.)
+- `總石油產量`: 131,000 bbl/day (2023 est.)
+- `成品油消費量`: 2.052 million bbl/day (2023 est.)
+- `原油儲備量估值`: 115.2 million barrels (2021 est.)
 
 ### 天然氣
-- `production`: 4.824 billion cubic meters (2022 est.)
-- `consumption`: 77.516 billion cubic meters (2022 est.)
-- `imports`: 83.926 billion cubic meters (2022 est.)
-- `proven reserves`: 23.39 billion cubic meters (2021 est.)
+- `生產`: 4.824 billion cubic meters (2022 est.)
+- `消費`: 77.516 billion cubic meters (2022 est.)
+- `進口`: 83.926 billion cubic meters (2022 est.)
+- `探明儲量`: 23.39 billion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 668.292 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 227.546 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 291.027 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 149.719 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 668.292 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 227.546 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 291.027 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 149.719 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 132.263 million Btu/person (2022 est.)
@@ -619,17 +619,17 @@ $295.736 billion (2021 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 38.58 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 46 (2022 est.)
+- `總訂閱數`: 38.58 million (2022 est.)
+- `每100名居民訂閱數`: 46 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 104.4 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 125 (2022 est.)
+- `總訂閱數`: 104.4 million (2022 est.)
+- `每100名居民訂閱數`: 125 (2022 est.)
 
 ### 電信系統
-- `general assessment`: with one of Europe’s largest telecom markets, Germany hosts a number of significant operators which offer effective competition in the mobile and broadband sectors; the German mobile market is driven by mobile data, with the number of mobile broadband subscribers having increased rapidly in recent years; with LTE now effectively universally available, considerable progress has recently been made in building out 5G networks (2022)
-- `domestic`: 46 per 100 for fixed-line and 128 per 100 for mobile-cellular subscriptions (2021)
-- `international`: country code - 49; landing points for SeaMeWe-3, TAT-14, AC-1, CONTACT-3, Fehmarn Balt, C-Lion1, GC1, GlobalConnect-KPN, and Germany-Denmark 2 & 3 - submarine cables to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia; as well as earth stations in the Inmarsat, Intelsat, Eutelsat, and Intersputnik satellite systems (2019)
+- `總體評估`: with one of Europe’s largest telecom markets, Germany hosts a number of significant operators which offer effective competition in the mobile and broadband sectors; the German mobile market is driven by mobile data, with the number of mobile broadband subscribers having increased rapidly in recent years; with LTE now effectively universally available, considerable progress has recently been made in building out 5G networks (2022)
+- `國內`: 46 per 100 for fixed-line and 128 per 100 for mobile-cellular subscriptions (2021)
+- `國際的`: country code - 49; landing points for SeaMeWe-3, TAT-14, AC-1, CONTACT-3, Fehmarn Balt, C-Lion1, GC1, GlobalConnect-KPN, and Germany-Denmark 2 & 3 - submarine cables to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia; as well as earth stations in the Inmarsat, Intelsat, Eutelsat, and Intersputnik satellite systems (2019)
 
 ### 廣播媒體
 a mixture of publicly operated and privately owned TV and radio stations; 70 national and regional public broadcasters compete with nearly 400 privately owned national and regional TV stations; more than 90% of households have cable or satellite TV; hundreds of radio stations including multiple national radio networks, regional radio networks, and a large number of local radio stations
@@ -638,20 +638,20 @@ a mixture of publicly operated and privately owned TV and radio stations; 70 nat
 .de
 
 ### 網際網路使用者
-- `total`: 75.53 million (2021 est.)
-- `percent of population`: 91% (2021 est.)
+- `總計`: 75.53 million (2021 est.)
+- `佔人口比例`: 91% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 36,215,303 (2020 est.)
-- `subscriptions per 100 inhabitants`: 43 (2020 est.)
+- `總計`: 36,215,303 (2020 est.)
+- `每100名居民訂閱數`: 43 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 20 (2020)
-- `inventory of registered aircraft operated by air carriers`: 1,113
-- `annual passenger traffic on registered air carriers`: 109,796,202 (2018)
-- `annual freight traffic on registered air carriers`: 7,969,860,000 (2018) mt-km
+- `註冊航空公司數量`: 20 (2020)
+- `註冊飛機庫存—航空承運商經營`: 1,113
+- `年度客運量－註冊航空公司`: 109,796,202 (2018)
+- `年度貨運量－註冊航空公司`: 7,969,860,000 (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 D
@@ -666,29 +666,29 @@ D
 37 km condensate, 26,985 km gas, 2,400 km oil, 4,479 km refined products, 8 km water (2013)
 
 ### 鐵路
-- `total`: 39,379 km (2020) 20,942 km electrified
+- `總計`: 39,379 km (2020) 20,942 km electrified
 15 km 0.900-mm gauge, 24 km 0.750-mm gauge (2015)
 
 ### 道路
-- `total`: 830,000 km 830,000 km
-- `paved`: 830,000 km (2022) (includes 13,155 km of expressways)
+- `總計`: 830,000 km 830,000 km
+- `已鋪砌`: 830,000 km (2022) (includes 13,155 km of expressways)
 **note**:  includes local roads
 
 ### 水道
 7,300 km (2022) (Rhine River carries most goods; Main-Danube Canal links North Sea and Black Sea)
 
 ### 商船
-- `total`: 595 (2023)
-- `by type`: bulk carrier 1, container ship 69, general cargo 82, oil tanker 32, other 411
+- `總計`: 595 (2023)
+- `依類型`: bulk carrier 1, container ship 69, general cargo 82, oil tanker 32, other 411
 
 ### 港口
-- `total ports`: 35 (2024)
-- `large`: 5
-- `medium`: 4
-- `small`: 11
-- `very small`: 15
-- `ports with oil terminals`: 12
-- `key ports`: Brake, Bremen, Bremerhaven, Cuxhaven, Emden, Hamburg, Kiel, Lubeck, Rostock
+- `總港口數`: 35 (2024)
+- `大`: 5
+- `中`: 4
+- `小`: 11
+- `非常小`: 15
+- `原油碼頭港口`: 12
+- `主要港口`: Brake, Bremen, Bremerhaven, Cuxhaven, Emden, Hamburg, Kiel, Lubeck, Rostock
 
 ## 軍事和安全
 
@@ -741,8 +741,8 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 664,238 (Syria), 183,631 (Afghanistan), 151,254 (Iraq), 64,496 (Eritrea), 47,658 (Iran), 38,755 (Turkey), 32,155 (Somalia), 13,334 (Russia), 12,155 (Nigeria), 9,250 (Pakistan), 6,257 (Serbia and Kosovo), 6,912 (Ethiopia), 5,532 (Azerbaijan) (mid-year 2022); 1,139,690 (Ukraine) (as of 3 February 2024)
-- `stateless persons`: 28,941 (2022)
+- `難民（原籍國）`: 664,238 (Syria), 183,631 (Afghanistan), 151,254 (Iraq), 64,496 (Eritrea), 47,658 (Iran), 38,755 (Turkey), 32,155 (Somalia), 13,334 (Russia), 12,155 (Nigeria), 9,250 (Pakistan), 6,257 (Serbia and Kosovo), 6,912 (Ethiopia), 5,532 (Azerbaijan) (mid-year 2022); 1,139,690 (Ukraine) (as of 3 February 2024)
+- `無國籍人士`: 28,941 (2022)
 
 ### 非法藥物
 maritime transshipment point for cocaine heading for European drug; a major source of precursor or essential chemicals used in the production of illicit narcotics

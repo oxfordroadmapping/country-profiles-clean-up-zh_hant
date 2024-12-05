@@ -19,24 +19,24 @@ Southeastern Asia, northwest of Australia in the Lesser Sunda Islands at the eas
 Southeast Asia
 
 ### 面積
-- `total `: 14,874 sq km
-- `land`: 14,874 sq km
-- `water`: 0 sq km
+- `總計`: 14,874 sq km
+- `土地`: 14,874 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 slightly larger than Connecticut; almost half the size of Maryland
 
 ### 陸地邊界
-- `total`: 253 km
-- `border countries`: Indonesia 253 km
+- `總計`: 253 km
+- `邊境國家`: Indonesia 253 km
 
 ### 海岸線
 706 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive fishing zone`: 200 nm
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬捕魚區`: 200 nm
 
 ### 氣候
 tropical; hot, humid; distinct rainy and dry seasons
@@ -45,19 +45,19 @@ tropical; hot, humid; distinct rainy and dry seasons
 mountainous
 
 ### 海拔
-- `highest point`: Foho Tatamailau 2,963 m
-- `lowest point`: Timor Sea, Savu Sea, and Banda Sea 0 m
+- `最高點`: Foho Tatamailau 2,963 m
+- `最低點`: Timor Sea, Savu Sea, and Banda Sea 0 m
 
 ### 自然資源
 gold, petroleum, natural gas, manganese, marble
 
 ### 土地利用
-- `agricultural land`: 25.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 10.1% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 4.9% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 10.1% (2018 est.)
-- `forest`: 49.1% (2018 est.)
-- `other`: 25.8% (2018 est.)
+- `農地`: 25.1% (2018 est.)
+- `農地：耕地`: arable land: 10.1% (2018 est.)
+- `農地：永久性作物`: permanent crops: 4.9% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 10.1% (2018 est.)
+- `森林`: 49.1% (2018 est.)
+- `其它`: 25.8% (2018 est.)
 
 ### 灌溉土地
 350 sq km (2012)
@@ -74,13 +74,13 @@ the island of Timor is part of the Malay Archipelago and is the largest and east
 ## 人民和社會
 
 ### 人口
-- `total`: 1,506,909
-- `male`: 750,665
-- `female`: 756,244 (2024 est.)
+- `總計`: 1,506,909
+- `男性`: 750,665
+- `女性`: 756,244 (2024 est.)
 
 ### 國籍
-- `noun`: Timorese
-- `adjective`: Timorese
+- `名詞`: Timorese
+- `形容詞`: Timorese
 
 ### 族裔群體
 Austronesian (Malayo-Polynesian) (includes Tetun, Mambai, Tokodede, Galoli, Kemak, Baikeno), Melanesian-Papuan (includes Bunak, Fataluku, Bakasai), small Chinese minority
@@ -96,20 +96,20 @@ Roman Catholic 97.6%, Protestant/Evangelical 2%, Muslim 0.2%, other 0.2% (2015 e
 Timor-Leste’s high fertility and population growth rates sustain its very youthful age structure – approximately 40% of the population is below the age of 15 and the country’s median age is 20.  While Timor-Leste’s total fertility rate (TFR) – the average number of births per woman – decreased significantly from over 7 in the early 2000s, it remains high at 4.3 in 2021 and will probably continue to decline slowly.  The low use of contraceptives and the traditional preference for large families is keeping fertility elevated.  The high TFR and falling mortality rates continue to fuel a high population growth rate of nearly 2.2%, which is the highest in Southeast Asia.  The country’s high total dependency ratio – a measure of the ratio of dependents to the working-age population – could divert more government spending toward social programs. Timor-Leste’s growing, poorly educated working-age population and insufficient job creation are ongoing problems.  Some 70% of the population lives in rural areas, where most of people are dependent on the agricultural sector.  Malnutrition and poverty are prevalent, with 42% of the population living under the poverty line as of 2014. During the Indonesian occupation (1975-1999) and Timor-Leste’s fight for independence, approximately 250,000 Timorese fled to western Timor and, in lesser numbers, Australia, Portugal, and other countries. Many of these emigrants later returned.  Since Timor-Leste’s 1999 independence referendum, economic motives and periods of conflict have been the main drivers of emigration.  Bilateral labor agreements with Australia, Malaysia, and South Korea and the presence of Timorese populations abroad, are pull factors, but the high cost prevents many young Timorese from emigrating.  Timorese communities are found in its former colonizers, Indonesia and Portugal, as well as the Philippines and the UK.  The country has also become a destination for migrants in the surrounding region, mainly men seeking work in construction, commerce, and services in Dili.
 
 ### 年齡結構
-- `0-14 years`: 38.7% (male 299,929/female 283,416)
-- `15-64 years`: 56.8% (male 418,493/female 437,727)
-- `65 years and over`: 4.5% (2024 est.) (male 32,243/female 35,101)
+- `0-14歲`: 38.7% (male 299,929/female 283,416)
+- `15-64歲`: 56.8% (male 418,493/female 437,727)
+- `65歲及以上`: 4.5% (2024 est.) (male 32,243/female 35,101)
 
 ### 撫養比率
-- `total dependency ratio`: 90.3
-- `youth dependency ratio`: 59.4
-- `elderly dependency ratio`: 8.9
-- `potential support ratio`: 11.2 (2021 est.)
+- `總受扶養人比率`: 90.3
+- `少年撫養比率`: 59.4
+- `老人撫養比率`: 8.9
+- `潛在支持率`: 11.2 (2021 est.)
 
 ### 年齡中位數
-- `total`: 20.6 years (2024 est.)
-- `male`: 19.8 years
-- `female`: 21.3 years
+- `總計`: 20.6 years (2024 est.)
+- `男性`: 19.8 years
+- `女性`: 21.3 years
 
 ### 人口成長率
 2.04% (2024 est.)
@@ -127,18 +127,18 @@ Timor-Leste’s high fertility and population growth rates sustain its very yout
 most of the population concentrated in the western third of the country, particularly around Dili
 
 ### 都市化
-- `urban population`: 32.5% of total population (2023)
-- `rate of urbanization`: 3.31% annual rate of change (2020-25 est.)
+- `城市人口`: 32.5% of total population (2023)
+- `城鎮化率`: 3.31% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 281,000 DILI (capital) (2018)
 
 ### 性別比例
-- `at birth`: 1.07 male(s)/female
-- `0-14 years`: 1.06 male(s)/female
-- `15-64 years`: 0.96 male(s)/female
-- `65 years and over`: 0.92 male(s)/female
-- `total population`: 0.99 male(s)/female (2024 est.)
+- `出生時`: 1.07 male(s)/female
+- `0-14歲`: 1.06 male(s)/female
+- `15-64歲`: 0.96 male(s)/female
+- `65歲及以上`: 0.92 male(s)/female
+- `總人口數`: 0.99 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 23 years (2016 est.)
@@ -148,14 +148,14 @@ most of the population concentrated in the western third of the country, particu
 204 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 32.2 deaths/1,000 live births (2024 est.)
-- `male`: 35.3 deaths/1,000 live births
-- `female`: 28.9 deaths/1,000 live births
+- `總計`: 32.2 deaths/1,000 live births (2024 est.)
+- `男性`: 35.3 deaths/1,000 live births
+- `女性`: 28.9 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 70.5 years (2024 est.)
-- `male`: 68.9 years
-- `female`: 72.3 years
+- `總人口數`: 70.5 years (2024 est.)
+- `男性`: 68.9 years
+- `女性`: 72.3 years
 
 ### 總生育率
 3.98 children born/woman (2024 est.)
@@ -167,12 +167,12 @@ most of the population concentrated in the western third of the country, particu
 26.1% (2016)
 
 ### 飲用水來源
-- `improved: urban`: urban: 98% of population
-- `improved: rural`: rural: 82.5% of population
-- `improved: total`: total: 87.4% of population
-- `unimproved: urban`: urban: 2% of population
-- `unimproved: rural`: rural: 17.5% of population
-- `unimproved: total`: total: 12.6% of population (2020 est.)
+- `已改進－城市`: urban: 98% of population
+- `已改進－農村`: rural: 82.5% of population
+- `已改進－總計`: total: 87.4% of population
+- `未改進：都市`: urban: 2% of population
+- `未改進：鄉村`: rural: 17.5% of population
+- `未改善：總計`: total: 12.6% of population (2020 est.)
 
 ### 當前醫療支出
 9.9% of GDP (2020)
@@ -181,27 +181,27 @@ most of the population concentrated in the western third of the country, particu
 0.76 physicians/1,000 population (2020)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 88.7% of population
-- `improved: rural`: rural: 56.1% of population
-- `improved: total`: total: 66.3% of population
-- `unimproved: urban`: urban: 11.3% of population
-- `unimproved: rural`: rural: 43.9% of population
-- `unimproved: total`: total: 33.7% of population (2020 est.)
+- `已改進－城市`: urban: 88.7% of population
+- `已改進－農村`: rural: 56.1% of population
+- `已改進－總計`: total: 66.3% of population
+- `未改進：都市`: urban: 11.3% of population
+- `未改進：鄉村`: rural: 43.9% of population
+- `未改善：總計`: total: 33.7% of population (2020 est.)
 
 ### 肥胖—成人流行率
 3.8% (2016)
 
 ### 人均酒精消費量
-- `total`: 0.41 liters of pure alcohol (2019 est.)
-- `beer`: 0.27 liters of pure alcohol (2019 est.)
-- `wine`: 0.09 liters of pure alcohol (2019 est.)
-- `spirits`: 0.05 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 0.41 liters of pure alcohol (2019 est.)
+- `啤酒`: 0.27 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.09 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.05 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 39.2% (2020 est.)
-- `male`: 67.6% (2020 est.)
-- `female`: 10.8% (2020 est.)
+- `總計`: 39.2% (2020 est.)
+- `男性`: 67.6% (2020 est.)
+- `女性`: 10.8% (2020 est.)
 
 ### 5歲以下體重不足兒童
 31.9% (2020)
@@ -210,18 +210,18 @@ most of the population concentrated in the western third of the country, particu
 55.9% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 2.6%
-- `women married by age 18`: 14.9%
-- `men married by age 18`: 1.2% (2016 est.)
+- `15歲前結婚的女性`: 2.6%
+- `18歲前結婚的女性`: 14.9%
+- `18歲前結婚的男性`: 1.2% (2016 est.)
 
 ### 教育支出
 4.2% of GDP (2020 est.)
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 68.1%
-- `male`: 71.9%
-- `female`: 64.2% (2018)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 68.1%
+- `男性`: 71.9%
+- `女性`: 64.2% (2018)
 
 ### 人民—註釋
 one of only two predominantly Christian nations in Southeast Asia, the other being the Philippines
@@ -232,23 +232,23 @@ one of only two predominantly Christian nations in Southeast Asia, the other bei
 air pollution and deterioration of air quality; greenhouse gas emissions; water quality, scarcity, and access; land and soil degradation; forest depletion; widespread use of slash and burn agriculture has led to deforestation and soil erosion; loss of biodiversity
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Law of the Sea, Ozone Layer Protection
-- `signed, but not ratified`: Comprehensive Nuclear Test Ban
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Law of the Sea, Ozone Layer Protection
+- `已簽署但未批準`: Comprehensive Nuclear Test Ban
 
 ### 氣候
 tropical; hot, humid; distinct rainy and dry seasons
 
 ### 土地利用
-- `agricultural land`: 25.1% (2018 est.)
-- `agricultural land: arable land`: arable land: 10.1% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 4.9% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 10.1% (2018 est.)
-- `forest`: 49.1% (2018 est.)
-- `other`: 25.8% (2018 est.)
+- `農地`: 25.1% (2018 est.)
+- `農地：耕地`: arable land: 10.1% (2018 est.)
+- `農地：永久性作物`: permanent crops: 4.9% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 10.1% (2018 est.)
+- `森林`: 49.1% (2018 est.)
+- `其它`: 25.8% (2018 est.)
 
 ### 都市化
-- `urban population`: 32.5% of total population (2023)
-- `rate of urbanization`: 3.31% annual rate of change (2020-25 est.)
+- `城市人口`: 32.5% of total population (2023)
+- `城鎮化率`: 3.31% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.13% of GDP (2018 est.)
@@ -257,17 +257,17 @@ tropical; hot, humid; distinct rainy and dry seasons
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 20.47 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 0.5 megatons (2016 est.)
-- `methane emissions`: 4.74 megatons (2020 est.)
+- `顆粒物排放量`: 20.47 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 0.5 megatons (2016 est.)
+- `甲烷排放量`: 4.74 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 63,875 tons (2016 est.)
+- `城市固體廢棄物－每年產生`: 63,875 tons (2016 est.)
 
 ### 總取水量
-- `municipal`: 100 million cubic meters (2020 est.)
-- `industrial`: 2 million cubic meters (2017 est.)
-- `agricultural`: 1.07 billion cubic meters (2020 est.)
+- `市級`: 100 million cubic meters (2020 est.)
+- `工業`: 2 million cubic meters (2017 est.)
+- `農業`: 1.07 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 8.22 billion cubic meters (2020 est.)
@@ -275,21 +275,21 @@ tropical; hot, humid; distinct rainy and dry seasons
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Democratic Republic of Timor-Leste
-- `conventional short form`: Timor-Leste
-- `local long form`: Republika Demokratika Timor Lorosa'e (Tetum)/ Republica Democratica de Timor-Leste (Portuguese)
-- `local short form`: Timor Lorosa'e (Tetum)/ Timor-Leste (Portuguese)
-- `former`: East Timor, Portuguese Timor
-- `etymology`: timor" derives from the Indonesian and Malay word "timur" meaning "east"; "leste" is the Portuguese word for "east", so "Timor-Leste" literally means "Eastern-East"; the local [Tetum] name "Timor Lorosa'e" translates as "East Rising Sun"
+- `常用長名`: Democratic Republic of Timor-Leste
+- `常用短名`: Timor-Leste
+- `當地語長名`: Republika Demokratika Timor Lorosa'e (Tetum)/ Republica Democratica de Timor-Leste (Portuguese)
+- `當地語短名`: Timor Lorosa'e (Tetum)/ Timor-Leste (Portuguese)
+- `前任`: East Timor, Portuguese Timor
+- `语源学`: timor" derives from the Indonesian and Malay word "timur" meaning "east"; "leste" is the Portuguese word for "east", so "Timor-Leste" literally means "Eastern-East"; the local [Tetum] name "Timor Lorosa'e" translates as "East Rising Sun"
 **note**:  pronounced TEE-mor LESS-tay
 
 ### 政府類型
 semi-presidential republic
 
 ### 首都
-- `name`: Dili
-- `geographic coordinates`: 8 35 S, 125 36 E
-- `time difference`: UTC+9 (14 hours ahead of Washington, DC, during Standard Time)
+- `名稱`: Dili
+- `地理坐標`: 8 35 S, 125 36 E
+- `時差`: UTC+9 (14 hours ahead of Washington, DC, during Standard Time)
 
 ### 行政區劃
 12 municipalities (municipios, singular municipio) and 1 special adminstrative region* (regiao administrativa especial); Aileu, Ainaro, Baucau, Bobonaro (Maliana), Covalima (Suai), Dili, Ermera (Gleno), Lautem (Lospalos), Liquica, Manatuto, Manufahi (Same), Oe-Cusse Ambeno* (Pante Macassar), Viqueque
@@ -305,38 +305,38 @@ Restoration of Independence Day, 20 May (2002); Proclamation of Independence Day
 civil law system based on the Portuguese model; note - penal and civil law codes to replace the Indonesian codes were passed by Parliament and promulgated in 2009 and 2011, respectively
 
 ### 憲法
-- `history`: drafted 2001, approved 22 March 2002, entered into force 20 May 2002
-- `amendments`: proposed by Parliament and parliamentary groups; consideration of amendments requires at least four-fifths majority approval by Parliament; passage requires two-thirds majority vote by Parliament and promulgation by the president of the republic; passage of amendments to the republican form of government and the flag requires approval in a referendum
+- `歷史`: drafted 2001, approved 22 March 2002, entered into force 20 May 2002
+- `修正`: proposed by Parliament and parliamentary groups; consideration of amendments requires at least four-fifths majority approval by Parliament; passage requires two-thirds majority vote by Parliament and promulgation by the president of the republic; passage of amendments to the republican form of government and the flag requires approval in a referendum
 
 ### 國際法組織參與
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of Timor-Leste
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 10 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of Timor-Leste
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 10 years
 
 ### 選舉權
 17 years of age; universal
 
 ### 行政部門
-- `chief of state`: President José RAMOS-HORTA (since 20 May 2022)
-- `head of government`: Prime Minister Kay Rala Xanana GUSMAO (since 1 July 2023)
-- `cabinet`: Council of Ministers; ministers proposed to the prime minister by the coalition in the Parliament and sworn in by the President of the Republic
-- `elections/appointments`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last election held on 19 March 2022 with a runoff on 19 April 2022 (next to be held in April 2027); following parliamentary elections, the president appoints the leader of the majority party or majority coalition as the prime minister
-- `election results`: *2022*: José RAMOS-HORTA elected president in second round - RAMOS-HORTA (CNRT) 62.1%, Francisco GUTERRES (FRETILIN) 37.9%  *2017*: Francisco GUTERRES elected president; Francisco GUTERRES (FRETILIN) 57.1%, António da CONCEICAO (PD) 32.5%, other 10.4%
+- `國家元首`: President José RAMOS-HORTA (since 20 May 2022)
+- `政府首腦`: Prime Minister Kay Rala Xanana GUSMAO (since 1 July 2023)
+- `内閣`: Council of Ministers; ministers proposed to the prime minister by the coalition in the Parliament and sworn in by the President of the Republic
+- `選舉/任命`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last election held on 19 March 2022 with a runoff on 19 April 2022 (next to be held in April 2027); following parliamentary elections, the president appoints the leader of the majority party or majority coalition as the prime minister
+- `選舉結果`: *2022*: José RAMOS-HORTA elected president in second round - RAMOS-HORTA (CNRT) 62.1%, Francisco GUTERRES (FRETILIN) 37.9%  *2017*: Francisco GUTERRES elected president; Francisco GUTERRES (FRETILIN) 57.1%, António da CONCEICAO (PD) 32.5%, other 10.4%
 **note**:  the president is commander in chief of the military and can veto legislation, dissolve parliament, and call national elections
 
 ### 立法部門
-- `description`: unicameral National Parliament (65 seats; members directly elected in a single nationwide constituency by closed, party-list proportional representation vote using the D'Hondt method to serve 5-year terms)
-- `elections`: last held on 21 May 2023 (next to be held in May 2028)
-- `election results`: percent of vote by party - CNRT 41.5%, FRETILIN 25.8%, PD 9.3%, KHUNTO 7.5%, PLP 6%, other 9.9%; seats by party - CNRT 31, FRETILIN 19, PD 6, KHUNTO 5, PLP 4; composition - men 40, women 25, percentage women 38.5%
+- `描述`: unicameral National Parliament (65 seats; members directly elected in a single nationwide constituency by closed, party-list proportional representation vote using the D'Hondt method to serve 5-year terms)
+- `選舉`: last held on 21 May 2023 (next to be held in May 2028)
+- `選舉結果`: percent of vote by party - CNRT 41.5%, FRETILIN 25.8%, PD 9.3%, KHUNTO 7.5%, PLP 6%, other 9.9%; seats by party - CNRT 31, FRETILIN 19, PD 6, KHUNTO 5, PLP 4; composition - men 40, women 25, percentage women 38.5%
 
 ### 司法部門
-- `highest court(s)`: Court of Appeals (consists of the court president and NA judges)
-- `judge selection and term of office`: court president appointed by the president of the republic from among the other court judges to serve a 4-year term; other court judges appointed - 1 by the Parliament and the others by the Supreme Council for the Judiciary, a body chaired by the court president and that includes mostly presidential and parliamentary appointees; other judges serve for life
-- `subordinate courts`: Court of Appeal; High Administrative, Tax, and Audit Court; district courts; magistrates' courts; military courts
+- `最高法院`: Court of Appeals (consists of the court president and NA judges)
+- `法官遴選和任期`: court president appointed by the president of the republic from among the other court judges to serve a 4-year term; other court judges appointed - 1 by the Parliament and the others by the Supreme Council for the Judiciary, a body chaired by the court president and that includes mostly presidential and parliamentary appointees; other judges serve for life
+- `下級法院`: Court of Appeal; High Administrative, Tax, and Audit Court; district courts; magistrates' courts; military courts
 **note**:  the UN Justice System Programme, launched in 2003 and being rolled out in 4 phases through 2018, is helping strengthen the country's justice system; the Programme is aligned with the country's long-range Justice Sector Strategic Plan, which includes legal reforms
 
 ### 政黨
@@ -346,19 +346,19 @@ Democratic Party or PD National Congress for Timorese Reconstruction or CNRT N
 ACP, ADB, AOSIS, ARF, ASEAN (observer), CPLP, EITI (compliant country), FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OPCW, PIF (observer), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WMO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador José Luis GUTERRES (since 17 June 2024)
-- `chancery`: 4201 Connecticut Avenue NW, Suite 504, Washington, DC 20008
-- `telephone`: [1] (202) 966-3202
+- `外交代表負責人`: Ambassador José Luis GUTERRES (since 17 June 2024)
+- `衡平法院（在美國）`: 4201 Connecticut Avenue NW, Suite 504, Washington, DC 20008
+- `電話號碼`: [1] (202) 966-3202
 - `FAX`: [1] (202) 966-3205
-- `email address and website`: info@timorlesteembassy.org
+- `電子郵件地址和網站`: info@timorlesteembassy.org
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador (vacant), Chargé d'Affaires Marc WEINSTOCK (since August 2023)
-- `embassy`: Avenida de Portugal, Praia dos Coqueiros, Dili
-- `mailing address`: 8250 Dili Place, Washington, DC 20521-8250
-- `telephone`: (670) 332-4684, (670) 330-2400
+- `外交代表負責人`: Ambassador (vacant), Chargé d'Affaires Marc WEINSTOCK (since August 2023)
+- `大使館`: Avenida de Portugal, Praia dos Coqueiros, Dili
+- `郵寄地址`: 8250 Dili Place, Washington, DC 20521-8250
+- `電話號碼`: (670) 332-4684, (670) 330-2400
 - `FAX`: (670) 331-3206
-- `email address and website`: ConsDili@state.gov  https://tl.usembassy.gov/
+- `電子郵件地址和網站`: ConsDili@state.gov  https://tl.usembassy.gov/
 
 ### 旗幟說明
 red with a black isosceles triangle (based on the hoist side) superimposed on a slightly longer yellow arrowhead that extends to the center of the flag; a white star - pointing to the upper hoist-side corner of the flag - is in the center of the black triangle; yellow denotes the colonialism in Timor-Leste's past, black represents the obscurantism that needs to be overcome, red stands for the national liberation struggle; the white star symbolizes peace and serves as a guiding light
@@ -367,8 +367,8 @@ red with a black isosceles triangle (based on the hoist side) superimposed on a 
 Mount Ramelau; national colors: red, yellow, black, white
 
 ### 國歌
-- `name`: "Patria" (Fatherland)
-- `lyrics/music`: Fransisco Borja DA COSTA/Afonso DE ARAUJO
+- `名稱`: "Patria" (Fatherland)
+- `歌詞／音樂`: Fransisco Borja DA COSTA/Afonso DE ARAUJO
 **note**:  adopted 2002; the song was first used as an anthem when Timor-Leste declared its independence from Portugal in 1975; the lyricist, Francisco Borja DA COSTA, was killed in the Indonesian invasion just days after independence was declared
 
 ## 經濟
@@ -405,18 +405,18 @@ $2.243 billion (2023 est.)
 **note**: annual % change based on consumer prices
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 10.2% (2022 est.)
-- `industry`: 53.8% (2022 est.)
-- `services`: 37.2% (2022 est.)
+- `農業`: 10.2% (2022 est.)
+- `產業`: 53.8% (2022 est.)
+- `服務`: 37.2% (2022 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 42.5% (2022 est.)
-- `government consumption`: 33.1% (2022 est.)
-- `investment in fixed capital`: 10% (2022 est.)
-- `investment in inventories`: 0.6% (2022 est.)
-- `exports of goods and services`: 55.7% (2022 est.)
-- `imports of goods and services`: -42% (2022 est.)
+- `家庭消費`: 42.5% (2022 est.)
+- `政府消費`: 33.1% (2022 est.)
+- `固定資本投資`: 10% (2022 est.)
+- `存貨投資`: 0.6% (2022 est.)
+- `商品和服務出口`: 55.7% (2022 est.)
+- `商品和服務進口`: -42% (2022 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -441,9 +441,9 @@ printing, soap manufacturing, handicrafts, woven cloth
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 3.2% (2023 est.)
-- `male`: 3.1% (2023 est.)
-- `female`: 3.2% (2023 est.)
+- `總計`: 3.2% (2023 est.)
+- `男性`: 3.1% (2023 est.)
+- `女性`: 3.2% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -455,8 +455,8 @@ printing, soap manufacturing, handicrafts, woven cloth
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 4% (2014 est.)
-- `highest 10%`: 24% (2014 est.)
+- `最低10%`: 4% (2014 est.)
+- `最高10%`: 24% (2014 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -466,8 +466,8 @@ printing, soap manufacturing, handicrafts, woven cloth
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $1.877 billion (2022 est.)
-- `expenditures`: $1.684 billion (2022 est.)
+- `收入`: $1.877 billion (2022 est.)
+- `支出`: $1.684 billion (2022 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -527,33 +527,33 @@ the US dollar is used
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 99.7% (2022 est.)
-- `electrification - urban areas`: 100%
-- `electrification - rural areas`: 100%
+- `電氣化－總人口`: 99.7% (2022 est.)
+- `電氣化－城市地區`: 100%
+- `電氣化－農村地區`: 100%
 
 ### 電力
-- `installed generating capacity`: 283,000 kW (2022 est.)
-- `consumption`: 414.76 million kWh (2022 est.)
-- `transmission/distribution losses`: 100 million kWh (2022 est.)
+- `裝機容量`: 283,000 kW (2022 est.)
+- `消費`: 414.76 million kWh (2022 est.)
+- `傳輸／分配損耗`: 100 million kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 99.6% of total installed capacity (2022 est.)
-- `solar`: 0.4% of total installed capacity (2022 est.)
+- `石化燃料`: 99.6% of total installed capacity (2022 est.)
+- `太陽能`: 0.4% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `imports`: 122,000 metric tons (2022 est.)
+- `進口`: 122,000 metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 5,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 4,000 bbl/day (2022 est.)
+- `總石油產量`: 5,000 bbl/day (2023 est.)
+- `成品油消費量`: 4,000 bbl/day (2022 est.)
 
 ### 天然氣
-- `production`: 2.925 billion cubic meters (2022 est.)
-- `exports`: 2.925 billion cubic meters (2022 est.)
+- `生產`: 2.925 billion cubic meters (2022 est.)
+- `出口`: 2.925 billion cubic meters (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 637,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 637,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 637,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 637,000 metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 6.497 million Btu/person (2022 est.)
@@ -561,17 +561,17 @@ the US dollar is used
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 2,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: (2022 est.) less than 1
+- `總訂閱數`: 2,000 (2022 est.)
+- `每100名居民訂閱數`: (2022 est.) less than 1
 
 ### 電話—移動電話
-- `total subscriptions`: 1.481 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 110 (2022 est.)
+- `總訂閱數`: 1.481 million (2022 est.)
+- `每100名居民訂閱數`: 110 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Timor-Leste has been moving forward with the regeneration of its economy and rebuilding key infrastructure, including telecommunications networks, that were destroyed during the years of civil unrest; fixed-line and fixed broadband penetration in Timor-Leste remains extremely low, mainly due to the limited fixed-line infrastructure and the proliferation of mobile connectivity; in an effort to boost e-government services; the number of subscribers through to 2026 is expected to develop steadily, though from a low base; by August 2020, Timor-Leste had three telecom service providers who jointly achieved a 98% network coverage nationally; the mobile broadband market is still at an early stage of development, strong growth is predicted over the next five years; at the end of 2020, the government issued new policy guidelines to maximize the use of spectrum in Timor-Leste; it invited mobile operators to submit applications for the allocation of spectrum in the 1800MHz, 2300MHz and 2600MHz bands; in November 2020, the government approved the deployment of a submarine fiber link connecting the south of the country to Australia via the North Western Cable System (NWCS) (2021)
-- `domestic`: fixed-line services less than 1 per 100 and mobile-cellular services is 110 per 100 (2022)
-- `international`: country code - 670;  international service is available; partnership with Australia telecom companies for potential deployment of a submarine fiber-optic link (NWCS); geostationary earth orbit satellite
+- `總體評估`: Timor-Leste has been moving forward with the regeneration of its economy and rebuilding key infrastructure, including telecommunications networks, that were destroyed during the years of civil unrest; fixed-line and fixed broadband penetration in Timor-Leste remains extremely low, mainly due to the limited fixed-line infrastructure and the proliferation of mobile connectivity; in an effort to boost e-government services; the number of subscribers through to 2026 is expected to develop steadily, though from a low base; by August 2020, Timor-Leste had three telecom service providers who jointly achieved a 98% network coverage nationally; the mobile broadband market is still at an early stage of development, strong growth is predicted over the next five years; at the end of 2020, the government issued new policy guidelines to maximize the use of spectrum in Timor-Leste; it invited mobile operators to submit applications for the allocation of spectrum in the 1800MHz, 2300MHz and 2600MHz bands; in November 2020, the government approved the deployment of a submarine fiber link connecting the south of the country to Australia via the North Western Cable System (NWCS) (2021)
+- `國內`: fixed-line services less than 1 per 100 and mobile-cellular services is 110 per 100 (2022)
+- `國際的`: country code - 670;  international service is available; partnership with Australia telecom companies for potential deployment of a submarine fiber-optic link (NWCS); geostationary earth orbit satellite
 
 ### 廣播媒體
 7 TV stations (3 nationwide satellite coverage; 2 terrestrial coverage, mostly in Dili; 2 cable) and 21 radio stations (3 nationwide coverage) (2019)
@@ -580,18 +580,18 @@ the US dollar is used
 .tl
 
 ### 網際網路使用者
-- `total`: 507,000 (2021 est.)
-- `percent of population`: 39% (2021 est.)
+- `總計`: 507,000 (2021 est.)
+- `佔人口比例`: 39% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 75 (2020 est.)
-- `subscriptions per 100 inhabitants`: 0.01 (2020 est.)
+- `總計`: 75 (2020 est.)
+- `每100名居民訂閱數`: 0.01 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 2 (2020)
-- `inventory of registered aircraft operated by air carriers`: 2
+- `註冊航空公司數量`: 2 (2020)
+- `註冊飛機庫存—航空承運商經營`: 2
 
 ### 註冊民用航空器國家代碼前綴
 4W
@@ -603,22 +603,22 @@ the US dollar is used
 2 (2024)
 
 ### 道路
-- `total`: 6,040 km
-- `paved`: 2,600 km
-- `unpaved`: 3,440 km (2008)
+- `總計`: 6,040 km
+- `已鋪砌`: 2,600 km
+- `未鋪砌`: 3,440 km (2008)
 
 ### 商船
-- `total`: 1 (2023)
-- `by type`: other 1
+- `總計`: 1 (2023)
+- `依類型`: other 1
 
 ### 港口
-- `total ports`: 1 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 1
-- `very small`: 0
-- `ports with oil terminals`: 0
-- `key ports`: Dili
+- `總港口數`: 1 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 1
+- `非常小`: 0
+- `原油碼頭港口`: 0
+- `主要港口`: Dili
 
 ## 軍事和安全
 

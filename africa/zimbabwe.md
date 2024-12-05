@@ -19,16 +19,16 @@ Southern Africa, between South Africa and Zambia
 Africa
 
 ### 面積
-- `total `: 390,757 sq km
-- `land`: 386,847 sq km
-- `water`: 3,910 sq km
+- `總計`: 390,757 sq km
+- `土地`: 386,847 sq km
+- `水`: 3,910 sq km
 
 ### 面積—比較
 about four times the size of Indiana; slightly larger than Montana
 
 ### 陸地邊界
-- `total`: 3,229 km
-- `border countries`: Botswana 834 km; Mozambique 1,402 km; South Africa 230 km; Zambia 763 km
+- `總計`: 3,229 km
+- `邊境國家`: Botswana 834 km; Mozambique 1,402 km; South Africa 230 km; Zambia 763 km
 
 ### 海岸線
 0 km (landlocked)
@@ -43,20 +43,20 @@ tropical; moderated by altitude; rainy season (November to March)
 mostly high plateau with higher central plateau (high veld); mountains in east
 
 ### 海拔
-- `highest point`: Inyangani 2,592 m
-- `lowest point`: junction of the Runde and Save Rivers 162 m
-- `mean elevation`: 961 m
+- `最高點`: Inyangani 2,592 m
+- `最低點`: junction of the Runde and Save Rivers 162 m
+- `平均海拔`: 961 m
 
 ### 自然資源
 coal, chromium ore, asbestos, gold, nickel, copper, iron ore, vanadium, lithium, tin, platinum group metals
 
 ### 土地利用
-- `agricultural land`: 42.5% (2018 est.)
-- `agricultural land: arable land`: arable land: 10.9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.3% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 31.3% (2018 est.)
-- `forest`: 39.5% (2018 est.)
-- `other`: 18% (2018 est.)
+- `農地`: 42.5% (2018 est.)
+- `農地：耕地`: arable land: 10.9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.3% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 31.3% (2018 est.)
+- `森林`: 39.5% (2018 est.)
+- `其它`: 18% (2018 est.)
 
 ### 灌溉土地
 1,740 sq km (2012)
@@ -82,13 +82,13 @@ landlocked; the Zambezi forms a natural riverine boundary with Zambia; in full f
 ## 人民和社會
 
 ### 人口
-- `total`: 17,150,352
-- `male`: 8,343,790
-- `female`: 8,806,562 (2024 est.)
+- `總計`: 17,150,352
+- `男性`: 8,343,790
+- `女性`: 8,806,562 (2024 est.)
 
 ### 國籍
-- `noun`: Zimbabwean(s)
-- `adjective`: Zimbabwean
+- `名詞`: Zimbabwean(s)
+- `形容詞`: Zimbabwean
 
 ### 族裔群體
 African 99.6% (predominantly Shona; Ndebele is the second largest ethnic group), other (includes Caucasian, Asiatic, mixed race) 0.4% (2022 est.)
@@ -104,20 +104,20 @@ Apostolic Sect 40.3%, Pentecostal 17%, Protestant 13.8%, other Christian 7.8%, R
 Zimbabwe’s progress in reproductive, maternal, and child health has stagnated in recent years. According to a 2010 Demographic and Health Survey, contraceptive use, the number of births attended by skilled practitioners, and child mortality have either stalled or somewhat deteriorated since the mid-2000s. Zimbabwe’s total fertility rate has remained fairly stable at about 4 children per woman for the last two decades, although an uptick in the urban birth rate in recent years has caused a slight rise in the country’s overall fertility rate. Zimbabwe’s HIV prevalence rate dropped from approximately 29% to 15% since 1997 but remains among the world’s highest and continues to suppress the country’s life expectancy rate. The proliferation of HIV/AIDS information and prevention programs and personal experience with those suffering or dying from the disease have helped to change sexual behavior and reduce the epidemic. Historically, the vast majority of Zimbabwe’s migration has been internal – a rural-urban flow. In terms of international migration, over the last 40 years Zimbabwe has gradually shifted from being a destination country to one of emigration and, to a lesser degree, one of transit (for East African illegal migrants traveling to South Africa). As a British colony, Zimbabwe attracted significant numbers of permanent immigrants from the UK and other European countries, as well as temporary economic migrants from Malawi, Mozambique, and Zambia. Although Zimbabweans have migrated to South Africa since the beginning of the 20th century to work as miners, the first major exodus from the country occurred in the years before and after independence in 1980. The outward migration was politically and racially influenced; a large share of the white population of European origin chose to leave rather than live under a new black-majority government. In the 1990s and 2000s, economic mismanagement and hyperinflation sparked a second, more diverse wave of emigration. This massive outmigration – primarily to other southern African countries, the UK, and the US – has created a variety of challenges, including brain drain, illegal migration, and human smuggling and trafficking. Several factors have pushed highly skilled workers to go abroad, including unemployment, lower wages, a lack of resources, and few opportunities for career growth.
 
 ### 年齡結構
-- `0-14 years`: 38.3% (male 3,315,075/female 3,254,643)
-- `15-64 years`: 57.8% (male 4,758,120/female 5,152,773)
-- `65 years and over`: 3.9% (2024 est.) (male 270,595/female 399,146)
+- `0-14歲`: 38.3% (male 3,315,075/female 3,254,643)
+- `15-64歲`: 57.8% (male 4,758,120/female 5,152,773)
+- `65歲及以上`: 3.9% (2024 est.) (male 270,595/female 399,146)
 
 ### 撫養比率
-- `total dependency ratio`: 79.4
-- `youth dependency ratio`: 73.4
-- `elderly dependency ratio`: 6
-- `potential support ratio`: 16.6 (2021 est.)
+- `總受扶養人比率`: 79.4
+- `少年撫養比率`: 73.4
+- `老人撫養比率`: 6
+- `潛在支持率`: 16.6 (2021 est.)
 
 ### 年齡中位數
-- `total`: 21.2 years (2024 est.)
-- `male`: 20.3 years
-- `female`: 22 years
+- `總計`: 21.2 years (2024 est.)
+- `男性`: 20.3 years
+- `女性`: 22 years
 
 ### 人口成長率
 1.91% (2024 est.)
@@ -135,18 +135,18 @@ Zimbabwe’s progress in reproductive, maternal, and child health has stagnated 
 Aside from major urban agglomerations in Harare and Bulawayo, population distribution is fairly even, with slightly greater overall numbers in the eastern half as shown in this population distribution map
 
 ### 都市化
-- `urban population`: 32.5% of total population (2023)
-- `rate of urbanization`: 2.41% annual rate of change (2020-25 est.)
+- `城市人口`: 32.5% of total population (2023)
+- `城鎮化率`: 2.41% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 1.578 million HARARE (capital) (2023)
 
 ### 性別比例
-- `at birth`: 1.03 male(s)/female
-- `0-14 years`: 1.02 male(s)/female
-- `15-64 years`: 0.92 male(s)/female
-- `65 years and over`: 0.68 male(s)/female
-- `total population`: 0.95 male(s)/female (2024 est.)
+- `出生時`: 1.03 male(s)/female
+- `0-14歲`: 1.02 male(s)/female
+- `15-64歲`: 0.92 male(s)/female
+- `65歲及以上`: 0.68 male(s)/female
+- `總人口數`: 0.95 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 20.3 years (2015 est.)
@@ -156,14 +156,14 @@ Aside from major urban agglomerations in Harare and Bulawayo, population distrib
 357 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 33.4 deaths/1,000 live births (2024 est.)
-- `male`: 37 deaths/1,000 live births
-- `female`: 29.6 deaths/1,000 live births
+- `總計`: 33.4 deaths/1,000 live births (2024 est.)
+- `男性`: 37 deaths/1,000 live births
+- `女性`: 29.6 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 67.2 years (2024 est.)
-- `male`: 65.6 years
-- `female`: 68.8 years
+- `總人口數`: 67.2 years (2024 est.)
+- `男性`: 65.6 years
+- `女性`: 68.8 years
 
 ### 總生育率
 3.47 children born/woman (2024 est.)
@@ -175,12 +175,12 @@ Aside from major urban agglomerations in Harare and Bulawayo, population distrib
 66.8% (2015)
 
 ### 飲用水來源
-- `improved: urban`: urban: 97.9% of population
-- `improved: rural`: rural: 66.9% of population
-- `improved: total`: total: 76.9% of population
-- `unimproved: urban`: urban: 2.1% of population
-- `unimproved: rural`: rural: 33.1% of population
-- `unimproved: total`: total: 23.1% of population (2020 est.)
+- `已改進－城市`: urban: 97.9% of population
+- `已改進－農村`: rural: 66.9% of population
+- `已改進－總計`: total: 76.9% of population
+- `未改進：都市`: urban: 2.1% of population
+- `未改進：鄉村`: rural: 33.1% of population
+- `未改善：總計`: total: 23.1% of population (2020 est.)
 
 ### 當前醫療支出
 3.4% of GDP (2020)
@@ -192,27 +192,27 @@ Aside from major urban agglomerations in Harare and Bulawayo, population distrib
 1.7 beds/1,000 population (2011)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 96.1% of population
-- `improved: rural`: rural: 49% of population
-- `improved: total`: total: 64.2% of population
-- `unimproved: urban`: urban: 3.9% of population
-- `unimproved: rural`: rural: 51% of population
-- `unimproved: total`: total: 35.8% of population (2017 est.)
+- `已改進－城市`: urban: 96.1% of population
+- `已改進－農村`: rural: 49% of population
+- `已改進－總計`: total: 64.2% of population
+- `未改進：都市`: urban: 3.9% of population
+- `未改進：鄉村`: rural: 51% of population
+- `未改善：總計`: total: 35.8% of population (2017 est.)
 
 ### 肥胖—成人流行率
 15.5% (2016)
 
 ### 人均酒精消費量
-- `total`: 3.11 liters of pure alcohol (2019 est.)
-- `beer`: 1.2 liters of pure alcohol (2019 est.)
-- `wine`: 0.05 liters of pure alcohol (2019 est.)
-- `spirits`: 0.39 liters of pure alcohol (2019 est.)
-- `other alcohols`: 1.47 liters of pure alcohol (2019 est.)
+- `總計`: 3.11 liters of pure alcohol (2019 est.)
+- `啤酒`: 1.2 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0.05 liters of pure alcohol (2019 est.)
+- `烈酒`: 0.39 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 1.47 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 11.7% (2020 est.)
-- `male`: 21.8% (2020 est.)
-- `female`: 1.5% (2020 est.)
+- `總計`: 11.7% (2020 est.)
+- `男性`: 21.8% (2020 est.)
+- `女性`: 1.5% (2020 est.)
 
 ### 5歲以下體重不足兒童
 9.7% (2019)
@@ -221,23 +221,23 @@ Aside from major urban agglomerations in Harare and Bulawayo, population distrib
 61.6% (2023 est.)
 
 ### 童婚
-- `women married by age 15`: 5.4%
-- `women married by age 18`: 33.7%
-- `men married by age 18`: 1.9% (2019 est.)
+- `15歲前結婚的女性`: 5.4%
+- `18歲前結婚的女性`: 33.7%
+- `18歲前結婚的男性`: 1.9% (2019 est.)
 
 ### 教育支出
 3.9% of GDP (2018 est.)
 
 ### 識字程度
-- `definition`: any person age 15 and above who completed at least grade 3 of primary education
-- `total population`: 89.7%
-- `male`: 88.3%
-- `female`: 90.9% (2021)
+- `定義`: any person age 15 and above who completed at least grade 3 of primary education
+- `總人口數`: 89.7%
+- `男性`: 88.3%
+- `女性`: 90.9% (2021)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 11 years
-- `male`: 12 years
-- `female`: 11 years (2013)
+- `總計`: 11 years
+- `男性`: 12 years
+- `女性`: 11 years (2013)
 
 ## 環境
 
@@ -245,26 +245,26 @@ Aside from major urban agglomerations in Harare and Bulawayo, population distrib
 deforestation; soil erosion; land degradation; air and water pollution; the black rhinoceros herd - once the largest concentration of the species in the world - has been significantly reduced by poaching; poor mining practices have led to toxic waste and heavy metal pollution
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 tropical; moderated by altitude; rainy season (November to March)
 
 ### 土地利用
-- `agricultural land`: 42.5% (2018 est.)
-- `agricultural land: arable land`: arable land: 10.9% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.3% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 31.3% (2018 est.)
-- `forest`: 39.5% (2018 est.)
-- `other`: 18% (2018 est.)
+- `農地`: 42.5% (2018 est.)
+- `農地：耕地`: arable land: 10.9% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.3% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 31.3% (2018 est.)
+- `森林`: 39.5% (2018 est.)
+- `其它`: 18% (2018 est.)
 
 ### 都市化
-- `urban population`: 32.5% of total population (2023)
-- `rate of urbanization`: 2.41% annual rate of change (2020-25 est.)
+- `城市人口`: 32.5% of total population (2023)
+- `城鎮化率`: 2.41% annual rate of change (2020-25 est.)
 
 ### 糧食不安全
-- `widespread lack of access`: **due to high food prices***-* based on a government assessment, an estimated 3.8 million people are expected to be in need of humanitarian assistance between January and March 2023; this number is higher than the level estimated in the first quarter of 2022; the downturn in food security conditions is largely on account of poor food access resulting from prevailing high food prices and reduced incomes owing to the effects of an economic downturn; a decline in cereal production in 2022 has also aggravated conditions (2023)
+- `普遍缺乏訪問權限`: **due to high food prices***-* based on a government assessment, an estimated 3.8 million people are expected to be in need of humanitarian assistance between January and March 2023; this number is higher than the level estimated in the first quarter of 2022; the downturn in food security conditions is largely on account of poor food access resulting from prevailing high food prices and reduced incomes owing to the effects of an economic downturn; a decline in cereal production in 2022 has also aggravated conditions (2023)
 
 ### 森林資源收入
 1.61% of GDP (2018 est.)
@@ -273,14 +273,14 @@ tropical; moderated by altitude; rainy season (November to March)
 0.4% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 13.08 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 10.98 megatons (2016 est.)
-- `methane emissions`: 12.1 megatons (2020 est.)
+- `顆粒物排放量`: 13.08 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 10.98 megatons (2016 est.)
+- `甲烷排放量`: 12.1 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 1,449,752 tons (2015 est.)
-- `municipal solid waste recycled annually`: 231,960 tons (2005 est.)
-- `percent of municipal solid waste recycled`: 16% (2005 est.)
+- `城市固體廢棄物－每年產生`: 1,449,752 tons (2015 est.)
+- `城市固體廢棄物－每年回收`: 231,960 tons (2005 est.)
+- `城市固體廢棄物－回收百分比`: 16% (2005 est.)
 
 ### 主要河流（按公里長度）
 Zambezi (shared with Zambia [s]), Angola, Namibia, Botswana, and Mozambique [m]) - 2,740 km; Limpopo (shared with South Africa [s], Botswana, and Mozambique [m]) - 1,800 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -292,9 +292,9 @@ Indian Ocean drainage: Zambezi (1,332,412 sq km)Internal *(endorheic basin) *dra
 Upper Kalahari-Cuvelai-Upper Zambezi Basin
 
 ### 總取水量
-- `municipal`: 650 million cubic meters (2020 est.)
-- `industrial`: 80 million cubic meters (2020 est.)
-- `agricultural`: 3.04 billion cubic meters (2020 est.)
+- `市級`: 650 million cubic meters (2020 est.)
+- `工業`: 80 million cubic meters (2020 est.)
+- `農業`: 3.04 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 20 billion cubic meters (2020 est.)
@@ -302,19 +302,19 @@ Upper Kalahari-Cuvelai-Upper Zambezi Basin
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Republic of Zimbabwe
-- `conventional short form`: Zimbabwe
-- `former`: Southern Rhodesia, Rhodesia, Zimbabwe-Rhodesia
-- `etymology`: takes its name from the Kingdom of Zimbabwe (13th-15th century) and its capital of Great Zimbabwe, the largest stone structure in pre-colonial southern Africa
+- `常用長名`: Republic of Zimbabwe
+- `常用短名`: Zimbabwe
+- `前任`: Southern Rhodesia, Rhodesia, Zimbabwe-Rhodesia
+- `语源学`: takes its name from the Kingdom of Zimbabwe (13th-15th century) and its capital of Great Zimbabwe, the largest stone structure in pre-colonial southern Africa
 
 ### 政府類型
 presidential republic
 
 ### 首都
-- `name`: Harare
-- `geographic coordinates`: 17 49 S, 31 02 E
-- `time difference`: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: named after a village of Harare at the site of the present capital; the village name derived from a Shona chieftain, NE-HARAWA, whose name meant "he who does not sleep"
+- `名稱`: Harare
+- `地理坐標`: 17 49 S, 31 02 E
+- `時差`: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: named after a village of Harare at the site of the present capital; the village name derived from a Shona chieftain, NE-HARAWA, whose name meant "he who does not sleep"
 
 ### 行政區劃
 8 provinces and 2 cities* with provincial status; Bulawayo*, Harare*, Manicaland, Mashonaland Central, Mashonaland East, Mashonaland West, Masvingo, Matabeleland North, Matabeleland South, Midlands
@@ -329,37 +329,37 @@ Independence Day, 18 April (1980)
 mixed legal system of English common law, Roman-Dutch civil law, and customary law
 
 ### 憲法
-- `history`: previous 1965 (at Rhodesian independence), 1979 (Lancaster House Agreement), 1980 (at Zimbabwean independence); latest final draft completed January 2013, approved by referendum 16 March 2013, approved by Parliament 9 May 2013, effective 22 May 2013
-- `amendments`: proposed by the Senate or by the National Assembly; passage requires two-thirds majority vote by the membership of both houses of Parliament and assent of the president of the republic; amendments to constitutional chapters on fundamental human rights and freedoms and on agricultural lands also require approval by a majority of votes cast in a referendum; amended many times, last in 2017
+- `歷史`: previous 1965 (at Rhodesian independence), 1979 (Lancaster House Agreement), 1980 (at Zimbabwean independence); latest final draft completed January 2013, approved by referendum 16 March 2013, approved by Parliament 9 May 2013, effective 22 May 2013
+- `修正`: proposed by the Senate or by the National Assembly; passage requires two-thirds majority vote by the membership of both houses of Parliament and assent of the president of the republic; amendments to constitutional chapters on fundamental human rights and freedoms and on agricultural lands also require approval by a majority of votes cast in a referendum; amended many times, last in 2017
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: the father must be a citizen of Zimbabwe; in the case of a child born out of wedlock, the mother must be a citizen
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 5 years
+- `出生公民權`: no
+- `血統公民身份`: the father must be a citizen of Zimbabwe; in the case of a child born out of wedlock, the mother must be a citizen
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 5 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Emmerson Dambudzo MNANGAGWA (since 4 September 2023)
-- `head of government`: Vice President Constantino CHIWENGA (since 11 September 2023)
-- `cabinet`: Cabinet appointed by president, responsible to National Assembly
-- `elections/appointments`: each presidential candidate nominated with a nomination paper signed by at least 10 registered voters (at least 1 candidate from each province) and directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 23 August 2023 (next to be held in 2028); co-vice presidents drawn from party leadership
-- `election results`: *2023: *Emmerson MNANGAGWA reelected president in first round; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 52.6%, Nelson CHAMISA (MDC-T) 44%, Wilbert MUBAIWA (NPC) 1.2%, other 2.2%*2018:* Emmerson MNANGAGWA elected president in first round; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 50.7%, Nelson CHAMISA (MDC-T) 44.4%, Thokozani KHUPE (MDC-N) 0.9%, other 4%
+- `國家元首`: President Emmerson Dambudzo MNANGAGWA (since 4 September 2023)
+- `政府首腦`: Vice President Constantino CHIWENGA (since 11 September 2023)
+- `内閣`: Cabinet appointed by president, responsible to National Assembly
+- `選舉/任命`: each presidential candidate nominated with a nomination paper signed by at least 10 registered voters (at least 1 candidate from each province) and directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 23 August 2023 (next to be held in 2028); co-vice presidents drawn from party leadership
+- `選舉結果`: *2023: *Emmerson MNANGAGWA reelected president in first round; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 52.6%, Nelson CHAMISA (MDC-T) 44%, Wilbert MUBAIWA (NPC) 1.2%, other 2.2%*2018:* Emmerson MNANGAGWA elected president in first round; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 50.7%, Nelson CHAMISA (MDC-T) 44.4%, Thokozani KHUPE (MDC-N) 0.9%, other 4%
 
 ### 立法部門
-- `description`: bicameral Parliament consists of:Senate (80 seats; 60 members directly elected in multi-seat constituencies - 6 seats in each of the 10 provinces - by proportional representation vote, 16 indirectly elected by the regional governing councils, 18 reserved for the National Council Chiefs, and 2 reserved for members with disabilities; members serve 5-year terms)  National Assembly (280 seats; 210 members directly elected in single-seat constituencies by simple majority vote and 60 seats reserved for women directly elected by proportional representation vote and 10 additional seats reserved for candidates aged between 21 and 35 directly elected by proportional representation, members serve 5-year terms)
-- `elections`: Senate - last held for elected member on 23 August 2023 (next to be held in 2028)  National Assembly - last held on 23 August 2023 (next to be held in 2028); note - a byelection was held on 11 November 2023 due to the death of a candidate during the August general election; a special byelection was held on 9 December 2023 after nine opposition lawmakers were removed from their seats and disqualified from running again; another byelection was held on 3 February 2024 for six open seats
-- `election results`: Senate - percent of vote by party - NA; seats by party - ZANU-PF 33, CCC- 27, Chiefs 18, people with disabilities 2; composition - men 36, women 35, percentage of women 49.3%  National Assembly - percent of vote by party - NA; seats by party - ZANU-PF 190, CCC-93; composition - men 192, women 75, percentage women 28.1%; total Parliament percentage women 32.5%
+- `描述`: bicameral Parliament consists of:Senate (80 seats; 60 members directly elected in multi-seat constituencies - 6 seats in each of the 10 provinces - by proportional representation vote, 16 indirectly elected by the regional governing councils, 18 reserved for the National Council Chiefs, and 2 reserved for members with disabilities; members serve 5-year terms)  National Assembly (280 seats; 210 members directly elected in single-seat constituencies by simple majority vote and 60 seats reserved for women directly elected by proportional representation vote and 10 additional seats reserved for candidates aged between 21 and 35 directly elected by proportional representation, members serve 5-year terms)
+- `選舉`: Senate - last held for elected member on 23 August 2023 (next to be held in 2028)  National Assembly - last held on 23 August 2023 (next to be held in 2028); note - a byelection was held on 11 November 2023 due to the death of a candidate during the August general election; a special byelection was held on 9 December 2023 after nine opposition lawmakers were removed from their seats and disqualified from running again; another byelection was held on 3 February 2024 for six open seats
+- `選舉結果`: Senate - percent of vote by party - NA; seats by party - ZANU-PF 33, CCC- 27, Chiefs 18, people with disabilities 2; composition - men 36, women 35, percentage of women 49.3%  National Assembly - percent of vote by party - NA; seats by party - ZANU-PF 190, CCC-93; composition - men 192, women 75, percentage women 28.1%; total Parliament percentage women 32.5%
 
 ### 司法部門
-- `highest court(s)`: Supreme Court (consists of the chief justice and 4 judges); Constitutional Court (consists of the chief and deputy chief justices and 9 judges)
-- `judge selection and term of office`: Supreme Court judges appointed by the president upon recommendation of the Judicial Service Commission, an independent body consisting of the chief justice, Public Service Commission chairman, attorney general, and 2-3 members appointed by the president; judges normally serve until age 65 but can elect to serve until age 70; Constitutional Court judge appointment NA; judges serve nonrenewable 15-year terms
-- `subordinate courts`: High Court; Labor Court; Administrative Court; regional magistrate courts; customary law courts; special courts
+- `最高法院`: Supreme Court (consists of the chief justice and 4 judges); Constitutional Court (consists of the chief and deputy chief justices and 9 judges)
+- `法官遴選和任期`: Supreme Court judges appointed by the president upon recommendation of the Judicial Service Commission, an independent body consisting of the chief justice, Public Service Commission chairman, attorney general, and 2-3 members appointed by the president; judges normally serve until age 65 but can elect to serve until age 70; Constitutional Court judge appointment NA; judges serve nonrenewable 15-year terms
+- `下級法院`: High Court; Labor Court; Administrative Court; regional magistrate courts; customary law courts; special courts
 
 ### 政黨
 Citizens Coalition for Change Movement for Democratic Change or MDC-T National People's Congress or NPC Zimbabwe African National Union-Patriotic Front or ZANU-PF Zimbabwe African Peoples Union or ZAPU
@@ -368,19 +368,19 @@ Citizens Coalition for Change Movement for Democratic Change or MDC-T National
 ACP, AfDB, ATMIS, AU, COMESA, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, SADC, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Tadeous Tafirenyika CHIFAMBA (since 7 July 2021)
-- `chancery`: 1608 New Hampshire Avenue NW, Washington, DC 20009
-- `telephone`: [1] (202) 332-7100
+- `外交代表負責人`: Ambassador Tadeous Tafirenyika CHIFAMBA (since 7 July 2021)
+- `衡平法院（在美國）`: 1608 New Hampshire Avenue NW, Washington, DC 20009
+- `電話號碼`: [1] (202) 332-7100
 - `FAX`: [1] (202) 483-9326
-- `email address and website`: general@zimembassydc.org  https://zimembassydc.org/
+- `電子郵件地址和網站`: general@zimembassydc.org  https://zimembassydc.org/
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador (vacant); Chargé d'Affaires Elaine M. FRENCH (since August 2022)
-- `embassy`: 2 Lorraine Drive, Bluffhill, Harare
-- `mailing address`: 2180 Harare Place, Washington DC  20521-2180
-- `telephone`: [263] 867-701-1000
+- `外交代表負責人`: Ambassador (vacant); Chargé d'Affaires Elaine M. FRENCH (since August 2022)
+- `大使館`: 2 Lorraine Drive, Bluffhill, Harare
+- `郵寄地址`: 2180 Harare Place, Washington DC  20521-2180
+- `電話號碼`: [263] 867-701-1000
 - `FAX`: [263] 24-233-4320
-- `email address and website`: consularharare@state.gov  https://zw.usembassy.gov/
+- `電子郵件地址和網站`: consularharare@state.gov  https://zw.usembassy.gov/
 
 ### 旗幟說明
 seven equal horizontal bands of green (top), yellow, red, black, red, yellow, and green with a white isosceles triangle edged in black with its base on the hoist side; a yellow Zimbabwe bird representing the long history of the country is superimposed on a red five-pointed star in the center of the triangle, which symbolizes peace; green represents agriculture, yellow mineral wealth, red the blood shed to achieve independence, and black stands for the native people
@@ -389,8 +389,8 @@ seven equal horizontal bands of green (top), yellow, red, black, red, yellow, an
 Zimbabwe bird symbol, African fish eagle, flame lily; national colors: green, yellow, red, black, white
 
 ### 國歌
-- `name`: "Kalibusiswe Ilizwe leZimbabwe" [Northern Ndebele language] "Simudzai Mureza WeZimbabwe" [Shona] (Blessed Be the Land of Zimbabwe)
-- `lyrics/music`: Solomon MUTSWAIRO/Fred Lecture CHANGUNDEGA
+- `名稱`: "Kalibusiswe Ilizwe leZimbabwe" [Northern Ndebele language] "Simudzai Mureza WeZimbabwe" [Shona] (Blessed Be the Land of Zimbabwe)
+- `歌詞／音樂`: Solomon MUTSWAIRO/Fred Lecture CHANGUNDEGA
 **note**:  adopted 1994
 
 ### 國家級遺產
@@ -431,18 +431,18 @@ $26.538 billion (2023 est.)
 **note**: annual % change based on consumer prices
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 27% (2023 est.)
-- `industry`: 46.9% (2023 est.)
-- `services`: 18.5% (2023 est.)
+- `農業`: 27% (2023 est.)
+- `產業`: 46.9% (2023 est.)
+- `服務`: 18.5% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 77.7% (2022 est.)
-- `government consumption`: 16.7% (2022 est.)
-- `investment in fixed capital`: 11.3% (2022 est.)
-- `investment in inventories`: 3.3% (2022 est.)
-- `exports of goods and services`: 28% (2022 est.)
-- `imports of goods and services`: -37% (2022 est.)
+- `家庭消費`: 77.7% (2022 est.)
+- `政府消費`: 16.7% (2022 est.)
+- `固定資本投資`: 11.3% (2022 est.)
+- `存貨投資`: 3.3% (2022 est.)
+- `商品和服務出口`: 28% (2022 est.)
+- `商品和服務進口`: -37% (2022 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -467,9 +467,9 @@ mining (coal, gold, platinum, copper, nickel, tin, diamonds, clay, numerous meta
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 14.3% (2023 est.)
-- `male`: 13.2% (2023 est.)
-- `female`: 15.6% (2023 est.)
+- `總計`: 14.3% (2023 est.)
+- `男性`: 13.2% (2023 est.)
+- `女性`: 15.6% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -481,8 +481,8 @@ mining (coal, gold, platinum, copper, nickel, tin, diamonds, clay, numerous meta
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 2.5% (2017 est.)
-- `highest 10%`: 34.8% (2017 est.)
+- `最低10%`: 2.5% (2017 est.)
+- `最高10%`: 34.8% (2017 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -492,8 +492,8 @@ mining (coal, gold, platinum, copper, nickel, tin, diamonds, clay, numerous meta
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $17 million (2018 est.)
-- `expenditures`: $23 million (2018 est.)
+- `收入`: $17 million (2018 est.)
+- `支出`: $23 million (2018 est.)
 
 ### 公共債務
 82.3% of GDP (2017 est.)
@@ -554,38 +554,38 @@ $838.78 million (2021 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 50.1% (2022 est.)
-- `electrification - urban areas`: 89%
-- `electrification - rural areas`: 33.7%
+- `電氣化－總人口`: 50.1% (2022 est.)
+- `電氣化－城市地區`: 89%
+- `電氣化－農村地區`: 33.7%
 
 ### 電力
-- `installed generating capacity`: 2.487 million kW (2022 est.)
-- `consumption`: 8.884 billion kWh (2022 est.)
-- `exports`: 438.591 million kWh (2022 est.)
-- `imports`: 2.2 billion kWh (2022 est.)
-- `transmission/distribution losses`: 1.81 billion kWh (2022 est.)
+- `裝機容量`: 2.487 million kW (2022 est.)
+- `消費`: 8.884 billion kWh (2022 est.)
+- `出口`: 438.591 million kWh (2022 est.)
+- `進口`: 2.2 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 1.81 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 32.7% of total installed capacity (2022 est.)
-- `solar`: 0.3% of total installed capacity (2022 est.)
-- `hydroelectricity`: 65.8% of total installed capacity (2022 est.)
-- `biomass and waste`: 1.1% of total installed capacity (2022 est.)
+- `石化燃料`: 32.7% of total installed capacity (2022 est.)
+- `太陽能`: 0.3% of total installed capacity (2022 est.)
+- `水力發電`: 65.8% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 1.1% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `production`: 3.877 million metric tons (2022 est.)
-- `consumption`: 4.479 million metric tons (2022 est.)
-- `exports`: 434,000 metric tons (2022 est.)
-- `imports`: 2,000 metric tons (2022 est.)
-- `proven reserves`: 502 million metric tons (2022 est.)
+- `生產`: 3.877 million metric tons (2022 est.)
+- `消費`: 4.479 million metric tons (2022 est.)
+- `出口`: 434,000 metric tons (2022 est.)
+- `進口`: 2,000 metric tons (2022 est.)
+- `探明儲量`: 502 million metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 800 bbl/day (2023 est.)
-- `refined petroleum consumption`: 29,000 bbl/day (2022 est.)
+- `總石油產量`: 800 bbl/day (2023 est.)
+- `成品油消費量`: 29,000 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 13.871 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 9.7 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 4.171 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 13.871 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 9.7 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 4.171 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 11.726 million Btu/person (2022 est.)
@@ -593,17 +593,17 @@ $838.78 million (2021 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 291,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 2 (2022 est.)
+- `總訂閱數`: 291,000 (2022 est.)
+- `每100名居民訂閱數`: 2 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 14.301 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 88 (2022 est.)
+- `總訂閱數`: 14.301 million (2022 est.)
+- `每100名居民訂閱數`: 88 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Zimbabwe’s telcos continue to be affected by the country’s poor economy; this has been exacerbated by the significant economic difficulties related to the pandemic; revenue has also been under pressure from a number of recent regulatory measures and additional taxes imposed by the cash-strapped government; inflation has become so high that year-on-year revenue comparisons since 2019 have been difficult to assess meaningfully; the three MNOs continue to invest in network upgrades, partly supported by government efforts and cash released from the Universal Service Fund; as a result of these investments, LTE networks have expanded steadily, though services remain concentrated in urban areas; international bandwidth has improved since fiber links to several submarine cables were established via neighboring countries; the expansion of 3G and LTE-based mobile broadband services has meant that most of the population has access to the internet; the government has started a national broadband scheme aimed at delivering a 1Mb/s service nationally by 2030; investment in fixed broadband infrastructure has also resulted in a slow but steady growth in the number of DSL connections, and also fiber subscriptions; during 2021, most growth in the fixed broadband segment has been with fiber connections (2022)
-- `domestic`: fixed-line teledensity is 2 per 100 and mobile-cellular is 89 per 100 (2021)
-- `international`: country code - 263; fiber-optic connections to neighboring states provide access to international networks via undersea cable; satellite earth stations - 2 Intelsat; 5 international digital gateway exchanges
+- `總體評估`: Zimbabwe’s telcos continue to be affected by the country’s poor economy; this has been exacerbated by the significant economic difficulties related to the pandemic; revenue has also been under pressure from a number of recent regulatory measures and additional taxes imposed by the cash-strapped government; inflation has become so high that year-on-year revenue comparisons since 2019 have been difficult to assess meaningfully; the three MNOs continue to invest in network upgrades, partly supported by government efforts and cash released from the Universal Service Fund; as a result of these investments, LTE networks have expanded steadily, though services remain concentrated in urban areas; international bandwidth has improved since fiber links to several submarine cables were established via neighboring countries; the expansion of 3G and LTE-based mobile broadband services has meant that most of the population has access to the internet; the government has started a national broadband scheme aimed at delivering a 1Mb/s service nationally by 2030; investment in fixed broadband infrastructure has also resulted in a slow but steady growth in the number of DSL connections, and also fiber subscriptions; during 2021, most growth in the fixed broadband segment has been with fiber connections (2022)
+- `國內`: fixed-line teledensity is 2 per 100 and mobile-cellular is 89 per 100 (2021)
+- `國際的`: country code - 263; fiber-optic connections to neighboring states provide access to international networks via undersea cable; satellite earth stations - 2 Intelsat; 5 international digital gateway exchanges
 
 ### 廣播媒體
 government owns all local radio and TV stations; foreign shortwave broadcasts and satellite TV are available to those who can afford antennas and receivers; in rural areas, access to TV broadcasts is extremely limited; analog TV only, no digital service (2017)
@@ -612,20 +612,20 @@ government owns all local radio and TV stations; foreign shortwave broadcasts an
 .zw
 
 ### 網際網路使用者
-- `total`: 5.6 million (2021 est.)
-- `percent of population`: 35% (2021 est.)
+- `總計`: 5.6 million (2021 est.)
+- `佔人口比例`: 35% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 203,461 (2020 est.)
-- `subscriptions per 100 inhabitants`: 1 (2020 est.)
+- `總計`: 203,461 (2020 est.)
+- `每100名居民訂閱數`: 1 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 2 (2020)
-- `inventory of registered aircraft operated by air carriers`: 12
-- `annual passenger traffic on registered air carriers`: 285,539 (2018)
-- `annual freight traffic on registered air carriers`: 670,000 (2018) mt-km
+- `註冊航空公司數量`: 2 (2020)
+- `註冊飛機庫存—航空承運商經營`: 12
+- `年度客運量－註冊航空公司`: 285,539 (2018)
+- `年度貨運量－註冊航空公司`: 670,000 (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 Z
@@ -640,13 +640,13 @@ Z
 270 km refined products (2013)
 
 ### 鐵路
-- `total`: 3,427 km (2014)
-- `narrow gauge`: 3,427 km (2014) 1.067-m gauge (313 km electrified)
+- `總計`: 3,427 km (2014)
+- `窄軌`: 3,427 km (2014) 1.067-m gauge (313 km electrified)
 
 ### 道路
-- `total`: 97,267 km
-- `paved`: 18,481 km
-- `unpaved`: 78,786 km (2023)
+- `總計`: 97,267 km
+- `已鋪砌`: 18,481 km
+- `未鋪砌`: 78,786 km (2023)
 
 ### 水道
 223 km (2022) some navigation possible on Lake Kariba (223 km)
@@ -687,10 +687,10 @@ has a nascent program with the goal of utilizing space technologies in economic 
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 9,931 (Mozambique) (2023); 12,293 (Democratic Republic of Congo) (refugees and asylum seekers) (2024)
+- `難民（原籍國）`: 9,931 (Mozambique) (2023); 12,293 (Democratic Republic of Congo) (refugees and asylum seekers) (2024)
 
 ### 人口販運
-- `tier rating`: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Zimbabwe was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/zimbabwe/
+- `會級評分`: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Zimbabwe was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/zimbabwe/
 
 ### 非法藥物
 transit point for cannabis and South Asian heroin, methaqualone, and methamphetamines en route to South Africa

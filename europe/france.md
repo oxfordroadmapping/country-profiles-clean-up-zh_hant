@@ -19,17 +19,17 @@ France today is one of the most modern countries in the world and is a leader am
 **metropolitan France**:  Europe; **French Guiana**:  South America; **Guadeloupe**:  Central America and the Caribbean; **Martinique**:  Central America and the Caribbean; **Mayotte**:  Africa; **Reunion**:  World
 
 ### 面積
-- `total `: 643,801 sq km ; 551,500 sq km (metropolitan France)
-- `land`: 640,427 sq km ; 549,970 sq km (metropolitan France)
-- `water`: 3,374 sq km ; 1,530 sq km (metropolitan France)
+- `總計`: 643,801 sq km ; 551,500 sq km (metropolitan France)
+- `土地`: 640,427 sq km ; 549,970 sq km (metropolitan France)
+- `水`: 3,374 sq km ; 1,530 sq km (metropolitan France)
 **note**:  the first numbers include the overseas regions of French Guiana, Guadeloupe, Martinique, Mayotte, and Reunion
 
 ### 面積—比較
 slightly more than four times the size of Georgia; slightly less than the size of Texas
 
 ### 陸地邊界
-- `total`: 3,956 km
-- `border countries`: Andorra 55 km; Belgium 556 km; Germany 418 km; Italy 476 km; Luxembourg 69 km; Monaco 6 km; Spain 646 km; Switzerland 525 km
+- `總計`: 3,956 km
+- `邊境國家`: Andorra 55 km; Belgium 556 km; Germany 418 km; Italy 476 km; Luxembourg 69 km; Monaco 6 km; Spain 646 km; Switzerland 525 km
 - `metropolitan France - total`: 2751 km
 - `French Guiana - total`: 1205 km
 
@@ -38,10 +38,10 @@ slightly more than four times the size of Georgia; slightly less than the size o
 **metropolitan France**: 3,427 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 24 nm
-- `exclusive economic zone`: 200 nm (does not apply to the Mediterranean Sea)
-- `continental shelf`: 200m depth or to the depth of exploitation
+- `領海`: 12 nm
+- `毗連區`: 24 nm
+- `專屬經濟區`: 200 nm (does not apply to the Mediterranean Sea)
+- `大陸架`: 200m depth or to the depth of exploitation
 
 ### 氣候
 **metropolitan France**:  generally cool winters and mild summers, but mild winters and hot summers along the Mediterranean; occasional strong, cold, dry, north-to-northwesterly wind known as the mistral
@@ -51,27 +51,27 @@ slightly more than four times the size of Georgia; slightly less than the size o
 **metropolitan France**:  mostly flat plains or gently rolling hills in north and west; remainder is mountainous, especially Pyrenees in south, Alps in east; **French Guiana**:  low-lying coastal plains rising to hills and small mountains; **Guadeloupe**:  Basse-Terre is volcanic in origin with interior mountains; Grande-Terre is low limestone formation; most of the seven other islands are volcanic in origin; **Martinique**:  mountainous with indented coastline; dormant volcano; **Mayotte**:  generally undulating, with deep ravines and ancient volcanic peaks; **Reunion**:  mostly rugged and mountainous; fertile lowlands along coast
 
 ### 海拔
-- `highest point`: Mont Blanc 4,810
-- `lowest point`: Rhone River delta -2 m
-- `mean elevation`: 375 m
+- `最高點`: Mont Blanc 4,810
+- `最低點`: Rhone River delta -2 m
+- `平均海拔`: 375 m
 **note**:  to assess the possible effects of climate change on the ice and snow cap of Mont Blanc, its surface and peak have been extensively measured in recent years; these new peak measurements have exceeded the traditional height of 4,807 m and have varied between 4,808 m and 4,811 m; the actual rock summit is 4,792 m and is 40 m away from the ice-covered summit
 
 ### 自然資源
 *metropolitan France:* coal, iron ore, bauxite, zinc, uranium, antimony, arsenic, potash, feldspar, fluorspar, gypsum, timber, arable land, fish; *French Guiana**:* gold deposits, petroleum, kaolin, niobium, tantalum, clay
 
 ### 土地利用
-- `agricultural land`: 52.7% (2018 est.)
-- `agricultural land: arable land`: arable land: 33.4% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 1.8% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 17.5% (2018 est.)
-- `forest`: 29.2% (2018 est.)
-- `other`: 18.1% (2018 est.)
+- `農地`: 52.7% (2018 est.)
+- `農地：耕地`: arable land: 33.4% (2018 est.)
+- `農地：永久性作物`: permanent crops: 1.8% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 17.5% (2018 est.)
+- `森林`: 29.2% (2018 est.)
+- `其它`: 18.1% (2018 est.)
 
 ### 灌溉土地
 14,236 sq km (2020)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lake Geneva (shared with Switzerland) - 580 sq km
+- `淡水湖`: Lake Geneva (shared with Switzerland) - 580 sq km
 
 ### 主要河流（按公里長度）
 Rhin (Rhine)  (shared with Switzerland [s], Germany, and Netherlands [m]) - 1,233 km;  Loire - 1,012 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -94,13 +94,13 @@ largest West European nation; most major French rivers -- the Meuse, Seine, Loir
 ## 人民和社會
 
 ### 人口
-- `total`: 68,374,591
-- `male`: 33,557,094
-- `female`: 34,817,497 (2024 est.)
+- `總計`: 68,374,591
+- `男性`: 33,557,094
+- `女性`: 34,817,497 (2024 est.)
 
 ### 國籍
-- `noun`: Frenchman(men), Frenchwoman(women)
-- `adjective`: French
+- `名詞`: Frenchman(men), Frenchwoman(women)
+- `形容詞`: French
 
 ### 族裔群體
 Celtic and Latin with Teutonic, Slavic, North African (Algerian, Moroccan, Tunisian), Indochinese, Basque minorities
@@ -108,7 +108,7 @@ Celtic and Latin with Teutonic, Slavic, North African (Algerian, Moroccan, Tunis
 
 ### 語文
 French (official) 100%, declining regional dialects and languages (Provencal, Breton, Alsatian, Corsican, Catalan, Basque, Flemish, Occitan, Picard)
-- `major-language sample(s)`: The World Factbook, une source indispensable d'informations de base. (French)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: The World Factbook, une source indispensable d'informations de base. (French)  The World Factbook, the indispensable source for basic information.
 **note**:  overseas departments - French, Creole patois, Mahorian (a Swahili dialect)
 
 ### 宗教
@@ -116,20 +116,20 @@ Roman Catholic 47%, Muslim 4%, Protestant 2%, Buddhist 2%, Orthodox 1%, Jewish 1
 **note**:  France maintains a tradition of secularism and has not officially collected data on religious affiliation since the 1872 national census, which complicates assessments of France's religious composition; an 1872 law prohibiting state authorities from collecting data on individuals' ethnicity or religious beliefs was reaffirmed by a 1978 law emphasizing the prohibition of the collection or exploitation of personal data revealing an individual's race, ethnicity, or political, philosophical, or religious opinions; a 1905 law codified France's separation of church and state
 
 ### 年齡結構
-- `0-14 years`: 17.3% (male 6,060,087/female 5,792,805)
-- `15-64 years`: 60.7% (male 20,875,861/female 20,615,847)
-- `65 years and over`: 22% (2024 est.) (male 6,621,146/female 8,408,845)
+- `0-14歲`: 17.3% (male 6,060,087/female 5,792,805)
+- `15-64歲`: 60.7% (male 20,875,861/female 20,615,847)
+- `65歲及以上`: 22% (2024 est.) (male 6,621,146/female 8,408,845)
 
 ### 撫養比率
-- `total dependency ratio`: 63.1
-- `youth dependency ratio`: 28.3
-- `elderly dependency ratio`: 34.8
-- `potential support ratio`: 2.9 (2021 est.)
+- `總受扶養人比率`: 63.1
+- `少年撫養比率`: 28.3
+- `老人撫養比率`: 34.8
+- `潛在支持率`: 2.9 (2021 est.)
 
 ### 年齡中位數
-- `total`: 42.6 years (2024 est.)
-- `male`: 41 years
-- `female`: 44.2 years
+- `總計`: 42.6 years (2024 est.)
+- `男性`: 41 years
+- `女性`: 44.2 years
 
 ### 人口成長率
 0.2% (2024 est.)
@@ -147,18 +147,18 @@ Roman Catholic 47%, Muslim 4%, Protestant 2%, Buddhist 2%, Orthodox 1%, Jewish 1
 much of the population is concentrated in the north and southeast; although there are many urban agglomerations throughout the country, Paris is by far the largest city, with Lyon ranked a distant second
 
 ### 都市化
-- `urban population`: 81.8% of total population (2023)
-- `rate of urbanization`: 0.67% annual rate of change (2020-25 est.)
+- `城市人口`: 81.8% of total population (2023)
+- `城鎮化率`: 0.67% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 11.208 million PARIS (capital), 1.761 million Lyon, 1.628 million Marseille-Aix-en-Provence, 1.079 million Lille, 1.060 million Toulouse, 1.000 million Bordeaux (2023)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.05 male(s)/female
-- `15-64 years`: 1.01 male(s)/female
-- `65 years and over`: 0.79 male(s)/female
-- `total population`: 0.96 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.05 male(s)/female
+- `15-64歲`: 1.01 male(s)/female
+- `65歲及以上`: 0.79 male(s)/female
+- `總人口數`: 0.96 male(s)/female (2024 est.)
 
 ### 初生育母親平均年齡
 28.9 years (2020 est.)
@@ -167,14 +167,14 @@ much of the population is concentrated in the north and southeast; although ther
 8 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 3.1 deaths/1,000 live births (2024 est.)
-- `male`: 3.4 deaths/1,000 live births
-- `female`: 2.8 deaths/1,000 live births
+- `總計`: 3.1 deaths/1,000 live births (2024 est.)
+- `男性`: 3.4 deaths/1,000 live births
+- `女性`: 2.8 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 82.6 years (2024 est.)
-- `male`: 79.8 years
-- `female`: 85.5 years
+- `總人口數`: 82.6 years (2024 est.)
+- `男性`: 79.8 years
+- `女性`: 85.5 years
 
 ### 總生育率
 1.9 children born/woman (2024 est.)
@@ -186,12 +186,12 @@ much of the population is concentrated in the north and southeast; although ther
 NA
 
 ### 飲用水來源
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 當前醫療支出
 12.2% of GDP (2020)
@@ -203,27 +203,27 @@ NA
 5.9 beds/1,000 population (2018)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 100% of population
-- `improved: rural`: rural: 100% of population
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: 0% of population
-- `unimproved: rural`: rural: 0% of population
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: 100% of population
+- `已改進－農村`: rural: 100% of population
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: 0% of population
+- `未改進：鄉村`: rural: 0% of population
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 肥胖—成人流行率
 21.6% (2016)
 
 ### 人均酒精消費量
-- `total`: 11.44 liters of pure alcohol (2019 est.)
-- `beer`: 2.52 liters of pure alcohol (2019 est.)
-- `wine`: 6.44 liters of pure alcohol (2019 est.)
-- `spirits`: 2.3 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0.18 liters of pure alcohol (2019 est.)
+- `總計`: 11.44 liters of pure alcohol (2019 est.)
+- `啤酒`: 2.52 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 6.44 liters of pure alcohol (2019 est.)
+- `烈酒`: 2.3 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0.18 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 33.4% (2020 est.)
-- `male`: 34.9% (2020 est.)
-- `female`: 31.9% (2020 est.)
+- `總計`: 33.4% (2020 est.)
+- `男性`: 34.9% (2020 est.)
+- `女性`: 31.9% (2020 est.)
 
 ### 5歲以下體重不足兒童
 NA
@@ -235,14 +235,14 @@ NA
 5.5% of GDP (2020 est.)
 
 ### 識字程度
-- `total population`: NA
-- `male`: NA
-- `female`: NA
+- `總人口數`: NA
+- `男性`: NA
+- `女性`: NA
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 16 years
-- `male`: 16 years
-- `female`: 16 years (2020)
+- `總計`: 16 years
+- `男性`: 16 years
+- `女性`: 16 years (2020)
 
 ## 環境
 
@@ -250,24 +250,24 @@ NA
 some forest damage from acid rain; air pollution from industrial and vehicle emissions; water pollution from urban wastes, agricultural runoff
 
 ### 環境—國際協定
-- `party to`: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 **metropolitan France**:  generally cool winters and mild summers, but mild winters and hot summers along the Mediterranean; occasional strong, cold, dry, north-to-northwesterly wind known as the mistral
 **French Guiana**:  tropical; hot, humid; little seasonal temperature variation   **Guadeloupe and Martinique**:  subtropical tempered by trade winds; moderately high humidity; rainy season (June to October); vulnerable to devastating cyclones (hurricanes) every eight years on average   **Mayotte**:  tropical; marine; hot, humid, rainy season during northeastern monsoon (November to May); dry season is cooler (May to November)   **Reunion**:  tropical, but temperature moderates with elevation; cool and dry (May to November), hot and rainy (November to April)
 
 ### 土地利用
-- `agricultural land`: 52.7% (2018 est.)
-- `agricultural land: arable land`: arable land: 33.4% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 1.8% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 17.5% (2018 est.)
-- `forest`: 29.2% (2018 est.)
-- `other`: 18.1% (2018 est.)
+- `農地`: 52.7% (2018 est.)
+- `農地：耕地`: arable land: 33.4% (2018 est.)
+- `農地：永久性作物`: permanent crops: 1.8% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 17.5% (2018 est.)
+- `森林`: 29.2% (2018 est.)
+- `其它`: 18.1% (2018 est.)
 
 ### 都市化
-- `urban population`: 81.8% of total population (2023)
-- `rate of urbanization`: 0.67% annual rate of change (2020-25 est.)
+- `城市人口`: 81.8% of total population (2023)
+- `城鎮化率`: 0.67% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0.03% of GDP (2018 est.)
@@ -276,16 +276,16 @@ some forest damage from acid rain; air pollution from industrial and vehicle emi
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 10.46 micrograms per cubic meter (2019 est.)
-- `methane emissions`: 55.99 megatons (2020 est.)
+- `顆粒物排放量`: 10.46 micrograms per cubic meter (2019 est.)
+- `甲烷排放量`: 55.99 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 33.399 million tons (2015 est.)
-- `municipal solid waste recycled annually`: 7,434,617 tons (2015 est.)
-- `percent of municipal solid waste recycled`: 22.3% (2015 est.)
+- `城市固體廢棄物－每年產生`: 33.399 million tons (2015 est.)
+- `城市固體廢棄物－每年回收`: 7,434,617 tons (2015 est.)
+- `城市固體廢棄物－回收百分比`: 22.3% (2015 est.)
 
 ### 主要湖泊（按面積平方公里）
-- `fresh water lake(s)`: Lake Geneva (shared with Switzerland) - 580 sq km
+- `淡水湖`: Lake Geneva (shared with Switzerland) - 580 sq km
 
 ### 主要河流（按公里長度）
 Rhin (Rhine)  (shared with Switzerland [s], Germany, and Netherlands [m]) - 1,233 km;  Loire - 1,012 km*_issue_*note*_issue_* – [s] after country name indicates river source; [m] after country name indicates river mouth
@@ -297,36 +297,36 @@ Atlantic Ocean drainage: Loire (115,282 sq km), Seine (78,919 sq km), Rhine-Maas
 Paris Basin
 
 ### 總取水量
-- `municipal`: 5.31 billion cubic meters (2020 est.)
-- `industrial`: 17.78 billion cubic meters (2020 est.)
-- `agricultural`: 3.18 billion cubic meters (2020 est.)
+- `市級`: 5.31 billion cubic meters (2020 est.)
+- `工業`: 17.78 billion cubic meters (2020 est.)
+- `農業`: 3.18 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 211 billion cubic meters (2020 est.)
 
 ### 地質公園
-- `total global geoparks and regional networks`: 9 (2024)
-- `global geoparks and regional networks`: Armorique; Beaujolais; Causses du Quersey; Chablais; Haute-Provence; Luberon;  Massif des Bauges;  Monts d'Ardèche; Normandie-Maine (2024)
+- `全球地質公園和區域網絡總數`: 9 (2024)
+- `全球地質公園和區域網絡`: Armorique; Beaujolais; Causses du Quersey; Chablais; Haute-Provence; Luberon;  Massif des Bauges;  Monts d'Ardèche; Normandie-Maine (2024)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: French Republic
-- `conventional short form`: France
-- `local long form`: République française
-- `local short form`: France
-- `etymology`: name derives from the Latin "Francia" meaning "Land of the Franks"; the Franks were a group of Germanic tribes located along the middle and lower Rhine River in the 3rd century A.D. who merged with Gallic-Roman populations in succeeding centuries and to whom they passed on their name
+- `常用長名`: French Republic
+- `常用短名`: France
+- `當地語長名`: République française
+- `當地語短名`: France
+- `语源学`: name derives from the Latin "Francia" meaning "Land of the Franks"; the Franks were a group of Germanic tribes located along the middle and lower Rhine River in the 3rd century A.D. who merged with Gallic-Roman populations in succeeding centuries and to whom they passed on their name
 
 ### 政府類型
 semi-presidential republic
 
 ### 首都
-- `name`: Paris
-- `geographic coordinates`: 48 52 N, 2 20 E
-- `time difference`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
-- `daylight saving time`: +1hr, begins last Sunday in March; ends last Sunday in October
-- `time zone note`: applies to metropolitan France only; for its overseas regions the time difference is UTC-4 for Guadeloupe and Martinique, UTC-3 for French Guiana, UTC+3 for Mayotte, and UTC+4 for Reunion
-- `etymology`: name derives from the Parisii, a Celtic tribe that inhabited the area from the 3rd century B.C., but who were conquered by the Romans in the 1st century B.C.; the Celtic settlement became the Roman town of Lutetia Parisiorum (Lutetia of the Parisii); over subsequent centuries it became Parisium and then just Paris
+- `名稱`: Paris
+- `地理坐標`: 48 52 N, 2 20 E
+- `時差`: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
+- `日光節約時間`: +1hr, begins last Sunday in March; ends last Sunday in October
+- `時區備註`: applies to metropolitan France only; for its overseas regions the time difference is UTC-4 for Guadeloupe and Martinique, UTC-3 for French Guiana, UTC+3 for Mayotte, and UTC+4 for Reunion
+- `语源学`: name derives from the Parisii, a Celtic tribe that inhabited the area from the 3rd century B.C., but who were conquered by the Romans in the 1st century B.C.; the Celtic settlement became the Roman town of Lutetia Parisiorum (Lutetia of the Parisii); over subsequent centuries it became Parisium and then just Paris
 
 ### 行政區劃
 18 regions (regions, singular - region); Auvergne-Rhone-Alpes, Bourgogne-Franche-Comte (Burgundy-Free County), Bretagne (Brittany), Centre-Val de Loire (Center-Loire Valley), Corse (Corsica), Grand Est (Grand East), Guadeloupe, Guyane (French Guiana), Hauts-de-France (Upper France), Ile-de-France, Martinique, Mayotte, Normandie (Normandy), Nouvelle-Aquitaine (New Aquitaine), Occitanie (Occitania), Pays de la Loire (Lands of the Loire), Provence-Alpes-Cote d'Azur, Reunion
@@ -346,38 +346,38 @@ Fête de la Fédération, 14 July (1790); note - often incorrectly referred to a
 civil law; review of administrative but not legislative acts
 
 ### 憲法
-- `history`: many previous; latest effective 4 October 1958
-- `amendments`: proposed by the president of the republic (upon recommendation of the prime minister and Parliament) or by Parliament; proposals submitted by Parliament members require passage by both houses followed by approval in a referendum; passage of proposals submitted by the government can bypass a referendum if submitted by the president to Parliament and passed by at least three-fifths majority vote by Parliament’s National Assembly; amended many times, last in 2008
+- `歷史`: many previous; latest effective 4 October 1958
+- `修正`: proposed by the president of the republic (upon recommendation of the prime minister and Parliament) or by Parliament; proposals submitted by Parliament members require passage by both houses followed by approval in a referendum; passage of proposals submitted by the government can bypass a referendum if submitted by the president to Parliament and passed by at least three-fifths majority vote by Parliament’s National Assembly; amended many times, last in 2008
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: at least one parent must be a citizen of France
-- `dual citizenship recognized`: yes
-- `residency requirement for naturalization`: 5 years
+- `出生公民權`: no
+- `血統公民身份`: at least one parent must be a citizen of France
+- `承認雙重國籍`: yes
+- `入籍的居留要求`: 5 years
 
 ### 選舉權
 18 years of age; universal
 
 ### 行政部門
-- `chief of state`: President Emmanuel MACRON (since 14 May 2017)
-- `head of government`: Prime Minister Michel BARNIER (since 5 September 2024)
-- `cabinet`: Council of Ministers appointed by the president at the suggestion of the prime minister
-- `elections/appointments`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 10 April 2022 with a runoff held on 24 April 2022 (next to be held in April 2027); prime minister appointed by the president
-- `election results`: *2022: *Emmanuel MACRON reelected in second round; percent of vote in first round - Emmanuel MACRON (LREM) 27.8%, Marine LE PEN (RN) 23.2%, Jean-Luc MELENCHON (LFI) 22%, Eric ZEMMOUR (Reconquete) 7.1%, Valerie PECRESSE (LR) 4.8%, Yannick JADOT (EELV) 4.6%, other 10.6%; percent of vote in second round - MACRON 58.5%, LE PEN 41.5%***2017:* Emmanuel MACRON elected president in second round; percent of vote in first round - Emmanuel MACRON (EM) 24%, Marine LE PEN (FN) 21.3%, Francois FILLON (LR) 20%, Jean-Luc MELENCHON (FI) 19.6%, Benoit HAMON (PS) 6.4%, other 8.7%; percent of vote in second round - MACRON 66.1%, LE PEN 33.9%
+- `國家元首`: President Emmanuel MACRON (since 14 May 2017)
+- `政府首腦`: Prime Minister Michel BARNIER (since 5 September 2024)
+- `内閣`: Council of Ministers appointed by the president at the suggestion of the prime minister
+- `選舉/任命`: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 10 April 2022 with a runoff held on 24 April 2022 (next to be held in April 2027); prime minister appointed by the president
+- `選舉結果`: *2022: *Emmanuel MACRON reelected in second round; percent of vote in first round - Emmanuel MACRON (LREM) 27.8%, Marine LE PEN (RN) 23.2%, Jean-Luc MELENCHON (LFI) 22%, Eric ZEMMOUR (Reconquete) 7.1%, Valerie PECRESSE (LR) 4.8%, Yannick JADOT (EELV) 4.6%, other 10.6%; percent of vote in second round - MACRON 58.5%, LE PEN 41.5%***2017:* Emmanuel MACRON elected president in second round; percent of vote in first round - Emmanuel MACRON (EM) 24%, Marine LE PEN (FN) 21.3%, Francois FILLON (LR) 20%, Jean-Luc MELENCHON (FI) 19.6%, Benoit HAMON (PS) 6.4%, other 8.7%; percent of vote in second round - MACRON 66.1%, LE PEN 33.9%
 **note **:  Gabriel ATTAL, who initially took office as prime minister on 9 January 2024, resigned on 16 July 2024 following the parliamentary elections and is serving as prime minister in a caretaker status until a new prime minister is sworn into office
 
 ### 立法部門
-- `description`: bicameral Parliament or Parlement consists of:Senate or Sénat (348 seats; members indirectly elected; members serve 6-year terms with one-half of the membership renewed every 3 years)National Assembly or Assemblée Nationale (577 seats - 556 for metropolitan France, 10 for overseas departments, and 11 for citizens abroad; members directly elected by absolute majority vote in 2 rounds if needed to serve 5-year terms)
-- `elections`: Senate - last held on 24 September 2023 (next to be held by 30 September 2026)National Assembly - last held on 30 June and 7 July 2024 (next to be held on 30 June 2029)
-- `election results`: Senate - percent of vote by party - NA; seats by political caucus (party or group of parties) LR 139, SER 69, UC 51, RDPI 21, CRCE 17, LIRT 17, EST 16, RDSE 14; composition - men 222, women 126, percentage women 36.2%.  National Assembly - percent of vote by party/coalition in the first round - RN 29.26%, NPF 28.06%, ENS 20.04%, LR 6.57%, UXD 3.96%, other 12.11%; seats by party/coalition in the first round - RN 37, NPF 32, ENS 2, LR 1, UXD 1, other 3; percent of vote in the second round - RN 32.05%, NPF 25.68, ENS 23.14% LR 5.41%, UXD 5.0%, other 8.72%, seats by party/coalition in the second round - NPF 146, ENS 148, RN 88, LR 38, UXD 16, other 65; composition - men 369, women 208, percentage women 36%
+- `描述`: bicameral Parliament or Parlement consists of:Senate or Sénat (348 seats; members indirectly elected; members serve 6-year terms with one-half of the membership renewed every 3 years)National Assembly or Assemblée Nationale (577 seats - 556 for metropolitan France, 10 for overseas departments, and 11 for citizens abroad; members directly elected by absolute majority vote in 2 rounds if needed to serve 5-year terms)
+- `選舉`: Senate - last held on 24 September 2023 (next to be held by 30 September 2026)National Assembly - last held on 30 June and 7 July 2024 (next to be held on 30 June 2029)
+- `選舉結果`: Senate - percent of vote by party - NA; seats by political caucus (party or group of parties) LR 139, SER 69, UC 51, RDPI 21, CRCE 17, LIRT 17, EST 16, RDSE 14; composition - men 222, women 126, percentage women 36.2%.  National Assembly - percent of vote by party/coalition in the first round - RN 29.26%, NPF 28.06%, ENS 20.04%, LR 6.57%, UXD 3.96%, other 12.11%; seats by party/coalition in the first round - RN 37, NPF 32, ENS 2, LR 1, UXD 1, other 3; percent of vote in the second round - RN 32.05%, NPF 25.68, ENS 23.14% LR 5.41%, UXD 5.0%, other 8.72%, seats by party/coalition in the second round - NPF 146, ENS 148, RN 88, LR 38, UXD 16, other 65; composition - men 369, women 208, percentage women 36%
 
 ### 司法部門
-- `highest court(s)`: Court of Cassation or Cour de Cassation (consists of the court president, 6 divisional presiding judges, 120 trial judges, and 70 deputy judges organized into 6 divisions - 3 civil, 1 commercial, 1 labor, and 1 criminal); Constitutional Council (consists of 9 members)
-- `judge selection and term of office`: Court of Cassation judges appointed by the president of the republic from nominations from the High Council of the Judiciary, presided over by the Court of Cassation and 15 appointed members; judges appointed for life; Constitutional Council members - 3 appointed by the president of the republic and 3 each by the National Assembly and Senate presidents; members serve 9-year, non-renewable terms with one-third of the membership renewed every 3 years
-- `subordinate courts`: appellate courts or Cour d'Appel; regional courts or Tribunal de Grande Instance; first instance courts or Tribunal d'instance; administrative courts
+- `最高法院`: Court of Cassation or Cour de Cassation (consists of the court president, 6 divisional presiding judges, 120 trial judges, and 70 deputy judges organized into 6 divisions - 3 civil, 1 commercial, 1 labor, and 1 criminal); Constitutional Council (consists of 9 members)
+- `法官遴選和任期`: Court of Cassation judges appointed by the president of the republic from nominations from the High Council of the Judiciary, presided over by the Court of Cassation and 15 appointed members; judges appointed for life; Constitutional Council members - 3 appointed by the president of the republic and 3 each by the National Assembly and Senate presidents; members serve 9-year, non-renewable terms with one-third of the membership renewed every 3 years
+- `下級法院`: appellate courts or Cour d'Appel; regional courts or Tribunal de Grande Instance; first instance courts or Tribunal d'instance; administrative courts
 **note**:  in April 2021, the French Government submitted a bill on judicial reform to Parliament
 
 ### 政黨
@@ -387,22 +387,22 @@ Citizen and Republican Movement or MRC Debout la France or DLF Democratic Move
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BDEAC, BIS, BSEC (observer), CBSS (observer), CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, FZ, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SPC, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, Union Latina, UNMIL, UNOCI, UNOOSA, UNRWA, UN Security Council (permanent), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Laurent BILI (since 19 April 2023)
-- `chancery`: 4101 Reservoir Road NW, Washington, DC 20007
-- `telephone`: [1] (202) 944-6000
+- `外交代表負責人`: Ambassador Laurent BILI (since 19 April 2023)
+- `衡平法院（在美國）`: 4101 Reservoir Road NW, Washington, DC 20007
+- `電話號碼`: [1] (202) 944-6000
 - `FAX`: [1] (202) 944-6166
-- `email address and website`: info@ambafrance-us.org  https://franceintheus.org/
-- `consulate(s) general`: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New Orleans, New York, San Francisco
+- `電子郵件地址和網站`: info@ambafrance-us.org  https://franceintheus.org/
+- `總領事館`: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New Orleans, New York, San Francisco
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Denise Campbell BAUER (since 5 February 2022); note - also accredited to Monaco
-- `embassy`: 2 avenue Gabriel, 75008 Paris
-- `mailing address`: 9200 Paris Place, Washington DC  20521-9200
-- `telephone`: [33] (1) 43-12-22-22, [33] (1) 42-66-97-83
+- `外交代表負責人`: Ambassador Denise Campbell BAUER (since 5 February 2022); note - also accredited to Monaco
+- `大使館`: 2 avenue Gabriel, 75008 Paris
+- `郵寄地址`: 9200 Paris Place, Washington DC  20521-9200
+- `電話號碼`: [33] (1) 43-12-22-22, [33] (1) 42-66-97-83
 - `FAX`: [33] (1) 42-66-97-83
-- `email address and website`: Citizeninfo@state.gov  https://fr.usembassy.gov/
-- `consulate(s) general`: Marseille, Strasbourg
-- `consulate(s)`: Bordeaux, Lyon, Rennes
+- `電子郵件地址和網站`: Citizeninfo@state.gov  https://fr.usembassy.gov/
+- `總領事館`: Marseille, Strasbourg
+- `領事館`: Bordeaux, Lyon, Rennes
 
 ### 旗幟說明
 three equal vertical bands of blue (hoist side), white, and red; known as the "Le drapeau tricolore" (French Tricolor), the origin of the flag dates to 1790 and the French Revolution when the "ancient French color" of white was combined with the blue and red colors of the Parisian militia; the official flag for all French dependent areas
@@ -412,8 +412,8 @@ three equal vertical bands of blue (hoist side), white, and red; known as the "L
 Gallic rooster, fleur-de-lis, Marianne (female personification of the country); national colors: blue, white, red
 
 ### 國歌
-- `name`: "La Marseillaise" (The Song of Marseille)
-- `lyrics/music`: Claude-Joseph ROUGET de Lisle
+- `名稱`: "La Marseillaise" (The Song of Marseille)
+- `歌詞／音樂`: Claude-Joseph ROUGET de Lisle
 **note**:  adopted 1795, restored 1870; originally known as "Chant de Guerre pour l'Armee du Rhin" (War Song for the Army of the Rhine), the National Guard of Marseille made the song famous by singing it while marching into Paris in 1792 during the French Revolutionary Wars
 
 ### 國家級遺產
@@ -460,18 +460,18 @@ $3.031 trillion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 1.9% (2023 est.)
-- `industry`: 18.7% (2023 est.)
-- `services`: 69.2% (2023 est.)
+- `農業`: 1.9% (2023 est.)
+- `產業`: 18.7% (2023 est.)
+- `服務`: 69.2% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 53.7% (2023 est.)
-- `government consumption`: 23.3% (2023 est.)
-- `investment in fixed capital`: 24.8% (2023 est.)
-- `investment in inventories`: 0.4% (2023 est.)
-- `exports of goods and services`: 32.7% (2023 est.)
-- `imports of goods and services`: -34.9% (2023 est.)
+- `家庭消費`: 53.7% (2023 est.)
+- `政府消費`: 23.3% (2023 est.)
+- `固定資本投資`: 24.8% (2023 est.)
+- `存貨投資`: 0.4% (2023 est.)
+- `商品和服務出口`: 32.7% (2023 est.)
+- `商品和服務進口`: -34.9% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -496,9 +496,9 @@ machinery, chemicals, automobiles, metallurgy, aircraft, electronics, textiles, 
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 17.1% (2023 est.)
-- `male`: 18.1% (2023 est.)
-- `female`: 16% (2023 est.)
+- `總計`: 17.1% (2023 est.)
+- `男性`: 18.1% (2023 est.)
+- `女性`: 16% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -510,12 +510,12 @@ machinery, chemicals, automobiles, metallurgy, aircraft, electronics, textiles, 
 **note**: index (0-100) of income distribution; higher values represent greater inequality
 
 ### 平均家庭支出
-- `on food`: 13.6% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 4.1% of household expenditures (2022 est.)
+- `餐食`: 13.6% of household expenditures (2022 est.)
+- `酒精和煙草`: 4.1% of household expenditures (2022 est.)
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 2.9% (2021 est.)
-- `highest 10%`: 24.9% (2021 est.)
+- `最低10%`: 2.9% (2021 est.)
+- `最高10%`: 24.9% (2021 est.)
 **note**: % share of income accruing to lowest and highest 10% of population
 
 ### 匯款
@@ -525,8 +525,8 @@ machinery, chemicals, automobiles, metallurgy, aircraft, electronics, textiles, 
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $1.229 trillion (2022 est.)
-- `expenditures`: $1.362 trillion (2022 est.)
+- `收入`: $1.229 trillion (2022 est.)
+- `支出`: $1.362 trillion (2022 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -588,23 +588,23 @@ $244.28 billion (2021 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 148.914 million kW (2022 est.)
-- `consumption`: 425.994 billion kWh (2022 est.)
-- `exports`: 37.329 billion kWh (2022 est.)
-- `imports`: 53.255 billion kWh (2022 est.)
-- `transmission/distribution losses`: 36.223 billion kWh (2022 est.)
+- `裝機容量`: 148.914 million kW (2022 est.)
+- `消費`: 425.994 billion kWh (2022 est.)
+- `出口`: 37.329 billion kWh (2022 est.)
+- `進口`: 53.255 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 36.223 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 12.1% of total installed capacity (2022 est.)
-- `nuclear`: 62.5% of total installed capacity (2022 est.)
-- `solar`: 4.5% of total installed capacity (2022 est.)
-- `wind`: 8.5% of total installed capacity (2022 est.)
-- `hydroelectricity`: 9.5% of total installed capacity (2022 est.)
-- `tide and wave`: 0.1% of total installed capacity (2022 est.)
-- `biomass and waste`: 2.7% of total installed capacity (2022 est.)
+- `石化燃料`: 12.1% of total installed capacity (2022 est.)
+- `核能`: 62.5% of total installed capacity (2022 est.)
+- `太陽能`: 4.5% of total installed capacity (2022 est.)
+- `風能`: 8.5% of total installed capacity (2022 est.)
+- `水力發電`: 9.5% of total installed capacity (2022 est.)
+- `潮汐和波浪`: 0.1% of total installed capacity (2022 est.)
+- `生物質和廢棄物`: 2.7% of total installed capacity (2022 est.)
 
 ### 核能
 - `Number of operational nuclear reactors`: 56 (2023)
@@ -614,29 +614,29 @@ $244.28 billion (2021 est.)
 - `Number of nuclear reactors permanently shut down`: 14 (2023)
 
 ### 煤炭
-- `production`: 2.419 million metric tons (2022 est.)
-- `consumption`: 12.985 million metric tons (2022 est.)
-- `exports`: 120,000 metric tons (2022 est.)
-- `imports`: 10.181 million metric tons (2022 est.)
-- `proven reserves`: 160 million metric tons (2022 est.)
+- `生產`: 2.419 million metric tons (2022 est.)
+- `消費`: 12.985 million metric tons (2022 est.)
+- `出口`: 120,000 metric tons (2022 est.)
+- `進口`: 10.181 million metric tons (2022 est.)
+- `探明儲量`: 160 million metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 80,000 bbl/day (2023 est.)
-- `refined petroleum consumption`: 1.554 million bbl/day (2023 est.)
-- `crude oil estimated reserves`: 61.719 million barrels (2021 est.)
+- `總石油產量`: 80,000 bbl/day (2023 est.)
+- `成品油消費量`: 1.554 million bbl/day (2023 est.)
+- `原油儲備量估值`: 61.719 million barrels (2021 est.)
 
 ### 天然氣
-- `production`: 20.132 million cubic meters (2022 est.)
-- `consumption`: 37.001 billion cubic meters (2022 est.)
-- `exports`: 15.25 billion cubic meters (2022 est.)
-- `imports`: 56.281 billion cubic meters (2022 est.)
-- `proven reserves`: 7.787 billion cubic meters (2021 est.)
+- `生產`: 20.132 million cubic meters (2022 est.)
+- `消費`: 37.001 billion cubic meters (2022 est.)
+- `出口`: 15.25 billion cubic meters (2022 est.)
+- `進口`: 56.281 billion cubic meters (2022 est.)
+- `探明儲量`: 7.787 billion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 311.904 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 27.266 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 207.798 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 76.84 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 311.904 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 27.266 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 207.798 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 76.84 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 121.928 million Btu/person (2022 est.)
@@ -644,18 +644,18 @@ $244.28 billion (2021 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 37.74 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 58 (2022 est.)
+- `總訂閱數`: 37.74 million (2022 est.)
+- `每100名居民訂閱數`: 58 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 76.807 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 119 (2022 est.)
+- `總訂閱數`: 76.807 million (2022 est.)
+- `每100名居民訂閱數`: 119 (2022 est.)
 
 ### 電信系統
-- `general assessment`: France's telecom market is one of the largest in Europe; there is a multi-year Engage 2025 plan which is focused on growth in the developing markets, and on the greater use of artificial intelligence and data; there are many MVNOs in the market; LTE networks provide near universal coverage, and carry about 95% of mobile data traffic; operators have launched 5G services, and these have been supported by the late-2020 auction of spectrum in the 3.5GHz range; France’s fixed broadband market is increasingly focused on fiber, which accounted for 71% of all fixed lines at the beginning of 2021; growth in the fiber sector has been stimulated by households securing faster data packages during the pandemic; the number of DSL lines has fallen sharply as customers migrate to fiber infrastructure (2021)
-- `domestic`: nearly 59 per 100 persons for fixed-line and over 110 per 100 for mobile-cellular subscriptions (2021)
-- `international`: country code - 33; landing points for Circe South, TAT-14, INGRID, FLAG Atlantic-1, Apollo, HUGO, IFC-1, ACE, SeaMeWe-3 & 4, Dunant, Africa-1, AAE-1, Atlas Offshore, Hawk, IMEWE, Med Cable, PEACE Cable, and TE North/TGN-Eurasia/SEACOM/Alexandros/Medex submarine cables providing links throughout Europe, Asia, Australia, the Middle East, Southeast Asia, Africa and US; satellite earth stations - more than 3 (2 Intelsat (with total of 5 antennas - 2 for Indian Ocean and 3 for Atlantic Ocean), NA Eutelsat, 1 Inmarsat - Atlantic Ocean region); HF radiotelephone communications with more than 20 countries (2019)
-- `overseas departments`: country codes: French Guiana - 594; landing points for Ella Link, Kanawa, Americas II to South America, Europe, Caribbean and US; Guadeloupe - 590; landing points for GCN, Southern Caribbean Fiber, and ECFS around the Caribbean and US; Martinique - 596; landing points for Americas II, ECFS, and Southern Caribbean Fiber to South America, US and around the Caribbean;  Mayotte - 262; landing points for FLY-LION3 and LION2 to East Africa and East African Islands in Indian Ocean; Reunion - 262; landing points for SAFE, METISS, and LION submarine cables to Asia, South and East Africa, Southeast Asia and nearby Indian Ocean Island countries of Mauritius, and Madagascar (2019)
+- `總體評估`: France's telecom market is one of the largest in Europe; there is a multi-year Engage 2025 plan which is focused on growth in the developing markets, and on the greater use of artificial intelligence and data; there are many MVNOs in the market; LTE networks provide near universal coverage, and carry about 95% of mobile data traffic; operators have launched 5G services, and these have been supported by the late-2020 auction of spectrum in the 3.5GHz range; France’s fixed broadband market is increasingly focused on fiber, which accounted for 71% of all fixed lines at the beginning of 2021; growth in the fiber sector has been stimulated by households securing faster data packages during the pandemic; the number of DSL lines has fallen sharply as customers migrate to fiber infrastructure (2021)
+- `國內`: nearly 59 per 100 persons for fixed-line and over 110 per 100 for mobile-cellular subscriptions (2021)
+- `國際的`: country code - 33; landing points for Circe South, TAT-14, INGRID, FLAG Atlantic-1, Apollo, HUGO, IFC-1, ACE, SeaMeWe-3 & 4, Dunant, Africa-1, AAE-1, Atlas Offshore, Hawk, IMEWE, Med Cable, PEACE Cable, and TE North/TGN-Eurasia/SEACOM/Alexandros/Medex submarine cables providing links throughout Europe, Asia, Australia, the Middle East, Southeast Asia, Africa and US; satellite earth stations - more than 3 (2 Intelsat (with total of 5 antennas - 2 for Indian Ocean and 3 for Atlantic Ocean), NA Eutelsat, 1 Inmarsat - Atlantic Ocean region); HF radiotelephone communications with more than 20 countries (2019)
+- `海外部門`: country codes: French Guiana - 594; landing points for Ella Link, Kanawa, Americas II to South America, Europe, Caribbean and US; Guadeloupe - 590; landing points for GCN, Southern Caribbean Fiber, and ECFS around the Caribbean and US; Martinique - 596; landing points for Americas II, ECFS, and Southern Caribbean Fiber to South America, US and around the Caribbean;  Mayotte - 262; landing points for FLY-LION3 and LION2 to East Africa and East African Islands in Indian Ocean; Reunion - 262; landing points for SAFE, METISS, and LION submarine cables to Asia, South and East Africa, Southeast Asia and nearby Indian Ocean Island countries of Mauritius, and Madagascar (2019)
 
 ### 廣播媒體
 a mix of both publicly operated and privately owned TV stations; state-owned France television stations operate 4 networks, one of which is a network of regional stations, and has part-interest in several thematic cable/satellite channels and international channels; a large number of privately owned regional and local TV stations; multi-channel satellite and cable services provide a large number of channels; public broadcaster Radio France operates 7 national networks, a series of regional networks, and operates services for overseas territories and foreign audiences; Radio France Internationale, under the Ministry of Foreign Affairs, is a leading international broadcaster; a large number of commercial FM stations, with many of them consolidating into commercial networks
@@ -664,20 +664,20 @@ a mix of both publicly operated and privately owned TV stations; state-owned Fra
 metropolitan France - .fr; French Guiana - .gf; Guadeloupe - .gp; Martinique - .mq; Mayotte - .yt; Reunion - .re
 
 ### 網際網路使用者
-- `total`: 55.9 million (2021 est.)
-- `percent of population`: 86% (2021 est.)
+- `總計`: 55.9 million (2021 est.)
+- `佔人口比例`: 86% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 30.627 million (2020 est.)
-- `subscriptions per 100 inhabitants`: 47 (2020 est.)
+- `總計`: 30.627 million (2020 est.)
+- `每100名居民訂閱數`: 47 (2020 est.)
 
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 19 (2020)
-- `inventory of registered aircraft operated by air carriers`: 553
-- `annual passenger traffic on registered air carriers`: 70,188,028 (2018)
-- `annual freight traffic on registered air carriers`: 4,443,790,000 (2018) mt-km
+- `註冊航空公司數量`: 19 (2020)
+- `註冊飛機庫存—航空承運商經營`: 553
+- `年度客運量－註冊航空公司`: 70,188,028 (2018)
+- `年度貨運量－註冊航空公司`: 4,443,790,000 (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 F
@@ -693,28 +693,28 @@ F
 15,322 km gas, 2,939 km oil, 5,084 km refined products (2013)
 
 ### 鐵路
-- `total`: 27,860 km (2020) 16,660 km electrified
-- `narrow gauge`: -5 km
+- `總計`: 27,860 km (2020) 16,660 km electrified
+- `窄軌`: -5 km
 
 ### 道路
-- `total`: 1,090,059 km (2022)
+- `總計`: 1,090,059 km (2022)
 
 ### 水道
 **metropolitan France**:  8,501 km (1,621 km navigable by craft up to 3,000 metric tons) (2010)
 
 ### 商船
-- `total`: 553 (2023)
-- `by type`: container ship 32, general cargo 48, oil tanker 25, other 448
+- `總計`: 553 (2023)
+- `依類型`: container ship 32, general cargo 48, oil tanker 25, other 448
 **note**:  includes Monaco
 
 ### 港口
-- `total ports`: 66 (2024)
-- `large`: 6
-- `medium`: 12
-- `small`: 22
-- `very small`: 26
-- `ports with oil terminals`: 31
-- `key ports`: Bayonne, Bordeaux, Boulogne-sur-Mer, Dunkerque Port Est, Dunkerque Port Ouest, La Pallice, La Rochelle, Les Sables d'Olonne, Lorient, Montoir, Nantes, Le Havre, Rouen, Rade de Brest, Rade de Cherbourg, Rochefort, St. Nazaire, Toulon
+- `總港口數`: 66 (2024)
+- `大`: 6
+- `中`: 12
+- `小`: 22
+- `非常小`: 26
+- `原油碼頭港口`: 31
+- `主要港口`: Bayonne, Bordeaux, Boulogne-sur-Mer, Dunkerque Port Est, Dunkerque Port Ouest, La Pallice, La Rochelle, Les Sables d'Olonne, Lorient, Montoir, Nantes, Le Havre, Rouen, Rade de Brest, Rade de Cherbourg, Rochefort, St. Nazaire, Toulon
 
 ### 運輸—註釋
 begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) is a 50.5-km (31.4-mi) rail tunnel beneath the English Channel at the Strait of Dover that runs from Folkestone, Kent, England to Coquelles, Pas-de-Calais in northern France; it is the only fixed link between the island of Great Britain and mainland Europe
@@ -770,8 +770,8 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 55,681 (Afghanistan), 39,091 (Syria), 33,834 (Sri Lanka), 33,148 (Russia), 31,935 (Democratic Republic of the Congo), 24,223 (Sudan), 21,225 (Guinea), 18,008 (Serbia and Kosovo), 17,032 (Turkey), 13,974 (Iraq), 12,286 (Cote d'Ivoire), 11,489 (Eritrea), 11,012 (Cambodia), 10,543 (China), 10,236 (Albania), 10,210 (Somalia), 8,858 (Bangladesh), 8,124 (Mauritania), 8,101 (Mali), 7,991 (Vietnam), 6,913 (Bosnia and Herzegovina), 6,910 (Haiti), 6,808 (Angola), 6,498 (Laos), 6,417 (Armenia), 6,111 (Nigeria), 5,896 (Georgia) (mid-year 2022); 69,462 (Ukraine) (as of 31 January 2024)
-- `stateless persons`: 3,633 (2022)
+- `難民（原籍國）`: 55,681 (Afghanistan), 39,091 (Syria), 33,834 (Sri Lanka), 33,148 (Russia), 31,935 (Democratic Republic of the Congo), 24,223 (Sudan), 21,225 (Guinea), 18,008 (Serbia and Kosovo), 17,032 (Turkey), 13,974 (Iraq), 12,286 (Cote d'Ivoire), 11,489 (Eritrea), 11,012 (Cambodia), 10,543 (China), 10,236 (Albania), 10,210 (Somalia), 8,858 (Bangladesh), 8,124 (Mauritania), 8,101 (Mali), 7,991 (Vietnam), 6,913 (Bosnia and Herzegovina), 6,910 (Haiti), 6,808 (Angola), 6,498 (Laos), 6,417 (Armenia), 6,111 (Nigeria), 5,896 (Georgia) (mid-year 2022); 69,462 (Ukraine) (as of 31 January 2024)
+- `無國籍人士`: 3,633 (2022)
 
 ### 非法藥物
 **metropolitan France**:  transshipment point for South American cocaine, Southwest Asian heroin, and European synthetics; **French Guiana**:  small amount of marijuana grown for local consumption; minor transshipment point to Europe; **Martinique**:  transshipment point for cocaine and marijuana bound for the US and Europe

@@ -19,24 +19,24 @@ Middle East, bordering the Persian Gulf and the Red Sea, north of Yemen
 Middle East
 
 ### 面積
-- `total `: 2,149,690 sq km
-- `land`: 2,149,690 sq km
-- `water`: 0 sq km
+- `總計`: 2,149,690 sq km
+- `土地`: 2,149,690 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 slightly more than one-fifth the size of the US
 
 ### 陸地邊界
-- `total`: 4,272 km
-- `border countries`: Iraq 811 km; Jordan 731 km; Kuwait 221 km; Oman 658 km; Qatar 87 km; UAE 457 km; Yemen 1,307 km
+- `總計`: 4,272 km
+- `邊境國家`: Iraq 811 km; Jordan 731 km; Kuwait 221 km; Oman 658 km; Qatar 87 km; UAE 457 km; Yemen 1,307 km
 
 ### 海岸線
 2,640 km
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `contiguous zone`: 18 nm
-- `continental shelf`: not specified
+- `領海`: 12 nm
+- `毗連區`: 18 nm
+- `大陸架`: not specified
 
 ### 氣候
 harsh, dry desert with great temperature extremes
@@ -45,20 +45,20 @@ harsh, dry desert with great temperature extremes
 mostly sandy desert
 
 ### 海拔
-- `highest point`: As Sarawat range, 3,000 m
-- `lowest point`: Persian Gulf 0 m
-- `mean elevation`: 665 m
+- `最高點`: As Sarawat range, 3,000 m
+- `最低點`: Persian Gulf 0 m
+- `平均海拔`: 665 m
 
 ### 自然資源
 petroleum, natural gas, iron ore, gold, copper
 
 ### 土地利用
-- `agricultural land`: 80.7% (2018 est.)
-- `agricultural land: arable land`: arable land: 1.5% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.1% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 79.1% (2018 est.)
-- `forest`: 0.5% (2018 est.)
-- `other`: 18.8% (2018 est.)
+- `農地`: 80.7% (2018 est.)
+- `農地：耕地`: arable land: 1.5% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.1% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 79.1% (2018 est.)
+- `森林`: 0.5% (2018 est.)
+- `其它`: 18.8% (2018 est.)
 
 ### 灌溉土地
 11,910 sq km (2018)
@@ -81,40 +81,40 @@ Saudi Arabia is the largest country in the world without a river; extensive coas
 ## 人民和社會
 
 ### 人口
-- `total`: 36,544,431
-- `male`: 20,700,838
-- `female`: 15,843,593 (2024 est.)
+- `總計`: 36,544,431
+- `男性`: 20,700,838
+- `女性`: 15,843,593 (2024 est.)
 
 ### 國籍
-- `noun`: Saudi(s)
-- `adjective`: Saudi or Saudi Arabian
+- `名詞`: Saudi(s)
+- `形容詞`: Saudi or Saudi Arabian
 
 ### 族裔群體
 Arab 90%, Afro-Asian 10%
 
 ### 語文
 Arabic (official)
-- `major-language sample(s)`: كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)  The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Muslim (official; citizens are 85-90% Sunni and 10-12% Shia), other (includes Eastern Orthodox, Protestant, Roman Catholic, Jewish, Hindu, Buddhist, and Sikh) (2020 est.)
 **note**:  despite having a large expatriate community of various faiths (more than 30% of the population), most forms of public religious expression inconsistent with the government-sanctioned interpretation of Sunni Islam are restricted; non-Muslims are not allowed to have Saudi citizenship and non-Muslim places of worship are not permitted (2013)
 
 ### 年齡結構
-- `0-14 years`: 22.9% (male 4,266,720/female 4,097,270)
-- `15-64 years`: 72.7% (male 15,577,133/female 10,994,061)
-- `65 years and over`: 4.4% (2024 est.) (male 856,985/female 752,262)
+- `0-14歲`: 22.9% (male 4,266,720/female 4,097,270)
+- `15-64歲`: 72.7% (male 15,577,133/female 10,994,061)
+- `65歲及以上`: 4.4% (2024 est.) (male 856,985/female 752,262)
 
 ### 撫養比率
-- `total dependency ratio`: 40.4
-- `youth dependency ratio`: 36.8
-- `elderly dependency ratio`: 3.7
-- `potential support ratio`: 27.4 (2021 est.)
+- `總受扶養人比率`: 40.4
+- `少年撫養比率`: 36.8
+- `老人撫養比率`: 3.7
+- `潛在支持率`: 27.4 (2021 est.)
 
 ### 年齡中位數
-- `total`: 32.4 years (2024 est.)
-- `male`: 34.6 years
-- `female`: 29.3 years
+- `總計`: 32.4 years (2024 est.)
+- `男性`: 34.6 years
+- `女性`: 29.3 years
 
 ### 人口成長率
 1.68% (2024 est.)
@@ -132,31 +132,31 @@ Muslim (official; citizens are 85-90% Sunni and 10-12% Shia), other (includes Ea
 historically a population that was mostly nomadic or semi-nomadic, the Saudi population has become more settled since petroleum was discovered in the 1930s; most of the economic activities - and with it the country's population - is concentrated in a wide area across the middle of the peninsula, from Ad Dammam in the east, through Riyadh in the interior, to Mecca-Medina in the west near the Red Sea
 
 ### 都市化
-- `urban population`: 85% of total population (2023)
-- `rate of urbanization`: 1.69% annual rate of change (2020-25 est.)
+- `城市人口`: 85% of total population (2023)
+- `城鎮化率`: 1.69% annual rate of change (2020-25 est.)
 
 ### 主要城市地區—人口
 7.682 million RIYADH (capital), 4.863 million Jeddah, 2.150 million Mecca, 1.573 million Medina, 1.329 million Ad Dammam, 872,000 million Hufuf-Mubarraz (2023)
 
 ### 性別比例
-- `at birth`: 1.05 male(s)/female
-- `0-14 years`: 1.04 male(s)/female
-- `15-64 years`: 1.42 male(s)/female
-- `65 years and over`: 1.14 male(s)/female
-- `total population`: 1.31 male(s)/female (2024 est.)
+- `出生時`: 1.05 male(s)/female
+- `0-14歲`: 1.04 male(s)/female
+- `15-64歲`: 1.42 male(s)/female
+- `65歲及以上`: 1.14 male(s)/female
+- `總人口數`: 1.31 male(s)/female (2024 est.)
 
 ### 產婦死亡率
 16 deaths/100,000 live births (2020 est.)
 
 ### 嬰兒死亡率
-- `total`: 11.7 deaths/1,000 live births (2024 est.)
-- `male`: 12.8 deaths/1,000 live births
-- `female`: 10.5 deaths/1,000 live births
+- `總計`: 11.7 deaths/1,000 live births (2024 est.)
+- `男性`: 12.8 deaths/1,000 live births
+- `女性`: 10.5 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 77.2 years (2024 est.)
-- `male`: 75.6 years
-- `female`: 78.8 years
+- `總人口數`: 77.2 years (2024 est.)
+- `男性`: 75.6 years
+- `女性`: 78.8 years
 
 ### 總生育率
 1.87 children born/woman (2024 est.)
@@ -168,12 +168,12 @@ historically a population that was mostly nomadic or semi-nomadic, the Saudi pop
 27.9% (2019)
 
 ### 飲用水來源
-- `improved: urban`: urban: NA
-- `improved: rural`: rural: NA
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: NA
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: NA
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: NA
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 當前醫療支出
 5.5% of GDP (2018)
@@ -185,27 +185,27 @@ historically a population that was mostly nomadic or semi-nomadic, the Saudi pop
 2.2 beds/1,000 population (2017)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: NA
-- `improved: rural`: rural: NA
-- `improved: total`: total: 100% of population
-- `unimproved: urban`: urban: NA
-- `unimproved: rural`: rural: NA
-- `unimproved: total`: total: 0% of population (2020 est.)
+- `已改進－城市`: urban: NA
+- `已改進－農村`: rural: NA
+- `已改進－總計`: total: 100% of population
+- `未改進：都市`: urban: NA
+- `未改進：鄉村`: rural: NA
+- `未改善：總計`: total: 0% of population (2020 est.)
 
 ### 肥胖—成人流行率
 35.4% (2016)
 
 ### 人均酒精消費量
-- `total`: 0 liters of pure alcohol (2019 est.)
-- `beer`: 0 liters of pure alcohol (2019 est.)
-- `wine`: 0 liters of pure alcohol (2019 est.)
-- `spirits`: 0 liters of pure alcohol (2019 est.)
-- `other alcohols`: 0 liters of pure alcohol (2019 est.)
+- `總計`: 0 liters of pure alcohol (2019 est.)
+- `啤酒`: 0 liters of pure alcohol (2019 est.)
+- `葡萄酒果酒`: 0 liters of pure alcohol (2019 est.)
+- `烈酒`: 0 liters of pure alcohol (2019 est.)
+- `其他酒類飲品`: 0 liters of pure alcohol (2019 est.)
 
 ### 煙草使用
-- `total`: 14.3% (2020 est.)
-- `male`: 26.5% (2020 est.)
-- `female`: 2% (2020 est.)
+- `總計`: 14.3% (2020 est.)
+- `男性`: 26.5% (2020 est.)
+- `女性`: 2% (2020 est.)
 
 ### 5歲以下體重不足兒童
 3.5% (2020) NA
@@ -217,15 +217,15 @@ historically a population that was mostly nomadic or semi-nomadic, the Saudi pop
 7.8% of GDP (2020) NA
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 97.6%
-- `male`: 98.6%
-- `female`: 96% (2020)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 97.6%
+- `男性`: 98.6%
+- `女性`: 96% (2020)
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 17 years
-- `male`: 17 years
-- `female`: 16 years (2021)
+- `總計`: 17 years
+- `男性`: 17 years
+- `女性`: 16 years (2021)
 
 ## 環境
 
@@ -233,23 +233,23 @@ historically a population that was mostly nomadic or semi-nomadic, the Saudi pop
 desertification; depletion of underground water resources; the lack of perennial rivers or permanent water bodies has prompted the development of extensive seawater desalination facilities; coastal pollution from oil spills; air pollution; waste management
 
 ### 環境—國際協定
-- `party to`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution
-- `signed, but not ratified`: none of the selected agreements
+- `是以下議定書的締約國：`: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution
+- `已簽署但未批準`: none of the selected agreements
 
 ### 氣候
 harsh, dry desert with great temperature extremes
 
 ### 土地利用
-- `agricultural land`: 80.7% (2018 est.)
-- `agricultural land: arable land`: arable land: 1.5% (2018 est.)
-- `agricultural land: permanent crops`: permanent crops: 0.1% (2018 est.)
-- `agricultural land: permanent pasture`: permanent pasture: 79.1% (2018 est.)
-- `forest`: 0.5% (2018 est.)
-- `other`: 18.8% (2018 est.)
+- `農地`: 80.7% (2018 est.)
+- `農地：耕地`: arable land: 1.5% (2018 est.)
+- `農地：永久性作物`: permanent crops: 0.1% (2018 est.)
+- `農地：永久牧場`: permanent pasture: 79.1% (2018 est.)
+- `森林`: 0.5% (2018 est.)
+- `其它`: 18.8% (2018 est.)
 
 ### 都市化
-- `urban population`: 85% of total population (2023)
-- `rate of urbanization`: 1.69% annual rate of change (2020-25 est.)
+- `城市人口`: 85% of total population (2023)
+- `城鎮化率`: 1.69% annual rate of change (2020-25 est.)
 
 ### 森林資源收入
 0% of GDP (2018 est.)
@@ -258,14 +258,14 @@ harsh, dry desert with great temperature extremes
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 57.16 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 563.45 megatons (2016 est.)
-- `methane emissions`: 45.47 megatons (2020 est.)
+- `顆粒物排放量`: 57.16 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 563.45 megatons (2016 est.)
+- `甲烷排放量`: 45.47 megatons (2020 est.)
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 16,125,701 tons (2015 est.)
-- `municipal solid waste recycled annually`: 2,418,855 tons (2015 est.)
-- `percent of municipal solid waste recycled`: 15% (2015 est.)
+- `城市固體廢棄物－每年產生`: 16,125,701 tons (2015 est.)
+- `城市固體廢棄物－每年回收`: 2,418,855 tons (2015 est.)
+- `城市固體廢棄物－回收百分比`: 15% (2015 est.)
 
 ### 主要流域（按面積平方公里）
 Indian Ocean drainage: *(Persian Gulf)* Tigris and Euphrates (918,044 sq km)
@@ -274,9 +274,9 @@ Indian Ocean drainage: *(Persian Gulf)* Tigris and Euphrates (918,044 sq km)
 Arabian Aquifer System
 
 ### 總取水量
-- `municipal`: 3.39 billion cubic meters (2020 est.)
-- `industrial`: 1.4 billion cubic meters (2020 est.)
-- `agricultural`: 21.2 billion cubic meters (2020 est.)
+- `市級`: 3.39 billion cubic meters (2020 est.)
+- `工業`: 1.4 billion cubic meters (2020 est.)
+- `農業`: 21.2 billion cubic meters (2020 est.)
 
 ### 可再生水資源總量
 2.4 billion cubic meters (2020 est.)
@@ -284,20 +284,20 @@ Arabian Aquifer System
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Kingdom of Saudi Arabia
-- `conventional short form`: Saudi Arabia
-- `local long form`: Al Mamlakah al Arabiyah as Suudiyah
-- `local short form`: Al Arabiyah as Suudiyah
-- `etymology`: named after the ruling dynasty of the country, the House of Saud; the name "Arabia" can be traced back many centuries B.C., the ancient Egyptians referred to the region as "Ar Rabi"
+- `常用長名`: Kingdom of Saudi Arabia
+- `常用短名`: Saudi Arabia
+- `當地語長名`: Al Mamlakah al Arabiyah as Suudiyah
+- `當地語短名`: Al Arabiyah as Suudiyah
+- `语源学`: named after the ruling dynasty of the country, the House of Saud; the name "Arabia" can be traced back many centuries B.C., the ancient Egyptians referred to the region as "Ar Rabi"
 
 ### 政府類型
 absolute monarchy
 
 ### 首都
-- `name`: Riyadh
-- `geographic coordinates`: 24 39 N, 46 42 E
-- `time difference`: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
-- `etymology`: the name derives from the Arabic word "riyadh," meaning "gardens," and refers to various oasis towns in the area that merged to form the city
+- `名稱`: Riyadh
+- `地理坐標`: 24 39 N, 46 42 E
+- `時差`: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
+- `语源学`: the name derives from the Arabic word "riyadh," meaning "gardens," and refers to various oasis towns in the area that merged to form the city
 
 ### 行政區劃
 13 regions (manatiq, singular - mintaqah); Al Bahah, Al Hudud ash Shamaliyah (Northern Border), Al Jawf, Al Madinah al Munawwarah (Medina), Al Qasim, Ar Riyad (Riyadh), Ash Sharqiyah (Eastern), 'Asir, Ha'il, Jazan, Makkah al Mukarramah (Mecca), Najran, Tabuk
@@ -312,36 +312,36 @@ Saudi National Day (Unification of the Kingdom), 23 September (1932)
 Islamic (sharia) legal system with some elements of Egyptian, French, and customary law; note - several secular codes have been introduced; commercial disputes handled by special committees
 
 ### 憲法
-- `history`: 1 March 1992 - Basic Law of Government, issued by royal decree, serves as the constitutional framework and is based on the Qur'an and the life and traditions of the Prophet Muhammad
-- `amendments`: proposed by the king directly or proposed to the king by the Consultative Assembly or by the Council of Ministers; passage by the king through royal decree; Basic Law amended many times, last in 2017
+- `歷史`: 1 March 1992 - Basic Law of Government, issued by royal decree, serves as the constitutional framework and is based on the Qur'an and the life and traditions of the Prophet Muhammad
+- `修正`: proposed by the king directly or proposed to the king by the Consultative Assembly or by the Council of Ministers; passage by the king through royal decree; Basic Law amended many times, last in 2017
 
 ### 國際法組織參與
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt
 
 ### 公民身份
-- `citizenship by birth`: no
-- `citizenship by descent only`: the father must be a citizen of Saudi Arabia; a child born out of wedlock in Saudi Arabia to a Saudi mother and unknown father
-- `dual citizenship recognized`: no
-- `residency requirement for naturalization`: 5 years
+- `出生公民權`: no
+- `血統公民身份`: the father must be a citizen of Saudi Arabia; a child born out of wedlock in Saudi Arabia to a Saudi mother and unknown father
+- `承認雙重國籍`: no
+- `入籍的居留要求`: 5 years
 
 ### 選舉權
 18 years of age; universal for municipal elections
 https://www.wilsoncenter.org/publication/saudi-women-go-to-the-polls-finally
 
 ### 行政部門
-- `chief of state`: King SALMAN bin Abd al-Aziz Al Saud (since 23 January 2015)
-- `head of government`: Crown Prince and Prime Minister MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud (since 27 September 2022)
-- `cabinet`: Council of Ministers appointed by the monarch every 4 years and includes many royal family members
-- `elections/appointments`: none; the monarchy is hereditary; an Allegiance Council created by royal decree in October 2006 established a committee of Saudi princes for a voice in selecting future Saudi kings
+- `國家元首`: King SALMAN bin Abd al-Aziz Al Saud (since 23 January 2015)
+- `政府首腦`: Crown Prince and Prime Minister MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud (since 27 September 2022)
+- `内閣`: Council of Ministers appointed by the monarch every 4 years and includes many royal family members
+- `選舉/任命`: none; the monarchy is hereditary; an Allegiance Council created by royal decree in October 2006 established a committee of Saudi princes for a voice in selecting future Saudi kings
 
 ### 立法部門
-- `description`: unicameral Shura Council (Majlis Ash-Shura) (150 seats plus a speaker; members appointed by the monarch to serve 4-year terms); note - in early 2013, the monarch granted women 30 seats on the Council
-- `election results`: composition - men 121, women 30, percentage women 19.9%
+- `描述`: unicameral Shura Council (Majlis Ash-Shura) (150 seats plus a speaker; members appointed by the monarch to serve 4-year terms); note - in early 2013, the monarch granted women 30 seats on the Council
+- `選舉結果`: composition - men 121, women 30, percentage women 19.9%
 
 ### 司法部門
-- `highest court(s)`: High Court (consists of the court chief and organized into circuits with 3-judge panels, except for the criminal circuit, which has a 5-judge panel for cases involving major punishments)
-- `judge selection and term of office`: High Court chief and chiefs of the High Court Circuits appointed by royal decree upon the recommendation of the Supreme Judiciary Council, a 10-member body of high-level judges and other judicial heads; new judges and assistant judges serve 1- and 2-year probations, respectively, before permanent assignment
-- `subordinate courts`: Court of Appeals; Specialized Criminal Court, first-degree courts composed of general, criminal, personal status, and commercial courts; Labor Court; a hierarchy of administrative courts
+- `最高法院`: High Court (consists of the court chief and organized into circuits with 3-judge panels, except for the criminal circuit, which has a 5-judge panel for cases involving major punishments)
+- `法官遴選和任期`: High Court chief and chiefs of the High Court Circuits appointed by royal decree upon the recommendation of the Supreme Judiciary Council, a 10-member body of high-level judges and other judicial heads; new judges and assistant judges serve 1- and 2-year probations, respectively, before permanent assignment
+- `下級法院`: Court of Appeals; Specialized Criminal Court, first-degree courts composed of general, criminal, personal status, and commercial courts; Labor Court; a hierarchy of administrative courts
 
 ### 政黨
 none
@@ -350,21 +350,21 @@ none
 ABEDA, AfDB (nonregional member), AFESD, AMF, BIS, BRICS, CAEU, CP, FAO, G-20, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OAS (observer), OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
 
 ### 駐美國的外交代表機構
-- `chief of mission`: Ambassador Reema Bint Bandar Bin Sultan AL SAUD (since 8 July 2019)
-- `chancery`: 601 New Hampshire Avenue NW, Washington, DC 20037
-- `telephone`: [1] (202) 342-3800
+- `外交代表負責人`: Ambassador Reema Bint Bandar Bin Sultan AL SAUD (since 8 July 2019)
+- `衡平法院（在美國）`: 601 New Hampshire Avenue NW, Washington, DC 20037
+- `電話號碼`: [1] (202) 342-3800
 - `FAX`: [1] (202) 295-3625
-- `email address and website`: saudisusemb@mofa.gov.sa  https://www.saudiembassy.net/
-- `consulate(s) general`: Houston, Los Angeles, New York
+- `電子郵件地址和網站`: saudisusemb@mofa.gov.sa  https://www.saudiembassy.net/
+- `總領事館`: Houston, Los Angeles, New York
 
 ### 駐該國的美國外交代表
-- `chief of mission`: Ambassador Michael RATNEY (since 27 April 2023)
-- `embassy`: Riyadh 11564
-- `mailing address`: 6300 Riyadh Place, Washington DC  20521-6300
-- `telephone`: [966] (11) 835-4000
+- `外交代表負責人`: Ambassador Michael RATNEY (since 27 April 2023)
+- `大使館`: Riyadh 11564
+- `郵寄地址`: 6300 Riyadh Place, Washington DC  20521-6300
+- `電話號碼`: [966] (11) 835-4000
 - `FAX`: [966] (11) 488-7360
-- `email address and website`: RiyadhACS@state.gov  https://sa.usembassy.gov/
-- `consulate(s) general`: Dhahran, Jeddah
+- `電子郵件地址和網站`: RiyadhACS@state.gov  https://sa.usembassy.gov/
+- `總領事館`: Dhahran, Jeddah
 
 ### 旗幟說明
 green, a traditional color in Islamic flags, with the Shahada or Muslim creed in large white Arabic script (translated as "There is no god but God; Muhammad is the Messenger of God") above a white horizontal saber (the tip points to the hoist side); design dates to the early twentieth century and is closely associated with the Al Saud family, which established the kingdom in 1932; the flag is manufactured with differing obverse and reverse sides so that the Shahada reads - and the sword points - correctly from right to left on both sides
@@ -374,8 +374,8 @@ green, a traditional color in Islamic flags, with the Shahada or Muslim creed in
 palm tree surmounting two crossed swords; national colors: green, white
 
 ### 國歌
-- `name`: "Aash Al Maleek" (Long Live Our Beloved King)
-- `lyrics/music`: Ibrahim KHAFAJI/Abdul Rahman al-KHATEEB
+- `名稱`: "Aash Al Maleek" (Long Live Our Beloved King)
+- `歌詞／音樂`: Ibrahim KHAFAJI/Abdul Rahman al-KHATEEB
 **note**:  music adopted 1947, lyrics adopted 1984
 
 ### 國家級遺產
@@ -422,18 +422,18 @@ $1.068 trillion (2023 est.)
 **note**: The year refers to the year in which the current credit rating was first obtained.
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 2.7% (2023 est.)
-- `industry`: 47% (2023 est.)
-- `services`: 44.9% (2023 est.)
+- `農業`: 2.7% (2023 est.)
+- `產業`: 47% (2023 est.)
+- `服務`: 44.9% (2023 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 40% (2023 est.)
-- `government consumption`: 23.3% (2023 est.)
-- `investment in fixed capital`: 27.9% (2023 est.)
-- `investment in inventories`: 1.4% (2023 est.)
-- `exports of goods and services`: 34.7% (2023 est.)
-- `imports of goods and services`: -27.4% (2023 est.)
+- `家庭消費`: 40% (2023 est.)
+- `政府消費`: 23.3% (2023 est.)
+- `固定資本投資`: 27.9% (2023 est.)
+- `存貨投資`: 1.4% (2023 est.)
+- `商品和服務出口`: 34.7% (2023 est.)
+- `商品和服務進口`: -27.4% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -458,14 +458,14 @@ crude oil production, petroleum refining, basic petrochemicals, ammonia, industr
 **note**: % of labor force seeking employment
 
 ### 青年失業率（15-24歲）
-- `total`: 16.3% (2023 est.)
-- `male`: 12.9% (2023 est.)
-- `female`: 24.4% (2023 est.)
+- `總計`: 16.3% (2023 est.)
+- `男性`: 12.9% (2023 est.)
+- `女性`: 24.4% (2023 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 平均家庭支出
-- `on food`: 20.4% of household expenditures (2022 est.)
-- `on alcohol and tobacco`: 0.7% of household expenditures (2022 est.)
+- `餐食`: 20.4% of household expenditures (2022 est.)
+- `酒精和煙草`: 0.7% of household expenditures (2022 est.)
 
 ### 匯款
 0.03% of GDP (2023 est.)
@@ -474,8 +474,8 @@ crude oil production, petroleum refining, basic petrochemicals, ammonia, industr
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities
 
 ### 預算
-- `revenues`: $398.023 billion (2022 est.)
-- `expenditures`: $315.007 billion (2022 est.)
+- `收入`: $398.023 billion (2022 est.)
+- `支出`: $315.007 billion (2022 est.)
 **note**: central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated
 
 ### 公共債務
@@ -536,40 +536,40 @@ $473.89 billion (2021 est.)
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 
 ### 電力
-- `installed generating capacity`: 80.11 million kW (2022 est.)
-- `consumption`: 393.213 billion kWh (2022 est.)
-- `exports`: 382.556 million kWh (2022 est.)
-- `imports`: 334.737 million kWh (2022 est.)
-- `transmission/distribution losses`: 38.658 billion kWh (2022 est.)
+- `裝機容量`: 80.11 million kW (2022 est.)
+- `消費`: 393.213 billion kWh (2022 est.)
+- `出口`: 382.556 million kWh (2022 est.)
+- `進口`: 334.737 million kWh (2022 est.)
+- `傳輸／分配損耗`: 38.658 billion kWh (2022 est.)
 
 ### 發電來源
-- `fossil fuels`: 99.7% of total installed capacity (2022 est.)
-- `solar`: 0.2% of total installed capacity (2022 est.)
-- `wind`: 0.1% of total installed capacity (2022 est.)
+- `石化燃料`: 99.7% of total installed capacity (2022 est.)
+- `太陽能`: 0.2% of total installed capacity (2022 est.)
+- `風能`: 0.1% of total installed capacity (2022 est.)
 
 ### 煤炭
-- `consumption`: 164,000 metric tons (2022 est.)
-- `exports`: 200 metric tons (2022 est.)
-- `imports`: 164,000 metric tons (2022 est.)
+- `消費`: 164,000 metric tons (2022 est.)
+- `出口`: 200 metric tons (2022 est.)
+- `進口`: 164,000 metric tons (2022 est.)
 
 ### 石油
-- `total petroleum production`: 11.113 million bbl/day (2023 est.)
-- `refined petroleum consumption`: 3.649 million bbl/day (2022 est.)
-- `crude oil estimated reserves`: 258.6 billion barrels (2021 est.)
+- `總石油產量`: 11.113 million bbl/day (2023 est.)
+- `成品油消費量`: 3.649 million bbl/day (2022 est.)
+- `原油儲備量估值`: 258.6 billion barrels (2021 est.)
 
 ### 天然氣
-- `production`: 121.87 billion cubic meters (2022 est.)
-- `consumption`: 121.87 billion cubic meters (2022 est.)
-- `proven reserves`: 9.423 trillion cubic meters (2021 est.)
+- `生產`: 121.87 billion cubic meters (2022 est.)
+- `消費`: 121.87 billion cubic meters (2022 est.)
+- `探明儲量`: 9.423 trillion cubic meters (2021 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 638.449 million metric tonnes of CO2 (2022 est.)
-- `from coal and metallurgical coke`: 437,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 398.933 million metric tonnes of CO2 (2022 est.)
-- `from consumed natural gas`: 239.078 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 638.449 million metric tonnes of CO2 (2022 est.)
+- `源於煤炭和冶金焦炭`: 437,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 398.933 million metric tonnes of CO2 (2022 est.)
+- `源於天然氣消費`: 239.078 million metric tonnes of CO2 (2022 est.)
 
 ### 人均能源消耗
 - `Total energy consumption per capita 2022`: 313.903 million Btu/person (2022 est.)
@@ -577,17 +577,17 @@ $473.89 billion (2021 est.)
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 6.773 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 19 (2022 est.)
+- `總訂閱數`: 6.773 million (2022 est.)
+- `每100名居民訂閱數`: 19 (2022 est.)
 
 ### 電話—移動電話
-- `total subscriptions`: 48.198 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 132 (2022 est.)
+- `總訂閱數`: 48.198 million (2022 est.)
+- `每100名居民訂閱數`: 132 (2022 est.)
 
 ### 電信系統
-- `general assessment`: Saudi Arabia’s telecom and ICT sectors continue to benefit from the range of programs aimed at diversifying the economy away from a dependence on oil, and establishing a wider digital transformation over the next decade; an essential element of this has been the widening reach of 5G networks, which by mid-2021 reached about half of the population and the majority of cities; the MNOs have focused investment on upgrading LTE infrastructure and further developing 5G; this in part is aimed at generating additional revenue from mobile data services, and also to their contribution to the Vision 2030 program; the ongoing pandemic has resulted in more people working and schooling from home during periods of restricted travel; this has stimulated growth in mobile data traffic, while the government has encouraged non-cash transactions and so helped develop the vast e-commerce market; while Saudi Arabia’s fixed broadband penetration remains relatively low, there has been a concentration of fiber infrastructure and the Kingdom has developed one of the fastest services in the region (2022)
-- `domestic`: fixed-line are 18 per 100 and mobile-cellular subscribership is 126 per 100 persons (2021)
-- `international`: country code - 966; landing points for the SeaMeWe-3, -4, -5, AAE-1, EIG, FALCON, FEA, IMEWE, MENA/Gulf Bridge International, SEACOM, SAS-1, -2, GBICS/MENA, and the Tata TGN-Gulf submarine cables providing connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia; microwave radio relay to Bahrain, Jordan, Kuwait, Qatar, UAE, Yemen, and Sudan; coaxial cable to Kuwait and Jordan; satellite earth stations - 5 Intelsat (3 Atlantic Ocean and 2 Indian Ocean), 1 Arabsat, and 1 Inmarsat (Indian Ocean region) (2019)
+- `總體評估`: Saudi Arabia’s telecom and ICT sectors continue to benefit from the range of programs aimed at diversifying the economy away from a dependence on oil, and establishing a wider digital transformation over the next decade; an essential element of this has been the widening reach of 5G networks, which by mid-2021 reached about half of the population and the majority of cities; the MNOs have focused investment on upgrading LTE infrastructure and further developing 5G; this in part is aimed at generating additional revenue from mobile data services, and also to their contribution to the Vision 2030 program; the ongoing pandemic has resulted in more people working and schooling from home during periods of restricted travel; this has stimulated growth in mobile data traffic, while the government has encouraged non-cash transactions and so helped develop the vast e-commerce market; while Saudi Arabia’s fixed broadband penetration remains relatively low, there has been a concentration of fiber infrastructure and the Kingdom has developed one of the fastest services in the region (2022)
+- `國內`: fixed-line are 18 per 100 and mobile-cellular subscribership is 126 per 100 persons (2021)
+- `國際的`: country code - 966; landing points for the SeaMeWe-3, -4, -5, AAE-1, EIG, FALCON, FEA, IMEWE, MENA/Gulf Bridge International, SEACOM, SAS-1, -2, GBICS/MENA, and the Tata TGN-Gulf submarine cables providing connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia; microwave radio relay to Bahrain, Jordan, Kuwait, Qatar, UAE, Yemen, and Sudan; coaxial cable to Kuwait and Jordan; satellite earth stations - 5 Intelsat (3 Atlantic Ocean and 2 Indian Ocean), 1 Arabsat, and 1 Inmarsat (Indian Ocean region) (2019)
 
 ### 廣播媒體
 broadcast media are state-controlled; state-run TV operates 4 networks; Saudi Arabia is a major market for pan-Arab satellite TV broadcasters; state-run radio operates several networks; multiple international broadcasters are available
@@ -596,12 +596,12 @@ broadcast media are state-controlled; state-run TV operates 4 networks; Saudi Ar
 .sa
 
 ### 網際網路使用者
-- `total`: 36 million (2021 est.)
-- `percent of population`: 100% (2021 est.)
+- `總計`: 36 million (2021 est.)
+- `佔人口比例`: 100% (2021 est.)
 
 ### 寬頻網路—固定訂閱
-- `total`: 7,890,261 (2020 est.)
-- `subscriptions per 100 inhabitants`: 23 (2020 est.)
+- `總計`: 7,890,261 (2020 est.)
+- `每100名居民訂閱數`: 23 (2020 est.)
 
 ### 來文—註釋
 the innovative King Abdulaziz Center for World Culture (informally known as Ithra, meaning "enrichment") opened on 1 December 2017 in Dhahran, Eastern Region; its facilities include a grand library, several museums, an archive, an Idea Lab, a theater, a cinema, and an Energy Exhibit, all which are meant to provide visitors an immersive and transformative experience
@@ -609,10 +609,10 @@ the innovative King Abdulaziz Center for World Culture (informally known as Ithr
 ## 交通運輸
 
 ### 國家空運系統
-- `number of registered air carriers`: 12 (2020)
-- `inventory of registered aircraft operated by air carriers`: 230
-- `annual passenger traffic on registered air carriers`: 39,141,660 (2018)
-- `annual freight traffic on registered air carriers`: 1,085,470,000 (2018) mt-km
+- `註冊航空公司數量`: 12 (2020)
+- `註冊飛機庫存—航空承運商經營`: 230
+- `年度客運量－註冊航空公司`: 39,141,660 (2018)
+- `年度貨運量－註冊航空公司`: 1,085,470,000 (2018) mt-km
 
 ### 註冊民用航空器國家代碼前綴
 HZ
@@ -627,26 +627,26 @@ HZ
 209 km condensate, 2,940 km gas, 1,183 km liquid petroleum gas, 5,117 km oil, 1,151 km refined products (2013)
 
 ### 鐵路
-- `total`: 5,410 km (2016)
-- `standard gauge`: 5,410 km (2016) 1.435-m gauge (with branch lines and sidings)
+- `總計`: 5,410 km (2016)
+- `標準鐵軌`: 5,410 km (2016) 1.435-m gauge (with branch lines and sidings)
 
 ### 道路
-- `total`: 221,372 km
-- `paved`: 47,529 km (includes 3,891 km of expressways)
-- `unpaved`: 173,843 km (2006)
+- `總計`: 221,372 km
+- `已鋪砌`: 47,529 km (includes 3,891 km of expressways)
+- `未鋪砌`: 173,843 km (2006)
 
 ### 商船
-- `total`: 433 (2023)
-- `by type`: bulk carrier 9, container ship 1, general cargo 20, oil tanker 55, other 348
+- `總計`: 433 (2023)
+- `依類型`: bulk carrier 9, container ship 1, general cargo 20, oil tanker 55, other 348
 
 ### 港口
-- `total ports`: 16 (2024)
-- `large`: 0
-- `medium`: 1
-- `small`: 7
-- `very small`: 8
-- `ports with oil terminals`: 10
-- `key ports`: Dammam, Duba, Jiddah, Jizan, Ju Aymah Oil Terminal, Ras Tannurah, Ras Al Khafji, Ras Al Mishab
+- `總港口數`: 16 (2024)
+- `大`: 0
+- `中`: 1
+- `小`: 7
+- `非常小`: 8
+- `原油碼頭港口`: 10
+- `主要港口`: Dammam, Duba, Jiddah, Jizan, Ju Aymah Oil Terminal, Ras Tannurah, Ras Al Khafji, Ras Al Mishab
 
 ## 軍事和安全
 
@@ -697,7 +697,7 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida; al-Qa’ida in the Arabi
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `stateless persons`: 70,000 (2022); note - thousands of biduns (stateless Arabs) are descendants of nomadic tribes who were not officially registered when national borders were established, while others migrated to Saudi Arabia in search of jobs; some have temporary identification cards that must be renewed every five years, but their rights remain restricted; most Palestinians have only legal resident status; some naturalized Yemenis were made stateless after being stripped of their passports when Yemen backed Iraq in its invasion of Kuwait in 1990; Saudi women cannot pass their citizenship on to their children, so if they marry a non-national, their children risk statelessness
+- `無國籍人士`: 70,000 (2022); note - thousands of biduns (stateless Arabs) are descendants of nomadic tribes who were not officially registered when national borders were established, while others migrated to Saudi Arabia in search of jobs; some have temporary identification cards that must be renewed every five years, but their rights remain restricted; most Palestinians have only legal resident status; some naturalized Yemenis were made stateless after being stripped of their passports when Yemen backed Iraq in its invasion of Kuwait in 1990; Saudi women cannot pass their citizenship on to their children, so if they marry a non-national, their children risk statelessness
 
 ### 非法藥物
 regularly sentences drug traffickers to the death penalty, although a moratorium on executions for drug offences has been in place since at least 2020; improving anti-money-laundering legislation and enforcement

@@ -19,23 +19,23 @@ Oceania, islands in the Coral Sea, northeast of Australia
 Oceania
 
 ### 面積
-- `total `: 3 sq km less than
-- `land`: 3 sq km less than
-- `water`: 0 sq km
+- `總計`: 3 sq km less than
+- `土地`: 3 sq km less than
+- `水`: 0 sq km
 **note**:  includes numerous small islands and reefs scattered over a sea area of about 780,000 sq km (300,000 sq mi) with the Willis Islets the most important
 
 ### 面積—比較
 about four times the size of the National Mall in Washington, DC
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 3,095 km
 
 ### 海洋主張
-- `territorial sea`: 3 nm
-- `exclusive fishing zone`: 200 nm
+- `領海`: 3 nm
+- `專屬捕魚區`: 200 nm
 
 ### 氣候
 tropical
@@ -44,15 +44,15 @@ tropical
 sand and coral reefs and islands (cays)
 
 ### 海拔
-- `highest point`: unnamed location on Cato Island 9 m
-- `lowest point`: Pacific Ocean 0 m
+- `最高點`: unnamed location on Cato Island 9 m
+- `最低點`: Pacific Ocean 0 m
 
 ### 自然資源
 fish
 
 ### 土地利用
-- `agricultural land`: 0% (2018 est.)
-- `other`: 100% (2018 est.)
+- `農地`: 0% (2018 est.)
+- `其它`: 100% (2018 est.)
 
 ### 自然災害
 occasional tropical cyclones
@@ -63,7 +63,7 @@ important nesting area for birds and turtles
 ## 人民和社會
 
 ### 人口
-- `total`: no indigenous inhabitants (2021)
+- `總計`: no indigenous inhabitants (2021)
 **note**:  a staff of four operates the meteorological station on Willis Island
 
 ## 環境
@@ -75,15 +75,15 @@ no permanent freshwater resources; damaging activities include coral mining, des
 tropical
 
 ### 土地利用
-- `agricultural land`: 0% (2018 est.)
-- `other`: 100% (2018 est.)
+- `農地`: 0% (2018 est.)
+- `其它`: 100% (2018 est.)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: Coral Sea Islands Territory
-- `conventional short form`: Coral Sea Islands
-- `etymology`: self-descriptive name to reflect the islands' position in the Coral Sea off the northeastern coast of Australia
+- `常用長名`: Coral Sea Islands Territory
+- `常用短名`: Coral Sea Islands
+- `语源学`: self-descriptive name to reflect the islands' position in the Coral Sea off the northeastern coast of Australia
 
 ### 附屬狀況
 territory of Australia; administered from Canberra by the Department of Regional Australia, Local Government, Arts and Sport
@@ -98,7 +98,7 @@ see Australia
 none (territory of Australia)
 
 ### 駐該國的美國外交代表
-- `embassy`: none (territory of Australia)
+- `大使館`: none (territory of Australia)
 
 ### 旗幟說明
 the flag of Australia is used

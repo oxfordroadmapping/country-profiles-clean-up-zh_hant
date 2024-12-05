@@ -19,23 +19,23 @@ Southern South America, islands in the South Atlantic Ocean, east of the tip of 
 Antarctic Region
 
 ### 面積
-- `total `: 3,903 sq km
-- `land`: 3,903 sq km
-- `water`: 0 sq km
+- `總計`: 3,903 sq km
+- `土地`: 3,903 sq km
+- `水`: 0 sq km
 **note**:  includes Shag Rocks, Black Rock, Clerke Rocks, South Georgia Island, Bird Island, and the South Sandwich Islands, which consist of 11 islands
 
 ### 面積—比較
 slightly larger than Rhode Island
 
 ### 陸地邊界
-- `total`: 0 km
+- `總計`: 0 km
 
 ### 海岸線
 NA
 
 ### 海洋主張
-- `territorial sea`: 12 nm
-- `exclusive fishing zone`: 200 nm
+- `領海`: 12 nm
+- `專屬捕魚區`: 200 nm
 
 ### 氣候
 variable, with mostly westerly winds throughout the year interspersed with periods of calm; nearly all precipitation falls as snow
@@ -44,14 +44,14 @@ variable, with mostly westerly winds throughout the year interspersed with perio
 most of the islands are rugged and mountainous rising steeply from the sea; South Georgia is largely barren with steep, glacier-covered mountains; the South Sandwich Islands are of volcanic origin with some active volcanoes
 
 ### 海拔
-- `highest point`: Mount Paget (South Georgia) 2,934 m
-- `lowest point`: Atlantic Ocean 0 m
+- `最高點`: Mount Paget (South Georgia) 2,934 m
+- `最低點`: Atlantic Ocean 0 m
 
 ### 自然資源
 fish
 
 ### 土地利用
-- `other`: 100% (2018 est.)
+- `其它`: 100% (2018 est.)
 
 ### 灌溉土地
 0 sq km (2022)
@@ -65,7 +65,7 @@ the north coast of South Georgia has several large bays, which provide good anch
 ## 人民和社會
 
 ### 人口
-- `total`: (July 2021 est.) no indigenous inhabitants
+- `總計`: (July 2021 est.) no indigenous inhabitants
 **note**:  the small military garrison on South Georgia withdrew in March 2001 and was replaced by a permanent group of scientists from the British Antarctic Survey, which also has a biological station on Bird Island; the South Sandwich Islands are uninhabited
 
 ## 環境
@@ -77,15 +77,15 @@ reindeer - introduced to the islands in the 20th century - devastated the native
 variable, with mostly westerly winds throughout the year interspersed with periods of calm; nearly all precipitation falls as snow
 
 ### 土地利用
-- `other`: 100% (2018 est.)
+- `其它`: 100% (2018 est.)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: South Georgia and the South Sandwich Islands
-- `conventional short form`: South Georgia and South Sandwich Islands
-- `abbreviation`: SGSSI
-- `etymology`: South Georgia was named "the Isle of Georgia" in 1775 by Captain James COOK in honor of British King GEORGE III; the explorer also discovered the Sandwich Islands Group that year, which he named "Sandwich Land" after John MONTAGU, the Earl of Sandwich and First Lord of the Admiralty; the word "South" was later added to distinguish these islands from the other Sandwich Islands, now known as the Hawaiian Islands
+- `常用長名`: South Georgia and the South Sandwich Islands
+- `常用短名`: South Georgia and South Sandwich Islands
+- `縮寫`: SGSSI
+- `语源学`: South Georgia was named "the Isle of Georgia" in 1775 by Captain James COOK in honor of British King GEORGE III; the explorer also discovered the Sandwich Islands Group that year, which he named "Sandwich Land" after John MONTAGU, the Earl of Sandwich and First Lord of the Admiralty; the word "South" was later added to distinguish these islands from the other Sandwich Islands, now known as the Hawaiian Islands
 
 ### 附屬狀況
 overseas territory of the UK, also claimed by Argentina; administered from the Falkland Islands by a commissioner, who is concurrently governor of the Falkland Islands, representing King CHARLES III
@@ -115,13 +115,13 @@ blue with the flag of the UK in the upper hoist-side quadrant and the South Geor
 1 (2024)
 
 ### 港口
-- `total ports`: 3 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 0
-- `very small`: 3
-- `ports with oil terminals`: 1
-- `key ports`: Grytviken, Prince Olav Harbor, Stromness Harbor
+- `總港口數`: 3 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 0
+- `非常小`: 3
+- `原油碼頭港口`: 1
+- `主要港口`: Grytviken, Prince Olav Harbor, Stromness Harbor
 
 ## 軍事和安全
 

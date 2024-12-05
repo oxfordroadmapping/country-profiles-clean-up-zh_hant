@@ -19,8 +19,8 @@ continent mostly south of the Antarctic Circle
 Antarctic Region
 
 ### 面積
-- `total `: 14.2 million sq km
-- `land`: 14.2 million sq km (285,000 sq km ice-free, 13.915 million sq km ice-covered) (est.)
+- `總計`: 14.2 million sq km
+- `土地`: 14.2 million sq km (285,000 sq km ice-free, 13.915 million sq km ice-covered) (est.)
 **note**:  fifth-largest continent, following Asia, Africa, North America, and South America, but larger than Australia and the subcontinent of Europe
 
 ### 面積—比較
@@ -42,16 +42,16 @@ the coldest, windiest, and driest continent on Earth; severe low temperatures va
 about 99% thick continental ice sheet and 1% barren rock, with average elevations between 2,000 and 4,000 m; mountain ranges up to nearly 5,000 m; ice-free coastal areas include parts of southern Victoria Land, Wilkes Land, the Antarctic Peninsula area, and parts of Ross Island on McMurdo Sound; glaciers form ice shelves along about half of the coastline, and floating ice shelves constitute 11% of the area of the continent
 
 ### 海拔
-- `highest point`: Vinson Massif 4,892 m
-- `lowest point`: Denman Glacier more than -3,500 m (-11,500 ft) below sea level
-- `mean elevation`: 2,300 m
+- `最高點`: Vinson Massif 4,892 m
+- `最低點`: Denman Glacier more than -3,500 m (-11,500 ft) below sea level
+- `平均海拔`: 2,300 m
 **note**:  the lowest known land point in Antarctica is hidden in the Denman Glacier; at its surface is the deepest ice yet discovered and the world's lowest elevation not under seawater
 
 ### 自然資源
 iron ore, chromium, copper, gold, nickel, platinum and other minerals, and coal and hydrocarbons have been found in small noncommercial quantities; mineral exploitation except for scientific research is banned by the Environmental Protocol to the Antarctic Treaty; krill, icefish, toothfish, and crab have been taken by commercial fisheries, which are managed through the Commission for the Conservation of Antarctic Marine Living Resources (CCAMLR)
 
 ### 土地利用
-- `agricultural land`: 0% (2018 est.)
+- `農地`: 0% (2018 est.)
 
 ### 自然災害
 katabatic (gravity-driven) winds blow coastward from the high interior; frequent blizzards form near the foot of the plateau; cyclonic storms form over the ocean and move clockwise along the coast; large icebergs may calve from ice shelf  **volcanism**:  volcanic activity on Deception Island and isolated areas of West Antarctica; other seismic activity rare and weak
@@ -73,14 +73,14 @@ the discovery of a large Antarctic ozone hole in the earth's stratosphere (the o
 the coldest, windiest, and driest continent on Earth; severe low temperatures vary with latitude, elevation, and distance from the ocean; East Antarctica is colder than West Antarctica because of its higher elevation; Antarctic Peninsula has the most moderate climate; higher temperatures occur in January along the coast and average slightly below freezing; summers characterized by continuous daylight, while winters bring continuous darkness; persistent high pressure over the interior brings dry, subsiding air that results in very little cloud cover
 
 ### 土地利用
-- `agricultural land`: 0% (2018 est.)
+- `農地`: 0% (2018 est.)
 
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Antarctica
-- `etymology`: name derived from two Greek words meaning "opposite to the Arctic" or "opposite to the north"
+- `常用長名`: none
+- `常用短名`: Antarctica
+- `语源学`: name derived from two Greek words meaning "opposite to the Arctic" or "opposite to the north"
 
 ### 政府類型
 Antarctic Treaty Summary - the Antarctic region is governed by a system known as the Antarctic Treaty system; the system includes: 1. the Antarctic Treaty, signed on 1 December 1959 and entered into force on 23 June 1961, which establishes the legal framework for the management of Antarctica, 2. Measures, Decisions, and Resolutions adopted at Antarctic Treaty Consultative Meetings, 3. The Convention for the Conservation of Antarctic Seals (1972), 4. The Convention on the Conservation of Antarctic Marine Living Resources (1980), and 5. The Protocol on Environmental Protection to the Antarctic Treaty (1991); the Antarctic Treaty Consultative Meetings operate by consensus (not by vote) of all consultative parties at annual Treaty meetings; by January 2024, there were 56 treaty member nations: 29 consultative and 27 non-consultative; consultative (decision-making) members include the seven nations that claim portions of Antarctica as national territory (some claims overlap) and 22 non-claimant nations; the US and Russia have reserved the right to make claims; the US does not recognize the claims of others; Antarctica is administered through meetings of the consultative member nations; measures adopted at these meetings are carried out by these member nations (with respect to their own nationals and operations) in accordance with their own national laws; the years in parentheses indicate when a consultative member-nation acceded to the Treaty and when it was accepted as a consultative member, while no date indicates the country was an original 1959 treaty signatory; claimant nations are - Argentina, Australia, Chile, France, NZ, Norway, and the UK; nonclaimant consultative nations are - Belgium, Brazil (1975/1983), Bulgaria (1978/1998), China (1983/1985), Czechia (1962/2014), Ecuador (1987/1990), Finland (1984/1989), Germany (1979/1981), India (1983/1983), Italy (1981/1987), Japan, South Korea (1986/1989), Netherlands (1967/1990), Peru (1981/1989), Poland (1961/1977), Russia, South Africa, Spain (1982/1988), Sweden (1984/1988), Ukraine (1992/2004), Uruguay (1980/1985), and the US; non-consultative members, with year of accession in parentheses, are - Austria (1987), Belarus (2006), Canada (1988), Colombia (1989), Costa Rica (2022) Cuba (1984), Denmark (1965), Estonia (2001), Greece (1987), Guatemala (1991), Hungary (1984), Iceland (2015), Kazakhstan (2015), North Korea (1987), Malaysia (2011), Monaco (2008), Mongolia (2015), Pakistan (2012), Papua New Guinea (1981), Portugal (2010), Romania (1971), San Marino (2023), Slovakia (1962/1993), Slovenia (2019), Switzerland (1990), Turkey (1996), and Venezuela (1999); note - Czechoslovakia acceded to the Treaty in 1962 and separated into the Czech Republic and Slovakia in 1993; Article 1 - area to be used for peaceful purposes only; military activity, such as weapons testing, is prohibited, but military personnel and equipment may be used for scientific research or any other peaceful purpose; Article 2 - freedom of scientific investigation and cooperation shall continue; Article 3 - free exchange of information and personnel, cooperation with the UN and other international agencies; Article 4 - does not recognize, dispute, or establish territorial claims and no new claims shall be asserted while the treaty is in force; Article 5 - prohibits nuclear explosions or disposal of radioactive wastes; Article 6 - includes under the treaty all land and ice shelves south of 60 degrees 00 minutes south and reserves high seas rights; Article 7 - treaty-state observers have free access, including aerial observation, to any area and may inspect all stations, installations, and equipment; advance notice of all expeditions and of the introduction of military personnel must be given; Article 8 - allows for jurisdiction over observers and scientists by their own states; Article 9 - frequent consultative meetings take place among member nations; Article 10 - treaty states will discourage activities by any country in Antarctica that are contrary to the treaty; Article 11 - disputes to be settled peacefully by the parties concerned or, ultimately, by the International Court of Justice; Articles 12, 13, 14 - deal with upholding, interpreting, and amending the treaty among involved nations; other agreements - some 200 measures adopted at treaty consultative meetings and approved by governments; the Protocol on Environmental Protection to the Antarctic Treaty was signed 4 October 1991 and entered into force 14 January 1998; this agreement provides for the protection of the Antarctic environment and includes five annexes that have entered into force: 1) environmental impact assessment, 2) conservation of Antarctic fauna and flora, 3) waste disposal and waste management, 4) prevention of marine pollution, 5) area protection and management; a sixth annex addressing liability arising from environmental emergencies has yet to enter into force; the Protocol prohibits all activities relating to mineral resources except scientific research; a permanent Antarctic Treaty Secretariat was established in 2004 in Buenos Aires, Argentina
@@ -96,25 +96,25 @@ unofficial; a True South flag, created in 2018, has quickly become popular for i
 ## 能源
 
 ### 石油
-- `refined petroleum consumption`: 79.9 bbl/day (2022 est.)
+- `成品油消費量`: 79.9 bbl/day (2022 est.)
 
 ### 二氧化碳排放量
-- `total emissions`: 12,000 metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 12,000 metric tonnes of CO2 (2022 est.)
+- `總排放量`: 12,000 metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 12,000 metric tonnes of CO2 (2022 est.)
 
 ## 通訊
 
 ### 電信系統
-- `general assessment`: general assessment: scientists with the United States Antarctic Program at McMurdo Station have a designated Starlink terminal, which has improved connectivity to carry out research; this was made possible through laser links between the SpaceX satellites in orbit that eliminate the need for ground stations at the poles, and makes Antarctica the seventh and final continent to receive Starlink internet coverage (2022) (2022)
-- `domestic`: commercial cellular networks operating in a small number of locations (2019)
-- `international`: country code - none allocated; via satellite (including mobile Inmarsat and Iridium systems) to and from all research stations, ships, aircraft, and most field parties
+- `總體評估`: general assessment: scientists with the United States Antarctic Program at McMurdo Station have a designated Starlink terminal, which has improved connectivity to carry out research; this was made possible through laser links between the SpaceX satellites in orbit that eliminate the need for ground stations at the poles, and makes Antarctica the seventh and final continent to receive Starlink internet coverage (2022) (2022)
+- `國內`: commercial cellular networks operating in a small number of locations (2019)
+- `國際的`: country code - none allocated; via satellite (including mobile Inmarsat and Iridium systems) to and from all research stations, ships, aircraft, and most field parties
 
 ### 網際網路國家代碼
 .aq
 
 ### 網際網路使用者
-- `total`: 4,400 (2021 est.)
-- `percent of population`: 100% (2021 est.)
+- `總計`: 4,400 (2021 est.)
+- `佔人口比例`: 100% (2021 est.)
 
 ## 交通運輸
 
@@ -125,13 +125,13 @@ unofficial; a True South flag, created in 2018, has quickly become popular for i
 5 (2024)
 
 ### 港口
-- `total ports`: 8 (2024)
-- `large`: 0
-- `medium`: 0
-- `small`: 1
-- `very small`: 7
-- `ports with oil terminals`: 0
-- `key ports`: Admiralty Bay, Andersen Harbor, Ellefsen Harbor, McMurdo Station, Melchior Harbor, Port Foster, Port Lockroy, Scotia Bay
+- `總港口數`: 8 (2024)
+- `大`: 0
+- `中`: 0
+- `小`: 1
+- `非常小`: 7
+- `原油碼頭港口`: 0
+- `主要港口`: Admiralty Bay, Andersen Harbor, Ellefsen Harbor, McMurdo Station, Melchior Harbor, Port Foster, Port Lockroy, Scotia Bay
 
 ### 運輸—註釋
 US coastal stations include McMurdo (77 51 S, 166 40 E) and Palmer (64 43 S, 64 03 W); government use only; all ships are subject to inspection in accordance with Article 7 of the Antarctic Treaty; ships must comply with relevant legal instruments and authorization procedures under the Antarctic Treaty (see "Legal System"); The Hydrographic Commission on Antarctica (HCA), a commission of the International Hydrographic Organization (IHO), coordinates and facilitates provision of accurate and appropriate charts and other aids to navigation; membership in HCA is open to any IHO Member State whose government has acceded to the Antarctic Treaty and which contributes resources or data to IHO Chart coverage of the area

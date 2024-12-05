@@ -19,16 +19,16 @@ Middle East, bordering the Mediterranean Sea, between Egypt and Israel
 Middle East
 
 ### 面積
-- `total `: 360 sq km
-- `land`: 360 sq km
-- `water`: 0 sq km
+- `總計`: 360 sq km
+- `土地`: 360 sq km
+- `水`: 0 sq km
 
 ### 面積—比較
 slightly more than twice the size of Washington, DC
 
 ### 陸地邊界
-- `total`: 72 km
-- `border countries`: Egypt 13 km; Israel 59 km
+- `總計`: 72 km
+- `邊境國家`: Egypt 13 km; Israel 59 km
 
 ### 海岸線
 40 km
@@ -43,8 +43,8 @@ temperate, mild winters, dry and warm to hot summers
 flat to rolling, sand- and dune-covered coastal plain
 
 ### 海拔
-- `highest point`: Abu 'Awdah (Joz Abu 'Awdah) 105 m
-- `lowest point`: Mediterranean Sea 0 m
+- `最高點`: Abu 'Awdah (Joz Abu 'Awdah) 105 m
+- `最低點`: Mediterranean Sea 0 m
 
 ### 自然資源
 arable land, natural gas
@@ -64,41 +64,41 @@ once a strategic strip of land along Mideast-North African trade routes that has
 ## 人民和社會
 
 ### 人口
-- `total`: 2,141,643
-- `male`: 1,086,340
-- `female`: 1,055,303 (2024 est.)
+- `總計`: 2,141,643
+- `男性`: 1,086,340
+- `女性`: 1,055,303 (2024 est.)
 
 ### 國籍
-- `noun`: NA
-- `adjective`: NA
+- `名詞`: NA
+- `形容詞`: NA
 
 ### 族裔群體
 Palestinian Arab
 
 ### 語文
 Arabic, Hebrew (spoken by many Palestinians), English (widely understood)
-- `major-language sample(s)`: كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)  The World Factbook, the indispensable source for basic information.
+- `主要語言樣本`: كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)  The World Factbook, the indispensable source for basic information.
 
 ### 宗教
 Muslim 98.0 - 99.0% (predominantly Sunni), Christian <1.0%, other, unaffiliated, unspecified <1.0% (2012 est.)
 **note**:   Israel dismantled its settlements in September 2005; Gaza has had no Jewish population since then
 
 ### 年齡結構
-- `0-14 years`: 38.8% (male 427,450/female 404,288)
-- `15-64 years`: 58.3% (male 627,235/female 620,903)
-- `65 years and over`: 2.9% (2024 est.) (male 31,655/female 30,112)
+- `0-14歲`: 38.8% (male 427,450/female 404,288)
+- `15-64歲`: 58.3% (male 627,235/female 620,903)
+- `65歲及以上`: 2.9% (2024 est.) (male 31,655/female 30,112)
 
 ### 撫養比率
-- `total dependency ratio`: 74.3
-- `youth dependency ratio`: 68.2
-- `elderly dependency ratio`: 6.1
-- `potential support ratio`: 16.5 (2021 est.)
+- `總受扶養人比率`: 74.3
+- `少年撫養比率`: 68.2
+- `老人撫養比率`: 6.1
+- `潛在支持率`: 16.5 (2021 est.)
 **note**:  data represent Gaza Strip and the West Bank
 
 ### 年齡中位數
-- `total`: 19.5 years (2024 est.)
-- `male`: 19.3 years
-- `female`: 19.8 years
+- `總計`: 19.5 years (2024 est.)
+- `男性`: 19.3 years
+- `女性`: 19.8 years
 
 ### 人口成長率
 2.02% (2024 est.)
@@ -116,33 +116,33 @@ Muslim 98.0 - 99.0% (predominantly Sunni), Christian <1.0%, other, unaffiliated,
 population concentrated in major cities, particularly Gaza City in the north
 
 ### 都市化
-- `urban population`: 77.6% of total population (2023)
-- `rate of urbanization`: 2.85% annual rate of change (2020-25 est.)
+- `城市人口`: 77.6% of total population (2023)
+- `城鎮化率`: 2.85% annual rate of change (2020-25 est.)
 **note**:  data represent Gaza Strip and the West Bank
 
 ### 主要城市地區—人口
 778,000 Gaza (2023)
 
 ### 性別比例
-- `at birth`: 1.06 male(s)/female
-- `0-14 years`: 1.06 male(s)/female
-- `15-64 years`: 1.01 male(s)/female
-- `65 years and over`: 1.05 male(s)/female
-- `total population`: 1.03 male(s)/female (2024 est.)
+- `出生時`: 1.06 male(s)/female
+- `0-14歲`: 1.06 male(s)/female
+- `15-64歲`: 1.01 male(s)/female
+- `65歲及以上`: 1.05 male(s)/female
+- `總人口數`: 1.03 male(s)/female (2024 est.)
 
 ### 產婦死亡率
 20 deaths/100,000 live births (2020 est.)
 **note**:  data represent Gaza Strip and the West Bank
 
 ### 嬰兒死亡率
-- `total`: 15.1 deaths/1,000 live births (2024 est.)
-- `male`: 16.3 deaths/1,000 live births
-- `female`: 13.8 deaths/1,000 live births
+- `總計`: 15.1 deaths/1,000 live births (2024 est.)
+- `男性`: 16.3 deaths/1,000 live births
+- `女性`: 13.8 deaths/1,000 live births
 
 ### 出生時預期壽命
-- `total population`: 75.5 years (2024 est.)
-- `male`: 73.7 years
-- `female`: 77.4 years
+- `總人口數`: 75.5 years (2024 est.)
+- `男性`: 73.7 years
+- `女性`: 77.4 years
 
 ### 總生育率
 3.26 children born/woman (2024 est.)
@@ -155,12 +155,12 @@ population concentrated in major cities, particularly Gaza City in the north
 **note**:   includes Gaza Strip and West Bank
 
 ### 飲用水來源
-- `improved: urban`: urban: 98.9% of population
-- `improved: rural`: rural: 99% of population
-- `improved: total`: total: 98.9% of population
-- `unimproved: urban`: urban: 1.1% of population
-- `unimproved: rural`: rural: 1% of population
-- `unimproved: total`: total: 1.1% of population (2020 est.)
+- `已改進－城市`: urban: 98.9% of population
+- `已改進－農村`: rural: 99% of population
+- `已改進－總計`: total: 98.9% of population
+- `未改進：都市`: urban: 1.1% of population
+- `未改進：鄉村`: rural: 1% of population
+- `未改善：總計`: total: 1.1% of population (2020 est.)
 **note**:  includes Gaza Strip and the West Bank
 
 ### 當前醫療支出
@@ -173,12 +173,12 @@ NA
 1.3 beds/1,000 population (2019)
 
 ### 衛生設施普及程度
-- `improved: urban`: urban: 99.9% of population
-- `improved: rural`: rural: 98.6% of population
-- `improved: total`: total: 99.6% of population
-- `unimproved: urban`: urban: 0.1% of population
-- `unimproved: rural`: rural: 1.4% of population
-- `unimproved: total`: total: 0.4% of population (2020 est.)
+- `已改進－城市`: urban: 99.9% of population
+- `已改進－農村`: rural: 98.6% of population
+- `已改進－總計`: total: 99.6% of population
+- `未改進：都市`: urban: 0.1% of population
+- `未改進：鄉村`: rural: 1.4% of population
+- `未改善：總計`: total: 0.4% of population (2020 est.)
 **note**:  note includes Gaza Strip and the West Bank
 
 ### 5歲以下體重不足兒童
@@ -190,8 +190,8 @@ NA
 **note**:  data includes Gaza and the West Bank
 
 ### 童婚
-- `women married by age 15`: 0.7%
-- `women married by age 18`: 13.4% (2020 est.)
+- `15歲前結婚的女性`: 0.7%
+- `18歲前結婚的女性`: 13.4% (2020 est.)
 **note**:  includes both the Gaza Strip and the West Bank
 
 ### 教育支出
@@ -199,16 +199,16 @@ NA
 **note**:  includes Gaza Strip and the West Bank
 
 ### 識字程度
-- `definition`: age 15 and over can read and write
-- `total population`: 97.5%
-- `male`: 98.8%
-- `female`: 96.2% (2020)
+- `定義`: age 15 and over can read and write
+- `總人口數`: 97.5%
+- `男性`: 98.8%
+- `女性`: 96.2% (2020)
 **note**:  estimates are for Gaza Strip and the West Bank
 
 ### 預期受教育年數（小學至高等教育）
-- `total`: 13 years
-- `male`: 12 years
-- `female`: 14 years (2021)
+- `總計`: 13 years
+- `男性`: 12 years
+- `女性`: 14 years (2021)
 **note**:  data represent Gaza Strip and the West Bank
 
 ## 環境
@@ -220,28 +220,28 @@ soil degradation; desertification; water pollution from chemicals and pesticides
 temperate, mild winters, dry and warm to hot summers
 
 ### 都市化
-- `urban population`: 77.6% of total population (2023)
-- `rate of urbanization`: 2.85% annual rate of change (2020-25 est.)
+- `城市人口`: 77.6% of total population (2023)
+- `城鎮化率`: 2.85% annual rate of change (2020-25 est.)
 **note**:  data represent Gaza Strip and the West Bank
 
 ### 森林資源收入
 0% of GDP (2018 est.)
 
 ### 空氣污染物
-- `particulate matter emissions`: 30.82 micrograms per cubic meter (2019 est.)
-- `carbon dioxide emissions`: 3.23 megatons (2016 est.)
+- `顆粒物排放量`: 30.82 micrograms per cubic meter (2019 est.)
+- `二氧化碳排放量`: 3.23 megatons (2016 est.)
 **note**:  data represent combined total from the Gaza Strip and the West Bank.
 
 ### 廢物與回收
-- `municipal solid waste generated annually`: 1.387 million tons (2016 est.)
-- `municipal solid waste recycled annually`: 6,935 tons (2013 est.)
-- `percent of municipal solid waste recycled`: 0.5% (2013 est.)
+- `城市固體廢棄物－每年產生`: 1.387 million tons (2016 est.)
+- `城市固體廢棄物－每年回收`: 6,935 tons (2013 est.)
+- `城市固體廢棄物－回收百分比`: 0.5% (2013 est.)
 **note**:  data represent combined total from the Gaza Strip and the West Bank.
 
 ### 總取水量
-- `municipal`: 181.2 million cubic meters (2017 est.)
-- `industrial`: 32 million cubic meters (2017 est.)
-- `agricultural`: 162 million cubic meters (2017 est.)
+- `市級`: 181.2 million cubic meters (2017 est.)
+- `工業`: 32 million cubic meters (2017 est.)
+- `農業`: 162 million cubic meters (2017 est.)
 **note**:  data represent combined total from the Gaza Strip and the West Bank.
 
 ### 可再生水資源總量
@@ -251,11 +251,11 @@ temperate, mild winters, dry and warm to hot summers
 ## 政府
 
 ### 國家名稱
-- `conventional long form`: none
-- `conventional short form`: Gaza, Gaza Strip
-- `local long form`: none
-- `local short form`: Qita' Ghazzah
-- `etymology`: named for the largest city in the enclave, Gaza, whose settlement can be traced back to at least the 15th century B.C. (as "Ghazzat")
+- `常用長名`: none
+- `常用短名`: Gaza, Gaza Strip
+- `當地語長名`: none
+- `當地語短名`: Qita' Ghazzah
+- `语源学`: named for the largest city in the enclave, Gaza, whose settlement can be traced back to at least the 15th century B.C. (as "Ghazzat")
 
 ## 經濟
 
@@ -288,18 +288,18 @@ $17.396 billion (2023 est.)
 **note**: annual % change based on consumer prices; entry includes West Bank and Gaza Strip
 
 ### GDP—構成，按原產出部門
-- `agriculture`: 5.7% (2022 est.)
-- `industry`: 17.4% (2022 est.)
-- `services`: 58.3% (2022 est.)
+- `農業`: 5.7% (2022 est.)
+- `產業`: 17.4% (2022 est.)
+- `服務`: 58.3% (2022 est.)
 **note**: figures may not total 100% due to non-allocated consumption not captured in sector-reported data
 
 ### GDP—構成，按最終使用部門
-- `household consumption`: 101.6% (2023 est.)
-- `government consumption`: 20.2% (2023 est.)
-- `investment in fixed capital`: 24.8% (2023 est.)
-- `investment in inventories`: 1.5% (2023 est.)
-- `exports of goods and services`: 19.6% (2023 est.)
-- `imports of goods and services`: -66.9% (2023 est.)
+- `家庭消費`: 101.6% (2023 est.)
+- `政府消費`: 20.2% (2023 est.)
+- `固定資本投資`: 24.8% (2023 est.)
+- `存貨投資`: 1.5% (2023 est.)
+- `商品和服務出口`: 19.6% (2023 est.)
+- `商品和服務進口`: -66.9% (2023 est.)
 **note**: figures may not total 100% due to rounding or gaps in data collection
 
 ### 農產品
@@ -324,9 +324,9 @@ textiles, food processing, furniture
 **note**: % of labor force seeking employment; entry includes West Bank and Gaza Strip
 
 ### 青年失業率（15-24歲）
-- `total`: 36% (2022 est.)
-- `male`: 31.6% (2022 est.)
-- `female`: 56.7% (2022 est.)
+- `總計`: 36% (2022 est.)
+- `男性`: 31.6% (2022 est.)
+- `女性`: 56.7% (2022 est.)
 **note**: % of labor force ages 15-24 seeking employment
 
 ### 貧窮線以下的人口
@@ -338,8 +338,8 @@ textiles, food processing, furniture
 **note**: index (0-100) of income distribution; higher values represent greater inequality; entry includes West Bank and Gaza Strip
 
 ### 家庭所得或消費所佔百分比
-- `lowest 10%`: 2.9% (2016 est.)
-- `highest 10%`: 25.2% (2016 est.)
+- `最低10%`: 2.9% (2016 est.)
+- `最高10%`: 25.2% (2016 est.)
 **note**: % share of income accruing to lowest and highest 10% of population; entry includes West Bank and Gaza Strip
 
 ### 匯款
@@ -349,8 +349,8 @@ textiles, food processing, furniture
 **note**: personal transfers and compensation between resident and non-resident individuals/households/entities; entry includes West Bank and Gaza Strip
 
 ### 預算
-- `revenues`: $3.803 billion (2020 est.)
-- `expenditures`: $5.002 billion (2020 est.)
+- `收入`: $3.803 billion (2020 est.)
+- `支出`: $5.002 billion (2020 est.)
 see entry for the West Bank
 
 ### 稅收和其他收入
@@ -403,32 +403,32 @@ see entry for the West Bank
 ## 能源
 
 ### 供電普及程度
-- `electrification - total population`: 100% (2022 est.)
+- `電氣化－總人口`: 100% (2022 est.)
 **note**:  includes the West Bank and the Gaza Strip
 
 ### 電力
-- `installed generating capacity`: 352,000 kW (2022 est.)
-- `consumption`: 6.746 billion kWh (2022 est.)
-- `imports`: 6.7 billion kWh (2022 est.)
-- `transmission/distribution losses`: 880.312 million kWh (2022 est.)
+- `裝機容量`: 352,000 kW (2022 est.)
+- `消費`: 6.746 billion kWh (2022 est.)
+- `進口`: 6.7 billion kWh (2022 est.)
+- `傳輸／分配損耗`: 880.312 million kWh (2022 est.)
 **note**:  includes the West Bank and the Gaza Strip
 
 ### 發電來源
-- `fossil fuels`: 77.5% of total installed capacity (2022 est.)
-- `solar`: 22.4% of total installed capacity (2022 est.)
+- `石化燃料`: 77.5% of total installed capacity (2022 est.)
+- `太陽能`: 22.4% of total installed capacity (2022 est.)
 **note**:  includes the West Bank and the Gaza Strip
 
 ### 煤炭
-- `exports`: (2022 est.) less than 1 metric ton
+- `出口`: (2022 est.) less than 1 metric ton
 **note**:  includes the West Bank and the Gaza Strip
 
 ### 石油
-- `refined petroleum consumption`: 29,000 bbl/day (2022 est.)
+- `成品油消費量`: 29,000 bbl/day (2022 est.)
 **note**:  includes the West Bank and the Gaza Strip
 
 ### 二氧化碳排放量
-- `total emissions`: 3.942 million metric tonnes of CO2 (2022 est.)
-- `from petroleum and other liquids`: 3.942 million metric tonnes of CO2 (2022 est.)
+- `總排放量`: 3.942 million metric tonnes of CO2 (2022 est.)
+- `來自石油和其他液體`: 3.942 million metric tonnes of CO2 (2022 est.)
 **note**:  includes the West Bank and the Gaza Strip
 
 ### 人均能源消耗
@@ -438,19 +438,19 @@ see entry for the West Bank
 ## 通訊
 
 ### 電話—固定線路
-- `total subscriptions`: 458,000 (2022 est.)
-- `subscriptions per 100 inhabitants`: 9 (2021 est.)
+- `總訂閱數`: 458,000 (2022 est.)
+- `每100名居民訂閱數`: 9 (2021 est.)
 **note**: entry includes the West Bank and the Gaza Strip
 
 ### 電話—移動電話
-- `total subscriptions`: 4.388 million (2022 est.)
-- `subscriptions per 100 inhabitants`: 78 (2021 est.)
+- `總訂閱數`: 4.388 million (2022 est.)
+- `每100名居民訂閱數`: 78 (2021 est.)
 **note**: entry includes the West Bank and the Gaza Strip
 
 ### 電信系統
-- `general assessment`: Israel, which controls Palestinian frequencies and telecom infrastructure, limits mobile internet speeds in the Palestinian territories to levels that are significantly lower than in Israel and Jewish West Bank settlements; the World Bank urged Israel to let Palestinian cellular companies set up more advanced networks, and to ease restrictions on the import of equipment needed to build and operate them; Israel is rolling out fifth generation technology for its citizens, while the West Bank operates on 3G and Gaza, 2G; Israeli mobile operators don’t officially service Palestinian areas, but many Palestinians use the faster Israeli networks with SIM cards; the Times of Israel reported in November that Israel tentatively agreed to let Palestinian operators launch 4G services (2022)
-- `domestic`: fixed-line 9 per 100 and mobile-cellular 28 per 100 (includes West Bank) (2021)
-- `international`: country code 970 or 972 (2018)
+- `總體評估`: Israel, which controls Palestinian frequencies and telecom infrastructure, limits mobile internet speeds in the Palestinian territories to levels that are significantly lower than in Israel and Jewish West Bank settlements; the World Bank urged Israel to let Palestinian cellular companies set up more advanced networks, and to ease restrictions on the import of equipment needed to build and operate them; Israel is rolling out fifth generation technology for its citizens, while the West Bank operates on 3G and Gaza, 2G; Israeli mobile operators don’t officially service Palestinian areas, but many Palestinians use the faster Israeli networks with SIM cards; the Times of Israel reported in November that Israel tentatively agreed to let Palestinian operators launch 4G services (2022)
+- `國內`: fixed-line 9 per 100 and mobile-cellular 28 per 100 (includes West Bank) (2021)
+- `國際的`: country code 970 or 972 (2018)
 
 ### 廣播媒體
 1 TV station and about 10 radio stations; satellite TV accessible
@@ -459,13 +459,13 @@ see entry for the West Bank
 .ps; **note**:  IANA has designated .ps for the Gaza Strip, same as the West Bank
 
 ### 網際網路使用者
-- `total`: 3,602,452 (2020 est.)
-- `percent of population`: 75% (2020 est.)
+- `總計`: 3,602,452 (2020 est.)
+- `佔人口比例`: 75% (2020 est.)
 **note**:  includes the West Bank
 
 ### 寬頻網路—固定訂閱
-- `total`: 376,911 (2020 est.)
-- `subscriptions per 100 inhabitants`: 7 (2020 est.)
+- `總計`: 376,911 (2020 est.)
+- `每100名居民訂閱數`: 7 (2020 est.)
 **note**:  includes the West Bank
 
 ## 交通運輸
@@ -499,6 +499,6 @@ Army of Islam; Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; HAMAS; Islamic 
 ## 跨國議題
 
 ### 難民和境內流離失所者
-- `refugees (country of origin)`: 1.6 million (Palestinian refugees) (2022)
+- `難民（原籍國）`: 1.6 million (Palestinian refugees) (2022)
 - `IDPs`: 1.7 million or approximately 75% of the population (as of 26 January 2024, since HAMAS's attack on Israel on 7 October 2023)  1.6 million (includes persons displaced within the Gaza Strip due to the intensification of the Israeli-Palestinian conflict between June 2014 and 7 October 2023 and other Palestinian IDPs in the Gaza Strip and West Bank who fled as long ago as 1967, although confirmed cumulative data do not go back beyond 2006) (2022)
 
